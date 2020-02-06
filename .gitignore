@@ -1,0 +1,11 @@
+**/.DS_Store
+.classpath
+.project
+.settings
+.gradle
+
+# don't commit the autobuilt version file
+src/main/resources/version.txt
+
+# VS Code launch settings
+.vscode
