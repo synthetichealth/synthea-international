@@ -1,0 +1,25 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+1,010001,Aurora Hospital,Nordenskiöldinkatu 20,Helsinki,18,00250,Helsinki,+358931065605,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.192440,24.928110
+2,010002,Department of Oncology,Paciuksenkatu 3,Helsinki,18,00330,Helsinki,+358947173197,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.190180,24.902180
+3,010003,Eye and Ear Hospital,Haartmaninkatu 4C-4E,Helsinki,18,00290,Helsinki,+35894711,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.189160,24.909080
+4,010004,Haartman hospital,Haartmaninkatu 4,Helsinki,18,00290,Helsinki,+35894711,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,Yes,,60.189159,24.909081
+5,010005,Herttoniemi Hospital,Kettutie 8,Helsinki,18,00800,Helsinki,+358947178247,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.471520,22.693710
+6,010006,Laakso Hospital,Lääkärinkatu 8,Helsinki,18,00250,Helsinki,+35893104701,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.471520,22.693710
+7,010007,Malmi Hospital,Talvelantie 6,Helsinki,18,00700,Helsinki,+35894711,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.471520,22.693710
+8,010008,Meilahti Tower Hospital,Haartmaninkatu 4,Helsinki,18,00290,Helsinki,+358947172432,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,,Yes,60.471520,22.693710
+9,010009,Meilahti Triangle Hospital,Haartmaninkatu 4,18,00290,Helsinki,+35894711,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.471520,22.693710
+10,010010,New Children's Hospital,Stenbäckinkatu 9,Helsinki,18,00290,Helsinki,+35894711,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.18715,24.91061
+11,010011,Psychiatrycenter,Välskärinkatu 12,Helsinki,18,00260,Helsinki,+35894711,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.17998,24.91999	
+12,010012,Skin and Allergy Hospital,Meilahdentie 2,Helsinki,18,00250,Helsinki,+358947186355,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.19263,24.89436
+13,010013,Surgical Hospital,Kasarmikatu 11-13,Helsinki,18,00130,Helsinki,+358947188310,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.16102,24.94834
+14,010014,Töölö Hospital,Topeliuksenkatu 5,Helsinki,18,00260,Helsinki,+35894711,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.18152,24.92049
+15,010015,Women's Hospital,Haartmaninkatu 2,Helsinki,18,00290,Helsinki,+35894711,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.18876,24.90976
+16,010016,Jorvi Hospital,Turuntie 150,Espoo,18,02740,Espoo,+35894711,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,Yes,,60.22589,24.77581
+17,010017,Espoo Hospital,Karvasmäentie 6,Espoo,18,02740,Espoo,+35894711,Public,Espoon Kaupunki,Yes,,60.22011,24.6848
+18,010018,Peijas Hospital,Sairaalakatu 1,Vantaa,18,01400,Vantaa,+358947167371,Public,Helsinki University Hospital,Yes,,60.3299,25.0608
+19,010019,Hyvinkää Hospital,Sairaalankatu 1,Hyvinkää,18,05830,Hyvinkää,+3581945871,Public,Hyvinkää Kaupunki,Yes,,60.612,24.82486
+20,010020,Kellokoski Hospital,Ohkolantie 10,Kellokoski,18,04500,Kellokoski,+35894711,Public,Espoon Kaupunki,Yes,,60.53054,25.10548
+21,010021,Lohja Hospital,Sairaalatie 8,Lohja,18,08200,Lohja,+3581938011,Public,Lohja Kaupunki,Yes,,60.2247,24.01885
+22,010022,Raasepori Hospital,Itäinen Rantakatu 9,Tammisaari,18,10600,Tammisaari,+358192241,Public,Raasepori Kaupunki,Yes,,61.14787,22.73317
+23,010023,Porvoo Hospital,Sairaalantie 1,Porvoo,18,06200,Porvoo,+3581954821,Public,Porvoon Kaupunki,Yes,,60.37911,25.69576
+24,010024,Oulu University Hospital,Kajaanintie 50,Oulu,18,90220,Oulu,+35883152655,Public,Oulu Kaupunki,Yes,,65.00854,25.5285	
