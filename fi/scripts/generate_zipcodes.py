@@ -17,7 +17,7 @@ geodf = geodf.drop(['Postal code area'], axis=1)
 geodf['city'], geodf['muni'] = geodf['city_muni'].str.split(' \(', 1).str
 geodf['muni'] = geodf['muni'].str.replace(')', '')
 geodf = geodf.drop(['city_muni'], axis=1)
-geodf = geodf['zipcode'].astype(str)
+geodf['zipcode'] = geodf['zipcode'].astype(str)
 print(len(geodf))
 
 # convert meters to lat lon
