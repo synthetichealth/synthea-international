@@ -8,9 +8,8 @@ df = df.rename(columns={'Inhabitants, total, 2018 (HE)': 'poptotal'})  # make sh
 # load the posti key file so we can match municipality with region
 keydf = pd.read_csv('../data/alueryhmittely_posnro_2020_en.csv', dtype=object)
 keydf = keydf.rename(columns={'Name of the municipality': 'NAME'})
-# get rid of columns we are not using
+# get rid of columns we are not using and drop duplicates
 keydf = keydf[['Name of the region','NAME']]
-# drop duplicates
 keydf = keydf.drop_duplicates(subset=['Name of the region','NAME'])
 
 # create new dataframe columns with the data in synthea demographics format
