@@ -1,0 +1,3027 @@
+"Postal code area","X coordinate in metres","Y coordinate in metres"
+"00100  Helsinki Keskusta - Etu-Töölö (Helsinki)",384979,6672361
+"00120  Punavuori (Helsinki)",385531,6671434
+"00130  Kaartinkaupunki (Helsinki)",386244,6671474
+"00140  Kaivopuisto - Ullanlinna (Helsinki)",386394,6670766
+"00150  Eira - Hernesaari (Helsinki)",385320,6670373
+"00160  Katajanokka (Helsinki)",387315,6671672
+"00170  Kruununhaka (Helsinki)",386384,6672361
+"00180  Kamppi - Ruoholahti (Helsinki)",384394,6671544
+"00190  Suomenlinna (Helsinki)",388074,6668964
+"00200  Lauttasaari (Helsinki)",382001,6671291
+"00210  Vattuniemi (Helsinki)",382433,6670140
+"00220  Jätkäsaari (Helsinki)",384310,6670490
+"00230  Ilmala (Helsinki)",384728,6677128
+"00240  Länsi-Pasila (Helsinki)",384862,6675950
+"00250  Taka-Töölö (Helsinki)",384864,6674180
+"00260  Keski-Töölö (Helsinki)",384837,6673278
+"00270  Pohjois-Meilahti (Helsinki)",383779,6674911
+"00280  Ruskeasuo (Helsinki)",383953,6675752
+"00290  Meilahden sairaala-alue (Helsinki)",383963,6674235
+"00300  Pikku Huopalahti (Helsinki)",383074,6675909
+"00310  Kivihaka (Helsinki)",384025,6676710
+"00320  Etelä-Haaga (Helsinki)",383618,6677411
+"00330  Munkkiniemi (Helsinki)",382363,6675346
+"00340  Kuusisaari-Lehtisaari (Helsinki)",380834,6673255
+"00350  Munkkivuori-Niemenmäki (Helsinki)",381714,6676414
+"00360  Pajamäki (Helsinki)",381312,6677454
+"00370  Reimarla (Helsinki)",380818,6677989
+"00380  Pitäjänmäen teollisuusalue (Helsinki)",382085,6677483
+"00390  Konala (Helsinki)",380819,6679980
+"00400  Pohjois-Haaga (Helsinki)",383591,6678683
+"00410  Malminkartano (Helsinki)",381404,6680965
+"00420  Kannelmäki (Helsinki)",382603,6680785
+"00430  Maununneva (Helsinki)",383599,6681314
+"00440  Lassila (Helsinki)",382731,6678903
+"00500  Sörnäinen (Helsinki)",386920,6673920
+"00510  Etu-Vallila - Alppila (Helsinki)",386306,6674580
+"00520  Itä-Pasila (Helsinki)",385886,6675603
+"00530  Kallio (Helsinki)",386359,6673423
+"00540  Kalasatama (Helsinki)",387726,6673451
+"00550  Vallila (Helsinki)",386859,6675138
+"00560  Toukola-Vanhakaupunki (Helsinki)",388067,6676661
+"00570  Kulosaari (Helsinki)",389434,6673678
+"00580  Verkkosaari (Helsinki)",387684,6674732
+"00590  Kaitalahti (Helsinki)",390397,6672082
+"00600  Koskela-Helsinki (Helsinki)",387162,6677551
+"00610  Käpylä (Helsinki)",386344,6676820
+"00620  Metsälä-Etelä-Oulunkylä (Helsinki)",385491,6678014
+"00630  Maunula-Suursuo (Helsinki)",385145,6678875
+"00640  Oulunkylä-Patola (Helsinki)",387034,6679079
+"00650  Veräjämäki (Helsinki)",387774,6678231
+"00660  Länsi-Pakila (Helsinki)",385319,6680113
+"00670  Paloheinä (Helsinki)",385496,6681652
+"00680  Itä-Pakila (Helsinki)",387106,6680686
+"00690  Tuomarinkylä-Torpparinmäki (Helsinki)",386661,6682875
+"00700  Malmi (Helsinki)",391045,6680491
+"00710  Pihlajamäki (Helsinki)",389496,6678927
+"00720  Pukinmäki-Savela (Helsinki)",388597,6680231
+"00730  Tapanila (Helsinki)",390492,6682616
+"00740  Siltamäki (Helsinki)",389103,6683637
+"00750  Puistola (Helsinki)",390864,6684114
+"00760  Suurmetsä (Helsinki)",392953,6683179
+"00770  Jakomäki - Alppikylä (Helsinki)",392962,6681819
+"00780  Tapaninvainio (Helsinki)",388641,6681842
+"00790  Viikki (Helsinki)",390595,6678130
+"00800  Länsi-Herttoniemi (Helsinki)",391317,6676577
+"00810  Herttoniemi (Helsinki)",390592,6674684
+"00820  Roihuvuori (Helsinki)",392397,6675369
+"00830  Tammisalo (Helsinki)",393325,6673510
+"00840  Laajasalo (Helsinki)",391841,6672655
+"00850  Jollas (Helsinki)",393186,6671362
+"00860  Santahamina (Helsinki)",392021,6669292
+"00870  Etelä-Laajasalo (Helsinki)",391474,6671389
+"00880  Roihupellon teollisuusalue (Helsinki)",391836,6675875
+"00890  Östersundom (Helsinki)",400065,6681820
+"00900  Puotinharju (Helsinki)",393673,6676837
+"00910  Puotila (Helsinki)",394778,6676551
+"00920  Myllypuro (Helsinki)",392634,6677550
+"00930  Itäkeskus-Marjaniemi (Helsinki)",393766,6675948
+"00940  Kontula - Vesala (Helsinki)",393323,6679592
+"00950  Vartioharju (Helsinki)",394996,6677673
+"00960  Pohjois-Vuosaari (Helsinki)",397097,6677756
+"00970  Mellunmäki (Helsinki)",396111,6678982
+"00980  Etelä-Vuosaari (Helsinki)",396443,6675954
+"00990  Aurinkolahti (Helsinki)",398295,6675382
+"01120  Västerskog (Sipoo)",404895,6682901
+"01150  Söderkulla (Sipoo)",408388,6685413
+"01180  Kalkkiranta (Porvoo)",411964,6681922
+"01190  Box (Sipoo)",411240,6687935
+"01200  Hakunila (Vantaa)",396764,6683747
+"01230  Vaarala (Vantaa)",395237,6682340
+"01260  Itä-Hakkila (Vantaa)",396395,6686683
+"01280  Länsimäki (Vantaa)",395296,6680584
+"01300  Tikkurila (Vantaa)",390678,6685914
+"01340  Leinelä (Vantaa)",391704,6689133
+"01350  Hiekkaharju (Vantaa)",391409,6687586
+"01360  Koivukylä-Havukoski (Vantaa)",393327,6688345
+"01370  Jokiniemi (Vantaa)",393177,6686286
+"01380  Kuusikko-Hakkila (Vantaa)",393696,6684855
+"01390  Ruskeasanta-Ilola (Vantaa)",390428,6689094
+"01400  Rekola (Vantaa)",393365,6689991
+"01420  Päiväkumpu (Vantaa)",395500,6688953
+"01450  Korso (Vantaa)",393848,6692925
+"01480  Mikkola (Vantaa)",395384,6691476
+"01490  Nikinmäki (Vantaa)",396971,6690256
+"01510  Kirkonkylä-Veromäki (Vantaa)",387575,6685193
+"01520  Tammisto (Vantaa)",387168,6683945
+"01530  Veromiehenkylä (Vantaa)",386604,6688219
+"01600  Myyrmäki (Vantaa)",381084,6682733
+"01610  Kaivoksela (Vantaa)",382726,6682964
+"01620  Martinlaakso (Vantaa)",381188,6684636
+"01630  Hämeenkylä (Vantaa)",377599,6683269
+"01640  Hämevaara (Vantaa)",378388,6681547
+"01650  Vapaala (Vantaa)",379638,6682473
+"01660  Varisto (Vantaa)",379238,6683381
+"01670  Vantaanlaakso (Vantaa)",382365,6684884
+"01680  Askisto (Vantaa)",377607,6685874
+"01690  Ylästö (Vantaa)",384956,6684376
+"01700  Kivistö (Vantaa)",380609,6689308
+"01710  Pähkinärinne (Vantaa)",378089,6682224
+"01720  Petikko (Vantaa)",379215,6685127
+"01730  Vantaanpuisto (Vantaa)",381190,6686816
+"01740  Tuupakan teollisuusalue (Vantaa)",383901,6686617
+"01750  Keimola (Vantaa)",378430,6691220
+"01760  Seutula (Vantaa)",382780,6693323
+"01770  Martinlaakson teollisuusalue (Vantaa)",381413,6685458
+"01800  Klaukkala Keskus (Nurmijärvi)",375202,6696585
+"01810  Luhtajoki (Nurmijärvi)",378914,6698901
+"01820  Haikala (Nurmijärvi)",376793,6698282
+"01830  Lepsämä (Nurmijärvi)",370025,6697493
+"01840  Klaukkala (Nurmijärvi)",375880,6693454
+"01860  Perttula (Nurmijärvi)",371570,6702426
+"01900  Nurmijärvi Keskus (Nurmijärvi)",380915,6705488
+"01940  Palojoki (Nurmijärvi)",382499,6700396
+"02100  Tapiola (Espoo)",378056,6673140
+"02110  Otsolahti (Espoo)",379011,6673189
+"02120  Länsikorkee-Suvikumpu (Espoo)",377402,6672830
+"02130  Pohjois-Tapiola (Espoo)",378010,6674565
+"02140  Laajalahti (Espoo)",378092,6675820
+"02150  Otaniemi (Espoo)",379412,6673889
+"02160  Westend (Espoo)",377820,6671683
+"02170  Haukilahti (Espoo)",376372,6671515
+"02180  Mankkaa (Espoo)",376250,6675136
+"02200  Niittykumpu (Espoo)",375719,6673124
+"02210  Olari (Espoo)",373877,6673197
+"02230  Matinkylä (Espoo)",374856,6670785
+"02240  Friisilä (Espoo)",373326,6672241
+"02250  Henttaa (Espoo)",374249,6674498
+"02260  Kaitaa (Espoo)",372226,6669920
+"02270  Finnoo-Eestinmalmi (Espoo)",372465,6671520
+"02280  Malminmäki-Eestinlaakso (Espoo)",371647,6673360
+"02290  Puolarmetsän sairaala (Espoo)",372635,6673286
+"02300  Nöykkiönpuro (Espoo)",370668,6671451
+"02320  Espoonlahti (Espoo)",369052,6670099
+"02330  Saunalahti-Kattilalaakso (Espoo)",368961,6672257
+"02340  Latokaski (Espoo)",369943,6673774
+"02360  Soukka (Espoo)",370805,6668745
+"02380  Suvisaaristo (Espoo)",372791,6666335
+"02390  Sarvvik (Kirkkonummi)",366303,6669024
+"02400  Kirkkonummi Keskus (Kirkkonummi)",356300,6671554
+"02410  Gesterby (Kirkkonummi)",358358,6669378
+"02420  Jorvas (Kirkkonummi)",364490,6664091
+"02430  Masala (Kirkkonummi)",362340,6672349
+"02440  Luoma (Kirkkonummi)",362704,6674096
+"02450  Sundsberg (Kirkkonummi)",364858,6670958
+"02460  Kantvik (Kirkkonummi)",354962,6664688
+"02470  Upinniemi (Kirkkonummi)",351884,6657240
+"02480  Porkkala (Kirkkonummi)",358652,6663804
+"02490  Pikkala (Siuntio)",352918,6664804
+"02510  Oitmäki (Kirkkonummi)",361304,6678095
+"02520  Lapinkylä (Kirkkonummi)",358338,6678250
+"02540  Kylmälä (Kirkkonummi)",355321,6681069
+"02550  Evitskog (Kirkkonummi)",352870,6676750
+"02570  Siuntio Kirkonkylä (Siuntio)",347035,6677340
+"02580  Siuntio Asemanseutu (Siuntio)",345479,6668675
+"02590  Lappers (Siuntio)",339612,6674763
+"02600  Etelä-Leppävaara (Espoo)",378853,6676687
+"02610  Kilo (Espoo)",376658,6677927
+"02620  Karakallio (Espoo)",376706,6679636
+"02630  Nihtisilta (Espoo)",376102,6676625
+"02650  Pohjois-Leppävaara (Espoo)",378951,6678499
+"02660  Lintuvaara (Espoo)",378764,6680027
+"02680  Uusmäki (Espoo)",379728,6680296
+"02700  Kauniainen (Kauniainen)",373274,6677450
+"02710  Viherlaakso (Espoo)",374759,6679008
+"02720  Lähderanta (Espoo)",375026,6680419
+"02730  Jupperi (Espoo)",376216,6681574
+"02740  Bemböle-Pakankylä (Espoo)",370137,6683093
+"02750  Sepänkylä-Kuurinniitty (Espoo)",373852,6675740
+"02760  Tuomarila-Suvela (Espoo)",371473,6676012
+"02770  Espoon Keskus (Espoo)",369563,6676446
+"02780  Kauklahti (Espoo)",365403,6676226
+"02810  Gumböle-Karhusuo (Espoo)",368308,6678951
+"02820  Nupuri-Nuuksio (Espoo)",364679,6687658
+"02860  Siikajärvi (Espoo)",362466,6685658
+"02880  Veikkola (Kirkkonummi)",357425,6683304
+"02920  Niipperi (Espoo)",374953,6683976
+"02940  Lippajärvi-Järvenperä (Espoo)",372623,6682597
+"02970  Kalajärvi (Espoo)",373910,6689826
+"02980  Lakisto (Espoo)",368889,6690833
+"03100  Nummela (Vihti)",351222,6692645
+"03150  Huhmari (Vihti)",354333,6686771
+"03220  Tervalampi (Vihti)",358276,6690871
+"03250  Ojakkala (Vihti)",357215,6695844
+"03300  Otalampi (Vihti)",362991,6695784
+"03320  Selki (Vihti)",364556,6702514
+"03400  Vihti Kirkonkylä (Vihti)",355142,6703707
+"03430  Jokikunta (Vihti)",345401,6701910
+"03600  Karkkila Keskus (Karkkila)",345560,6717928
+"03620  Polari (Karkkila)",352995,6718085
+"03710  Uusitalo (Karkkila)",357107,6713184
+"03790  Vihtijärvi (Vihti)",365136,6712171
+"03810  Ikkala (Lohja)",340801,6707145
+"03850  Pusula (Lohja)",335047,6711922
+"03870  Hyönölä (Lohja)",331034,6707644
+"04130  Sipoo (Sipoo)",403872,6693290
+"04150  Martinkylä (Sipoo)",401958,6696787
+"04170  Paippinen (Sipoo)",403166,6702920
+"04200  Kerava Keskus (Kerava)",396331,6699274
+"04220  Ahjo-Kaskela (Kerava)",398070,6696314
+"04230  Pihkaniitty (Kerava)",395132,6699725
+"04240  Talma (Sipoo)",399945,6698919
+"04250  Alikerava (Kerava)",396827,6695232
+"04260  Savio (Kerava)",394609,6695346
+"04300  Hyrylä (Tuusula)",390353,6699892
+"04310  Tuusula Keskus (Tuusula)",392574,6699422
+"04320  Riihikallio (Tuusula)",390958,6694137
+"04330  Lahela (Tuusula)",388432,6696389
+"04340  Mattila (Tuusula)",393238,6696875
+"04350  Nahkela (Tuusula)",384754,6697391
+"04360  Ruotsinkylä-Kiilinmäki (Tuusula)",387879,6692844
+"04370  Rusutjärvi (Tuusula)",386946,6702811
+"04380  Tuomala (Tuusula)",391537,6704951
+"04390  Jäniksenlinna (Tuusula)",389299,6708271
+"04400  Loutti (Järvenpää)",393874,6704922
+"04410  Järvenpää Keskus (Järvenpää)",395630,6707295
+"04420  Kyrölä (Järvenpää)",395705,6703579
+"04430  Kinnari-Mikonkorpi (Järvenpää)",398221,6704567
+"04440  Jamppa (Järvenpää)",393415,6709073
+"04460  Nummenkylä (Järvenpää)",394880,6709606
+"04480  Haarajoki (Mäntsälä)",399523,6709180
+"04500  Kellokoski (Tuusula)",397187,6713229
+"04530  Ohkola (Mäntsälä)",397526,6718788
+"04600  Mäntsälä Keskus (Mäntsälä)",408679,6723827
+"04620  Kaunismäki (Mäntsälä)",405825,6725665
+"04630  Sääksjärvi (Mäntsälä)",413704,6721187
+"04660  Numminen (Mäntsälä)",406857,6716392
+"04680  Hirvihaara (Mäntsälä)",401015,6722527
+"04740  Sälinkää (Mäntsälä)",402285,6731409
+"04770  Sahakylä (Mäntsälä)",403056,6737721
+"04820  Kaukalampi (Mäntsälä)",411182,6731028
+"04840  Hautjärvi (Mäntsälä)",416757,6733383
+"04920  Saarentaus (Mäntsälä)",411449,6734492
+"04940  Levanto (Mäntsälä)",415215,6738008
+"05100  Röykkä (Nurmijärvi)",368908,6709277
+"05200  Rajamäki (Nurmijärvi)",376855,6712859
+"05250  Kiljava (Nurmijärvi)",373983,6708933
+"05400  Jokela (Tuusula)",388896,6714869
+"05430  Nuppulinna (Tuusula)",391358,6710965
+"05440  Hyvinkää (Hyvinkää)",383959,6719574
+"05450  Nukari (Nurmijärvi)",385236,6712987
+"05460  Hakalanmäki-Hakala (Hyvinkää)",383386,6721624
+"05470  Palopuro (Hyvinkää)",387407,6718968
+"05510  Päivärinta (Hyvinkää)",392292,6719660
+"05620  Noppo (Hyvinkää)",380564,6716086
+"05720  Kytäjä (Hyvinkää)",371579,6720344
+"05800  Hyvinkää Keskus (Hyvinkää)",383361,6728575
+"05810  Martti (Hyvinkää)",384655,6722542
+"05820  Mustamännistö (Hyvinkää)",386255,6726608
+"05830  Kirjavatolppa-Kruununpuisto (Hyvinkää)",381594,6722158
+"05840  Hyvinkäänkylä-Vehkoja (Hyvinkää)",379894,6719444
+"05850  Hyvinkää, sairaala-alue (Hyvinkää)",381123,6721292
+"05860  Talvisilta (Hyvinkää)",380680,6723426
+"05880  Paavola-Vaivero (Hyvinkää)",380467,6726948
+"05900  Vieremä (Hyvinkää)",381944,6723909
+"05950  Ridasjärvi (Hyvinkää)",392511,6725568
+"06100  Porvoo Keskus (Porvoo)",425269,6696044
+"06150  Kevätkumpu (Porvoo)",428437,6696027
+"06200  Porvoo itäinen (Porvoo)",434722,6690411
+"06400  Gammelbacka (Porvoo)",424161,6693186
+"06450  Eestinmäki-Ernestas (Porvoo)",423006,6693913
+"06500  Saksala-Suomenkylä (Porvoo)",422756,6700400
+"06530  Kerkkoo (Porvoo)",425142,6703884
+"06650  Hamari (Porvoo)",424702,6692443
+"06750  Tolkkinen (Porvoo)",421063,6691327
+"06830  Kulloonkylä (Porvoo)",415178,6690737
+"06850  Kulloo (Porvoo)",417526,6686632
+"06880  Kärrby (Sipoo)",416761,6682953
+"06950  Emäsalo (Porvoo)",423802,6681096
+"07110  Hinthaara (Porvoo)",417376,6696826
+"07130  Anttila (Porvoo)",412841,6695028
+"07150  Laukkoski (Pornainen)",410514,6701384
+"07170  Keski-Pornainen (Pornainen)",410623,6707209
+"07190  Halkia (Pornainen)",406258,6709831
+"07220  Kaarenkylä (Porvoo)",418149,6705788
+"07230  Askola (Askola)",417487,6708778
+"07280  Ilola (Porvoo)",432977,6704875
+"07310  Sannainen (Porvoo)",433190,6698266
+"07320  Jakari-Sannäs (Porvoo)",439777,6697147
+"07350  Gäddrag (Porvoo)",438165,6684851
+"07360  Tirmo (Porvoo)",439413,6680453
+"07370  Pellinki (Porvoo)",438412,6675627
+"07390  Suurpellinki (Porvoo)",435551,6675785
+"07410  Kråkö (Porvoo)",426396,6690555
+"07450  Voolahti (Porvoo)",435069,6685282
+"07500  Askola Kirkonkylä (Askola)",424009,6713255
+"07510  Askola (Askola)",420353,6710475
+"07530  Askola (Askola)",421813,6715462
+"07550  Torpinkylä (Pukkila)",418954,6720961
+"07560  Pukkila Keskus (Pukkila)",419650,6725047
+"07565  Kantele (Pukkila)",427596,6727051
+"07580  Askola (Askola)",426513,6713339
+"07590  Askola (Askola)",429204,6708995
+"07600  Myrskylä Keskus (Myrskylä)",437191,6723140
+"07680  Askola (Askola)",429457,6715434
+"07690  Kankkila (Myrskylä)",430626,6721431
+"07700  Koskenkylän saha-alue (Loviisa)",441147,6709725
+"07720  Malmgård (Loviisa)",441375,6713349
+"07740  Gammelby (Loviisa)",439138,6704028
+"07750  Isnäs (Loviisa)",446010,6691394
+"07780  Härkäpää (Loviisa)",443836,6686396
+"07800  Lapinjärvi Keskus (Lapinjärvi)",456165,6722073
+"07810  Ingermaninkylä (Lapinjärvi)",451906,6720940
+"07820  Porlammi (Lapinjärvi)",446339,6726936
+"07830  Pukaro (Lapinjärvi)",458695,6727556
+"07840  Lindkoski (Lapinjärvi)",461802,6721486
+"07850  Heikinkylä (Lapinjärvi)",460059,6716487
+"07870  Skinnarby (Loviisa)",456175,6712987
+"07880  Liljendal Keskus (Loviisa)",447126,6712609
+"07890  Mickelspiltom (Loviisa)",445523,6721246
+"07900  Loviisa Keskus (Loviisa)",453572,6700723
+"07910  Valko (Loviisa)",456266,6688548
+"07920  Etelä-Harju (Loviisa)",457432,6700927
+"07930  Pernaja Kirkonkylä (Loviisa)",448001,6702736
+"07940  Määrlahti (Loviisa)",459485,6703572
+"07945  Kuggom (Loviisa)",454411,6708013
+"07955  Tesjoki (Loviisa)",464350,6705707
+"07960  Ahvenkoski (Loviisa)",468212,6705915
+"07970  Ruotsinpyhtää Keskus (Loviisa)",467634,6710925
+"07980  Kuninkaankylä (Loviisa)",469272,6715338
+"07990  Ruotsinkylä-Koskisto (Loviisa)",469764,6721160
+"08100  Lohja Keskus (Lohja)",327657,6685606
+"08150  Keskilohja (Lohja)",338491,6681615
+"08200  Ojamo (Lohja)",335486,6680622
+"08350  Routio (Lohja)",336280,6688063
+"08360  Kisakallio (Lohja)",336759,6690898
+"08450  Hormajärvi (Lohja)",333284,6684868
+"08480  Karstu (Lohja)",331167,6689373
+"08500  Ventelä-Millola (Lohja)",341507,6688399
+"08680  Muijala (Lohja)",345912,6687079
+"08700  Virkkala (Lohja)",334485,6675122
+"08800  Kirkniemi (Lohja)",327110,6680613
+"09120  Karjalohja (Lohja)",318327,6684146
+"09220  Sammatti (Lohja)",325149,6692064
+"09430  Saukkola (Lohja)",333626,6696585
+"09520  Millola (Lohja)",335804,6693393
+"09630  Koisjärvi (Lohja)",340794,6697992
+"09810  Nummi-Oinola (Lohja)",328710,6699972
+"09930  Leppäkorpi (Lohja)",323864,6707068
+"10120  Tähtelä (Ingå)",334379,6666596
+"10140  Päivölä (Ingå)",338698,6667851
+"10160  Degerby (Ingå)",343383,6662894
+"10210  Inkoo Keskus (Ingå)",329396,6660195
+"10230  Inkoo Asemanseutu (Ingå)",328200,6664536
+"10250  Fagervik (Ingå)",322635,6657511
+"10270  Barösund (Ingå)",326359,6651424
+"10300  Karjaa Keskus (Raasepori)",315544,6666506
+"10320  Bäljars (Raasepori)",313489,6662344
+"10330  Pinjainen (Raasepori)",312417,6666100
+"10350  Meltolan sairaala-alue (Raasepori)",322442,6668127
+"10360  Mustio (Raasepori)",322852,6672771
+"10380  Kaunislahti (Raasepori)",323058,6662306
+"10410  Åminnefors (Raasepori)",309589,6666747
+"10420  Pohjankuru (Raasepori)",301080,6669513
+"10440  Bollsta (Raasepori)",306352,6670255
+"10470  Fiskari (Raasepori)",309665,6671814
+"10480  Antskog (Raasepori)",309939,6675805
+"10520  Tenhola Kirkonkylä (Raasepori)",295510,6664252
+"10570  Bromarv (Raasepori)",274837,6654315
+"10600  Tammisaari Keskus (Raasepori)",309510,6654350
+"10620  Tammisaari (Raasepori)",299433,6657199
+"10640  Dragsvik (Raasepori)",305202,6655861
+"10650  Flyet (Raasepori)",302993,6654090
+"10660  Trollböle (Raasepori)",297229,6653004
+"10680  Skogby (Raasepori)",292248,6649824
+"10710  Snappertuna (Raasepori)",316372,6655405
+"10820  Lappohja (Hanko)",288800,6646725
+"10900  Hanko Keskus (Hanko)",282799,6641788
+"10940  Hangonkylä (Hanko)",272521,6639963
+"10960  Hanko Pohjoinen (Hanko)",275917,6640125
+"11100  Riihimäki Keskus (Riihimäki)",378145,6735037
+"11120  Pohjois-Riihimäki (Riihimäki)",379649,6739760
+"11130  Peltosaari-Patastenmäki (Riihimäki)",381320,6734024
+"11310  Taka-Kasarmi (Riihimäki)",380553,6738271
+"11710  Herajoki (Riihimäki)",372691,6729825
+"11910  Lasi-Kumela (Janakkala)",374630,6736982
+"12100  Oitti (Hausjärvi)",392814,6740109
+"12130  Mommila (Hausjärvi)",395003,6745483
+"12170  Hietoinen (Hausjärvi)",393522,6753943
+"12210  Hausjärvi kk (Hausjärvi)",387200,6740376
+"12240  Hikiä (Hausjärvi)",388320,6735227
+"12310  Ryttylä (Hausjärvi)",377452,6743867
+"12350  Turkhauta (Hausjärvi)",383788,6744466
+"12380  Leppäkoski (Janakkala)",375700,6749145
+"12400  Tervakoski (Janakkala)",369994,6744850
+"12450  Vähikkälä (Janakkala)",363913,6741819
+"12520  Kormu (Loppi)",371867,6736618
+"12540  Launonen (Loppi)",367842,6736021
+"12600  Läyliäinen (Loppi)",361127,6723169
+"12630  Sajaniemi (Loppi)",362584,6729844
+"12640  Joentaka (Loppi)",364459,6733703
+"12700  Loppi kk (Loppi)",358547,6735408
+"12750  Pilpala (Loppi)",347078,6727113
+"12820  Räyskälä (Loppi)",342083,6735605
+"12920  Topeno (Loppi)",351441,6737083
+"12950  Vojakkala-Eerolankulma (Loppi)",342835,6742064
+"13100  Hämeenlinna Keskus (Hämeenlinna)",362574,6764528
+"13110  Kantola (Hämeenlinna)",364380,6763310
+"13130  Kauriala (Hämeenlinna)",360841,6765781
+"13200  Keinusaari (Hämeenlinna)",363673,6765324
+"13210  Hätilä (Hämeenlinna)",368926,6769620
+"13220  Sairio (Hämeenlinna)",362687,6767236
+"13250  Katuma (Hämeenlinna)",365567,6763615
+"13270  Ruununmylly (Hämeenlinna)",371108,6766342
+"13300  Käikälä (Hämeenlinna)",367051,6761433
+"13330  Harviala (Janakkala)",371371,6762262
+"13430  Hattelmala (Hämeenlinna)",364124,6759880
+"13500  Jukola (Hämeenlinna)",355916,6762194
+"13530  Hämeenlinna sairaala-alue (Hämeenlinna)",360105,6764390
+"13600  Ojoinen (Hämeenlinna)",361254,6767691
+"13700  Parolannummi (Hattula)",356386,6769036
+"13720  Parola (Hattula)",355098,6774350
+"13800  Katinala (Hattula)",357473,6786493
+"13880  Rahkoila (Hattula)",361561,6776694
+"13900  Pekola (Hattula)",364870,6771093
+"14140  Jokimaa (Janakkala)",385557,6750297
+"14200  Turenki (Janakkala)",378656,6757771
+"14240  Väli-Janakkala (Janakkala)",365760,6753294
+"14300  Renko kk (Hämeenlinna)",350244,6750044
+"14430  Vuohiniemi (Hattula)",344802,6760752
+"14450  Rimmilä (Hämeenlinna)",339153,6764655
+"14500  Iittala (Hämeenlinna)",340666,6772181
+"14530  Leteensuo (Hattula)",350212,6773505
+"14610  Lepaa (Hattula)",361147,6779511
+"14620  Tyrväntö (Hattula)",356071,6782443
+"14680  Alvettula (Hämeenlinna)",361077,6788493
+"14690  Torvoila (Hämeenlinna)",367930,6794573
+"14700  Hauho kk (Hämeenlinna)",372061,6784628
+"14770  Eteläinen (Hämeenlinna)",372997,6772408
+"14810  Pohjoinen (Hämeenlinna)",385367,6776847
+"14820  Syrjäntaka (Hämeenlinna)",381200,6773528
+"14840  Sairiala (Hämeenlinna)",381329,6780725
+"14870  Juttila (Hämeenlinna)",381062,6787222
+"14930  Sappee (Hämeenlinna)",376750,6793527
+"14960  Puutikkala (Pälkäne)",375602,6798859
+"14980  Kuohijoki (Pälkäne)",382037,6799977
+"15100  Lahti Asemanseutu (Lahti)",427337,6760631
+"15110  Keski-Lahti (Lahti)",426556,6761896
+"15140  Kartano-Paavola (Lahti)",427054,6762928
+"15150  Möysä (Lahti)",430879,6757987
+"15160  Kolava (Lahti)",433112,6759891
+"15170  Tenava-Tonttila (Lahti)",430507,6761865
+"15200  Kiveriö (Lahti)",429162,6762551
+"15210  Kivistönmäki (Lahti)",428010,6763883
+"15230  Kytölä (Lahti)",432216,6768967
+"15240  Mukkula (Lahti)",426953,6765804
+"15270  Kukkila (Hollola)",426281,6768658
+"15300  Myllypohja-Koiskala (Lahti)",432633,6762418
+"15320  Ahtiala (Lahti)",434923,6763223
+"15340  Kunnas-Hiekkanummi (Lahti)",436549,6765150
+"15460  Mäkelä (Lahti)",438705,6769594
+"15500  Liipola (Lahti)",428001,6759372
+"15520  Saksala (Lahti)",429138,6759519
+"15540  Villähde (Lahti)",436066,6755696
+"15550  Rakokivi (Lahti)",444342,6756326
+"15560  Nastola kk (Lahti)",443405,6760792
+"15580  Ruuhijärvi (Lahti)",445657,6768456
+"15610  Laune-Nikkilä (Lahti)",427644,6758266
+"15680  Renkomäki-Ämmälä (Lahti)",428662,6755063
+"15700  Hennala-Jokimaa (Hollola)",423240,6753422
+"15800  Kärpänen (Lahti)",424906,6760958
+"15810  Kasakkamäki (Lahti)",423143,6760445
+"15820  Okeroinen (Hollola)",421377,6758130
+"15830  Metsäkangas (Lahti)",423611,6761516
+"15840  Riihelä (Lahti)",422275,6761519
+"15850  Likolampi (Lahti)",422473,6763061
+"15860  Kartano (Hollola)",420523,6761357
+"15870  Salpakangas (Hollola)",419686,6762697
+"15880  Soramäki (Hollola)",415309,6762168
+"15900  Jalkaranta (Lahti)",425408,6762827
+"15950  Kiikkula (Lahti)",423902,6764388
+"15980  Messilä (Hollola)",421771,6765414
+"16100  Uusikylä (Lahti)",449435,6757000
+"16160  Okkeri (Lahti)",450015,6764978
+"16200  Artjärvi Keskus (Orimattila)",447484,6737741
+"16230  Artjärvi Kirkonkylä (Orimattila)",452668,6731459
+"16260  Hietana (Orimattila)",452706,6740389
+"16270  Villikkala (Orimattila)",444546,6739852
+"16280  Kuivanto (Orimattila)",446784,6748269
+"16300  Orimattila Keskus (Orimattila)",428321,6741313
+"16310  Virenoja (Orimattila)",430058,6748037
+"16320  Pennala (Orimattila)",429225,6751049
+"16330  Heinämaa (Orimattila)",437715,6748832
+"16350  Niinikoski (Orimattila)",439931,6738353
+"16390  Pakaa (Orimattila)",433676,6733038
+"16450  Mallusjoki (Orimattila)",424486,6731030
+"16500  Herrala (Hollola)",414672,6751559
+"16510  Luhtikylä (Orimattila)",416629,6745266
+"16540  Mertie (Kärkölä)",412246,6742499
+"16600  Järvelä (Kärkölä)",407352,6745126
+"16610  Kärkölä kk (Kärkölä)",404033,6756670
+"16630  Tennilä (Hollola)",410377,6757602
+"16670  Lappila (Kärkölä)",400238,6745346
+"16710  Hollola kk (Hollola)",413800,6769938
+"16730  Kutajärvi (Hollola)",419431,6770750
+"16790  Manskivi (Hollola)",411232,6774043
+"16800  Hämeenkoski (Hollola)",400791,6764478
+"16900  Lammi kk (Hämeenlinna)",392967,6770084
+"16960  Iso-Evo (Hämeenlinna)",394771,6783132
+"16970  Evo (Hämeenlinna)",400366,6787890
+"17110  Sipilä (Hollola)",428806,6770978
+"17120  Paimela (Hollola)",427331,6774738
+"17130  Vesivehmaa (Asikkala)",427046,6778787
+"17150  Urajärvi (Asikkala)",436315,6779642
+"17200  Vääksy Keskus (Asikkala)",422605,6784118
+"17220  Pietilä (Asikkala)",431287,6788511
+"17240  Kalkkinen (Asikkala)",429693,6797854
+"17320  Asikkala (Asikkala)",420419,6792648
+"17410  Viitaila (Asikkala)",412200,6779079
+"17430  Kurhila (Asikkala)",411110,6783807
+"17440  Vähimaa (Asikkala)",412651,6787307
+"17450  Iso-Äiniö-Vähimaa (Asikkala)",408875,6789577
+"17470  Maakeski (Padasjoki)",410193,6794534
+"17500  Padasjoki Keskus (Padasjoki)",409569,6810002
+"17510  Nyystölä (Padasjoki)",407079,6797554
+"17530  Arrakoski (Padasjoki)",399193,6807073
+"17610  Auttoinen (Padasjoki)",395657,6798603
+"17630  Vesijako (Padasjoki)",392416,6805447
+"17710  Torittu (Padasjoki)",397583,6813675
+"17740  Kasiniemi-Torittu (Padasjoki)",389118,6811700
+"17780  Harmoinen (Kuhmoinen)",400872,6819166
+"17800  Kuhmoinen Keskus (Kuhmoinen)",405302,6833012
+"17840  Harjunsalmi (Kuhmoinen)",407972,6841497
+"17850  Pihlajakoski (Kuhmoinen)",415482,6840614
+"17870  Ruolahti (Kuhmoinen)",415235,6827224
+"17930  Päijälä (Kuhmoinen)",387320,6831639
+"17950  Kylämä (Kuhmoinen)",397393,6838360
+"17970  Puukkoinen (Kuhmoinen)",400463,6842039
+"18100  Heinola Keskus (Heinola)",453172,6785110
+"18120  Reumasairaala-alue (Heinola)",451008,6786376
+"18130  Tommola-Sahanniemi (Heinola)",449662,6784508
+"18150  Jyränkö (Heinola)",448578,6782474
+"18200  Kaakonlampi-Pyhätön (Heinola)",448824,6787865
+"18300  Heinola kk (Heinola)",460145,6789153
+"18600  Myllyoja (Heinola)",444284,6781954
+"19110  Vierumäki taajama (Heinola)",441381,6775653
+"19120  Vierumäki urheiluopisto (Heinola)",447144,6775604
+"19160  Huutotöyry (Iitti)",455926,6773833
+"19210  Lusi (Heinola)",450165,6799869
+"19230  Onkiniemi (Sysmä)",449469,6808641
+"19250  Syrjäkoski (Heinola)",455770,6803940
+"19260  Paaso-Syrjäkoski (Heinola)",461947,6806254
+"19310  Karilanmaa (Sysmä)",423297,6804292
+"19320  Nikkaroinen (Sysmä)",426768,6807867
+"19370  Nuoramoinen (Sysmä)",438385,6808361
+"19410  Kuortti (Pertunmaa)",467854,6809261
+"19420  Mansikkamäki (Pertunmaa)",464788,6819106
+"19430  Pertunmaa Keskus (Pertunmaa)",471928,6819794
+"19460  Ruorasmäki (Pertunmaa)",468737,6831135
+"19470  Lihavanpää-Hartosenpää (Pertunmaa)",476422,6821815
+"19480  Hartosenpää (Pertunmaa)",480009,6821242
+"19510  Lepsala (Hartola)",458028,6810340
+"19540  Koitti-Lepsala (Hartola)",457441,6824331
+"19600  Hartola Keskus (Hartola)",445673,6834268
+"19610  Murakka (Hartola)",451791,6822354
+"19620  Pohela (Hartola)",446567,6818602
+"19630  Kalhonkylä (Hartola)",443422,6815226
+"19650  Joutsa Keskus (Joutsa)",458873,6846590
+"19670  Mieskonmäki (Joutsa)",463251,6860631
+"19700  Sysmä Keskus (Sysmä)",427635,6823784
+"19730  Särkilampi (Sysmä)",428488,6829006
+"19740  Liikola (Sysmä)",433526,6833491
+"19770  Valittula (Sysmä)",440777,6823657
+"19850  Putkijärvi-Siltasuo (Hartola)",439202,6845860
+"19910  Tammijärvi (Luhanka)",436850,6854199
+"19920  Pappinen (Joutsa)",444150,6854331
+"19950  Luhanka (Luhanka)",426851,6849388
+"20100  Turku Keskus (Turku)",234247,6708580
+"20200  Iso-Heikkilä (Turku)",237151,6710635
+"20210  Pahaniemi (Turku)",235905,6711968
+"20240  Pansio-Perno (Turku)",233322,6711624
+"20250  Pitkämäki-Muhkuri (Turku)",237725,6711918
+"20300  Pohjola-Kastu (Turku)",239903,6712773
+"20320  Kuninkoja-Mälikkälä (Turku)",238062,6714291
+"20360  Kärsämäki-Urusvuori-Halinen (Turku)",241051,6716244
+"20380  Räntämäki-Saramäki (Turku)",243654,6716226
+"20400  Moisio (Turku)",241983,6720276
+"20460  Jäkärlä (Turku)",245903,6721023
+"20500  Vesilinna (Turku)",240642,6711203
+"20520  Kupittaa (Turku)",241773,6710372
+"20540  Nummi-Ylioppilaskylä (Turku)",243971,6711845
+"20610  Varissuo (Turku)",244060,6710115
+"20660  Littoinen (Kaarina)",247938,6710455
+"20700  Vartiovuori-Samppalinna (Turku)",240287,6710229
+"20720  Vasaramäki (Turku)",241321,6709264
+"20730  Skanssi (Turku)",242694,6708157
+"20740  Ilpoinen-Harittu (Turku)",241334,6707437
+"20750  Huhkola-Lauste-Vaala (Turku)",244010,6708589
+"20760  Piispanristi (Kaarina)",241924,6705600
+"20780  Kaarina Keskus (Kaarina)",246171,6706444
+"20800  Ammattikorkeakoulu (Turku)",239577,6710390
+"20810  Martti-Korppolaismäki (Turku)",238833,6709141
+"20880  Uittamo (Turku)",239338,6707448
+"20900  Moikoinen-Pikisaari (Turku)",235808,6706452
+"20960  Kakskerta (Turku)",236734,6700880
+"21100  Naantali Keskus (Naantali)",224323,6712412
+"21110  Taimo-Nuhjala-Lietsala (Naantali)",228267,6716418
+"21120  Viherjäinen (Raisio)",230478,6713611
+"21130  Poikko (Naantali)",220256,6708741
+"21140  Rymättylä Keskus (Naantali)",220426,6704042
+"21150  Röölä (Naantali)",219881,6695137
+"21160  Merimasku (Naantali)",217935,6713282
+"21180  Livonsaari (Naantali)",211645,6720356
+"21195  Velkua (Naantali)",204143,6712327
+"21200  Raisio Keskus (Raisio)",234357,6716837
+"21210  Hakinmäki (Raisio)",230729,6716143
+"21220  Somersoja (Raisio)",231777,6718556
+"21230  Lemu (Masku)",224043,6725706
+"21240  Askainen Keskus (Masku)",217428,6723928
+"21250  Masku (Masku)",229971,6722492
+"21260  Ihala (Raisio)",234636,6713267
+"21270  Nousiainen (Nousiainen)",236231,6735111
+"21280  Kuloinen (Raisio)",236362,6714887
+"21290  Rusko (Rusko)",238355,6722273
+"21310  Vahto (Rusko)",244230,6731445
+"21330  Paattinen (Turku)",247459,6727304
+"21340  Tortinmäki (Turku)",248620,6736922
+"21350  Ilmarinen (Lieto)",247921,6716882
+"21360  Lieto Asemanseutu (Lieto)",251576,6725675
+"21370  Aura kk. (Aura)",257025,6727259
+"21380  Aura Keskus (Aura)",259324,6731037
+"21410  Vanhalinna (Lieto)",247212,6713866
+"21420  Lieto Keskus (Lieto)",252407,6716241
+"21430  Yliskulma (Lieto)",259335,6720311
+"21450  Tarvasjoki Keskus (Lieto)",265781,6723433
+"21480  Prunkila (Marttila)",273256,6719851
+"21490  Marttila (Marttila)",276085,6722674
+"21500  Piikkiö (Kaarina)",253288,6707510
+"21510  Hevonpää (Paimio)",261174,6704013
+"21520  Naskarla (Paimio)",262537,6707266
+"21530  Paimio Keskus (Paimio)",263922,6715195
+"21540  Preitilä (Paimio)",267922,6710747
+"21555  Taatila (Paimio)",269368,6714986
+"21560  Ollila (Marttila)",279199,6729577
+"21570  Sauvo Keskus (Sauvo)",262908,6694786
+"21590  Karuna (Sauvo)",257785,6687581
+"21600  Parainen Keskus (Pargas)",231678,6693605
+"21610  Kirjala (Pargas)",245248,6698940
+"21620  Kuusisto (Kaarina)",246147,6703301
+"21630  Lielahti (Pargas)",245155,6690760
+"21650  Lillandet (Pargas)",224107,6681213
+"21660  Nauvo Keskus (Pargas)",212836,6683948
+"21670  Mattnäs-Nötö (Pargas)",209418,6679651
+"21680  Nötö (Pargas)",207356,6658102
+"21710  Korppoo Keskus-Utö (Pargas)",199962,6680231
+"21720  Korpoström (Pargas)",199911,6676480
+"21740  Utö (Pargas)",197119,6644236
+"21750  Norrskata (Pargas)",201153,6691128
+"21760  Houtskär Keskus (Pargas)",188489,6686467
+"21770  Mossala (Pargas)",191215,6695694
+"21800  Kyrö (Pöytyä)",270055,6736902
+"21820  Kumila (Pöytyä)",271290,6741879
+"21840  Karinainen (Pöytyä)",266323,6731124
+"21860  Auvainen (Pöytyä)",256519,6736478
+"21870  Riihikoski (Pöytyä)",257319,6740902
+"21880  Pöytyä (Pöytyä)",262760,6744897
+"21890  Haveri (Pöytyä)",264220,6749552
+"21900  Yläne Keskus (Pöytyä)",246787,6755892
+"21930  Uusikartano (Pöytyä)",253630,6750368
+"22100  Maarianhamina (Mariehamn)",108230,6682953
+"22120  Möckelö (Jomala)",106038,6687722
+"22130  Gottby (Jomala)",100969,6688406
+"22140  Önningby (Jomala)",111986,6684574
+"22150  Jomala Centrum (Jomala)",110388,6690607
+"22160  Järsö (Lemland)",110048,6674638
+"22220  Emkarby (Finström)",105711,6696133
+"22240  Hammarland (Hammarland)",98940,6696990
+"22270  Storby (Eckerö)",90361,6699877
+"22310  Pålsböle (Finström)",108505,6703136
+"22320  Ödkarby (Saltvik)",114181,6706629
+"22330  Tjudö (Finström)",111945,6710138
+"22340  Geta (Geta)",107214,6714775
+"22410  Godby (Finström)",111152,6697634
+"22430  Saltvik (Saltvik)",119894,6705762
+"22520  Tosarby (Sund)",119950,6699819
+"22530  Sund (Sund)",121853,6697210
+"22550  Vårdö (Vårdö)",133854,6696820
+"22610  Lemland (Lemland)",116425,6679180
+"22630  Lumparland (Lumparland)",125248,6683545
+"22710  Ålands Degerby (Föglö)",141640,6672755
+"22720  Sottunga (Sottunga)",148246,6682722
+"22730  Kökar (Kökar)",162792,6660638
+"22810  Seglinge (Kumlinge)",150444,6691676
+"22820  Kumlinge (Kumlinge)",156768,6696288
+"22830  Enklinge (Kumlinge)",156040,6705992
+"22840  Lappo (Brändö)",164756,6703295
+"22910  Torsholma (Brändö)",173209,6705256
+"22920  Brändö-Åland (Brändö)",172659,6712110
+"22930  Fiskö (Brändö)",166813,6717438
+"22940  Åva (Brändö)",174449,6717371
+"22950  Jurmo (Brändö)",175065,6724563
+"23100  Mynämäki Keskus (Mynämäki)",231544,6748989
+"23120  Mietoinen Keskus (Mynämäki)",220845,6730573
+"23140  Hietamäki (Mynämäki)",218044,6735149
+"23200  Vinkkilä (Vehmaa)",213028,6740595
+"23210  Vehmaa (Vehmaa)",208328,6739252
+"23260  Rautila (Vehmaa)",211619,6731128
+"23310  Taivassalo (Taivassalo)",202678,6729907
+"23360  Kustavi (Kustavi)",193704,6724903
+"23390  Iniö (Pargas)",187348,6706901
+"23450  Lokalahti (Uusikaupunki)",196104,6741347
+"23500  Uusikaupunki Keskus (Uusikaupunki)",196276,6755941
+"23600  Kalanti Keskus (Uusikaupunki)",206983,6754025
+"23660  Kalanti Asemanseutu (Uusikaupunki)",203169,6748054
+"23800  Laitila Keskus (Laitila)",216196,6760921
+"23840  Soukainen (Laitila)",212349,6766854
+"23880  Suontaka (Laitila)",219477,6767378
+"23930  Pyhämaa (Uusikaupunki)",192923,6767935
+"23950  Pyhäranta (Pyhäranta)",201339,6768983
+"23960  Santtio (Pyhäranta)",198963,6773901
+"24100  Salo Keskus (Salo)",287983,6700048
+"24130  Ylhäisi (Salo)",286508,6695349
+"24240  Rappula (Salo)",285766,6705572
+"24260  Ollikkala (Salo)",289031,6708110
+"24280  Tupuri-Hähkänä (Salo)",290956,6703213
+"24800  Halikko Keskus (Salo)",283310,6702943
+"24910  Halikko Asemanseutu (Salo)",280719,6703683
+"25110  Kruusila (Salo)",303498,6698212
+"25130  Muurla (Salo)",294906,6696608
+"25160  Tuohittu (Salo)",293861,6689344
+"25170  Kotalato (Salo)",284754,6691159
+"25180  Romsila (Salo)",299268,6702242
+"25190  Inkere (Salo)",295089,6704710
+"25210  Vartsala (Salo)",279971,6696525
+"25230  Angelniemi (Salo)",274261,6695245
+"25240  Hajala (Salo)",274349,6703702
+"25250  Märynummi (Salo)",282297,6707679
+"25260  Vaskio (Salo)",279614,6714875
+"25320  Raatala (Salo)",288415,6718195
+"25330  Kuusjoki Keskus (Salo)",292152,6715244
+"25340  Kanunki (Salo)",297548,6718778
+"25360  Pertteli Keskus (Salo)",293852,6709026
+"25370  Hiisi (Salo)",299034,6710795
+"25380  Rekijoki (Salo)",305103,6712447
+"25390  Kiikala Keskus (Salo)",311717,6707157
+"25410  Suomusjärvi Keskus (Salo)",312792,6694679
+"25420  Lahnajärvi (Salo)",318529,6697832
+"25430  Kettula (Salo)",320233,6702305
+"25460  Toija (Salo)",302005,6686264
+"25470  Kisko kk (Salo)",307457,6681001
+"25500  Perniö Keskus (Salo)",284126,6676006
+"25520  Perniö Asemanseutu (Salo)",286190,6686190
+"25540  Knaapila (Salo)",293691,6684935
+"25550  Aijala (Salo)",298577,6678125
+"25560  Koski Asemanseutu (Salo)",294242,6676584
+"25570  Teijo-Mathildedal (Salo)",278347,6686276
+"25610  Ylönkylä (Salo)",276380,6676689
+"25630  Finby (Salo)",273477,6670290
+"25640  Förby (Salo)",271323,6664331
+"25650  Strömma (Kimitoön)",269160,6680201
+"25660  Mathildedal (Salo)",273495,6682084
+"25700  Kemiö Keskus (Kimitoön)",266211,6677081
+"25710  Vreta-Vestlax (Kimitoön)",258304,6676879
+"25730  Mjösund (Kimitoön)",248987,6680358
+"25760  Kiila (Kimitoön)",271611,6685359
+"25810  Mark (Kimitoön)",262669,6670544
+"25820  Vestlax (Kimitoön)",263864,6667949
+"25830  Västanfjärd Keskus (Kimitoön)",261959,6663448
+"25840  Nivelax (Kimitoön)",256912,6667786
+"25860  Björkboda (Kimitoön)",252210,6672167
+"25870  Dragsfjärd (Kimitoön)",246756,6666378
+"25900  Taalintehdas (Kimitoön)",249556,6663061
+"25910  Vänoxa (Kimitoön)",255902,6654068
+"25930  Kasnäs (Kimitoön)",243699,6653455
+"25940  Hiittinen (Kimitoön)",248167,6647455
+"25950  Rosala-Kasnäs-Hitis (Kimitoön)",244583,6644672
+"25960  Högsåra (Kimitoön)",240479,6655137
+"26100  Rauma Keskus (Rauma)",203881,6790399
+"26200  Merirauma-Kappelinluhta (Rauma)",203252,6794103
+"26410  Kaaro (Rauma)",206959,6794944
+"26510  Uotila (Rauma)",209119,6790993
+"26560  Kolla (Rauma)",212556,6785200
+"26660  Paroalho (Rauma)",207014,6787584
+"26720  Monnanummi (Rauma)",206284,6785670
+"26740  Vasarainen (Rauma)",208803,6783283
+"26820  Sampaanala (Rauma)",202914,6787340
+"26840  Kortela (Rauma)",204071,6785359
+"26910  Unaja (Rauma)",204217,6782719
+"26930  Vermuntila (Rauma)",205028,6777579
+"26950  Voiluoto (Rauma)",200165,6781902
+"27100  Eurajoki Keskus (Eurajoki)",215762,6797243
+"27110  Irjanne (Eurajoki)",219996,6803123
+"27130  Eurajoki asemanseutu (Eurajoki)",224659,6795538
+"27150  Lapijoki (Eurajoki)",210869,6795539
+"27160  Olkiluoto (Eurajoki)",202872,6801959
+"27170  Kuivalahti (Eurajoki)",211590,6806208
+"27220  Ala-Kieri (Rauma)",218171,6782805
+"27230  Lappi (Rauma)",221307,6786362
+"27250  Kodiksami (Rauma)",229289,6779316
+"27260  Kuolimaa (Rauma)",222819,6778818
+"27310  Kodisjoki (Rauma)",213500,6777222
+"27320  Ihode (Pyhäranta)",207296,6772291
+"27340  Reila (Pyhäranta)",195980,6779642
+"27400  Kiukainen Keskus (Eura)",236448,6795851
+"27420  Panelia Asemanseutu (Eura)",229761,6795743
+"27430  Panelia (Eura)",228987,6801695
+"27450  Harola (Eura)",238810,6799136
+"27500  Kauttua (Eura)",239054,6781815
+"27510  Eura Keskus (Eura)",234408,6788306
+"27600  Hinnerjoki (Eura)",228658,6768560
+"27640  Honkilahti kk (Eura)",234653,6769763
+"27650  Honkilahti (Eura)",241995,6767142
+"27670  Mannila (Eura)",240046,6774628
+"27710  Köyliö Keskus (Säkylä)",246987,6786591
+"27730  Tuiskula (Säkylä)",243552,6791595
+"27740  Voitoinen (Säkylä)",242389,6796537
+"27750  Yttilä (Säkylä)",253683,6786047
+"27800  Säkylä Keskus (Säkylä)",256019,6772768
+"27820  Iso-Vimma (Säkylä)",243848,6780521
+"27840  Kakkuri (Säkylä)",251701,6780576
+"27860  Vuori (Säkylä)",258255,6778008
+"27910  Huovinrinne (Säkylä)",253303,6775375
+"27920  Otajoki (Säkylä)",249430,6769678
+"28100  Pori Keskus (Pori)",219853,6842270
+"28120  Käppärä-Isomäki (Pori)",221529,6827903
+"28130  Impola (Pori)",223972,6825857
+"28190  Pormestarinluoto (Pori)",219098,6837980
+"28200  Toejoki (Pori)",224064,6831452
+"28220  Ruosniemi (Pori)",227521,6832201
+"28240  Isojoenranta (Pori)",227169,6827963
+"28260  Harjunpää (Ulvila)",231272,6828452
+"28300  Kalaholma-Väinölä (Pori)",226043,6827454
+"28330  Koivistonluoto (Pori)",226235,6825493
+"28360  Vanhakoivisto (Pori)",224963,6826655
+"28370  Sampola (Pori)",225222,6825477
+"28400  Ulvila Keskus (Ulvila)",225560,6819937
+"28430  Kartano-Harmaalinna (Pori)",225045,6823490
+"28450  Vanha-Ulvila (Ulvila)",229532,6822279
+"28500  Keskussairaala-alue-Tiilimäki (Pori)",222385,6826075
+"28540  Pinomäki (Pori)",221801,6824151
+"28560  Lattomeri (Pori)",220755,6818171
+"28580  Niittymaa (Pori)",218537,6821005
+"28600  Vähärauma (Pori)",218605,6827750
+"28610  Musa-Tiiliruukki (Pori)",220149,6827125
+"28660  Pietniemi-Leppäkorpi (Pori)",213698,6826567
+"28760  Kyläsaari (Pori)",216144,6833758
+"28800  Pihlava (Pori)",212381,6836687
+"28840  Yyteri-Kaanaa (Pori)",209537,6838986
+"28880  Mäntyluoto (Pori)",209100,6840791
+"28900  Tahkoluoto-Reposaari (Pori)",208556,6845729
+"29100  Luvia Keskus (Eurajoki)",212063,6814623
+"29180  Peränkylä (Eurajoki)",218610,6810043
+"29200  Harjavalta Keskus (Harjavalta)",239302,6809216
+"29250  Nakkila Keskus (Nakkila)",233844,6813738
+"29270  Hormisto (Nakkila)",226592,6809268
+"29280  Järvimaa (Nakkila)",225357,6814788
+"29310  Kaasmarkku (Ulvila)",233739,6823142
+"29320  Leineperi (Ulvila)",240787,6819196
+"29340  Kullaa Keskus (Ulvila)",246521,6827503
+"29350  Palus (Ulvila)",237675,6829143
+"29570  Söörmarkku (Pori)",224146,6837919
+"29600  Noormarkku Keskus (Pori)",232871,6841121
+"29630  Pomarkku Keskus (Pomarkku)",235773,6850541
+"29640  Honkakoski (Pomarkku)",240949,6856845
+"29680  Kairila (Pori)",247642,6842994
+"29700  Ahlainen (Pori)",217538,6851758
+"29720  Lamppi (Pori)",221750,6847305
+"29740  Etelämaa (Merikarvia)",220240,6860682
+"29750  Pohjansaha (Merikarvia)",215308,6858374
+"29760  Köörtilä (Merikarvia)",211455,6862032
+"29790  Tuorila (Merikarvia)",219347,6868652
+"29810  Siikainen Keskus (Siikainen)",230718,6875400
+"29830  Sammi (Siikainen)",241217,6870826
+"29860  Otamo (Siikainen)",224542,6866494
+"29880  Leväsjoki-Saarineva (Siikainen)",229466,6861297
+"29900  Merikarvia Keskus-Rannikko (Merikarvia)",210246,6878228
+"29940  Kuvaskangas (Merikarvia)",219326,6880617
+"30100  Forssa Keskus (Forssa)",316674,6752008
+"30300  Viksberg (Forssa)",316793,6744895
+"30420  Tölö (Forssa)",314419,6745988
+"31110  Matku (Forssa)",313253,6764005
+"31130  Koijärvi (Forssa)",319950,6759645
+"31140  Menonen (Urjala)",308692,6768603
+"31160  Nuutajärvi (Urjala)",303649,6771126
+"31170  Savijoki (Forssa)",323619,6762996
+"31230  Susikas (Tammela)",329789,6757237
+"31250  Teuro (Tammela)",334674,6752007
+"31300  Tammela Keskus (Tammela)",332298,6746917
+"31310  Mustiala (Tammela)",324403,6748189
+"31340  Porras (Tammela)",331704,6738975
+"31350  Vistinkoski (Tammela)",332547,6731414
+"31370  Eerikkilän Urheiluopisto (Tammela)",324809,6736414
+"31380  Letku-Torro (Tammela)",322025,6734891
+"31400  Somero Keskus (Somero)",312228,6727618
+"31410  Ylöpirtti (Somero)",307885,6734724
+"31450  Häntälä (Somero)",301583,6722924
+"31460  Hirsjärvi (Somero)",317797,6721633
+"31470  Somerniemi (Somero)",322006,6719605
+"31490  Terttilä (Somero)",311934,6716116
+"31500  Koski Tl (Koski Tl)",288027,6731343
+"31520  Pitkäjärvi (Somero)",297964,6731940
+"31530  Pyöli (Somero)",303110,6731471
+"31600  Jokioinen Keskus (Jokioinen)",308925,6745254
+"31610  Vaulammi (Jokioinen)",305047,6743404
+"31620  Latovainio (Jokioinen)",310373,6755841
+"31630  Minkiö (Jokioinen)",305088,6752065
+"31640  Humppila Keskus (Humppila)",300829,6757834
+"31650  Venäjänkangas (Humppila)",300371,6766340
+"31700  Urjala Asemanseutu-Hanhisuo (Urjala)",322741,6770042
+"31720  Urjalankylä-Kehro (Urjala)",307156,6778134
+"31730  Honkola (Urjala)",307405,6785439
+"31750  Kehro (Urjala)",311426,6789112
+"31760  Urjala Keskus (Urjala)",314037,6777386
+"31810  Oriniemi (Punkalaidun)",296726,6787857
+"31830  Halkivaha (Urjala)",302160,6790000
+"31850  Koskioinen (Punkalaidun)",295953,6779066
+"31860  Tursa (Urjala)",301471,6778869
+"31900  Punkalaidun Keskus (Punkalaidun)",287919,6781563
+"31930  Vanttila (Punkalaidun)",283328,6785880
+"31950  Sadonmaa (Punkalaidun)",295559,6772287
+"31960  Orisuo (Loimaa)",289475,6770919
+"31970  Kanteenmaa (Punkalaidun)",284439,6775630
+"32100  Ypäjä Keskus (Ypäjä)",296743,6743610
+"32140  Ypäjä Asemanseutu (Ypäjä)",295158,6753453
+"32200  Loimaa Keskus (Loimaa)",286787,6752468
+"32210  Loimaa kk (Loimaa)",282234,6756966
+"32250  Kojonkulma (Loimaa)",283080,6762839
+"32260  Kojonperä (Loimaa)",285411,6767684
+"32270  Metsämaa-Murto (Loimaa)",292679,6762265
+"32280  Metsäkorpi (Loimaa)",296360,6760361
+"32300  Mellilä (Loimaa)",279073,6742248
+"32410  Niinijoki (Loimaa)",274371,6753659
+"32430  Ylhäinen (Loimaa)",274773,6758947
+"32440  Alastaro Keskus (Loimaa)",275820,6763665
+"32450  Tammiainen (Loimaa)",273189,6770006
+"32500  Oripää Keskus (Oripää)",264729,6754542
+"32520  Latva (Oripää)",261837,6759660
+"32560  Virttaa (Loimaa)",264307,6764962
+"32610  Vampula Keskus (Huittinen)",266963,6773324
+"32620  Rutava (Huittinen)",267730,6778127
+"32700  Huittinen Keskus (Huittinen)",265305,6787636
+"32710  Sampu (Huittinen)",263890,6798196
+"32730  Keikyä (Sastamala)",273666,6797879
+"32740  Äetsä Keskus (Sastamala)",267490,6803164
+"32760  Suttila (Huittinen)",277547,6786019
+"32770  Huhtamo (Huittinen)",277936,6778330
+"32800  Kokemäki Keskus (Kokemäki)",252467,6797204
+"32810  Peipohja (Kokemäki)",245329,6797858
+"32830  Riste (Kokemäki)",256515,6798879
+"32860  Korkeaoja (Kokemäki)",247619,6815347
+"32910  Kauvatsa Asemanseutu (Kokemäki)",261060,6805268
+"32920  Kauvatsa (Kokemäki)",256924,6814179
+"33100  Tampere Keskus (Tampere)",328970,6821590
+"33180  Lapinniemi-Käpylä (Tampere)",328335,6825083
+"33200  Tampere Keskus Läntinen (Tampere)",327187,6822019
+"33210  Itä-Amuri-Tammerkoski (Tampere)",327246,6823469
+"33230  Länsi-Amuri (Tampere)",326046,6822508
+"33240  Tahmela (Tampere)",324822,6822271
+"33250  Pispala (Tampere)",325414,6823987
+"33270  Epilä (Tampere)",323105,6822896
+"33300  Rahola (Tampere)",320377,6822197
+"33310  Tesoma (Tampere)",320380,6824208
+"33330  Myllypuro-Kalkku (Tampere)",317735,6823933
+"33340  Haukiluoma-Ikuri (Tampere)",319181,6824725
+"33380  Pitkäniemi (Nokia)",318043,6821045
+"33400  Luoteis-Tampere (Tampere)",322728,6826203
+"33410  Lentävänniemi (Tampere)",326022,6826233
+"33420  Lamminpää (Tampere)",321047,6825801
+"33430  Vuorentausta (Ylöjärvi)",318943,6826761
+"33450  Siivikkala (Ylöjärvi)",324191,6829398
+"33470  Ylöjärvi Keskus (Ylöjärvi)",318116,6828877
+"33480  Manninmäki-Haavisto (Ylöjärvi)",322417,6832467
+"33500  Osmonmäki-Petsamo (Tampere)",329709,6824203
+"33520  Keskussairaala-alue-Kauppi (Tampere)",330614,6823337
+"33530  Kissanmaa (Tampere)",331115,6822176
+"33540  Kaleva (Tampere)",329790,6822237
+"33560  Takahuhti (Tampere)",332998,6823233
+"33580  Atala-Linnainmaa (Tampere)",335921,6821850
+"33610  Olkahinen-Tasanne (Tampere)",337060,6824253
+"33680  Aitolahti (Tampere)",338795,6829391
+"33700  Messukylä (Tampere)",331601,6820776
+"33710  Kaukajärvi (Tampere)",334637,6818325
+"33720  Hervanta (Tampere)",332532,6816410
+"33730  Leinola-Vehmainen (Tampere)",335522,6819797
+"33800  Nekala (Tampere)",329553,6820526
+"33820  Koivistonkylä (Tampere)",330035,6818487
+"33840  Peltolammi (Tampere)",327594,6817326
+"33850  Multisilta (Tampere)",326236,6816006
+"33870  Vuores (Tampere)",330830,6814545
+"33880  Höytämö (Lempäälä)",327108,6813494
+"33900  Härmälä-Rantaperkiö (Tampere)",326746,6819738
+"33920  Toivio (Pirkkala)",325003,6817496
+"33950  Killo (Pirkkala)",323837,6820042
+"33960  Suuppa (Pirkkala)",321845,6816635
+"33980  Pirkkala kk (Pirkkala)",316074,6815125
+"34110  Lakiala (Ylöjärvi)",316100,6836513
+"34130  Ylinen (Ylöjärvi)",321764,6837316
+"34140  Mutala (Ylöjärvi)",321068,6842043
+"34150  Kyrönlahti (Ylöjärvi)",316962,6851193
+"34180  Länsi-Teisko (Ylöjärvi)",325493,6849051
+"34240  Kämmenteisko (Tampere)",333797,6835616
+"34260  Terälahti (Tampere)",335702,6843521
+"34270  Velaatta (Tampere)",342092,6851429
+"34300  Kuru Keskus (Ylöjärvi)",325332,6874931
+"34320  Parkkuu (Ylöjärvi)",325570,6858018
+"34330  Poikelus (Ylöjärvi)",321302,6855471
+"34410  Murole (Ruovesi)",339814,6857585
+"34420  Muroleen Kanava (Ruovesi)",337504,6863665
+"34430  Kekkonen (Ruovesi)",344174,6860034
+"34450  Jäminkipohja (Ruovesi)",349318,6864249
+"34510  Luode (Ylöjärvi)",317636,6875155
+"34530  Länsi-Aure (Ylöjärvi)",310087,6875688
+"34550  Itä-Aure (Ylöjärvi)",315037,6887767
+"34600  Ruovesi Keskus-Nenonen (Ruovesi)",342535,6874865
+"34640  Mustajärvi (Ruovesi)",342515,6883392
+"34710  Vaskivesi (Virrat)",327073,6892811
+"34730  Vaskuu (Virrat)",318090,6900147
+"34740  Koro (Virrat)",325587,6901713
+"34770  Kurjenkylä (Virrat)",310827,6911960
+"34800  Virrat Keskus (Virrat)",330267,6903855
+"34870  Visuvesi (Ruovesi)",340730,6889531
+"34910  Äijänneva (Virrat)",319385,6916307
+"34930  Liedenpohja (Virrat)",325303,6920331
+"34950  Ohtola (Virrat)",334615,6915928
+"34970  Toisvesi (Virrat)",335419,6921727
+"34980  Killinkoski (Virrat)",338618,6923749
+"35100  Orivesi Asemanseutu (Orivesi)",363366,6837368
+"35220  Eräjärvi (Orivesi)",369589,6830010
+"35240  Ristakallio (Orivesi)",376137,6828010
+"35260  Leväslahti (Orivesi)",371537,6835630
+"35270  Västilä (Orivesi)",378996,6833840
+"35300  Orivesi Keskus (Orivesi)",360789,6829956
+"35320  Hirsilä (Orivesi)",356406,6851122
+"35400  Länkipohja (Jämsä)",387176,6846403
+"35420  Talviainen (Orivesi)",375277,6849683
+"35480  Längelmäki (Orivesi)",379011,6841164
+"35500  Korkeakoski (Juupajoki)",358824,6858619
+"35520  Pirttikangas (Juupajoki)",365670,6859279
+"35530  Lyly (Juupajoki)",368789,6864634
+"35540  Juupajoki (Juupajoki)",371387,6854189
+"35550  Salokunta (Juupajoki)",365992,6849232
+"35600  Halli (Jämsä)",383113,6860741
+"35610  Pihlaisto (Jämsä)",379086,6863591
+"35630  Suinula-Valkamanperä (Jämsä)",384460,6867181
+"35700  Vilppula Keskus (Mänttä-Vilppula)",361490,6881966
+"35740  Ylä-Vääri (Ruovesi)",359085,6875225
+"35750  Väärinmaja (Ruovesi)",354103,6872624
+"35800  Mänttä (Mänttä-Vilppula)",374988,6882728
+"35820  Asemakulma-Mustalahti (Jämsä)",383111,6878528
+"35990  Kolho (Mänttä-Vilppula)",371636,6891445
+"36100  Kangasala Asemanseutu (Kangasala)",339839,6821582
+"36110  Ruutana (Kangasala)",341501,6824706
+"36120  Suinula-Haviseva (Kangasala)",347619,6830035
+"36200  Kangasala Keskus (Kangasala)",339884,6816115
+"36220  Suorama (Kangasala)",339838,6818931
+"36240  Nattari (Kangasala)",337762,6820341
+"36270  Huutijärvi (Kangasala)",346274,6815176
+"36280  Pikonlinna (Kangasala)",344775,6821213
+"36340  Tohkala (Kangasala)",355667,6826086
+"36420  Sahalahti Keskus (Kangasala)",358860,6820441
+"36430  Pakkala (Kangasala)",364741,6814861
+"36450  Salmentaka (Pälkäne)",362957,6809853
+"36520  Raikku (Kangasala)",353475,6812598
+"36570  Kaivanto (Kangasala)",347624,6808901
+"36600  Pälkäne Keskus (Pälkäne)",353757,6802729
+"36640  Iltasmäki (Pälkäne)",355345,6798447
+"36660  Laitikkala (Pälkäne)",357976,6794700
+"36720  Aitoo (Pälkäne)",367222,6802982
+"36760  Luopioinen Keskus (Pälkäne)",374282,6805046
+"36810  Kuhmalahti Keskus (Kangasala)",369131,6821076
+"36840  Kuhmajärvi (Kangasala)",376740,6819260
+"36880  Vehkajärvi (Kangasala)",385359,6820827
+"36910  Rautajärvi (Pälkäne)",378126,6810223
+"36930  Kyynärö (Pälkäne)",384635,6807389
+"37100  Nokia Keskus (Nokia)",315221,6827509
+"37120  Koskenmäki (Nokia)",308439,6816848
+"37130  Alhoniitty (Nokia)",310978,6823147
+"37140  Harjuniitty (Nokia)",310255,6820949
+"37150  Kankaantaka (Nokia)",315716,6823743
+"37180  Sarkola (Nokia)",300050,6815154
+"37200  Siuro (Nokia)",304060,6824969
+"37210  Kulovesi (Nokia)",300180,6823900
+"37240  Linnavuori (Nokia)",306767,6822823
+"37310  Tottijärvi (Nokia)",306171,6810320
+"37350  Rämsöö (Vesilahti)",301821,6805467
+"37370  Narva (Vesilahti)",311250,6804138
+"37380  Krääkkiö (Vesilahti)",307019,6794702
+"37420  Valkkinen (Vesilahti)",317258,6794424
+"37470  Vesilahti Keskus (Vesilahti)",318244,6801177
+"37500  Lempäälä Keskus (Lempäälä)",329395,6801660
+"37530  Säijä (Lempäälä)",319703,6808595
+"37550  Kuivaspää (Lempäälä)",329839,6808516
+"37560  Kulju (Lempäälä)",328451,6811030
+"37570  Koivuniemi (Lempäälä)",331296,6806961
+"37600  Valkeakoski Keskus (Valkeakoski)",345793,6794079
+"37630  Vääräkoivu (Valkeakoski)",337566,6799824
+"37700  Sääksmäki (Valkeakoski)",342476,6787847
+"37720  Ritvala (Valkeakoski)",348707,6786404
+"37740  Haukila (Valkeakoski)",353588,6789822
+"37770  Tarttila (Valkeakoski)",341811,6783421
+"37800  Toijala keskus (Akaa)",330451,6780640
+"37830  Viiala Keskus (Akaa)",323433,6791624
+"37850  Metsäkansa (Valkeakoski)",331159,6792696
+"37860  Kärjenniemi (Valkeakoski)",336649,6792796
+"37900  Kylmäkoski Asemanseutu (Akaa)",322220,6779796
+"37910  Kylmäkoski Keskus (Akaa)",317643,6785992
+"37960  Sotkia (Akaa)",327062,6782797
+"38100  Karkku (Sastamala)",290526,6819132
+"38120  Kutala (Sastamala)",294787,6814071
+"38130  Ellivuori (Sastamala)",288758,6814289
+"38140  Kärppälä (Sastamala)",292704,6810221
+"38200  Vammala Keskus (Sastamala)",281917,6806166
+"38210  Vammala Asemanseutu (Sastamala)",281153,6814159
+"38220  Stormi (Sastamala)",292255,6803547
+"38250  Roismala (Sastamala)",284028,6800566
+"38270  Sammaljoki (Sastamala)",294300,6795055
+"38280  Illo (Sastamala)",285542,6792778
+"38300  Kiikka (Sastamala)",271328,6810861
+"38360  Kiikoinen (Sastamala)",263891,6822715
+"38420  Häijää (Sastamala)",293544,6825526
+"38460  Mouhijärvi Keskus (Sastamala)",282956,6826559
+"38470  Hyynilä (Sastamala)",284330,6831798
+"38490  Haukijärvi (Hämeenkyrö)",292008,6832123
+"38510  Suodenniemi (Sastamala)",274886,6837691
+"38600  Lavia Keskus (Pori)",266239,6836810
+"38650  Yli-Putto (Pori)",258499,6846233
+"38670  Kalliala-Haunia (Pori)",256666,6840361
+"38680  Tuunajärvi (Pomarkku)",250666,6852378
+"38700  Kankaanpää Keskus (Kankaanpää)",259988,6857178
+"38710  Myllymäki (Kankaanpää)",255552,6861188
+"38720  Vihteljärvi (Kankaanpää)",266328,6852288
+"38740  Hapuoja (Kankaanpää)",251903,6860995
+"38750  Veneskoski (Kankaanpää)",248805,6856917
+"38760  Venesjärvi (Kankaanpää)",244748,6864302
+"38770  Lohikko (Kankaanpää)",253565,6865716
+"38800  Jämijärvi Keskus (Jämijärvi)",272412,6861440
+"38840  Niinisalo (Kankaanpää)",264568,6871250
+"38860  Suurimaa (Jämijärvi)",269198,6872692
+"38910  Ala-Honkajoki (Kankaanpää)",257366,6874564
+"38920  Vatajankoski (Honkajoki)",249423,6875574
+"38950  Honkajoki Keskus (Honkajoki)",250931,6883497
+"38970  Lauhala (Honkajoki)",254130,6892645
+"39100  Hämeenkyrö Keskus (Hämeenkyrö)",296875,6835178
+"39110  Simuna (Hämeenkyrö)",301096,6833289
+"39130  Sasi (Hämeenkyrö)",305521,6833183
+"39150  Pinsiö (Hämeenkyrö)",311461,6832443
+"39160  Julkujärvi (Ylöjärvi)",314775,6831760
+"39170  Jumesniemi (Hämeenkyrö)",300551,6829022
+"39180  Herttuala (Hämeenkyrö)",293532,6835649
+"39195  Kaipio (Hämeenkyrö)",285884,6838982
+"39200  Kyröskoski (Hämeenkyrö)",294974,6843564
+"39230  Osara (Hämeenkyrö)",297141,6847450
+"39290  Vesajärvi (Hämeenkyrö)",284093,6843054
+"39310  Viljakkala Keskus (Ylöjärvi)",304505,6848860
+"39340  Karhe (Ylöjärvi)",312788,6849977
+"39360  Komi (Ylöjärvi)",309477,6843620
+"39380  Lavajärvi (Hämeenkyrö)",311658,6840267
+"39410  Luhalahti (Ikaalinen)",305640,6857631
+"39430  Röyhiö (Ikaalinen)",297786,6860736
+"39450  Sisättö (Ikaalinen)",309768,6864064
+"39500  Ikaalinen Keskus (Ikaalinen)",290982,6857704
+"39530  Kilvakkala (Ikaalinen)",282548,6852274
+"39580  Riitiala (Ikaalinen)",290082,6867753
+"39590  Tevaniemi (Ikaalinen)",293375,6864031
+"39610  Kovelahti (Ikaalinen)",280450,6869857
+"39620  Kovesjoki (Parkano)",274193,6879654
+"39660  Lapinneva (Parkano)",285313,6878966
+"39700  Parkano Keskus (Parkano)",293978,6885659
+"39750  Vatajanjärvi (Parkano)",287684,6902355
+"39770  Aureskoski (Parkano)",306347,6883647
+"39780  Alaskylä (Parkano)",289231,6874360
+"39810  Linnankylä (Kihniö)",300176,6894159
+"39820  Kihniö Keskus (Kihniö)",302685,6907958
+"39880  Kihniö Asemanseutu (Kihniö)",307796,6894604
+"39920  Suomijärvi (Karvia)",274612,6892305
+"39930  Karvia Keskus (Karvia)",267532,6898730
+"39940  Kantti (Karvia)",264200,6891066
+"39960  Sarvela (Karvia)",271586,6902053
+"39965  Karviankylä (Karvia)",276850,6909040
+"39980  Sara (Karvia)",272367,6910898
+"39990  Alkkia (Karvia)",280691,6902403
+"40100  Jyväskylä Keskus (Jyväskylä)",435330,6901715
+"40200  Mannila-Taulumäki (Jyväskylä)",434122,6904795
+"40250  Ritoniemi-Lohikoski (Jyväskylä)",435723,6905389
+"40270  Pappilanrinne-Pappilanvuori (Jyväskylä)",430940,6909566
+"40320  Seppälän Teollisuusalue (Jyväskylä)",437706,6907978
+"40340  Huhtasuo (Jyväskylä)",438878,6905105
+"40400  Halssila (Jyväskylä)",437422,6902034
+"40420  Jyskä (Jyväskylä)",439118,6901421
+"40500  Keljo-Ristonmaa (Jyväskylä)",428699,6897532
+"40520  Kuokkala-Ristikivi (Jyväskylä)",436697,6898714
+"40530  Keljonkangas (Jyväskylä)",431659,6895638
+"40600  Mattilanpelto (Jyväskylä)",433203,6900233
+"40620  Keskussairaala-alue-Kukkumäki (Jyväskylä)",432831,6900593
+"40630  Kypärämäki (Jyväskylä)",431462,6901417
+"40640  Keltinmäki (Jyväskylä)",430954,6899956
+"40660  Länsi-Palokka (Jyväskylä)",427975,6904979
+"40700  Mäki-Matti (Jyväskylä)",433459,6901527
+"40720  Nisula (Jyväskylä)",434192,6902780
+"40740  Kortepohja (Jyväskylä)",432505,6904087
+"40800  Vaajakoski (Jyväskylä)",442632,6901001
+"40820  Vuoritsalo (Jyväskylä)",438891,6896822
+"40900  Säynätsalo (Jyväskylä)",435369,6887021
+"40930  Kinkomaa (Muurame)",435584,6894334
+"40950  Muurame Keskus (Muurame)",428477,6888301
+"41120  Puuppola (Jyväskylä)",432105,6914362
+"41140  Kuikka (Jyväskylä)",425097,6917693
+"41160  Tikkakoski (Jyväskylä)",432766,6919636
+"41180  Vehniä (Laukaa)",431354,6924705
+"41210  Jokihaara (Uurainen)",423790,6924099
+"41220  Höytiä (Uurainen)",415533,6922158
+"41230  Uurainen Keskus (Uurainen)",417906,6929489
+"41240  Kyynämöinen (Uurainen)",409419,6928431
+"41260  Hoikankylä (Saarijärvi)",413814,6938184
+"41270  Lannevesi (Saarijärvi)",418254,6941303
+"41290  Kangashäkki (Uurainen)",427855,6931809
+"41310  Leppävesi (Laukaa)",441267,6911203
+"41325  Laukkavirta (Laukaa)",452013,6916252
+"41330  Vihtavuori (Laukaa)",443916,6914873
+"41340  Laukaa Keskus (Laukaa)",446342,6917950
+"41350  Laukaa Asemanseutu (Laukaa)",439920,6922196
+"41360  Valkola (Laukaa)",438869,6927810
+"41370  Kuusa (Laukaa)",452223,6924641
+"41390  Äijälä (Laukaa)",451193,6932236
+"41400  Lievestuore (Laukaa)",456279,6908509
+"41410  Kankainen (Toivakka)",460649,6892021
+"41440  Ruuhimäki (Toivakka)",456214,6896843
+"41450  Leppälahti (Jyväskylä)",447672,6900004
+"41490  Niemisjärvi (Hankasalmi)",465188,6904587
+"41500  Hankasalmi Asemanseutu (Hankasalmi)",473316,6905289
+"41520  Hankasalmi Keskus (Hankasalmi)",474884,6918785
+"41530  Veneranta (Hankasalmi)",466272,6916204
+"41540  Ristimäki (Hankasalmi)",464686,6926331
+"41550  Hannula (Hankasalmi)",462312,6932652
+"41560  Säkinmäki (Hankasalmi)",474510,6928291
+"41580  Sauvamäki (Hankasalmi)",479761,6910960
+"41630  Oravasaari (Jyväskylä)",441418,6888981
+"41660  Toivakka Keskus (Toivakka)",451710,6885312
+"41710  Rutalahti-Kivisuo (Jyväskylä)",445974,6873004
+"41730  Kivisuo (Joutsa)",445046,6862114
+"41750  Havumäki (Joutsa)",462314,6873607
+"41770  Leivonmäki (Joutsa)",454460,6865653
+"41800  Korpilahti Keskus (Jyväskylä)",422463,6879890
+"41820  Saakoski (Jyväskylä)",416030,6873263
+"41840  Moksi (Jyväskylä)",416702,6886852
+"41860  Rannila (Jyväskylä)",420305,6891894
+"41870  Putkilahti (Jyväskylä)",430439,6863380
+"41880  Oittila (Jyväskylä)",436156,6870711
+"41900  Petäjävesi Keskus (Petäjävesi)",404512,6903965
+"41920  Kintaus (Petäjävesi)",413818,6905749
+"41925  Ylä-Kintaus (Petäjävesi)",413587,6914557
+"41930  Kuohu (Jyväskylä)",418241,6905281
+"41940  Vesanka (Jyväskylä)",421201,6910314
+"41970  Huttula (Keuruu)",397458,6905324
+"41980  Kuivasmäki (Petäjävesi)",406806,6916577
+"42100  Jämsä Keskus (Jämsä)",413848,6863109
+"42140  Juokslahti (Jämsä)",411697,6872118
+"42220  Kaipola (Jämsä)",406738,6855207
+"42300  Jämsänkoski Keskus (Jämsä)",405065,6868790
+"42330  Haavisto (Jämsä)",400049,6877895
+"42440  Koskenpää (Jämsä)",400310,6888408
+"42520  Asunta (Keuruu)",391951,6906232
+"42560  Pohjoisjärvi (Keuruu)",387225,6898770
+"42600  Multia Keskus-Väätäiskylä (Multia)",388257,6927504
+"42660  Sahrajärvi (Multia)",402950,6931819
+"42700  Keuruu Keskus (Keuruu)",377075,6908424
+"42720  Valkealahti (Keuruu)",378924,6900978
+"42800  Haapamäki (Keuruu)",365270,6903878
+"42820  Riiho (Keuruu)",362593,6898411
+"42830  Ylä-Kolkki (Mänttä-Vilppula)",355739,6901001
+"42840  Kolkki (Mänttä-Vilppula)",355115,6890305
+"42850  Pohjaslahti (Mänttä-Vilppula)",348271,6896442
+"42870  Kotala (Virrat)",346480,6909211
+"42910  Pihlajavesi (Keuruu)",362168,6919580
+"42930  Katajamäki (Keuruu)",354145,6913459
+"43100  Saarijärvi Keskus (Saarijärvi)",412268,6958824
+"43130  Tarvaala (Saarijärvi)",413079,6947627
+"43170  Häkkilä (Saarijärvi)",423378,6966426
+"43220  Mahlu (Saarijärvi)",397630,6943887
+"43240  Lehtola (Saarijärvi)",398554,6957036
+"43250  Kolkanlahti (Saarijärvi)",405823,6959248
+"43270  Kalmari (Saarijärvi)",399037,6965424
+"43300  Kannonkoski Keskus (Kannonkoski)",413221,6985903
+"43340  Kannonjärvi (Kannonkoski)",411250,6971455
+"43390  Lokakylä (Kivijärvi)",412910,6999593
+"43420  Kukko (Saarijärvi)",384722,6943920
+"43430  Väätäiskylä (Multia)",376080,6942774
+"43440  Pylkönmäki Keskus (Saarijärvi)",382833,6951759
+"43480  Pääjärvi (Saarijärvi)",388766,6963437
+"43490  Kangasaho (Karstula)",377725,6962163
+"43500  Karstula Keskus (Karstula)",388309,6974130
+"43520  Kiminki (Karstula)",383042,6984017
+"43540  Rantakylä-Pirttilahti (Karstula)",381621,6972252
+"43560  Vahanka (Karstula)",372120,6976082
+"43610  Aho (Karstula)",403003,6975408
+"43640  Humppi (Karstula)",393006,6979360
+"43660  Vastinki (Karstula)",397541,6983571
+"43700  Kyyjärvi Keskus (Kyyjärvi)",374777,6994452
+"43720  Kumpulainen (Kyyjärvi)",387581,6997073
+"43800  Kivijärvi Keskus-Sompala (Kivijärvi)",397030,7002655
+"43840  Sompala (Kivijärvi)",404115,6992157
+"43900  Kinnula Keskus (Kinnula)",400694,7028328
+"43940  Muhola-Saarensalmi (Kinnula)",403240,7018758
+"43960  Saarensalmi (Kinnula)",411697,7020321
+"44100  Äänekoski Keskus (Äänekoski)",434765,6940776
+"44120  Mämmensalmi-Mustaniemi (Äänekoski)",434707,6944322
+"44150  Likolahti-Karhunlähde (Äänekoski)",432698,6950389
+"44160  Huutomäki (Äänekoski)",429949,6937585
+"44170  Hietama (Äänekoski)",425462,6940914
+"44190  Parantala (Äänekoski)",424614,6947898
+"44200  Suolahti Keskus (Äänekoski)",441658,6936783
+"44220  Sörkänmäki (Äänekoski)",440273,6946057
+"44250  Äänekoivisto (Äänekoski)",436459,6933266
+"44260  Vihijärvi (Äänekoski)",444710,6945013
+"44280  Sumiainen Keskus (Äänekoski)",450052,6952747
+"44300  Konnevesi Keskus (Konnevesi)",464024,6946404
+"44320  Sirkkamäki (Konnevesi)",472394,6937285
+"44330  Hytölä (Konnevesi)",456800,6937011
+"44350  Istunmäki (Konnevesi)",472523,6951655
+"44370  Mäntymäki (Konnevesi)",457632,6961805
+"44400  Konginkangas Keskus (Äänekoski)",441280,6959730
+"44420  Liimattala (Äänekoski)",437288,6955851
+"44440  Räihä (Äänekoski)",436141,6968992
+"44460  Kalaniemi (Äänekoski)",442299,6972516
+"44480  Niinilahti (Viitasaari)",438849,6979384
+"44500  Viitasaari Keskus (Viitasaari)",437913,6997300
+"44530  Ilmolahti (Viitasaari)",444022,6981807
+"44580  Huopanankoski (Viitasaari)",425938,6994192
+"44590  Vuorilahti (Viitasaari)",428324,6982151
+"44610  Kärnä (Viitasaari)",442253,7010996
+"44630  Kumpumäki (Viitasaari)",450509,7011398
+"44640  Kymönkoski (Viitasaari)",451797,6996954
+"44670  Suovanlahti (Viitasaari)",454830,6984478
+"44680  Lahnanen (Viitasaari)",457537,6992365
+"44730  Löytänä (Viitasaari)",434088,7012594
+"44740  Keitelepohja-Kotvala (Viitasaari)",428143,7009285
+"44760  Keihärinkoski (Viitasaari)",422896,7004417
+"44770  Valkeisjärvi (Viitasaari)",417962,7006309
+"44790  Kotvala (Viitasaari)",419115,7011056
+"44800  Pihtipudas Keskus (Pihtipudas)",424563,7027450
+"44860  Alvajärvi (Pihtipudas)",416743,7034584
+"44880  Muurasjärvi (Pihtipudas)",414394,7047464
+"44910  Elämäjärvi (Pihtipudas)",431342,7040594
+"44920  Peninki (Pihtipudas)",438807,7035635
+"44950  Kärväsjärvi (Pihtipudas)",440224,7024094
+"44970  Korppinen (Pihtipudas)",448898,7027328
+"45100  Kouvola Keskus (Kouvola)",487768,6745344
+"45120  Kotkankallio-Vahteronmäki (Kouvola)",485546,6747241
+"45130  Korjala-Kaunisnurmi (Kouvola)",481099,6747455
+"45150  Kankaronmäki-Eskolanmäki (Kouvola)",484916,6746095
+"45160  Lehtomäki (Kouvola)",484892,6750373
+"45200  Tornionmäki (Kouvola)",487233,6749265
+"45330  Harju (Kouvola)",483727,6754920
+"45360  Kukkuramäki (Kouvola)",487217,6753573
+"45370  Valkeala kk (Kouvola)",491916,6759552
+"45410  Utti (Kouvola)",496820,6750985
+"45460  Savero (Kouvola)",498855,6744112
+"45610  Koria (Kouvola)",477092,6742651
+"45700  Kuusankoski Keskus (Kouvola)",480541,6753295
+"45720  Kotiharju-Puhjonmäki (Kouvola)",482088,6750511
+"45740  Maunuksela (Kouvola)",477110,6751077
+"45750  Kuusankosken Sairaala-alue (Kouvola)",479683,6753321
+"45810  Pilkanmaa (Kouvola)",475643,6757687
+"45910  Voikkaa (Kouvola)",481693,6757790
+"45940  Oravala (Kouvola)",478860,6762063
+"46110  Tuohikotti (Kouvola)",505476,6773274
+"46140  Vekaranjärvi (Kouvola)",498509,6776369
+"46230  Aro (Kouvola)",493547,6771778
+"46400  Kaipiainen (Kouvola)",509033,6749948
+"46430  Tirva-Inkerilä (Kouvola)",503993,6759814
+"46450  Enäjärvi (Kouvola)",507328,6744319
+"46530  Kannuskoski (Luumäki)",512337,6761222
+"46570  Saaramaa (Kouvola)",518655,6746362
+"46710  Sippola (Kouvola)",503366,6737664
+"46730  Ruotila (Kouvola)",504647,6729852
+"46750  Liikkala (Kouvola)",499539,6728886
+"46800  Myllykoski (Kouvola)",490730,6740467
+"46810  Ummeljoki (Kouvola)",484701,6736993
+"46860  Anjalankoski Keskus (Kouvola)",491074,6734748
+"46900  Inkeroinen (Kouvola)",494224,6727572
+"46910  Anjala (Kouvola)",487626,6729258
+"46930  Huruksela (Kotka)",489160,6720748
+"46950  Ahvio (Kouvola)",485276,6721684
+"46960  Muhniemi (Kouvola)",481743,6729404
+"47110  Löytty (Kouvola)",478216,6735521
+"47150  Raussila (Kouvola)",477177,6725151
+"47200  Elimäki kk (Kouvola)",470216,6731980
+"47260  Ratula (Kouvola)",470923,6724686
+"47310  Haapa-Kimola (Iitti)",462100,6738431
+"47350  Kimonkylä (Lapinjärvi)",460549,6731532
+"47400  Kausala (Iitti)",465776,6749199
+"47440  Sääskjärvi (Iitti)",458961,6743131
+"47450  Perheniemi (Iitti)",454861,6746107
+"47460  Hiisiö (Iitti)",453872,6752994
+"47490  Mankala-Hiisiö (Iitti)",456046,6758142
+"47520  Iitti kk (Iitti)",466419,6756526
+"47540  Löyttilä (Iitti)",471567,6759147
+"47610  Kymentaka (Iitti)",464131,6761045
+"47650  Kimola (Kouvola)",463671,6767926
+"47710  Jaala kk (Kouvola)",468224,6776123
+"47760  Huhdasjärvi (Kouvola)",477672,6785505
+"47810  Selänpää (Kouvola)",484733,6767827
+"47830  Hasula (Kouvola)",481814,6767617
+"47850  Verla (Kouvola)",479391,6771636
+"47900  Vuohijärvi (Kouvola)",488933,6775770
+"47910  Hillosensalmi (Kouvola)",488448,6784574
+"48100  Kotkansaari (Kotka)",502277,6694828
+"48130  Katariina (Kotka)",496682,6701840
+"48200  Hovinsaari (Kotka)",496284,6704765
+"48210  Toukolan Sairaala-Alue (Kotka)",495267,6704204
+"48220  Metsola (Kotka)",494671,6705229
+"48230  Korela-Jylppy (Kotka)",494516,6706761
+"48300  Ruonala (Kotka)",493024,6704207
+"48310  Mussalo (Kotka)",493744,6700879
+"48350  Karhuvuori (Kotka)",492028,6705381
+"48400  Sutela (Kotka)",492063,6706835
+"48410  Kaukola (Kotka)",489307,6712252
+"48600  Karhula (Kotka)",496862,6708934
+"48700  Kyminlinna (Kotka)",493998,6708579
+"48710  Koivula (Kotka)",493403,6709669
+"48720  Kymi (Kotka)",493155,6715118
+"48750  Nikeli (Kotka)",491542,6714910
+"48770  Ristinkallio (Kotka)",497353,6711467
+"48800  Otsola-Mäntykangas (Kotka)",498328,6710383
+"48810  Rantahaka (Kotka)",499088,6712999
+"48900  Sunila (Kotka)",497611,6706793
+"48910  Suulisniemi (Kotka)",498641,6707767
+"48930  Tiutinen (Kotka)",498969,6703600
+"49200  Heinlahti (Pyhtää)",488480,6708050
+"49210  Huutjärvi (Pyhtää)",486139,6705599
+"49220  Siltakylä (Pyhtää)",481808,6709761
+"49240  Purolanlahti (Pyhtää)",480570,6703536
+"49270  Pyhtää kk (Pyhtää)",474900,6706923
+"49290  Vastila (Pyhtää)",480849,6719138
+"49300  Tavastila (Kotka)",498304,6716836
+"49340  Juurikorpi (Kotka)",495857,6720328
+"49400  Hamina Keskus (Hamina)",513386,6716218
+"49410  Poitsila (Hamina)",508066,6715172
+"49420  Uusi-Summa (Hamina)",506788,6712763
+"49460  Hillo (Hamina)",508560,6712808
+"49480  Vanha-Summa (Hamina)",505436,6714449
+"49490  Neuvoton (Hamina)",502778,6714356
+"49510  Husula (Hamina)",508924,6719785
+"49520  Reitkalli (Hamina)",504208,6719241
+"49540  Metsäkylä (Hamina)",502004,6723783
+"49570  Kannusjärvi (Hamina)",510350,6729414
+"49610  Sivatti (Hamina)",512711,6717349
+"49630  Vehkajoki (Hamina)",513554,6721071
+"49640  Paijärvi (Hamina)",515498,6723334
+"49660  Pyhältö (Hamina)",521000,6737253
+"49700  Miehikkälä Kirkonkylä (Miehikkälä)",540907,6724691
+"49720  Hurttala (Miehikkälä)",541329,6732024
+"49730  Muurikkala (Miehikkälä)",548896,6725252
+"49750  Kalliokoski (Miehikkälä)",532803,6726539
+"49760  Suur-Miehikkälä (Miehikkälä)",530506,6732559
+"49770  Salo-Miehikkälä (Miehikkälä)",526057,6727038
+"49780  Onkamaa (Hamina)",520875,6724188
+"49840  Mäntlahti (Hamina)",519952,6711062
+"49860  Klamila (Virolahti)",524487,6709311
+"49900  Virolahti Keskus (Virolahti)",536277,6714229
+"49930  Vaalimaa (Virolahti)",545600,6718219
+"49960  Ala-Pihlaja (Virolahti)",531389,6714765
+"49980  Ravijoki (Virolahti)",527363,6716691
+"50100  Mikkeli Keskus (Mikkeli)",513941,6840037
+"50120  Siekkilä (Mikkeli)",512493,6840427
+"50130  Nuijamies (Mikkeli)",512549,6837792
+"50150  Karkialampi (Mikkeli)",509920,6840539
+"50160  Kattilansilta (Mikkeli)",514038,6837323
+"50170  Peitsari (Mikkeli)",516341,6842857
+"50180  Visulahti (Mikkeli)",518866,6840685
+"50190  Tuppurala (Mikkeli)",516759,6839271
+"50200  Kovala (Mikkeli)",508074,6846380
+"50300  Rämälä (Mikkeli)",521033,6852788
+"50350  Norola (Mikkeli)",522331,6838926
+"50500  Tuukkala-Kaituenmäki (Mikkeli)",513317,6834553
+"50520  Moision Sairaala-alue (Mikkeli)",514784,6836191
+"50600  Karikko (Mikkeli)",507713,6835498
+"50670  Otava (Mikkeli)",502906,6835828
+"50700  Syysjärvi (Mikkeli)",512426,6832213
+"50770  Korpikoski (Mikkeli)",499231,6846635
+"50800  Annilanselkä (Mikkeli)",518590,6832502
+"50970  Ihastjärvi (Mikkeli)",508970,6858388
+"51130  Vanhamäki (Mikkeli)",495331,6855500
+"51200  Kangasniemi Keskus (Kangasniemi)",481913,6870777
+"51260  Tahkomäki (Kangasniemi)",480817,6895883
+"51270  Kutemajärvi (Kangasniemi)",487781,6887782
+"51310  Levä (Kangasniemi)",473206,6863662
+"51335  Kaihlamäki (Kangasniemi)",474434,6874970
+"51340  Hännilä-Särkiharju (Kangasniemi)",468922,6875845
+"51360  Koivula-Synsiö (Kangasniemi)",467674,6889913
+"51380  Synsiö (Kangasniemi)",474846,6883473
+"51420  Harjumaa-Pajulankylä (Mikkeli)",502013,6855824
+"51430  Läsäkoski (Kangasniemi)",495089,6866225
+"51440  Vuojalahti (Kangasniemi)",490330,6872733
+"51450  Pajulankylä (Mikkeli)",501801,6863629
+"51460  Luusniemi (Kangasniemi)",498942,6873908
+"51520  Hiirola (Mikkeli)",516183,6853859
+"51540  Kalvitsa (Mikkeli)",518229,6865487
+"51600  Haukivuori Keskus-Piitkäaho (Mikkeli)",510498,6878119
+"51620  Pitkäaho (Mikkeli)",515807,6868858
+"51670  Nykälä (Mikkeli)",498205,6887031
+"51720  Rahula (Mikkeli)",525834,6841743
+"51740  Huuhanaho (Mikkeli)",528339,6844982
+"51760  Nuutilanmäki (Juva)",530324,6853240
+"51780  Kuosmala (Juva)",538641,6845271
+"51810  Maivala (Juva)",536430,6853451
+"51820  Hatsola (Juva)",543096,6851527
+"51850  Vuorenmaa (Juva)",525399,6873361
+"51860  Narila (Juva)",531432,6876343
+"51880  Koikkala (Juva)",547581,6843086
+"51890  Risulahti (Juva)",551909,6834844
+"51900  Juva Keskus (Juva)",543141,6862305
+"51930  Paatela (Juva)",554449,6867130
+"51940  Härkälä (Juva)",562183,6869098
+"51980  Lauteala (Juva)",555534,6845927
+"52100  Anttola (Mikkeli)",536567,6829436
+"52110  Majavesi (Mikkeli)",524520,6830123
+"52150  Hauhala (Mikkeli)",538373,6822914
+"52200  Puumala Keskus (Puumala)",567554,6819085
+"52230  Hurissalo (Puumala)",543671,6811331
+"52270  Ryhälä (Puumala)",562503,6838641
+"52300  Ristiina Keskus (Mikkeli)",514258,6816556
+"52320  Vitsiälä (Mikkeli)",511831,6826366
+"52330  Heimari (Mikkeli)",515123,6827990
+"52340  Hangastenmaa (Mikkeli)",522782,6823421
+"52360  Someenjärvi (Mikkeli)",533283,6814455
+"52420  Pellosniemi (Mikkeli)",524192,6807847
+"52510  Hietanen (Hirvensalmi)",498097,6824142
+"52520  Syväsmäki (Hirvensalmi)",496246,6834261
+"52550  Hirvensalmi Keskus (Hirvensalmi)",485907,6840892
+"52610  Tuukkalanlahti (Hirvensalmi)",478129,6842688
+"52620  Kuitula (Hirvensalmi)",474221,6850058
+"52700  Mäntyharju Keskus (Mäntyharju)",495477,6800868
+"52720  Karankamäki-Koirakivi (Mäntyharju)",479855,6813469
+"52730  Koirakivi (Mäntyharju)",476956,6809095
+"52740  Tuustaipale (Mäntyharju)",485506,6820754
+"52760  Mynttilä (Mäntyharju)",495536,6817197
+"52780  Kuomiokoski (Mikkeli)",506014,6810489
+"52830  Suomenniemi (Mikkeli)",523646,6797122
+"52850  Halmeniemi (Mäntyharju)",515186,6789143
+"52890  Käävänkylä (Mäntyharju)",504076,6786512
+"52920  Voikoski (Kouvola)",488193,6790279
+"52960  Nurmaa (Mäntyharju)",481323,6799518
+"52970  Pankalahti-Ahvenainen (Mäntyharju)",477562,6799572
+"52980  Ahvenainen (Heinola)",470101,6798076
+"53100  Lappeenranta keskus (Lappeenranta)",564522,6770736
+"53130  Keskussairaala-alue-Kimpinen (Lappeenranta)",565318,6770970
+"53200  Kaukas-Tirilä (Lappeenranta)",566728,6770984
+"53300  Lauritsala-Mälkiä (Lappeenranta)",570579,6768109
+"53400  Laihia (Lappeenranta)",574257,6773201
+"53420  Mustola (Lappeenranta)",571486,6770118
+"53500  Parkkarila-Harapainen-Reijola (Lappeenranta)",566883,6768875
+"53550  Kourulanmäki (Lappeenranta)",565822,6767231
+"53600  Kesämäki (Lappeenranta)",563032,6768676
+"53650  Mattila-Kuusela (Lappeenranta)",562467,6764904
+"53810  Kuusimäki-Lavola (Lappeenranta)",561133,6769358
+"53830  Rutola (Lappeenranta)",556081,6768329
+"53850  Skinnarila (Lappeenranta)",554686,6773934
+"53900  Pallo-Tysterniemi-Leiri (Lappeenranta)",563373,6770864
+"53920  Voisalmi (Lappeenranta)",562077,6771657
+"53950  Kivisalmi (Lappeenranta)",559873,6774950
+"54100  Joutseno Keskus (Lappeenranta)",581143,6778101
+"54110  Lampikangas (Lappeenranta)",578339,6775463
+"54120  Pulp (Lappeenranta)",575856,6779140
+"54190  Konnunsuo (Lappeenranta)",580923,6767377
+"54230  Nuijamaa (Lappeenranta)",584483,6760877
+"54250  Rapattila (Lappeenranta)",575757,6758404
+"54260  Hanhijärvi (Lappeenranta)",569120,6762799
+"54270  Vainikkala (Lappeenranta)",571834,6752359
+"54300  Vilkjärvi (Lappeenranta)",556037,6761655
+"54310  Hytti (Lappeenranta)",564385,6758607
+"54330  Simola (Lappeenranta)",563563,6752688
+"54390  Pulsa (Lappeenranta)",553438,6753182
+"54410  Ylämaa Keskus (Lappeenranta)",558709,6740817
+"54430  Hujakkala (Lappeenranta)",553026,6730911
+"54460  Ylijärvi (Lappeenranta)",548319,6737811
+"54490  Ahomäki (Miehikkälä)",537168,6738311
+"54500  Taavetti-Somerharju (Luumäki)",523294,6761047
+"54510  Uro (Luumäki)",537646,6751258
+"54530  Luumäki (Luumäki)",543914,6756934
+"54550  Suo-Anttila (Luumäki)",544740,6747229
+"54580  Somerharju (Luumäki)",523215,6755004
+"54590  Kaitjärvi (Luumäki)",518618,6757679
+"54710  Lemi Keskus (Lemi)",542208,6769293
+"54720  Laksiainen (Lemi)",536871,6773225
+"54750  Välijoki (Savitaipale)",531124,6770229
+"54770  Heituinlahti (Savitaipale)",521101,6777009
+"54800  Savitaipale Keskus (Savitaipale)",531976,6787355
+"54820  Kotimäki (Lemi)",544801,6778807
+"54850  Kuukanniemi (Lemi)",550945,6772211
+"54915  Saimaanharju-Kyläniemi (Taipalsaari)",559069,6778707
+"54920  Taipalsaari (Taipalsaari)",562746,6787801
+"54930  Levänen (Taipalsaari)",551055,6788370
+"54940  Solkei (Taipalsaari)",546558,6793751
+"54950  Pettilä (Savitaipale)",541151,6797670
+"54960  Vehkataipale (Taipalsaari)",567118,6780877
+"55100  Imatra Keskus (Imatra)",595104,6778322
+"55120  Mansikkala-Tuulikallio (Imatra)",595398,6785599
+"55300  Rauha-Tiuruniemi (Lappeenranta)",589848,6782927
+"55320  Rauha (Lappeenranta)",591264,6785791
+"55330  Tiuruniemi (Lappeenranta)",588879,6785783
+"55400  Tainionkoski-Mustalampi (Imatra)",595489,6788839
+"55420  Karhumäki-Karhukallio (Imatra)",592584,6787897
+"55510  Sotkulampi-Linnasuo (Imatra)",596563,6786732
+"55610  Rajapatsas-Teppanala (Imatra)",600517,6780796
+"55700  Vintteri-Virasoja (Imatra)",598555,6786456
+"55800  Vuoksenniska-Saarlampi (Imatra)",603298,6785575
+"55910  Rautio-Kurkvuori (Imatra)",603172,6791079
+"56100  Ruokolahti Keskus (Ruokolahti)",600059,6798656
+"56120  Salosaari (Ruokolahti)",595117,6794523
+"56140  Äitsaari (Ruokolahti)",583927,6794939
+"56210  Virmutjoki (Ruokolahti)",597189,6810910
+"56310  Syyspohja (Ruokolahti)",583211,6811818
+"56330  Utula (Ruokolahti)",576887,6801820
+"56350  Kyläniemi (Taipalsaari)",566373,6797426
+"56410  Kaiturinpää (Ruokolahti)",606264,6804230
+"56440  Pohja-Lankila (Ruokolahti)",604860,6816724
+"56510  Puntala (Ruokolahti)",604119,6795856
+"56550  Niska-Pietilä (Rautjärvi)",610692,6789130
+"56610  Rautjärvi (Rautjärvi)",612355,6801031
+"56640  Purnujärvi (Rautjärvi)",613381,6793152
+"56710  Miettilä (Rautjärvi)",618871,6797284
+"56730  Laikko (Rautjärvi)",618424,6807599
+"56800  Simpele (Rautjärvi)",621298,6815906
+"57100  Heikinpohja-Piispanmäki (Savonlinna)",598159,6852901
+"57120  Savonlinna (Savonlinna)",597373,6861126
+"57130  Savonlinna Keskus (Savonlinna)",599737,6860931
+"57170  Sortteerinlahti-Talvisalo (Savonlinna)",597415,6862218
+"57200  Miekonniemi-Venäjänniemi (Savonlinna)",600892,6861266
+"57210  Nojanmaa (Savonlinna)",603267,6862867
+"57220  Haka-alue-Viuhonmäki (Savonlinna)",603743,6860504
+"57230  Inkerinkylä (Savonlinna)",610715,6845950
+"57310  Rinkilä (Savonlinna)",594684,6871666
+"57510  Laitaatsilta (Savonlinna)",596003,6861780
+"57600  Poukkusilta-Pihlajaniemi (Savonlinna)",595953,6858143
+"57710  Kellarpelto-Rantakoivikko (Savonlinna)",595042,6863563
+"57810  Aholahti (Savonlinna)",591035,6860373
+"58130  Oravi (Savonlinna)",581750,6886944
+"58140  Ahvensalmi (Savonlinna)",577805,6892876
+"58150  Makkola (Savonlinna)",601089,6874220
+"58160  Karvila (Enonkoski)",597475,6880655
+"58170  Simanala (Enonkoski)",605393,6878076
+"58175  Enonkoski Keskus (Enonkoski)",601783,6886277
+"58180  Ihamaniemi (Enonkoski)",594124,6895671
+"58200  Kerimäki Keskus (Savonlinna)",621572,6867206
+"58220  Louhi (Savonlinna)",608642,6869140
+"58260  Kumpuranta (Savonlinna)",627113,6874688
+"58300  Savonranta Keskus (Savonlinna)",613783,6896256
+"58320  Raikuu (Savonlinna)",626606,6881934
+"58350  Villala (Kitee)",635354,6883858
+"58360  Säimen (Savonlinna)",613789,6907326
+"58390  Rönkönvaara (Savonlinna)",615877,6915894
+"58410  Haapakallio (Savonlinna)",609899,6863322
+"58420  Silvola (Savonlinna)",610761,6858603
+"58430  Kulennoinen (Savonlinna)",618634,6856921
+"58450  Punkaharju (Savonlinna)",621711,6851103
+"58500  Punkasalmi (Savonlinna)",627894,6850404
+"58520  Hiukkajoki (Savonlinna)",634815,6858318
+"58550  Putikko (Savonlinna)",628560,6842608
+"58570  Ruhvana (Savonlinna)",621378,6840329
+"58580  Vuoriniemi (Savonlinna)",616594,6832370
+"58610  Telakanava (Sulkava)",583792,6837830
+"58620  Lohilahti (Sulkava)",591832,6827395
+"58650  Kiviapaja (Savonlinna)",594239,6839206
+"58680  Piojärvi (Savonlinna)",604000,6829754
+"58690  Ala-Särkilahti-Piojärvi (Savonlinna)",607584,6835157
+"58700  Sulkava Keskus (Sulkava)",568584,6854137
+"58720  Kaartilankoski (Sulkava)",573506,6838904
+"58770  Pihlajalahti (Savonlinna)",579523,6860726
+"58810  Kallislahti (Savonlinna)",585525,6865234
+"58830  Parkumäki (Rantasalmi)",583282,6871693
+"58850  Hiltula (Rantasalmi)",572304,6870103
+"58900  Rantasalmi Keskus (Rantasalmi)",569336,6888670
+"58910  Rantasalmi Asemanseutu (Rantasalmi)",568335,6876054
+"58920  Kolkontaipale (Rantasalmi)",558962,6880964
+"58940  Tuusmäki (Rantasalmi)",554648,6874527
+"59100  Parikkala Keskus (Parikkala)",634293,6826125
+"59130  Koitsanlahti (Parikkala)",630125,6817326
+"59210  Melkoniemi (Parikkala)",623636,6826922
+"59310  Särkisalmi (Parikkala)",629901,6834074
+"59320  Haapaoja (Parikkala)",636975,6834409
+"59410  Kirjavala (Parikkala)",640330,6837882
+"59510  Maironiemi (Parikkala)",641332,6845407
+"59520  Saari (Parikkala)",646553,6837253
+"59530  Mikkolanniemi (Parikkala)",648659,6842905
+"59610  Tarnala (Parikkala)",645512,6847065
+"59710  Kummunkylä (Parikkala)",647921,6852288
+"59720  Niukkala (Parikkala)",652890,6848303
+"59730  Uukuniemi (Parikkala)",659172,6855294
+"59800  Kesälahti Keskus (Kitee)",648562,6864387
+"59810  Suurikylä (Kitee)",642170,6863746
+"59820  Purujärvi-Rajavaara (Kitee)",642151,6854721
+"60100  Seinäjoki Keskus (Seinäjoki)",288812,6967917
+"60120  Pohja (Seinäjoki)",288758,6970167
+"60150  Kasperi (Seinäjoki)",290577,6965780
+"60200  Törnävä (Seinäjoki)",290754,6961187
+"60220  Huhtala (Seinäjoki)",286625,6967422
+"60280  Eskoon Keskuslaitosalue (Seinäjoki)",288782,6961384
+"60320  Alakylä-Jouppi (Seinäjoki)",283352,6967949
+"60420  Impivaara (Seinäjoki)",285395,6973729
+"60450  Munakka (Ilmajoki)",280266,6974389
+"60510  Hyllykallio (Seinäjoki)",291200,6970139
+"60550  Nurmo Keskus (Seinäjoki)",295126,6973625
+"60560  Halkosaari (Seinäjoki)",283833,6978557
+"60640  Kurjenneva (Seinäjoki)",301139,6966894
+"60720  Tuomikylä (Ilmajoki)",281152,6964494
+"60760  Pojanluoma (Ilmajoki)",283952,6958153
+"60800  Ilmajoki Keskus (Ilmajoki)",273247,6964498
+"61100  Peräseinäjoki Keskus (Seinäjoki)",301038,6941758
+"61110  Vuolle (Seinäjoki)",294872,6948571
+"61120  Louko (Seinäjoki)",290874,6952650
+"61140  Pasto (Seinäjoki)",303637,6949634
+"61150  Sydänmaa (Alavus)",306922,6959064
+"61160  Koura (Seinäjoki)",298204,6955172
+"61170  Sääskiniemi (Alavus)",310006,6953193
+"61180  Haapaluoma (Seinäjoki)",305737,6942401
+"61220  Myllysalo (Kurikka)",267543,6946232
+"61230  Luopa (Kurikka)",272491,6949265
+"61250  Jalasto (Kurikka)",274254,6942231
+"61270  Luopajärvi (Kurikka)",282825,6946734
+"61280  Jokipii (Kurikka)",274307,6937503
+"61290  Taivalmaa (Kurikka)",288030,6943751
+"61300  Kurikka Keskus (Kurikka)",263417,6951728
+"61310  Panttila (Kurikka)",262733,6957309
+"61330  Koskenkorva (Ilmajoki)",266745,6960158
+"61340  Nopankylä (Ilmajoki)",257275,6963229
+"61350  Huissi (Ilmajoki)",263335,6968178
+"61360  Mieto (Kurikka)",262081,6945526
+"61370  Lohiluoma (Kurikka)",260069,6942127
+"61380  Polvenkylä (Kurikka)",250594,6950858
+"61400  Ylistaro Keskus (Seinäjoki)",273519,6991491
+"61410  Ylistaro Asemanseutu (Seinäjoki)",275410,6980691
+"61430  Isorehto (Seinäjoki)",268752,6981067
+"61440  Untamala (Seinäjoki)",278408,6999951
+"61450  Kylänpää (Seinäjoki)",281401,6990495
+"61460  Hanhikoski (Seinäjoki)",284852,6987248
+"61470  Kitinoja (Seinäjoki)",285963,6981214
+"61500  Isokyrö Keskus (Isokyrö)",263354,6994671
+"61520  Lehmäjoki (Isokyrö)",272092,7002609
+"61550  Orismala (Isokyrö)",265038,6986891
+"61560  Orisberg (Isokyrö)",264198,6978116
+"61600  Jalasjärvi Keskus (Kurikka)",282625,6935408
+"61630  Hirvijärvi (Kurikka)",290249,6935294
+"61640  Ala-Valli (Kurikka)",295086,6931757
+"61650  Kalakoski (Seinäjoki)",302675,6926198
+"61680  Mantila (Kurikka)",277841,6929065
+"61710  Pentinmäki (Kurikka)",282329,6926120
+"61720  Koskue (Kurikka)",287002,6916480
+"61730  Yli-Valli (Kurikka)",294430,6920214
+"61760  Ilvesjoki (Kurikka)",278933,6917847
+"61800  Kauhajoki Keskus (Kauhajoki)",251082,6927161
+"61810  Luomankylä (Kauhajoki)",249648,6937336
+"61820  Kainasto (Kauhajoki)",244128,6938328
+"61840  Norinkylä (Teuva)",242574,6947726
+"61850  Kauhajoki Asemanseutu (Kauhajoki)",260587,6930443
+"61860  Harja (Kauhajoki)",257937,6939702
+"61880  Ikkeläjärvi (Kauhajoki)",271003,6926658
+"61910  Nummijärvi (Kauhajoki)",265325,6915875
+"61920  Nummikoski (Kauhajoki)",265142,6908546
+"61940  Hyyppä (Kauhajoki)",255815,6918198
+"61950  Juonikylä (Kauhajoki)",255339,6910950
+"61960  Kyrönlatva (Kauhajoki)",254852,6902681
+"61980  Päntäne (Kauhajoki)",243969,6917510
+"62100  Lapua Keskus (Lapua)",295726,6988314
+"62130  Hellanmaa (Lapua)",290308,6994793
+"62150  Rintakangas (Kauhava)",290619,7001101
+"62160  Karhunkylä (Lapua)",306100,6984579
+"62165  Tiisteenjoki (Lapua)",309809,6980720
+"62170  Lakaluoma (Lapua)",316337,6982005
+"62175  Ylikylä-Mäenpää (Lapua)",311319,6973478
+"62185  Mäki-Paavola (Lapua)",304825,6975853
+"62190  Ruha (Lapua)",292896,6980829
+"62200  Kauhava Keskus (Kauhava)",300312,7005145
+"62220  Pernaa (Kauhava)",294481,7001679
+"62230  Jylhä (Kauhava)",304981,7008288
+"62240  Huhmarkoski (Kauhava)",313771,7006050
+"62260  Hirvijoki (Kauhava)",310870,6997309
+"62280  Mustamaa (Lapua)",308321,6991312
+"62290  Hirvikylä (Lapua)",314824,6988790
+"62295  Kauhajärvi (Lapua)",320841,6994322
+"62300  Härmä (Kauhava)",291721,7016527
+"62310  Voltti (Kauhava)",288123,7024737
+"62340  Kuoppa-Vakkuri (Kauhava)",281893,7016721
+"62350  Ekola (Kauhava)",286482,7031430
+"62370  Kangasto (Kauhava)",290151,7010290
+"62375  Ylihärmä Keskus-Vesiluoma (Kauhava)",286873,7007949
+"62380  Kosolankylä (Kauhava)",286043,7001604
+"62395  Petterinmäki (Vöyri)",279496,7007233
+"62410  Rintala (Kauhava)",305036,7014661
+"62420  Kortesjärvi Keskus (Kauhava)",307467,7025004
+"62430  Peltotupa (Kauhava)",302182,7029416
+"62435  Pirttinen (Kauhava)",300649,7023104
+"62440  Perkiömäki (Kauhava)",296836,7027346
+"62470  Purmojärvi (Kauhava)",315544,7019441
+"62500  Evijärvi Keskus (Evijärvi)",321364,7036741
+"62510  Kuoppa-aho (Evijärvi)",323103,7029715
+"62520  Kautiainen (Evijärvi)",321516,7026082
+"62540  Vasikka-aho (Evijärvi)",315706,7039393
+"62570  Särkilä (Evijärvi)",333104,7028700
+"62600  Lappajärvi Keskus (Lappajärvi)",328853,7018936
+"62610  Tarvola (Lappajärvi)",321974,7014556
+"62620  Ala-Seppä (Lappajärvi)",323862,7011020
+"62630  Karvala (Lappajärvi)",326184,7002606
+"62640  Savonkylä (Lappajärvi)",327349,6997012
+"62660  Itäkylä (Lappajärvi)",338749,7017203
+"62710  Kurejoki (Alajärvi)",333022,6997141
+"62720  Sissala (Alajärvi)",328351,6992069
+"62730  Haukkala (Alajärvi)",331932,6993526
+"62740  Koskenvarsi (Alajärvi)",335888,6987715
+"62750  Saukonkylä (Alajärvi)",334341,6981303
+"62760  Menkijärvi (Alajärvi)",326001,6984474
+"62800  Vimpeli Keskus (Vimpeli)",343080,7005298
+"62810  Savonjoki (Vimpeli)",352304,7005443
+"62830  Luoma-Aho (Alajärvi)",340407,6999033
+"62840  Lakaniemi-Pokela (Vimpeli)",335998,7004031
+"62860  Sahi (Vimpeli)",337313,7010068
+"62870  Vinni (Vimpeli)",344149,7012507
+"62880  Sääksvesi-Vinni (Vimpeli)",351236,7013006
+"62900  Alajärvi Keskus (Alajärvi)",352734,6994588
+"62920  Levijoki (Alajärvi)",345275,6983602
+"62940  Hoisko (Alajärvi)",343581,6992705
+"62950  Paalijärvi (Alajärvi)",346628,6997840
+"62990  Möksy (Alajärvi)",360384,6996067
+"63100  Kuortane Keskus (Kuortane)",323621,6969160
+"63120  Leppälänkylä (Kuortane)",329103,6967897
+"63130  Mäyry (Kuortane)",316348,6965655
+"63150  Ruona (Kuortane)",325653,6976536
+"63160  Salmi (Kuortane)",316662,6975669
+"63210  Niinimaa (Alavus)",315047,6954624
+"63230  Lentilä (Kuortane)",323624,6955901
+"63250  Rantala (Kuortane)",320618,6958648
+"63300  Alavus Keskus (Alavus)",326570,6938223
+"63320  Kattelus (Alavus)",333788,6931867
+"63330  Pahajoki (Alavus)",326116,6933814
+"63340  Sapsalampi (Alavus)",327818,6927641
+"63350  Sulkavankylä (Alavus)",321829,6928949
+"63355  Seinäjärvi (Alavus)",314470,6926602
+"63360  Kuivaskylä (Alavus)",318496,6941511
+"63370  Taipalus (Alavus)",313577,6939109
+"63400  Alavus Asemanseutu (Alavus)",322355,6950299
+"63410  Rantatöysä (Alavus)",328310,6951448
+"63430  Kätkänjoki (Alavus)",330879,6958403
+"63450  Löyä (Kuortane)",334821,6962738
+"63500  Lehtimäki Keskus (Alajärvi)",346074,6977723
+"63510  Lehtimäki Kirkonkylä (Alajärvi)",341483,6964729
+"63530  Länsikylä (Alajärvi)",335126,6971398
+"63540  Hernesmaa (Alajärvi)",347036,6972090
+"63600  Töysä Keskus (Alavus)",337549,6950954
+"63610  Tuuri (Alavus)",336003,6939599
+"63640  Ritola (Alavus)",341029,6956845
+"63660  Ähtärinranta (Ähtäri)",346653,6955744
+"63680  Hakojärvi (Alavus)",341666,6944120
+"63700  Ähtäri Keskus (Ähtäri)",349068,6938198
+"63770  Peränne (Ähtäri)",341208,6932655
+"63780  Alastaipale (Ähtäri)",343941,6924737
+"63800  Soini Keskus (Soini)",359698,6969877
+"63830  Keisala (Soini)",360087,6986420
+"63880  Kukonkylä (Soini)",352780,6964572
+"63890  Hautakylä (Soini)",355506,6957945
+"63900  Myllymäki-Vehunkylä (Ähtäri)",365359,6942160
+"63910  Inhan Tehtaat (Ähtäri)",354940,6930263
+"63920  Inha (Ähtäri)",358435,6945884
+"63950  Vehunkylä (Ähtäri)",369971,6952122
+"64100  Kristiinankaupunki keskus (Kristinestad)",208582,6921175
+"64140  Tiukka (Kristinestad)",216655,6922157
+"64200  Närpiö Keskus (Närpes)",215584,6940325
+"64210  Kalax (Närpes)",204321,6939854
+"64220  Yttermark (Närpes)",214132,6949293
+"64230  Närpiön Asemanseutu (Närpes)",210169,6941777
+"64240  Böle (Närpes)",214614,6931681
+"64250  Pjelax (Närpes)",210832,6928954
+"64260  Kaskinen (Kaskinen)",201796,6929038
+"64300  Lapväärtti (Kristinestad)",215287,6911354
+"64320  Dagsmark (Kristinestad)",222251,6909829
+"64350  Karijoki Keskus (Karijoki)",230905,6917844
+"64370  Myrkky (Karijoki)",219263,6928122
+"64440  Metsälä-Kallträsk (Kristinestad)",214298,6893931
+"64450  Kallträsk (Kristinestad)",215053,6889324
+"64460  Härkmeri (Kristinestad)",213960,6901753
+"64480  Skaftung (Kristinestad)",206620,6900139
+"64490  Siipyy (Kristinestad)",205630,6890268
+"64510  Nämpnäs (Närpes)",201834,6944022
+"64530  Norrnäs (Närpes)",204262,6950750
+"64550  Rangsby (Närpes)",206019,6956465
+"64610  Övermark (Närpes)",217608,6958079
+"64700  Teuva Keskus (Teuva)",230873,6939765
+"64720  Perälä (Teuva)",220905,6938331
+"64740  Horo (Teuva)",225529,6950178
+"64760  Peltola (Teuva)",235838,6941102
+"64770  Äystö (Teuva)",238187,6935805
+"64810  Vanhakylä (Isojoki)",229204,6905533
+"64820  Kärjenkoski (Isojoki)",225169,6897527
+"64830  Villamo (Isojoki)",233002,6903441
+"64840  Heikkilänjoki (Isojoki)",235237,6907237
+"64850  Möykky (Isojoki)",241807,6905346
+"64900  Isojoki Keskus (Isojoki)",233457,6892094
+"64930  Kodesjärvi (Isojoki)",244165,6890966
+"65100  Vaasa Keskus (Vaasa)",229065,7007601
+"65130  Hietalahti (Vaasa)",228435,7006347
+"65170  Vaskiluoto (Vaasa)",225991,7007354
+"65200  Palosaari (Vaasa)",227705,7009360
+"65230  Vetokannas (Vaasa)",228597,7010651
+"65280  Gerby (Vaasa)",227421,7013766
+"65300  Asevelikylä (Vaasa)",230489,7009474
+"65320  Huutoniemi (Vaasa)",231593,7006588
+"65350  Suvilahti (Vaasa)",230327,7005136
+"65370  Ristinummi (Vaasa)",234876,7007408
+"65380  Vanha Vaasa (Vaasa)",235402,7004468
+"65410  Sundom (Vaasa)",223959,7000801
+"65450  Sulva (Korsholm)",230314,6994675
+"65460  Tölby-Rimal (Korsholm)",232118,6997710
+"65470  Rimal (Korsholm)",234528,6990306
+"65480  Vikby (Korsholm)",233641,6999185
+"65520  Helsingby (Korsholm)",238047,6997103
+"65610  Mustasaari Keskus (Korsholm)",232569,7011582
+"65630  Karperö (Korsholm)",233130,7015639
+"65650  Koskö (Korsholm)",234987,7017930
+"65710  Singsby (Korsholm)",230056,7014893
+"65730  Jungsund (Korsholm)",229811,7018211
+"65760  Iskmo (Korsholm)",227914,7023136
+"65800  Raippaluoto (Korsholm)",218200,7024041
+"65870  Björköby (Korsholm)",216097,7036645
+"65920  Norra Vallgrund-Söderudden (Korsholm)",213078,7022639
+"65930  Södra Vallgrund (Korsholm)",208822,7021698
+"65970  Söderudden (Korsholm)",208440,7027436
+"66100  Maalahti (Malax)",222272,6991373
+"66140  Övermalax (Malax)",226225,6982911
+"66160  Långåminne (Malax)",233655,6983995
+"66200  Korsnäs Keskus (Korsnäs)",205639,6975166
+"66210  Moikipää (Korsnäs)",210053,6982502
+"66220  Bergö (Malax)",204772,6996014
+"66230  Korsbäck (Korsnäs)",208585,6975162
+"66240  Petolahti (Malax)",216126,6979572
+"66260  Svarvar (Malax)",228351,6974850
+"66270  Pirttikylä-Sorvari (Närpes)",225510,6965086
+"66280  Taklax (Korsnäs)",208611,6967808
+"66290  Harrström (Korsnäs)",201902,6966437
+"66295  Töjby (Närpes)",202758,6960973
+"66300  Jurva Keskus (Kurikka)",246112,6964659
+"66320  Niemenkylä (Kurikka)",239330,6964359
+"66330  Hakko (Kurikka)",236759,6966751
+"66340  Sarvijoki (Kurikka)",235113,6976234
+"66350  Tainus (Kurikka)",250656,6966378
+"66360  Kesti (Kurikka)",239267,6955959
+"66370  Närvijoki (Kurikka)",230611,6957352
+"66400  Laihia Keskus (Laihia)",246448,6991965
+"66420  Ruto (Laihia)",240465,6989792
+"66430  Vedenoja (Vaasa)",250155,6994694
+"66440  Tervajoki (Isokyrö)",255478,6993929
+"66450  Jakkula (Laihia)",242037,6982978
+"66460  Haapala (Laihia)",249402,6982577
+"66470  Jukaja-Jokisalo (Laihia)",254765,6975252
+"66500  Vähäkyrö Keskus (Vaasa)",251632,7004028
+"66510  Merikaarto (Vaasa)",245862,7003373
+"66520  Veikkaala (Korsholm)",242250,7007044
+"66530  Koivulahti (Korsholm)",239877,7013592
+"66540  Petsmo (Korsholm)",238101,7020754
+"66550  Västerhankmo (Korsholm)",242690,7020751
+"66560  Österhankmo (Korsholm)",245169,7021962
+"66580  Kuni (Korsholm)",246090,7013231
+"66590  Vassor (Korsholm)",249450,7015569
+"66600  Vöyri Keskus (Vöyri)",261073,7010336
+"66640  Maksamaa (Vöyri)",252974,7016412
+"66660  Bertby (Vöyri)",258758,7020316
+"66680  Kaurajärvi (Vöyri)",273449,7008487
+"66710  Kaitsor (Vöyri)",263830,7023088
+"66730  Oxkangar (Vöyri)",259151,7029376
+"66800  Oravainen Keskus (Vöyri)",271255,7025964
+"66810  Kimo (Vöyri)",271456,7020745
+"66820  Komossa (Vöyri)",274868,7015265
+"66830  Oravaisten Tehdas (Vöyri)",271339,7030444
+"66840  Pensala (Nykarleby)",277827,7031714
+"66850  Jepua (Nykarleby)",284864,7037308
+"66900  Uusikaarlepyy Keskus (Nykarleby)",286188,7046922
+"66910  Soklot (Nykarleby)",279078,7058070
+"66930  Kovjoki (Nykarleby)",286904,7052622
+"66950  Munsala (Nykarleby)",272314,7039474
+"66970  Hirvlax (Nykarleby)",266370,7043048
+"66980  Monå (Nykarleby)",269064,7035567
+"66999  Kaukaluoto (Korsholm)",232439,7028737
+"67100  Kokkola Keskus (Kokkola)",308460,7083838
+"67200  Kiviniitty-Tullimäki (Kokkola)",308638,7085870
+"67300  Halkokari (Kokkola)",309340,7086861
+"67400  Rytimäki (Kokkola)",312438,7088675
+"67410  Vitsari (Kokkola)",315706,7086940
+"67500  Sokoja (Kokkola)",318071,7078605
+"67600  Linnusperä-Kaustari (Kokkola)",313453,7081406
+"67700  Kirkonmäki-Isokylä (Kokkola)",308788,7081092
+"67800  Koivuhaka (Kokkola)",305546,7081235
+"67900  Ykspihjala (Kokkola)",305674,7086436
+"68100  Himanka Keskus (Kalajoki)",343379,7110405
+"68150  Hillilä (Kalajoki)",341040,7104365
+"68210  Marinkainen (Kokkola)",327926,7095467
+"68220  Karhi (Kokkola)",324874,7100377
+"68230  Lohtaja Keskus (Kokkola)",330377,7101264
+"68240  Ala-Viirre (Kokkola)",336285,7101045
+"68300  Kälviä Keskus (Kokkola)",332149,7081723
+"68320  Ruotsalo (Kokkola)",320457,7090529
+"68370  Ullava Keskus (Kokkola)",345122,7069171
+"68380  Yli-Ullava (Kokkola)",355374,7059674
+"68390  Rahkonen (Kokkola)",352779,7057272
+"68410  Alaveteli (Kronoby)",325652,7068253
+"68500  Kruunupyy Keskus (Kronoby)",306738,7068040
+"68530  Lepplax (Pedersöre)",297469,7067158
+"68550  Öja (Kokkola)",298337,7082321
+"68555  Bosund (Larsmo)",295109,7084557
+"68560  Eugmo (Larsmo)",290784,7083731
+"68570  Luoto (Larsmo)",290634,7077108
+"68580  Furuholmen (Larsmo)",290174,7071358
+"68600  Pietarsaari Keskus (Jakobstad)",288197,7067709
+"68620  Skutnäs-Västermalm (Jakobstad)",282572,7065825
+"68630  Kyrkostrand (Jakobstad)",285656,7066119
+"68660  Östermalm-Björnholmen (Jakobstad)",289680,7069500
+"68690  Sundby (Pedersöre)",283446,7059271
+"68700  Teerijärvi (Kronoby)",323511,7050276
+"68750  Småbönders (Kronoby)",331611,7038231
+"68800  Kolppi (Pedersöre)",296358,7059855
+"68810  Ytteresse (Pedersöre)",302727,7062004
+"68820  Ähtävä (Pedersöre)",307103,7052300
+"68830  Bäckby (Pedersöre)",307148,7062173
+"68840  Nederlappfors (Pedersöre)",314572,7047855
+"68870  Edsevö (Pedersöre)",294828,7063671
+"68910  Pännäinen (Pedersöre)",289249,7059127
+"68920  Forsby (Pedersöre)",294486,7054130
+"68930  Purmo (Pedersöre)",300207,7049802
+"68940  Lillby (Pedersöre)",304577,7043158
+"68970  Överpurmo (Pedersöre)",302403,7035309
+"68999  Rita (Kokkola)",325342,7077214
+"69100  Kannus Keskus (Kannus)",348655,7091239
+"69150  Eskola (Kannus)",362525,7089386
+"69170  Yli-Kannus (Kannus)",354107,7084044
+"69300  Toholampi Keskus (Toholampi)",369107,7075035
+"69310  Laitala (Toholampi)",359556,7078241
+"69330  Määttälä (Toholampi)",363844,7067244
+"69340  Purontaka (Toholampi)",369900,7063729
+"69410  Sykäräinen (Toholampi)",372293,7056823
+"69420  Syri (Lestijärvi)",374034,7050671
+"69440  Lestijärvi Keskus (Lestijärvi)",385809,7047518
+"69450  Yli-Lesti (Lestijärvi)",390376,7039369
+"69510  Halsua Keskus-Marjusaari (Halsua)",359239,7042133
+"69550  Kanala (Halsua)",374083,7038182
+"69570  Karvonen (Halsua)",364487,7031102
+"69600  Kaustinen Keskus (Kaustinen)",335670,7055522
+"69660  Köyhäjoki (Kaustinen)",350341,7048752
+"69700  Veteli Keskus (Veteli)",341042,7042553
+"69730  Tunkkari (Veteli)",337722,7045853
+"69750  Sillanpää (Veteli)",349648,7038020
+"69820  Räyrinki (Veteli)",341234,7029392
+"69830  Pulkkinen (Veteli)",351224,7025308
+"69850  Patana (Veteli)",346072,7023772
+"69910  Kivikangas (Perho)",358554,7024034
+"69920  Oksakoski-Kivikangas (Perho)",360195,7017265
+"69950  Perho Keskus-Salamajärvi (Perho)",371262,7018910
+"69970  Salamajärvi (Perho)",383320,7025794
+"69980  Möttönen (Perho)",379627,7010573
+"70100  Kuopio Keskus (Kuopio)",538733,6969668
+"70110  Etu-Niirala (Kuopio)",534121,6974166
+"70150  Neulamäki (Kuopio)",530041,6973059
+"70200  Puijonlaakso (Kuopio)",532100,6975153
+"70210  Kuopion Keskussairaala-alue (Kuopio)",528019,6976213
+"70240  Niuvaniemen Sairaala-alue (Kuopio)",531635,6976253
+"70260  Julkula (Kuopio)",529993,6978614
+"70280  Länsi-Puijo (Kuopio)",532690,6976772
+"70300  Linnanpelto (Kuopio)",533584,6975692
+"70340  Inkilänmäki (Kuopio)",534443,6975958
+"70400  Kettulanlahti (Kuopio)",535136,6978381
+"70420  Päiväranta (Kuopio)",532638,6980079
+"70460  Saarijärvi (Kuopio)",536343,6976795
+"70500  Männistö (Kuopio)",536389,6974703
+"70600  Niirala-Huuhanmäki (Kuopio)",533135,6973545
+"70620  Haapaniemi (Kuopio)",533686,6972120
+"70700  Särkiniemi (Kuopio)",531060,6971685
+"70780  Jynkkä (Kuopio)",532279,6969746
+"70800  Pitkälahti (Kuopio)",523632,6970794
+"70820  Litmanen (Kuopio)",533957,6967154
+"70840  Jynkänmäki (Kuopio)",536004,6968086
+"70870  Hiltulanlahti (Kuopio)",532393,6958063
+"70900  Toivala (Siilinjärvi)",538443,6983498
+"70910  Vuorela (Siilinjärvi)",534872,6983892
+"70940  Jännevirta (Kuopio)",544322,6982712
+"71130  Kortejoki (Kuopio)",543328,6973854
+"71150  Vartiala (Kuopio)",551495,6979740
+"71160  Riistavesi (Kuopio)",559436,6973569
+"71170  Laukka-aho (Tuusniemi)",569299,6977885
+"71200  Tuusniemi Keskus (Tuusniemi)",577240,6969146
+"71210  Tuusjärvi (Tuusniemi)",567518,6971151
+"71240  Paakkila (Tuusniemi)",585508,6964894
+"71260  Juurikkamäki (Tuusniemi)",571845,6959268
+"71280  Kosula (Tuusniemi)",578801,6948777
+"71310  Vehmersalmi Keskus (Kuopio)",552905,6960214
+"71330  Räsälä (Kuopio)",543714,6955977
+"71360  Litmaniemi (Kuopio)",562132,6958884
+"71380  Mustinlahti (Kuopio)",565959,6949777
+"71460  Paukarlahti (Leppävirta)",530788,6946119
+"71470  Oravikoski (Leppävirta)",532880,6940040
+"71480  Kurkimäki (Kuopio)",523194,6961608
+"71490  Airaksela (Kuopio)",519986,6956194
+"71520  Kaislastenlahti (Kuopio)",519656,6976231
+"71570  Syvänniemi (Kuopio)",511431,6965721
+"71610  Salonkulma (Kuopio)",516218,6981981
+"71640  Talluskylä (Tervo)",499413,6989792
+"71650  Hirvilahti-Salonkulma (Kuopio)",515490,6984434
+"71660  Leinolanlahti (Kuopio)",512809,6992047
+"71670  Kurolanlahti (Kuopio)",506979,6992456
+"71680  Pulkonkoski-Saarinen (Kuopio)",506911,6999177
+"71690  Varpasmaa (Kuopio)",504949,7002009
+"71720  Käärmelahti (Kuopio)",520268,6994780
+"71730  Kinnulanlahti (Kuopio)",520853,7001918
+"71740  Tavinsalmi (Kuopio)",514673,6998113
+"71745  Haatala (Kuopio)",510909,7004999
+"71750  Maaninka Keskus (Kuopio)",514724,7005585
+"71760  Ahkionlahti-Vianta (Kuopio)",512250,7013530
+"71775  Tuovilanlahti-Haatala (Kuopio)",504463,7009315
+"71800  Siilinjärvi Keskus (Siilinjärvi)",529336,6987173
+"71820  Pöljä (Siilinjärvi)",528577,7002512
+"71840  Kuuslahti (Siilinjärvi)",539611,7002521
+"71850  Leppäkaarre (Siilinjärvi)",535195,6993626
+"71870  Harjamäki (Siilinjärvi)",530238,6993547
+"71890  Hamula (Siilinjärvi)",525156,6994888
+"71910  Alapitkä (Lapinlahti)",524766,7008255
+"71920  Pajujärvi (Lapinlahti)",523560,7014931
+"71950  Lammasaho (Kuopio)",541207,7012385
+"71960  Lukkarila (Lapinlahti)",536405,7016890
+"72100  Karttula Keskus (Kuopio)",504785,6979537
+"72140  Itä-Karttula-Riuttasenpää (Kuopio)",506649,6977921
+"72210  Tervo Keskus-Eliaksela (Tervo)",486447,6981834
+"72220  Eliaksela (Tervo)",486606,6968258
+"72300  Vesanto Keskus (Vesanto)",469387,6976290
+"72310  Niinivesi (Vesanto)",475100,6984337
+"72330  Tiitilänkylä (Vesanto)",478929,6971068
+"72350  Pienola (Vesanto)",462702,6974646
+"72360  Närhilä (Vesanto)",465718,6965348
+"72380  Horontaipale (Vesanto)",456202,6975848
+"72400  Pielavesi Keskus-Jylänki (Pielavesi)",491712,7015455
+"72430  Kumpula (Pielavesi)",492906,7026991
+"72490  Saarinen (Kuopio)",500166,7001120
+"72510  Jokijärvi (Pielavesi)",482897,6995142
+"72530  Säviäntaipale (Pielavesi)",488265,6999813
+"72550  Säviä (Pielavesi)",481708,7007099
+"72570  Vuorikylä (Pielavesi)",474571,7007481
+"72600  Keitele Keskus (Keitele)",466907,7003078
+"72630  Kuusela-Rajala (Keitele)",474929,6992300
+"72710  Vaaraslahti (Pielavesi)",482686,7029458
+"72740  Laukkala (Pielavesi)",474184,7031410
+"72810  Jylhänkylä (Pielavesi)",475413,7016347
+"72840  Saarela (Pielavesi)",467701,7025979
+"72930  Tossavanlahti (Keitele)",460046,7016867
+"72950  Porttila (Keitele)",460663,7023829
+"72980  Petäjäkylä (Keitele)",459443,7033403
+"73100  Lapinlahti Keskus (Lapinlahti)",519296,7028218
+"73110  Mäntylahti-Karvasalmi (Lapinlahti)",524584,7019452
+"73120  Nerkoo-Horsmanmäki (Lapinlahti)",519158,7034193
+"73200  Varpaisjärvi Keskus (Lapinlahti)",539685,7025934
+"73230  Syvärinpää (Lapinlahti)",543335,7033971
+"73250  Korpijärvi (Lapinlahti)",549847,7031591
+"73300  Nilsiä Keskus (Kuopio)",557074,7012389
+"73310  Tahkovuori (Kuopio)",552076,7017485
+"73320  Reittiö (Kuopio)",555792,7001013
+"73350  Haluna (Kuopio)",550018,6999562
+"73360  Pajulahti (Kuopio)",544611,7001874
+"73410  Pieksänkoski (Kuopio)",547607,6991554
+"73460  Muuruvesi (Kuopio)",558642,6988608
+"73470  Västinniemi (Kuopio)",563269,6982345
+"73500  Juankoski Keskus (Kuopio)",569625,6993927
+"73600  Kaavi Keskus (Kaavi)",576276,6987054
+"73620  Kortteinen-Rasilampi (Kaavi)",586618,6993033
+"73640  Sivakkavaara (Kaavi)",597539,6981323
+"73645  Niinivaara-Onnivaara (Kaavi)",595594,6988222
+"73670  Luikonlahti (Kaavi)",589956,6974937
+"73710  Viitaniemi (Kuopio)",574569,7001028
+"73730  Losomäki (Kuopio)",583756,7003477
+"73770  Säyneinen-Ala-Siikajärvi (Kuopio)",574886,7009778
+"73810  Palonurmi-Aholansaari (Kuopio)",557189,7022223
+"73830  Keski-Siikajärvi (Kuopio)",568644,7019454
+"73850  Ala-Luosta-Riitasalo (Rautavaara)",578735,7017108
+"73860  Pykälikkö (Rautavaara)",581378,7018139
+"73900  Rautavaara Keskus (Rautavaara)",567156,7045896
+"73970  Riitasalo (Rautavaara)",566405,7024911
+"73990  Kangaslahti (Rautavaara)",558369,7030351
+"74100  Iisalmi Keskus, Eteläinen (Iisalmi)",508602,7046659
+"74120  Iisalmi Keskus Pohjoinen (Iisalmi)",510543,7050157
+"74130  Kihmula (Iisalmi)",511763,7047106
+"74140  Ritoniemi (Iisalmi)",522932,7044995
+"74150  Laidunmäki (Iisalmi)",502363,7040968
+"74160  Koljonvirta (Iisalmi)",503759,7054529
+"74170  Soinlahti (Iisalmi)",510395,7056777
+"74200  Vieremä Keskus (Vieremä)",501774,7069214
+"74230  Salahmi (Vieremä)",495035,7076566
+"74240  Marttisenjärvi (Vieremä)",496609,7087204
+"74250  Nissilä (Vieremä)",490026,7092972
+"74270  Kauppilanmäki (Vieremä)",511950,7071972
+"74300  Sonkajärvi Keskus (Sonkajärvi)",526495,7060870
+"74340  Sukeva-Kainuunmäki (Sonkajärvi)",516476,7084299
+"74345  Kalliosuo (Sonkajärvi)",525653,7088030
+"74360  Sonkakoski (Sonkajärvi)",524370,7072229
+"74380  Jyrkkä (Sonkajärvi)",544067,7070350
+"74390  Laakajärvi (Sotkamo)",557433,7074265
+"74420  Hernejärvi (Sonkajärvi)",528921,7046888
+"74470  Paloinen (Lapinlahti)",545117,7041201
+"74490  Koirakoski (Sonkajärvi)",543695,7055261
+"74510  Peltosalmi-Sourunsalo (Iisalmi)",512035,7043750
+"74520  Kirmanranta (Iisalmi)",517449,7040443
+"74540  Kotikylä (Iisalmi)",506255,7034355
+"74550  Pörsänmäki (Iisalmi)",502845,7028075
+"74590  Kurenpolvi (Vieremä)",497701,7055672
+"74595  Runni (Iisalmi)",494449,7049884
+"74610  Honkaranta (Kiuruvesi)",489946,7056506
+"74630  Heinäkylä (Kiuruvesi)",486577,7048522
+"74640  Sulkavanjärvi (Kiuruvesi)",488546,7039906
+"74670  Rapakkojoki (Kiuruvesi)",476008,7052316
+"74680  Myllyniemi (Kiuruvesi)",476835,7040086
+"74700  Kiuruvesi Keskus (Kiuruvesi)",473702,7066942
+"74720  Niemiskylä (Kiuruvesi)",475360,7057189
+"74740  Aittojärvi (Kiuruvesi)",467857,7061965
+"74770  Kalliokylä (Kiuruvesi)",468787,7051633
+"74840  Koppeloharju (Kiuruvesi)",487658,7070401
+"74940  Remeskylä-Tihilänkangas (Kiuruvesi)",470942,7074344
+"74980  Tihilänkangas (Kiuruvesi)",472757,7084750
+"75500  Nurmes Keskus (Nurmes)",610158,7052405
+"75530  Porokylä (Nurmes)",603602,7045884
+"75650  Savikylä (Nurmes)",591375,7044572
+"75680  Ylä-Luosta (Rautavaara)",584165,7028632
+"75700  Valtimo Keskus (Nurmes)",599265,7070302
+"75710  Karhunpää (Nurmes)",593206,7054579
+"75740  Pajukoski (Nurmes)",583099,7055008
+"75770  Puukari (Nurmes)",580035,7068256
+"75790  Rumo (Nurmes)",575103,7077388
+"75840  Ylä-Valtimo (Nurmes)",593090,7068442
+"75890  Saramo-Petäiskylä-Mujejärvi (Nurmes)",610220,7069562
+"75930  Petäiskylä (Nurmes)",624660,7072469
+"75940  Mujejärvi (Nurmes)",619975,7080952
+"75970  Kohtavaara (Nurmes)",616197,7042488
+"75990  Höljäkkä (Nurmes)",622155,7039775
+"76100  Pieksämäki Keskus (Pieksämäki)",506547,6911517
+"76120  Kontiopuisto (Pieksämäki)",509920,6907987
+"76130  Pappilanmäki (Pieksämäki)",506138,6908843
+"76150  Länsirinne (Pieksämäki)",506332,6905884
+"76280  Partaharju (Pieksämäki)",512505,6917959
+"76620  Pyhitty (Pieksämäki)",511990,6903262
+"76780  Lamminmäki (Pieksämäki)",510702,6896832
+"76850  Naarajärvi (Pieksämäki)",501860,6903101
+"76940  Nenonpelto (Pieksämäki)",507332,6916018
+"77110  Paltanen (Pieksämäki)",494651,6912709
+"77120  Venetmäki (Pieksämäki)",487215,6904868
+"77140  Huumala (Pieksämäki)",488265,6917750
+"77220  Neuvola (Pieksämäki)",495233,6899367
+"77240  Halkokumpu (Pieksämäki)",493061,6891424
+"77320  Hurskaala (Pieksämäki)",519620,6896265
+"77330  Virtasalmi Keskus (Pieksämäki)",524371,6887763
+"77350  Montola (Pieksämäki)",513335,6892218
+"77380  Kantala (Mikkeli)",511413,6887813
+"77430  Siikamäki (Pieksämäki)",520425,6906283
+"77460  Maavesi (Joroinen)",528760,6905875
+"77480  Savuniemi (Joroinen)",532990,6894973
+"77520  Haapakoski-Partaharju (Pieksämäki)",504950,6923899
+"77570  Jäppilä Keskus (Pieksämäki)",521631,6921538
+"77580  Tihusniemi (Pieksämäki)",532892,6914082
+"77600  Suonenjoki Keskus (Suonenjoki)",506602,6944621
+"77630  Lempyy (Suonenjoki)",518462,6950121
+"77690  Suontee (Suonenjoki)",511395,6928882
+"77700  Rautalampi Keskus (Rautalampi)",485978,6943295
+"77770  Myhinpää (Rautalampi)",482407,6929989
+"77800  Iisvesi (Suonenjoki)",500975,6948877
+"77910  Vaajasalmi (Rautalampi)",491826,6953128
+"77930  Kerkonjoensuu (Rautalampi)",479490,6961435
+"77960  Pakarila (Rautalampi)",481174,6947837
+"78200  Varkaus Keskus (Varkaus)",555353,6913054
+"78210  Kuoppakangas (Varkaus)",540283,6914074
+"78250  Päiviönsaari (Varkaus)",547116,6908161
+"78300  Kommila (Varkaus)",545823,6911190
+"78310  Puurtila (Leppävirta)",549176,6914373
+"78400  Luttila (Varkaus)",544696,6913673
+"78480  Timola (Leppävirta)",543649,6917766
+"78500  Pitkälänniemi-Könönpelto (Varkaus)",549809,6908241
+"78610  Kurola (Varkaus)",552494,6909173
+"78710  Akonlahti (Varkaus)",557384,6902625
+"78850  Käpykangas (Joroinen)",536875,6908175
+"78870  Kaura-Aho (Varkaus)",542534,6910681
+"78880  Kuvansi (Joroinen)",546621,6902747
+"78900  Ruokokoski (Varkaus)",539310,6911176
+"79100  Leppävirta Keskus (Leppävirta)",545017,6931424
+"79130  Sorsakoski (Leppävirta)",534056,6925027
+"79140  Kotalahti (Leppävirta)",529368,6935799
+"79150  Konnuslahti-Valkeamäki (Leppävirta)",542036,6938814
+"79160  Saamaiskylä (Leppävirta)",540478,6947263
+"79180  Tuppurinmäki (Leppävirta)",550036,6943746
+"79190  Valkeamäki (Leppävirta)",553858,6947982
+"79230  Moninmäki (Leppävirta)",554238,6924142
+"79255  Kurjala-Moninmäki (Leppävirta)",558615,6935994
+"79265  Puponmäki (Leppävirta)",557714,6942815
+"79330  Näädänmaa (Leppävirta)",565115,6929717
+"79350  Itä-Soisalo (Leppävirta)",570340,6936855
+"79410  Niinimäki (Leppävirta)",562340,6918160
+"79480  Kangaslampi Keskus (Varkaus)",567330,6906740
+"79520  Viljolahti (Varkaus)",578507,6899197
+"79600  Joroinen Keskus (Joroinen)",546699,6894321
+"79620  Huutokoski (Joroinen)",536104,6897878
+"79630  Kolma (Joroinen)",538722,6902577
+"79660  Kerisalo (Joroinen)",549814,6886146
+"79680  Lahnalahti (Joroinen)",537842,6886033
+"79690  Kaitainen (Joroinen)",539044,6879187
+"79700  Heinävesi Keskus (Heinävesi)",578594,6920349
+"79810  Karvion kanava (Heinävesi)",585552,6932331
+"79820  Varistaipale (Heinävesi)",585944,6938058
+"79830  Palokki (Heinävesi)",582333,6941269
+"79850  Uusi-Valamo (Heinävesi)",591118,6935132
+"79860  Suuraho - Uusi-Valamo (Heinävesi)",595921,6936570
+"79885  Etelä-Petruma (Heinävesi)",595107,6926751
+"79895  Sarvikumpu (Heinävesi)",602840,6927207
+"79910  Kerma (Heinävesi)",596653,6909790
+"79940  Vihtari-Poikiinaho (Heinävesi)",602900,6918150
+"80100  Joensuu Keskus, Pohjoinen (Joensuu)",642401,6946378
+"80110  Joensuu Keskus Eteläinen (Joensuu)",640052,6943755
+"80130  Kanervala (Joensuu)",640575,6945688
+"80140  Noljakka (Joensuu)",636459,6945642
+"80160  Rantakylä-Latola (Joensuu)",645212,6946445
+"80170  Utra (Joensuu)",647300,6947055
+"80200  Niinivaara (Joensuu)",643115,6943494
+"80210  Sairaala-alue (Joensuu)",642641,6943163
+"80220  Penttilä (Joensuu)",640137,6941173
+"80230  Hukanhauta (Joensuu)",645241,6941347
+"80260  Kettuvaara (Joensuu)",646876,6943863
+"80330  Reijola (Joensuu)",643294,6936650
+"80400  Ylämylly (Liperi)",631833,6944013
+"80510  Onttola-Kunnasniemi (Kontiolahti)",635140,6955987
+"80710  Lehmo (Kontiolahti)",643160,6952998
+"80770  Kontiolahti as (Kontiolahti)",647120,6960632
+"80780  Kontioniemi (Kontiolahti)",641550,6960747
+"80790  Kontioranta-Kontioniemi (Kontiolahti)",643169,6958518
+"80850  Paihola (Kontiolahti)",649546,6954948
+"80910  Kulho (Kontiolahti)",651736,6946217
+"81100  Kontiolahti (Kontiolahti)",639392,6969013
+"81120  Katajaranta (Kontiolahti)",640935,6973692
+"81160  Romppala-Riihikangas (Kontiolahti)",640887,6985577
+"81200  Eno Keskus (Joensuu)",663479,6964692
+"81210  Louhioja (Joensuu)",657832,6967123
+"81220  Jakokoski (Kontiolahti)",652432,6962043
+"81230  Mönni (Kontiolahti)",659728,6956723
+"81235  Lehtoi (Kontiolahti)",659997,6948627
+"81260  Ahveninen (Joensuu)",654795,6982767
+"81270  Paukkaja (Joensuu)",662655,6974894
+"81280  Uimaharju (Joensuu)",670477,6979697
+"81290  Ukkola (Joensuu)",663145,6986178
+"81295  Haapalahti (Joensuu)",657544,6988680
+"81320  Kuismavaara (Joensuu)",677562,6957900
+"81330  Luhtapohja (Joensuu)",676224,6969129
+"81350  Tokrajärvi (Ilomantsi)",683861,6962524
+"81360  Sarvinki (Joensuu)",670527,6954709
+"81390  Revonkylä (Joensuu)",680124,6951000
+"81420  Tyrjänsaari (Ilomantsi)",683495,6978724
+"81430  Kivilahti (Ilomantsi)",683464,6992396
+"81450  Huhus-Käenkoski (Ilomantsi)",690533,6975992
+"81460  Käenkoski (Ilomantsi)",695374,6985999
+"81470  Naarva (Ilomantsi)",703465,7002873
+"81560  Vuonisjärvi (Lieksa)",658513,7004809
+"81570  Kelvä (Lieksa)",658916,6997396
+"81590  Vuonislahti (Lieksa)",649236,7001714
+"81650  Hattuvaara (Lieksa)",687262,7023501
+"81660  Lehmikylä (Lieksa)",681663,7026246
+"81700  Lieksa Keskus (Lieksa)",669711,7006642
+"81720  Mähkö-Timitra (Lieksa)",651918,7017202
+"81750  Pankakoski (Lieksa)",667972,7035963
+"81810  Jamali (Lieksa)",641468,7030737
+"81820  Kylänlahti (Lieksa)",634652,7024850
+"81850  Mätäsvaara (Lieksa)",627675,7034642
+"81860  Viekijärvi (Lieksa)",631390,7053590
+"81950  Pankajärvi (Lieksa)",653368,7037039
+"81970  Jongunjoki-Pankajärvi (Lieksa)",649225,7056153
+"82110  Heinävaara (Joensuu)",661497,6939882
+"82120  Keskijärvi (Joensuu)",670644,6944151
+"82140  Kiihtelysvaara Keskus (Joensuu)",669121,6928233
+"82160  Oskola (Joensuu)",681905,6927056
+"82170  Uskali (Joensuu)",681551,6920663
+"82180  Huhtilampi (Joensuu)",674016,6926369
+"82200  Hammaslahti (Joensuu)",653936,6925662
+"82210  Suhmura (Joensuu)",649010,6929353
+"82220  Niittylahti (Joensuu)",649009,6933968
+"82290  Nieminen (Rääkkylä)",647651,6914937
+"82300  Rääkkylä Keskus (Rääkkylä)",634276,6907720
+"82310  Oravisalo-Varpasalo (Rääkkylä)",626937,6912053
+"82335  Rasivaara (Rääkkylä)",646484,6904247
+"82350  Tikkala (Tohmajärvi)",661857,6918308
+"82360  Onkamo (Tohmajärvi)",661712,6908842
+"82380  Tolosenmäki (Kitee)",654550,6896635
+"82395  Haarajärvi (Kitee)",664233,6901005
+"82430  Puhos-Leinovaara (Kitee)",646461,6886510
+"82460  Hummovaara (Kitee)",640496,6885813
+"82490  Heinoniemi (Kitee)",630295,6896279
+"82500  Kitee Keskus (Kitee)",661864,6883924
+"82510  Kiteenlahti (Kitee)",670973,6884509
+"82580  Juurikka (Kitee)",662776,6875056
+"82590  Närsäkkälä (Kitee)",664403,6866991
+"82600  Tohmajärvi Keskus (Tohmajärvi)",675000,6907226
+"82655  Värtsilä Keskus (Tohmajärvi)",688083,6905314
+"82660  Uusi-Värtsilä (Tohmajärvi)",679686,6901161
+"82670  Kaurila (Tohmajärvi)",683867,6896663
+"82675  Niirala-Jänisjoki (Tohmajärvi)",687384,6897501
+"82685  Littilä (Tohmajärvi)",677562,6892772
+"82710  Kovero (Joensuu)",681776,6941786
+"82730  Tuupovaara Keskus-Pirttiaho (Joensuu)",685891,6933288
+"82750  Öllölä (Joensuu)",693681,6920925
+"82760  Hoilola (Joensuu)",699937,6915983
+"82770  Kaustajärvi (Tohmajärvi)",693559,6909334
+"82815  Marjovaara (Joensuu)",689730,6946915
+"82820  Maukkula (Ilomantsi)",697301,6947181
+"82830  Haukivaara (Ilomantsi)",703775,6940445
+"82840  Pirttiaho (Joensuu)",696708,6937362
+"82850  Kinnasniemi (Joensuu)",692853,6935852
+"82865  Kokinvaara-Mannervaara (Joensuu)",698052,6929473
+"82870  Luutalahti (Joensuu)",700637,6924409
+"82880  Mannervaara (Joensuu)",705059,6922548
+"82900  Ilomantsi Keskus (Ilomantsi)",707107,6962257
+"82915  Sonkaja (Ilomantsi)",693794,6962367
+"82960  Lehtovaara-Kuikkalampi (Ilomantsi)",717808,6970439
+"82967  Hattu (Ilomantsi)",720123,6989332
+"82980  Möhkö (Ilomantsi)",719704,6951364
+"83100  Liperi Keskus (Liperi)",619366,6931214
+"83130  Salokylä (Liperi)",626633,6940889
+"83140  Puromäki (Liperi)",630445,6935939
+"83150  Roukalahti (Liperi)",631774,6930274
+"83160  Tutjunniemi (Liperi)",637137,6926041
+"83320  Risti-Juojärvi (Liperi)",612461,6940556
+"83330  Kaatamo (Liperi)",610016,6936793
+"83340  Kaarnalampi (Liperi)",611033,6943178
+"83400  Viinijärvi (Liperi)",611285,6945283
+"83430  Käsämä (Liperi)",621374,6947749
+"83450  Vaivio (Liperi)",626430,6952274
+"83460  Harinjärvi (Liperi)",630855,6954140
+"83480  Ahonkylä (Liperi)",608133,6949728
+"83500  Outokumpu Keskus (Outokumpu)",600980,6953904
+"83550  Kokonvaara (Outokumpu)",610854,6964217
+"83630  Kuusjärvi (Outokumpu)",593441,6952006
+"83660  Varislahti (Outokumpu)",587951,6959668
+"83700  Polvijärvi Keskus (Polvijärvi)",618579,6977538
+"83720  Kuorevaara (Polvijärvi)",626836,6963993
+"83750  Sotkuma (Polvijärvi)",623511,6957992
+"83760  Sola (Polvijärvi)",618476,6963888
+"83780  Horsmanaho (Polvijärvi)",614107,6968000
+"83825  Kinahmo (Polvijärvi)",630312,6971058
+"83830  Hukkala (Polvijärvi)",607247,6978069
+"83835  Ruvaslahti (Polvijärvi)",628178,6982989
+"83840  Saarivaara (Polvijärvi)",604730,6973172
+"83855  Martonvaara-Sammakkovaara (Polvijärvi)",621723,6992580
+"83870  Polvela-Timovaara (Juuka)",611677,6999459
+"83880  Kajoo (Juuka)",598951,6995576
+"83900  Juuka Keskus (Juuka)",603492,7016595
+"83910  Paalasmaa (Juuka)",623123,7021980
+"83915  Vihtasuo (Juuka)",611866,7022585
+"83940  Nunnanlahti (Juuka)",625559,7010629
+"83950  Ahmovaara (Juuka)",633111,6995885
+"83960  Koli (Lieksa)",640189,7004519
+"83985  Tuopanjoki (Juuka)",630070,6992081
+"84100  Ylivieska Keskus (Ylivieska)",378640,7107113
+"84460  Tuomiperä (Ylivieska)",387676,7115850
+"84540  Vähäkangas (Ylivieska)",387501,7107209
+"84650  Kantokylä (Ylivieska)",394655,7109428
+"84770  Isokoski (Ylivieska)",392002,7100806
+"84880  Raudaskylä (Ylivieska)",393578,7097871
+"85100  Kalajoki Keskus (Kalajoki)",351448,7128463
+"85120  Metsä (Kalajoki)",362516,7132696
+"85140  Tynkä (Kalajoki)",358533,7122101
+"85150  Typpö (Kalajoki)",353122,7112623
+"85160  Rautio (Kalajoki)",364309,7107673
+"85180  Rahja (Kalajoki)",343637,7121495
+"85200  Alavieska Keskus (Alavieska)",371454,7120586
+"85210  Kähtävä (Alavieska)",369263,7112543
+"85230  Talus (Alavieska)",368629,7126898
+"85310  Sievi Asemanseutu (Sievi)",368028,7098722
+"85320  Markkula (Sievi)",370240,7091235
+"85340  Jyrinki (Sievi)",376470,7093052
+"85410  Sievi Keskus (Sievi)",375059,7084592
+"85430  Koivisto (Sievi)",383171,7091441
+"85450  Joenkylä (Sievi)",391457,7082610
+"85470  Kiiskilampi (Sievi)",386217,7075508
+"85500  Nivala Keskus (Nivala)",400666,7090672
+"85540  Mönkö (Nivala)",390700,7092667
+"85560  Ainastalo (Nivala)",400611,7078669
+"85580  Karvoskylä (Nivala)",408902,7083181
+"85620  Sarja (Nivala)",405918,7100585
+"85630  Sarjanahde (Nivala)",405414,7090448
+"85640  Maliskylä (Nivala)",410744,7092274
+"85660  Ruuskankylä (Nivala)",415453,7091356
+"85710  Parkkila (Haapajärvi)",425043,7083571
+"85730  Tulppo (Haapajärvi)",432089,7084486
+"85800  Haapajärvi Keskus (Haapajärvi)",418265,7065694
+"85820  Oksava (Haapajärvi)",413965,7078354
+"85840  Kuona (Haapajärvi)",429296,7070764
+"85900  Reisjärvi Keskus (Reisjärvi)",397004,7053357
+"85930  Kangaskylä-Tolpankangas (Reisjärvi)",388806,7061923
+"85940  Räisälänmäki (Reisjärvi)",401920,7066885
+"85980  Köyhänperä (Reisjärvi)",408243,7057354
+"86100  Pyhäjoki Keskus (Pyhäjoki)",380663,7148397
+"86110  Parhalahti (Pyhäjoki)",372391,7155998
+"86160  Pirttikoski (Pyhäjoki)",372302,7144768
+"86170  Yppäri (Pyhäjoki)",361478,7143691
+"86210  Petäjäskoski (Oulainen)",382644,7125748
+"86220  Merijärvi Keskus (Merijärvi)",373511,7132757
+"86230  Ylipää (Merijärvi)",383849,7137214
+"86240  Pyhänkoski (Merijärvi)",373880,7138497
+"86300  Oulainen Keskus (Oulainen)",392942,7130678
+"86350  Kilpua (Oulainen)",405415,7135563
+"86360  Ilveskorpi (Raahe)",406665,7140783
+"86400  Vihanti Keskus (Raahe)",401520,7151282
+"86440  Lampinsaari (Raahe)",409808,7144097
+"86460  Alpua (Raahe)",417989,7144413
+"86470  Lumimetsä (Raahe)",415665,7135902
+"86480  Karhukangas (Haapavesi)",423517,7135220
+"86510  Matkaniva (Oulainen)",404721,7128324
+"86530  Annonen (Haapavesi)",407129,7122619
+"86550  Mieluskylä (Haapavesi)",410382,7117153
+"86600  Haapavesi Keskus (Haapavesi)",417140,7121274
+"86650  Kytökylä-Joutenniva (Haapavesi)",432933,7109252
+"86680  Vatjusjärvi (Haapavesi)",418483,7105954
+"86690  Karsikas (Haapavesi)",419298,7096014
+"86710  Kärsämäki Keskus (Kärsämäki)",444570,7093194
+"86790  Venetpalo (Kärsämäki)",441094,7083499
+"86800  Pyhäsalmi (Pyhäjärvi)",442145,7062462
+"86810  Pellikkaperä (Pyhäjärvi)",449155,7057342
+"86850  Hiidenniemi (Pyhäjärvi)",433404,7047278
+"86870  Vesikoski (Pyhäjärvi)",448028,7074802
+"86900  Pyhäkumpu (Pyhäjärvi)",453332,7061173
+"86980  Väliaho (Pyhäjärvi)",451670,7040804
+"87100  Kajaani Keskus (Kajaani)",532556,7123840
+"87150  Purola (Kajaani)",533963,7122138
+"87200  Teppana (Kajaani)",534867,7123607
+"87250  Kättö-Kätönlahti (Kajaani)",538999,7124277
+"87300  Palokangas (Kajaani)",535146,7120527
+"87400  Petäisenniska (Kajaani)",537451,7121477
+"87500  Lehtikangas (Kajaani)",538325,7119733
+"87700  Lohtaja-Kettu (Kajaani)",532262,7120812
+"87800  Vuoreslahti (Kajaani)",523980,7121713
+"87830  Nakertaja (Kajaani)",532986,7125653
+"87850  Paltaniemi (Kajaani)",532230,7129667
+"87900  Karankalahti (Kajaani)",535622,7100727
+"87910  Linnantaus (Kajaani)",536620,7127700
+"87930  Salmijärvi (Kajaani)",538885,7132382
+"87950  Kuluntalahti (Kajaani)",544027,7125778
+"87970  Jormua (Kajaani)",546448,7132831
+"88120  Tuhkakylä (Sotkamo)",556348,7094403
+"88200  Otanmäki-Kytökoski (Kajaani)",500713,7104924
+"88270  Vuolijoki Keskus (Kajaani)",497460,7121308
+"88300  Paltamo Keskus (Paltamo)",519287,7144376
+"88310  Melalahti (Paltamo)",530227,7146661
+"88340  Manamansalo (Vaala)",503427,7139016
+"88350  Kivesjärvi (Paltamo)",518297,7149842
+"88380  Mieslahti (Paltamo)",549037,7143402
+"88400  Ristijärvi Keskus-Hiisijärvi (Ristijärvi)",568688,7153404
+"88440  Jokikylä (Ristijärvi)",563755,7158859
+"88460  Hiisijärvi (Ristijärvi)",583277,7140022
+"88470  Kontiomäki (Paltamo)",549735,7136255
+"88490  Pohjavaara (Sotkamo)",551518,7122234
+"88530  Paakki (Sotkamo)",559843,7132396
+"88600  Sotkamo Keskus (Sotkamo)",581995,7109274
+"88610  Vuokatti (Sotkamo)",560979,7119369
+"88615  Vuokatin Urheiluopisto (Sotkamo)",562520,7113196
+"88620  Korholanmäki (Sotkamo)",549165,7111495
+"88640  Ontojoki (Sotkamo)",589947,7107977
+"88670  Juurikkalahti-Maanselkä (Sotkamo)",562691,7098721
+"88690  Maanselkä (Sotkamo)",567820,7082884
+"88730  Ylä-Vieksi (Kuhmo)",601068,7134794
+"88740  Härmänkylä-Iivantiira (Kuhmo)",600303,7147492
+"88760  Iivantiira (Kuhmo)",618653,7148180
+"88820  Katerma (Kuhmo)",599097,7110297
+"88900  Kuhmo Keskus (Kuhmo)",633415,7105023
+"88930  Lentiira-Kuumu (Kuhmo)",635086,7152121
+"88940  Kuumu (Kuhmo)",625136,7164885
+"89110  Törmänmäki (Puolanka)",535121,7161089
+"89140  Kotila-Törmänmäki (Puolanka)",546939,7172809
+"89200  Puolanka Keskus (Puolanka)",535571,7193942
+"89210  Puokiovaara (Puolanka)",513484,7182821
+"89320  Joukokylä (Puolanka)",549153,7213899
+"89330  Suolijärvi (Puolanka)",550000,7226245
+"89400  Hyrynsalmi Keskus (Hyrynsalmi)",572640,7174800
+"89430  Hoikka (Hyrynsalmi)",579602,7179132
+"89440  Sakara (Suomussalmi)",582060,7185768
+"89540  Moisiovaara (Hyrynsalmi)",603956,7164171
+"89560  Karhuvaara (Hyrynsalmi)",596898,7155590
+"89600  Ämmänsaari (Suomussalmi)",580143,7194958
+"89610  Jumaliskylä (Suomussalmi)",607921,7178309
+"89640  Pesiökylä (Suomussalmi)",575987,7205615
+"89660  Takalo (Suomussalmi)",574831,7217585
+"89670  Näljänkä (Suomussalmi)",567197,7233160
+"89680  Vaaranniva (Suomussalmi)",560548,7221884
+"89730  Ahjola (Suomussalmi)",586635,7230209
+"89740  Kianta (Suomussalmi)",596228,7228410
+"89760  Piispajärvi-Peranka-Kaikkoinen (Suomussalmi)",593858,7241593
+"89770  Peranka (Suomussalmi)",595489,7257861
+"89780  Kaikkonen (Suomussalmi)",580197,7249845
+"89800  Suomussalmi Keskus (Suomussalmi)",605865,7211299
+"89830  Ala-Vuokki (Suomussalmi)",619946,7182524
+"89840  Ylä-Vuokki (Suomussalmi)",635898,7177041
+"89920  Ruhtinansalmi (Suomussalmi)",616879,7245020
+"90100  Oulu Keskus (Oulu)",427892,7210654
+"90120  Heinäpää (Oulu)",427095,7209697
+"90130  Raksila (Oulu)",429085,7210862
+"90140  Karjasilta (Oulu)",428776,7209466
+"90150  Höyhtyä (Oulu)",428843,7208018
+"90220  Kontinkangas (Oulu)",430092,7209924
+"90230  Värttö-Maikkula (Oulu)",430965,7209764
+"90240  Iinatti (Oulu)",432475,7207204
+"90250  Kaukovainio (Oulu)",430342,7207800
+"90310  Madekoski (Oulu)",438814,7198615
+"90400  Äimärautio (Oulu)",426577,7208674
+"90410  Kaakkuri (Oulu)",429631,7204765
+"90420  Metsokangas (Oulu)",431905,7203946
+"90440  Kempele Keskus (Kempele)",429044,7198915
+"90450  Honkanen (Kempele)",434811,7194931
+"90460  Oulunsalo Keskus (Oulu)",422459,7201226
+"90470  Varjakka (Oulu)",418375,7207075
+"90480  Hailuoto (Hailuoto)",392505,7212288
+"90500  Tuira (Oulu)",428471,7212189
+"90510  Hietasaari (Oulu)",425926,7212680
+"90520  Taskila-Toppila (Oulu)",426164,7214512
+"90530  Välivainio (Oulu)",427988,7213269
+"90540  Kuivasjärvi (Oulu)",430436,7218626
+"90550  Pyykösjärvi-Puolivälikangas (Oulu)",429089,7213807
+"90560  Koskela-Oulu (Oulu)",427128,7214636
+"90570  Kaijonharju-Linnanmaa (Oulu)",428697,7215391
+"90580  Rajakylä (Oulu)",425522,7216525
+"90590  Teknologiakylä (Oulu)",426934,7216060
+"90620  Rusko-Heikinharju (Oulu)",432354,7215334
+"90630  Korvensuora (Oulu)",436804,7213687
+"90650  Haapalehto (Oulu)",432097,7211196
+"90660  Sanginsuu (Oulu)",444353,7204147
+"90670  Hiukkavaara (Oulu)",435845,7210469
+"90800  Pateniemi (Oulu)",425093,7219324
+"90810  Kiviniemi (Oulu)",419319,7223917
+"90820  Kello (Oulu)",425478,7224104
+"90830  Haukipudas Keskus (Oulu)",422297,7230435
+"90840  Haukipudas Asemanseutu (Oulu)",431752,7232011
+"90850  Martinniemi (Oulu)",421319,7233607
+"90860  Halosenniemi (Oulu)",425697,7235909
+"90900  Kiiminki Keskus (Oulu)",446797,7226611
+"90910  Kontio (Oulu)",434758,7225667
+"90940  Jääli (Oulu)",437862,7219064
+"91100  Ii Keskus (Ii)",424033,7246040
+"91110  Ii Asemanseutu (Ii)",430653,7246387
+"91140  Olhava (Ii)",431462,7262518
+"91150  Yli-Olhava (Ii)",437452,7271933
+"91200  Yli-Ii Keskus (Oulu)",444601,7254574
+"91210  Jakkukylä (Ii)",435999,7242052
+"91240  Tannila (Oulu)",457487,7263108
+"91260  Pahkakoski-Räinä (Oulu)",459355,7247027
+"91300  Ylikiiminki Keskus (Oulu)",467479,7211417
+"91310  Arkala (Oulu)",458858,7234914
+"91410  Jokirinne (Muhos)",448340,7197631
+"91430  Leppiniemi (Muhos)",454825,7191184
+"91500  Muhos Keskus (Muhos)",456732,7184180
+"91510  Rova (Muhos)",444757,7193572
+"91560  Kylmälänkylä (Muhos)",465737,7160636
+"91600  Utajärvi Keskus (Utajärvi)",480706,7178829
+"91620  Sanginkylä (Utajärvi)",492196,7192717
+"91630  Juorkuna (Utajärvi)",497380,7207922
+"91640  Särkijärvi (Utajärvi)",511516,7199103
+"91660  Ahmas (Utajärvi)",473053,7167025
+"91670  Rokua (Utajärvi)",475202,7161861
+"91700  Vaala Keskus-Oterma (Vaala)",489620,7155359
+"91710  Jylhämä (Vaala)",489086,7161236
+"91720  Oterma (Vaala)",504666,7174873
+"91730  Kankari (Vaala)",499220,7157761
+"91740  Jaalanka-Liminpuro (Vaala)",507951,7161232
+"91750  Liminpuro (Vaala)",516618,7155899
+"91760  Säräisniemi (Vaala)",492002,7140783
+"91780  Neittävä (Vaala)",481973,7153847
+"91790  Nuojua (Vaala)",482677,7161184
+"91800  Tyrnävä (Tyrnävä)",445441,7174019
+"91900  Liminka Keskus (Liminka)",421318,7182289
+"91910  Tupos (Liminka)",426182,7193660
+"91930  Ala-Temmes (Liminka)",430059,7182732
+"91950  Temmes (Liminka)",435345,7168523
+"91980  Lumijoki (Lumijoki)",412208,7188514
+"92100  Raahe Keskus (Raahe)",379679,7175379
+"92120  Ollinsaari-Mestauskallio (Raahe)",381606,7173544
+"92130  Isoholmi-Antinkangas (Raahe)",381238,7176653
+"92140  Pattijoki Keskus (Raahe)",389340,7177477
+"92150  Kummatti-Junnilanmäki (Raahe)",379355,7173988
+"92160  Saloinen (Raahe)",379130,7169567
+"92180  Lapaluoto (Raahe)",376741,7173358
+"92210  Arkkukari (Raahe)",377030,7167009
+"92220  Piehinki (Raahe)",379106,7159746
+"92230  Mattilanperä (Raahe)",385276,7164710
+"92240  Lasikangas (Raahe)",388747,7169844
+"92260  Kopsa (Raahe)",388913,7158987
+"92320  Siikajoki Keskus (Siikajoki)",393408,7188347
+"92330  Karinkanta (Siikajoki)",402397,7195175
+"92350  Revonlahti (Siikajoki)",403679,7181134
+"92400  Ruukki Keskus (Siikajoki)",409594,7172796
+"92430  Paavola-Huumola (Siikajoki)",417130,7165392
+"92440  Saarikoski (Siikajoki)",424997,7167052
+"92450  Luohua (Siikajoki)",418337,7154978
+"92470  Tuomioja (Siikajoki)",402385,7164828
+"92500  Rantsila Keskus (Siikalatva)",441078,7150245
+"92520  Sipola (Siikalatva)",446487,7144044
+"92530  Mankila (Siikalatva)",428570,7162724
+"92600  Pulkkila Keskus (Siikalatva)",438786,7129622
+"92610  Vorna (Siikalatva)",448203,7137742
+"92620  Piippola Keskus (Siikalatva)",452192,7114528
+"92640  Leskelä (Siikalatva)",439489,7115912
+"92650  Laakkola (Siikalatva)",436854,7122642
+"92700  Kestilä (Siikalatva)",469263,7133171
+"92810  Pelsonsuo (Vaala)",471080,7154158
+"92830  Veneheitto (Vaala)",477678,7142446
+"92910  Tavastkenkä (Pyhäntä)",475464,7113806
+"92920  Ahokylä (Pyhäntä)",478625,7099843
+"92930  Pyhäntä (Pyhäntä)",466796,7102459
+"93100  Pudasjärvi Keskus (Pudasjärvi)",502584,7245953
+"93140  Kipinä (Pudasjärvi)",480818,7238868
+"93160  Hetejärvi (Pudasjärvi)",489931,7228265
+"93170  Yli-Kollaja (Pudasjärvi)",477116,7255316
+"93180  Ikosenniemi (Pudasjärvi)",481638,7265192
+"93187  Ala-Siurua (Pudasjärvi)",469836,7266683
+"93190  Yli-Siurua-Ikosenniemi (Pudasjärvi)",479710,7280509
+"93195  Kokkokylä (Pudasjärvi)",482689,7285899
+"93220  Livo (Pudasjärvi)",496667,7270901
+"93225  Pärjänsuo (Pudasjärvi)",508762,7272397
+"93240  Rytinki (Pudasjärvi)",510340,7288438
+"93250  Sarajärvi (Pudasjärvi)",521939,7299519
+"93270  Sotkajärvi (Pudasjärvi)",534138,7251046
+"93277  Iinattijärvi (Pudasjärvi)",521848,7262982
+"93280  Syöte (Pudasjärvi)",526459,7278425
+"93290  Pintamo (Pudasjärvi)",531274,7260436
+"93350  Jaurakkajärvi (Pudasjärvi)",533612,7229776
+"93390  Puhoskylä (Pudasjärvi)",542132,7244102
+"93400  Taivalkoski Keskus (Taivalkoski)",557576,7273046
+"93420  Jurmu (Taivalkoski)",543058,7264412
+"93440  Loukusa (Taivalkoski)",540266,7294827
+"93470  Inget (Taivalkoski)",567317,7295614
+"93540  Tyrövaara (Taivalkoski)",591453,7267416
+"93590  Vanhala (Taivalkoski)",565422,7247649
+"93600  Kuusamo (Kuusamo)",597645,7317541
+"93700  Kurkijärvi - Oijusluoma (Kuusamo)",608616,7294032
+"93800  Muojärvi (Kuusamo)",617978,7331092
+"93830  Rukatunturi (Kuusamo)",598360,7339532
+"93900  Oulangan kansallispuisto (Kuusamo)",594772,7360116
+"93999  Lososaari (Kuusamo)",580331,7342516
+"94100  Kemi Keskus (Kemi)",388099,7293040
+"94200  Torvinen-Vainio (Kemi)",387336,7295418
+"94300  Pajusaari (Kemi)",384720,7295921
+"94400  Keminmaa Keskus (Keminmaa)",387430,7301578
+"94430  Kaakamo (Tornio)",382244,7301459
+"94450  Lassila-Jokisuu (Keminmaa)",385375,7299529
+"94460  Ruottala (Tornio)",384827,7309240
+"94500  Lautiosaari (Keminmaa)",406754,7311033
+"94600  Ristikangas-Kivikko (Kemi)",392000,7294646
+"94700  Takajärvi-Haukkari (Kemi)",393047,7291067
+"94720  Peurasaari (Kemi)",389686,7290985
+"94800  Veitsiluoto (Kemi)",391106,7287498
+"94830  Pikku Berliini-Hepola (Kemi)",393824,7286155
+"94900  Ajos (Kemi)",387764,7285891
+"95100  Kuivaniemi Keskus (Ii)",425245,7283071
+"95110  Kuivaniemi kk (Ii)",419752,7271093
+"95130  Hyryoja (Ii)",434553,7280045
+"95160  Oijärvi-Lamminperä (Ii)",454887,7285701
+"95200  Simo Keskus (Simo)",417517,7292937
+"95210  Filpus (Simo)",407389,7283502
+"95220  Simoniemi (Simo)",404285,7282817
+"95225  Viantie (Simo)",408787,7297639
+"95230  Maksniemi (Simo)",397794,7289122
+"95255  Alaniemi (Simo)",424150,7304556
+"95260  Tainionjoki (Simo)",435656,7311254
+"95270  Yli-Kärppä-Tainionjoki (Simo)",445560,7299058
+"95300  Tervola Keskus (Tervola)",410282,7332594
+"95310  Liedakkala (Keminmaa)",387980,7307773
+"95315  Törmä (Keminmaa)",390700,7314172
+"95325  Paakkola (Tervola)",393094,7323728
+"95330  Tervola (Tervola)",394060,7342481
+"95340  Loue (Tervola)",408124,7339901
+"95350  Peura (Tervola)",415144,7338123
+"95355  Koivu-Peura (Tervola)",432677,7340479
+"95365  Maula (Keminmaa)",398805,7309500
+"95370  Itäkoski (Keminmaa)",398593,7316130
+"95375  Yli-Paakkola (Tervola)",399423,7321012
+"95400  Tornio Keskus (Tornio)",370419,7297890
+"95410  Kiviranta (Tornio)",370971,7308520
+"95420  Miukki-Palosaari-Luotomäki (Tornio)",371239,7304940
+"95430  Suensaari (Tornio)",369520,7307163
+"95440  Kyläjoki (Tornio)",378425,7303625
+"95450  Kirkonmäki (Tornio)",370698,7301331
+"95460  Kantojärvi (Tornio)",377630,7311335
+"95470  Pirkkiö-Röyttä (Tornio)",373258,7301878
+"95490  Terästehtaanalue (Tornio)",371145,7296700
+"95500  Vojakkala-Yli-Liakka (Tornio)",372541,7316065
+"95520  Kukkola (Tornio)",368913,7320837
+"95530  Karunki (Tornio)",369781,7336146
+"95540  Korpikylä (Tornio)",363660,7340413
+"95560  Aapajoki (Tornio)",371054,7325208
+"95590  Arpela (Tornio)",382424,7332132
+"95600  Ylitornio Keskus (Ylitornio)",364232,7357173
+"95610  Kainuunkylä (Ylitornio)",356965,7350348
+"95615  Pekanpää (Ylitornio)",356773,7344728
+"95620  Aavasaksa (Ylitornio)",355965,7367101
+"95630  Kuivakangas (Ylitornio)",353656,7370528
+"95635  Kaulinranta (Ylitornio)",355388,7376008
+"95640  Juoksenki (Pello)",366727,7382365
+"95645  Turtola (Pello)",369982,7395196
+"95655  Etelä-Portimojärvi (Ylitornio)",360814,7363532
+"95660  Kantomaanpää (Ylitornio)",369254,7371434
+"95670  Pessalompolo (Ylitornio)",381915,7381303
+"95675  Meltosjärvi (Ylitornio)",399015,7380958
+"95680  Lohijärvi (Ylitornio)",383575,7373454
+"95690  Mellakoski (Ylitornio)",390791,7364406
+"95700  Pello Keskus (Pello)",375356,7412680
+"95710  Naamijoki (Pello)",366785,7428098
+"95720  Jarhoinen (Pello)",363491,7431919
+"95750  Orajärvi (Pello)",374779,7426906
+"95760  Konttajärvi (Pello)",385944,7416534
+"95770  Lankojärvi (Pello)",380048,7402980
+"95780  Sirkkakoski (Pello)",384322,7395006
+"95790  Lampsijärvi (Pello)",395495,7403453
+"95800  Sieppijärvi-Taapajärvi (Kolari)",374055,7444724
+"95830  Vaattojärvi (Kolari)",377387,7457081
+"95840  Venejärvenkylä (Kolari)",381458,7465204
+"95850  Ruokojärvi (Kolari)",390196,7455306
+"95860  Pasmajärvi (Kolari)",385319,7439397
+"95900  Kolari Keskus (Kolari)",368926,7480590
+"95920  Saaripudas (Kolari)",361429,7479236
+"95930  Äkäsjoensuu (Kolari)",357951,7486307
+"95940  Tapojärvi (Muonio)",355987,7494607
+"95950  Kihlanki-Tapojärvi (Muonio)",360566,7502461
+"95970  Äkäslompolo (Muonio)",378059,7506060
+"95980  Ylläsjärvi (Kolari)",384259,7493615
+"95990  Kurtakko (Kolari)",380454,7477824
+"96100  Rovaniemi Keskus (Rovaniemi)",436643,7385667
+"96190  Lapinrinne-Ahokangas (Rovaniemi)",440165,7378925
+"96200  Sahanperä-Ratantaus (Rovaniemi)",444025,7376973
+"96300  Niemelänkangas-Korvanniemi (Rovaniemi)",441227,7374427
+"96320  Teollisuuskylä (Rovaniemi)",439740,7375355
+"96400  Pullinranta-Kiiruna (Rovaniemi)",443720,7371497
+"96440  Ounasrinne (Rovaniemi)",448289,7374200
+"96460  Pöykkölä (Rovaniemi)",446293,7373001
+"96500  Korkalovaara (Rovaniemi)",439554,7378051
+"96600  Koskenkylä (Rovaniemi)",453145,7373446
+"96700  Niskanperä (Rovaniemi)",434489,7372689
+"96800  Ylikylä-Patosaari (Rovaniemi)",434642,7381436
+"96900  Saarenkylä (Rovaniemi)",449568,7398692
+"96910  Syväsenvaara (Rovaniemi)",446137,7380239
+"96930  Napapiiri Rovaniemi (Rovaniemi)",448463,7381659
+"96960  Someroharju (Rovaniemi)",446909,7383332
+"97110  Rautionsaari (Rovaniemi)",435781,7360622
+"97130  Hirvas (Rovaniemi)",426516,7372020
+"97140  Muurola (Rovaniemi)",415725,7362747
+"97145  Totonvaara (Rovaniemi)",427111,7362794
+"97160  Petäjäinen (Rovaniemi)",425034,7351479
+"97170  Jaatila (Rovaniemi)",425942,7349135
+"97220  Sinettä (Rovaniemi)",430358,7390425
+"97240  Sonka (Rovaniemi)",418034,7395704
+"97250  Raanujärvi (Ylitornio)",400745,7390971
+"97280  Tapio (Rovaniemi)",431831,7401349
+"97290  Marraskoski (Rovaniemi)",425554,7411317
+"97310  Patokoski (Rovaniemi)",439393,7418971
+"97320  Marrasjärvi (Rovaniemi)",413362,7424036
+"97330  Rattosjärvi (Pello)",405364,7413984
+"97335  Ruuhivaara (Pello)",392429,7417452
+"97340  Meltaus-Jääskö-Perttaus (Rovaniemi)",431788,7433685
+"97370  Unarin-Luusua (Sodankylä)",446999,7448963
+"97380  Kukasranta (Sodankylä)",437391,7449215
+"97390  Kierinki (Sodankylä)",436604,7458526
+"97420  Lohiniva (Kittilä)",413851,7458652
+"97430  Taapajärvi (Kolari)",398427,7453609
+"97470  Alakylä-Sailehto (Kittilä)",409042,7472141
+"97510  Vikajärvi (Rovaniemi)",472882,7386371
+"97520  Nampa (Rovaniemi)",467661,7401420
+"97530  Nampa-Yli-Nampa (Rovaniemi)",467069,7412014
+"97540  Tiainen (Rovaniemi)",462444,7426662
+"97580  Misi (Rovaniemi)",483847,7392938
+"97590  Raajärvi (Kemijärvi)",494074,7380407
+"97610  Oikarainen (Rovaniemi)",463019,7370572
+"97615  Tennirova (Rovaniemi)",475118,7366050
+"97620  Viiri-Tennirova (Rovaniemi)",477644,7367092
+"97625  Vanttauskoski (Rovaniemi)",485662,7367846
+"97630  Pekkala (Rovaniemi)",496849,7362830
+"97635  Juuniemi (Rovaniemi)",505150,7359379
+"97645  Juujärvi (Kemijärvi)",512417,7366080
+"97650  Juotas (Rovaniemi)",494931,7352713
+"97655  Autti (Rovaniemi)",507376,7349857
+"97665  Pohjasperä (Ranua)",505027,7340680
+"97670  Kivitaipale (Rovaniemi)",449328,7359981
+"97675  Narkaus-Kämät (Rovaniemi)",468926,7358096
+"97680  Saari-Kämä (Rovaniemi)",460802,7341671
+"97685  Siika-Kämä (Rovaniemi)",475988,7345433
+"97690  Sulaoja (Rovaniemi)",444517,7346253
+"97700  Ranua Keskus (Ranua)",477467,7314019
+"97715  Raiskio (Ranua)",451985,7312307
+"97720  Yli-Simo-Raiskio (Ranua)",468125,7333389
+"97760  Saariharju (Ranua)",510337,7311629
+"97765  Kuha-Impiö-Itäranua (Ranua)",512068,7319668
+"97780  Kuukasjärvi-Petäjäjärvi (Ranua)",496238,7299090
+"97785  Kelankylä (Ranua)",499864,7290422
+"97810  Suorsa (Posio)",518011,7349371
+"97815  Pernu-Suorsa (Posio)",525981,7344871
+"97820  Perä-Posio (Posio)",538814,7339897
+"97840  Lehtiniemi (Posio)",542773,7349054
+"97850  Ristilä (Posio)",535213,7361370
+"97870  Jumisko (Posio)",545097,7364623
+"97880  Nolimo-Jumisko (Posio)",552844,7366004
+"97890  Karjalaisenniemi (Posio)",557729,7350726
+"97895  Mourujärvi (Posio)",564669,7359754
+"97900  Posio Keskus (Posio)",545067,7327948
+"97920  Suonnankylä (Posio)",564442,7339114
+"97925  Tolva (Posio)",572653,7342238
+"97940  Lohiranta (Posio)",573319,7324001
+"97950  Säikkä (Posio)",554495,7317824
+"97960  Kuloharju-Säikkä (Posio)",555795,7312496
+"97965  Kynsilä (Posio)",563028,7308892
+"97970  Sirniö (Posio)",554019,7302816
+"97980  Anetjärvi (Posio)",542767,7309100
+"97999  Köngäs (Kittilä)",382735,7545294
+"98100  Kemijärvi Keskus (Kemijärvi)",498504,7405777
+"98120  Särkikangas (Kemijärvi)",516638,7400902
+"98230  Luusua-Karsimus (Kemijärvi)",516511,7374398
+"98310  Karvakko (Kemijärvi)",513133,7405009
+"98350  Tapionniemi (Kemijärvi)",510868,7422582
+"98360  Vuostimo (Kemijärvi)",521739,7428995
+"98400  Isokylä-Ryti-Lehtola (Kemijärvi)",530563,7398977
+"98420  Ryti-Lehtola (Kemijärvi)",528576,7380564
+"98440  Kallaanvaara (Kemijärvi)",522586,7399769
+"98450  Kostamo (Kemijärvi)",528170,7418518
+"98500  Pelkosenniemi Keskus (Pelkosenniemi)",529126,7443985
+"98510  Saunavaara (Pelkosenniemi)",522020,7437105
+"98530  Pyhätunturi (Pelkosenniemi)",503262,7437005
+"98550  Suvanto (Pelkosenniemi)",509370,7450090
+"98560  Kairala-Luiro (Pelkosenniemi)",518545,7453863
+"98570  Aapajärvi (Pelkosenniemi)",509879,7466491
+"98580  Luiro (Pelkosenniemi)",523746,7460668
+"98600  Kursu (Salla)",551625,7407096
+"98620  Pahkakumpu (Salla)",543194,7424394
+"98630  Ahvenselkä (Pelkosenniemi)",545619,7435720
+"98660  Salmivaara (Salla)",562280,7410215
+"98710  Joutsijärvi (Kemijärvi)",541222,7399334
+"98720  Suomutunturi (Kemijärvi)",544495,7383716
+"98760  Hirvasvaara-Paloperä (Salla)",567635,7384162
+"98770  Aholanvaara (Salla)",578804,7381876
+"98780  Maaninkavaara (Posio)",567214,7370241
+"98790  Paloperä (Salla)",554834,7376360
+"98800  Savukoski Keskus-Värriö (Savukoski)",554348,7466594
+"98810  Lunkkaus (Savukoski)",536414,7459853
+"98820  Värriö (Savukoski)",540234,7491818
+"98830  Martti-Ruuvaoja (Savukoski)",575729,7518169
+"98840  Ruuvaoja (Savukoski)",561046,7503342
+"98850  Kuosku (Savukoski)",561981,7455683
+"98900  Salla Keskus (Salla)",566092,7419993
+"98920  Kelloselkä (Salla)",585098,7421439
+"98930  Kotalankylä (Salla)",586122,7438331
+"98950  Saija (Salla)",574208,7449106
+"98960  Naruska (Salla)",599034,7474403
+"98970  Onkamojärvi (Salla)",589406,7405403
+"98980  Kallunki-Niemelä (Salla)",588487,7392706
+"98995  Hautajärvi (Salla)",596195,7379789
+"99100  Kittilä Keskus (Kittilä)",404004,7507248
+"99110  Kaukonen (Kittilä)",413463,7483562
+"99120  Kallo (Kittilä)",392437,7482394
+"99130  Sirkka-Rauhala (Kittilä)",402219,7525783
+"99135  Rauhala (Kittilä)",382225,7537454
+"99140  Köngäs-Hanhivaara (Kittilä)",412050,7537202
+"99150  Tepasto (Kittilä)",400761,7549323
+"99160  Lompolo-Pulju (Kittilä)",411299,7555728
+"99170  Pulju (Kittilä)",408824,7572406
+"99180  Rautusjärvi (Kittilä)",416036,7528916
+"99190  Hanhimaa (Kittilä)",427871,7553197
+"99195  Pokka (Kittilä)",446593,7561158
+"99230  Jeesiöjärvi (Kittilä)",435819,7512187
+"99240  Kuivasalmi (Kittilä)",426180,7520858
+"99250  Kiistala-Jeesiöjärvi (Kittilä)",444893,7529363
+"99270  Hormakumpu (Kittilä)",422893,7500104
+"99280  Tepsa (Kittilä)",444664,7500010
+"99290  Kelontekemä (Kittilä)",436515,7490903
+"99300  Muonio Keskus (Muonio)",371208,7538825
+"99310  Yli-Muonio (Muonio)",356642,7558496
+"99320  Kätkäsuvanto (Muonio)",349795,7563040
+"99330  Pallastunturi (Muonio)",376723,7550135
+"99340  Raattama-Pallastunturi (Kittilä)",387411,7561928
+"99360  Kangosjärvi (Muonio)",359590,7522719
+"99400  Enontekiö Keskus (Enontekiö)",358621,7586776
+"99410  Vuontisjärvi (Enontekiö)",379157,7601989
+"99420  Peltovuoma (Enontekiö)",385571,7583889
+"99430  Nunnanen (Enontekiö)",410291,7598860
+"99440  Leppäjärvi (Enontekiö)",358320,7612851
+"99450  Palojoensuu-Kuttanen (Enontekiö)",340984,7580899
+"99460  Kuttanen (Enontekiö)",332532,7604810
+"99470  Karesuvanto (Enontekiö)",300852,7636261
+"99490  Kilpisjärvi (Enontekiö)",261309,7669372
+"99510  Raudanjoki-Seipäjärvi (Sodankylä)",471733,7438366
+"99520  Seipäjärvi (Sodankylä)",466942,7450948
+"99530  Vuojärvi (Sodankylä)",484836,7438824
+"99540  Torvinen (Sodankylä)",481879,7454525
+"99550  Aska-Orakylä (Sodankylä)",489942,7461081
+"99555  Luosto (Sodankylä)",495650,7452575
+"99560  Orakylä (Sodankylä)",495242,7469914
+"99600  Sodankylä Keskus (Sodankylä)",479927,7539253
+"99610  Siurunmaa (Sodankylä)",493084,7483028
+"99620  Kelujärvi (Sodankylä)",502728,7483854
+"99640  Tanhua (Savukoski)",525298,7486818
+"99645  Lokka (Sodankylä)",534080,7525301
+"99650  Sattanen (Sodankylä)",483645,7488832
+"99655  Sattasvaara (Sodankylä)",465090,7508162
+"99660  Kersilö (Sodankylä)",486700,7495864
+"99665  Moskuvaara (Sodankylä)",507350,7510337
+"99670  Petkula (Sodankylä)",487812,7511158
+"99690  Vuotso (Sodankylä)",520023,7556430
+"99695  Tankavaara (Sodankylä)",506848,7562842
+"99710  Vaalajärvi (Sodankylä)",460481,7478566
+"99720  Riipi (Sodankylä)",463907,7467247
+"99740  Syväjärvi (Sodankylä)",452777,7463923
+"99750  Sassali (Sodankylä)",449527,7460019
+"99760  Uimaniemi (Sodankylä)",444678,7455448
+"99770  Jeesiö (Sodankylä)",455783,7490587
+"99800  Ivalo (Inari)",512683,7625472
+"99830  Saariselkä (Inari)",517244,7586650
+"99860  Nellim (Inari)",559879,7666517
+"99870  Inari Keskus-Lemmenjoki (Inari)",484292,7648771
+"99885  Lemmenjoki (Inari)",457991,7622123
+"99910  Kaamanen-Partakko (Inari)",501485,7678364
+"99930  Sevettijärvi-Näätämö (Inari)",544895,7710278
+"99940  Näätämö (Inari)",581949,7714377
+"99950  Karigasniemi (Utsjoki)",471619,7700224
+"99980  Utsjoki Keskus (Utsjoki)",497850,7729733
+"99990  Nuorgam (Utsjoki)",539074,7750572
