@@ -33,6 +33,8 @@ Usage:
 ./run_synthea "Uusimaa" Helsinki
 ./run_synthea "Uusimaa" Espoo
 ./run_synthea "Uusimaa" Vantaa
+./run_synthea "Lapland"
+./run_synthea "Lapland" Salla
 
 # To do #
 
