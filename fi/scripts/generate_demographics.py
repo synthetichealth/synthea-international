@@ -64,4 +64,4 @@ df['LESS_THAN_HS'] = df['LESS_THAN_HS'] - df['SOME_COLLEGE'] - df['BS_DEGREE'] -
 
 # write the new dataframe to the demographics file
 header = ["COUNTY","NAME","STNAME","POPESTIMATE2015","CTYNAME","TOT_POP","TOT_MALE","TOT_FEMALE","WHITE","HISPANIC","BLACK","ASIAN","NATIVE","OTHER","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","00..10","10..15","15..25","25..35","35..50","50..75","100..150","150..200","200..999","LESS_THAN_HS","HS_DEGREE","SOME_COLLEGE","BS_DEGREE"]
-df.to_csv('output.csv', columns = header)
+df.to_csv('../src/main/resources/geography/demographics.csv', columns = header)
