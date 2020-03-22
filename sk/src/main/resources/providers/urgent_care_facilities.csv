@@ -1,0 +1,22 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+1,20001,Detská fakultná nemocnica Košice,nan nan,Košice,Košice,040 11,,+421552354101,,,Yes,,48.7216422,21.2391504
+2,20002,Detská fakultná nemocnica s poliklinikou Banská Bystrica,Námestie Ludvíka Svobodu 4,Banská Bystrica,Banská Bystrica,974 01,,+421 48 472 65 11,,,Yes,,48.7430887,19.1188485
+6,20006,Fakultná nemocnica Trenčín,nan nan,Trenčín,Trenčín,911 01,,,,,Yes,,48.8838722,18.0272033
+8,20008,Fakultná nemocnica s poliklinikou F.D. Roosevelta,Námestie Ludvíka Svobodu 1,Banská Bystrica,Banská Bystrica,974 01,,,,,Yes,,48.7452816,19.1138999
+12,20012,Fakultná nemocnica s poliklinikou Žilina,nan nan,Žilina,Žilina,010 01,,,,,Yes,,49.2184185,18.7449224
+15,20015,Kysucká nemocnica s poliklinikou Čadca,Palárikova 2311,Čadca,Čadca,022 01,,,,,Yes,,49.4383154,18.774607
+16,20016,Lekárska služba prvej pomoci,nan nan,Košice,Košice,040 01,,,,,Yes,,48.7349378,21.253526
+19,20019,Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu,Palúčanská 25,Liptovský Mikuláš,Liptovský Mikuláš,031 01,,,,,Yes,,49.085007,19.5990758
+26,20026,"Nemocnica Košice-Šaca a.s., 1. súkromná nemocnica",nan nan,Košice,Košice,040 15,,,,,Yes,,48.6439647,21.1724086
+27,20027,Nemocnica Krompachy spol. s r.o.,nan nan,Krompachy,Spišská Nová Ves,053 42,,,,,Yes,,48.9055989,20.8722359
+31,20031,Nemocnica Zlaté Moravce a.s.,Bernolákova 4,Zlaté Moravce,Nitriansky kraj,953 01,,,,,Yes,,48.3833885,18.3978105
+36,20036,Nemocnica s poliklinikou Ilava,nan nan,Ilava,Ilava,019 01,,,,,Yes,,48.9941958,18.229786
+37,20037,Nemocnica s poliklinikou Považská Bystrica,nan nan,Považská Bystrica,Považská Bystrica,017 01,,,,,Yes,,49.1045113,18.458003
+54,20054,Poliklinika Západ,nan nan,Košice,Košice,040 11,,,,,Yes,,48.7224577,21.2377899
+64,20064,Univerzitná nemocnica Bratislava - Nemocnica sv. Cyrila a Metoda,Antolská 11,Bratislava,Bratislava,851 02,,,,,Yes,,48.1023156,17.1156951
+67,20067,Univerzitná nemocnica L. Pasteura,Rastislavova nan,Košice,Košice,040 01,,,,,Yes,,48.7092102,21.2538699
+68,20068,Univerzitná nemocnica Louisa Pasteura,Trieda SNP nan,Košice,Košice,040 11,,,,,Yes,,48.7242228,21.236527
+71,20071,Východoslovenský ústav srdcových a cievnych chorôb,nan nan,Košice,Košice,040 11,,,,,Yes,,48.721198,21.2408617
+74,20074,Všeobecná nemocnica Rimavská Sobota,nan nan,Rimavská Sobota,Rimavská Sobota,979 01,,,,,Yes,,48.3845488,20.024159
+75,20075,"Všeobecná nemocnica s poliklinikou Lučenec, n.o.",nan nan,Lučenec,Lučenec,984 01,,,,,Yes,,48.3296186,19.6579217
+88,20088,Železničná nemocnica s poliklinikou Košice,nan nan,Košice,Košice,040 01,,,,,Yes,,48.7281181,21.2588677

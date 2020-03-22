@@ -1,0 +1,32 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+1,20001,Akershus universitetssykehus (AHUS),Sykehuseveien 25.0,Nordbyhagen,Viken,1474,,+47 91502900,,,Yes,,59.9326763,10.9918113
+7,20007,Bærum sykehus,nan nan,Gjettum,Viken,1346,,,,,Yes,,59.8985754,10.5088813
+10,20010,Drammen sykehus,nan nan,Drammen,Viken,3018,,,,,Yes,,59.7479714,10.1959677
+12,20012,Hammerfest sykehus,nan nan,Hammerfest,Troms og Finnmark,9600,,,,,Yes,,70.6730658,23.6695155
+13,20013,Harstad sykehus,nan nan,Harstad,Troms og Finnmark,9406,,,,,Yes,,68.7965621,16.5246577
+14,20014,Haugesund sykehus,nan nan,Haugesund,Rogaland,5527,,,,,Yes,,59.4095895,5.276797
+15,20015,Haukeland Universitetssjukehus,nan nan,Bergen,Vestland,5015,,,,,Yes,,60.3727048,5.3612387
+16,20016,Helgelandssykehuset Mo i Rana,nan nan,Selfors,Nordland,8613,,,,,Yes,,66.3251659,14.1878007
+21,20021,Kristiansund sykehus,nan nan,Kristiansund,Kristiansund,6509,,,,,Yes,,63.1085295,7.7257795
+25,20025,Longyearbyen sykehus,nan nan,Longyearbyen,,9170,,,,,Yes,,78.2197781,15.6443373
+28,20028,Molde sjukehus,nan nan,Molde,Molde,6415,,+4771120000,,,Yes,,62.7357395,7.1384185
+29,20029,Mosjøen sykehus,nan nan,Mosjøen,Nordland,8665,,,,,Yes,,65.8314537,13.2127461
+30,20030,Narvik sykehus,nan nan,Narvik,Nordland,8514,,,,,Yes,,68.4416343,17.4116572
+32,20032,Nordlandsykehuset,nan nan,Bodø,Nordland,8006,,,,,Yes,,67.2840314,14.3964231
+34,20034,Oslo universitetssykehus (Rikshospitalet),nan nan,Oslo,Oslo,0855,,02770,,,Yes,,59.9473315,10.7176906
+35,20035,Oslo universitetssykehus (Ullevål),nan nan,Oslo,Oslo,0171,,,,,Yes,,59.9397043,10.7462623
+39,20039,Ringerike Sykehus HF,Arnold Dybsjords vei 1.0,Hønefoss,Viken,3510,,,,,Yes,,60.1494536,10.25321
+46,20046,Stavanger Universitetssjukehus,nan nan,Stavanger,Rogaland,4006,,,,,Yes,,58.9536493,5.7297186
+47,20047,Stokmarknes sykehus,nan nan,Stokmarknes,Nordland,8450,,,,,Yes,,68.5593337,14.9102092
+48,20048,Stord sjukehus,nan nan,Leirvik,Vestland,5411,,,,,Yes,,59.7932041,5.5114479
+50,20050,Sykehuset Innlandet HF Elverum,nan nan,Elverum,Innlandet,2414,,,,,Yes,,60.8779128,11.5695765
+52,20052,Sykehuset Innlandet HF Lillehammer,nan nan,Lillehammer,Innlandet,2609,,06200,,,Yes,,61.1111473,10.4730043
+54,20054,Sykehuset Namsos,nan nan,Namsos,Namsos,7800,,,,,Yes,,64.4718134,11.5046675
+56,20056,"Sykehuset Telemark, Skien",nan nan,Skien,Vestfold og Telemark,3717,,,,,Yes,,59.1923384,9.5886445
+62,20062,"Sykehuset i Vestfold, Tønsberg",Halfdan Wilhelmsens allé 17.0,Tønsberg,Vestfold og Telemark,3126,,+47 33342000,,,Yes,,59.272295,10.4157759
+63,20063,Sykehuset Østfold Kalnes,nan nan,Grålum,Viken,1712,,,,,Yes,,59.3181672,11.018015
+64,20064,Sørlandet Sykehus Arendal,nan nan,Arendal,Agder,4838,,,,,Yes,,58.4674849,8.7519258
+65,20065,Sørlandet sykehus Kristiansand,Egsveien 100.0,Kristiansand,Agder,4610,,+47 906 10 600,,,Yes,,58.1628736,7.9790683
+68,20068,Universitetssykehuset Nord-Norge,nan nan,Tromsø,Troms og Finnmark,9008,,,,,Yes,,69.6829833,18.9793753
+70,20070,Volda Sjukehus,nan nan,Volda,Volda,6102,,,,,Yes,,62.1504559,6.0910887
+72,20072,Ålesund sjukehus,nan nan,Åse,Ålesund,6017,,,,,Yes,,62.4640169,6.3113868

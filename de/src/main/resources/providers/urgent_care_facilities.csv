@@ -1,0 +1,598 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+10,20010,AMEOS Klinikum Alfeld,Landrat-Beushausen-Straße 26,Alfeld (Leine),Niedersachsen,31061,,,,,Yes,,51.9941487,9.8336998
+19,20019,AMEOS Klinikum St. Salvator Halberstadt,Gleimstraße 5,Halberstadt,Sachsen-Anhalt,38820,,,,,Yes,,51.9009511,11.0533717
+32,20032,Agaplesion Diakonieklinikum Rotenburg,Elise-Averdieck-Straße 17,Rotenburg (Wümme),Niedersachsen,27356,,,,,Yes,,53.1057597,9.4115161
+33,20033,Agaplesion Evangelisches Klinikum Schaumburg gGmbH,Zum Schaumburger Klinikum 1,Obernkirchen,Niedersachsen,31683,,+49 5724 95800,,,Yes,,52.2657349,9.1030571
+35,20035,Agaplesion evangelisches Krankenhaus Holzminden,Forster Weg 34,Holzminden,Niedersachsen,37603,,+49 5531 7050,,,Yes,,51.8350038,9.4554437
+39,20039,Albklinik Münsingen,nan nan,Münsingen,Reutlingen,72525,,,,,Yes,,48.404206,9.4903384
+43,20043,Alexianer St. Joseph Krankenhaus Berlin-Weißensee,nan nan,Berlin,Berlin,13088,,,,,Yes,,52.5515022,13.4681057
+56,20056,Altonaer Kinderkrankenhaus,nan nan,Hamburg,Hamburg,22765,,+49 40 88908-0,,,Yes,,53.551203,9.9127621
+57,20057,Amalie-Sieveking-Krankenhaus,Haselkamp 33,Hamburg,Hamburg,22359,,,,,Yes,,53.641079,10.1523153
+59,20059,Ameos Klinikum Anklam,Hospitalstraße 19,Anklam,Mecklenburg-Vorpommern,17389,,+49 3971 834 0,,,Yes,,53.8485829,13.6994424
+68,20068,Asklepios Burgseekliniken (Parkklinik),Burgseestraße 5,Bad Salzungen,Wartburgkreis,36433,,,,,Yes,,50.8078264,10.2387531
+80,20080,Asklepios Klinik Altona,nan nan,Hamburg,Hamburg,22605,,,,,Yes,,53.5539937,9.9038601
+83,20083,Asklepios Klinik Harburg,nan nan,Hamburg,Hamburg,21075,,,,,Yes,,53.4588012,9.9513749
+84,20084,Asklepios Klinik Langen,nan nan,Langen (Hessen),Hessen,63225,,,,,Yes,,49.9995557,8.6834252
+86,20086,Asklepios Klinik Melsungen,Kasseler Straße 80,Melsungen,Hessen,34212,,,,,Yes,,51.1376577,9.5399847
+87,20087,Asklepios Klinik Nord Heidberg,nan nan,Hamburg,Hamburg,22415,,+49 40 1818870,,,Yes,,53.6773475,10.030166
+89,20089,Asklepios Klinik Pasewalk,Prenzlauer Chaussee 30,Pasewalk,Mecklenburg-Vorpommern,17309,,+49 3973 230,,,Yes,,53.4903734,13.9832746
+91,20091,Asklepios Klinik Seligenstadt,nan nan,Seligenstadt,Hessen,63500,,,,,Yes,,50.0420353,8.9630013
+92,20092,Asklepios Klinik St. Georg,nan nan,Hamburg,Hamburg,22087,,+49 40 181885 0,,,Yes,,53.5609367,10.0179546
+94,20094,Asklepios Klinik Wandsbek,nan nan,Hamburg,Hamburg,22043,,+49 40 181883-0,,,Yes,,53.5709778,10.0901034
+98,20098,Asklepios Nordseeklinik,Norderstraße 81,Sylt,Schleswig-Holstein,25980,,+49 4651 84 0,,,Yes,,54.9259941,8.3161293
+100,20100,Asklepios Stadtklinik,Schützenstraße 15,Bad Tölz,Bayern,83646,,+49 8041 507-01,,,Yes,,47.7572767,11.5516352
+101,20101,Asklepios Stadtklinik,Schützenstraße 15,Bad Tölz,Bayern,83646,,+49 8041 507-01,,,Yes,,47.7572217,11.5515325
+103,20103,Asklepios Südpfalzklinik Germersheim,nan nan,Germersheim,Rheinland-Pfalz,76726,,+49 7274 504 0,,,Yes,,49.220226,8.3650734
+107,20107,Asklepios-Klinik Bad Oldesloe,Schützenstraße 55,Bad Oldesloe,Schleswig-Holstein,23843,,,,,Yes,,53.8119651,10.3644108
+108,20108,Asklepios-Paulinen-Klinik,Geisenheimer Straße 10,Wiesbaden,Hessen,65183,,,,,Yes,,50.0722682,8.2259214
+119,20119,Augusta-Klinik Bochum-Mitte,Bergstraße 26,Bochum,Nordrhein-Westfalen,44787,,+49 234 517-0,,,Yes,,51.4858641,7.2214815
+123,20123,Auguste-Viktoria-Klinikum,Rubensstraße 125,Berlin,Berlin,10825,,+49 30 130200,,,Yes,,52.459274,13.348324
+127,20127,BG Klinik Ludwigshafen,nan nan,Ludwigshafen am Rhein,Rheinland-Pfalz,67059,,,,,Yes,,49.4867865,8.3907591
+128,20128,BG Klinikum Bergmannstrost Halle,Merseburger Straße 165,Halle (Saale),Sachsen-Anhalt,06130,,,,,Yes,,51.4611451,11.9839408
+129,20129,BG Klinikum Duisburg,Großenbaumer Allee 260,Duisburg,Nordrhein-Westfalen,47249,,+49 203 7688-0,,,Yes,,51.3795897,6.7817458
+130,20130,BG Unfallklinik,Friedberger Landstraße 430,Frankfurt am Main,Hessen,60389,,,,,Yes,,50.1433208,8.7086977
+135,20135,Baumholder Army Health Clinic,nan nan,Baumholder,Rheinland-Pfalz,55774,,,,,Yes,,49.6150147,7.3276666
+137,20137,Benedictus Krankenhaus Tutzing,Bahnhofstraße 5,Tutzing,Bayern,82327,,+498158230,,,Yes,,47.9070843,11.2773086
+149,20149,Berufsgenossenschaftliche Klinikum Hamburg,nan nan,Hamburg,Hamburg,21031,,,,,Yes,,53.5053253,10.1754918
+156,20156,Bethesda Krankenhaus Bergedorf,nan nan,Hamburg,Hamburg,21029,,,,,Yes,,53.4851697,10.2378179
+157,20157,Bethesda-Krankenhaus,Hainstraße 15-35,Wuppertal,Nordrhein-Westfalen,42275,,,,,Yes,,51.2689813,7.1295141
+158,20158,Bethlehem Gesundheitszentrum,Steinfeldstraße 5,Stolberg (Rheinland),Nordrhein-Westfalen,52222,,,,,Yes,,50.7727373,6.2303564
+162,20162,Bettenhaus St. Antonius Hospital,nan nan,Kleve,Nordrhein-Westfalen,47533,,,,,Yes,,51.7730845,6.1351993
+183,20183,Bruder-Klaus-Krankenhaus,Heitereweg 10,Waldkirch,Emmendingen,79183,,+49 7681 2080,,,Yes,,48.0978363,7.9521019
+185,20185,Brüderkrankenhaus Montabaur,nan nan,Montabaur,Rheinland-Pfalz,56410,,,,,Yes,,50.4315998,7.8315824
+190,20190,Bundeswehrkrankenhaus Berlin,Scharnhorststraße 13,Berlin,Berlin,10178,,,,,Yes,,52.5341693,13.3707029
+191,20191,Bundeswehrkrankenhaus Ulm,Oberer Eselsberg 40,Ulm,Ulm,89073,,,,,Yes,,48.424998,9.9484704
+196,20196,Bürgerhospital Friedberg,nan nan,Friedberg (Hessen),Hessen,61169,,,,,Yes,,50.3353622,8.7508001
+205,20205,Capio Mathilden-Hospital,Am Schlag 9,Büdingen,Hessen,63654,,+49 6042 86 0,,,Yes,,50.2869378,9.1130517
+209,20209,Caritas-Krankenhaus Sankt Josef,Landshuter Straße 65,Regensburg,Bayern,93053,,+49 941 782-0,,,Yes,,49.0066384,12.1193046
+210,20210,CaritasKlinikum Saarbrücken St. Josef Dudweiler,Klosterstraße 14,Saarbrücken,Saarland,66125,,,,,Yes,,49.2773142,7.040423
+211,20211,CaritasKlinikum Saarbrücken St. Theresia,Rheinstraße 2,Saarbrücken,Saarland,66113,,,,,Yes,,49.2484563,6.9576049
+212,20212,Carl-Thiem-Klinikum,Thiemstraße 111,Cottbus,Brandenburg,03046,,,,,Yes,,51.7435854,14.3179285
+216,20216,Charité Campus Virchow Klinikum,nan nan,Berlin,Berlin,13353,,+49 30 45050,,,Yes,,52.5424688,13.3403456
+217,20217,Charité Universitätsmedizin Berlin,nan nan,Berlin,Berlin,10178,,,,,Yes,,52.5256197,13.380129
+218,20218,Charité-Campus Benjamin Franklin,Hindenburgdamm 30,Berlin,Berlin,12207,,,,,Yes,,52.4402845,13.3165958
+225,20225,Chirurgische Privatklinik Bogenhausen,Denninger Straße 44,München,Bayern,81675,,+49 89 92794 0,,,Yes,,48.1485219,11.6149055
+229,20229,Christophorus-Kliniken,Vollenstraße 10,Dülmen,Nordrhein-Westfalen,48249,,,,,Yes,,51.827739,7.2796777
+233,20233,Clemens Hospital,Düesbergweg 124,Münster,Nordrhein-Westfalen,48143,,+49 251 9760,,,Yes,,51.932343,7.6120325
+234,20234,Clementine Kinderhospital,Theobald-Christ-Straße 16,Frankfurt am Main,Hessen,60316,,,,,Yes,,50.1143798,8.6979707
+236,20236,Collm Klinik Oschatz,Parkstraße 1,Oschatz,Sachsen,04758,,,,,Yes,,51.2931808,13.1135045
+238,20238,Cusanus-Krankenhaus Bernkastel-Kues,Karl-Binz-Weg 12,Bernkastel-Kues,Rheinland-Pfalz,54470,,,,,Yes,,49.9158042,7.0627634
+241,20241,DIAKOVERE Friederikenstift Humboldtstraße,Humboldtstraße 5,Hannover,Niedersachsen,30169,,,,,Yes,,52.3721461,9.7236825
+248,20248,DRK Kliniken Berlin - Köpenick,nan nan,Berlin,Berlin,12559,,,,,Yes,,52.4413806,13.5966884
+250,20250,DRK Kliniken Westend,Spandauer Damm 130,Berlin,Berlin,14050,,+49303035-0,,,Yes,,52.5192059,13.2747074
+252,20252,DRK Krankenhaus Alzey,nan nan,Alzey,Rheinland-Pfalz,55232,,,,,Yes,,49.7463593,8.1049004
+253,20253,DRK Krankenhaus Chemnitz-Rabenstein,Unritzstraße 23,Chemnitz,Sachsen,09117,,,,,Yes,,50.8226419,12.8239605
+254,20254,DRK Krankenhaus Hachenburg,nan nan,Hachenburg,Rheinland-Pfalz,57627,,+49 2662 85-0,,,Yes,,50.6574368,7.8320141
+256,20256,DRK Krankenhaus Sondershausen,Hospitalstraße 2,Sondershausen,Kyffhäuserkreis,99706,,+49 3632 670,,,Yes,,51.3745949,10.8772694
+263,20263,"DRK-Kliniken Nordhessen, Standort Wehlheiden",Hansteinstraße 29,Kassel,Hessen,34125,,,,,Yes,,51.3120738,9.4533138
+265,20265,DRK-Krankenhaus Luckenwalde,Saarstraße 1A,Luckenwalde,Brandenburg,14943,,,,,Yes,,52.0989203,13.1793696
+266,20266,DRK-Krankenhaus Mecklenburg-Strelitz,Penzliner Straße 56,Neustrelitz,Mecklenburg-Vorpommern,17235,,+49 3981 268 0,,,Yes,,53.3801943,13.0542694
+283,20283,Diakonie Krankenhaus,Ringstraße 58,Bad Kreuznach,Rheinland-Pfalz,55543,,+49 671 6050,,,Yes,,49.8369634,7.8632992
+285,20285,Diakonie-Kliniken Kassel,Herkulesstraße 34,Kassel,Hessen,34125,,,,,Yes,,51.3146839,9.4611192
+286,20286,Diakonie-Klinikum Neunkirchen,nan nan,Neunkirchen,Saarland,66538,,+49 6821 18-0,,,Yes,,49.3410068,7.1819038
+287,20287,Diakonie-Krankenhaus,nan nan,Kirn,Rheinland-Pfalz,55606,,,,,Yes,,49.7950885,7.4561521
+291,20291,Diakoniekrankenhaus Halle,Lafontainestraße 15,Halle (Saale),Sachsen-Anhalt,06114,,,,,Yes,,51.4948888,11.9580653
+292,20292,Diakoniekrankenhaus Mannheim,Speyerer Straße 91-93,Mannheim,Mannheim,68199,,+49 621 81020,,,Yes,,49.4646903,8.4694934
+297,20297,Diakonissen-Stiftungs-Krankenhaus Speyer (Haus Hilgardstraße),Paul-Egell-Straße 33,Speyer,Rheinland-Pfalz,67346,,+49 6232 221796,,,Yes,,49.3114571,8.4320548
+298,20298,Diakonissenkrankenhaus Dessau,Gropiusallee 3,Dessau-Roßlau,Sachsen-Anhalt,06844,,,,,Yes,,51.8385048,12.2270694
+299,20299,Diakonissenkrankenhaus Flensburg,Knuthstraße 1,Flensburg,Schleswig-Holstein,24937,,+49 461 8120,,,Yes,,54.7911901,9.4242012
+305,20305,Die Johanniter Waldkrankenhaus,Waldstraße 73,Bonn,Nordrhein-Westfalen,53177,,,,,Yes,,50.6824459,7.1290932
+306,20306,Dietrich-Bonhoeffer-Klinikum,Salvador-Allende-Straße 30,Neubrandenburg,Mecklenburg-Vorpommern,17033,,,,,Yes,,53.5463295,13.2914862
+311,20311,Dominikus-Krankenhaus,Kurhausstraße 30,Berlin,Berlin,13467,,+4930 4092 0,,,Yes,,52.6257136,13.2915177
+313,20313,Donau-Isar Klinikum Landau,Bayerwaldring 17,Landau an der Isar,Bayern,94405,,+49 9951 75-1,,,Yes,,48.6662651,12.7012403
+319,20319,Dr. Horst Schmidt Kliniken,nan nan,Wiesbaden,Hessen,65183,,,,,Yes,,50.067161,8.1889093
+323,20323,Dreifaltigkeits Hospital,nan nan,Lippstadt,Nordrhein-Westfalen,59557,,,,,Yes,,51.6739698,8.33892
+329,20329,Eduardus-Krankenhaus,Custodisstraße 3-17,Köln,Nordrhein-Westfalen,50679,,,,,Yes,,50.9330883,6.9801316
+330,20330,Eichsfeld Klinikum,nan nan,Leinefelde-Worbis,Eichsfeld,37339,,,,,Yes,,51.4240682,10.3603247
+335,20335,Elblandklinikum Meißen,nan nan,Meißen,Sachsen,01662,,,,,Yes,,51.1751488,13.5045819
+336,20336,Elblandklinikum Meißen,nan nan,Meißen,Sachsen,01662,,,,,Yes,,51.1748911,13.5065601
+337,20337,Elblandklinikum Radebeul,Heinrich-Zille-Straße 13,Radebeul,Sachsen,01445,,,,,Yes,,51.1086682,13.6500442
+338,20338,Elblandklinikum Riesa,nan nan,Riesa,Sachsen,01587,,,,,Yes,,51.2971446,13.3091237
+340,20340,Elisabeth Klinikum Schmalkalden,Eichelbach 9,Schmalkalden,Schmalkalden-Meiningen,98574,,,,,Yes,,50.7214792,10.4412883
+343,20343,Elisabeth-Klinik,nan nan,Olsberg,Nordrhein-Westfalen,59939,,,,,Yes,,51.3573333,8.4733196
+345,20345,Elisabeth-Krankenhaus,Weinbergstraße 7,Kassel,Hessen,34125,,+49 56172010,,,Yes,,51.3103563,9.4911173
+351,20351,Erzgebirgsklinikum,Chemnitzer Straße 15,Annaberg-Buchholz,Sachsen,09456,,,,,Yes,,50.5925943,13.0074538
+355,20355,Ev. Jung-Stilling Krankenhaus,nan nan,Siegen,Nordrhein-Westfalen,57072,,+49 271/333-3,,,Yes,,50.850906,8.019931
+360,20360,Ev. Krankenhaus Luckau,Berliner Straße 24,Luckau,Brandenburg,15926,,,,,Yes,,51.8532105,13.7026686
+362,20362,Ev. Krankenhaus Paul Gerhardt Stift,Paul-Gerhardt-Straße 42-45,"Wittenberg, Lutherstadt",Sachsen-Anhalt,06886,,+49 3491 500,,,Yes,,51.8695373,12.6537918
+363,20363,Ev. Lukas-Krankenhaus,Zum Lukas-Krankenhaus 1,Gronau (Westfalen),Nordrhein-Westfalen,48599,,,,,Yes,,52.2173099,7.0304104
+365,20365,Evang. Krankenhaus Herne - Betriebsstelle Eickel,Hordeler Straße 7,Herne,Nordrhein-Westfalen,44651,,+49 2323 4989 0,,,Yes,,51.5105288,7.174922
+366,20366,Evang. Krankenhaus Hohenlimburg,Iserlohner Straße 43,Hagen,Nordrhein-Westfalen,58119,,,,,Yes,,51.3581964,7.5655943
+368,20368,Evangelisches Diakoniekrankenhaus Freiburg,nan nan,Freiburg im Breisgau,Freiburg im Breisgau,79110,,+49 761 1301-01,,,Yes,,48.0237992,7.8138552
+369,20369,Evangelisches Diakonissenkrankenhaus Leipzig,Georg-Schwarz-Straße 59,Leipzig,Sachsen,04177,,,,,Yes,,51.3432039,12.3189279
+371,20371,Evangelisches Klinikum Bethel (EvKB) - Haus Mosesberg - Klinik für Kinder- und Jugendpsychiatrie und Psychotherapie,Remterweg 13a,Bielefeld,Nordrhein-Westfalen,33604,,+49 521 772-76930,,,Yes,,52.0081306,8.5322284
+372,20372,Evangelisches Krankenhaus,Holbeinstraße 10,Unna,Nordrhein-Westfalen,59423,,,,,Yes,,51.5330459,7.6773072
+374,20374,Evangelisches Krankenhaus,Kirchfeldstraße 40,Düsseldorf,Nordrhein-Westfalen,40219,,,,,Yes,,51.2124606,6.772365
+376,20376,Evangelisches Krankenhaus,Paul-Zipp-Straße 171,Gießen,Hessen,35390,,,,,Yes,,50.5927484,8.6489214
+378,20378,Evangelisches Krankenhaus BETHESDA zu Duisburg GmbH,Heerstraße 219,Duisburg,Nordrhein-Westfalen,47053,,,,,Yes,,51.4169293,6.7630012
+379,20379,Evangelisches Krankenhaus Bad Dürkheim,nan nan,Bad Dürkheim,Rheinland-Pfalz,67098,,+49 6322 607-0,,,Yes,,49.4667235,8.1782967
+385,20385,Evangelisches Krankenhaus Duisburg-Nord,Fahrner Straße 133,Duisburg,Nordrhein-Westfalen,47169,,+4920350800,,,Yes,,51.5142918,6.7638662
+388,20388,Evangelisches Krankenhaus Essen-Werden,Pattbergstraße 1-3,Essen,Nordrhein-Westfalen,45239,,,,,Yes,,51.390402,7.0054682
+390,20390,Evangelisches Krankenhaus Herne Mitte,Wiescherstraße 24,Herne,Nordrhein-Westfalen,44623,,,,,Yes,,51.5333772,7.2298008
+393,20393,Evangelisches Krankenhaus Johannisstift,Wichernstraße 8,Münster,Nordrhein-Westfalen,48143,,+4925127060,,,Yes,,51.9726367,7.6240452
+394,20394,Evangelisches Krankenhaus Kalk,nan nan,Köln,Nordrhein-Westfalen,51103,,,,,Yes,,50.9406323,7.0089609
+395,20395,Evangelisches Krankenhaus Königin Elisabeth Herzberge,Herzbergstraße 79,Berlin,Berlin,10367,,,,,Yes,,52.5255316,13.5116272
+396,20396,Evangelisches Krankenhaus Ludwigsfelde-Teltow,Albert-Schweitzer-Straße 40-44,Ludwigsfelde,Brandenburg,14974,,,,,Yes,,52.3100431,13.2586355
+397,20397,Evangelisches Krankenhaus Mettmann,Gartenstraße 4-8,Mettmann,Nordrhein-Westfalen,40822,,+49 (0)2104 773-0,,,Yes,,51.250987,6.9704045
+398,20398,Evangelisches Krankenhaus Mülheim,nan nan,Mülheim an der Ruhr,Nordrhein-Westfalen,45468,,,,,Yes,,51.4234682,6.8822944
+400,20400,Evangelisches Krankenhaus Weende,An der Lutter 24,Göttingen,Niedersachsen,37073,,,,,Yes,,51.5558458,9.9414947
+403,20403,Evangelisches Stadtkrankenhaus Saarbrücken,nan nan,Saarbrücken,Saarland,66111,,,,,Yes,,49.2330305,7.0033944
+447,20447,Fliedner Krankenhaus Neunkirchen,nan nan,Neunkirchen,Saarland,66538,,+49 6821 901-0,,,Yes,,49.3477631,7.1848193
+456,20456,Franziskus-Hospital Harderberg,Alte Rothenfelder Straße 23,Georgsmarienhütte,Niedersachsen,49124,,,,,Yes,,52.2384146,8.0701339
+457,20457,Franziskushospital,Morillenhang 27,Aachen,Nordrhein-Westfalen,52062,,+49 241 7501 0,,,Yes,,50.7662917,6.0696083
+473,20473,Fürst-Stirum-Klinik,Gutleutstraße 1-14,Bruchsal,Karlsruhe (Landkreis),76646,,+49 7251 7080,,,Yes,,49.1331057,8.60431
+476,20476,GPR-Klinikum,nan nan,Rüsselsheim am Main,Hessen,65428,,+49 6142 88-0,,,Yes,,49.9834741,8.4230598
+481,20481,GRN-Klinik Sinsheim,Alte Waibstadter Straße 2,Sinsheim,Rhein-Neckar-Kreis,74889,,+49 (0) 7261 66-0,,,Yes,,49.251995,8.8899071
+486,20486,Gebäude-9 Bettenhaus,nan nan,Köln,Nordrhein-Westfalen,50931,,,,,Yes,,50.9238001,6.9165491
+490,20490,Gemeinschaftskrankenhaus Bonn Haus St. Elisabeth,nan nan,Bonn,Nordrhein-Westfalen,53113,,+49 228 5080,,,Yes,,50.7270288,7.1022896
+491,20491,Gemeinschaftskrankenhaus Bonn Haus St. Petrus,Bonner Talweg 4-6,Bonn,Nordrhein-Westfalen,53113,,+49 228 5060,,,Yes,,50.7281092,7.0980697
+492,20492,Gemeinschaftskrankenhaus Havelhöhe,Kladower Damm 221,Berlin,Berlin,14089,,,,,Yes,,52.4608469,13.1558075
+493,20493,Gemeinschaftskrankenhaus Herdecke,nan nan,Herdecke,Nordrhein-Westfalen,58313,,,,,Yes,,51.4123339,7.3981532
+496,20496,Gertrudis Hospital Westerholt,Kuhstraße 23,Herten,Nordrhein-Westfalen,45701,,,,,Yes,,51.6006053,7.0853742
+501,20501,Gesundheitszentrum Engen,Hewenstraße 19,Engen,Konstanz,78234,,,,,Yes,,47.8538371,8.7669408
+508,20508,Goldberg-Klinik,Traubenweg 3,Kelheim,Bayern,93309,,+49 9441 702-0,,,Yes,,48.9238082,11.8845835
+516,20516,HELIOS Klinik Attendorn,Hohler Weg 9,Attendorn,Nordrhein-Westfalen,57439,,,,,Yes,,51.1265147,7.8987388
+518,20518,HELIOS Klinik Jerichower Land,nan nan,Burg,Sachsen-Anhalt,39288,,+49 3921 96 0,,,Yes,,52.2661578,11.8338643
+519,20519,HELIOS Klinik Leisnig,Colditzer Straße 48,Leisnig,Sachsen,04703,,+49 34321 8-0,,,Yes,,51.1551885,12.9206013
+521,20521,HELIOS Klinik Sangerhausen,Am Beinschuh 2a,Sangerhausen,Sachsen-Anhalt,06526,,,,,Yes,,51.4710283,11.3098115
+525,20525,HELIOS Kliniken Mittelweser Stolzenau,Holzhäuser Weg 28,Stolzenau,Niedersachsen,31592,,,,,Yes,,52.5157939,9.0673328
+526,20526,HELIOS Klinikum Berlin Buch,Schwanebecker Chaussee 50,Berlin,Berlin,13125,,+49 30 94010,,,Yes,,52.6318307,13.501997
+527,20527,HELIOS Klinikum München West,nan nan,München,Bayern,81241,,+49 89 8892 0,,,Yes,,48.1438406,11.4527506
+528,20528,HELIOS Klinikum Niederberg,nan nan,Velbert,Nordrhein-Westfalen,42549,,,,,Yes,,51.3512004,7.0134031
+530,20530,HELIOS Klinikum Schleswig,Sankt-Jürgener-Straße 1-3,Schleswig,Schleswig-Holstein,24837,,+49 4621 8120,,,Yes,,54.5288164,9.5651914
+531,20531,HELIOS Klinkum Wuppertal,Heusnerstraße 40,Wuppertal,Nordrhein-Westfalen,42275,,,,,Yes,,51.2731924,7.1740326
+533,20533,HELIOS Marien Klinik,Grunewaldstraße 96,Duisburg,Nordrhein-Westfalen,47053,,,,,Yes,,51.4127446,6.7560034
+546,20546,Harzklinikum Dorothea Christiane Erxleben GmbH,Ditfurter Weg 24,Quedlinburg,Sachsen-Anhalt,06484,,,,,Yes,,51.795379,11.1634281
+548,20548,"Haupteingang, Notaufnahme",Rintelner Straße 85,Lemgo,Nordrhein-Westfalen,32657,,,,,Yes,,52.0377541,8.9011527
+562,20562,Haßberg-Kliniken Haus Ebern,Coburger Straße 21,Ebern,Bayern,96106,,+49-9531-628-0,,,Yes,,50.0966154,10.7976466
+565,20565,Hegau-Bodensee-Klinikum,Virchowstraße 10,Singen (Hohentwiel),Konstanz,78224,,+49 07731 89 0,,,Yes,,47.7594537,8.8201309
+566,20566,Hegau-Bodensee-Klinikum Loreto,nan nan,Stühlingen,Waldshut,79780,,,,,Yes,,47.7431983,8.4402732
+568,20568,Heidekreis-Klinikum gGmbH,Oeninger Weg 30,Soltau,Niedersachsen,29614,,,,,Yes,,52.9882153,9.8574066
+573,20573,Heilig-Geist-Hospital Bingen,Kapuzinerstraße 15-17,Bingen am Rhein,Rheinland-Pfalz,55411,,,,,Yes,,49.9685055,7.8961748
+574,20574,Heilig-Geist-Krankenhaus,Graseggerstraße 105,Köln,Nordrhein-Westfalen,50667,,,,,Yes,,50.9928494,6.9246881
+578,20578,Heinrich-Braun-Klinikum Standort Kirchberg,Schneeberger Straße 36,Kirchberg,Sachsen,08107,,,,,Yes,,50.6264295,12.5608876
+579,20579,Heinrich-Braun-Krankenhaus,Karl-Keil-Straße 35,Zwickau,Sachsen,08060,,,,,Yes,,50.7230036,12.427852
+584,20584,Helios Cäcilien-Hospital Hüls,nan nan,Krefeld,Nordrhein-Westfalen,47839,,+49 2151 7391,,,Yes,,51.3756589,6.5157693
+588,20588,Helios Klinik Bleicherode,Barbarastraße 11,Bleicherode,Nordhausen,99752,,,,,Yes,,51.4432692,10.5653441
+589,20589,Helios Klinik Erlenbach,Krankenhausstraße 41,Erlenbach am Main,Bayern,63906,,,,,Yes,,49.8115214,9.166118
+594,20594,Helios Klinik München Perlach,Schmidbauerstraße 44,München,Bayern,81737,,+49 89 67802-1,,,Yes,,48.1029388,11.6295521
+599,20599,Helios Kliniken Mittelweser Nienburg,Ziegelkampstraße 39,Nienburg/Weser,Niedersachsen,31582,,,,,Yes,,52.6363217,9.2233123
+600,20600,Helios Klinikum (Martfeld),nan nan,Schwelm,Nordrhein-Westfalen,58332,,,,,Yes,,51.2941272,7.3116887
+604,20604,Helios Klinikum Kiel,Hamburger Chaussee 77,Kiel,Schleswig-Holstein,24103,,,,,Yes,,54.3048155,10.117266
+606,20606,Helios Klinikum Siegburg,Ringstraße 49,Siegburg,Nordrhein-Westfalen,53721,,,,,Yes,,50.7988185,7.2064523
+608,20608,Helios St. Elisabeth Klinik,nan nan,Oberhausen,Nordrhein-Westfalen,46045,,,,,Yes,,51.4620229,6.8537293
+609,20609,Helios St. Johannes Klinik Duisburg,An der Abtei 7-11,Duisburg,Nordrhein-Westfalen,47166,,+492035460,,,Yes,,51.4914891,6.7605886
+614,20614,Hennebergklinik,nan nan,Schleusingen,Hildburghausen,98553,,,,,Yes,,50.5083452,10.7541923
+620,20620,Herz-Jesu-Krankenhaus,Buttlarstraße 76,Fulda,Hessen,36037,,,,,Yes,,50.5634521,9.6727819
+627,20627,Hessing-Klinik,Hessingstraße 17,Augsburg,Bayern,86199,,+49 821 9090,,,Yes,,48.3403134,10.8660252
+630,20630,Hochtaunus-Kliniken Bad Homburg,Zeppelinstraße 20,Bad Homburg vor der Höhe,Hessen,61348,,,,,Yes,,50.2127871,8.6182487
+631,20631,Hochtaunus-Kliniken Usingen,nan nan,Usingen,Hessen,61250,,+49 6081 107-0,,,Yes,,50.3425416,8.5296739
+632,20632,Hochwaldkrankenhaus,nan nan,Bad Nauheim,Hessen,61231,,+49 6032 7020,,,Yes,,50.3571559,8.7290376
+634,20634,Hohenloher Krankenhaus Öhringen,nan nan,Öhringen,Hohenlohekreis,74613,,,,,Yes,,49.2049613,9.4975178
+637,20637,Hospital zum Heiligen Geist,Lange Straße 4 - 6,Frankfurt am Main,Hessen,60311,,+49 69 2196 0,,,Yes,,50.1109738,8.6935976
+638,20638,Hospital zum Heiligen Geist,nan nan,Fritzlar,Hessen,34560,,+49 5622 9970,,,Yes,,51.1330124,9.2778307
+645,20645,Hufeland Klinikum GmbH,nan nan,Mühlhausen/Thüringen,Unstrut-Hainich-Kreis,99974,,,,,Yes,,51.2027956,10.466786
+652,20652,Ilm-Kreis-Kliniken Arnstadt-Ilmenau,Oehrenstöcker Straße 32,Ilmenau,Ilm-Kreis,98693,,,,,Yes,,50.6793355,10.9177522
+662,20662,Inselklinik Föhr-Amrum,Rebbelstieg 24,Wyk auf Föhr,Schleswig-Holstein,25938,,+49 4681 480,,,Yes,,54.6852204,8.5638147
+672,20672,Johanna-Etienne-Krankenhaus,Am Hasenberg 46,Neuss,Nordrhein-Westfalen,41460,,+49 2131 529500,,,Yes,,51.2128503,6.6589024
+673,20673,Johannes Wesling Klinikum,Hans-Nolte-Straße 1,Minden,Nordrhein-Westfalen,32423,,+49 571 - 7 90-0,,,Yes,,52.2606695,8.8866916
+674,20674,Johanneum,Feldstraße 1,Wildeshausen,Niedersachsen,27793,,+49 4431 982 0,,,Yes,,52.8931932,8.4333743
+678,20678,Johanniter-Krankenhaus,nan nan,Bonn,Nordrhein-Westfalen,53113,,,,,Yes,,50.7125063,7.1308778
+679,20679,Johanniter-Krankenhaus,Steinbrinkstraße 96a,Oberhausen,Nordrhein-Westfalen,46149,,,,,Yes,,51.5100533,6.8541262
+680,20680,Johanniter-Krankenhaus,Am Runden Berge 3,Geesthacht,Schleswig-Holstein,21502,,,,,Yes,,53.4327935,10.3838901
+683,20683,Johanniter-Krankenhaus Stendal,nan nan,Stendal,Sachsen-Anhalt,39576,,+49 3931 660,,,Yes,,52.6108701,11.8547655
+684,20684,Josef-Hospital Delmenhorst Deichhorst,Wildeshauser Straße 92,Delmenhorst,Niedersachsen,27749,,+49 4221 993,,,Yes,,53.0436337,8.5944319
+688,20688,Josephs-Hospital,Am Krankenhaus 2,Warendorf,Nordrhein-Westfalen,48231,,,,,Yes,,51.9607,8.000622
+694,20694,KH Merheim Notaufnahme,Ostmerheimer Straße 200,Köln,Nordrhein-Westfalen,50667,,+49 221 8907-0,,,Yes,,50.9389659,7.0523631
+699,20699,KMG Klinikum Havelberg,Domherrnstraße 10,Havelberg,Sachsen-Anhalt,39539,,+4939387710,,,Yes,,52.8272125,12.0781492
+700,20700,KMG Klinikum Sömmerda,Bahnhofstraße 36,Sömmerda,Sömmerda,99610,,+49 3634 520,,,Yes,,51.1624825,11.1211724
+701,20701,KMG Klinikum Wittstock,Meyenburger Chaussee 23,Wittstock/Dosse,Brandenburg,16909,,,,,Yes,,53.1701818,12.4867237
+704,20704,KRH Klinikum Agnes Karll Laatzen,nan nan,Laatzen,Niedersachsen,30880,,,,,Yes,,52.3077477,9.7990215
+706,20706,KRH Klinikum Neustadt am Rübenberge,Lindenstraße 75,Neustadt am Rübenberge,Niedersachsen,31535,,,,,Yes,,52.4939362,9.4650349
+708,20708,KRH Klinikum Robert Koch Gehrden,Von-Reden-Straße 1,Gehrden,Niedersachsen,30989,,+49 5108 69 0,,,Yes,,52.3030995,9.5947278
+710,20710,KRH Klinkum Lehrte,Manskestraße 22,Lehrte,Niedersachsen,31275,,+495132 5030,,,Yes,,52.381201,9.9843067
+721,20721,Karl-Olga-Krankenhaus,Hackstraße 61,Stuttgart,Stuttgart,70188,,+49 711 2639 0,,,Yes,,48.7892312,9.2029576
+723,20723,Kassenärztlicher Notfalldienst,Nordhäuser Straße 74,Erfurt,Erfurt,99089,,,,,Yes,,50.9939352,11.0104558
+725,20725,Katharinenhospital,Kriegsbergstraße 60,Stuttgart,Stuttgart,70173,,,,,Yes,,48.7842373,9.173697
+728,20728,"Katholisches Klinikum Mainz, Standort St. Vincenz und Elisabeth Hospital",nan nan,Mainz,Rheinland-Pfalz,55116,,,,,Yes,,49.9899487,8.2718987
+729,20729,Katholisches Klinikum Marienhof Koblenz,Rudolf-Virchow-Straße 7,Koblenz,Rheinland-Pfalz,56068,,+49 261 4960,,,Yes,,50.3591676,7.5709153
+731,20731,Katholisches Krankenhaus Dortmund-West,Zollernstraße 40,Dortmund,Nordrhein-Westfalen,44379,,,,,Yes,,51.5237097,7.3690051
+733,20733,Kemperhof,Koblenzer Straße 115-155,Koblenz,Rheinland-Pfalz,56068,,,,,Yes,,50.3546819,7.5649059
+738,20738,Kinder- und Jugendklinik,nan nan,Rostock,Mecklenburg-Vorpommern,18057,,,,,Yes,,54.0830251,12.1035172
+739,20739,Kinder- und Jugendmedizin,nan nan,Köln,Nordrhein-Westfalen,50931,,,,,Yes,,50.9249256,6.9173129
+749,20749,Kinderklinik,nan nan,Bottrop,Nordrhein-Westfalen,46236,,,,,Yes,,51.5334509,6.9178071
+752,20752,Kinderklinik und Poliklinik,nan nan,Bonn,Nordrhein-Westfalen,53113,,,,,Yes,,50.7247357,7.1138245
+753,20753,Kinderkrankenhaus Amsterdamer Straße,Amsterdamer Straße 59,Köln,Nordrhein-Westfalen,50733,,+49 221 8907-0,,,Yes,,50.9634747,6.9658462
+755,20755,Kinderkrankenhaus Sankt Marien,Grillparzerstraße 9,Landshut,Bayern,84028,,+49 871 8520,,,Yes,,48.5344648,12.164104
+766,20766,Klinik Bad Bergzabern,Danziger Straße 25,Bad Bergzabern,Rheinland-Pfalz,76887,,,,,Yes,,49.1065653,7.9994313
+782,20782,Klinik Dr. Reiser,Münchener Straße 135,Ingolstadt,Bayern,85049,,+49 841 9733-0,,,Yes,,48.7392692,11.4358616
+785,20785,Klinik Eichstätt,Ostenstraße 31,Eichstätt,Bayern,85072,,+49 8421 601 0,,,Yes,,48.8908022,11.1923395
+786,20786,Klinik Eilenburg,Wilhelm-Grune-Straße 5-8,Eilenburg,Sachsen,04838,,,,,Yes,,51.459791,12.6198267
+792,20792,Klinik Hohe Warte,Hohe Warte 8,Bayreuth,Bayern,95444,,+49 921 40001,,,Yes,,49.9666226,11.5823876
+798,20798,Klinik Kösching,Krankenhausstraße 19,Kösching,Bayern,85092,,+49 8456 710,,,Yes,,48.8148969,11.5072794
+799,20799,Klinik Köthen,Hallesche Straße 29,Köthen (Anhalt),Sachsen-Anhalt,06366,,,,,Yes,,51.7477412,11.9720454
+803,20803,Klinik Lutherstadt Eisleben,Hohetorstraße 25,"Eisleben, Lutherstadt",Sachsen-Anhalt,06295,,,,,Yes,,51.5335083,11.5433545
+806,20806,Klinik Mühldorf,nan nan,Mühldorf a. Inn,Bayern,84453,,,,,Yes,,48.2426617,12.5280679
+813,20813,Klinik Oberstdorf,Trettachstraße 16,Oberstdorf,Bayern,87561,,,,,Yes,,47.4110338,10.2821479
+817,20817,Klinik Püttlingen,nan nan,Püttlingen,Saarland,66346,,+49 6898 55-0,,,Yes,,49.2769975,6.8710363
+824,20824,Klinik Schkeuditz,Leipziger Straße 45,Schkeuditz,Sachsen,04435,,,,,Yes,,51.3955646,12.2337809
+827,20827,Klinik Schöneck,Albertplatz 1,Schöneck/Vogtl.,Sachsen,08261,,,,,Yes,,50.3971976,12.3365891
+834,20834,Klinik St. Hedwig,Steinmetzstraße 1-3,Regensburg,Bayern,93049,,+49 941 369 98,,,Yes,,49.0174849,12.0791115
+838,20838,Klinik Tettnang,Emil-Münch-Straße 16,Tettnang,Bodenseekreis,88069,,+49 7542 5310,,,Yes,,47.6729145,9.5974494
+841,20841,Klinik Weißenfels,Naumburger Straße 76,Weißenfels,Sachsen-Anhalt,06667,,,,,Yes,,51.1938229,11.9530523
+850,20850,Klinik am Bürgerpark,Schiffdorfer Chaussee 29,Bremerhaven,Bremen,27568,,+49 471 1820,,,Yes,,53.5322456,8.6061463
+866,20866,Klinik am Schlossgarten Dülmen GmbH,Am Schloßgarten 10,Dülmen,Nordrhein-Westfalen,48249,,,,,Yes,,51.8263703,7.2812479
+879,20879,Klinik für Kinder- und Jugendmedizin Eppendorf,nan nan,Hamburg,Hamburg,20251,,+49 40 7410-0,,,Yes,,53.5904073,9.9791028
+887,20887,Klinik für Pneumologie und Intensivmedizin,nan nan,Leipzig,Sachsen,04209,,,,,Yes,,51.3185012,12.3019232
+899,20899,Kliniken Calw,Eduard-Conz-Straße 6,Calw,Calw,75365,,,,,Yes,,48.7152591,8.7453999
+901,20901,Kliniken Dr. Erler,Kontumazgarten 4-18,Nürnberg,Bayern,90429,,+49 911 2728 0,,,Yes,,49.45392,11.0669808
+910,20910,Kliniken St. Antonius - Petrus Krankenhaus,nan nan,Wuppertal,Nordrhein-Westfalen,42275,,,,,Yes,,51.2742949,7.1927284
+912,20912,Kliniken des Main-Taunus-Kreises,Kronberger Straße 36,Bad Soden am Taunus,Hessen,65812,,,,,Yes,,50.1512024,8.5130547
+916,20916,Klinikum Annweiler,Georg-Staab-Straße 3,Annweiler am Trifels,Rheinland-Pfalz,76855,,,,,Yes,,49.2024974,7.9603256
+918,20918,Klinikum Aue,Gartenstraße 6,Aue-Bad Schlema,Sachsen,08280,,,,,Yes,,50.5904286,12.717613
+920,20920,Klinikum Bad Bramstedt,nan nan,Bad Bramstedt,Schleswig-Holstein,24576,,,,,Yes,,53.9028212,9.890466
+922,20922,Klinikum Balg,Balger Straße 50,Baden-Baden,Baden-Baden,76530,,+49 7221 910,,,Yes,,48.784839,8.2161251
+925,20925,Klinikum Bielefeld Mitte,Teutoburger Straße 50,Bielefeld,Nordrhein-Westfalen,33604,,+49 521 581-0,,,Yes,,52.0125062,8.5444956
+926,20926,Klinikum Bielefeld Rosenhöhe,An der Rosenhöhe 27,Bielefeld,Nordrhein-Westfalen,33604,,+49-521-943-50,,,Yes,,51.9823113,8.530265
+928,20928,Klinikum Borna,Rudolf-Virchow-Straße 2,Borna,Sachsen,04552,,+49 3433 210,,,Yes,,51.1359062,12.5069732
+929,20929,Klinikum Braunschweig Salzdahlumer Straße,Salzdahlumer Straße 90,Braunschweig,Niedersachsen,38100,,,,,Yes,,52.2371452,10.5510234
+930,20930,Klinikum Bremen-Mitte,nan nan,Bremen,Bremen,28205,,,,,Yes,,53.0731178,8.8425259
+931,20931,Klinikum Bremen-Nord,Hammersbecker Straße 228,Bremen,Bremen,28779,,+49 421 66060,,,Yes,,53.1836316,8.5919606
+932,20932,Klinikum Bremen-Ost,Züricher Straße 40,Bremen,Bremen,28325,,,,,Yes,,53.0638444,8.9383917
+933,20933,Klinikum Bremerhaven-Reinkenheide,Postbrookstraße 103,Bremerhaven,Bremen,27574,,+49 471 299 0,,,Yes,,53.5394224,8.636716
+935,20935,Klinikum Crailsheim,nan nan,Crailsheim,Schwäbisch Hall,74564,,,,,Yes,,49.1359538,10.0751863
+939,20939,Klinikum Dritter Orden,Menzinger Straße 44,München,Bayern,80638,,+49 89 1795-0,,,Yes,,48.1646661,11.5027696
+940,20940,Klinikum Döbeln,Sörmitzer Straße 10,Döbeln,Sachsen,04720,,,,,Yes,,51.1180131,13.1316687
+941,20941,Klinikum Elmshorn,Agnes-Karll-Allee 17,Elmshorn,Schleswig-Holstein,25335,,+49 4121 798 0,,,Yes,,53.752644,9.6843306
+945,20945,Klinikum Frankfurt-Höchst,Gotenstraße nan,Frankfurt am Main,Hessen,65929,,,,,Yes,,50.1081957,8.548475
+946,20946,Klinikum Freising,nan nan,Freising,Bayern,85354,,,,,Yes,,48.4035569,11.7440002
+947,20947,Klinikum Freital,Bürgerstraße 7,Freital,Sachsen,01705,,,,,Yes,,50.9910434,13.6449854
+948,20948,Klinikum Friedrichshafen,Röntgenstraße 2,Friedrichshafen,Bodenseekreis,88045,,+49 7541 96 0,,,Yes,,47.6742503,9.4306274
+949,20949,Klinikum Fürstenfeldbruck,Dachauer Straße 33,Fürstenfeldbruck,Bayern,82256,,+49 8141 99-0,,,Yes,,48.1803088,11.2590809
+950,20950,Klinikum Fürth,Jakob-Henle-Straße 1,Fürth,Bayern,90762,,+49 911 75800,,,Yes,,49.4861773,10.9734799
+951,20951,Klinikum Garmisch-Partenkirchen,nan nan,Garmisch-Partenkirchen,Bayern,82467,,,,,Yes,,47.4841896,11.1270236
+952,20952,Klinikum Gütersloh,Reckenberger Straße 19,Gütersloh,Nordrhein-Westfalen,33330,,,,,Yes,,51.8979988,8.3829917
+956,20956,Klinikum Heidenheim,Schloßhaustraße 100,Heidenheim an der Brenz,Heidenheim,89522,,+497321 33 0,,,Yes,,48.672035,10.1398241
+957,20957,Klinikum Heidenheim,Schloßhaustraße 100,Heidenheim an der Brenz,Heidenheim,89522,,+49 (0)7321 33 0,,,Yes,,48.6707739,10.1408387
+960,20960,"Klinikum Ibbenbüren ""St.-Elisabeth-Hospital""",Große Straße 41,Ibbenbüren,Nordrhein-Westfalen,49477,,,,,Yes,,52.2786766,7.7137123
+961,20961,Klinikum Idar-Oberstein,Dr.-Ottmar-Kohler-Straße 2,Idar-Oberstein,Rheinland-Pfalz,55743,,+49 6781 66-0,,,Yes,,49.7165709,7.3216214
+963,20963,Klinikum Kempten-Oberallgäu,Robert-Weixler-Straße 50,Kempten (Allgäu),Bayern,87435,,,,,Yes,,47.7327489,10.3012231
+964,20964,"Klinikum Konstanz, Haus 2",Luisenstraße 7,Konstanz,Konstanz,78462,,,,,Yes,,47.6725415,9.1893293
+966,20966,Klinikum Landau-Südliche Weinstraße,nan nan,Landau in der Pfalz,Rheinland-Pfalz,76829,,+49 6341 908-0,,,Yes,,49.2055673,8.1024948
+967,20967,Klinikum Landkreis Erding,nan nan,Erding,Bayern,85435,,+49 8122 590,,,Yes,,48.2951473,11.8944907
+968,20968,Klinikum Landkreis Tuttlingen Gesundheitszentrum Spaichingen,nan nan,Spaichingen,Tuttlingen,78549,,,,,Yes,,48.0773354,8.7221361
+969,20969,Klinikum Landsberg am Lech,Bürgermeister-Doktor-Hartmann-Straße 50,Landsberg am Lech,Bayern,86899,,,,,Yes,,48.0483231,10.8548764
+970,20970,Klinikum Leer,Augustenstraße 35-37,Leer (Ostfriesland),Niedersachsen,26789,,+49 491 86 0,,,Yes,,53.2367377,7.4569859
+971,20971,Klinikum Links der Weser,nan nan,Bremen,Bremen,28277,,,,,Yes,,53.0369351,8.8172788
+972,20972,Klinikum Lippe Lemgo,Rintelner Straße 85,Lemgo,Nordrhein-Westfalen,32657,,,,,Yes,,52.0389686,8.8981422
+973,20973,Klinikum Lippe-Detmold,Röntgenstraße 18,Detmold,Nordrhein-Westfalen,32756,,+49 5231 72-0,,,Yes,,51.9418097,8.8789968
+974,20974,Klinikum Ludwigsburg,Posilipostraße 4,Ludwigsburg,Ludwigsburg,71638,,+49 7141 9990,,,Yes,,48.8998712,9.2037414
+976,20976,Klinikum Lüdenscheid,Paulmannshöher Straße 14,Lüdenscheid,Nordrhein-Westfalen,58511,,,,,Yes,,51.2059013,7.658663
+978,20978,Klinikum Magdeburg,Birkenallee 34,Magdeburg,Sachsen-Anhalt,39130,,,,,Yes,,52.158817,11.5788055
+979,20979,Klinikum Main-Spessart,Grafen-von-Rieneck-Straße nan,Lohr a. Main,Bayern,97816,,+49 9352 505-0,,,Yes,,49.996574,9.5709657
+980,20980,Klinikum Memmingen,Bismarckstraße 23,Memmingen,Bayern,87700,,,,,Yes,,47.981829,10.1678245
+981,20981,Klinikum Merzig,nan nan,Merzig,Saarland,66663,,+49 6861 705-0,,,Yes,,49.4570019,6.6303456
+982,20982,Klinikum Mittelbaden Bühl,Robert-Koch-Straße 70,Bühl,Rastatt,77815,,+49 7223 81-0,,,Yes,,48.6863308,8.1408113
+983,20983,Klinikum Mittelbaden Forbach,Friedrichstraße 17,Forbach,Rastatt,76596,,+49 7228 9130,,,Yes,,48.6827342,8.3574421
+985,20985,Klinikum Mutterhaus der Borromäerinnen Nord,Theobaldstraße 12,Trier,Rheinland-Pfalz,54292,,,,,Yes,,49.7618883,6.6426859
+986,20986,Klinikum Mutterhaus der Borromäerinnen Trier,nan nan,Trier,Rheinland-Pfalz,54290,,,,,Yes,,49.7557118,6.6301921
+988,20988,Klinikum Neumarkt i.d.OPf.,Nürnberger Straße 12,Neumarkt in der Oberpfalz,Bayern,92318,,+49 9181 420-0,,,Yes,,49.2867273,11.4508211
+989,20989,Klinikum Neuperlach,Oskar-Maria-Graf-Ring 51,München,Bayern,81739,,+49 89 6794-0,,,Yes,,48.0942558,11.6541371
+990,20990,Klinikum Nordfriesland - Klinik Niebüll,Gather Landstraße 75,Niebüll,Schleswig-Holstein,25899,,+49 4661 150,,,Yes,,54.7928663,8.8442896
+991,20991,Klinikum Nordfriesland GmbH,Erichsenweg 16,Husum,Schleswig-Holstein,25813,,+49 4841 6600,,,Yes,,54.4828505,9.0516693
+993,20993,Klinikum Nürnberg Nord,Prof.-Ernst-Nathan-Straße 1,Nürnberg,Bayern,90419,,+49 911 3980,,,Yes,,49.4620425,11.0592873
+995,20995,Klinikum Obergöltzsch,Stiftstraße 10,Rodewisch,Sachsen,08228,,,,,Yes,,50.5236562,12.4127857
+996,20996,Klinikum Oberlausitzer Bergland,Görlitzer Straße 8,Zittau,Sachsen,02763,,+49 3583 880,,,Yes,,50.8985868,14.8195177
+997,20997,Klinikum Oberlausitzer Bergland,Röntgenstraße 23,Ebersbach-Neugersdorf,Sachsen,02730,,,,,Yes,,51.0051611,14.5684929
+998,20998,Klinikum Oldenburg,Rahel-Straus-Straße 10,Oldenburg (Oldb.),Niedersachsen,26133,,+49 441 403 0,,,Yes,,53.112396,8.2144977
+999,20999,Klinikum Osnabrück,Am Finkenhügel 1,Osnabrück,Niedersachsen,49074,,,,,Yes,,52.2771944,8.002465
+1000,21000,Klinikum Passau,Innstraße 76,Passau,Bayern,94032,,,,,Yes,,48.5647281,13.4456075
+1001,21001,Klinikum Peine,Virchowstraße 8,Peine,Niedersachsen,31224,,+49 5171 930,,,Yes,,52.3033867,10.2357708
+1002,21002,Klinikum Pirna,Struppener Straße 13,Pirna,Sachsen,01796,,,,,Yes,,50.9587701,13.952293
+1004,21004,Klinikum Schwabing,nan nan,München,Bayern,80802,,,,,Yes,,48.1703138,11.5752138
+1006,21006,Klinikum Staßfurt,Bodestraße 11,Staßfurt,Sachsen-Anhalt,39418,,+49 3925 262-0,,,Yes,,51.8532486,11.592304
+1007,21007,Klinikum Traunstein,nan nan,Traunstein,Bayern,83278,,,,,Yes,,47.8747263,12.6312914
+1008,21008,Klinikum Weiden in der Oberpfalz,Söllnerstraße 16,Weiden in der Oberpfalz,Bayern,92637,,,,,Yes,,49.6808264,12.1655713
+1010,21010,Klinikum Weißer Hirsch,Heinrich-Cotta-Straße 12,Dresden,Sachsen,01326,,,,,Yes,,51.065106,13.8338691
+1011,21011,Klinikum Westfalen (ehem. Kanppschaftskrankenhaus),Am Knappschaftskrankenhaus 1,Dortmund,Nordrhein-Westfalen,44143,,,,,Yes,,51.5211617,7.5312629
+1015,21015,Klinikum Worms,nan nan,Worms,Rheinland-Pfalz,67547,,,,,Yes,,49.6483108,8.3207997
+1021,21021,Klinikum der Stadt Ludwigshafen,Bremserstraße 79,Ludwigshafen am Rhein,Rheinland-Pfalz,67063,,+49 621 503 0,,,Yes,,49.487973,8.4263907
+1023,21023,Klinikum der Universität München - Campus Großhadern,Marchioninistraße 15,München,Bayern,80331,,+49-89-4400-0,,,Yes,,48.112907,11.4734353
+1024,21024,Klinikum im Friedrichshain,Landsberger Allee 49,Berlin,Berlin,10245,,,,,Yes,,52.5239235,13.4386914
+1025,21025,Klinikum in den Pfeifferschen Stiftungen,Pfeifferstraße 10,Magdeburg,Sachsen-Anhalt,39114,,,,,Yes,,52.1159723,11.6641206
+1026,21026,Klinikum rechts der Isar,nan nan,München,Bayern,81667,,+49 89 4140-0,,,Yes,,48.139681,11.6006035
+1028,21028,Klinikzentrum Westerstede,nan nan,Westerstede,Niedersachsen,26655,,+49 4488 50 0,,,Yes,,53.2570011,7.9182335
+1033,21033,Knappschaftskrankenhaus,nan nan,Bottrop,Nordrhein-Westfalen,46236,,,,,Yes,,51.5162945,6.9060842
+1043,21043,Krankenhaus Aichach,Krankenhausstraße 11,Aichach,Bayern,86551,,+49 8251 9090,,,Yes,,48.4614966,11.1422396
+1044,21044,Krankenhaus Angermünde,Rudolf-Breitscheid-Straße 37,Angermünde,Brandenburg,16278,,+49 3331 2710,,,Yes,,53.0128201,13.9896843
+1045,21045,Krankenhaus Bad Cannstatt,Prießnitzweg 24,Stuttgart,Stuttgart,70372,,+49 711 27802,,,Yes,,48.8103171,9.2352128
+1047,21047,Krankenhaus Bad Oeynhausen,nan nan,Bad Oeynhausen,Nordrhein-Westfalen,32545,,,,,Yes,,52.1941128,8.7962534
+1051,21051,Krankenhaus Bethel,Promenadenstraße 3-5,Berlin,Berlin,12207,,+49 30 77910,,,Yes,,52.4317408,13.3268398
+1053,21053,Krankenhaus Bietigheim-Bissingen,Riedstraße 12,Bietigheim-Bissingen,Ludwigsburg,74321,,,,,Yes,,48.9575807,9.1359263
+1054,21054,Krankenhaus Bitterfeld/Wolfen,Friedrich-Ludwig-Jahn-Straße 2,Bitterfeld-Wolfen,Sachsen-Anhalt,06749,,,,,Yes,,51.6326087,12.3321656
+1055,21055,Krankenhaus Brackenheim,nan nan,Brackenheim,Heilbronn (Landkreis),74336,,+49 7135 101-0,,,Yes,,49.0721516,9.0599018
+1056,21056,Krankenhaus Buchholz in der Nordheide,Steinbecker Straße 44,Buchholz in der Nordheide,Niedersachsen,21244,,+49 4181 130,,,Yes,,53.3333858,9.8733544
+1058,21058,Krankenhaus Düren,Roonstraße 30,Düren,Nordrhein-Westfalen,52349,,+49 2421 300,,,Yes,,50.8074626,6.4968463
+1060,21060,Krankenhaus Elsterwerda,Elsterstraße 37,Elsterwerda,Brandenburg,04910,,,,,Yes,,51.4565391,13.5207872
+1062,21062,Krankenhaus Falkeneck,Hecksbergstraße 27,Braunfels,Hessen,35619,,+49 6442-302-0,,,Yes,,50.5209303,8.380995
+1063,21063,Krankenhaus Freudenstadt,Karl-von-Hahn-Straße 120,Freudenstadt,Freudenstadt,72250,,,,,Yes,,48.4773936,8.4046951
+1065,21065,Krankenhaus Friedberg,Herrgottsruhstraße 3,Friedberg,Bayern,86316,,+49 821 6004 0,,,Yes,,48.3559054,10.9855841
+1066,21066,Krankenhaus Grafenau,Schwarzmaierstraße 21,Grafenau,Bayern,94481,,+49 8581 981-0,,,Yes,,48.8591885,13.3926629
+1068,21068,Krankenhaus Grimma,Kleiststraße 5,Grimma,Sachsen,04668,,,,,Yes,,51.2378644,12.7178942
+1069,21069,Krankenhaus Hardheim,Wertheimer Straße 95,Hardheim,Neckar-Odenwald-Kreis,74736,,,,,Yes,,49.61139,9.4709498
+1070,21070,Krankenhaus Hedwigshöhe,Höhensteig 1,Berlin,Berlin,12524,,,,,Yes,,52.4063882,13.57112
+1071,21071,Krankenhaus Herzberg,Alte Prettiner Straße 24,Herzberg (Elster),Brandenburg,04916,,,,,Yes,,51.68556,13.2102536
+1072,21072,Krankenhaus Hofheim,nan nan,Hofheim am Taunus,Hessen,65719,,+49 6192 98-0,,,Yes,,50.0902009,8.4443852
+1073,21073,Krankenhaus Holweide,Neufelder Straße 32,Köln,Nordrhein-Westfalen,51067,,,,,Yes,,50.9669396,7.0560696
+1074,21074,Krankenhaus Ingelheim der Universitätsmedizin Mainz,nan nan,Ingelheim am Rhein,Rheinland-Pfalz,55218,,+49 6132 785-0,,,Yes,,49.9737213,8.0685662
+1079,21079,Krankenhaus Künzelsau,Stettenstraße 32,Künzelsau,Hohenlohekreis,74653,,+49 7940 148-0,,,Yes,,49.2762488,9.6911685
+1080,21080,Krankenhaus Lauchhammer,Friedensstraße 18,Lauchhammer,Brandenburg,01979,,,,,Yes,,51.4973714,13.7882043
+1083,21083,Krankenhaus Ludmillenstift,Ludmillenstraße 4-6,Meppen,Niedersachsen,49716,,,,,Yes,,52.6896198,7.294554
+1084,21084,Krankenhaus Marbach,Im Bannmüller 8,Marbach am Neckar,Ludwigsburg,71672,,,,,Yes,,48.9432077,9.2583505
+1085,21085,Krankenhaus Maria Hilf Bad Neuenahr-Ahrweiler,nan nan,Bad Neuenahr-Ahrweiler,Rheinland-Pfalz,53474,,,,,Yes,,50.5414368,7.12799
+1086,21086,Krankenhaus Maria Stern,Am Anger 1,Remagen,Rheinland-Pfalz,53424,,,,,Yes,,50.5736112,7.2335732
+1088,21088,Krankenhaus Maria-Hilf,nan nan,Warstein,Nordrhein-Westfalen,59581,,+49 2902 891-0,,,Yes,,51.4411427,8.3554791
+1091,21091,Krankenhaus Martha-Maria,Stadenstraße 58,Nürnberg,Bayern,90403,,+49 911 9590,,,Yes,,49.482778,11.1359367
+1093,21093,Krankenhaus Neustadt bei Coburg,nan nan,Neustadt bei Coburg,Bayern,96465,,,,,Yes,,50.3274646,11.1274759
+1096,21096,Krankenhaus Norderney,Lippestraße 9-11,Norderney,Niedersachsen,26548,,+49 4932 8050,,,Yes,,53.7156136,7.1736014
+1098,21098,Krankenhaus Oberviechtach,Teunzer Straße 15,Oberviechtach,Bayern,92526,,+49 9671 9300,,,Yes,,49.462521,12.4119023
+1101,21101,Krankenhaus Rahden,Hohe Mühle 3,Rahden,Nordrhein-Westfalen,32369,,,,,Yes,,52.430055,8.6107715
+1102,21102,Krankenhaus Reinbek St. Adolf-Stift,Hamburger Straße 41,Reinbek,Schleswig-Holstein,21465,,,,,Yes,,53.510373,10.2423157
+1103,21103,Krankenhaus Rheiderland,Neue Straße 22,Weener,Niedersachsen,26826,,+49 4951 3010,,,Yes,,53.1683876,7.3529971
+1105,21105,Krankenhaus Rockenhausen,nan nan,Rockenhausen,Rheinland-Pfalz,67806,,,,,Yes,,49.6313334,7.8149671
+1109,21109,Krankenhaus Saarlouis vom DRK,nan nan,Saarlouis,Saarland,66740,,,,,Yes,,49.3143086,6.7425607
+1110,21110,Krankenhaus Sachsenhausen,nan nan,Frankfurt am Main,Hessen,60594,,,,,Yes,,50.1068338,8.6835354
+1112,21112,Krankenhaus Sankt Raphael Ostercappeln,Bremer Straße 31,Ostercappeln,Niedersachsen,49179,,+49 5473 29 0,,,Yes,,52.3445566,8.2299659
+1113,21113,Krankenhaus Senftenberg,Krankenhausstraße 10,Senftenberg,Brandenburg,01968,,,,,Yes,,51.5265087,14.000425
+1115,21115,Krankenhaus St. Barbara,Steinberger Straße 24,Schwandorf,Bayern,92421,,+49 9431 52-0,,,Yes,,49.3165271,12.1123655
+1116,21116,Krankenhaus St. Elisabeth,Mauerstraße 5,Halle (Saale),Sachsen-Anhalt,06110,,+49 345 21330,,,Yes,,51.4785004,11.9674633
+1117,21117,Krankenhaus St. Joseph-Stift,nan nan,Dresden,Sachsen,01307,,,,,Yes,,51.0466244,13.7600037
+1121,21121,Krankenhaus Stockach,Am Stadtgarten 10,Stockach,Konstanz,78333,,+4977718030,,,Yes,,47.8536681,9.0091643
+1122,21122,Krankenhaus Strausberg,Prötzeler Chaussee 5,Strausberg,Brandenburg,15344,,+493341/52-0,,,Yes,,52.5884812,13.8999983
+1130,21130,Krankenhaus Wermelskirchen,nan nan,Wermelskirchen,Nordrhein-Westfalen,42929,,,,,Yes,,51.1343906,7.2213903
+1132,21132,Krankenhaus Wittmund,Dohuser Weg 10,Wittmund,Niedersachsen,26409,,,,,Yes,,53.5723353,7.7887932
+1141,21141,Kreis-Krankenhaus-Schopfheim,Schwarzwaldstraße 40,Schopfheim,Lörrach,79650,,,,,Yes,,47.6467446,7.8236113
+1144,21144,Kreisklinik Bad Reichenhall,Riedelstraße 5,Bad Reichenhall,Bayern,83435,,,,,Yes,,47.7283397,12.8707309
+1146,21146,Kreisklinik Ebersberg,Pfarrer-Guggetzer-Straße 3,Ebersberg,Bayern,85560,,,,,Yes,,48.0756937,11.9587816
+1147,21147,Kreisklinik Freilassing,nan nan,Freilassing,Bayern,83395,,,,,Yes,,47.8480247,12.9792234
+1148,21148,Kreisklinik Groß-Gerau,nan nan,Groß-Gerau,Hessen,64521,,+49 6152 986-0,,,Yes,,49.9119588,8.4768068
+1150,21150,Kreisklinik Roth,Weinbergweg 14,Roth,Bayern,91154,,+49 9171 802-0,,,Yes,,49.2366524,11.0719912
+1151,21151,Kreisklinik Trostberg,nan nan,Trostberg,Bayern,83308,,,,,Yes,,48.028123,12.5417131
+1153,21153,Kreisklinik Wolfhagen,Am kleinen Ofenberg 1,Wolfhagen,Hessen,34466,,+49 5692 400,,,Yes,,51.3198933,9.1905788
+1154,21154,Kreisklinik Wörth an der Donau,Krankenhausstraße 2,Wörth an der Donau,Bayern,93086,,+49 9482 202 0,,,Yes,,48.9990888,12.3985437
+1155,21155,Kreisklinikum Siegen,Weidenauer Straße nan,Siegen,Nordrhein-Westfalen,57076,,,,,Yes,,50.9027727,8.0194026
+1156,21156,Kreiskrankenhaus,Krankenhausstraße 2,Vilsbiburg,Bayern,84137,,+49 8741 60-0,,,Yes,,48.4446649,12.3615314
+1157,21157,Kreiskrankenhaus,Bärwinkelstraße 33,Arnstadt,Ilm-Kreis,99310,,,,,Yes,,50.8387724,10.940223
+1159,21159,Kreiskrankenhaus,nan nan,Altdorf bei Nürnberg,Bayern,90518,,,,,Yes,,49.3853444,11.3593383
+1160,21160,Kreiskrankenhaus Alsfeld,nan nan,Alsfeld,Hessen,36304,,,,,Yes,,50.7616675,9.267723
+1162,21162,Kreiskrankenhaus Cham,nan nan,Cham,Bayern,93413,,,,,Yes,,49.2245631,12.6602429
+1163,21163,Kreiskrankenhaus Demmin,Wollweberstraße 21,Demmin,Mecklenburg-Vorpommern,17109,,,,,Yes,,53.9025234,13.0401395
+1166,21166,Kreiskrankenhaus Frankenberg,nan nan,Frankenberg (Eder),Hessen,35066,,,,,Yes,,51.0624756,8.7928425
+1167,21167,Kreiskrankenhaus Freiberg,Donatsring 20,Freiberg,Sachsen,09599,,,,,Yes,,50.920864,13.3496805
+1168,21168,Kreiskrankenhaus GeoMed Klinik Gerolzhofen,Dingolshäuser Straße 5,Gerolzhofen,Bayern,97447,,+49 9382 6010,,,Yes,,49.9010523,10.3548757
+1169,21169,Kreiskrankenhaus Greiz,Wichmannstraße 12,Greiz,Greiz,07973,,,,,Yes,,50.663963,12.1971994
+1171,21171,Kreiskrankenhaus Grünstadt,nan nan,Grünstadt,Rheinland-Pfalz,67269,,+49 6359 8090,,,Yes,,49.5647463,8.1589403
+1173,21173,Kreiskrankenhaus Gunzenhausen,Albert-Schweitzer-Straße 90,Gunzenhausen,Bayern,91710,,+49 9831 520,,,Yes,,49.1085631,10.7737436
+1174,21174,Kreiskrankenhaus Günzburg,Ludwig Heilmeyer-Straße 1,Günzburg,Bayern,89312,,+49 8221 9600,,,Yes,,48.457861,10.2932374
+1177,21177,Kreiskrankenhaus Heppenheim,Viernheimer Straße 2,Heppenheim (Bergstraße),Hessen,64646,,,,,Yes,,49.6286747,8.624755
+1179,21179,Kreiskrankenhaus Lörrach,Spitalstraße 25,Lörrach,Lörrach,79539,,,,,Yes,,47.6147861,7.6586104
+1180,21180,Kreiskrankenhaus Nagold,Röntgenstraße 20,Nagold,Calw,72202,,,,,Yes,,48.5420231,8.7215703
+1183,21183,Kreiskrankenhaus Prignitz,nan nan,Perleberg,Brandenburg,19348,,,,,Yes,,53.0718493,11.8754964
+1184,21184,Kreiskrankenhaus Rastatt,Engelstraße 39,Rastatt,Rastatt,76437,,,,,Yes,,48.8615775,8.2052181
+1185,21185,Kreiskrankenhaus Schleiz,Berthold-Schmidt-Straße 7,Schleiz,Saale-Orla-Kreis,07907,,,,,Yes,,50.5757978,11.8169859
+1188,21188,Kreiskrankenhaus St. Franziskus Saarburg,Graf-Siegfried-Straße 115,Saarburg,Rheinland-Pfalz,54439,,+49 6581 82-0,,,Yes,,49.6033434,6.537851
+1194,21194,Kreiskrankenhaus Weilburg,nan nan,Weilburg,Hessen,35781,,+49 6471 313-0,,,Yes,,50.4849713,8.2514209
+1196,21196,Kreiskrankenhaus Zschopau,Alte Marienberger Straße 52,Zschopau,Sachsen,09405,,,,,Yes,,50.7356647,13.0776241
+1211,21211,LVR-Klinik Bonn,nan nan,Bonn,Nordrhein-Westfalen,53111,,,,,Yes,,50.7490708,7.0908212
+1243,21243,Landkreis Mittweida Krankenhaus,Hainichener Straße 4 - 6,Mittweida,Sachsen,09648,,+49 3727 990,,,Yes,,50.9815417,12.9851143
+1245,21245,Lausitz Klinik Forst,Robert-Koch-Straße 35,Forst (Lausitz),Brandenburg,03149,,+49 3562-985 0,,,Yes,,51.7557301,14.6352727
+1248,21248,Leopoldina-Krankenhaus,Gustav-Adolf-Straße 8,Schweinfurt,Bayern,97421,,,,,Yes,,50.0528438,10.2452338
+1255,21255,Liegendanfahrt,nan nan,Geldern,Nordrhein-Westfalen,47608,,,,,Yes,,51.5288737,6.3277627
+1262,21262,Luisenhospital,Boxgraben 99,Aachen,Nordrhein-Westfalen,52062,,,,,Yes,,50.7680522,6.0769868
+1264,21264,Lukas-Krankenhaus,Hindenburgstraße 56,Bünde,Nordrhein-Westfalen,32257,,,,,Yes,,52.1975705,8.5935559
+1265,21265,Lukaskrankenhaus,Preußenstraße 84,Neuss,Nordrhein-Westfalen,41460,,,,,Yes,,51.1929196,6.6700949
+1271,21271,Lutrina-Klinik,Karl-Marx-Straße 33,Kaiserslautern,Rheinland-Pfalz,67655,,,,,Yes,,49.4419845,7.7723569
+1283,21283,MEDICLIN Herzzentrum Lahr,nan nan,Lahr/Schwarzwald,Ortenaukreis,77933,,,,,Yes,,48.3398569,7.8887254
+1284,21284,MEDINOS Kliniken des Landkreises Sonneberg GmbH,nan nan,Sonneberg,Sonneberg,96515,,,,,Yes,,50.3533964,11.160676
+1286,21286,Main-Kinzig-Kliniken Gelnhausen,Herzbachweg 14,Gelnhausen,Hessen,63571,,+49 6051 870,,,Yes,,50.2077246,9.1792277
+1290,21290,Malteser Krankenhaus St. Anna,Albertus-Magnus-Straße 33,Duisburg,Nordrhein-Westfalen,47259,,,,,Yes,,51.3664615,6.7549556
+1291,21291,Malteser Krankenhaus St. Carolus,Carolusstraße 212,Görlitz,Sachsen,02826,,+49 3581 720,,,Yes,,51.1443471,14.937915
+1292,21292,Malteser Krankenhaus St. Johannes,Nebelschützer Straße 40,Kamenz,Sachsen,01917,,,,,Yes,,51.2644622,14.1217814
+1295,21295,Margarethen-Klinik,Konsul-Lorentzen-Straße 3,Kappeln,Schleswig-Holstein,24376,,+49 4642 52 100,,,Yes,,54.6577726,9.9250256
+1298,21298,Maria-Hilf Krankenhaus Daun,nan nan,Daun,Rheinland-Pfalz,54550,,+49 6592 715 0,,,Yes,,50.1937769,6.8328014
+1299,21299,Maria-Hilf-Krankenhaus,Klosterstraße 2,Bergheim,Nordrhein-Westfalen,50126,,+49 2271 870,,,Yes,,50.9529131,6.6377839
+1303,21303,Marien-Hospital,nan nan,Erftstadt,Nordrhein-Westfalen,50374,,+4922354040,,,Yes,,50.8088595,6.8089138
+1307,21307,Marien-Hospital Euskirchen,nan nan,Euskirchen,Nordrhein-Westfalen,53879,,,,,Yes,,50.6435875,6.790239
+1309,21309,Marien-Hospital Marl,Hervester Straße 57,Marl,Nordrhein-Westfalen,45768,,+49 2365 911 0,,,Yes,,51.6523181,7.0833788
+1312,21312,Marienhaus Klinikum Hetzelstift Neustadt/Weinstraße,nan nan,Neustadt an der Weinstraße,Rheinland-Pfalz,67433,,,,,Yes,,49.3469179,8.1487091
+1313,21313,Marienhaus Klinikum St. Elisabeth Neuwied,nan nan,Neuwied,Rheinland-Pfalz,56564,,,,,Yes,,50.4283663,7.4720952
+1314,21314,Marienhaus Klinikum St. Elisabeth Saarlouis,nan nan,Saarlouis,Saarland,66740,,,,,Yes,,49.3148178,6.7573042
+1315,21315,Marienhausklinik Ottweiler,nan nan,Ottweiler,Saarland,66564,,,,,Yes,,49.4018192,7.1668967
+1316,21316,Marienhausklinik St. Josef Kohlhof,nan nan,Neunkirchen,Saarland,66539,,+49 6821 363-0,,,Yes,,49.3188238,7.2278919
+1321,21321,Marienhospital,Spellerstraße 16,Oelde,Nordrhein-Westfalen,59302,,,,,Yes,,51.8223384,8.142921
+1322,21322,Marienhospital,Zeise 4,Aachen,Nordrhein-Westfalen,52062,,+49 241 6006 0,,,Yes,,50.7622503,6.0952308
+1323,21323,Marienhospital,Mühlenstraße 21-25,Brühl,Nordrhein-Westfalen,50321,,+49 2232 74 0,,,Yes,,50.827048,6.9019091
+1324,21324,Marienhospital,nan nan,Stuttgart,Stuttgart,70178,,,,,Yes,,48.7619753,9.1638092
+1325,21325,Marienhospital,nan nan,Dortmund,Nordrhein-Westfalen,44225,,,,,Yes,,51.4789837,7.4410165
+1330,21330,Marienhospital Gelsenkirchen,nan nan,Gelsenkirchen,Nordrhein-Westfalen,45879,,,,,Yes,,51.494268,7.1001521
+1331,21331,Marienhospital Herne,Hölkeskampring 40,Herne,Nordrhein-Westfalen,44625,,+49 2323 4990,,,Yes,,51.5295495,7.2259245
+1332,21332,Marienhospital Osnabrück,Bischofsstraße 1,Osnabrück,Niedersachsen,49074,,,,,Yes,,52.2700688,8.053493
+1335,21335,Marienkrankenhaus Goethestraße,Goethestraße 19,Schwerte,Nordrhein-Westfalen,58239,,,,,Yes,,51.4443475,7.5676727
+1337,21337,Marienkrankenhaus Kassel,Marburger Straße 85,Kassel,Hessen,34125,,+49 561 8073-0,,,Yes,,51.3279912,9.4815317
+1339,21339,Marienkrankenhaus Sankt Wendel,nan nan,Sankt Wendel,Saarland,66606,,+49 6851 5901,,,Yes,,49.4537839,7.1767254
+1346,21346,Martin-Luther-Krankenhaus,Caspar-Theyß-Straße 27-31,Berlin,Berlin,14199,,,,,Yes,,52.4894908,13.2903097
+1347,21347,Martin-Luther-Krankenhaus,Voedestraße 79,Bochum,Nordrhein-Westfalen,44866,,,,,Yes,,51.4817007,7.1420733
+1383,21383,NEF-Standort Erkelenz,Goswinstraße nan,Erkelenz,Nordrhein-Westfalen,41812,,,,,Yes,,51.075301,6.3123407
+1384,21384,Naemi-Wilke-Stift,nan nan,Guben,Brandenburg,03172,,,,,Yes,,51.9455515,14.71531
+1386,21386,Nardini Klinikum St. Johannis,nan nan,Landstuhl,Rheinland-Pfalz,66849,,,,,Yes,,49.3993329,7.581826
+1387,21387,Nardiniklinikum St. Elisabeth,nan nan,Zweibrücken,Rheinland-Pfalz,66482,,,,,Yes,,49.2464154,7.361672
+1389,21389,Neckar-Odenwald Kliniken Buchen,Dr.-Konrad-Adenauer-Straße 37d,Buchen (Odenwald),Neckar-Odenwald-Kreis,74722,,,,,Yes,,49.5233468,9.3075934
+1390,21390,Neckar-Odenwald Kliniken Buchen,Dr.-Konrad-Adenauer-Straße 37,Buchen (Odenwald),Neckar-Odenwald-Kreis,74722,,,,,Yes,,49.523257,9.3075262
+1391,21391,Neckar-Odenwald Kliniken Mosbach,Knopfweg 1,Mosbach,Neckar-Odenwald-Kreis,74821,,+49 6261 830,,,Yes,,49.3553058,9.1535897
+1403,21403,Niels-Stensen-Kliniken Bramsche,Hasestraße 16,Bramsche,Niedersachsen,49565,,,,,Yes,,52.4084371,7.9850166
+1406,21406,Nordwest-Krankenhaus Sanderbusch,Am Gut Sanderbusch 1,Sande,Niedersachsen,26452,,+49 4422 800,,,Yes,,53.5056947,8.0115293
+1407,21407,Notaufnahme,nan nan,Kleve,Nordrhein-Westfalen,47533,,,,,Yes,,51.7730387,6.1344979
+1409,21409,Notfallaufnahme,nan nan,Bad Reichenhall,Bayern,83435,,,,,Yes,,47.7283477,12.8723989
+1419,21419,Oberlausitz-Kliniken gGmbH,Am Stadtwall 3,Bautzen,Sachsen,02625,,+49 3591 3630,,,Yes,,51.1851398,14.4312803
+1422,21422,Olgahospital und Frauenklinik,Kriegsbergstraße 60,Stuttgart,Stuttgart,70173,,+49 711 27804,,,Yes,,48.7842373,9.173697
+1423,21423,Ortenau Klinikum Lahr-Ettenheim,nan nan,Lahr/Schwarzwald,Ortenaukreis,77933,,,,,Yes,,48.344898,7.8869042
+1427,21427,Ortenauklinikum Achern,Josef-Wurzler-Straße 7,Achern,Ortenaukreis,77855,,+49 7841 7000,,,Yes,,48.6251262,8.064732
+1434,21434,Orthopädische Klinik München-Harlaching,nan nan,München,Bayern,81547,,+49 89 6211 0,,,Yes,,48.104211,11.5668379
+1436,21436,Ostalb-Klinikum Aalen,Im Kälblesrain 1,Aalen,Ostalbkreis,73430,,+49 7361 55-0,,,Yes,,48.8482614,10.0837157
+1437,21437,OsteMed Klinik Bremervörde,Gnarrenburger Straße 117,Bremervörde,Niedersachsen,27432,,,,,Yes,,53.4705483,9.1348646
+1448,21448,Paracelsus-Klinik,Werdauer Straße 68,Zwickau,Sachsen,08056,,,,,Yes,,50.7235934,12.4699505
+1449,21449,Paracelsus-Klinik,nan nan,Hemer,Nordrhein-Westfalen,58675,,,,,Yes,,51.3912087,7.7576826
+1451,21451,Paracelsus-Klinik,Wilstedter Straße 134,Henstedt-Ulzburg,Schleswig-Holstein,24558,,,,,Yes,,53.7488027,10.0080461
+1454,21454,Paracelsus-Klinik Reichenbach,Plauensche Straße 37,Reichenbach im Vogtland,Sachsen,08468,,,,,Yes,,50.6135774,12.3089813
+1455,21455,Paracelsus-Nordseeklinik,Invasorenpfad 1040,Helgoland,Schleswig-Holstein,27498,,,,,Yes,,54.1786686,7.8867677
+1465,21465,Perioperatives Zentrum,Strempelstraße 15,Rostock,Mecklenburg-Vorpommern,18057,,,,,Yes,,54.0851774,12.1030339
+1466,21466,Perioperatives Zentrum,nan nan,Rostock,Mecklenburg-Vorpommern,18057,,,,,Yes,,54.0858353,12.1034601
+1478,21478,Prosper-Hospital,Mühlenstraße 27,Recklinghausen,Nordrhein-Westfalen,45657,,+49 2361 540,,,Yes,,51.6065431,7.1912086
+1481,21481,Psychiatrische Klinik,nan nan,Lüneburg,Niedersachsen,21335,,,,,Yes,,53.256809,10.3806779
+1490,21490,Psychiatrisches Krankenhaus Rickling,Daldorfer Straße 2,Rickling,Schleswig-Holstein,24635,,,,,Yes,,53.9952086,10.1789013
+1502,21502,Raphaelsklinik,nan nan,Münster,Nordrhein-Westfalen,48143,,+49 251 5007 0,,,Yes,,51.9594134,7.6315768
+1504,21504,Rechbergklinik,Virchowstraße 15,Bretten,Karlsruhe (Landkreis),75015,,,,,Yes,,49.0334142,8.695687
+1535,21535,Remigius-Krankenhaus-Opladen,An St. Remigius 26,Leverkusen,Nordrhein-Westfalen,51379,,,,,Yes,,51.0683528,7.0051432
+1540,21540,Rhein-Maas Klinikum,nan nan,Würselen,Nordrhein-Westfalen,52146,,,,,Yes,,50.8144428,6.1409664
+1551,21551,RoMed Klinik Bad Aibling,Harthauser Straße 16,Bad Aibling,Bayern,83043,,,,,Yes,,47.8661716,12.0165948
+1552,21552,RoMed Klinikum Rosenheim,Pettenkoferstraße 10,Rosenheim,Bayern,83022,,+49 8031 36 02,,,Yes,,47.8594814,12.1324168
+1554,21554,RoMed-Klinikum Wasserburg am Inn,Krankenhausstraße 2,Wasserburg a. Inn,Bayern,83512,,+49 8071 - 77 0,,,Yes,,48.0626522,12.2134037
+1555,21555,Robert-Bosch-Krankenhaus,Auerbachstraße 110,Stuttgart,Stuttgart,70372,,,,,Yes,,48.8127594,9.1877421
+1556,21556,Robert-Koch-Krankenhaus Apolda,Jenaer Straße 66,Apolda,Weimarer Land,99510,,,,,Yes,,51.013391,11.5107136
+1560,21560,Rotes Kreuz Krankenhaus,Sankt-Pauli-Deich 24,Bremen,Bremen,28199,,,,,Yes,,53.0690099,8.8014122
+1562,21562,Rotkreuzklinik Wertheim,nan nan,Wertheim,Main-Tauber-Kreis,97877,,,,,Yes,,49.759722,9.4968318
+1563,21563,Rotkreuzklinikum München,Winthirstraße 7,München,Bayern,80634,,+49 89 13030,,,Yes,,48.1545426,11.5314146
+1565,21565,Rudolf Virchow Klinikum Glauchau,nan nan,Glauchau,Sachsen,08371,,,,,Yes,,50.8107817,12.5493202
+1568,21568,Ruppiner Kliniken,Fehrbelliner Straße 38,Neuruppin,Brandenburg,16816,,+49 3391 39 0,,,Yes,,52.9084631,12.7986971
+1574,21574,SHG-Klinik Halberg,Spitalstraße 2,Saarbrücken,Saarland,66130,,+49 (681) 8882711,,,Yes,,49.2132809,7.0362424
+1577,21577,SLK-Klinik Plattenwald,Am Plattenwald 1,Bad Friedrichshall,Heilbronn (Landkreis),74177,,,,,Yes,,49.2132756,9.237605
+1596,21596,Sana HANSE-Klinikum Wismar,Störtebekerstraße 6,Wismar,Mecklenburg-Vorpommern,23966,,+49 3841 330,,,Yes,,53.884911,11.4415675
+1599,21599,Sana Klinik Riedlingen,Zwiefalter Straße 62,Riedlingen,Biberach,88499,,,,,Yes,,48.1615491,9.4801509
+1601,21601,Sana Kliniken Duisburg,Zu den Rehwiesen 9-11,Duisburg,Nordrhein-Westfalen,47055,,,,,Yes,,51.3964199,6.7813795
+1603,21603,Sana Kliniken Ostholstein,Mühlenkamp 5,Oldenburg in Holstein,Schleswig-Holstein,23758,,+49 4361 5130,,,Yes,,54.2906266,10.8791893
+1605,21605,Sana Klinikum Hameln-Pyrmont,Saint-Maur-Platz 1,Hameln,Niedersachsen,31785,,,,,Yes,,52.1073036,9.3514614
+1607,21607,Sana Klinikum Offenbach,Starkenburgring 66,Offenbach am Main,Hessen,63065,,+49 69 8405-0,,,Yes,,50.0964601,8.7549835
+1615,21615,Sankt Antonius Hospital,nan nan,Kleve,Nordrhein-Westfalen,47533,,+49 2821 4900,,,Yes,,51.7737021,6.1380283
+1616,21616,Sankt Antonius Hospital,Dechant-Deckers-Straße 8,Eschweiler,Nordrhein-Westfalen,52249,,,,,Yes,,50.8189549,6.2643021
+1628,21628,Sankt Josef-Krankenhaus,Rurdorfer Straße 49,Linnich,Nordrhein-Westfalen,52441,,+49 2462 204 0,,,Yes,,50.9763344,6.2685656
+1632,21632,Sankt Marien-Krankenhaus,Kampenstraße 51,Siegen,Nordrhein-Westfalen,57072,,,,,Yes,,50.8790531,8.0301068
+1640,21640,Sankt-Johannes-Hospital,nan nan,Hagen,Nordrhein-Westfalen,58095,,,,,Yes,,51.3953698,7.4725567
+1642,21642,Sankt-Josefs-Hospital,nan nan,Wiesbaden,Hessen,65183,,+49 611 177-0,,,Yes,,50.0777389,8.2540811
+1644,21644,Sankt-Marien-Hospital,Neustraße 1,Lüdinghausen,Nordrhein-Westfalen,59348,,,,,Yes,,51.7703127,7.4466107
+1645,21645,Sankt-Marien-Krankenhaus,Gallwitzallee 123-143,Berlin,Berlin,12247,,+49 30 76783-0,,,Yes,,52.4235896,13.348399
+1656,21656,Schwarzwald-Baar Klinikum,Klinikstraße 11,Villingen-Schwenningen,Schwarzwald-Baar-Kreis,78052,,,,,Yes,,48.0645351,8.4995236
+1657,21657,Schwarzwald-Baar-Kliniken Donaueschingen,nan nan,Donaueschingen,Schwarzwald-Baar-Kreis,78166,,,,,Yes,,47.9565926,8.4813891
+1666,21666,Schön Klinik Hamburg Eilbek,nan nan,Hamburg,Hamburg,22083,,,,,Yes,,53.5785125,10.0492529
+1669,21669,Schön Klinik Neustadt,Am Kiebitzberg 10,Neustadt in Holstein,Schleswig-Holstein,23730,,,,,Yes,,54.0917637,10.828335
+1676,21676,Siloah St. Trudpert Klinikum,Wilferdinger Straße 67,Pforzheim,Pforzheim,75172,,,,,Yes,,48.8979409,8.6725514
+1687,21687,St. Agnes Hospital,Barloer Weg 125,Bocholt,Nordrhein-Westfalen,46395,,+49 2871 20-0,,,Yes,,51.8568269,6.6266852
+1688,21688,St. Anna Krankenhaus,nan nan,Sulzbach-Rosenberg,Bayern,92237,,+49 9661 520-0,,,Yes,,49.5054917,11.7272231
+1689,21689,St. Anna-Klinik,Vogelsangstraße 106,Wuppertal,Nordrhein-Westfalen,42275,,,,,Yes,,51.2755439,7.1411561
+1690,21690,St. Anna-Klinik,Obere Waiblinger Straße 101,Stuttgart,Stuttgart,70372,,,,,Yes,,48.8074514,9.2298816
+1693,21693,St. Antonius Krankenhaus,nan nan,Köln,Nordrhein-Westfalen,50968,,,,,Yes,,50.9107582,6.9659861
+1695,21695,St. Augustinus Krankenhaus,Renkerstraße 45,Düren,Nordrhein-Westfalen,52349,,+49 2421 5990,,,Yes,,50.7688261,6.48739
+1699,21699,St. Elisabeth Hospital,Im Schloßpark 12,Herten,Nordrhein-Westfalen,45699,,,,,Yes,,51.5920897,7.1251059
+1703,21703,St. Elisabeth Krankenhaus,nan nan,Wittlich,Rheinland-Pfalz,54516,,,,,Yes,,50.0011566,6.8936534
+1707,21707,St. Elisabeth Krankenhaus Lahnstein,Ostallee 3,Lahnstein,Rheinland-Pfalz,56112,,+49 2621 171 0,,,Yes,,50.305356,7.6085723
+1709,21709,St. Elisabeth-Hospital,Elisabethstraße 10,Beckum,Nordrhein-Westfalen,59269,,,,,Yes,,51.7530875,8.0388143
+1711,21711,St. Elisabeth-Krankenhaus,nan nan,Dorsten,Nordrhein-Westfalen,46282,,,,,Yes,,51.6558159,6.9546128
+1712,21712,St. Elisabeth-Krankenhaus,Biedermannstraße 84,Leipzig,Sachsen,04277,,,,,Yes,,51.3036397,12.3786193
+1714,21714,St. Elisabethen Krankenhaus,Feldbergstraße 15,Lörrach,Lörrach,79539,,+49 7621 1710,,,Yes,,47.617648,7.6661721
+1715,21715,St. Elisabethen-Klinikum,nan nan,Ravensburg,Ravensburg,88212,,,,,Yes,,47.788879,9.6208063
+1716,21716,St. Franziskus Hospital,Franziskusstraße 6,Lohne (Oldenburg),Niedersachsen,49393,,+49 4442 81 0,,,Yes,,52.6652133,8.240432
+1719,21719,St. Franziskus Krankenhaus Eitorf,Hospitalstraße 7,Eitorf,Nordrhein-Westfalen,53783,,,,,Yes,,50.7676585,7.4524952
+1720,21720,St. Franziskus-Hospital,nan nan,Flensburg,Schleswig-Holstein,24937,,,,,Yes,,54.7914128,9.421803
+1721,21721,St. Georg Klinikum Eisenach,Mühlhäuser Str. 94,Eisenach,Eisenach,99817,,+49 3691 6980,,,Yes,,50.9900829,10.3150554
+1723,21723,St. Hildegardis Krankenhaus,nan nan,Köln,Nordrhein-Westfalen,50931,,,,,Yes,,50.9309998,6.9229633
+1724,21724,St. Hubertus-Stift,Klosterstraße 2,Bedburg,Nordrhein-Westfalen,50181,,+49 2272 4040,,,Yes,,50.9977929,6.577603
+1733,21733,St. Josef,Asberger Straße 4,Moers,Nordrhein-Westfalen,47441,,,,,Yes,,51.4462512,6.6408788
+1738,21738,St. Josef Krankenhaus Essen-Werden,Propsteistraße 2,Essen,Nordrhein-Westfalen,45239,,,,,Yes,,51.3886411,7.0060522
+1741,21741,St. Josef-Krankenhaus,Mühlenstraße 31-35,Adenau,Rheinland-Pfalz,53518,,,,,Yes,,50.3842435,6.9267405
+1742,21742,St. Josef-Krankenhaus,Albert-Struck-Straße 1,Hamm,Nordrhein-Westfalen,59075,,+49 2381 9610,,,Yes,,51.6983181,7.7640256
+1743,21743,St. Josef-Krankenhaus,Nordkanalallee 99,Neuss,Nordrhein-Westfalen,41460,,+49 2131 5292-00,,,Yes,,51.192423,6.7013007
+1744,21744,St. Josef-Krankenhaus,Seegartenstraße 4,Viernheim,Hessen,68519,,,,,Yes,,49.536145,8.5748601
+1745,21745,St. Josef-Krankenhaus Hermeskeil,Koblenzer Straße 23,Hermeskeil,Rheinland-Pfalz,54411,,,,,Yes,,49.6578356,6.9479027
+1746,21746,St. Josef-Krankenhaus Zell,Barlstraße 7,Zell (Mosel),Rheinland-Pfalz,56856,,,,,Yes,,50.0241565,7.1699091
+1748,21748,St. Josefs-Hospital,Uferstraße 7,Lennestadt,Nordrhein-Westfalen,57368,,+49 2723 606 0,,,Yes,,51.1079735,8.0682047
+1754,21754,St. Josefskrankenhaus,Landhausstraße nan,Heidelberg,Heidelberg,69115,,+49 6221 5260,,,Yes,,49.4032099,8.6887166
+1755,21755,St. Josefskrankenhaus,Sautierstraße 1,Freiburg im Breisgau,Freiburg im Breisgau,79104,,,,,Yes,,48.001476,7.8531266
+1757,21757,St. Joseph-Stift,Schwachhauser Heerstraße 54,Bremen,Bremen,28213,,,,,Yes,,53.0844384,8.8351803
+1760,21760,St. Lukas Klinik,Schwanenstraße 132,Solingen,Nordrhein-Westfalen,42651,,,,,Yes,,51.155337,6.9848122
+1763,21763,St. Marien Krankenhaus,Werdener Straße 3,Ratingen,Nordrhein-Westfalen,40878,,,,,Yes,,51.3002507,6.8512413
+1772,21772,St. Marienhospital Vechta,Marienstraße 6-8,Vechta,Niedersachsen,49377,,+49 4441 99 0,,,Yes,,52.7253653,8.2877573
+1774,21774,St. Martini Krankenhaus,Göttinger Straße 34,Duderstadt,Niedersachsen,37115,,+49 5527 842 0,,,Yes,,51.5166541,10.2463884
+1775,21775,St. Martinus-Hospital,Hospitalweg 6,Olpe,Nordrhein-Westfalen,57462,,+49 2751 85 0,,,Yes,,51.0277467,7.8455161
+1779,21779,St. Nikolaus-Stiftshospital,nan nan,Andernach,Rheinland-Pfalz,56626,,,,,Yes,,50.4412918,7.4042501
+1781,21781,St. Rochus Krankenhaus,Nieheimer Straße 34,Steinheim,Nordrhein-Westfalen,32839,,,,,Yes,,51.8561691,9.0905444
+1785,21785,St. Vincent Krankenhaus,Am Stein 24,Menden (Sauerland),Nordrhein-Westfalen,58706,,,,,Yes,,51.4370396,7.8000339
+1786,21786,St. Vincentius-Kliniken,Südendstraße 32,Karlsruhe,Karlsruhe (Stadt),76137,,,,,Yes,,48.9997115,8.3904544
+1789,21789,St. Vincenz Krankenhaus,Adelheidstraße 2,Diez,Rheinland-Pfalz,65582,,+49 6432 506-0,,,Yes,,50.3747849,8.0084041
+1791,21791,St. Vincenz-Krankenhaus Limburg,nan nan,Limburg an der Lahn,Hessen,65549,,,,,Yes,,50.3882324,8.0502631
+1793,21793,St. Vinzenz Hospital,Merheimer Straße nan,Köln,Nordrhein-Westfalen,50733,,+49 221 77120,,,Yes,,50.9672024,6.9444393
+1796,21796,St. Vinzenz-Hospital Dinslaken,nan nan,Dinslaken,Nordrhein-Westfalen,46535,,,,,Yes,,51.5593683,6.7261587
+1803,21803,St.-Franziskus-Hospital,Hohenzollernring 72,Münster,Nordrhein-Westfalen,48143,,+49 251 9350,,,Yes,,51.9621103,7.6476773
+1807,21807,St.-Josefs-Krankenhaus,Allee nach Sanssouci 7,Potsdam,Brandenburg,14471,,,,,Yes,,52.3995834,13.0449346
+1808,21808,St.-Katharinen - Hospital,nan nan,Frechen,Nordrhein-Westfalen,50226,,,,,Yes,,50.9226814,6.810558
+1816,21816,St.Josef Krankenhaus,Heidbergweg 22-24,Essen,Nordrhein-Westfalen,45257,,,,,Yes,,51.3918965,7.0854403
+1817,21817,St.Vincenz-Krankenhaus Datteln,Rottstraße 11,Datteln,Nordrhein-Westfalen,45711,,,,,Yes,,51.6525086,7.3435221
+1821,21821,Stadtkrankenhaus Schwabach,Regelsbacher Straße 7,Schwabach,Bayern,91126,,+49 9122 182-1,,,Yes,,49.3334824,11.0130463
+1823,21823,Stauferklinikum Mutlangen,Wetzgauer Straße 85,Mutlangen,Ostalbkreis,73557,,+49 7171 701 0,,,Yes,,48.8196033,9.7860527
+1827,21827,Stiftungsklinik Weißenhorn,nan nan,Weißenhorn,Bayern,89264,,,,,Yes,,48.3129144,10.1566415
+1834,21834,Städtische Kliniken Mönchengladbach,nan nan,Mönchengladbach,Nordrhein-Westfalen,41239,,,,,Yes,,51.1574114,6.4152013
+1835,21835,Städtisches Klinikum,nan nan,Karlsruhe,Karlsruhe (Stadt),76187,,,,,Yes,,49.0200291,8.3720819
+1837,21837,Städtisches Klinikum Brandenburg,Hochstraße 29,Brandenburg an der Havel,Brandenburg,14776,,+49 3381 4110,,,Yes,,52.4147327,12.5451792
+1838,21838,Städtisches Klinikum Braunschweig Celler Straße,Celler Straße 38,Braunschweig,Niedersachsen,38100,,,,,Yes,,52.2762478,10.5048454
+1842,21842,Städtisches Klinikum Dresden-Neustadt,Industriestraße 40,Dresden,Sachsen,01139,,,,,Yes,,51.0907276,13.7064522
+1843,21843,Städtisches Klinikum Görlitz,Girbigsdorfer Straße 1-3,Görlitz,Sachsen,02826,,,,,Yes,,51.1618475,14.9682637
+1844,21844,Städtisches Klinikum Leverkusen - Kinderklinikum,nan nan,Leverkusen,Nordrhein-Westfalen,51375,,,,,Yes,,51.0317092,7.0342985
+1845,21845,Städtisches Klinikum Leverkusen - Kinderklinikum,nan nan,Leverkusen,Nordrhein-Westfalen,51375,,,,,Yes,,51.0316903,7.0335874
+1847,21847,Städtisches Klinikum Wolfenbüttel,Alter Weg 80,Wolfenbüttel,Niedersachsen,38300,,,,,Yes,,52.1807552,10.5343562
+1849,21849,Städtisches Krankenhaus Eisenhüttenstadt,Friedrich-Engels-Straße 39,Eisenhüttenstadt,Brandenburg,15890,,,,,Yes,,52.1431126,14.6238853
+1851,21851,Städtisches Krankenhaus Kiel,Chemnitzstraße 33,Kiel,Schleswig-Holstein,24116,,+49 431 16970,,,Yes,,54.3241139,10.1152042
+1852,21852,Städtisches Krankenhaus Nettetal,nan nan,Nettetal,Nordrhein-Westfalen,41334,,,,,Yes,,51.3092378,6.2716524
+1853,21853,Städtisches Krankenhaus Pirmasens,Pettenkoferstraße 22,Pirmasens,Rheinland-Pfalz,66953,,,,,Yes,,49.193348,7.618077
+1854,21854,Sächsische Schweiz Klinik Sebnitz,Doktor-Steudner-Straße 75b,Sebnitz,Sachsen,01855,,,,,Yes,,50.9832415,14.2675796
+1855,21855,Südharz Klinikum,Dr.-Robert-Koch-Straße 39,Nordhausen,Nordhausen,99734,,+49 3631 410,,,Yes,,51.5175614,10.794111
+1868,21868,Theresien-Krankenhaus,nan nan,Mannheim,Mannheim,68161,,,,,Yes,,49.4894971,8.4809103
+1873,21873,"Thüringen-Kliniken ""Georgius Agricola"" GmbH",Rainweg 68,Saalfeld/Saale,Saalfeld-Rudolstadt,07318,,,,,Yes,,50.6435652,11.3422495
+1882,21882,Unfallkrankenhaus Berlin,Warener Straße 7,Berlin,Berlin,12683,,,,,Yes,,52.5188081,13.5659403
+1892,21892,Universitätsklinikum Erlangen,nan nan,Erlangen,Bayern,91054,,,,,Yes,,49.5979326,11.0127479
+1894,21894,Universitätsklinikum Essen,Hufelandstraße 55,Essen,Nordrhein-Westfalen,45147,,+49 2 01 - 7 23 - 0,,,Yes,,51.4367205,6.9878223
+1896,21896,Universitätsklinikum Halle (Saale),Ernst-Grube-Straße 40,Halle (Saale),Sachsen-Anhalt,06120,,,,,Yes,,51.5004868,11.9339534
+1897,21897,Universitätsklinikum Knappschaftskrankenhaus Bochum,In der Schornau 23-25,Bochum,Nordrhein-Westfalen,44892,,,,,Yes,,51.4625654,7.326603
+1898,21898,Universitätsklinikum Köln,nan nan,Köln,Nordrhein-Westfalen,50931,,,,,Yes,,50.927769,6.9185137
+1899,21899,Universitätsklinikum Leipzig,nan nan,Leipzig,Sachsen,04109,,,,,Yes,,51.328644,12.3865487
+1900,21900,Universitätsklinikum Regensburg,Franz-Josef-Strauß-Allee 11,Regensburg,Bayern,93053,,+49 941 944 0,,,Yes,,48.9903046,12.0925832
+1904,21904,Universitätsmedizin Göttingen,Robert-Koch-Straße 40,Göttingen,Niedersachsen,37073,,,,,Yes,,51.5487446,9.942686
+1905,21905,Universitätsmedizin Mannheim,Theodor-Kutzer-Ufer 1-3,Mannheim,Mannheim,68161,,+49 621 383 0,,,Yes,,49.4911923,8.4867339
+1911,21911,VITOS Klinik für Psychiatrie und Psychotherapie,Viernheimer Straße 4,Heppenheim (Bergstraße),Hessen,64646,,,,,Yes,,49.6272403,8.6255337
+1913,21913,Verbundklinikum Landkreis Ansbach - Klinik Rothenburg o.d.T.,Ansbacher Straße 121,Rothenburg ob der Tauber,Bayern,91541,,+49-9861-707-0,,,Yes,,49.3790252,10.1984938
+1923,21923,Vinzenz-Pallotti-Hospital,Vinzenz-Pallotti-Straße 20,Bergisch Gladbach,Nordrhein-Westfalen,51465,,,,,Yes,,50.9615446,7.1756994
+1925,21925,Vinzenzkrankenhaus,nan nan,Hannover,Niedersachsen,30559,,,,,Yes,,52.3571892,9.8135033
+1926,21926,Virngrund-Klinik,Dalkinger Straße 8-12,Ellwangen (Jagst),Ostalbkreis,73479,,,,,Yes,,48.9582349,10.1310175
+1934,21934,Vivantes Humboldt-Klinikum,Am Nordgraben 2,Berlin,Berlin,13435,,,,,Yes,,52.5899965,13.3044473
+1936,21936,Vivantes Klinikum - Neukölln,Rudower Straße 48,Berlin,Berlin,12349,,,,,Yes,,52.4350696,13.4569218
+1939,21939,Vivantes Klinikum am Urban,Dieffenbachstraße 1,Berlin,Berlin,10963,,,,,Yes,,52.4943763,13.4103647
+1943,21943,Vogtland-Klinikum Plauen,Röntgenstraße 2,Plauen,Sachsen,08523,,,,,Yes,,50.492969,12.1519722
+1947,21947,Warnow Klinik,Am Forsthof 3,Bützow,Mecklenburg-Vorpommern,18246,,,,,Yes,,53.8438247,11.9745493
+1949,21949,Weißeritztal-Klinik Dippoldiswalde,Rabenauer Straße 9,Dippoldiswalde,Sachsen,01744,,+49 3504 6320,,,Yes,,50.9013966,13.6685743
+1951,21951,Werksärztlicher Dienst,nan nan,Hanau,Hessen,63457,,,,,Yes,,50.1197526,8.9683512
+1952,21952,Werner Forßmann Krankenhaus,Rudolf-Breitscheid-Straße 100,Eberswalde,Brandenburg,16225,,,,,Yes,,52.8272334,13.7885651
+1955,21955,Wertachklinik Bobingen,Wertachstraße 55,Bobingen,Bayern,86399,,+49 8234 81-0,,,Yes,,48.2815869,10.8230521
+1956,21956,Wertachklinik Schwabmünchen,Weidenhartstraße 35,Schwabmünchen,Bayern,86830,,+49 8232 508-0,,,Yes,,48.1762754,10.7463687
+1960,21960,Westküstenklinikum Brunsbüttel,Delbrückstraße 2,Brunsbüttel,Schleswig-Holstein,25541,,+49 4852 9800,,,Yes,,53.8992898,9.1457308
+1961,21961,Westküstenklinikum Heide,Esmarchstraße 50,Heide,Schleswig-Holstein,25746,,+49 481 7850,,,Yes,,54.198551,9.0751685
+1962,21962,Westpfalz-Klinikum,Hellmut-Hartert-Straße 1,Kaiserslautern,Rheinland-Pfalz,67655,,,,,Yes,,49.4408741,7.757503
+1963,21963,Westpfalz-Klinikum Standort Kirchheimbolanden,nan nan,Kirchheimbolanden,Rheinland-Pfalz,67292,,,,,Yes,,49.6597672,8.0070038
+1964,21964,Westpfalz-Klinikum Standort Kusel,nan nan,Ruthweiler,Rheinland-Pfalz,66869,,,,,Yes,,49.5462358,7.3739666
+1967,21967,Wilhelmsburger Krankenhaus Groß-Sand,nan nan,Hamburg,Hamburg,21109,,,,,Yes,,53.5029293,9.9864512
+1978,21978,Zeisigwaldkliniken Bethanien Chemnitz,Zeisigwaldstraße 101,Chemnitz,Sachsen,09130,,,,,Yes,,50.8389052,12.9617144
+1982,21982,Zentralklinik Bad Berka,nan nan,Bad Berka,Weimarer Land,99438,,,,,Yes,,50.8898361,11.2633692
+1984,21984,Zentrum für Innere Medizin,Ernst-Heydemann-Straße 6,Rostock,Mecklenburg-Vorpommern,18057,,,,,Yes,,54.0839182,12.1003366
+1995,21995,ZkM,nan nan,Bad Neustadt a.d. Saale,Bayern,97616,,,,,Yes,,50.3225411,10.23567
+1997,21997,Zollernalbklinikum Ebingen,Friedrichstraße 39,Albstadt,Zollernalbkreis,72458,,,,,Yes,,48.2140962,9.0195302
+1998,21998,Zum Guten Hirten,Semmelweisstraße 7,Ludwigshafen am Rhein,Rheinland-Pfalz,67059,,+49 621 6819-0,,,Yes,,49.4869676,8.3849563
+2006,22006,imland Klinik Rendsburg,Lilienstraße 20-28,Rendsburg,Schleswig-Holstein,24768,,+49 4331 2000,,,Yes,,54.2971523,9.6605288
+2010,22010,medbo Bezirksklinikum Regensburg,Universitätsstraße 84,Regensburg,Bayern,93051,,,,,Yes,,49.0009054,12.0874644
+2011,22011,medius KLINIK Kirchheim,nan nan,Kirchheim unter Teck,Esslingen,73230,,+49 7021/88-0,,,Yes,,48.651383,9.440261
+2012,22012,medius Klinik Ostfildern-Ruit,nan nan,Stuttgart,Stuttgart,70329,,+49 711 4488-0,,,Yes,,48.7405352,9.2530502

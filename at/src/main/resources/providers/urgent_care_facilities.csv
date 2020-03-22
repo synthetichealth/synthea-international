@@ -1,0 +1,57 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+1,20001,A.ö. Tauernklinikum Mittersill,nan nan,Mittersill,Salzburg,5730,,,,,Yes,,47.2807961,12.4843668
+2,20002,Allgemein öffentliches Krankenhaus Oberpullendorf,Spitalgasse 32,Oberpullendorf,Burgenland,7350,,,,,Yes,,47.507545,16.5099727
+9,20009,Bezirkskrankenhaus Schwaz,Dr.-Körner-Straße 2,Schwaz,Tirol,6130,,,,,Yes,,47.3440612,11.7048539
+14,20014,Donauspital / SMZ-Ost,Langobardenstraße 122,Wien,Wien,1220,,,,,Yes,,48.2195455,16.4600433
+21,20021,Heeresspital,Brünner Straße 238,Wien,Wien,1210,,,,,Yes,,48.2930133,16.4188238
+26,20026,Klinik Diakonissen Schladming,Salzburger Straße 777,Schladming,Steiermark,8970,,+43 3687 2020 0,,,Yes,,47.3915863,13.6775092
+27,20027,Klinik Floridsdorf,nan nan,Wien,Wien,1210,,+43 1 27700 - 0,,,Yes,,48.2694155,16.4048833
+31,20031,Krankenanstalt Rudolfstiftung,Juchgasse 25,Wien,Wien,1030,,+43 (1) 711 65-0,,,Yes,,48.1950723,16.3891181
+35,20035,Krankenhaus Hallein,Bürgermeisterstraße 34,Hallein,Salzburg,5400,,+43 6245 7990,,,Yes,,47.6855242,13.1120345
+36,20036,Krankenhaus Hallein,nan nan,Hallein,Salzburg,5400,,,,,Yes,,47.6860986,13.1120605
+38,20038,Krankenhaus Kittsee,Hauptplatz 3,Kittsee,Burgenland,2421,,,,,Yes,,48.0930438,17.0648818
+44,20044,Krankenhaus der Barmherzigen Brüder,nan nan,Wien,Wien,1020,,,,,Yes,,48.2157345,16.3811781
+48,20048,Krankenhaus der Barmherzigen Schwestern Ried,Schloßberg 1,Ried im Innkreis,Ried im Innkreis,4910,,,,,Yes,,48.2104406,13.4932608
+57,20057,LKH Rottenmann,nan 2-4,Rottenmann,Steiermark,8786,,,,,Yes,,47.5257619,14.366312
+58,20058,Landesklinik Tamsweg,Bahnhofstraße 7,Tamsweg,Salzburg,5580,,,,,Yes,,47.1288853,13.8089122
+59,20059,Landesklinikum Baden,nan nan,Baden,Baden,2500,,,,,Yes,,48.0000387,16.253032
+60,20060,Landesklinikum Gmünd,Conrathstraße 17,Gmünd,Gmünd,3950,,+43 2852 9004 0,,,Yes,,48.760352,14.9754542
+61,20061,Landesklinikum Hollabrunn,nan nan,Hollabrunn,Hollabrunn,2020,,,,,Yes,,48.5616934,16.0909834
+62,20062,Landesklinikum Horn,nan nan,Horn,Horn,3580,,02982/2661-0,,,Yes,,48.6697962,15.6599476
+69,20069,Landesklinikum Mödling,Schwester-Maria-Restituta-Gasse 12,Mödling,Mödling,2340,,,,,Yes,,48.0901654,16.2957719
+70,20070,Landesklinikum Stockerau,Landstraße 18,Stockerau,Korneuburg,2000,,,,,Yes,,48.386092,16.2047124
+71,20071,Landesklinikum Waidhofen/Thaya,Moriz-Schadek-Gasse 31,Waidhofen an der Thaya,Waidhofen an der Thaya,3830,,,,,Yes,,48.8131318,15.2843194
+72,20072,Landesklinikum Waidhofen/Ybbs,nan nan,Waidhofen an der Ybbs,Waidhofen an der Ybbs,3340,,,,,Yes,,47.9525849,14.7885095
+73,20073,Landesklinikum Wiener Neustadt,Corvinusring 3-5,Wiener Neustadt,Wiener Neustadt,2700,,+43 2622 321-0,,,Yes,,47.8167248,16.2482145
+74,20074,Landeskrankenhaus,nan nan,Villach,Villach,9500,,,,,Yes,,46.6164966,13.8569658
+75,20075,Landeskrankenhaus Bad Aussee,Sommersbergseestraße 396,Bad Aussee,Steiermark,8990,,,,,Yes,,47.6069202,13.7739402
+76,20076,Landeskrankenhaus Bad Radkersburg,Dr. Schwaiger-Straße 1,Bad Radkersburg,Steiermark,8490,,+43 3476 2401 0,,,Yes,,46.6919561,15.9933519
+79,20079,Landeskrankenhaus Deutschlandsberg,Radlpaßstraße 29,Deutschlandsberg,Steiermark,8530,,+43 3462 4411 0,,,Yes,,46.8115594,15.2318154
+81,20081,Landeskrankenhaus Feldbach,Ottokar-Kernstock-Straße 18,Feldbach,Steiermark,8330,,+43 3152 899 0,,,Yes,,46.9518041,15.8816196
+82,20082,Landeskrankenhaus Fürstenfeld,Krankenhausgasse 1,Fürstenfeld,Steiermark,8280,,+43 3382 506 0,,,Yes,,47.0460342,16.0848675
+84,20084,"Landeskrankenhaus Graz Süd-West, Standort West",Göstinger Straße 22,Graz,Steiermark,8020,,+43 316 5466 0,,,Yes,,47.0791218,15.4000797
+87,20087,Landeskrankenhaus Hartberg,nan nan,Hartberg,Steiermark,8230,,+43 3332 605 0,,,Yes,,47.2729853,15.9675269
+88,20088,Landeskrankenhaus Hochsteiermark,Vordernberger Straße 42,Leoben,Steiermark,8700,,+43 3842 401 0,,,Yes,,47.3789335,15.0840504
+91,20091,Landeskrankenhaus Judenburg,Oberweggasse 18,Judenburg,Steiermark,8750,,+43 3572 82560 0,,,Yes,,47.1666638,14.6546426
+92,20092,Landeskrankenhaus Knittelfeld,Gaaler Straße 10,Knittelfeld,Steiermark,8720,,+43 3512 707 0,,,Yes,,47.2145678,14.8197252
+93,20093,Landeskrankenhaus Mariazell,Spitalgasse 4-6,Mariazell,Steiermark,8630,,+43 3882 2222 2800,,,Yes,,47.7894427,15.304045
+94,20094,Landeskrankenhaus Mürzzuschlag,Grazer Straße 63-65,Mürzzuschlag,Steiermark,8680,,+43 3852 2080 0,,,Yes,,47.6013501,15.6682839
+97,20097,Landeskrankenhaus Rottenmann,Sankt Georgen 2-4,Rottenmann,Steiermark,8786,,+43 3614 2431 0,,,Yes,,47.5258637,14.3661364
+98,20098,Landeskrankenhaus Salzburg,Müllner Hauptstraße 48,Salzburg,Salzburg,5020,,,,,Yes,,47.807731,13.0270114
+100,20100,Landeskrankenhaus Stolzalpe,Stolzalpe 38,Murau,Steiermark,8852,,+43 3532 2424 0,,,Yes,,47.1187367,14.1875092
+102,20102,Landeskrankenhaus Voitsberg,Conrad-von-Hötzendorf-Straße 31,Voitsberg,Steiermark,8570,,+43 3142 201 0,,,Yes,,47.0523972,15.1419169
+103,20103,Landeskrankenhaus Voitsberg,Conrad-von-Hötzendorf-Straße 31,Voitsberg,Steiermark,8570,,,,,Yes,,47.0525395,15.1413276
+105,20105,Landeskrankenhaus Wagna,Pelzmannstraße 18,Wagna,Steiermark,8435,,+43 3452 701 0,,,Yes,,46.7692575,15.5572139
+107,20107,Landeskrankenhaus Wolfsberg,Paul-Hackhofer-Straße 9,Wolfsberg,Wolfsberg,9400,,+43 4352 533 0,,,Yes,,46.8345385,14.8465399
+108,20108,Landeskrankenhaus-Universitätsklinikum Graz,nan nan,Graz,Steiermark,8010,,,,,Yes,,47.0892236,15.4689492
+110,20110,Marienkrankenhaus Vorau,nan nan,Vorau,Steiermark,8250,,+43 3337 2254 0,,,Yes,,47.4063857,15.8812822
+115,20115,Pyhrn-Eisenwurzen Klinikum Kirchdorf,Hausmanningerstraße 8,Kirchdorf an der Krems,Kirchdorf an der Krems,4560,,05 055467-0,,,Yes,,47.9082252,14.1239892
+125,20125,Tauernklinikum,Paracelsusstraße 8,Zell am See,Salzburg,5700,,,,,Yes,,47.3386693,12.8131917
+126,20126,Unfallkrankenhaus,Waidmannsdorfer Straße 35,Klagenfurt am Wörthersee,Klagenfurt,9020,,,,,Yes,,46.6185696,14.295623
+127,20127,Unfallkrankenhaus Graz,Göstinger Straße 24,Graz,Steiermark,8020,,,,,Yes,,47.0791218,15.4000797
+128,20128,Unfallkrankenhaus Linz,nan nan,Linz,Linz,4020,,,,,Yes,,48.3041603,14.3109615
+130,20130,Unfallkrankenhaus Salzburg,nan nan,Salzburg,Salzburg,5020,,,,,Yes,,47.7992557,13.0551639
+131,20131,Universitätsklinik Innsbruck,nan nan,Innsbruck,Tirol,6020,,,,,Yes,,47.2634384,11.3870319
+132,20132,Universitätsklinikum Krems,Mitterweg 10,Krems an der Donau,Krems an der Donau,3500,,,,,Yes,,48.4128122,15.6146697
+133,20133,Universitätsklinikum St. Pölten,Dunant-Platz 1,Sankt Pölten,Sankt Pölten,3100,,+43 2742 9004,,,Yes,,48.214799,15.6301005
+135,20135,Wilhelminenspital,Montleartstraße 37,Wien,Wien,1160,,,,,Yes,,48.2081646,16.2981955

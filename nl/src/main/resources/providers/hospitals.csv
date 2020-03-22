@@ -1,0 +1,113 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,10000,ADRZ,nan nan,,,,,+31 88 1250000,,,Yes,,51.4844179,3.9076052
+1,10001,Advent Hospital,Groot Davelaarweg 1,Curacao,,,,+5999 737 0611,,,,,12.120244,-68.9040685
+2,10002,"Albert Schweitzer Ziekenhuis, loc. Dordwijk",nan nan,Dordrecht,Zuid-Holland,3311 JA,,(078) 654 11 11,,,Yes,,51.7912601,4.6794905
+3,10003,Alrijne Ziekenhuis,nan nan,Leiderdorp,Zuid-Holland,2351,,,,,,,52.1553499,4.5408376
+4,10004,Alrijne Ziekenhuis,nan nan,Leiden,Zuid-Holland,2334,,,,,,,52.1736222,4.4807211
+5,10005,Amphia Ziekenhuis Locatie Molengracht,Molengracht 21,Breda,Noord-Brabant,4811,,,,,,,51.5840617,4.7954843
+6,10006,"Amphia Ziekenhuis, Locatie Langedijk",Langendijk 75,Breda,Noord-Brabant,4811,,+76 595 5000,,,,,51.5753425,4.7640854
+7,10007,"Amphia Ziekenhuis, Locatie Pasteurlaan",Pasteurlaan 9,Oosterhout,Noord-Brabant,4901 KC,,,,,,,51.6476689,4.871152
+8,10008,Amsterdam UMC - locatie VUMC,De Boelelaan 1117,Amsterdam,Noord-Holland,1082,,,,,,,52.3368182,4.858402
+9,10009,Amsterdam UMC locatie AMC,Meibergdreef 9,Amsterdam,Noord-Holland,1102,,,,,Yes,,52.2938649,4.9497018
+10,10010,Basalt Revalidatiecentrum,nan nan,Leiden,Zuid-Holland,2333,,,,,,,52.1697278,4.4691982
+11,10011,Beatrixziekenhuis,nan nan,Gorinchem,Zuid-Holland,4201 HJ,,,,,,,51.8401003,4.9552317
+12,10012,Bernhoven,nan nan,,,,,,,,,,51.6720866,5.6060862
+13,10013,Bethesda,nan nan,Hoogeveen,Drenthe,7901 BK,,,,,,,52.7273353,6.460551
+14,10014,BovenIJ Ziekenhuis,nan nan,Amsterdam,Noord-Holland,1025,,,,,,,52.4050181,4.9208111
+15,10015,Canisius-Wilhelmina Ziekenhuis,Weg door Jonkerbos 100,Nijmegen,Gelderland,6532,,+31243657657,,,Yes,,51.8186865,5.8326534
+16,10016,Catharina Ziekenhuis,Michelangelolaan 2,Eindhoven,Noord-Brabant,5623 BA,,,,,Yes,,51.4644195,5.4694144
+17,10017,Cruquiushoeve,nan nan,,,,,,,,No,,52.3302143,4.6482895
+18,10018,Curaçao Medical Center,J. H. J. Hamelbergweg nan,Curacao,,,,+599 9 745 0000,,,Yes,,12.110434,-68.9426995
+19,10019,De Canha Physical Therapy,Dokter W. P. Maalweg nan,Curacao,,,,,,,,,12.1055343,-68.9041058
+20,10020,Delta Ziekenhuis,nan nan,,,,,,,,,,51.8464042,4.3917481
+21,10021,Deventer Ziekenhuis,Nico Bolkesteinlaan 75,,,,,+570 53 53 53,,,Yes,,52.2627765,6.189377
+22,10022,Dijklander Ziekenhuis,Maelsonstraat 3,Hoorn,Noord-Holland,1621 JX,,,,,Yes,,52.6471812,5.0552318
+23,10023,Doornbos Fysio Groep,Abdijstraat 26,Breda,Noord-Brabant,4811,,+31 76 572 00 57,,,No,,51.5987116,4.7956926
+24,10024,Dr. Horacio Oduber Hospital,Dr Horacio Oduber Boulevard 1,,,,,+297 527 4000,,,Yes,,12.5432798,-70.0602569
+25,10025,EHBO building,nan nan,Botlek,Zuid-Holland,3197,,,,,,,51.8734753,4.2556009
+26,10026,ETZ Elisabeth ziekenhuis,nan nan,Tilburg,Noord-Brabant,5018,,,,,Yes,,51.540021,5.101123
+27,10027,ETZ TweeSteden ziekenhuis,Doctor Deelenlaan 5,Tilburg,Noord-Brabant,5018,,,,,,,51.5789916,5.056798
+28,10028,Erasmus MC Daniel den Hoed,nan nan,Rotterdam,Zuid-Holland,3074 LS,,,,,,,51.8861095,4.5034912
+29,10029,Erasmus Medisch Centrum,Dokter Molewaterplein 40,Rotterdam,Zuid-Holland,3012 VA,,+31 107040704,,,Yes,,51.9121723,4.4668569
+30,10030,Flevoziekenhuis,nan nan,Almere-Stad,Flevoland,1315,,,,,Yes,,52.3681365,5.2228711
+31,10031,Fundashon Mariadal,Kaya Soeur Bartola nan,Bonaire,,,,,,,Yes,,12.1546622,-68.2749353
+32,10032,GGD Den Haag,Westeinde 128,Den Haag,Zuid-Holland,2511 AH,,14 070,,,,,52.0753913,4.3018915
+33,10033,GGZ Centraal / Fornhese,Horsterweg 130,,,,,,,,No,,52.3058205,5.6091141
+34,10034,GGZ Delfland,nan nan,Delft,Zuid-Holland,2611 RV,,,,,,,52.0202132,4.3608398
+35,10035,GGZ Rivierduinen,nan nan,,,,,,,,,,52.1720971,4.4580431
+36,10036,GGZ Rivierduinen,nan nan,,,,,,,,,,52.1753359,4.4664676
+37,10037,"Gelre Apeldoorn, Lukas",Albert Schweitzerlaan 31,Apeldoorn,Gelderland,7311 LW,,055 581 81 81,,,,,52.1816343,5.9444701
+38,10038,Gelre Zutphen,nan nan,Zutphen,Gelderland,7201,,,,,,,52.1219588,6.2162075
+39,10039,Gezondheidscentrum Het Noorderdok,nan nan,Almere-Stad,Flevoland,1315,,,,,,,52.3892951,5.1750391
+40,10040,HMC Bronovo,Bronovolaan 5,Den Haag,Zuid-Holland,2596,,070-3124141,,,Yes,,52.1013863,4.3183272
+41,10041,HMC Westeinde,Lijnbaan 32,Den Haag,Zuid-Holland,2511 AH,,,,,Yes,,52.0745127,4.2986074
+42,10042,HagaZiekenhuis locatie Leyweg,Els Borst-Eilersplein 275,Den Haag,Zuid-Holland,2547 LE,,070 210 0000,,,Yes,,52.0568138,4.2620612
+43,10043,Hearing Aid Screening,Wageningenstraat nan,Curacao,,,,,,,,,12.1005855,-68.9168534
+44,10044,Huisartsenpost Reuver,nan nan,Reuver,Limburg,5953 AG,,,,,,,51.2830442,6.0813748
+45,10045,Huisartsenpost Zevenaar,nan nan,Zevenaar,Gelderland,6901 HK,,0900-1598,,,Yes,,51.9430275,6.0696315
+46,10046,IJsselland Ziekenhuis,nan nan,Capelle aan den IJssel,Zuid-Holland,2903,,,,,,,51.9393031,4.5644474
+47,10047,"IMSAN Dr, Rudy Engelbrecht Medical Center",nan nan,Sint Nicolaas,,,,,,,,,12.4401075,-69.9161344
+48,10048,Ikazia Ziekenhuis,nan nan,Rotterdam,Zuid-Holland,3074 LS,,,,,,,51.8869302,4.4935193
+49,10049,Isala,Dokter van Heesweg 2,Zwolle,Overijssel,8021 DB,,+3138424500,,,Yes,,52.5137535,6.1205668
+50,10050,Isala Diaconessenhuis,nan nan,Meppel,Drenthe,7941 LT,,,,,Yes,,52.6913555,6.214955
+51,10051,LUMC Curium,nan nan,,,,,,,,,,52.1728507,4.4577736
+52,10052,Leids Universitair Medisch Centrum,Albinusdreef 2,Leiden,Zuid-Holland,2333,,+31 71 5269111,,,Yes,,52.1670801,4.4744932
+53,10053,Lentis Zuidlaren,nan nan,Zuidlaren,Drenthe,9471,,,,,,,53.0888003,6.6656931
+54,10054,Liduina,nan nan,Hulst,Zeeland,4561,,,,,,,51.2873154,4.0511734
+55,10055,MCL Harlingen,nan nan,Harlingen,Friesland,8861 GB,,,,,,,53.1622772,5.4279888
+56,10056,MMC Meander Medisch Centrum,Maatweg 3,,,,,,,,,,52.1730851,5.3694539
+57,10057,MMC Veldhoven,De Run 4600,Veldhoven,Noord-Brabant,5501 LA,,040 888 8000,,,,,51.4067898,5.4148429
+58,10058,Maasstad Ziekenhuis,Maasstadweg 21,Rotterdam,Zuid-Holland,3078,,,,,Yes,,51.877952,4.5350041
+59,10059,Maastricht UMC+,P. Debyelaan 25,Maastricht,Limburg,6229 EG,,+31 (0)43-3876543,,,,,50.8324448,5.7098035
+60,10060,Make Me Smile Dentist,Kraayenhofstraat nan,Curacao,,,,,,,,,12.1127174,-68.9455486
+61,10061,Martini Ziekenhuis,Van Swietenplein 1,Groningen,Groningen,9728 LV,,+31 050 524 5245,,,Yes,,53.191022,6.5486747
+62,10062,Medisch Centrum Leeuwarden,nan nan,Leeuwarden,Friesland,8911,,+31 58 2866666,,,Yes,,53.1902029,5.8004441
+63,10063,Medisch Centrum Puttershoek,Standerdmolen 101;103,Puttershoek,Zuid-Holland,3297,,,,,No,,51.80076,4.5638078
+64,10064,Medisch Spectrum Twente,Koningsplein 1,Enschede,Overijssel,7514,,+3153 487 2000,,,Yes,,52.2171957,6.8904235
+65,10065,Máxima Medisch Centrum Eindhoven,nan nan,Eindhoven,Noord-Brabant,5623 BA,,,,,No,,51.4560812,5.4896205
+66,10066,Nij Smellinghe,nan nan,,,,,,,,Yes,,53.0980406,6.1094675
+67,10067,Noordwest Ziekenhuisgroep,Stationsplein 49,Heerhugowaard,Noord-Holland,1703,,,,,,,52.6693789,4.8226999
+68,10068,Noordwest Ziekenhuisgroep,Huisduinerweg 5,,,,,,,,Yes,,52.9585218,4.7448203
+69,10069,Noordwest Ziekenhuisgroep locatie Alkmaar,Wilhelminalaan 131,Alkmaar,Noord-Holland,1811,,,,,Yes,,52.6264921,4.7347704
+70,10070,OLVG Locatie West,Jan Tooropstraat 164,Amsterdam,Noord-Holland,1065 DZ,,,,,,,52.3723525,4.8388294
+71,10071,"OLVG, locatie Oost",nan nan,Amsterdam,Noord-Holland,1097,,,,,,,52.3590655,4.9165856
+72,10072,Ommelander Ziekenhuis Groningen,nan nan,,,,,,,,,,53.1856664,6.9569542
+73,10073,Parnassia,nan nan,Den Haag,Zuid-Holland,2553 EW,,,,,,,52.0439209,4.2049534
+74,10074,Parnassia psycho-medisch centrum,nan nan,Den Haag,Zuid-Holland,2551,,,,,,,52.0610335,4.2470216
+75,10075,Plexus Medical Center,Rotterdamweg nan,Curacao,,,,461 7790,,,,,12.095957,-68.9076913
+76,10076,Polikliniek,nan nan,Kampen,Overijssel,8261,,,,,,,52.5517727,5.9191083
+77,10077,PsyQ,nan nan,Den Haag,Zuid-Holland,2511 AH,,,,,No,,52.0742126,4.2987431
+78,10078,Reade (JBI),Dr. Jan van Breemenstraat 2,Amsterdam,Noord-Holland,1057 VN,,,,,,,52.3702008,4.8444895
+79,10079,Red Cross,Weg leidende naar Under the Hill 2,Sint Eustatius,,,,,,,,,17.4936409,-62.9867763
+80,10080,Rehabilitations,Kaminda Saliña nan,Curacao,,,,,,,,,12.1070292,-68.909001
+81,10081,Reinier de Graaf Diaconessenhuis,nan nan,Voorburg,Zuid-Holland,2271,,,,,,,52.0610802,4.3513113
+82,10082,Reinier de Graaf Gasthuis,Reinier de Graafweg 5,Delft,Zuid-Holland,2611 RV,,+31 15 2603060,,,Yes,,51.9983595,4.339429
+83,10083,Revalidatiecentrum De Vogellanden,nan nan,Zwolle,Overijssel,8021 DB,,,,,,,52.5027312,6.1173666
+84,10084,Rijnstate Arnhem,Wagnerlaan 55,Arnhem,Gelderland,6811 JE,,+3188 055 8888,,,Yes,,52.0019291,5.9079105
+85,10085,Rijnstate Ziekenhuis Zevenaar,Hunneveldweg 14A,Zevenaar,Gelderland,6901 HK,,+3188 055 8887,,,,,51.9438021,6.0686639
+86,10086,Rode Kruis Ziekenhuis,nan nan,Beverwijk,Noord-Holland,1941 HB,,,,,Yes,,52.478673,4.6517641
+87,10087,Röpcke-Zweers Ziekenhuis,nan nan,Hardenberg,Overijssel,7772 CE,,,,,Yes,,52.5740127,6.6315538
+88,10088,Sinai Centrum,nan nan,Amstelveen,Noord-Holland,1181,,,,,No,,52.2932477,4.8756974
+89,10089,Sint Antonius Ziekenhuis Nieuwegein,nan nan,Nieuwegein,Utrecht,3431,,,,,,,52.0244236,5.0785922
+90,10090,Sint Franciscus Gasthuis,Kleiweg 500,Rotterdam,Zuid-Holland,3054 EA,,,,,,,51.9441478,4.4659297
+91,10091,Sophia revalidatie,nan nan,Den Haag,Zuid-Holland,2543,,,,,,,52.0409252,4.2660989
+92,10092,Spaarne Gasthuis Haarlem-Noord,nan nan,Haarlem,Noord-Holland,2026,,,,,,,52.4225152,4.6487621
+93,10093,Spaarne Gasthuis Haarlem-Zuid,Boerhaavelaan 22,Haarlem,Noord-Holland,2037,,+31 23 5453545,,,Yes,,52.3674422,4.6488861
+94,10094,Spaarne Gasthuis Heemstede (Dagziekenhuis),Händellaan 2A,Heemstede,Noord-Holland,2101,,+31 23 8908900,,,,,52.3550914,4.6337768
+95,10095,Spaarne Gasthuis Hoofddorp,Spaarnepoort 1,Hoofddorp,Noord-Holland,2132,,+31 23 8908900,,,Yes,,52.3239227,4.6496544
+96,10096,St Antonius Ziekenhuis,nan nan,Utrecht,Utrecht,3543 AB,,088-3203000,,,Yes,,52.1045929,5.0558132
+97,10097,St. Anna Ziekenhuis,nan nan,Geldrop,Noord-Brabant,5664 HK,,,,,,,51.4198141,5.5577363
+98,10098,Ter Schorre,nan nan,Terneuzen,Zeeland,4531 EB,,,,,,,51.3197082,3.8472663
+99,10099,Treant Scheper,Boermarkeweg nan,Emmen,Drenthe,7811,,+31591691911,,,Yes,,52.787265,6.9106726
+100,10100,Universitair Medisch Centrum Groningen,Hanzeplein 1,Groningen,Groningen,9711 KW,,+315 0361 61 61,,,Yes,,53.220414,6.5756466
+101,10101,Universitair Medisch Centrum Utrecht,Heidelberglaan 100,Utrecht,Utrecht,3584,,+31887555555,,,Yes,,52.0878653,5.1781958
+102,10102,Veldwijk,nan nan,Ermelo,Gelderland,3851 GD,,,,,,,52.3058433,5.6064997
+103,10103,VieCuri,nan nan,Venlo,Limburg,5911 GG,,,,,Yes,,51.3551561,6.1521764
+104,10104,Windward Island Emergency Medical Services,Welegen Road nan,Experiment,,,,,,,,,18.0301079,-63.066226
+105,10105,Ziekenhuis Amstelland,Laan van de Helende Meesters nan,Amstelveen,Noord-Holland,1181,,,,,,,52.2936895,4.8721131
+106,10106,Ziekenhuis Rijnstate Velp,President Kennedylaan 100,Velp,Gelderland,6881,,088-0058888,,,No,,51.9865349,5.9780226
+107,10107,Ziekenhuis Rivierenland,nan nan,Tiel,Gelderland,4001,,,,,,,51.8913841,5.4168515
+108,10108,ZorgSaam Ziekenhuis - De Honte,nan nan,Terneuzen,Zeeland,4531 EB,,,,,Yes,,51.3087402,3.8572841
+109,10109,Zorgpark Goes,nan nan,,,,,,,,,,51.4858319,3.9132467
+110,10110,Zuyderland,nan nan,,,,,,,,,,50.8685633,5.9768915
+111,10111,Zuyderland,nan nan,,,,,,,,Yes,,50.9834341,5.8424624

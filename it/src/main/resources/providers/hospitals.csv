@@ -1,0 +1,1138 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,10000,118 Bologna Soccorso,nan nan,Marzabotto,BO,40043,,,,,,,44.3437299,11.2690951
+1,10001,A.S.L.,nan nan,Pergine Valsugana,Trentino-Alto Adige,38057,,,,,,,46.0627348,11.2444781
+2,10002,A.S.L.,nan nan,Pergine Valsugana,Trentino-Alto Adige,38057,,,,,,,46.0629872,11.2442158
+3,10003,A.S.L.,nan nan,Colle di Val d'Elsa,Toscana,53034,,,,,,,43.4106947,11.135165
+4,10004,A.S.L. CN1 - Avis,Piazza Andrea Willy Burgo 1,Verzuolo,Piemonte,12039,,,,,,,44.60195,7.4813442
+5,10005,A.S.L. NA1,nan nan,Napoli,Campania,80127,,,,,,,40.8478584,14.227409
+6,10006,A.S.L. Roma C,nan nan,Roma,Lazio,00181,,,,,,,41.8776857,12.5298555
+7,10007,ANFASS Savona,nan nan,Savona,Liguria,17100,,,,,,,44.3149142,8.4856439
+8,10008,AOVV,nan nan,Chiavenna,Lombardia,23022,,,,,Yes,,46.3226233,9.4001921
+9,10009,APSS Banca del Sangue,nan nan,Trento,Trentino-Alto Adige,38122,,,,,No,,46.0617251,11.1269017
+10,10010,APSS Villa Igea,nan nan,Trento,Trentino-Alto Adige,38122,,,,,,,46.061813,11.1275484
+11,10011,ASL,nan nan,Scandicci,Toscana,50018,,,,,,,43.7644253,11.1830936
+12,10012,ASL,nan nan,Scalea,Calabria,87029,,,,,No,,39.8241042,15.7809218
+13,10013,ASL,nan nan,Montesarchio,Campania,82016,,,,,,,41.0562056,14.6245331
+14,10014,ASL,nan nan,Poggio Mirteto,Lazio,02047,,,,,,,42.2705904,12.6870417
+15,10015,ASL,nan nan,Rende,Calabria,87036,,,,,,,39.3588839,16.2417442
+16,10016,ASL,nan nan,Petilia Policastro,Calabria,88837,,,,,No,,39.1147507,16.7831501
+17,10017,ASL - Corteolona,Via dei Longobardi 4,Corteolona e Genzone,Lombardia,27014,,,,,,,45.1546725,9.3721834
+18,10018,ASL 15 Alta Padovana - Distaccamento Carmignano di Brenta,nan nan,Carmignano di Brenta,Veneto,35010,,,,,,,45.6266725,11.7020772
+19,10019,ASL 5 Unità Cure Primarie,nan nan,Terricciola,Toscana,56030,,,,,,,43.5405701,10.7016994
+20,10020,ASL BI - Presidio sanitario (ex Ospedaletto),nan nan,Valdilana,Piemonte,13835,,,,,,,45.6726811,8.1591287
+21,10021,ASL Bari,nan nan,Bari,Puglia,70122,,,,,No,,41.1365938,16.8418377
+22,10022,ASL Casaccia,Via Anguillarese nan,Roma,Lazio,00185,,,,,,,42.0444536,12.3022279
+23,10023,ASL Caserta Palazzo della salute,nan nan,San Nicola la Strada,Campania,81020,,,,,No,,41.0555128,14.3419016
+24,10024,ASL Cepagatti DSB,Via Piano Ripa nan,Cepagatti,PE,65012,,,,,,,42.3586956,14.0674803
+25,10025,ASL Cirò Marina,Via Palmiro Togliatti nan,Cirò Marina,Calabria,88811,,,,,,,39.3660542,17.1250336
+26,10026,ASL Dipartimento di prevenzione,nan nan,Teramo,TE,64100,,,,,No,,42.6735871,13.7278175
+27,10027,ASL Mandello del Lario,nan nan,Mandello del Lario,Lombardia,23826,,,,,,,45.9182254,9.3225104
+28,10028,ASL NA 1 - Poliambulatorio,nan nan,Napoli,Campania,80125,,,,,No,,40.820024,14.1912676
+29,10029,ASL NA 2 NORD - Distretto 46 Acerra,nan nan,Acerra,Campania,80011,,,,,,,40.9467693,14.3787784
+30,10030,ASL NA1 - Poliambulatorio,nan nan,Napoli,Campania,80125,,,,,No,,40.831155,14.198108
+31,10031,ASL NA1 - Poliambulatorio,nan nan,Napoli,Campania,80132,,,,,No,,40.8305118,14.2466195
+32,10032,ASL NA1 - Poliambulatorio,nan nan,Napoli,Campania,80126,,,,,No,,40.8418316,14.2016262
+33,10033,ASL NA1 Poliambulatorio,nan nan,Napoli,Campania,80141,,,,,No,,40.8586844,14.2722031
+34,10034,ASL RM5 Sede di Palestrina,nan nan,Palestrina,Lazio,00036,,+39 06 95322211,,,No,,41.8392209,12.8881213
+35,10035,ASL TO5,nan nan,Santena,Piemonte,10026,,,,,No,,44.9513694,7.7699919
+36,10036,ASP,nan nan,Crotone,Calabria,88900,,,,,No,,39.0576588,17.1141431
+37,10037,ASP 5 Reggio Calabria - Ex ASL 10 Palmi,nan nan,Palmi,Calabria,89015,,,,,,,38.3778989,15.8696914
+38,10038,ASS4 - Centro territoriale di Tricesimo,nan nan,Tricesimo,Friuli-Venezia Giulia,33019,,,,,No,,46.1582849,13.2245783
+39,10039,ASST Bergamo Ovest,Viale Natale Betelli 2,Dalmine,Lombardia,24044,,,,,,,45.64828,9.6019667
+40,10040,Administration and mortuary,nan nan,Bosa,Sardegna,08013,,,,,,,40.3006894,8.4956226
+41,10041,Ambulatori,nan nan,Artegna,Friuli-Venezia Giulia,33011,,,,,,,46.242117,13.1564266
+42,10042,Ambulatori,nan nan,Lavis,Trentino-Alto Adige,38015,,,,,,,46.1418978,11.1069814
+43,10043,Ambulatorio,nan nan,San Quirico d'Orcia,Toscana,53027,,,,,,,43.0584616,11.603566
+44,10044,Ambulatorio ASL 9 Siena,nan nan,Santa Fiora,Toscana,58037,,,,,,,42.8336795,11.5889376
+45,10045,Ambulatorio Medico,nan nan,Civita,Calabria,87010,,,,,No,,39.8287965,16.3137863
+46,10046,Ambulatorio Policlinico Casilino - Edificio D,Via Casilina 1040,Roma,Lazio,00185,,,,,,,41.8674904,12.5882558
+47,10047,Amedeo di Savoia,nan nan,Torino,Piemonte,10144,,,,,,,45.0887575,7.6596936
+48,10048,Andrea Tortora,nan nan,Pagani,Campania,84016,,,,,,,40.7472555,14.621024
+49,10049,Anthea,nan nan,Bari,Puglia,70122,,,,,,,41.1038554,16.8564099
+50,10050,Arcispedale Sant'Anna,nan nan,Ferrara,FE,44121,,,,,Yes,,44.8014753,11.7000088
+51,10051,Area Malpighi,nan nan,Bologna,BO,40138,,,,,,,44.489767,11.3649961
+52,10052,Area Malpighi,nan nan,Bologna,BO,40138,,,,,,,44.4892451,11.3663723
+53,10053,Area ed edifici Ex Ospedale Psichiatrico,Via Pratozanino nan,Cogoleto,Liguria,16016,,,,,No,,44.394418,8.6235732
+54,10054,Arnaldo Angelucci,nan nan,Subiaco,Lazio,00028,,,,,,,41.9322255,13.0862424
+55,10055,Asl,nan nan,Carignano,Piemonte,10041,,,,,,,44.9054467,7.6758523
+56,10056,Asl,Corso Lodi 94,Milano,Lombardia,20139,,,,,,,45.4425983,9.2185176
+57,10057,Asl 5 Presidio Distrettuale Vecchiano,nan nan,Vecchiano,Toscana,56019,,,,,No,,43.7848792,10.3851504
+58,10058,Associazione Pubblica Assistenza Castello di Serravalle Onlus,Via venticinque Aprile 75,Valsamoggia,BO,40050,,0516704815,,,Yes,,44.4408795,11.0648908
+59,10059,Ausl Cerversi,nan nan,Cattolica,RN,47841,,,,,,,43.9522419,12.7355588
+60,10060,Avis,nan nan,Bergamo,Lombardia,24121,,,,,No,,45.7183006,9.684695
+61,10061,Avis comunale di Casalmaggiore - Associazione volontari italiani sangue,Via Guerrazzi nan,Casalmaggiore,Lombardia,26041,,,,,,,44.9944056,10.4122618
+62,10062,Avis sezione di Platania,nan nan,Platania,Calabria,88040,,,,,,,39.0068851,16.3214929
+63,10063,Azienda Ospedale Piemonte,nan nan,Messina,Sicilia,98123,,,,,,,38.1816969,15.5454678
+64,10064,Azienda Ospedaliera Cardinale Giovanni Panico,nan nan,Tricase,Puglia,73039,,,,,,,39.936623,18.3576239
+65,10065,Azienda Ospedaliera Gravina e Santo Pietro,nan nan,Caltagirone,Sicilia,95041,,,,,,,37.1061523,14.4904143
+66,10066,Azienda Ospedaliera Mellino Mellini,Via delle Battaglie nan,Chiari,Lombardia,25032,,,,,Yes,,45.5389887,9.9336571
+67,10067,Azienda Ospedaliera Ospedale di Circolo di Busto Arsizio,nan nan,Busto Arsizio,Lombardia,21052,,,,,Yes,,45.624518,8.8447564
+68,10068,Azienda Ospedaliera Papardo,nan nan,Messina,Sicilia,98123,,,,,Yes,,38.2653678,15.5955523
+69,10069,Azienda Ospedaliera San Giovanni Addolorata,Via di Santo Stefano Rotondo 5,Roma,Lazio,00184,,06 7705 4503,,,,,41.8851918,12.4980921
+70,10070,Azienda Ospedaliera Sant'Antonio Abate - Gallarate,Via Eusebio Pastori 4,Gallarate,Lombardia,21013,,+39 0331 751111,,,Yes,,45.6576103,8.7916406
+71,10071,Azienda Ospedaliera Universitaria - sassari,nan nan,Sassari,Sardegna,07100,,,,,,,40.7208265,8.5553419
+72,10072,Azienda Ospedaliera Universitaria Federico II,nan nan,Napoli,Campania,80131,,,,,,,40.8677902,14.2225716
+73,10073,"Azienda Ospedaliera Universitaria Policlinico ""Paolo Giaccone""",nan nan,Palermo,Sicilia,90128,,,,,,,38.1049977,13.3626637
+74,10074,Azienda Ospedaliera Universitaria di Careggi,nan nan,Firenze,Toscana,50127,,,,,Yes,,43.8121396,11.2483455
+75,10075,Azienda Ospedaliera Zappatoni,Via Quintiliano Di Vona nan,Cassano d'Adda,Lombardia,20062,,,,,No,,45.5233874,9.5158962
+76,10076,Azienda Ospedaliera di Caserta Sant'Anna e San Sebastiano,nan nan,Caserta,Campania,81100,,,,,Yes,,41.0861206,14.3313619
+77,10077,Azienda Ospedaliera di Padova,Via Nicolò Giustiniani 2,Padova,Veneto,35139,,,,,Yes,,45.4043283,11.887328
+78,10078,Azienda Ospedialiera San Carlo,nan nan,Pescopagano,Basilicata,85020,,,,,,,40.8348974,15.3945379
+79,10079,Azienda Sanitaria Locale,nan nan,Campagna,Campania,84022,,,,,,,40.6678912,15.1014221
+80,10080,Azienda Sanitaria Locale Gavardo,nan nan,Gavardo,Lombardia,25085,,,,,,,45.5822151,10.4374088
+81,10081,Azienda Sanitaria Provinciale Caltanissetta,nan nan,Caltanissetta,Sicilia,93100,,,,,,,37.4920024,14.0438534
+82,10082,Azienda Sanitaria Provinciale Caltanissetta,nan nan,Caltanissetta,Sicilia,93100,,,,,,,37.4832816,14.0604564
+83,10083,Azienda Sanitaria Provinciale Catanzaro Polo Sanitario,nan nan,Chiaravalle Centrale,Calabria,88064,,,,,Yes,,38.6815743,16.4205712
+84,10084,Azienda Sanitaria Provinciale di Palermo,nan nan,Bisacquino,Sicilia,90032,,,,,,,37.7046563,13.2567593
+85,10085,Azienda USL - Casa della Salute,nan nan,Medesano,PR,43014,,,,,,,44.7592424,10.1366605
+86,10086,Azienda USL Toscana Nord Ovest - Distretto Collesalvetti,nan nan,Collesalvetti,Toscana,57014,,,,,,,43.5883926,10.4776807
+87,10087,"Azienda Universitario-Ospedaliera ""Maggiore della Carità""",nan nan,Novara,Piemonte,28100,,,,,Yes,,45.4416489,8.6201327
+88,10088,Azienda ospedaliera Arcispedale Santa Maria Nuova,Viale Risorgimento 80,Reggio nell'Emilia,RE,42121,,,,,Yes,,44.6871708,10.6317061
+89,10089,Azienda ospedaliera Sant'Elia,nan nan,Caltanissetta,Sicilia,93100,,,,,Yes,,37.4914865,14.0303938
+90,10090,Azienda ospedaliere Cannizzaro,nan nan,Catania,Sicilia,95126,,,,,Yes,,37.5448561,15.1133436
+91,10091,Bagno WC,nan nan,Padula,Campania,84034,,,,,,,40.3375999,15.674985
+92,10092,Bassa Val di Cecina,nan nan,Cecina,Toscana,57023,,,,,,,43.3150551,10.5293701
+93,10093,Bezirkskrankenhaus Schlanders - Ospedale di distretto Silandro,Krankenhausstraße 3,Silandro,Trentino-Alto Adige,39028,,,,,Yes,,46.6286962,10.7776997
+94,10094,C.N.S.A.S. Serv.Reg.Emilia Romagna,nan nan,Castelnovo Ne' Monti,RE,42035,,,,,,,44.4523884,10.4671764
+95,10095,CAsa di cura Villa Fiorita,Via Venti Settembre 55,Perugia,Umbria,06123,,+39 075 575981,,,No,,43.1036509,12.3825426
+96,10096,COF Lanzo,nan nan,Alta Valle Intelvi,Lombardia,22024,,,,,,,45.9935262,9.0398079
+97,10097,COT,nan nan,Messina,Sicilia,98123,,,,,,,38.1898283,15.5439559
+98,10098,CRI Cesenatico,nan nan,Cesenatico,FC,47042,,,,,,,44.1989169,12.3964471
+99,10099,Casa Della Salute di Colorno-Torrile,nan nan,Colorno,PR,43052,,,,,,,44.9342253,10.3756501
+100,10100,Casa Di Cura Villa Pini D'Abruzzo,nan nan,Chieti,CH,66100,,,,,,,42.3797246,14.1878767
+101,10101,Casa Serena,nan nan,Brembate di Sopra,Lombardia,24030,,,,,,,45.7209452,9.5842648
+102,10102,Casa Sollievo della Sofferenza,nan nan,San Giovanni Rotondo,Puglia,71013,,,,,,,41.7090351,15.7086633
+103,10103,Casa del Sole,nan nan,Formia,Lazio,04023,,+39 0771 324901,,,No,,41.2520501,13.5890248
+104,10104,Casa della Divina Provvidenza,nan nan,Bisceglie,Puglia,76011,,,,,,,41.2456159,16.498848
+105,10105,"Casa della Divina Provvidenza Ospedale ""Don Uva""",nan nan,Foggia,Puglia,71121,,,,,,,41.4682505,15.524307
+106,10106,Casa della Salute,Via Agostino Paci 1,Sarzana,Liguria,19038,,,,,,,44.1139748,9.9632599
+107,10107,Casa della Salute,Piazzale P. Vaccaro e G. Laurito nan,Lungro,Calabria,87010,,,,,,,39.7284294,16.1420241
+108,10108,Casa della Salute,Piazzale Rita Levi Montalcini nan,Casalecchio di Reno,BO,40033,,,,,,,44.4761092,11.2737471
+109,10109,"Casa della Salute ""Finale Emilia""",Piazza Antonio Gramsci nan,Finale Emilia,MO,41034,,,,,Yes,,44.8332136,11.2973219
+110,10110,Casa della Salute del Comune di Capannori,nan nan,Capannori,Toscana,55014,,,,,,,43.8966205,10.5587567
+111,10111,Casa della salute,nan nan,Treia,Marche,62010,,,,,,,43.3074958,13.315308
+112,10112,Casa della salute,Viale Roma 3,Castel Bolognese,RA,48014,,,,,No,,44.3176656,11.8005193
+113,10113,Casa di Betania Honlus,nan nan,Tricase,Puglia,73039,,,,,,,39.9369155,18.3578131
+114,10114,"Casa di Cura ""Maria Grazia Barone""",nan nan,Foggia,Puglia,71121,,,,,,,41.4566647,15.5470064
+115,10115,"Casa di Cura ""San Raffaele""",nan nan,Sulmona,AQ,67039,,,,,,,42.0723713,13.9116572
+116,10116,"Casa di Cura ""Villa Bianca""",nan nan,Trento,Trentino-Alto Adige,38122,,,,,,,46.0625375,11.1264718
+117,10117,"Casa di Cura ""Villa Tirrena""",nan nan,Livorno,Toscana,57124,,,,,,,43.5377439,10.3070389
+118,10118,"Casa di Cura ""Villa dei Pini""",nan nan,Firenze,Toscana,50122,,,,,No,,43.7594684,11.2334997
+119,10119,Casa di Cura - Padre Pio,nan nan,Adelfia,Puglia,70010,,,,,No,,41.0019213,16.859202
+120,10120,Casa di Cura Ambrosiana,nan nan,Cesano Boscone,Lombardia,20090,,,,,,,45.4494513,9.0898964
+121,10121,Casa di Cura Città di Aprilia,nan nan,Aprilia,Lazio,04011,,,,,,,41.5869133,12.6492127
+122,10122,Casa di Cura Città di Parma,nan nan,Parma,PR,43123,,,,,,,44.785261,10.3386086
+123,10123,Casa di Cura Cobellis,Contrada Badia nan,Vallo della Lucania,Campania,84078,,+39 0974 75888,,,,,40.2311585,15.2423013
+124,10124,Casa di Cura Dottor Pederzoli,Via Monte Baldo 24,Peschiera del Garda,Veneto,37019,,+39 045 644 91 11,,,Yes,,45.4435685,10.7056203
+125,10125,Casa di Cura La Madonnina,Via Quadronno 29,Milano,Lombardia,20122,,,,,,,45.4548598,9.1948442
+126,10126,Casa di Cura Liotti,Via Serafino Siepi 11,Perugia,Umbria,06123,,+39 075 5721647,,,No,,43.1132806,12.3806035
+127,10127,Casa di Cura Maddonna della Salute,nan nan,Porto Viro,Veneto,45014,,,,,,,45.0259392,12.2229745
+128,10128,Casa di Cura Montanari,Via Giuseppe Montanari 1,Morciano di Romagna,RN,47833,,,,,,,43.9137281,12.6479464
+129,10129,Casa di Cura Montevergine,nan nan,Mercogliano,Campania,83013,,,,,,,40.9226493,14.7457917
+130,10130,Casa di Cura Nuova ITOR,nan nan,Roma,Lazio,00157,,,,,,,41.9244238,12.54221
+131,10131,Casa di Cura Ospedale Internazionale Villa Benti,nan nan,Napoli,Campania,80122,,,,,,,40.8367678,14.2273975
+132,10132,Casa di Cura Papa Giovanni XXIII,nan nan,Monastier di Treviso,Veneto,31050,,,,,,,45.6581811,12.4262411
+133,10133,Casa di Cura Privata Città di BRA,Strada Montenero 1,Bra,Piemonte,12042,,+39,,,No,,44.6972238,7.8591479
+134,10134,Casa di Cura Privata Villa Santa Apollonia,nan 37/39,Bergamo,Lombardia,24121,,,,,No,,45.7136855,9.6787998
+135,10135,Casa di Cura Privata di S. M. Maddalena,Via Gorizia 2,Occhiobello,Veneto,45030,,+39 0425 768 411,,,,,44.8922017,11.6110905
+136,10136,Casa di Cura Privata “Villa Serena”,nan nan,Città Sant'Angelo,PE,65013,,,,,,,42.519816,14.1114848
+137,10137,Casa di Cura Quarenghi,nan nan,San Pellegrino Terme,Lombardia,24016,,,,,,,45.8367858,9.6632997
+138,10138,Casa di Cura San Giorgio,nan nan,Pordenone,Friuli-Venezia Giulia,33170,,,,,No,,45.9459036,12.660107
+139,10139,Casa di Cura San Giovanni,Via Matteo Civitali 71,Milano,Lombardia,20151,,,,,,,45.4742552,9.1287649
+140,10140,Casa di Cura San Rossore,Viale delle Cascine 152/F,Pisa,Toscana,56125,,+39 050 586111,,,No,,43.7246775,10.3744385
+141,10141,Casa di Cura Sant'Anna,nan nan,Crotone,Calabria,88900,,,,,No,,39.0557448,17.0893051
+142,10142,Casa di Cura Sant'Anna,nan nan,Crotone,Calabria,88900,,,,,Yes,,39.0619303,17.1301854
+143,10143,Casa di Cura Toniolo,Via Toscana nan,Bologna,BO,40141,,,,,,,44.4668955,11.3708864
+144,10144,Casa di Cura Villa Cintia,nan nan,Napoli,Campania,80126,,,,,No,,40.8449265,14.2043869
+145,10145,Casa di Cura Villa Esther,Via Gino Di Biase 18,Bojano,Molise,86021,,+39 0874 751001,,,,,41.4882342,14.4733949
+146,10146,Casa di Cura Villa Gemma,Corso Giuseppe Zanardelli nan,Gardone Riviera,Lombardia,25083,,,,,No,,45.62508,10.5730675
+147,10147,Casa di Cura Villa Maria,Viale Principe di Piemonte 4,Campobasso,Molise,86100,,+39 0874 91723,,,No,,41.5537291,14.6596854
+148,10148,Casa di Cura Villa Montallegro,nan nan,Genova,Liguria,16145,,,,,,,44.4021509,8.9644858
+149,10149,Casa di Cura Villa Pini,nan nan,Civitanova Marche,Marche,62012,,,,,,,43.3129766,13.7186265
+150,10150,Casa di Cura Villa Salus,Via Ulderico Levi 7,Reggio nell'Emilia,RE,42121,,,,,,,44.696659,10.6217476
+151,10151,Casa di Cura Villa dei Pini,nan nan,Anzio,Lazio,00042,,,,,,,41.4638283,12.615815
+152,10152,Casa di Cura del Policlinico,nan nan,Milano,Lombardia,20144,,,,,,,45.4597641,9.1615106
+153,10153,Casa di Cura privata Villa Berica,nan nan,Vicenza,Veneto,36100,,,,,,,45.5485867,11.5595324
+154,10154,Casa di Riposo,nan nan,Portogruaro,Veneto,30026,,,,,,,45.7788885,12.83837
+155,10155,Casa di Riposo,nan nan,Albisola Superiore,Liguria,17011,,,,,,,44.3384539,8.5099665
+156,10156,Casa di Riposo,nan nan,Sacile,Friuli-Venezia Giulia,33077,,,,,,,45.9572943,12.4990354
+157,10157,"Casa di Riposo ""I.R.C.E.R. Villa Cozza""",nan nan,Macerata,Marche,62100,,,,,,,43.2939799,13.4610143
+158,10158,"Casa di Riposo ""San Giuseppe""",nan nan,San Casciano in Val di Pesa,Toscana,50026,,,,,,,43.6620276,11.1919882
+159,10159,Casa di Riposo di Lonigo,nan nan,Lonigo,Veneto,36045,,,,,,,45.3854327,11.3995762
+160,10160,"Casa di cura ""Domus Nova""",nan nan,Ravenna,RA,48121,,,,,No,,44.4203226,12.1844769
+161,10161,"Casa di cura ""Il Pigneto""",nan nan,Velletri,Lazio,00049,,,,,,,41.6911799,12.7901812
+162,10162,"Casa di cura ""Le Betulle""",nan nan,Appiano Gentile,Lombardia,22043,,,,,,,45.7285659,8.9968428
+163,10163,"Casa di cura ""Villa Regina""",nan nan,Arco,Trentino-Alto Adige,38062,,,,,,,45.9173679,10.8873211
+164,10164,"Casa di cura ""Villa Verde""",nan nan,Taranto,Puglia,74121,,,,,,,40.4479911,17.2754303
+165,10165,"Casa di cura ""Villa Vialarda""",nan nan,Biella,Piemonte,13900,,,,,,,45.5733733,8.0471369
+166,10166,Casa di cura Cristo Re,nan nan,Messina,Sicilia,98123,,,,,,,38.1961845,15.5489888
+167,10167,Casa di cura Eremo,nan nan,Arco,Trentino-Alto Adige,38062,,,,,,,45.9194163,10.8699417
+168,10168,Casa di cura Monte Imperatore,nan nan,Noci,Puglia,70015,,+39 080 4978616,,,,,40.7478711,17.0198165
+169,10169,Casa di cura San Camillo,nan nan,Cremona,Lombardia,26100,,,,,,,45.1376214,10.0386431
+170,10170,Casa di cura Sant'Alessandro,nan nan,Roma,Lazio,00137,,+39 06 41400356,,,,,41.9657846,12.5982714
+171,10171,Casa di cura Sant'Anna,nan nan,Cagliari,Sardegna,09127,,,,,,,39.2260305,9.1175083
+172,10172,Casa di cura Santa Rita,nan nan,Bari,Puglia,70122,,,,,No,,41.087333,16.8654405
+173,10173,Casa di cura Santa Rita,nan nan,Bari,Puglia,70122,,,,,No,,41.0878101,16.8660121
+174,10174,Casa di cura Solatrix,nan nan,Rovereto,Trentino-Alto Adige,38068,,,,,No,,45.8972416,11.0456741
+175,10175,Casa di cura Villa Fiorita,nan nan,Sassuolo,MO,41049,,,,,,,44.5377236,10.792875
+176,10176,Casa di cura Villa S. Giuliana,nan nan,Verona,Veneto,37128,,,,,No,,45.4682784,10.9999531
+177,10177,Casa di cura Villa Serena,nan nan,Piossasco,Piemonte,10045,,,,,,,44.9913162,7.4569762
+178,10178,Casa di cura policlinica Villa Verde,nan nan,Reggio nell'Emilia,RE,42121,,,,,,,44.680019,10.6191873
+179,10179,Casa di riposo  Villa San Fortunato,Via Gerbida 73,Casal Cermelli,Piemonte,15072,,,,,,,44.8376057,8.621418
+180,10180,Casa di riposo sant'antonio pucci,nan nan,Viareggio,Toscana,55049,,,,,,,43.8619817,10.2489609
+181,10181,Centrale 118 e Nue 112,nan nan,Saluzzo,Piemonte,12037,,,,,,,44.6533328,7.4695647
+182,10182,Centro Cardiologico Monzino,nan nan,Milano,Lombardia,20138,,,,,Yes,,45.4436829,9.262571
+183,10183,Centro Chirurgico Toscano,Via dei Lecci 22,Arezzo,Toscana,52100,,+39 0575 3335,,,,,43.4803557,11.8799029
+184,10184,Centro Cuore Morgagni,nan nan,Pedara,Sicilia,95030,,,,,No,,37.6172558,15.0530398
+185,10185,Centro Cura e Salute,nan nan,Sassari,Sardegna,07100,,,,,,,40.8184864,8.4631788
+186,10186,Centro Dialisi,nan nan,Piario,Lombardia,24020,,,,,,,45.890144,9.918282
+187,10187,Centro Iperbarico,Via Augusto Torre 3,Ravenna,RA,48121,,,,,Yes,,44.4105928,12.1640422
+188,10188,Centro Medicina Nucleare Italiano Villa Bianca,nan nan,Roma,Lazio,00198,,,,,,,41.9249363,12.5113289
+189,10189,Centro Medico,nan nan,Monza,Lombardia,20900,,,,,,,45.6160419,9.2814604
+190,10190,Centro Radiologico Polispecialistico dei Laghi,nan nan,Comabbio,Lombardia,21020,,,,,No,,45.7688964,8.6780428
+191,10191,Centro Regionale del Lazio per i Trapianti e le patologie collegate,nan nan,Roma,Lazio,00133,,,,,,,41.8537269,12.6348934
+192,10192,Centro Riabilitativo Polifunzionale T. Borsalino,Piazzale Ravazzano 3,Alessandria,Piemonte,15121,,+39 0131 206111,,,,,44.9388084,8.6155674
+193,10193,Centro Riabilitativo Polifunzionale T. Borsalino,Piazzale Ravazzoni 3,Alessandria,Piemonte,15121,,+39 0131 206111,,,,,44.9416714,8.6181536
+194,10194,Centro Sanitario Polifunzionale Maraschin-Zannini,nan nan,Sandrigo,Veneto,36066,,,,,,,45.6565592,11.6014482
+195,10195,Centro Sant'Ambrogio - Fatebenefratelli,nan nan,Cernusco sul Naviglio,Lombardia,20063,,,,,No,,45.5221071,9.3445865
+196,10196,Centro Servizi Socio Sanitari Guido de Rossignoli,Via Cao del Mondo 1,Camposampiero,Veneto,35012,,+39049 9822232,,,,,45.5631351,11.9286291
+197,10197,Centro Socio Riabilitativo,Via Lampugnana nan,Rottofreno,PC,29010,,,,,,,45.0519172,9.5961118
+198,10198,Centro Traumatologico Ortopedico,nan nan,Palermo,Sicilia,90146,,,,,,,38.1520733,13.3408733
+199,10199,Centro di Assistenza Primaria (CAP),Via San Carlo nan,Arona,Piemonte,28041,,,,,,,45.761729,8.558587
+200,10200,Centro di Medicina,Viale della Repubblica 10b,Villorba,Veneto,31020,,+39 042 26 98 111,,,No,,45.6987258,12.2556582
+201,10201,Centro di Protonterapia,Via al Desert 14,Trento,Trentino-Alto Adige,38122,,,,,,,46.0497596,11.1149643
+202,10202,"Centro di Riabilitazione Intensiva Ospedaliera ""Santa Rita da Cascia""",nan nan,Cascia,Umbria,06043,,,,,No,,42.7155228,13.0145382
+203,10203,Centro di Riabilitazione Santo Stefano,Viale 30 giugno nan,Tolentino,Marche,62029,,,,,,,43.2136016,13.280722
+204,10204,"Centro di Riabilitazione Santo Stefano ""Venerabile Marcucci""",nan nan,Ascoli Piceno,Marche,63100,,,,,,,42.8525401,13.6234189
+205,10205,Centro di Riabilitazione Villa San Pietro,nan nan,Arco,Trentino-Alto Adige,38062,,+39 0464 516839,,,No,,45.915737,10.8898856
+206,10206,"Centro di riabilitazione ""La Nostra Famiglia""",nan nan,Vedano Olona,Lombardia,21040,,+39 0332 866080,,,,,45.7707221,8.8947739
+207,10207,Centro polifunzionale di Valeggio sul Mincio - ULS22,Via Santa Maria Crocefissa nan,Valeggio sul Mincio,Veneto,37067,,,,,No,,45.357959,10.7422019
+208,10208,Cittadella Socio Sanitaria,nan nan,Cavarzere,Veneto,30014,,,,,,,45.1380574,12.0916747
+209,10209,Città della salute,nan nan,Gambettola,FC,47035,,,,,,,44.1207198,12.3401826
+210,10210,Città di Alessandria Policlinico di Monza,Via Vittorio Moccagatta 30,Alessandria,Piemonte,15121,,+39 0131 314500,,,No,,44.9132701,8.6370874
+211,10211,Clinic Center,nan nan,Napoli,Campania,80125,,,,,No,,40.8370608,14.1869893
+212,10212,Clinic center Hera,nan nan,Giugliano in Campania,Campania,80014,,,,,,,40.9392146,14.2041288
+213,10213,Clinica Castelli,nan nan,Bergamo,Lombardia,24121,,,,,,,45.6956478,9.6586078
+214,10214,Clinica Città di Roma,Via Francesco Maidalchini 20,Roma,Lazio,00152,,+39 06 58471,,,,,41.8748667,12.456245
+215,10215,Clinica Eporediese,Via Castiglia 27,Ivrea,Piemonte,10015,,,,,,,45.470776,7.8663051
+216,10216,Clinica Giovanni Battista Morgagni,Via del Bosco 105,Catania,Sicilia,95125,,+39 800 464332,,,No,,37.5335783,15.0799285
+217,10217,Clinica LAY,nan nan,Cagliari,Sardegna,09124,,,,,,,39.2197333,9.1103824
+218,10218,Clinica La Quiete,nan nan,Varese,Lombardia,21100,,,,,No,,45.8212494,8.8143317
+219,10219,Clinica Mater Dei,nan nan,Roma,Lazio,00197,,,,,,,41.9243311,12.4878259
+220,10220,Clinica Privata,nan nan,Roma,Lazio,00162,,,,,,,41.9153673,12.5172838
+221,10221,Clinica S. Francesco,nan nan,Foggia,Puglia,71121,,,,,,,41.4436009,15.5447607
+222,10222,Clinica San Carlo,nan nan,Paderno Dugnano,Lombardia,20037,,,,,,,45.5724163,9.157462
+223,10223,Clinica San Clemente,nan nan,Mantova,Lombardia,46100,,,,,,,45.1476196,10.7707543
+224,10224,Clinica San Felice,nan nan,Pomigliano d'Arco,Campania,80038,,,,,,,40.9141897,14.402393
+225,10225,Clinica San Gaudenzio,Via Enrico Bottini 3,Novara,Piemonte,28100,,+39 0321 3831,,,,,45.4505753,8.6162213
+226,10226,Clinica San Marco,nan nan,Latina,Lazio,04100,,,,,,,41.4623292,12.9025464
+227,10227,Clinica San Michele,nan nan,Maddaloni,Campania,81024,,,,,Yes,,41.0395541,14.3741242
+228,10228,Clinica Sanatrix,nan nan,Roma,Lazio,00198,,,,,,,41.9305036,12.5141645
+229,10229,Clinica Sant'Anna,nan nan,Casale Monferrato,Piemonte,15033,,,,,No,,45.1321594,8.453035
+230,10230,Clinica Santa Maria,nan nan,Bari,Puglia,70122,,,,,,,41.1087585,16.8629247
+231,10231,Clinica Santa Rita,nan nan,Montecatini Terme,Toscana,51016,,,,,,,43.8822338,10.7670732
+232,10232,Clinica Stella Maris,nan nan,San Benedetto del Tronto,Marche,63074,,,,,No,,42.9546343,13.8740824
+233,10233,Clinica Villa Benedetta,nan nan,Roma,Lazio,00185,,,,,,,41.901164,12.4248856
+234,10234,Clinica Villa S.Elena,nan nan,Cagliari,Sardegna,09128,,,,,,,39.2263946,9.1257837
+235,10235,Clinica Villa Stabia,nan nan,Castellammare di Stabia,Campania,80053,,,,,No,,40.7035803,14.490256
+236,10236,Clinica di Riabilitazione Villa Adria,nan nan,Ancona,Marche,60122,,,,,,,43.6140595,13.4396433
+237,10237,Clinica privata Villalba,Via di Roncrio nan,Bologna,BO,40136,,,,,,,44.4694903,11.3368055
+238,10238,Co.Me.Te. Cooperativa Medici del Territorio - Societa' Cooperativa a R. L.,Via Don Paolo Antonini nan,Casalmaggiore,Lombardia,26041,,,,,,,44.9891836,10.4239116
+239,10239,Complesso Integrato Columbus,nan nan,Roma,Lazio,00136,,,,,,,41.927874,12.4301188
+240,10240,Complesso Ospedaliero di Noventa Vicentina,nan nan,Noventa Vicentina,Veneto,36025,,,,,Yes,,45.2922038,11.5355714
+241,10241,"Complesso Socio-Sanitario ""Ai Colli""",nan nan,Padova,Veneto,35139,,,,,,,45.4014393,11.8446518
+242,10242,Conference Hall,nan nan,Castellana Grotte,Puglia,70013,,,,,,,40.8836442,17.1568182
+243,10243,Corberi,nan nan,Limbiate,Lombardia,20812,,,,,,,45.6104641,9.124474
+244,10244,Corpo Nazionale Soccorso Alpino Speleologico,nan nan,Fornovo di Taro,PR,43045,,,,,,,44.6929827,10.1034569
+245,10245,Cottolengo,nan nan,Pinerolo,Piemonte,10064,,,,,No,,44.8859266,7.3201834
+246,10246,Country Hospital - Guardia Medica,nan nan,Modigliana,FC,47015,,,,,,,44.1562157,11.7947439
+247,10247,Croce Bianca,nan nan,Fossano,Piemonte,12045,,,,,,,44.5426752,7.7214913
+248,10248,Croce Bianca Albenga,Piazza Francesco Petrarca 17,Albenga,Liguria,17031,,,,,,,44.0470177,8.2147739
+249,10249,Croce Bianca Laigueglia,Piazza San Matteo 1,Laigueglia,Liguria,17053,,,,,ambulance_station,,43.9798135,8.1579384
+250,10250,Croce Bianca Savona,Corso Giuseppe Mazzini 58 RS,Savona,Liguria,17100,,,,,,,44.3048814,8.4800943
+251,10251,Croce Rossa,nan nan,Firenze,Toscana,50142,,,,,,,43.7645194,11.1814255
+252,10252,Croce Rossa Italiana,nan nan,Busca,Piemonte,12022,,,,,,,44.5182441,7.4781571
+253,10253,Croce Rossa Italiana - Delegazione di Paesana,Via Erasca 14,Paesana,Piemonte,12034,,,,,Yes,,44.6784671,7.2739134
+254,10254,Croce Rossa Italiana - L'Aquila,Viale della Croce Rossa 14,L'Aquila,AQ,67100,,+39 0862 26061,,,,,42.3570974,13.404754
+255,10255,Croce Rossa Italiana - Medicina,nan nan,Medicina,BO,40059,,,,,Yes,,44.4742197,11.635156
+256,10256,Croce Rossa Italiana - Palestrina,nan nan,Palestrina,Lazio,00036,,,,,,,41.8390222,12.8877681
+257,10257,Croce Rossa Italiana Comitato di Bardolino Baldo Garda,Via Gardesana dell'Acqua 10,Bardolino,Veneto,37011,,+39 045 6212133,,,Yes,,45.5534274,10.7196873
+258,10258,Croce verde,Via Malfatti 50,Adria,Veneto,45011,,,,,,,45.0585521,12.0485907
+259,10259,Dalla Rosa Prati - Poliambulatorio,nan nan,Parma,PR,43121,,,,,,,44.8063452,10.2996632
+260,10260,Dipartimento di Salute Mentale A.S.S. 4,nan nan,Udine,Friuli-Venezia Giulia,33100,,,,,,,46.0378972,13.2210773
+261,10261,Distretto Sanitario,nan nan,Meta,Campania,80062,,,,,No,,40.6440355,14.4142722
+262,10262,Distretto Sanitario,nan nan,Francavilla al Mare,CH,66023,,+39 0854910350,,,,,42.4246358,14.2746006
+263,10263,Distretto Sanitario 3 di Cerea,Via Monte Carega 23,Cerea,Veneto,37053,,+39044230500,,,,,45.1907072,11.2231994
+264,10264,Distretto Sanitario 59,nan nan,Sant'Agnello,Campania,80065,,,,,,,40.6325971,14.3986348
+265,10265,Distretto Sanitario ASL n.5 Bassa Friulana,nan nan,Palmanova,Friuli-Venezia Giulia,33057,,,,,,,45.9084137,13.3103099
+266,10266,Distretto Sanitario Codroipo,nan nan,Codroipo,Friuli-Venezia Giulia,33033,,,,,No,,45.9633343,12.9963537
+267,10267,Distretto Sanitario di Udine,nan nan,Udine,Friuli-Venezia Giulia,33100,,,,,,,46.0670278,13.2434365
+268,10268,Distretto Socio Sanitario,nan nan,Ozzano dell'Emilia,BO,40064,,,,,No,,44.4438478,11.4737536
+269,10269,Distretto Socio Sanitario ASL2 San Vito,nan nan,Lucca,Toscana,55100,,,,,No,,43.8550051,10.5332063
+270,10270,Distretto Socio Sanitario Conegliano,nan nan,Conegliano,Veneto,31015,,,,,,,45.8754372,12.2954728
+271,10271,Distretto sanitario,Piazzale Vittoria nan,Piovene Rocchette,Veneto,36013,,,,,No,,45.7622211,11.4316356
+272,10272,Don Gnocchi,nan nan,Tricarico,Basilicata,75019,,,,,,,40.6183178,16.1487297
+273,10273,Don Gnocchi - Santa Maria alla Pineta,nan nan,Massa,Toscana,54100,,,,,,,44.0181718,10.0841345
+274,10274,Don Orione,nan nan,Bergamo,Lombardia,24121,,,,,,,45.7159318,9.6929398
+275,10275,Dono Svizzero,nan nan,Formia,Lazio,04023,,,,,Yes,,41.2616779,13.6182661
+276,10276,Ecomedica,nan nan,Empoli,Toscana,50053,,,,,,,43.7180723,10.9608991
+277,10277,Eliporto di Emergenza,Via Valle Pupina nan,Padula,Campania,84034,,,,,Yes,,40.3453804,15.6552511
+278,10278,"Elisuperficie ""Ospedale Chiello""",nan nan,Piazza Armerina,Sicilia,94015,,,,,,,37.397868,14.3797148
+279,10279,"Ente Ecclesiastico Ospedale Generale regionale ""F. Miulli""",nan nan,Acquaviva delle Fonti,Puglia,70021,,,,,Yes,,40.863651,16.8025682
+280,10280,Eremo di Lanzo,nan nan,Lanzo Torinese,Piemonte,10074,,,,,,,45.2786997,7.4963556
+281,10281,European Hospital,nan nan,Roma,Lazio,00185,,,,,,,41.8543882,12.4371628
+282,10282,Evangelico Internazionale,nan nan,Genova,Liguria,16125,,,,,,,44.4142921,8.942673
+283,10283,Ex Ospedale Militare,Via Raimondo Palmerio nan,Piacenza,PC,29121,,,,,No,,45.0482408,9.6844711
+284,10284,Ex Ospedale Umberto Primo,nan nan,Frosinone,Lazio,03100,,,,,,,41.6383179,13.3476944
+285,10285,Ex Ospedale di Toritto,nan nan,Toritto,Puglia,70020,,,,,,,41.0004432,16.6789321
+286,10286,Ex Silos,nan nan,Portogruaro,Veneto,30026,,,,,,,45.7700433,12.839257
+287,10287,Felettino,nan nan,La Spezia,Liguria,19121,,,,,,,44.1328124,9.8446324
+288,10288,Fondazione Elisabetta Germani,nan nan,Cingia de' Botti,Lombardia,26042,,,,,,,45.0851551,10.2600689
+289,10289,Fondazione Gaetano e Piera Borghi,nan nan,Brebbia,Lombardia,21020,,,,,,,45.8326816,8.6595844
+290,10290,Fondazione Istituto Giuseppe Giglio,nan nan,Cefalù,Sicilia,90015,,,,,,,38.0276187,14.0124339
+291,10291,Fondazione Raimondi Francesco,nan nan,Gorla Minore,Lombardia,21055,,+39 0331 601133,,,,,45.6360325,8.8990176
+292,10292,Fondazione Salvatore Maugeri,nan nan,Lumezzane,Lombardia,25065,,,,,,,45.6520157,10.2515127
+293,10293,Fondazione Santa Lucia,nan nan,Roma,Lazio,00147,,,,,,,41.8392296,12.5152706
+294,10294,Fondazione Seràgnoli - Hospice Bentivoglio,nan nan,Bentivoglio,BO,40010,,,,,,,44.6373694,11.4112599
+295,10295,Francesco Lastaria,nan nan,Lucera,Puglia,71036,,,,,,,41.513959,15.332513
+296,10296,Franz-Tappeiner-Krankenhaus - Ospedale Franz Tappeiner,nan nan,Merano,Trentino-Alto Adige,39012,,+39 0473 263333,,,Yes,,46.6763855,11.1503578
+297,10297,Fratellanza popolare,nan nan,San Vito dei Normanni,Puglia,72019,,,,,,,40.6578769,17.7132936
+298,10298,Fraternità di Misericordia Sinnai,Via Giambattista Tiepolo 20,Sinnai,Sardegna,09048,,,,,,,39.3037279,9.1978952
+299,10299,Gaetano Rummo,nan nan,Benevento,Campania,82100,,,,,Yes,,41.1200476,14.7934953
+300,10300,Guardia Medica,Via Sannita nan,Airola,Campania,82011,,,,,No,,41.0626929,14.5600547
+301,10301,Guardia Medica,nan nan,Platania,Calabria,88040,,,,,,,39.0044346,16.3188145
+302,10302,Guardia Medica,nan nan,Vallo della Lucania,Campania,84078,,,,,,,40.2323733,15.2704624
+303,10303,Guardia Medica,nan nan,San Donaci,Puglia,72025,,,,,No,,40.4483964,17.9223583
+304,10304,Guardia Medica,nan nan,Casacalenda,Molise,86043,,,,,,,41.7400048,14.8514876
+305,10305,Guardia Medica,nan nan,Gualtieri Sicaminò,Sicilia,98040,,,,,,,38.1638691,15.3160287
+306,10306,Guardia Medica,nan nan,Pozzomaggiore,Sardegna,07018,,,,,No,,40.3962852,8.6576813
+307,10307,Guardia Medica,nan nan,Chiaramonte Gulfi,Sicilia,97012,,,,,Yes,,37.0374983,14.6806071
+308,10308,Guardia Medica,nan nan,Mazzarrone,Sicilia,95040,,,,,,,37.0889143,14.5523747
+309,10309,Guardia Medica,nan nan,Ragalna,Sicilia,95030,,,,,,,37.6355288,14.9430954
+310,10310,Guardia Medica - VV. UU.,nan nan,Padula,Campania,84034,,,,,,,40.3450295,15.6566575
+311,10311,Guardia medica,Via Roma nan,Cefalù,Sicilia,90015,,,,,,,38.0346921,14.0215952
+312,10312,Guardia medica,Via G. G. D'Amore nan,Piedimonte Matese,Campania,81016,,+39 0823 911196,,,,,41.3550998,14.3756372
+313,10313,Guglielmo Da Saliceto,nan nan,Piacenza,PC,29121,,,,,,,45.0542255,9.6816219
+314,10314,Guglielmo da Saliceto,nan nan,Piacenza,PC,29121,,,,,Yes,,45.0554897,9.6792249
+315,10315,Habilita,nan nan,Ciserano,Lombardia,24040,,,,,,,45.5904558,9.6050186
+316,10316,Habilita San Marco s.p.a. - sede,nan nan,Bergamo,Lombardia,24121,,,,,,,45.6986115,9.6673668
+317,10317,Habilita San Marco s.p.a. - sezione,nan nan,Bergamo,Lombardia,24121,,,,,,,45.6995106,9.6688559
+318,10318,Hospice,nan nan,Como,Lombardia,22100,,,,,,,45.8020094,9.1023034
+319,10319,Hospice Villa Speranza,nan nan,Roma,Lazio,00168,,,,,,,41.9314352,12.4266147
+320,10320,Humanitas Mater Domini,Via Gerenzano 2,Castellanza,Lombardia,21053,,+39 0331 476111,,,Yes,,45.6102548,8.9072244
+321,10321,Hôpital régional d'Aosta Umberto Parini,nan nan,Aosta,AO,11100,,,,,,,45.7412289,7.3124688
+322,10322,I.C.O.T.,Via Franco Faggiana 1668,Latina,Lazio,04100,,,,,,,41.4431978,12.900914
+323,10323,I.N.I. Istituto Traumatologico Italiano,Via di Sant'Anna nan,Grottaferrata,Lazio,00046,,+39 06 942851,,,,,41.7782619,12.6627296
+324,10324,I.R.S.T.,nan nan,Meldola,FC,47014,,,,,,,44.1251359,12.0645184
+325,10325,IDI (Istituto Dermopatico dell'Immacolata),nan nan,Roma,Lazio,00165,,,,,,,41.90155,12.4293134
+326,10326,IRCCS Fondazione Pascale - Day Hospital,nan nan,Napoli,Campania,80131,,,,,,,40.8618591,14.2219151
+327,10327,IRCCS Fondazione Pascale - Degenze,nan nan,Napoli,Campania,80131,,,,,,,40.862188,14.2231753
+328,10328,IRCCS Fondazione Pascale - Palazzina scientifica,nan nan,Napoli,Campania,80131,,,,,,,40.8628586,14.2214372
+329,10329,IRCCS Saverio De Bellis,nan nan,Castellana Grotte,Puglia,70013,,,,,,,40.8843447,17.1558338
+330,10330,IRCCS Stella Maris,nan nan,Pisa,Toscana,56128,,,,,No,,43.6084126,10.2919622
+331,10331,IRCSS Centro Neurolesi Bonino - Pulejo,nan nan,Messina,Sicilia,98123,,,,,,,38.2064704,15.5185022
+332,10332,IRCSS Neuromed,nan nan,Pozzilli,Molise,86077,,,,,,,41.5145274,14.0604839
+333,10333,Infermeria Presidiaria di Augusta,nan nan,Augusta,Sicilia,96011,,,,,,,37.2204895,15.2229864
+334,10334,International Medical Center,nan nan,Livigno,Lombardia,23030,,,,,,,46.5526516,10.132437
+335,10335,Ipab - Centro Residenziale per Anziani A. Danielato,nan nan,Cavarzere,Veneto,30014,,,,,No,,45.1360717,12.0902153
+336,10336,Istituti Clinici Scientifici Maugeri,Via Crotto Roncaccio nan,Tradate,Lombardia,21049,,,,,,,45.7200646,8.9112962
+337,10337,Istituti Clinici Scientifici Maugeri,Via Crotto Roncaccio nan,Tradate,Lombardia,21049,,,,,,,45.7197308,8.9110508
+338,10338,Istituti Clinici Zucchi,Via Bartolomeo Zucchi 24,Monza,Lombardia,20900,,+39 039 83831,,,,,45.5859191,9.2721905
+339,10339,Istituti Ospedalieri Carlo Poma,nan nan,Mantova,Lombardia,46100,,,,,Yes,,45.1491169,10.7727399
+340,10340,Istituto Auxologico Piancavallo,nan nan,Oggebbio,Piemonte,28824,,,,,,,46.0092136,8.6288705
+341,10341,Istituto Clinico Beato Matteo,Corso Pavia 84,Vigevano,Lombardia,27029,,,,,,,45.3070928,8.8702096
+342,10342,Istituto Clinico Città Studi,nan nan,Milano,Lombardia,20133,,,,,Yes,,45.4854733,9.2247518
+343,10343,Istituto Clinico Città Studi,nan nan,Milano,Lombardia,20133,,,,,Yes,,45.4849189,9.2256971
+344,10344,Istituto Clinico Città di Brescia,nan nan,Brescia,Lombardia,25123,,,,,,,45.5533956,10.2265245
+345,10345,Istituto Clinico Humanitas,nan nan,Pieve Emanuele,Lombardia,20090,,,,,,,45.37137,9.1673424
+346,10346,Istituto Clinico Porta Sole,Via del Giochetto 49,Perugia,Umbria,06123,,+39 075 575999,,,No,,43.1143417,12.4030495
+347,10347,Istituto Clinico Sant'Ambrogio,nan nan,Milano,Lombardia,20149,,,,,,,45.4845039,9.1529274
+348,10348,Istituto Clinico Sant'Anna,nan nan,Brescia,Lombardia,25123,,,,,,,45.5544435,10.1804604
+349,10349,Istituto Clinico Valle d'Aosta,nan nan,Saint-Pierre,AO,11010,,,,,,,45.7176776,7.2410701
+350,10350,Istituto Don Gnocchi,nan nan,Firenze,Toscana,50142,,,,,,,43.7583373,11.2067426
+351,10351,Istituto Europeo di Oncologia,Via Giuseppe Ripamonti 435,Milano,Lombardia,20141,,+39 02 574891,,,,,45.4153449,9.2086346
+352,10352,Istituto Fisioterapico di Riabilitazione Clara Franceschini,nan nan,Sabaudia,Lazio,04016,,,,,,,41.2516619,13.0503933
+353,10353,Istituto Nazionale dei Tumori,nan nan,Milano,Lombardia,20133,,,,,,,45.4743844,9.2305318
+354,10354,Istituto Neurologico Carlo Besta,nan nan,Milano,Lombardia,20133,,,,,,,45.4771307,9.2302239
+355,10355,Istituto Oncologico Veneto,nan nan,Padova,Veneto,35139,,,,,,,45.4033973,11.893687
+356,10356,Istituto Ortopedico Galeazzi,nan nan,Milano,Lombardia,20161,,,,,,,45.5226256,9.1738263
+357,10357,Istituto Ortopedico Rizzoli - Ospedale,nan nan,Bologna,BO,40136,,,,,,,44.4814033,11.343263
+358,10358,Istituto Ortopedico Rizzoli - Poliambulatorio - Centro di Ricerca,nan nan,Bologna,BO,40136,,,,,,,44.4763167,11.3414161
+359,10359,Istituto Ortopedico del Mezzogiorno d'Italia,nan nan,Reggio di Calabria,Calabria,89125,,,,,No,,38.1144558,15.6691779
+360,10360,Istituto Ospedaliero di Sospiro,nan nan,Sospiro,Lombardia,26048,,,,,,,45.1078413,10.1601436
+361,10361,Istituto Ospedaliero di Sospiro,nan nan,Sospiro,Lombardia,26048,,,,,,,45.1078392,10.1600465
+362,10362,Istituto Policlinico San Donato,nan nan,San Donato Milanese,Lombardia,20097,,,,,,,45.4111776,9.2765858
+363,10363,Istituto Privato di Riabilitazione Madre della Divina Provvidenza,nan nan,Arezzo,Toscana,52100,,,,,No,,43.4474156,11.8273876
+364,10364,Istituto S.Giovanni Di Dio Fate Bene Fratelli,nan nan,Genzano di Roma,Lazio,00045,,,,,,,41.6996373,12.6753999
+365,10365,Istituto Sant'Anna,nan nan,Bologna,BO,40138,,,,,,,44.49097,11.368517
+366,10366,Istituto Santo Stefano,Via Aprutina nan,Potenza Picena,Marche,62018,,,,,,,43.3684659,13.6937164
+367,10367,Istituto Scientifico Romagnolo per lo Studio e la Cura dei Tumori (I.R.S.T.) S.r.l.,nan nan,Meldola,FC,47014,,,,,,,44.1250142,12.0647205
+368,10368,Istituto Scientifico di Nervi,nan nan,Genova,Liguria,16167,,,,,,,44.3849084,9.0296596
+369,10369,Istituto Scientifico di Riabilitazione di Veruno - Fondazione Salvatore Maugeri,Via per Revislate 13,Gattico-Veruno,Piemonte,28013,,,,,No,,45.6957583,8.533192
+370,10370,Istituto Villa Marelli,nan nan,Milano,Lombardia,20159,,,,,,,45.4965018,9.1932791
+371,10371,Istituto delle Figlie di San Camillo - Ospedale M. G. Vannini,Via di Acqua Bullicante nan,Roma,Lazio,00176,,,,,,,41.8815579,12.5433497
+372,10372,Istituto di Cura Città di Pavia,Via Parco Vecchio 27,Pavia,Lombardia,27100,,,,,No,,45.1923105,9.1667091
+373,10373,"Istituto di riabilitazione ""Salvatore Maugeri""",nan nan,Tradate,Lombardia,21049,,+39 0331 829111,,,,,45.719533,8.9110053
+374,10374,Istituto di riabilitazione e di cura Santa Margherita,nan nan,Pavia,Lombardia,27100,,,,,No,,45.1963962,9.1718411
+375,10375,Istituto di ricovero e cura a carattere scientifico - Centro regionale oncologico Basilicata,nan nan,Rionero in Vulture,Basilicata,85028,,,,,,,40.9319235,15.6740095
+376,10376,"Istituto nazionale per le malattie infettive ""Lazzaro Spallanzani""",Via Portuense 292,Roma,Lazio,00152,,,,,,,41.8679126,12.460659
+377,10377,"Istituto oncologico ""Giovanni Paolo II""",nan nan,Bari,Puglia,70122,,,,,,,41.1055241,16.8589929
+378,10378,Istituto per la Ricerca e la Cura del Cancro Candiolo (IRCCS),nan nan,Candiolo,Piemonte,10060,,,,,,,44.9687723,7.5661154
+379,10379,Italian Red Cross volunteers,nan nan,Bosa,Sardegna,08013,,,,,No,,40.2893174,8.4836069
+380,10380,Krankenhaus Brixen - Ospedale Bressanone,nan nan,Varna,Trentino-Alto Adige,39040,,,,,Yes,,46.7256776,11.6464246
+381,10381,Krankenhaus Bruneck - Ospedale Brunico,nan nan,Brunico,Trentino-Alto Adige,39031,,,,,Yes,,46.7995291,11.9343996
+382,10382,Krankenhaus Sterzing - Ospedale Vipiteno,nan nan,Vipiteno,Trentino-Alto Adige,39049,,,,,Yes,,46.8978983,11.4252648
+383,10383,La Colletta,nan nan,Arenzano,Liguria,16011,,+39 010 84981,,,No,,44.4007791,8.6631088
+384,10384,Madonnina,nan nan,Treviso,Veneto,31100,,,,,,,45.6696145,12.2217907
+385,10385,Madre Teresa di Calcutta,Via Altura 9/7,Bologna,BO,40141,,,,,,,44.4643888,11.3969348
+386,10386,Marrelli Hospital,nan nan,Crotone,Calabria,88900,,,,,No,,39.0772325,17.1096078
+387,10387,Mater Dei,nan nan,Bari,Puglia,70122,,,,,,,41.1120987,16.8515161
+388,10388,Matteo Pagliari,nan nan,Massafra,Puglia,74016,,+39 099 8801512,,,Yes,,40.5830095,17.121786
+389,10389,Medicina Universitaria,nan nan,Foggia,Puglia,71121,,,,,,,41.4539794,15.5234642
+390,10390,Mellino Mellini - Richiedei,nan nan,Palazzolo sull'Oglio,Lombardia,25036,,,,,,,45.599987,9.8863646
+391,10391,Misericordia del Galluzzo,nan nan,Firenze,Toscana,50125,,,,,,,43.7366712,11.2239065
+392,10392,Misericordia di Impruneta,nan nan,Impruneta,Toscana,50023,,,,,,,43.6843276,11.2558485
+393,10393,Misericordia di Pisa,nan nan,Pisa,Toscana,56125,,,,,Yes,,43.7098095,10.3728364
+394,10394,Montalcino,nan nan,Montalcino,Toscana,53024,,,,,,,43.0593819,11.4927062
+395,10395,Montecatone Rehabilitation Institute,Via Montecatone 37,Imola,BO,40026,,+39 0542 632811,,,,,44.3481985,11.6324119
+396,10396,Multimedica,Via Milanese 300,Sesto San Giovanni,Lombardia,20099,,02242091,,,,,45.5362331,9.2181783
+397,10397,Multimedica - Clinica Santa Maria,nan nan,Castellanza,Lombardia,21053,,,,,Yes,,45.600624,8.8708324
+398,10398,Mutua,nan nan,Milano,Lombardia,20132,,,,,,,45.501336,9.2373234
+399,10399,Neuropsichiatria infantile territoriale,nan nan,Mantova,Lombardia,46100,,,,,,,45.154267,10.780528
+400,10400,Nostra Famiglia - Lungodegenza/Riabilitazione per Disabili Gravi,nan nan,Rogeno,Lombardia,23849,,,,,,,45.7861794,9.2888133
+401,10401,Nostra Signora di Montallegro,nan nan,Rapallo,Liguria,16035,,,,,,,44.3593458,9.2138288
+402,10402,Nuova Villa Claudia Casa di Cura convenzionata,Via Flaminia Nuova 280,Roma,Lazio,00185,,+39 06 36 79 71,,,,,41.9519383,12.4740636
+403,10403,Nuovo Ospedale Apuano,nan nan,Massa,Toscana,54100,,,,,Yes,,44.0195208,10.0977017
+404,10404,Nuovo Ospedale Civile,nan nan,Sassuolo,MO,41049,,,,,,,44.5298792,10.7922341
+405,10405,Nuovo Ospedale San Giovanni di Dio,nan nan,Firenze,Toscana,50142,,,,,Yes,,43.7587494,11.2027401
+406,10406,Nuovo Ospedale degli Infermi,nan nan,Ponderano,Piemonte,13875,,,,,,,45.5435541,8.0609286
+407,10407,Nuovo Policlinico,nan nan,Caserta,Campania,81100,,,,,,,41.0623462,14.3544873
+408,10408,Nuovo Robbiani,Via Inzani 4,Soresina,Lombardia,26015,,+39 0374 415411,,,,,45.2820157,9.8702732
+409,10409,O.O. R.R. S. Giovanni di Dio e Ruggi D'Aragona,nan nan,Salerno,Campania,84123,,,,,,,40.6823214,14.7654551
+410,10410,OO.RR. San Giovanni di Dio Ruggi d'Aragona - Scuola Medica Salernitana,nan nan,Salerno,Campania,84123,,,,,,,40.6499669,14.8270165
+411,10411,Obitorio,nan nan,Corato,Puglia,70033,,,,,,,41.1475874,16.4238916
+412,10412,Obitorio Comunale,Viale Risorgimento nan,Massa,Toscana,54100,,,,,,,44.0290268,10.1440385
+413,10413,Opera Pia Lupis,nan nan,Ragusa,Sicilia,97100,,,,,No,,36.9183135,14.7190109
+414,10414,Ospedale,nan nan,Savigliano,Piemonte,12038,,,,,,,44.644503,7.6603968
+415,10415,Ospedale,nan nan,Paderno Dugnano,Lombardia,20037,,,,,,,45.5735468,9.1567445
+416,10416,Ospedale,nan nan,Gravina in Puglia,Puglia,70024,,,,,,,40.8170045,16.4202766
+417,10417,"Ospedale ""Ascoli-Tomaselli""",nan nan,Catania,Sicilia,95125,,,,,,,37.5284747,15.0749483
+418,10418,"Ospedale ""Binaghi""",nan nan,Cagliari,Sardegna,09129,,,,,,,39.2103594,9.1383551
+419,10419,"Ospedale ""Costanzo e Gaetano Mazzoni""",nan nan,Ascoli Piceno,Marche,63100,,,,,Yes,,42.8504386,13.6182388
+420,10420,"Ospedale ""Domenico Lentini""",nan nan,Lauria,Basilicata,85044,,,,,Yes,,40.052278,15.8381783
+421,10421,"Ospedale ""Felice Lotti""",nan nan,Pontedera,Toscana,56025,,,,,Yes,,43.6602955,10.6336788
+422,10422,"Ospedale ""Francesca Fallacara""",nan nan,Triggiano,Puglia,70019,,,,,Yes,,41.0660004,16.9273858
+423,10423,"Ospedale ""Francesca Fallacara"" Padiglione Nord",nan nan,Triggiano,Puglia,70019,,,,,,,41.0683954,16.9259521
+424,10424,"Ospedale ""G. Jazzolino""",Piazza Fleming nan,Vibo Valentia,Calabria,89900,,+39 0963 962111,,,Yes,,38.680162,16.1035888
+425,10425,"Ospedale ""Gaetano Bernabeo""",nan nan,Ortona,CH,66026,,,,,,,42.3516342,14.3890967
+426,10426,"Ospedale ""Giuseppe Casati""",nan nan,Rho,Lombardia,20017,,,,,,,45.5485244,9.0440736
+427,10427,"Ospedale ""Giuseppe Cutroni Zodda""",nan nan,Barcellona Pozzo di Gotto,Sicilia,98051,,+39 090 9751714,,,,,38.1512653,15.2205149
+428,10428,"Ospedale ""Immacolata Concezione""",Via Unità d'Italia 7,Maniago,Friuli-Venezia Giulia,33085,,,,,Yes,,46.1733185,12.7128651
+429,10429,"Ospedale ""Marcello Magalini""",Via Ospedale Marcello Magalini 5,Villafranca di Verona,Veneto,37069,,+39 045 6338111,,,Yes,,45.3489569,10.8392614
+430,10430,"Ospedale ""Morelli""",nan nan,Reggio di Calabria,Calabria,89125,,,,,,,38.0950508,15.6467006
+431,10431,"Ospedale ""Paolo Merlo""",nan nan,La Maddalena,Sardegna,07024,,,,,,,41.2177304,9.4068163
+432,10432,"Ospedale ""Poveri Infermi""",nan nan,Ceva,Piemonte,12073,,,,,,,44.3777944,8.0378361
+433,10433,"Ospedale ""Poveri Infermi""",nan nan,Ceva,Piemonte,12073,,,,,,,44.3775874,8.0379956
+434,10434,"Ospedale ""San Giacomo Apostolo""",nan nan,Castelfranco Veneto,Veneto,31033,,,,,,,45.6774176,11.9277191
+435,10435,"Ospedale ""San Giovanni dei Battuti""",Via Raffaello Sanzio nan,Spilimbergo,Friuli-Venezia Giulia,33097,,,,,Yes,,46.1124706,12.8921267
+436,10436,"Ospedale ""San Gregorio""",Via Ettoreo 4,Sacile,Friuli-Venezia Giulia,33077,,,,,Yes,,45.9565258,12.5007166
+437,10437,"Ospedale ""Santa Maria dei Battuti""",Via Savorgnano 2,San Vito al Tagliamento,Friuli-Venezia Giulia,33078,,,,,Yes,,45.9122532,12.8569318
+438,10438,"Ospedale ""Santa Scolastica""",nan nan,Cassino,Lazio,03043,,+39 0776 39291,,,Yes,,41.5033648,13.8438651
+439,10439,"Ospedale ""Santo Spirito""",nan nan,Casale Monferrato,Piemonte,15033,,,,,Yes,,45.1216468,8.4447545
+440,10440,"Ospedale ""Tiberio Evoli""",nan nan,Melito di Porto Salvo,Calabria,89063,,,,,Yes,,37.9170986,15.7805634
+441,10441,"Ospedale ""Vittorio Emanuele II""",nan nan,Castelvetrano,Sicilia,91022,,,,,,,37.6746696,12.7958473
+442,10442,"Ospedale ""Vittorio Emanuele III""",nan nan,Salemi,Sicilia,91018,,,,,,,37.82947,12.8025946
+443,10443,Ospedale A. G. Mastino,nan nan,Bosa,Sardegna,08013,,,,,,,40.3012517,8.4951224
+444,10444,Ospedale A. Galateo Di San Cesario,nan nan,San Cesario di Lecce,Puglia,73016,,,,,,,40.3057443,18.1577639
+445,10445,Ospedale Alessandro Manzoni,Via dell'Eremo 9;11,Lecco,Lombardia,23900,,,,,Yes,,45.8512528,9.4156046
+446,10446,Ospedale Amedeo di Savoia,nan nan,Torino,Piemonte,10144,,,,,,,45.087886,7.6578164
+447,10447,"Ospedale Amico ""Gaetano Fucito""",nan nan,Mercato San Severino,Campania,84085,,,,,Yes,,40.7749736,14.7455299
+448,10448,Ospedale Andosilla di Civita Castellana,nan nan,Civita Castellana,Lazio,01033,,,,,Yes,,42.2899572,12.4210978
+449,10449,Ospedale Andrea Gallino,Via Ospedale Andrea Gallino 5,Genova,Liguria,16164,,010 849 11,,,Yes,,44.4997787,8.899776
+450,10450,Ospedale Antonio Cardarelli,nan nan,Campobasso,Molise,86100,,+39 0874 4091,,,,,41.5481117,14.6207445
+451,10451,Ospedale Antonio Cardarelli,Via Antonio Cardarelli 9,Napoli,Campania,80131,,+39 081 7471111,,,Yes,,40.8685022,14.2267491
+452,10452,Ospedale Antonio Segni,nan nan,Ozieri,Sardegna,07014,,,,,Yes,,40.5812974,9.0018276
+453,10453,Ospedale Antonio e Carlo Cartoni,nan nan,Rocca Priora,Lazio,00079,,,,,,,41.7944365,12.7568003
+454,10454,Ospedale Arnaboldi,nan nan,Broni,Lombardia,27043,,,,,,,45.0675936,9.2643052
+455,10455,Ospedale Asilo Vittoria,nan nan,Mortara,Lombardia,27036,,,,,,,45.2518789,8.7541579
+456,10456,Ospedale Bambin Gesù,Lungomare Guglielmo Marconi 39,Santa Marinella,Lazio,00058,,,,,No,,42.0329527,11.8502907
+457,10457,Ospedale Bambin Gesù,Lungomare Guglielmo Marconi 39,Santa Marinella,Lazio,00058,,,,,,,42.0320871,11.8507842
+458,10458,Ospedale Bambino Gesù,nan nan,Roma,Lazio,00153,,,,,Yes,,41.8961081,12.4602073
+459,10459,Ospedale Barone Lombardo,nan nan,Canicattì,Sicilia,92024,,,,,,,37.3525208,13.8320941
+460,10460,Ospedale Barone Romeo,Via Giuseppe Mazzini nan,Patti,Sicilia,98066,,,,,Yes,,38.1418455,14.9686285
+461,10461,Ospedale Bassini,Via Gorki 50,Cinisello Balsamo,Lombardia,20092,,+39 02 57991,,,Yes,,45.5477766,9.2152374
+462,10462,Ospedale Beauregard,Via Vaccari nan,Aosta,AO,11100,,,,,,,45.7429536,7.3404748
+463,10463,Ospedale Belcolle,Strada Sammartinese nan,Viterbo,Lazio,01100,,+39 0761 3391,,,Yes,,42.3952429,12.1222508
+464,10464,Ospedale Bellaria,nan nan,Bologna,BO,40141,,,,,,,44.4637839,11.3887955
+465,10465,Ospedale Bernardo Nagar,nan nan,Pantelleria,Sicilia,91017,,,,,,,36.8351409,11.945003
+466,10466,Ospedale Biancavilla,nan nan,Biancavilla,Sicilia,95033,,,,,,,37.6458551,14.870639
+467,10467,Ospedale Buccheri La Ferla Fatebenefratelli,nan nan,Palermo,Sicilia,90121,,,,,,,38.1056083,13.3836145
+468,10468,Ospedale Busacca,nan nan,Scicli,Sicilia,97018,,,,,Yes,,36.7932845,14.6994521
+469,10469,Ospedale C. Borella,nan nan,Giussano,Lombardia,20833,,,,,,,45.6922691,9.2068937
+470,10470,Ospedale C.T.O.,nan nan,Iglesias,Sardegna,09016,,,,,Yes,,39.3095331,8.5241275
+471,10471,Ospedale CTO,nan nan,Torino,Piemonte,10126,,,,,Yes,,45.0340302,7.67562
+472,10472,Ospedale CTO Andrea Alesini,nan nan,Roma,Lazio,00145,,,,,Yes,,41.8573448,12.4852176
+473,10473,Ospedale Ca' Foncello,nan nan,Treviso,Veneto,31100,,,,,No,,45.6593237,12.2551481
+474,10474,Ospedale Caimi,Via Caimi 21,Vailate,Lombardia,26019,,,,,No,,45.4622915,9.6030147
+475,10475,Ospedale Camerino - San Maria della Pietà,nan nan,Camerino,Marche,62032,,,,,Yes,,43.1275593,13.0492011
+476,10476,Ospedale Capilupi,nan nan,Capri,Campania,80073,,,,,,,40.5498049,14.2370555
+477,10477,Ospedale Cardinal Massaia,nan nan,Asti,Piemonte,14100,,,,,Yes,,44.9123218,8.1936234
+478,10478,Ospedale Carle,Via Antonio Carle 5,Cuneo,Piemonte,12100,,,,,No,,44.3901757,7.5188226
+479,10479,Ospedale Carlo Ondoli,Via Bordini 9,Angera,Lombardia,21021,,,,,Yes,,45.7761629,8.5797009
+480,10480,Ospedale Casa della Salute Regina Margherita,nan nan,Castelfranco Emilia,MO,41013,,,,,,,44.5976105,11.0476493
+481,10481,Ospedale Ceccarini,nan nan,Riccione,RN,47838,,,,,Yes,,43.9961846,12.6504616
+482,10482,Ospedale Cesare Magati,nan nan,Scandiano,RE,42019,,,,,Yes,,44.5985057,10.6904139
+483,10483,Ospedale Cesare Zonchello,nan nan,Nuoro,Sardegna,08100,,+39 0784 240237,,,No,,40.3203087,9.3162943
+484,10484,Ospedale Chiarenzi,nan nan,Zevio,Veneto,37059,,,,,,,45.3761888,11.1312592
+485,10485,Ospedale Cingoli,nan nan,Cingoli,Marche,62011,,,,,Yes,,43.3717869,13.2175378
+486,10486,"Ospedale Civico ""Abele Ajello""",nan nan,Mazara del Vallo,Sicilia,91026,,,,,Yes,,37.657222,12.5995813
+487,10487,"Ospedale Civico ""Conugi Bernardini""",nan nan,Palestrina,Lazio,00036,,+39 06 95321,,,Yes,,41.8363007,12.8856271
+488,10488,Ospedale Civico Renzetti Lanciano,Via del Mare 1,Lanciano,CH,66034,,,,,,,42.2298017,14.3960241
+489,10489,Ospedale Civico Rossi,nan nan,Casalpusterlengo,Lombardia,26841,,,,,,,45.1697897,9.6533261
+490,10490,Ospedale Civico di Codogno,Viale Guglielmo Marconi 1,Codogno,Lombardia,26845,,,,,Yes,,45.1593775,9.7104961
+491,10491,Ospedale Civico di Settimo Torinese,Via Santa Cristina 3,Settimo Torinese,Piemonte,10036,,,,,,,45.1261434,7.7555722
+492,10492,"Ospedale Civico e Benefratelli ""G. Di Cristina"" e ""M. Ascoli""",nan nan,Palermo,Sicilia,90128,,,,,Yes,,38.1020768,13.3561785
+493,10493,"Ospedale Civico e Benefratelli ""G. Di Cristina"" e ""M. Ascoli""",nan nan,Palermo,Sicilia,90128,,,,,No,,38.1029498,13.354879
+494,10494,Ospedale Civile,nan nan,Soverato,Calabria,88068,,,,,,,38.6903551,16.5413257
+495,10495,Ospedale Civile,nan nan,Ragusa,Sicilia,97100,,,,,Yes,,36.9189378,14.7282405
+496,10496,Ospedale Civile,nan nan,Asiago,Veneto,36012,,,,,,,45.8624291,11.5229272
+497,10497,Ospedale Civile,nan nan,Ovada,Piemonte,15076,,,,,Yes,,44.6386253,8.6397299
+498,10498,Ospedale Civile,Via dei Capitelli 48,Arco,Trentino-Alto Adige,38062,,,,,Yes,,45.9192364,10.8738984
+499,10499,Ospedale Civile,nan nan,Alghero,Sardegna,07041,,,,,Yes,,40.5789363,8.3190454
+500,10500,"Ospedale Civile ""Ave Gratia Plena""",nan nan,Piedimonte Matese,Campania,81016,,,,,,,41.353097,14.3571112
+501,10501,"Ospedale Civile ""Caracciolo""",nan nan,Agnone,Molise,86081,,,,,,,41.8107811,14.3760505
+502,10502,"Ospedale Civile ""Ferrari""",nan nan,Castrovillari,Calabria,87012,,,,,,,39.8178422,16.2106655
+503,10503,"Ospedale Civile ""Madonna del Soccorso""",nan nan,San Benedetto del Tronto,Marche,63074,,,,,Yes,,42.9486534,13.8765191
+504,10504,"Ospedale Civile ""Monte Iacoviello""",nan nan,Santeramo in Colle,Puglia,70029,,,,,,,40.7958031,16.7578416
+505,10505,"Ospedale Civile ""SS. Rosario""",nan nan,Venafro,Molise,86079,,,,,Yes,,41.4803003,14.0393043
+506,10506,"Ospedale Civile ""San Timoteo""",nan nan,Termoli,Molise,86039,,,,,,,41.9893819,14.9914669
+507,10507,"Ospedale Civile ""Santa Maria della Misericordia""",nan nan,Udine,Friuli-Venezia Giulia,33100,,,,,Yes,,46.0760682,13.2245309
+508,10508,Ospedale Civile FR5,nan nan,Ceccano,Lazio,03023,,,,,,,41.5704786,13.3401802
+509,10509,Ospedale Civile Giuseppe Mazzini,nan nan,Teramo,TE,64100,,,,,Yes,,42.667225,13.7124845
+510,10510,Ospedale Civile Giuseppe Sambiasi,nan nan,Nardò,Puglia,73048,,,,,,,40.1715988,18.0342748
+511,10511,Ospedale Civile Ivrea,nan nan,Ivrea,Piemonte,10015,,,,,Yes,,45.467212,7.8724633
+512,10512,Ospedale Civile Maggiore,Piazzale Aristide Stefani 1,Verona,Veneto,37122,,,,,Yes,,45.4527652,10.9867159
+513,10513,Ospedale Civile Nicola Giannettasio,nan nan,Corigliano-Rossano,Calabria,87064,,,,,,,39.597231,16.6373982
+514,10514,Ospedale Civile Pasquale Del Prete Pontecorvo,nan nan,Pontecorvo,Lazio,03037,,,,,,,41.4603108,13.6668558
+515,10515,Ospedale Civile San Camillo De Lellis,nan nan,Schio,Veneto,36015,,,,,,,45.719337,11.3555745
+516,10516,Ospedale Civile San Giovanni di Dio,nan nan,Crotone,Calabria,88900,,,,,Yes,,39.0788935,17.1187685
+517,10517,Ospedale Civile Sanremo,nan nan,Sanremo,Liguria,18038,,,,,Yes,,43.8225528,7.7794866
+518,10518,Ospedale Civile Santa Maria,Viale Tristano di Joannuccio nan,Terni,Umbria,05100,,+39 0744 2051,,,Yes,,42.5555382,12.6577011
+519,10519,Ospedale Civile Santa Maria,Viale Tristano di Joannuccio nan,Terni,Umbria,05100,,+39 0744 2051,,,Yes,,42.5555382,12.6577011
+520,10520,Ospedale Civile Santa Maria Regina degli Angeli,nan nan,Adria,Veneto,45011,,,,,Yes,,45.0481121,12.0550668
+521,10521,Ospedale Civile Santi Antonio e Biagio e Cesare Arrigo,nan nan,Alessandria,Piemonte,15121,,,,,Yes,,44.9162583,8.6234215
+522,10522,Ospedale Civile Santo Spirito,Via Fonte Romana 8,Pescara,PE,65121,,,,,Yes,,42.4650366,14.1989789
+523,10523,Ospedale Civile Ss. Annunziata,nan nan,Sassari,Sardegna,07100,,,,,Yes,,40.7174814,8.5545699
+524,10524,Ospedale Civile Umberto I,nan nan,Fasano,Puglia,72015,,,,,Yes,,40.8332568,17.3566489
+525,10525,Ospedale Civile Vittorio Emanuele,Via Palazzi 173,Gela,Sicilia,93012,,,,,Yes,,37.0727375,14.230401
+526,10526,Ospedale Civile di Boscotrecase,Via Lenze nan,Trecase,Campania,80040,,+39 081 535 21 11,,,Yes,,40.7660293,14.4510336
+527,10527,Ospedale Civile di Busca,nan nan,Busca,Piemonte,12022,,,,,,,44.5146381,7.4712794
+528,10528,Ospedale Civile di Canosa di Puglia,nan nan,Canosa di Puglia,Puglia,76012,,,,,Yes,,41.2266277,16.0708278
+529,10529,Ospedale Civile di Castellamonte,nan nan,Castellamonte,Piemonte,10081,,,,,No,,45.3800807,7.7085031
+530,10530,Ospedale Civile di Ciriè,nan nan,Ciriè,Piemonte,10073,,,,,Yes,,45.2362951,7.5991647
+531,10531,Ospedale Civile di Giaveno,nan nan,Giaveno,Piemonte,10094,,,,,,,45.0427541,7.3557488
+532,10532,Ospedale Civile di Latisana,nan nan,Latisana,Friuli-Venezia Giulia,33053,,,,,Yes,,45.7697208,13.0018003
+533,10533,Ospedale Civile di Lipari,nan nan,Lipari,Sicilia,98050,,+39 090 9885929,,,Yes,,38.4622996,14.9546271
+534,10534,Ospedale Civile di Mirano,nan nan,Mirano,Veneto,30035,,,,,,,45.4993052,12.1099699
+535,10535,Ospedale Civile di Montebelluna,nan nan,Montebelluna,Veneto,31044,,,,,Yes,,45.7778956,12.0369567
+536,10536,Ospedale Civile di Montefiascone,Via Donatori di Sangue nan,Montefiascone,Lazio,01027,,+39 0761 8331,,,,,42.5366564,12.0311869
+537,10537,Ospedale Civile di Norcia,nan nan,Norcia,Umbria,06046,,,,,,,42.7898798,13.0956053
+538,10538,Ospedale Civile di Norcia,Via dell'Ospedale s.n.c.,Norcia,Umbria,06046,,,,,Yes,,42.7898798,13.0956053
+539,10539,Ospedale Civile di Saluzzo,nan nan,Saluzzo,Piemonte,12037,,,,,Yes,,44.6429135,7.4941584
+540,10540,Ospedale Civile di Tagliacozzo Umberto I,nan nan,Tagliacozzo,AQ,67069,,,,,,,42.0718443,13.2555772
+541,10541,Ospedale Civile di Teano,nan nan,Teano,Campania,81057,,,,,,,41.2499785,14.0665815
+542,10542,Ospedale Civile di Thiesi,nan nan,Thiesi,Sardegna,07047,,,,,,,40.5236861,8.7148292
+543,10543,"Ospedale Civile di Vicenza ""San Bortolo""",nan nan,Vicenza,Veneto,36100,,,,,,,45.5562291,11.5485397
+544,10544,"Ospedale Civile di Vicenza ""San Bortolo""",nan nan,Vicenza,Veneto,36100,,,,,,,45.5571335,11.543188
+545,10545,Ospedale Civile di Voghera,nan nan,Voghera,Lombardia,27058,,,,,Yes,,44.9947981,9.0176063
+546,10546,Ospedale Civile di Volta Mantovana s.r.l.,nan nan,Volta Mantovana,Lombardia,46049,,,,,No,,45.3234166,10.6556796
+547,10547,Ospedale Civitanova Marche,nan nan,Civitanova Marche,Marche,62012,,,,,Yes,,43.3079118,13.6946143
+548,10548,Ospedale Clinicizzato Santissima Annunziata,Via dei Vestini nan,Chieti,CH,66100,,+3908713571,,,Yes,,42.365552,14.1501279
+549,10549,Ospedale Codivilla-Putti,nan nan,Cortina d'Ampezzo,Veneto,32043,,,,,,,46.5581507,12.1341943
+550,10550,Ospedale Codivilla-Putti,nan nan,Cortina d'Ampezzo,Veneto,32043,,,,,Yes,,46.5544362,12.1322097
+551,10551,Ospedale Costantino Cantu`,nan nan,Abbiategrasso,Lombardia,20081,,,,,Yes,,45.3942397,8.911316
+552,10552,Ospedale Cristo Re,nan nan,Roma,Lazio,00168,,,,,,,41.918589,12.4214675
+553,10553,Ospedale Dario Camberlingo,nan nan,Francavilla Fontana,Puglia,72021,,,,,,,40.5387601,17.5785883
+554,10554,Ospedale De Luca e Rossano,nan nan,Vico Equense,Campania,80069,,,,,,,40.6608913,14.4258029
+555,10555,Ospedale De Santis,nan nan,Genzano di Roma,Lazio,00045,,,,,,,41.7045815,12.6796758
+556,10556,Ospedale Delmati,nan nan,Sant'Angelo Lodigiano,Lombardia,26866,,,,,No,,45.2301781,9.4137128
+557,10557,Ospedale Di Caprino Veronese,nan nan,Caprino Veronese,Veneto,37013,,,,,Yes,,45.6088781,10.7961688
+558,10558,Ospedale Di Gugliemo,nan nan,Bisaccia,Campania,83044,,,,,,,41.0075551,15.3559319
+559,10559,Ospedale Di Summa,Via Consolazione 12,Brindisi,Puglia,72100,,,,,,,40.635017,17.9321988
+560,10560,Ospedale Di Venere,nan nan,Bari,Puglia,70131,,,,,Yes,,41.0746514,16.8641982
+561,10561,Ospedale Don Tonino Bello,nan nan,Molfetta,Puglia,70056,,,,,,,41.1908002,16.5914303
+562,10562,Ospedale Emanuele Muscatello,nan nan,Augusta,Sicilia,96011,,+39 0931 989111,,,Yes,,37.2457212,15.2325766
+563,10563,Ospedale Engles Profili,nan nan,Fabriano,Marche,60044,,,,,,,43.3415969,12.9065838
+564,10564,Ospedale Enrico Albanese,nan nan,Palermo,Sicilia,90142,,,,,,,38.1510611,13.3713236
+565,10565,Ospedale Enrico Mattei,nan nan,Matelica,Marche,62024,,,,,,,43.2454554,13.0086946
+566,10566,Ospedale Ercole Franchini,nan nan,Montecchio Emilia,RE,42027,,,,,,,44.7078636,10.4485804
+567,10567,Ospedale Eugenio Morelli,Via Ausonio Zubiani 33,Sondalo,Lombardia,23035,,+39 0342 808 111,,,Yes,,46.3327478,10.3333023
+568,10568,Ospedale Evangelico Valdese,nan nan,Torino,Piemonte,10125,,,,,,,45.0578146,7.684539
+569,10569,Ospedale Fatebenefratelli,nan nan,Napoli,Campania,80123,,,,,,,40.8164889,14.1992551
+570,10570,Ospedale Ferro Capra Branciforti,nan nan,Leonforte,Sicilia,94013,,,,,,,37.6536666,14.4111522
+571,10571,Ospedale Figlie di San Camillo,nan nan,Cremona,Lombardia,26100,,,,,,,45.1457123,10.0101658
+572,10572,Ospedale Filippo Del Ponte,nan nan,Varese,Lombardia,21100,,,,,Yes,,45.8159977,8.8336275
+573,10573,Ospedale Fratelli Crobu,nan nan,Iglesias,Sardegna,09016,,,,,No,,39.327696,8.5318117
+574,10574,Ospedale G. Criscuoli,nan nan,Sant'Angelo dei Lombardi,Campania,83054,,,,,,,40.9315616,15.1615644
+575,10575,Ospedale G. F. Ingrassia,nan nan,Palermo,Sicilia,90131,,,,,,,38.0909158,13.3092867
+576,10576,Ospedale G. Salvini,nan nan,Garbagnate Milanese,Lombardia,20024,,,,,,,45.5834928,9.0930794
+577,10577,Ospedale G.A. Alivesi,nan nan,Ittiri,Sardegna,07044,,,,,,,40.6009599,8.5656587
+578,10578,Ospedale G.B. Hodierna,nan nan,Ragusa,Sicilia,97100,,,,,,,36.9198791,14.7304669
+579,10579,Ospedale G.P. Delogu,Corso Umberto I 176,Ghilarza,Sardegna,09074,,,,,,,40.121006,8.8344472
+580,10580,Ospedale Gaetano Pini,nan nan,Milano,Lombardia,20122,,,,,,,45.454192,9.1944261
+581,10581,Ospedale Galliera,nan nan,Genova,Liguria,16128,,,,,,,44.401476,8.9404009
+582,10582,Ospedale Garibaldi Presidio San Luigi - Santi Currò,nan nan,Catania,Sicilia,95128,,,,,,,37.5228788,15.0740482
+583,10583,Ospedale Ginecologico-Ostetrico Sant'Anna,nan nan,Torino,Piemonte,10126,,,,,,,45.0363063,7.6735958
+584,10584,Ospedale Giovanni Da Procida,nan nan,Salerno,Campania,84123,,,,,,,40.689953,14.7691256
+585,10585,Ospedale Giovanni Paolo II,nan nan,Sciacca,Sicilia,92019,,,,,Yes,,37.5261517,13.0713057
+586,10586,Ospedale Giovanni Paolo II,nan nan,Olbia,Sardegna,07026,,,,,Yes,,40.9141093,9.4718396
+587,10587,Ospedale Giovanni Paolo II,nan nan,Ragusa,Sicilia,97100,,,,,,,36.9060396,14.6807018
+588,10588,Ospedale Girolamo Frà Castoro,Via delle Fontane 5,San Bonifacio,Veneto,37047,,,,,Yes,,45.390466,11.2792801
+589,10589,Ospedale Giuseppe Fornaroli,Via al donatore di sangue 50,Magenta,Lombardia,20013,,+39 02 979631,,,Yes,,45.4717693,8.8916496
+590,10590,Ospedale Giustinian,nan nan,Venezia,Veneto,30123,,,,,,,45.4315424,12.3220103
+591,10591,Ospedale Gravina,nan nan,Caltagirone,Sicilia,95041,,,,,,,37.2233823,14.5159919
+592,10592,Ospedale Guadagna,nan nan,Palermo,Sicilia,90127,,,,,,,38.0955658,13.3643298
+593,10593,Ospedale Infantile Burlo Garofolo,nan nan,Trieste,Friuli-Venezia Giulia,34132,,,,,,,45.6362071,13.7842609
+594,10594,Ospedale Infantile Burlo Garofolo,nan nan,Trieste,Friuli-Venezia Giulia,34132,,,,,,,45.6351847,13.7862306
+595,10595,Ospedale Infantile Cesare Arrigo,Spalto Marengo 46,Alessandria,Piemonte,15121,,,,,Yes,,44.9158899,8.6249342
+596,10596,Ospedale Infantile Regina Margherita,nan nan,Torino,Piemonte,10126,,,,,,,45.0340302,7.67562
+597,10597,Ospedale Infermi Rimini,nan nan,Rimini,RN,47923,,,,,Yes,,44.0453819,12.5850808
+598,10598,Ospedale Israelitico,Via Fulda 14,Roma,Lazio,00185,,+3906602911,,,No,,41.8357737,12.4281808
+599,10599,Ospedale Israelitico Roma,nan nan,Roma,Lazio,00153,,,,,,,41.8907365,12.4780693
+600,10600,Ospedale L. Curto,Via Luigi Curto 84035,Polla,Campania,84035,,+39 0975 373111,,,Yes,,40.5170316,15.5004357
+601,10601,Ospedale La Schiana,nan nan,Pozzuoli,Campania,80078,,,,,,,40.8488875,14.0735467
+602,10602,Ospedale La Schiana,nan nan,Pozzuoli,Campania,80078,,,,,,,40.8493307,14.072141
+603,10603,Ospedale Leopoldo Parodi Delfino,nan nan,Colleferro,Lazio,00034,,,,,Yes,,41.7268717,13.0054276
+604,10604,Ospedale Lorenzo Bonomo,nan nan,Andria,Puglia,76123,,,,,Yes,,41.2301452,16.303574
+605,10605,Ospedale Loreto,nan nan,Loreto,Marche,60025,,,,,Yes,,43.436333,13.6081499
+606,10606,Ospedale Luigi Sacco,nan nan,Milano,Lombardia,20157,,,,,,,45.5172691,9.1204663
+607,10607,Ospedale M. Montessori,Via Fratelli Rosselli 176,Chiaravalle,Marche,60033,,,,,,,43.5982418,13.3147833
+608,10608,Ospedale Macedonio Melloni,nan nan,Milano,Lombardia,20133,,,,,Yes,,45.4666078,9.2184885
+609,10609,Ospedale Macerata,nan nan,Macerata,Marche,62100,,,,,Yes,,43.2936425,13.4596346
+610,10610,Ospedale Madonna delle Grazie,nan nan,Matera,Basilicata,75100,,,,,,,40.6538442,16.610814
+611,10611,Ospedale Maggiore,Piazza dell'Ospitale 1,Trieste,Friuli-Venezia Giulia,34132,,,,,Yes,,45.6501755,13.7805859
+612,10612,Ospedale Maggiore,nan nan,Lodi,Lombardia,26900,,,,,,,45.3141112,9.5103651
+613,10613,Ospedale Maggiore,nan nan,Modica,Sicilia,97015,,,,,Yes,,36.8391826,14.7645148
+614,10614,Ospedale Maggiore Carlo Alberto Pizzardi,nan nan,Bologna,BO,40131,,,,,,,44.507528,11.3118679
+615,10615,Ospedale Maggiore Parma,nan nan,Parma,PR,43126,,,,,,,44.7979118,10.308288
+616,10616,Ospedale Maria Adelaide,nan nan,Torino,Piemonte,10152,,,,,,,45.0759016,7.6938735
+617,10617,Ospedale Maria Immacolata Longo,nan nan,Mussomeli,Sicilia,93014,,,,,,,37.585189,13.7473628
+618,10618,Ospedale Maria Paternò Arezzo,nan nan,Ragusa,Sicilia,97100,,,,,,,36.9214417,14.7424131
+619,10619,Ospedale Maria SS. dello Splendore,nan nan,Giulianova,TE,64021,,,,,,,42.7459549,13.9606012
+620,10620,Ospedale Maria Vittoria,nan nan,Torino,Piemonte,10144,,,,,Yes,,45.0812192,7.6568838
+621,10621,Ospedale Marino,nan nan,Cagliari,Sardegna,09125,,,,,,,39.2137915,9.1749659
+622,10622,Ospedale Marino Regina Margherita,Viale I Maggio 2,Alghero,Sardegna,07041,,,,,Yes,,40.5793613,8.3106654
+623,10623,Ospedale Martini,nan nan,Torino,Piemonte,10141,,,,,Yes,,45.0668875,7.6283471
+624,10624,Ospedale Martiri di Villa Malta,nan nan,Sarno,Campania,84087,,,,,,,40.8119895,14.6001105
+625,10625,Ospedale Mater Salutis,nan nan,Legnago,Veneto,37045,,,,,Yes,,45.1870131,11.3150612
+626,10626,Ospedale Mauriziano,nan nan,Valenza,Piemonte,15048,,,,,,,45.0075907,8.6350198
+627,10627,Ospedale Mauriziano,nan nan,Torino,Piemonte,10129,,,,,Yes,,45.0531139,7.665499
+628,10628,Ospedale Maurizio Bufalini,nan nan,Cesena,FC,47521,,,,,Yes,,44.1337319,12.2591287
+629,10629,Ospedale Maurizio Bufalini,nan nan,Cesena,FC,47521,,,,,Yes,,44.1343616,12.2582666
+630,10630,Ospedale Mauro Scarlato,nan nan,Scafati,Campania,84018,,,,,,,40.7553856,14.525519
+631,10631,Ospedale Michele Sarcone,nan nan,Terlizzi,Puglia,70038,,,,,,,41.1306188,16.5358279
+632,10632,Ospedale Microcitemico,nan nan,Cagliari,Sardegna,09121,,,,,,,39.2465761,9.1127285
+633,10633,Ospedale Militare,nan nan,La Spezia,Liguria,19121,,,,,,,44.1058827,9.8112685
+634,10634,Ospedale Militare,nan nan,Chieti,CH,66100,,,,,,,42.3435676,14.1657313
+635,10635,Ospedale Militare Amerigo Demurtas,nan nan,Cagliari,Sardegna,09124,,,,,,,39.2188202,9.1115193
+636,10636,Ospedale Militare Celio,nan nan,Roma,Lazio,00184,,,,,,,41.8874514,12.4962176
+637,10637,Ospedale Militare di Padova,nan nan,Padova,Veneto,35139,,,,,,,45.415361,11.8706698
+638,10638,Ospedale Misericordia di Grosseto,nan nan,Grosseto,Toscana,58100,,,,,Yes,,42.7786714,11.1243015
+639,10639,Ospedale Molinette,nan nan,Torino,Piemonte,10126,,,,,Yes,,45.0421421,7.6726823
+640,10640,Ospedale Monaldi,nan nan,Napoli,Campania,80133,,,,,,,40.870062,14.2110387
+641,10641,Ospedale Monsignor Dimiccoli,nan nan,Barletta,Puglia,76121,,,,,Yes,,41.3140565,16.2526873
+642,10642,Ospedale Monsignor Giovanni Galliano,Via Fatebenefratelli 1,Acqui Terme,Piemonte,15011,,,,,,,44.6790785,8.450041
+643,10643,Ospedale Morgagni-Pierantoni,nan nan,Forlì,FC,47122,,,,,,,44.2038366,12.0201053
+644,10644,Ospedale N. Melli,nan nan,San Pietro Vernotico,Puglia,72027,,,,,Yes,,40.4793441,18.0036413
+645,10645,Ospedale Niguarda Cà Granda,nan nan,Milano,Lombardia,20162,,,,,Yes,,45.5067906,9.188435
+646,10646,Ospedale Nostra Signora della Mercede,nan nan,Lanusei,Sardegna,08045,,,,,,,39.877543,9.5488929
+647,10647,Ospedale Nostra Signora di Bonaria,nan nan,San Gavino Monreale,Sardegna,09037,,,,,,,39.5571502,8.7941739
+648,10648,Ospedale Nuovo Regina Margherita,nan nan,Roma,Lazio,00153,,,,,,,41.8859361,12.4709915
+649,10649,Ospedale Oftalmico,nan nan,Torino,Piemonte,10123,,,,,Yes,,45.074282,7.6712457
+650,10650,Ospedale Oftalmico,nan nan,Roma,Lazio,00136,,,,,,,41.9081631,12.447999
+651,10651,Ospedale Oncologico Armando Businco,nan nan,Cagliari,Sardegna,09121,,,,,,,39.2448743,9.1140083
+652,10652,Ospedale Orlandi,Via Ospedale nan,Bussolengo,Veneto,37012,,+39 045 6712111,,,,,45.4763468,10.8478073
+653,10653,Ospedale Padre Antero Micone,nan nan,Genova,Liguria,16154,,,,,,,44.4319579,8.8505245
+654,10654,Ospedale Padre Pio,Via Santa Lucia nan,Bracciano,Lazio,00062,,+39 06 998901,,,,,42.0965442,12.1704662
+655,10655,Ospedale Paolo Borsellino,nan nan,Marsala,Sicilia,91025,,,,,,,37.795984,12.5002305
+656,10656,Ospedale Paolo Dettori,nan nan,Tempio Pausania,Sardegna,07029,,,,,,,40.8966054,9.102715
+657,10657,Ospedale Pediatrico Bambino Gesù,nan nan,Roma,Lazio,00145,,,,,,,41.8574447,12.4764858
+658,10658,Ospedale Pediatrico Bambino Gesù,nan nan,Roma,Lazio,00145,,,,,,,41.8569515,12.474083
+659,10659,Ospedale Pediatrico Giannina Gaslini,nan nan,Genova,Liguria,16148,,,,,,,44.3929046,8.9862676
+660,10660,Ospedale Pediatrico Giovanni XXIII,nan nan,Bari,Puglia,70122,,,,,,,41.0992151,16.8860317
+661,10661,Ospedale Piero Palagi,nan nan,Firenze,Toscana,50125,,,,,,,43.7561995,11.2707494
+662,10662,Ospedale Ponte Nuovo,nan nan,Firenze,Toscana,50127,,,,,,,43.8121066,11.2494341
+663,10663,Ospedale Ramazzini,nan nan,Carpi,MO,41012,,,,,,,44.7872682,10.87986
+664,10664,Ospedale Recanati Santa Lucia,nan nan,Recanati,Marche,62019,,,,,Yes,,43.3969132,13.5507037
+665,10665,Ospedale Regina Margherita,nan nan,Comiso,Sicilia,97013,,,,,,,36.9592457,14.6075598
+666,10666,Ospedale Regina Montis Regalis,nan nan,Mondovì,Piemonte,12084,,,,,Yes,,44.3919466,7.8010468
+667,10667,"Ospedale Regionale ""Ca' Foncello""",nan nan,Treviso,Veneto,31100,,,,,Yes,,45.6616767,12.2588841
+668,10668,Ospedale Riabilitativo di Motta di Livenza,nan nan,Motta di Livenza,Veneto,31045,,,,,,,45.7738405,12.5988219
+669,10669,Ospedale Riccardo Guzzardi,nan nan,Vittoria,Sicilia,97019,,,,,Yes,,36.9542955,14.5443996
+670,10670,Ospedale Ruffini,nan nan,Finale Ligure,Liguria,17024,,,,,,,44.1726977,8.3404052
+671,10671,Ospedale S. M. Angeli,nan nan,Putignano,Puglia,70017,,,,,Yes,,40.8516429,17.1171278
+672,10672,Ospedale Sacra Famiglia Fatebenefratelli,nan nan,Erba,Lombardia,22036,,,,,Yes,,45.8173948,9.2259215
+673,10673,Ospedale Sacro Cuore di Gesù Fatebenefratelli,Viale Principe di Napoli 14A,Benevento,Campania,82100,,,,,No,,41.1363934,14.7731123
+674,10674,Ospedale San Antonio,Via Trento Trieste 2,San Daniele del Friuli,Friuli-Venezia Giulia,33038,,,,,Yes,,46.1553059,13.0077603
+675,10675,Ospedale San Biagio,nan nan,Domodossola,Piemonte,28845,,,,,Yes,,46.116512,8.2857289
+676,10676,Ospedale San Bruno,nan nan,Serra San Bruno,Calabria,89822,,,,,,,38.5763877,16.3213064
+677,10677,Ospedale San Camillo,nan nan,Sorgono,Sardegna,08038,,,,,,,40.0217482,9.1002003
+678,10678,Ospedale San Camillo,nan nan,Trento,Trentino-Alto Adige,38122,,,,,,,46.0648716,11.1315591
+679,10679,Ospedale San Camillo De Lellis,nan nan,Manfredonia,Puglia,71043,,,,,Yes,,41.6335799,15.9173762
+680,10680,Ospedale San Candido - Krankenhaus Innichen,nan nan,San Candido,Trentino-Alto Adige,39038,,+39 0474 917111,,,Yes,,46.7338168,12.2843508
+681,10681,Ospedale San Carlo,nan nan,Genova,Liguria,16158,,,,,Yes,,44.4299288,8.7460374
+682,10682,Ospedale San Carlo Borromeo,nan nan,Milano,Lombardia,20153,,,,,,,45.4661074,9.1129607
+683,10683,Ospedale San Filippo Neri,nan nan,Roma,Lazio,00185,,,,,,,41.9493389,12.4131273
+684,10684,Ospedale San Francesco,Via Salvatore Mannironi nan,Nuoro,Sardegna,08100,,+39 0784 240237,,,Yes,,40.3260708,9.3172357
+685,10685,Ospedale San Francesco,nan nan,Barga,Toscana,55051,,,,,,,44.0709383,10.480687
+686,10686,Ospedale San Gerardo,Via Giovanni Battista Pergolesi 33,Monza,Lombardia,20900,,+39 039 2331,,,Yes,,45.6004665,9.2599226
+687,10687,Ospedale San Giacomo,nan nan,Novi Ligure,Piemonte,15067,,,,,Yes,,44.7591613,8.7925758
+688,10688,Ospedale San Giacomo,nan nan,Monopoli,Puglia,70043,,,,,,,40.9493754,17.2975406
+689,10689,Ospedale San Giacomo,nan nan,Licata,Sicilia,92027,,,,,,,37.1067274,13.9262976
+690,10690,Ospedale San Giovanni Battista,nan nan,Lonigo,Veneto,36045,,,,,,,45.3841225,11.3948055
+691,10691,Ospedale San Giovanni Battista,nan nan,Zagarolo,Lazio,00039,,,,,,,41.8409143,12.8291147
+692,10692,Ospedale San Giovanni Bosco,nan nan,Torino,Piemonte,10154,,,,,Yes,,45.0982643,7.7004757
+693,10693,Ospedale San Giovanni Bosco,nan nan,Napoli,Campania,80145,,,,,Yes,,40.8722932,14.2753401
+694,10694,Ospedale San Giovanni Evangelista,Via Antonio Parrozzani 3,Tivoli,Lazio,00019,,+39 07743164332,,,Yes,,41.9599035,12.8017974
+695,10695,Ospedale San Giovanni di Dio,nan nan,Agrigento,Sicilia,92100,,,,,Yes,,37.3514962,13.6093503
+696,10696,Ospedale San Giovanni di Dio,nan nan,Orbetello,Toscana,58015,,,,,,,42.4472111,11.2355769
+697,10697,Ospedale San Giovanni di Dio,nan nan,Olbia,Sardegna,07026,,,,,Yes,,40.9315662,9.5020553
+698,10698,Ospedale San Giovanni di Dio,nan nan,Cagliari,Sardegna,09124,,,,,Yes,,39.2227203,9.1124673
+699,10699,Ospedale San Giuliano,Viale Piazza d'Armi 1,Novara,Piemonte,28100,,,,,,,45.435501,8.62852
+700,10700,Ospedale San Giuseppe,nan nan,Isili,Sardegna,09056,,,,,,,39.7429103,9.1105304
+701,10701,Ospedale San Giuseppe,nan nan,Empoli,Toscana,50053,,,,,Yes,,43.7224871,10.9312052
+702,10702,Ospedale San Giuseppe,Via San Vittore 12,Milano,Lombardia,20123,,+32 02 85991,,,Yes,,45.4641287,9.1715329
+703,10703,Ospedale San Giuseppe,nan nan,Albano Laziale,Lazio,00041,,,,,Yes,,41.7285921,12.6438361
+704,10704,Ospedale San Giuseppe,nan nan,Cairo Montenotte,Liguria,17014,,,,,Yes,,44.4019667,8.2698295
+705,10705,Ospedale San Giuseppe Moscati,Via per Martina Franca nan,Taranto,Puglia,74121,,+39 099 4585111,,,Yes,,40.5387228,17.2759404
+706,10706,Ospedale San Giuseppe Moscati,Via Antonio Gramsci 1,Aversa,Campania,81031,,+39 081 5001111,,,,,40.9585092,14.2087699
+707,10707,Ospedale San Giuseppe da Copertino,nan nan,Copertino,Puglia,73043,,,,,Yes,,40.2794043,18.0459077
+708,10708,Ospedale San Giuseppe e Melorio,nan nan,Santa Maria Capua Vetere,Campania,81055,,,,,Yes,,41.0768513,14.2622708
+709,10709,Ospedale San Jacopo,nan nan,Pistoia,Toscana,51100,,,,,Yes,,43.9192108,10.9051725
+710,10710,Ospedale San Lazzaro,Via Pietrino Belli 26,Alba,Piemonte,12051,,,,,Yes,,44.699127,8.0303866
+711,10711,Ospedale San Leonardo,nan nan,Castellammare di Stabia,Campania,80053,,,,,Yes,,40.7028239,14.4893306
+712,10712,Ospedale San Leopoldo Mandic,Largo Beato Leopoldo Mandic 1,Merate,Lombardia,23807,,,,,Yes,,45.6974223,9.4255933
+713,10713,Ospedale San Liberatore,nan nan,Atri,TE,64032,,,,,Yes,,42.5779199,13.9853971
+714,10714,Ospedale San Lorenzo,Via Galileo Galilei 1,Valdagno,Veneto,36078,,,,,Yes,,45.6468517,11.3074528
+715,10715,Ospedale San Lorenzo,Via Galileo Galilei 1,Valdagno,Veneto,36078,,,,,,,45.6465751,11.3089649
+716,10716,Ospedale San Luca,nan nan,Trecenta,Veneto,45027,,,,,,,45.0289557,11.4644446
+717,10717,Ospedale San Luca,Via Francesco Cammarota 1,Vallo della Lucania,Campania,84078,,+39 0974 7111111,,,Yes,,40.2258861,15.261867
+718,10718,Ospedale San Luca,nan nan,Lucca,Toscana,55100,,,,,,,43.8437602,10.53024
+719,10719,Ospedale San Luigi,nan nan,Orbassano,Piemonte,10043,,,,,,,45.0266228,7.5526371
+720,10720,Ospedale San Marcellino,nan nan,Muravera,Sardegna,09043,,,,,Yes,,39.4203783,9.5695659
+721,10721,Ospedale San Martino,nan nan,Belluno,Veneto,32100,,,,,,,46.1401469,12.2037589
+722,10722,Ospedale San Martino,nan nan,Genova,Liguria,16132,,,,,Yes,,44.4102832,8.9769798
+723,10723,Ospedale San Massimo,nan nan,Penne,PE,65017,,,,,,,42.4597988,13.9218644
+724,10724,Ospedale San Matteo degli Infermi,Via Loreto 3,Spoleto,Umbria,06049,,+39 0743 2101,,,Yes,,42.7327569,12.7250134
+725,10725,Ospedale San Matteo degli Infermi,Via Loreto nan,Spoleto,Umbria,06049,,+39 0743 2101,,,Yes,,42.7327569,12.7250134
+726,10726,Ospedale San Michele,Piazzale Alessandro Ricchi 1,Cagliari,Sardegna,09121,,,,,,,39.2507898,9.1090346
+727,10727,Ospedale San Nicolò,Via Nostra Signora della Guardia nan,Levanto,Liguria,19015,,,,,,,44.1763756,9.6195371
+728,10728,Ospedale San Pancrazio,nan nan,Arco,Trentino-Alto Adige,38062,,,,,,,45.9159427,10.8797388
+729,10729,Ospedale San Paolo,Largo Donatori del Sangue nan,Civitavecchia,Lazio,00053,,,,,,,42.0990318,11.8102914
+730,10730,Ospedale San Paolo,nan nan,Savona,Liguria,17100,,+39 019 84041,,,,,44.3193645,8.4898561
+731,10731,Ospedale San Paolo,nan nan,Bari,Puglia,70122,,,,,Yes,,41.1187957,16.7804087
+732,10732,Ospedale San Paolo,nan nan,Bari,Puglia,70122,,,,,,,41.1176031,16.7807934
+733,10733,Ospedale San Paolo,nan nan,Milano,Lombardia,20142,,+39 02 81 841,,,Yes,,45.4342311,9.1588582
+734,10734,Ospedale San Pellegrino di Castiglione,nan nan,Castiglione delle Stiviere,Lombardia,46043,,,,,,,45.3900186,10.4939333
+735,10735,Ospedale San Pietro Fatebenefratelli,Via Cassia 600,Roma,Lazio,00185,,+39 06 33581,,,,,41.9641582,12.4501977
+736,10736,Ospedale San Pietro Igneo,nan nan,Fucecchio,Toscana,50054,,,,,,,43.730436,10.8076158
+737,10737,Ospedale San Pio da Pietrelcina,nan nan,Vasto,CH,66054,,,,,Yes,,42.1186368,14.7098562
+738,10738,Ospedale San Raffaele,nan nan,Segrate,Lombardia,20090,,,,,Yes,,45.5036287,9.2633957
+739,10739,Ospedale San Raffaele,nan nan,Velletri,Lazio,00049,,,,,,,41.7022054,12.7567813
+740,10740,Ospedale San Rocco,nan nan,Galliate,Piemonte,28066,,,,,,,45.4824945,8.703967
+741,10741,Ospedale San Salvatore di Pesaro sede Muraglia,Via Cesare Lombroso nan,Pesaro,Marche,61121,,,,,No,,43.8907221,12.9250876
+742,10742,Ospedale San Salvatore di Pesaro sede centrale,Piazzale Carlo Cinelli 4,Pesaro,Marche,61121,,,,,Yes,,43.9083008,12.9059964
+743,10743,Ospedale San Sebastiano,nan nan,Correggio,RE,42015,,,,,,,44.7767569,10.7834403
+744,10744,Ospedale San Sebastiano di Frascati,nan nan,Frascati,Lazio,00044,,,,,,,41.8121869,12.6737371
+745,10745,Ospedale San Sebastiano di Frascati,Via Tuscolana 2,Frascati,Lazio,00044,,,,,Yes,,41.8089591,12.6745499
+746,10746,Ospedale San Severino Bartolomeo Eustachio,nan nan,San Severino Marche,Marche,62027,,+39 0733 6421,,,Yes,,43.2357904,13.1870214
+747,10747,Ospedale San Vincenzo,Contrada Sirina nan,Taormina,Sicilia,98039,,,,,Yes,,37.8461811,15.2782482
+748,10748,Ospedale Sandro Pertini,via dei Monti Tiburtini 385,Roma,Lazio,00157,,+39 06 41431,,,Yes,,41.9189166,12.5382256
+749,10749,Ospedale Sant'Alfonso Maria de' Liguori,nan nan,Sant'Agata de' Goti,Campania,82019,,,,,,,41.1058469,14.5085826
+750,10750,Ospedale Sant'Andrea,nan nan,Massa Marittima,Toscana,58024,,,,,Yes,,43.0436207,10.8903008
+751,10751,Ospedale Sant'Andrea,nan nan,Roma,Lazio,00185,,,,,,,41.9814604,12.4721865
+752,10752,Ospedale Sant'Andrea,Corso Mario Abbiate 21,Vercelli,Piemonte,13100,,,,,,,45.3179737,8.4147363
+753,10753,Ospedale Sant'Andrea,nan nan,La Spezia,Liguria,19121,,,,,Yes,,44.1122916,9.829715
+754,10754,Ospedale Sant'Anna,Via dell'Ospedale Consorziale 17,Ronciglione,Lazio,01037,,+39 0761 651 254; 800 692 911,,,Yes,,42.2926392,12.2111995
+755,10755,Ospedale Sant'Anna di Como,nan nan,Montano Lucino,Lombardia,22043,,,,,Yes,,45.7918837,9.0466002
+756,10756,Ospedale Sant'Antonio,nan nan,Padova,Veneto,35139,,,,,designated,,45.392348,11.8920099
+757,10757,Ospedale Sant'Antonio,nan nan,Sassello,Liguria,17046,,,,,,,44.4778801,8.4876273
+758,10758,Ospedale Sant'Antonio Abate,nan nan,Cantù,Lombardia,22063,,,,,Yes,,45.7395677,9.1391303
+759,10759,Ospedale Sant'Eugenio,Piazzale dell'Umanesimo 10,Roma,Lazio,00144,,,,,Yes,,41.8220985,12.4710852
+760,10760,Ospedale Sant'Orsola,nan nan,Brescia,Lombardia,25123,,,,,Yes,,45.5357776,10.2161973
+761,10761,Ospedale Santa Barbara,nan nan,Iglesias,Sardegna,09016,,,,,Yes,,39.31614,8.5383659
+762,10762,Ospedale Santa Caterina Novella,nan nan,Galatina,Puglia,73013,,,,,Yes,,40.1771568,18.157346
+763,10763,Ospedale Santa Croce,nan nan,Castelnuovo di Garfagnana,Toscana,55032,,,,,Yes,,44.1130106,10.4144593
+764,10764,Ospedale Santa Croce,Via Vittorio Veneto 2,Fano,Marche,61032,,,,,Yes,,43.8381485,13.0207095
+765,10765,Ospedale Santa Croce,Via Michele Coppino 26,Cuneo,Piemonte,12100,,+39 0171 641111,,,Yes,,44.3864323,7.5366094
+766,10766,Ospedale Santa Croce,nan nan,Moncalieri,Piemonte,10024,,,,,Yes,,45.0013483,7.6895952
+767,10767,Ospedale Santa Maria Annunziata,nan nan,Bagno a Ripoli,Toscana,50012,,,,,Yes,,43.7323934,11.3044942
+768,10768,Ospedale Santa Maria Bianca,nan nan,Mirandola,MO,41037,,,,,,,44.8840365,11.0659495
+769,10769,Ospedale Santa Maria Goretti,nan nan,Latina,Lazio,04100,,,,,,,41.4600454,12.9079238
+770,10770,Ospedale Santa Maria degli Angeli,Via Montereale 24,Pordenone,Friuli-Venezia Giulia,33170,,,,,Yes,,45.9707185,12.6509689
+771,10771,Ospedale Santa Maria dei Laici,Via dell'Ospedale 18,Amelia,Umbria,05022,,+39 0744 9011,,,Yes,,42.5593007,12.4115973
+772,10772,Ospedale Santa Maria dei Laici,Via dell'Ospedale 18,Amelia,Umbria,05022,,+39 0744 9011,,,Yes,,42.5593007,12.4115973
+773,10773,Ospedale Santa Maria del Carmine,nan nan,Rovereto,Trentino-Alto Adige,38068,,,,,landing_site,,45.88245,11.0417728
+774,10774,Ospedale Santa Maria della Pace,nan nan,Monte San Savino,Toscana,52048,,,,,,,43.3323582,11.7228906
+775,10775,Ospedale Santa Maria di Loreto Mare,nan nan,Napoli,Campania,80142,,,,,Yes,,40.8467754,14.2723975
+776,10776,Ospedale Santa Marta e Santa Venera,nan nan,Acireale,Sicilia,95024,,,,,,,37.6166917,15.1427085
+777,10777,Ospedale Santa Verdiana,nan nan,Castelfiorentino,Toscana,50051,,,,,,,43.6101044,10.9699918
+778,10778,Ospedale Santi Benvenuto e Rocco,Via Leopardi 15,Osimo,Marche,60027,,+39 071 71301,,,Yes,,43.4850904,13.4869006
+779,10779,Ospedale Santi Giovanni e Paolo,nan nan,Venezia,Veneto,30122,,,,,Yes,,45.439165,12.3453802
+780,10780,Ospedale Santi Nicola e Filippo Avezzano,nan nan,Avezzano,AQ,67051,,,,,Yes,,42.0537588,13.4270008
+781,10781,Ospedale Santissima Trinità,nan nan,Sora,Lazio,03039,,,,,Yes,,41.7292992,13.6310374
+782,10782,Ospedale Santissima Trinità,nan nan,Cagliari,Sardegna,09122,,,,,,,39.2369401,9.1058218
+783,10783,Ospedale Santissima Trinità,nan nan,Romano di Lombardia,Lombardia,24058,,,,,Yes,,45.5197902,9.7490002
+784,10784,Ospedale Santissimo Salvatore,nan nan,Mistretta,Sicilia,98073,,,,,,,37.9286626,14.3582214
+785,10785,Ospedale Santissimo Salvatore,nan nan,San Giovanni in Persiceto,BO,40017,,,,,Yes,,44.6340885,11.1929356
+786,10786,Ospedale Santo Spirito,Via Vittorio Emanuele II 3,Bra,Piemonte,12042,,,,,Yes,,44.7032682,7.8490935
+787,10787,Ospedale Santo Stefano,nan nan,Prato,Toscana,59100,,,,,Yes,,43.8894055,11.062073
+788,10788,Ospedale Sant’Agostino–Estense,nan nan,Modena,MO,41121,,,,,,,44.6066856,10.8685818
+789,10789,Ospedale Serbelloni - Gorgonzola,Via Vincenzo Bellini 1,Gorgonzola,Lombardia,20064,,,,,,,45.5348573,9.4111096
+790,10790,Ospedale Serristori,nan nan,Figline e Incisa Valdarno,Toscana,50063,,,,,Yes,,43.6122957,11.4750577
+791,10791,Ospedale Simiani di Loiano,nan nan,Loiano,BO,40050,,,,,Yes,,44.2671917,11.3248644
+792,10792,Ospedale Sirai,nan nan,Carbonia,Sardegna,09013,,,,,,,39.1861886,8.5093766
+793,10793,Ospedale Spaziani,nan nan,Frosinone,Lazio,03100,,,,,,,41.6367077,13.3221516
+794,10794,"Ospedale Specializzato ""Luigi Spolverini""",Via delle Cerquette 2,Ariccia,Lazio,00072,,+39 06 932 71,,,,,41.7226125,12.6756973
+795,10795,Ospedale Teresa Masselli Mascia,nan nan,San Severo,Puglia,71016,,,,,,,41.689833,15.3828093
+796,10796,Ospedale Tortona,nan nan,Tortona,Piemonte,15057,,,,,,,44.8938272,8.863072
+797,10797,Ospedale Trabattoni e Ronzoni,Via Giuseppe Verdi 2,Seregno,Lombardia,20831,,,,,,,45.6537665,9.2048282
+798,10798,Ospedale Uboldo,Via Ambrogio Uboldo nan,Cernusco sul Naviglio,Lombardia,20063,,,,,Yes,,45.5234411,9.3301356
+799,10799,Ospedale Umberto I,nan nan,Siracusa,Sicilia,96100,,,,,Yes,,37.0731162,15.2830326
+800,10800,Ospedale Umberto I,nan nan,Nocera Inferiore,Campania,84014,,,,,,,40.744381,14.6500483
+801,10801,Ospedale Umberto I,nan nan,Corato,Puglia,70033,,,,,,,41.1465951,16.4235836
+802,10802,Ospedale Umberto I,nan nan,Enna,Sicilia,94100,,,,,,,37.5652728,14.2725735
+803,10803,Ospedale Umberto I,Viale Dante Alighieri 10,Lugo,RA,48022,,,,,Yes,,44.4165464,11.9214213
+804,10804,Ospedale Umberto I,nan nan,Altamura,Puglia,70022,,,,,Yes,,40.832304,16.5512362
+805,10805,Ospedale Umberto I,nan nan,Mottola,Puglia,74017,,,,,,,40.6351361,17.0281331
+806,10806,Ospedale Umberto I (presidio Alessandro Rizza),nan nan,Siracusa,Sicilia,96100,,,,,No,,37.0817318,15.2706592
+807,10807,Ospedale Unico Avola-Noto (Presidio G. Trigona),nan nan,Noto,Sicilia,96017,,,,,Yes,,36.903519,15.0684946
+808,10808,Ospedale Unico Avola-Noto (Presidio Giuseppe Di Maria),nan nan,Avola,Sicilia,96012,,,,,Yes,,36.9251838,15.158802
+809,10809,Ospedale V. Emanuele II,nan nan,Bisceglie,Puglia,76011,,,,,,,41.2431082,16.4892435
+810,10810,Ospedale Val Vibrata Sant'Omero,nan nan,Sant'Omero,TE,64027,,,,,,,42.7934822,13.7997184
+811,10811,Ospedale Valdese,Via Matteo Gay 34,Torre Pellice,Piemonte,10066,,,,,No,,44.8191226,7.2051375
+812,10812,Ospedale Valduce,nan nan,Como,Lombardia,22100,,,,,Yes,,45.8112778,9.0867972
+813,10813,Ospedale Valli del Noce,Via Alcide Degasperi 31,Cles,Trentino-Alto Adige,38023,,,,,,,46.3607011,11.0321228
+814,10814,Ospedale Vecchio,nan nan,Lodi,Lombardia,26900,,,,,,,45.3135578,9.5094009
+815,10815,Ospedale Vecchio di Montebelluna,Via Sant'Andrea nan,Montebelluna,Veneto,31044,,,,,No,,45.7706717,12.0338095
+816,10816,Ospedale Versilia,Strada Statale Aurelia 335,Camaiore,Toscana,55041,,+39 0584 6051,,,,,43.9155843,10.2223826
+817,10817,Ospedale Villa Beretta,nan nan,Costa Masnaga,Lombardia,23845,,,,,,,45.7707879,9.2696418
+818,10818,Ospedale Villa Scassi,nan nan,Genova,Liguria,16151,,,,,Yes,,44.4127058,8.8962747
+819,10819,Ospedale Villamarina,nan nan,Piombino,Toscana,57025,,,,,Yes,,42.9407593,10.5103926
+820,10820,Ospedale Vincenzo Cervello,nan nan,Palermo,Sicilia,90146,,,,,Yes,,38.1534417,13.3150601
+821,10821,Ospedale Vittorio Emanuele II,nan nan,Amandola,Marche,63857,,,,,,,42.9825985,13.3636295
+822,10822,Ospedale Vittorio Emanuele III,Viale Mosè Bianchi 9,Carate Brianza,Lombardia,20841,,+39 0362 9841,,,Yes,,45.6693945,9.2463307
+823,10823,Ospedale città di Sesto San Giovanni,Viale Giacomo Matteotti 83,Sesto San Giovanni,Lombardia,20099,,,,,,,45.5367615,9.2253385
+824,10824,Ospedale civico di Partinico,nan nan,Partinico,Sicilia,90047,,+39 091 8911111,,,Yes,,38.0376359,13.1165285
+825,10825,"Ospedale civile ""Francesco Pentimalli""",nan nan,Palmi,Calabria,89015,,,,,,,38.3622272,15.8550428
+826,10826,Ospedale civile San Martino,nan nan,Oristano,Sardegna,09170,,,,,,,39.8980035,8.5866733
+827,10827,Ospedale civile di Isola della Scala,nan nan,Isola della Scala,Veneto,37063,,,,,,,45.2678423,11.00746
+828,10828,Ospedale de Carità Onlus,nan nan,Taggia,Liguria,18018,,,,,,,43.844746,7.8499737
+829,10829,Ospedale degli Infermi,nan nan,Faenza,RA,48018,,,,,Yes,,44.2883908,11.8736171
+830,10830,Ospedale degli Infermi,nan nan,San Miniato,Toscana,56028,,,,,,,43.6810976,10.8616325
+831,10831,"Ospedale dei Bambini ""Vittore Buzzi""",Via Lodovico Castelvetro 28,Milano,Lombardia,20154,,+39 02 57995359,,,,,45.4849727,9.1665402
+832,10832,Ospedale dei Castelli,nan nan,Ariccia,Lazio,00072,,,,,Yes,,41.6794146,12.6476023
+833,10833,Ospedale dei Pellegrini,Via Portamedina alla Pignasecca 41,Napoli,Campania,80134,,+39 081 2543410,,,,,40.8475534,14.2471647
+834,10834,Ospedale del Cadore Giovanni Paolo II,nan nan,Pieve di Cadore,Veneto,32044,,,,,Yes,,46.4318031,12.3770542
+835,10835,Ospedale del Cuore,nan nan,Montignoso,Toscana,54038,,,,,,,44.0186438,10.155251
+836,10836,Ospedale dell'Alta Val d'Elsa,nan nan,Poggibonsi,Toscana,53036,,,,,,,43.4498688,11.1467315
+837,10837,Ospedale dell'Angelo,nan nan,Venezia,Veneto,30135,,,,,,,45.5129422,12.2207781
+838,10838,Ospedale della Gruccia,nan nan,San Giovanni Valdarno,Toscana,52027,,,,,,,43.54616,11.5513066
+839,10839,"Ospedale della Murgia ""Fabio Perinei""","Strada Statale 96 Altamura – Gravina in Puglia Km. 73,800Altamura – Gravina in Puglia Km 73,800",Altamura,Puglia,70022,,,,,Yes,,40.8199799,16.4680764
+840,10840,"Ospedale della Murgia ""Fabio Perinei""","Strada Statale 96 Altamura – Gravina in Puglia Km. 73,800Altamura – Gravina in Puglia Km 73,800",Altamura,Puglia,70022,,,,,Yes,,40.8201694,16.4684957
+841,10841,"Ospedale della Valdichiana ""Santa Margherita""",nan nan,Cortona,Toscana,52044,,,,,,,43.2789419,11.923265
+842,10842,Ospedale della Valdinievole,nan nan,Pescia,Toscana,51017,,,,,Yes,,43.9025404,10.6900701
+843,10843,Ospedale di Arzignano,nan nan,Arzignano,Veneto,36071,,,,,Yes,,45.5266763,11.3317125
+844,10844,Ospedale di Asolo Ulss 8,nan nan,Asolo,Veneto,31011,,,,,,,45.796247,11.9128312
+845,10845,Ospedale di Assisi,Via Valentin Muller 1,Assisi,Umbria,06081,,+39 075 81391,,,Yes,,43.0641493,12.6217709
+846,10846,Ospedale di Auronzo di Cadore,nan nan,Auronzo di Cadore,Veneto,32041,,,,,,,46.5538056,12.4389512
+847,10847,Ospedale di Avigliana,Via Sant'Agostino 5,Avigliana,Piemonte,10051,,,,,No,,45.0756438,7.4032865
+848,10848,Ospedale di Bentivoglio,Via Guglielmo Marconi 35,Bentivoglio,BO,40010,,,,,,,44.6343938,11.4173907
+849,10849,Ospedale di Bentivoglio,nan nan,Bentivoglio,BO,40010,,,,,Yes,,44.633895,11.416275
+850,10850,Ospedale di Bollate,nan nan,Bollate,Lombardia,20021,,,,,Yes,,45.5396843,9.1181856
+851,10851,Ospedale di Bolzano - Krankenhaus Bozen,nan nan,Bolzano,Trentino-Alto Adige,39100,,+39 0471 908111,,,Yes,,46.4987671,11.3067086
+852,10852,Ospedale di Borgosesia,nan nan,Borgosesia,Piemonte,13011,,,,,,,45.7127279,8.2604677
+853,10853,Ospedale di Borgosesia,nan nan,Borgosesia,Piemonte,13011,,,,,,,45.71265,8.2604868
+854,10854,Ospedale di Budrio,nan nan,Budrio,BO,40054,,,,,Yes,,44.5354044,11.5345868
+855,10855,"Ospedale di Calcinate ""F.M. Passi""",Piazza Ospedale 3,Calcinate,Lombardia,24050,,,,,Yes,,45.6197584,9.7983646
+856,10856,Ospedale di Campizzi,nan nan,Mesoraca,Calabria,88838,,,,,,,39.0931846,16.7906912
+857,10857,Ospedale di Camposampiero,nan nan,Camposampiero,Veneto,35012,,,,,,,45.5636433,11.9293587
+858,10858,Ospedale di Caprino Veronese,nan nan,Caprino Veronese,Veneto,37013,,,,,,,45.609226,10.7963034
+859,10859,Ospedale di Carrara,nan nan,Carrara,Toscana,54033,,,,,,,44.0797546,10.1038859
+860,10860,Ospedale di Castel San Pietro Terme,nan nan,Castel San Pietro Terme,BO,40024,,,,,Yes,,44.3990529,11.5917662
+861,10861,Ospedale di Circolo - Fondazione Macchi,Viale Luigi Borri nan,Varese,Lombardia,21100,,,,,,,45.807425,8.8406071
+862,10862,Ospedale di Circolo - Rho,Corso Europa 250,Rho,Lombardia,20017,,,,,Yes,,45.5337104,9.0332586
+863,10863,Ospedale di Conselve,nan nan,Conselve,Veneto,35026,,,,,,,45.2335257,11.8706308
+864,10864,Ospedale di Cosenza,nan nan,Cosenza,Calabria,87100,,,,,,,39.2930884,16.2492029
+865,10865,Ospedale di Cuasso al Monte,nan nan,Cuasso al Monte,Lombardia,21050,,,,,No,,45.9138803,8.8591316
+866,10866,Ospedale di Cuggiono,nan nan,Cuggiono,Lombardia,20012,,,,,,,45.5101403,8.8213706
+867,10867,Ospedale di Desio,Via Mazzini 1,Desio,Lombardia,20832,,+39 0362 385 610,,,Yes,,45.6276736,9.1942649
+868,10868,Ospedale di Dolo,nan nan,Dolo,Veneto,30031,,,,,,,45.4242416,12.0722869
+869,10869,Ospedale di Edolo,Piazza Donatori di Sangue 1,Edolo,Lombardia,25048,,+39 0364 7721,,,,,46.1783502,10.3305323
+870,10870,Ospedale di Fiemme,nan nan,Cavalese,Trentino-Alto Adige,38033,,,,,,,46.288582,11.4545996
+871,10871,Ospedale di Gardone Val Trompia,Via Papa Giovanni Ventitreesimo 4,Sarezzo,Lombardia,25068,,+39 030 8933273,,,,,45.6752766,10.1838538
+872,10872,Ospedale di Gavardo,nan nan,Gavardo,Lombardia,25085,,,,,,,45.5886632,10.4400492
+873,10873,"Ospedale di Imola ""Santa Maria della Scaletta""",nan nan,Imola,BO,40026,,,,,Yes,,44.36018,11.6907239
+874,10874,Ospedale di Imperia,nan nan,Imperia,Liguria,18100,,,,,Yes,,43.8910617,8.0310908
+875,10875,Ospedale di Leno,Piazzetta Donatori di sangue 1,Leno,Lombardia,25024,,+39 030 90541,,,,,45.3656737,10.2164538
+876,10876,Ospedale di Lentini,nan nan,Lentini,Sicilia,96016,,,,,Yes,,37.2844324,14.9842109
+877,10877,Ospedale di Lissone,Via Monsignore Ennio Bernasconi 16,Lissone,Lombardia,20851,,+39 039 2333931,,,,,45.6214393,9.2372028
+878,10878,Ospedale di Maratea,nan nan,Maratea,Basilicata,85046,,,,,,,39.9983296,15.7191061
+879,10879,Ospedale di Marzana,nan nan,Verona,Veneto,37142,,,,,,,45.4992943,11.0166191
+880,10880,Ospedale di Montecchio Maggiore,nan nan,Montecchio Maggiore,Veneto,36075,,,,,Yes,,45.5092147,11.4008691
+881,10881,Ospedale di Naso,nan nan,Naso,Sicilia,98074,,,,,No,,38.1273553,14.7881292
+882,10882,Ospedale di Noale,nan nan,Noale,Veneto,30033,,,,,Yes,,45.5526184,12.0747669
+883,10883,Ospedale di Oderzo,nan nan,Oderzo,Veneto,31046,,,,,Yes,,45.7805574,12.4891082
+884,10884,Ospedale di Oppido Mamertina,nan nan,Oppido Mamertina,Calabria,89014,,,,,,,38.290725,15.9862372
+885,10885,Ospedale di Pavullo,nan nan,Pavullo nel Frignano,MO,41026,,,,,Yes,,44.3340651,10.836611
+886,10886,Ospedale di Pederobba,nan nan,Pederobba,Veneto,31040,,,,,,,45.8779196,11.9493453
+887,10887,Ospedale di Pietrasanta,nan nan,Pietrasanta,Toscana,55045,,,,,,,43.9604995,10.2299718
+888,10888,Ospedale di Portogruaro,nan nan,Portogruaro,Veneto,30026,,,,,Yes,,45.7712444,12.8405579
+889,10889,Ospedale di Rivoli,nan nan,Rivoli,Piemonte,10098,,,,,Yes,,45.0602643,7.5191884
+890,10890,Ospedale di Salò,Piazza Sergio Bresciani 5,Salò,Lombardia,25087,,+39 036 53781,,,,,45.605209,10.5222784
+891,10891,Ospedale di San Donà di Piave,nan nan,San Donà di Piave,Veneto,30027,,,,,,,45.6356946,12.5723315
+892,10892,Ospedale di San Giovanni Bianco,nan nan,San Giovanni Bianco,Lombardia,24015,,,,,No,,45.8718253,9.6539155
+893,10893,Ospedale di Sant'Agostino,Piazza Antonio Gramsci 1,Castiglione del Lago,Umbria,06061,,+39 075 95261,,,Yes,,43.1274644,12.0550528
+894,10894,Ospedale di Santa Maria Nuova,nan nan,Firenze,Toscana,50122,,,,,Yes,,43.7744039,11.2600648
+895,10895,Ospedale di Sant’Anna,nan nan,Castelnovo Ne' Monti,RE,42035,,,,,Yes,,44.4345299,10.4083278
+896,10896,Ospedale di Saronno,Piazza don Giuseppe Borella 1,Saronno,Lombardia,21047,,,,,Yes,,45.6315075,9.039601
+897,10897,Ospedale di Senigallia,nan nan,Senigallia,Marche,60019,,,,,Yes,,43.7153421,13.2092949
+898,10898,Ospedale di Soveria Mannelli,nan nan,Soveria Mannelli,Calabria,88049,,,,,,,39.0783172,16.3804435
+899,10899,Ospedale di Susa,Corso Inghilterra 66,Susa,Piemonte,10059,,+39 0122 621212,,,Yes,,45.1382144,7.0507872
+900,10900,Ospedale di Suzzara,Via Generale Cantore 14/B,Suzzara,Lombardia,46029,,+39 03 76 51 74 17,,,Yes,,44.9866296,10.7527079
+901,10901,Ospedale di Taurianova,nan nan,Taurianova,Calabria,89029,,,,,,,38.3532322,16.0057632
+902,10902,"Ospedale di Tradate ""Luigi Galmarini""",nan nan,Tradate,Lombardia,21049,,,,,,,45.7189205,8.9008932
+903,10903,Ospedale di Tropea,nan nan,Tropea,Calabria,89861,,,,,,,38.6678239,15.8788292
+904,10904,Ospedale di Vaio,nan nan,Fidenza,PR,43036,,,,,Yes,,44.847493,10.0397918
+905,10905,Ospedale di Vallecamonica,nan nan,Esine,Lombardia,25040,,,,,,,45.9271024,10.2443638
+906,10906,Ospedale di Vaprio d'Adda,nan nan,Vaprio d'Adda,Lombardia,20069,,,,,,,45.5742631,9.5274406
+907,10907,Ospedale di Villa d'Agri,Viale S. Pio da Pietrelcina nan,Marsicovetere,Basilicata,85050,,+39 0975 312111,,,Yes,,40.3616592,15.8268645
+908,10908,Ospedale di Vimercate,Via Santi Cosma e Damiano 10,Vimercate,Lombardia,20871,,,,,Yes,,45.6085456,9.3591507
+909,10909,Ospedale e Casa di Riposo Nobile Paolo Richiedei,Via Paolo Richiedei 16,Gussago,Lombardia,25064,,+39 030 25281,,,,,45.5905943,10.151866
+910,10910,Ospedale ex Mauriziano di Lanzo,Via Marchese della Rocca nan,Lanzo Torinese,Piemonte,10074,,,,,Yes,,45.2763814,7.4870118
+911,10911,Ospedale generale di zona San Camillo,nan nan,Treviso,Veneto,31100,,,,,,,45.6746686,12.2507423
+912,10912,Ospedale nuovo di Legnano,Via Giovanni Paolo II 3,Legnano,Lombardia,20025,,+39 0331 449111,,,Yes,,45.5828241,8.8877114
+913,10913,Ospedale pediatrico Meyer,nan nan,Firenze,Toscana,50127,,,,,,,43.8095428,11.254233
+914,10914,Ospedale provinciale Camillo de Lellis,Kennedy nan,Rieti,Lazio,02100,,+39 0746 2781,,,Yes,,42.4236829,12.9059537
+915,10915,Ospedale unificato Broni-stradella,nan nan,Stradella,Lombardia,27049,,,,,Yes,,45.0769274,9.2846591
+916,10916,Ospedale vecchio - Polo Sanitario territoriale,Viale Giovanni Amendola 8,Imola,BO,40026,,+39 0542 604111,,,No,,44.3538766,11.7055499
+917,10917,Ospedale vecchio di Legnano,Via Cesare Candiani 2,Legnano,Lombardia,20025,,,,,No,,45.5939685,8.9318076
+918,10918,Ospedale «Maria SS. Immacolata» - Guardiagrele,nan nan,Guardiagrele,CH,66016,,,,,Yes,,42.2006038,14.2180114
+919,10919,Ospedale “Sant'Antonio Abate”,nan nan,Fivizzano,Toscana,54013,,,,,,,44.2397162,10.1317684
+920,10920,Ospedaletto,nan nan,Siniscola,Sardegna,08029,,,,,,,40.5692013,9.6847245
+921,10921,"Ospedali Riuniti ""Bianchi Melacrino Morelli""",nan nan,Reggio di Calabria,Calabria,89125,,,,,Yes,,38.1134609,15.6572473
+922,10922,"Ospedali Riuniti Padova Sud ""Madre Teresa di Calcutta""",Via Albere nan,Este,Veneto,35042,,,,,Yes,,45.2059761,11.7206234
+923,10923,Ospedali Riuniti Valdichiana Senese,nan nan,Montepulciano,Toscana,53045,,,,,,,43.1201979,11.8245699
+924,10924,Ospedali Riuniti di Foggia,nan nan,Foggia,Puglia,71121,,,,,,,41.4563209,15.5214729
+925,10925,Ospedali Riuniti di Foggia,nan nan,Foggia,Puglia,71121,,,,,,,41.4578975,15.5218918
+926,10926,Ospedali Villa Sofia Cervello,nan nan,Palermo,Sicilia,90146,,,,,,,38.1546195,13.3380931
+927,10927,P.O. Maresca,nan nan,Torre del Greco,Campania,80059,,,,,Yes,,40.8021304,14.3832747
+928,10928,P.O. Maria Santissima Addolorata,Piazza Scuola medica Salernitana nan,Eboli,Campania,84025,,+39 0828 362111,,,,,40.6187637,15.0497676
+929,10929,PAD.25 Rasori,nan nan,Parma,PR,43126,,,,,,,44.7985321,10.3096043
+930,10930,Padiglione 17 - C.R.T.,nan nan,Varese,Lombardia,21100,,,,,,,45.7988646,8.8485579
+931,10931,Padiglione Allende,nan nan,Forlì,FC,47122,,,,,,,44.2065345,12.0176261
+932,10932,Palazzetto prelievi,Via Marcantonio Ducco nan,Brescia,Lombardia,25123,,,,,,,45.5546441,10.2305256
+933,10933,Pediatra Panin,Viale della Scienza 26,Rovigo,Veneto,45100,,,,,,,45.0520492,11.7782803
+934,10934,Piccole Figlie Hospital,nan nan,Parma,PR,43124,,,,,,,44.7895618,10.3192155
+935,10935,Pio X,nan nan,Milano,Lombardia,20159,,,,,,,45.4953053,9.1888969
+936,10936,Poli ambulatorio,nan nan,San Benedetto Po,Lombardia,46027,,,,,,,45.040413,10.9280022
+937,10937,Poliambulatori - Asst Mantova,nan nan,Mantova,Lombardia,46100,,,,,,,45.1638259,10.7895818
+938,10938,Poliambulatorio,Via Vittorio Veneto 74,Tarvisio,Friuli-Venezia Giulia,33018,,,,,,,46.5029351,13.5759034
+939,10939,Poliambulatorio,nan nan,Pontebba,Friuli-Venezia Giulia,33016,,,,,,,46.506934,13.3024948
+940,10940,Poliambulatorio,nan nan,Oristano,Sardegna,09170,,,,,,,39.8988813,8.5889864
+941,10941,Poliambulatorio - Sede ASL,nan nan,Certosa di Pavia,Lombardia,27012,,,,,,,45.2544799,9.1289036
+942,10942,Poliambulatorio ASL,Via IV Novembre 21,Pianezza,Piemonte,10044,,,,,,,45.1000691,7.5468308
+943,10943,Poliambulatorio ASL,nan nan,Crotone,Calabria,88900,,,,,No,,39.078504,17.1318512
+944,10944,Poliambulatorio Giovanni Paolo II,nan nan,San Giovanni Rotondo,Puglia,71013,,,,,,,41.7084175,15.7015104
+945,10945,Poliambulatorio Le Forna,nan nan,Ponza,Lazio,04027,,,,,,,40.9097912,12.9568144
+946,10946,Poliambulatorio Librino,nan nan,Catania,Sicilia,95121,,,,,,,37.4918528,15.0438644
+947,10947,Poliambulatorio Morgagni (CUP),Viale Giovan Battista Morgagni 33,Firenze,Toscana,50127,,,,,No,,43.798522,11.2424177
+948,10948,Poliambulatorio Orosei,nan nan,Orosei,Sardegna,08028,,+39 0784 999117,,,,,40.3775291,9.6922874
+949,10949,Poliambulatorio Villa Iris,Via Cesare Pavese 12,Pianezza,Piemonte,10044,,+39 0119682282,,,,,45.1049554,7.5512279
+950,10950,Poliambulatorio di Muro Lucano,Via San Biagio 116,Muro Lucano,Basilicata,85054,,,,,Yes,,40.7558918,15.4962892
+951,10951,Poliambulatorio e Ospedale civile,Via Ospedale nan,Racconigi,Piemonte,12035,,,,,,,44.7663136,7.678212
+952,10952,"Policlinico ""Giambattista Rossi""",Piazzale Ludovico Antonio Scuro 10,Verona,Veneto,37122,,,,,Yes,,45.4014269,10.9911928
+953,10953,Policlinico (Nuove aule),nan nan,Palermo,Sicilia,90128,,,,,,,38.1030474,13.3608199
+954,10954,Policlinico Casilino,Via Casilina 1049,Roma,Lazio,00185,,06 231881,,,Yes,,41.8679375,12.5904366
+955,10955,Policlinico Città di Udine Polo 1,nan nan,Udine,Friuli-Venezia Giulia,33100,,,,,No,,46.0523989,13.2107345
+956,10956,Policlinico Italia,nan nan,Roma,Lazio,00162,,,,,,,41.9161999,12.5231498
+957,10957,Policlinico Madonna della consolazione,nan nan,Reggio di Calabria,Calabria,89125,,,,,,,38.114557,15.6621495
+958,10958,Policlinico San Marco,nan nan,Venezia,Veneto,30171,,,,,,,45.4933209,12.2489336
+959,10959,Policlinico San Pietro,nan nan,Ponte San Pietro,Lombardia,24036,,,,,,,45.6986843,9.5746017
+960,10960,Policlinico Santa Maria alle Scotte,Viale Mario Bracci 16,Siena,Toscana,53100,,+39 0577 585111,,,Yes,,43.3430877,11.3274357
+961,10961,Policlinico Sassarese,nan nan,Sassari,Sardegna,07100,,,,,Yes,,40.7211478,8.557756
+962,10962,Policlinico Tor Vergata,nan nan,Roma,Lazio,00133,,,,,,,41.8587168,12.6318335
+963,10963,Policlinico Universitario,nan nan,Monserrato,Sardegna,09042,,,,,No,,39.2709721,9.1271068
+964,10964,Policlinico Universitario Agostino Gemelli,nan nan,Roma,Lazio,00136,,,,,Yes,,41.9286315,12.4305345
+965,10965,Policlinico Universitario Campus Bio-Medico,nan nan,Roma,Lazio,00128,,,,,,,41.7700581,12.4728924
+966,10966,Policlinico Universitario Gaetano Martino,nan nan,Messina,Sicilia,98123,,,,,Yes,,38.1636295,15.5380459
+967,10967,Policlinico Universitario Umberto I,nan nan,Roma,Lazio,00162,,,,,Yes,,41.9042571,12.5111179
+968,10968,Policlinico di Bari,nan nan,Bari,Puglia,70122,,,,,Yes,,41.1147406,16.8599782
+969,10969,Policlinico di Modena,nan nan,Modena,MO,41121,,,,,Yes,,44.6323094,10.941391
+970,10970,Policlinico di Monza,Via Carlo Amati 111,Monza,Lombardia,20900,,+39 039 28101,,,,,45.5826342,9.2932616
+971,10971,Polo Emergenze Finale Emilia,Via per Modena 48b,Finale Emilia,MO,41034,,,,,ambulance_station,,44.8385585,11.2755539
+972,10972,Polo Logistico di Protezione Civile,Via Cascina del Gallo 5,Bussoleno,Piemonte,10053,,,,,,,45.1408949,7.1340589
+973,10973,Polo Sanitario di Medicina,nan nan,Medicina,BO,40059,,,,,No,,44.4743304,11.6354801
+974,10974,Polo riabilitativo Istituto Gaetano Pini,nan nan,Milano,Lombardia,20127,,,,,,,45.507581,9.220464
+975,10975,Posto di Primo Soccorso,nan nan,Ladispoli,Lazio,00055,,,,,,,41.9695459,12.0806217
+976,10976,Presentazione,nan nan,Loano,Liguria,17025,,,,,,,44.1238168,8.2503191
+977,10977,Presidio Integrato Ospedale Territorio San Marcello Pistoiese,nan nan,San Marcello Piteglio,Toscana,51028,,,,,,,44.0562808,10.7880441
+978,10978,Presidio Marzio Marini,nan nan,Magliano Sabina,Lazio,02046,,,,,,,42.3712827,12.4917659
+979,10979,Presidio Medico,nan nan,Lazise,Veneto,37017,,,,,Yes,,45.4583825,10.7132353
+980,10980,"Presidio Ospedaliero ""A. Perrino""",nan nan,Brindisi,Puglia,72100,,,,,,,40.6232651,17.9131863
+981,10981,"Presidio Ospedaliero ""De Gironcoli""",nan nan,Conegliano,Veneto,31015,,,,,,,45.8789576,12.2935481
+982,10982,"Presidio Ospedaliero ""S.S. Salvatore"" Azienda U.S.L. n.3 Catania",nan nan,Paternò,Sicilia,95047,,,,,Yes,,37.5721967,14.8975916
+983,10983,Presidio Ospedaliero Amiata Grossetana,nan nan,Castel del Piano,Toscana,58033,,,,,Yes,,42.8904947,11.5339417
+984,10984,Presidio Ospedaliero Amiata Val d'Orcia,nan nan,Abbadia San Salvatore,Toscana,53021,,,,,Yes,,42.8833644,11.6744378
+985,10985,Presidio Ospedaliero Angelo Bellini,Via Ospedale 3,Somma Lombardo,Lombardia,21019,,,,,,,45.6834215,8.7138414
+986,10986,Presidio Ospedaliero Giovanni Paolo II,Via Senatore Arturo Perugini nan,Lamezia Terme,Calabria,88046,,+39 0968 2081,,,Yes,,38.9591661,16.3039505
+987,10987,"Presidio Ospedaliero IRCCS San Matteo ""Ugo Dozzio""",nan nan,Belgioioso,Lombardia,27011,,,,,,,45.1567946,9.312936
+988,10988,Presidio Ospedaliero Pausillipon,nan nan,Napoli,Campania,80123,,,,,,,40.8128557,14.2050691
+989,10989,Presidio Ospedaliero San Bartolomeo,nan nan,Sarzana,Liguria,19038,,,,,,,44.1217676,9.9507958
+990,10990,Presidio Ospedaliero San Giuseppe Albano,nan nan,Albano Laziale,Lazio,00041,,,,,,,41.7286474,12.645505
+991,10991,Presidio Ospedaliero Sant'Antonio Abate,nan nan,Erice,Sicilia,91016,,,,,,,38.0283957,12.548845
+992,10992,Presidio Ospedaliero Santa Maria dell'Olmo,nan nan,Cava de' Tirreni,Campania,84013,,,,,Yes,,40.6948689,14.7104304
+993,10993,Presidio Ospedaliero Territoriale di Morbegno,Via Morelli 1,Morbegno,Lombardia,23017,,,,,ambulance_station,,46.132982,9.5728908
+994,10994,Presidio Ospedaliero Valle d'Itria,nan nan,Martina Franca,Puglia,74015,,,,,Yes,,40.7058883,17.3429
+995,10995,Presidio Ospedaliero dell'Immacolata,nan nan,Sapri,Campania,84073,,,,,Yes,,40.0698372,15.6172822
+996,10996,Presidio Ospedaliero di Conegliano,nan nan,Conegliano,Veneto,31015,,+39 0438 663111,,,,,45.8823072,12.2910819
+997,10997,Presidio Ospedaliero di Trebisacce,nan nan,Trebisacce,Calabria,87075,,,,,,,39.8739444,16.5352638
+998,10998,Presidio Ospedaliero di Vittorio Veneto,nan nan,Vittorio Veneto,Veneto,31029,,,,,Yes,,45.9880067,12.3234597
+999,10999,Presidio Ospedaliero di Vizzolo Predabissi,nan nan,Melegnano,Lombardia,20077,,,,,Yes,,45.3596521,9.3389365
+1000,11000,Presidio San Giovanni Antica Sede,nan nan,Torino,Piemonte,10123,,,,,No,,45.0634687,7.688674
+1001,11001,Presidio Sanitario Gradenigo,nan nan,Torino,Piemonte,10153,,+39 011 8151211,,,Yes,,45.0700057,7.7066787
+1002,11002,Presidio Sanitario Gradenigo,nan nan,Torino,Piemonte,10153,,+39 011 8151211,,,,,45.0701604,7.7048089
+1003,11003,Presidio Sanitario Raffaele Apicella,nan nan,Massa di Somma,Campania,80040,,,,,,,40.8520292,14.3730468
+1004,11004,"Presidio Territoriale Assistenziale - ex ""Ospedale Civile""",Largo Cappuccini nan,Ceglie Messapica,Puglia,72013,,+039 0831 389111,,,,,40.6442294,17.5179497
+1005,11005,Presidio ospedalieri G. Castelli,Via Fiume 18,Verbania,Piemonte,28922,,,,,Yes,,45.926418,8.5486233
+1006,11006,Presidio ospedaliero Garibaldi Centro,nan nan,Catania,Sicilia,95124,,,,,,,37.5115665,15.0749765
+1007,11007,Presidio ospedaliero Garibaldi Nesima,nan nan,Catania,Sicilia,95122,,,,,,,37.5119532,15.0410539
+1008,11008,Presidio ospedaliero Gaspare Rodolico,nan nan,Catania,Sicilia,95125,,,,,,,37.5317235,15.0705603
+1009,11009,Presidio ospedaliero Giuseppe Fogliani,nan nan,Milazzo,Sicilia,98057,,+39 090 9290111,,,Yes,,38.1895251,15.2514561
+1010,11010,Presidio ospedaliero Istituto di Medicina Fisica e Riabilitazione “Gervasutta”,nan nan,Udine,Friuli-Venezia Giulia,33100,,,,,No,,46.0499552,13.2358798
+1011,11011,Presidio ospedaliero Maria delle Grazie,nan nan,Cerreto Sannita,Campania,82032,,,,,,,41.2795126,14.5653971
+1012,11012,Presidio ospedaliero San Marco,nan nan,Catania,Sicilia,95121,,,,,,,37.4810607,15.0429239
+1013,11013,Presidio ospedaliero Santa Marta,nan nan,Catania,Sicilia,95124,,,,,,,37.504926,15.0815273
+1014,11014,Presidio sanitario multifunzionale,nan nan,Boves,Piemonte,12012,,,,,,,44.3292197,7.5479178
+1015,11015,Presidio sanitario “Vittorio Valletta”,nan nan,Torino,Piemonte,10135,,,,,No,,45.0158482,7.6320271
+1016,11016,Presiodio Ospedaliero di Piove di Sacco,nan nan,Piove di Sacco,Veneto,35028,,,,,Yes,,45.2935594,12.0292001
+1017,11017,Primo Soccorso e Farmacia,nan nan,San Benedetto Val di Sambro,BO,40048,,,,,,,44.1696828,11.21596
+1018,11018,Principe di Piemonte,nan nan,Firenze,Toscana,50125,,,,,,,43.7488293,11.2441265
+1019,11019,Pronto Soccorso,nan nan,Gorizia,Friuli-Venezia Giulia,34170,,,,,,,45.93608,13.6048536
+1020,11020,Pronto Soccorso,nan nan,Ravenna,RA,48121,,+39 0544 285111,,,Yes,,44.4097814,12.1884387
+1021,11021,Pronto Soccorso,nan nan,Paderno Dugnano,Lombardia,20037,,,,,Yes,,45.5728415,9.1569985
+1022,11022,Pronto Soccorso,nan nan,Garbagnate Milanese,Lombardia,20024,,,,,Yes,,45.5835349,9.0939112
+1023,11023,Pronto Soccorso,nan nan,Parma,PR,43126,,,,,Yes,,44.8003202,10.3064082
+1024,11024,Pronto Soccorso,nan nan,Brescia,Lombardia,25123,,,,,Yes,,45.5584162,10.2298301
+1025,11025,Pronto Soccorso,Via Nazionale Ponente nan,Argenta,FE,44011,,,,,Yes,,44.6121401,11.8354239
+1026,11026,Pronto Soccorso Generale e Ortopedico,Via Pietro Albertoni nan,Bologna,BO,40138,,,,,Yes,,44.4899849,11.3616853
+1027,11027,"Pronto Soccorso Ospedale ""San Giuseppe""",nan nan,Albano Laziale,Lazio,00041,,,,,,,41.7289708,12.6438501
+1028,11028,Pronto Soccorso Ospedale Caorle,nan nan,Caorle,Veneto,30021,,,,,Yes,,45.6020673,12.8812733
+1029,11029,Pronto Soccorso Ospedale Saint Charles,nan nan,Bordighera,Liguria,18012,,,,,Yes,,43.7836577,7.6482064
+1030,11030,Pronto Soccorso Pediatrico Cavaliere del Lavoro Francesco Folonari,nan nan,Brescia,Lombardia,25123,,,,,Yes,,45.5559652,10.2306585
+1031,11031,Pronto Soccorso Sabaudia,nan nan,Sabaudia,Lazio,04016,,,,,No,,41.3030562,13.0200845
+1032,11032,Pronto Soccorso e Guardia Medica Turistica,nan nan,Lignano Sabbiadoro,Friuli-Venezia Giulia,33054,,,,,Yes,,45.6818793,13.1198693
+1033,11033,Pronto soccorso,nan nan,Legnano,Lombardia,20025,,,,,Yes,,45.5809756,8.8862425
+1034,11034,Pubblica Assistenza Crevalcore,Via Candia 385/c,Crevalcore,BO,40014,,,,,Yes,,44.71582,11.1498815
+1035,11035,Pubblica Assistenza Fidenza,via Don Enrico Tincati 3,Fidenza,PR,43036,,052482943,,,,,44.8484973,10.0392559
+1036,11036,Punto di Primo Soccorso (estivo),nan nan,Fiumicino,Lazio,00054,,,,,,,41.8582207,12.201444
+1037,11037,R.S.A. Isabella d'Este - R.S.A. Luigi Bianchi,nan nan,Mantova,Lombardia,46100,,,,,,,45.1529816,10.7743208
+1038,11038,R.S.A. Villa San Martino,nan nan,San Casciano in Val di Pesa,Toscana,50026,,,,,No,,43.6647634,11.171092
+1039,11039,RSA,nan nan,Ripatransone,Marche,63065,,,,,,,42.9976634,13.759078
+1040,11040,"RSA ""Angeli Custodi""",nan nan,Trento,Trentino-Alto Adige,38122,,,,,,,46.0698038,11.1302573
+1041,11041,RSA Mons. Speranza,nan nan,Zogno,Lombardia,24019,,,,,No,,45.7938572,9.6662844
+1042,11042,RSA Mons. Speranza,nan nan,Zogno,Lombardia,24019,,,,,No,,45.7935299,9.666448
+1043,11043,RSA Residenza al Castello,nan nan,Alpignano,Piemonte,10091,,,,,No,,45.0972281,7.5288224
+1044,11044,RSA San Francesco,nan nan,Bergamo,Lombardia,24121,,,,,,,45.6969853,9.6562258
+1045,11045,Residenza Eremo dei Camaldolesi,Strada Eremo 81,Pecetto Torinese,Piemonte,10020,,,,,,,45.0381865,7.7381465
+1046,11046,"Residenza Protetta Pra' Ellera, Comunità Terapeutica",Strada Pra' Ellera 17,Cairo Montenotte,Liguria,17014,,+39 019 500260,,,,,44.4065668,8.3065255
+1047,11047,Residenza Sanitaria Teresiana,nan nan,Anzio,Lazio,00042,,,,,,,41.4531244,12.6245893
+1048,11048,Residenza per Anziani Villa Speranza,nan nan,Sanremo,Liguria,18038,,,,,,,43.8241041,7.7862905
+1049,11049,Ricovero RSA Noceti,nan nan,Savona,Liguria,17100,,,,,,,44.3468137,8.4363435
+1050,11050,Romolo Hospital,nan nan,Rocca di Neto,Calabria,88821,,,,,No,,39.180431,16.9869285
+1051,11051,Roncati,nan nan,Bologna,BO,40135,,,,,,,44.4943158,11.3300899
+1052,11052,SALUS,nan nan,Trieste,Friuli-Venezia Giulia,34132,,,,,,,45.6518845,13.7860775
+1053,11053,Salus,nan nan,Belluno,Veneto,32100,,,,,,,46.1478915,12.2179359
+1054,11054,Salus D,nan nan,Monfalcone,Friuli-Venezia Giulia,34074,,,,,,,45.7966852,13.5265474
+1055,11055,Salvator Mundi international Hospital,Viale delle Mura Gianicolensi 67,Roma,Lazio,00152,,+39  06 588961,,,,,41.8826272,12.4632412
+1056,11056,San Camillo,nan nan,Forte dei Marmi,Toscana,55042,,,,,,,43.9720052,10.1589559
+1057,11057,San Camillo,Circonvallazione Gianicolense 87,Roma,Lazio,00152,,,,,,,41.8668286,12.4543997
+1058,11058,San Camillo,nan nan,Torino,Piemonte,10131,,,,,,,45.0574572,7.7054093
+1059,11059,San Carlo Azienda Ospedaliera Regionale,nan nan,Potenza,Basilicata,85100,,,,,Yes,,40.6525965,15.8020523
+1060,11060,San Carlo di Nancy,nan nan,Roma,Lazio,00165,,,,,,,41.8978263,12.4375059
+1061,11061,San Dionigi Hospital,nan nan,Crotone,Calabria,88900,,,,,No,,39.053472,17.0860078
+1062,11062,San Donato,nan nan,Arezzo,Toscana,52100,,,,,,,43.4617238,11.8650788
+1063,11063,San Francesco di Paola,nan nan,Paola,Calabria,87027,,,,,Yes,,39.3544363,16.0393602
+1064,11064,San Giovanni di Dio,nan nan,Fondi,Lazio,04022,,,,,Yes,,41.3612678,13.4157815
+1065,11065,San Lorenzo,nan nan,Borgo Valsugana,Trentino-Alto Adige,38051,,,,,Yes,,46.0565546,11.463192
+1066,11066,San Michele Hospital,nan nan,Aprilia,Lazio,04011,,,,,,,41.595148,12.6305209
+1067,11067,San Pier Damiano Hospital,Via Portisano 1,Faenza,RA,48018,,+390546671111,,,No,,44.2861355,11.8662048
+1068,11068,San Raffaele Flaminia - Residenza Sanitaria Assitenziale,Via del Labaro 121,Roma,Lazio,00188,,,,,,,41.9891092,12.4915529
+1069,11069,San Raffaele Montecompatri,Via di S. Silvestro 67,Monte Compatri,Lazio,00077,,+39 06947811,,,,,41.8042611,12.7361484
+1070,11070,Sanatorio,nan nan,Sarno,Campania,84087,,,,,,,40.8194328,14.6165812
+1071,11071,Sanatorio - Casa di Cura Pineta del Carso,nan nan,Duino-Aurisina,Friuli-Venezia Giulia,34011,,+39 040 3784111,,,,,45.7518236,13.686344
+1072,11072,Sanatorio Triestino,nan nan,Trieste,Friuli-Venezia Giulia,34132,,,,,,,45.6462527,13.7885315
+1073,11073,Santa Chiara,Largo Medaglie d'Oro 9,Trento,Trentino-Alto Adige,38122,,,,,Yes,,46.0556549,11.1350972
+1074,11074,Santa Maria della Misericordia,nan nan,Rovigo,Veneto,45100,,,,,,,45.0737472,11.8135424
+1075,11075,Santa Maria della Pietà,nan nan,Nola,Campania,80035,,,,,,,40.9253177,14.5411477
+1076,11076,Santa Maria delle Croci,Viale Vincenzo Randi 5,Ravenna,RA,48121,,+39 0544285111,,,Yes,,44.4087002,12.186518
+1077,11077,Santa Maria di Misericordia,Via Martiri della Foce nan,Albenga,Liguria,17031,,,,,Yes,,44.0551295,8.1991541
+1078,11078,Santissima Annunziata,nan nan,Taranto,Puglia,74121,,,,,Yes,,40.4643508,17.2471625
+1079,11079,Santissima Annunziata,Via Giovanni Vicini 2,Cento,FE,44042,,+39 051 6838111,,,Yes,,44.7237009,11.2890005
+1080,11080,Servizio continuità assistenziale,Via Grecale nan,Lampedusa e Linosa,Sicilia,92031,,+39 0922 970604,,,,,35.5067167,12.612302
+1081,11081,Servizio continuità assistenziale (ex Guardia Medica),Via Rombo' 22,Camastra,Sicilia,92020,,+39 0922 950569,,,,,37.2539766,13.7926916
+1082,11082,Servizio tossicodipendenze e alcologia,Via Calabria 19,Venezia,Veneto,30174,,,,,No,,45.4856065,12.2098113
+1083,11083,Sistema Polimodulare di REMS Provvisorie,nan nan,Castiglione delle Stiviere,Lombardia,46043,,,,,,,45.4070087,10.5023184
+1084,11084,Soccorso degli Alpini,Via degli Alpini 3,Mandello del Lario,Lombardia,23826,,,,,Yes,,45.9181919,9.3228105
+1085,11085,Spedali Riuniti,nan nan,Livorno,Toscana,57124,,,,,Yes,,43.5489989,10.3245618
+1086,11086,Struttura Medici di Base convenzionati,nan nan,Chiaravalle Centrale,Calabria,88064,,,,,,,38.6829138,16.4055989
+1087,11087,Struttura polispecialistica Cittanova,Viale Merano nan,Cittanova,Calabria,89022,,0966613731,,,,,38.3565676,16.0782893
+1088,11088,Studio Logopedico Ariel,Via San Paolo 23,Villanova d'Asti,Piemonte,14019,,,,,,,44.9430906,7.9404695
+1089,11089,Studio dentistico,nan nan,San Nicandro Garganico,Puglia,71015,,,,,,,41.8331427,15.5740449
+1090,11090,Terme di Firenze,nan nan,Impruneta,Toscana,50023,,,,,No,,43.685121,11.2141763
+1091,11091,Terme di Sirmione Virgilio,nan nan,Sirmione,Lombardia,25019,,,,,,,45.4645785,10.6113409
+1092,11092,Torre Medicine,nan nan,Parma,PR,43126,,,,,,,44.8001718,10.307103
+1093,11093,U.S.L. n°7,nan nan,Poggibonsi,Toscana,53036,,,,,,,43.4712296,11.1508924
+1094,11094,USL 5,nan nan,Pisa,Toscana,56125,,,,,No,,43.717704,10.4179507
+1095,11095,Ufficio Igiene,nan nan,Andria,Puglia,76123,,,,,,,41.2261639,16.2953371
+1096,11096,Umberto I,nan nan,Enna,Sicilia,94100,,,,,Yes,,37.5549919,14.3016995
+1097,11097,Universita' degli studi di Verona-Dipartim. Scienze chirurgiche,Piazzale Ludovico Antonio Scuro 10,Verona,Veneto,37122,,,,,Yes,,45.4034833,10.9940596
+1098,11098,Università SUN - Poliambulatorio,nan nan,Napoli,Campania,80139,,,,,,,40.8515927,14.2533399
+1099,11099,Università SUN - Policlinico,nan nan,Napoli,Campania,80139,,,,,,,40.8512676,14.2526899
+1100,11100,Università SUN - Policlinico,nan nan,Napoli,Campania,80139,,,,,,,40.8507599,14.2527877
+1101,11101,Università SUN - Policlinico,nan nan,Napoli,Campania,80139,,,,,,,40.852828,14.2534104
+1102,11102,Vecchio Ospedale Sant'Anna,nan nan,Como,Lombardia,22100,,,,,,,45.7917705,9.0867475
+1103,11103,Villa Al Lago,nan nan,Mantova,Lombardia,46100,,,,,,,45.1565038,10.7702841
+1104,11104,Villa Albani,nan nan,Anzio,Lazio,00042,,,,,,,41.4512214,12.6281723
+1105,11105,Villa Azzurra,nan nan,Riolo Terme,RA,48025,,,,,,,44.2796434,11.7288552
+1106,11106,Villa Azzurra - Hospice Poliambulatorio,nan nan,Terracina,Lazio,04019,,+39 0773 7971,,,,,41.2860504,13.2561877
+1107,11107,Villa Bianca - Multimedica,Via Fratelli Bandiera 3,Limbiate,Lombardia,20812,,,,,,,45.6049988,9.1165109
+1108,11108,Villa Chiarugi,Via Giuseppe Atzori 283,Nocera Inferiore,Campania,84014,,,,,,,40.741464,14.6339483
+1109,11109,Villa Cristina,nan nan,Torino,Piemonte,10151,,,,,,,45.1081174,7.6147916
+1110,11110,Villa Donatello,nan nan,Sesto Fiorentino,Toscana,50019,,,,,No,,43.8249381,11.2230513
+1111,11111,Villa Donatello,nan nan,Firenze,Toscana,50137,,,,,,,43.7787343,11.2671285
+1112,11112,Villa Laura,nan nan,Bologna,BO,40141,,,,,,,44.4793767,11.3850252
+1113,11113,Villa Letizia,Via Amiternina nan,L'Aquila,AQ,67100,,,,,,,42.3762786,13.2953683
+1114,11114,Villa Margherita,nan nan,Arcugnano,Veneto,36057,,,,,,,45.5124688,11.5444616
+1115,11115,Villa Maria,nan nan,Mirabella Eclano,Campania,83036,,,,,,,41.049247,15.0269502
+1116,11116,Villa Maria Pia,nan nan,Torino,Piemonte,10132,,,,,,,45.0697513,7.7433978
+1117,11117,Villa Monna Tessa,nan nan,Firenze,Toscana,50127,,,,,,,43.8070752,11.2509947
+1118,11118,Villa Paola,Piazzale Madonna del Piano 1,Capranica,Lazio,01012,,,,,,,42.2588571,12.1720946
+1119,11119,Villa Rosa,nan nan,Modena,MO,41121,,,,,No,,44.63098,10.9186198
+1120,11120,Villa Santa Croce,Corso Francia 10,Cuneo,Piemonte,12100,,,,,,,44.3765712,7.5313379
+1121,11121,Villa Serena,nan nan,Jesi,Marche,60035,,,,,,,43.508213,13.1822588
+1122,11122,Villa Serena,nan nan,Bologna,BO,40141,,,,,,,44.4499877,11.3601102
+1123,11123,Villa Serena,nan nan,Bologna,BO,40141,,,,,,,44.4495533,11.3602554
+1124,11124,Villa Stuart,nan nan,Roma,Lazio,00195,,,,,,,41.9278357,12.4502706
+1125,11125,Villa Verde,nan nan,Fermo,Marche,63900,,,,,,,43.1585959,13.7142393
+1126,11126,Villa Von Siebenthal,nan nan,Genzano di Roma,Lazio,00045,,,,,No,,41.7140686,12.690633
+1127,11127,Villa dei fiori,nan nan,Mugnano di Napoli,Campania,80018,,,,,,,40.9110302,14.1959801
+1128,11128,Villaggio Amico,nan nan,Gerenzano,Lombardia,21040,,,,,No,,45.6444551,9.0008821
+1129,11129,Ville di Nozzano,nan nan,Lucca,Toscana,55100,,,,,,,43.8439225,10.4213397
+1130,11130,Vito Fazzi,nan nan,Lecce,Puglia,73100,,,,,Yes,,40.3314237,18.1581021
+1131,11131,ex Ospedale,nan nan,Sciacca,Sicilia,92019,,,,,,,37.5064134,13.0895463
+1132,11132,ex ospedale civile - former civil hospital,nan nan,Chieti,CH,66100,,,,,,,42.3518327,14.173538
+1133,11133,obitorio,nan nan,Avezzano,AQ,67051,,,,,,,42.0537471,13.4282995
+1134,11134,ospedale C. Mira,nan nan,Casorate Primo,Lombardia,27022,,,,,,,45.3087368,9.0129204
+1135,11135,presidio ospedaliero Fiorenzo Jaia,nan nan,Conversano,Puglia,70014,,,,,,,40.9656026,17.1100125
+1136,11136,punto salute,nan nan,Lavello,Basilicata,85024,,,,,No,,41.0442627,15.7831803

@@ -1,0 +1,80 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+16,20016,Camera de Gardă - Spitalul Clinic de Psihiatrie “Prof. Dr. Alexandru Obregia”,nan nan,București,,041905,,,,,Yes,,44.3864853,26.1278255
+17,20017,Camera de Gardă - Spitalul de Urgență Floreasca,nan nan,București,,011601,,,,,Yes,,44.4538889,26.1008975
+48,20048,Clinica Medicală I,Strada Clinicilor nan,Cluj-Napoca,,400006,,,,,Yes,,46.7656738,23.582303
+56,20056,Clinica de Chirurgie și Ortopedie Pediatrică Dr. Trestianu Viorel,nan nan,Timișoara,,300002,,,,,Yes,,45.7544314,21.2214259
+60,20060,Clinica de Neurochirurgie,nan nan,Cluj-Napoca,,400349,,,,,Yes,,46.762083,23.584948
+61,20061,Clinica de Neurologie,nan nan,Cluj-Napoca,,400349,,,,,Yes,,46.7626379,23.5845725
+62,20062,Clinica de Neurologie - Psihiatrie - Neurochirurgie,Strada Profesor Gheorghe Marinescu 43,Cluj-Napoca,,400349,,,,,Yes,,46.7632148,23.5845951
+79,20079,Dentist Iasi,Strada Sfântul Andrei 6C,Iași,,700028,,,,,Yes,,47.1553625,27.5838468
+110,20110,Institutul de Boli Cardiovasculare,Strada Gheorghe Adam 13 A,Timișoara,,300002,,,,,Yes,,45.7687422,21.25782
+126,20126,Muntenia Hospital,Strada Pictor Nicolae Grigorescu 2A,Pitești,,110117,,,,,Yes,,44.8622335,24.8700998
+127,20127,Nova Vita,Strada Liviu Rebreanu 29A,Târgu Mureș,,540052,,"+40 265 266 112, +40 365 430 330",,,Yes,,46.5367392,24.5536056
+168,20168,Polimed,Strada Tudor Vladimirescu 94 94,Podu Turcului,,607450,,0234 289 704,,,Yes,,46.1999657,27.3842543
+171,20171,Ponderas Regina Maria,Strada Nicolae G. Caramfil 85 A,București,,014163,,,,,Yes,,44.4835284,26.0910739
+175,20175,SPITALUL DE PEDIATRIE PLOIEȘTI,Strada Mihai Eminescu nan,Ploiești,,100028,,,,,Yes,,44.9319507,26.0261625
+176,20176,SPITALUL JUDEȚEAN DE URGENȚĂ PLOIEȘTI,nan nan,Ploiești,,100028,,,,,Yes,,44.9637639,26.0099119
+177,20177,Salvamont,nan nan,Toplița,,535700,,,,,Yes,,46.9820012,25.4067522
+198,20198,Serviciul de urgență SMURD,nan nan,Târgu Mureș,,540052,,,,,Yes,,46.5598487,24.5834937
+212,20212,Spital Mangalia,nan nan,Mangalia,,905500,,,,,Yes,,43.8168307,28.5866894
+213,20213,Spital Municipal,Strada Fabricii 2A,Târgu Secuiesc,,525400,,,,,Yes,,45.9979956,26.1397791
+218,20218,Spitalul  Județean de Urgență Brăila,Șoseaua Buzăului 2,Brăila,,810326,,,,,Yes,,45.2525358,27.9413245
+223,20223,Spitalul Aiud,nan nan,Aiud,,515200,,,,,Yes,,46.3077623,23.7230167
+224,20224,Spitalul Aiud,nan nan,Aiud,,515200,,,,,Yes,,46.3079301,23.7235314
+230,20230,Spitalul Băneasa Regina Maria,Strada Constantin Dobrogeanu-Gherea 85,București,,013744,,,,,Yes,,44.4958919,26.0717694
+237,20237,"Spitalul Clinic ""Doctor Ioan Cantacuzino""",Strada Ion Movilă 5-7,București,,023571,,+40212107100,,,Yes,,44.4449545,26.1093263
+239,20239,Spitalul Clinic C.F. Nr. 2,Bulevardul Mărăști 62,București,,012103,,,,,Yes,,44.473797,26.0691431
+246,20246,"Spitalul Clinic Județean de Urgențe ""Sf. Spiridon""",Bulevardul Independenței 1,Iași,,700098,,0232-240822,,,Yes,,47.1679519,27.5811326
+247,20247,Spitalul Clinic Județean de Urgență,nan nan,Deva,,330088,,,,,Yes,,45.8772699,22.9044186
+248,20248,Spitalul Clinic Județean de Urgență,Strada Tabaci 1,Craiova,,200642,,,,,Yes,,44.3066944,23.792401
+249,20249,Spitalul Clinic Județean de Urgență,Strada Clinicilor nan,Cluj-Napoca,,400006,,,,,Yes,,46.7658775,23.5830532
+250,20250,Spitalul Clinic Județean de Urgență Cluj,nan nan,Cluj-Napoca,,400006,,,,,Yes,,46.7656239,23.5818652
+251,20251,Spitalul Clinic Județean de Urgență Pius Brînzeu,Bulevardul Dr. Iosif Bulbucă (Liviu Rebreanu) 156,Timișoara,,300002,,,,,Yes,,45.7366392,21.2435394
+263,20263,Spitalul Clinic de Boli Infecțioase și Pneumoftiziologie Dr. Victor Babeș,Strada Gheorghe Adam 13,Timișoara,,300002,,,,,Yes,,45.7689955,21.2603163
+277,20277,Spitalul Clinic de Psihiatrie “Prof. Dr. Alexandru Obregia”,nan nan,București,,041905,,,,,Yes,,44.3863938,26.1281487
+279,20279,Spitalul Clinic de Urgențe Oftalmologice,Piața Lahovari 1,București,,010465,,,,,Yes,,44.4459748,26.1000622
+281,20281,"Spitalul Clinic de Urgență ""Bagdasar-Arsenie""",nan nan,București,,041975,,,,,Yes,,44.3851108,26.1293482
+282,20282,"Spitalul Clinic de Urgență ""Bagdasar-Arsenie""",nan nan,București,,041905,,,,,Yes,,44.385489,26.1276861
+283,20283,"Spitalul Clinic de Urgență ""Prof. Dr. Nicolae Oblu""",Strada Ateneului 2,Iași,,700309,,+40 232 264271;+40 232 473020,,,Yes,,47.1613322,27.6076341
+288,20288,Spitalul Clinic de Urgență Prof. Dr. Agrippa Ionescu,Strada Ion Constantin Brătianu 149,Balotești,,077016,,,,,Yes,,44.6460536,26.1192578
+289,20289,Spitalul Clinic de Urgență Sfântul Ioan,Șoseaua Vitan-Bârzești 13,București,,030171,,+40213345075,,,Yes,,44.3916272,26.1427626
+290,20290,Spitalul Clinic de Urgență pentru Copii Louis Țurcanu,nan nan,Timișoara,,300002,,,,,Yes,,45.7541313,21.2213879
+291,20291,Spitalul Clinic de Urgență pentru Copii „Grigore Alexandrescu”,Bulevardul Iancu de Hunedoara nan,București,,010023,,,,,Yes,,44.4522542,26.0904944
+292,20292,Spitalul Clinic nr.1 C.F. Witing,Calea Plevnei 162-164,București,,060941,,,,,Yes,,44.4423803,26.0716359
+299,20299,Spitalul Județean,nan nan,Suceava,,720224,,,,,Yes,,47.6393056,26.2406942
+301,20301,Spitalul Județean Ialomița,nan nan,Slobozia,,920014,,,,,Yes,,44.5682022,27.3596604
+307,20307,Spitalul Județean de Urgență Pitești,Aleea Spitalului 36,Pitești,,110284,,0248287150,,,Yes,,44.8715527,24.8466626
+308,20308,"Spitalul Județean de Urgență Pitești, Pavilion Secția Oncologie",Bulevardul I. C. Brătianu 62,Pitești,,110117,,,,,Yes,,44.8618744,24.8700457
+309,20309,"Spitalul Județean de Urgență Pitești, Secția Boli Infecțioase",Bulevardul I. C. Brătianu 56,Pitești,,110121,,,,,Yes,,44.8611094,24.8695372
+310,20310,"Spitalul Județean de Urgență Pitești, Secțiile Oftalmologie, Psihiatrie și Pneumologie",Strada Negru Vodă 53,Pitești,,110065,,,,,Yes,,44.866299,24.8590499
+313,20313,Spitalul Județean de urgență Sf. Spiridon,nan nan,Brăila,,810249,,,,,Yes,,45.2578616,27.9529593
+314,20314,Spitalul Maria Sklodowska Curie (de copii) - Budimex,Bulevardul Constantin Brâncoveanu nan,București,,041406,,,,,Yes,,44.3896324,26.1089945
+315,20315,Spitalul Mavromati,Strada Arhimandrit Marchian 11,Botoșani,,710357,,,,,Yes,,47.7422144,26.6615309
+322,20322,Spitalul Militar de Urgență „Dr. Ion Jianu”,Strada Negru Vodă 47,Pitești,,110069,,,,,Yes,,44.8647656,24.8611518
+331,20331,Spitalul Municipal,Strada George Emil Palade 5,Mangalia,,905500,,,,,Yes,,43.8199347,28.5880518
+337,20337,Spitalul Municipal Calafat,Strada Traian 5,Calafat,,205200,,0251230606,,,Yes,,43.9945049,22.9451648
+338,20338,Spitalul Municipal Clinicile Noi,nan nan,Timișoara,,300002,,,,,Yes,,45.7600362,21.2267758
+339,20339,Spitalul Municipal Curtea de Argeș,Strada Cuza Vodă 6-8,Curtea de Argeș,,115300,,,,,Yes,,45.1497909,24.678048
+340,20340,Spitalul Municipal Câmpina,Bulevardul Carol I 117,Câmpina,,105600,,,,,Yes,,45.1279657,25.7324997
+341,20341,Spitalul Municipal Dr. Alexandru Simionescu Hunedoara,Strada Victoriei 19,Hunedoara,,331079,,,,,Yes,,45.7505611,22.9051789
+342,20342,Spitalul Municipal Dr. Aurel Tulbure,nan nan,Făgăraș,,505200,,,,,Yes,,45.8404604,24.9586302
+343,20343,Spitalul Municipal Fetesti,nan nan,Fetești,,925100,,,,,Yes,,44.4087321,27.8275408
+345,20345,Spitalul Municipal Gherla,nan nan,Gherla,,405300,,,,,Yes,,47.0243802,23.90393
+346,20346,Spitalul Municipal Moinești,nan nan,Moinești,,605400,,,,,Yes,,46.4768969,26.488253
+347,20347,Spitalul Municipal Moreni,nan nan,Moreni,,135300,,,,,Yes,,44.9780458,25.6466378
+349,20349,Spitalul Municipal Odorheiu Secuiesc,nan nan,Odorheiu Secuiesc,,535600,,,,,Yes,,46.3067846,25.2997939
+354,20354,Spitalul Municipal Sebeș,nan nan,Sebeș,,515800,,,,,Yes,,45.9510827,23.5684148
+355,20355,Spitalul Municipal Sighetul Marmației,nan nan,Sighetu Marmației,,435500,,,,,Yes,,47.9270876,23.8776611
+371,20371,Spitalul Orășenesc Gura Humorului,nan nan,Gura Humorului,,725300,,,,,Yes,,47.5550911,25.889265
+392,20392,Spitalul Universitar de Urgență Militar Central „Dr. Carol Davila”,Calea Plevnei 134,București,,060941,,,,,Yes,,44.4420564,26.0718695
+399,20399,Spitalul clinic de urgență pentru copii „Sfânta Maria”,Strada Vasile Lupu 62,Iași,,700309,,+40 232 264266,,,Yes,,47.1598106,27.606047
+415,20415,Spitalul de Obstetrică și Ginecologie,Bulevardul George Enescu 6,Botoșani,,710357,,0231 584 017,,,Yes,,47.7406388,26.6544283
+418,20418,Spitalul de Pediatrie Pitești,Bulevardul Eroilor 1,Pitești,,110416,,,,,Yes,,44.8503574,24.865557
+420,20420,Spitalul de Pneumoftiziologie,Strada Trandafirilor 24,Botoșani,,710357,,0231-584083,,,Yes,,47.7351407,26.6639864
+426,20426,Spitalul de Psihiatrie,Strada I.C. Brătianu 116,Botoșani,,710357,,,,,Yes,,47.7329011,26.6903534
+431,20431,Spitalul de Psihiatrie Poiana Mare,Strada Gării 40,Poiana Mare,,207470,,0251/23.52.99,,,Yes,,43.9324865,23.0670924
+436,20436,Spitalul de Urgență,Strada 1 Decembrie 1918 137 A,Petroșani,,332019,,,,,Yes,,45.4072619,23.3761181
+445,20445,Spitalul de urgente Mavromati,Strada Tudor Vladimirescu 2,Darabani,,715100,,,,,Yes,,48.1840634,26.5911799
+446,20446,Spitalul din Cochirleanca,nan nan,Cochirleanca,,127190,,,,,Yes,,45.210952,27.0353715
+450,20450,"Spitalul “Dr.Caius Tiberiu Sparchez""",Strada Policlinicii 12,Zărnești,,505800,,,,,Yes,,45.5703501,25.3362916
+454,20454,Unitatea Primire Urgențe UPU,Strada Clinicilor nan,Cluj-Napoca,,400006,,,,,Yes,,46.7657361,23.5831362

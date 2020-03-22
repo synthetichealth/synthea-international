@@ -1,0 +1,232 @@
+,name,address,city,state,zip,phone,LAT,LON,hasSpecialties,ADDICTION MEDICINE,ADVANCED HEART FAILURE AND TRANSPLANT CARDIOLOGY,ALLERGY/IMMUNOLOGY,ANESTHESIOLOGY,ANESTHESIOLOGY ASSISTANT,AUDIOLOGIST,CARDIAC ELECTROPHYSIOLOGY,CARDIAC SURGERY,CARDIOVASCULAR DISEASE (CARDIOLOGY),CERTIFIED NURSE MIDWIFE,CERTIFIED REGISTERED NURSE ANESTHETIST,CHIROPRACTIC,CLINICAL NURSE SPECIALIST,CLINICAL PSYCHOLOGIST,CLINICAL SOCIAL WORKER,COLORECTAL SURGERY (PROCTOLOGY),CRITICAL CARE (INTENSIVISTS),DENTIST,DERMATOLOGY,DIAGNOSTIC RADIOLOGY,EMERGENCY MEDICINE,ENDOCRINOLOGY,FAMILY PRACTICE,GASTROENTEROLOGY,GENERAL PRACTICE,GENERAL SURGERY,GERIATRIC MEDICINE,GERIATRIC PSYCHIATRY,GYNECOLOGICAL ONCOLOGY,HAND SURGERY,HEMATOLOGY,HEMATOLOGY/ONCOLOGY,HEMATOPOIETIC CELL TRANSPLANTATION AND CELLULAR TH,HOSPICE/PALLIATIVE CARE,HOSPITALIST,INFECTIOUS DISEASE,INTERNAL MEDICINE,INTERVENTIONAL CARDIOLOGY,INTERVENTIONAL PAIN MANAGEMENT,INTERVENTIONAL RADIOLOGY,MAXILLOFACIAL SURGERY,MEDICAL ONCOLOGY,NEPHROLOGY,NEUROLOGY,NEUROPSYCHIATRY,NEUROSURGERY,NUCLEAR MEDICINE,NURSE PRACTITIONER,OBSTETRICS/GYNECOLOGY,OCCUPATIONAL THERAPY,OPHTHALMOLOGY,OPTOMETRY,ORAL SURGERY,ORTHOPEDIC SURGERY,OSTEOPATHIC MANIPULATIVE MEDICINE,OTOLARYNGOLOGY,PAIN MANAGEMENT,PATHOLOGY,PEDIATRIC MEDICINE,PERIPHERAL VASCULAR DISEASE,PHYSICAL MEDICINE AND REHABILITATION,PHYSICAL THERAPY,PHYSICIAN ASSISTANT,PLASTIC AND RECONSTRUCTIVE SURGERY,PODIATRY,PREVENTATIVE MEDICINE,PSYCHIATRY,PULMONARY DISEASE,RADIATION ONCOLOGY,REGISTERED DIETITIAN OR NUTRITION PROFESSIONAL,"RHEUMATOLOGY,",SLEEP MEDICINE,SPEECH LANGUAGE PATHOLOGIST,SPORTS MEDICINE,SURGICAL ONCOLOGY,THORACIC SURGERY,UNDEFINED PHYSICIAN TYPE (SPECIFY),"UROLOGY,",VASCULAR SURGERY,id
+0,A.S.L. 7,nan nan,Carbonia,Sardegna,09013,,39.166652,8.5270786,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000
+1,A.S.S. 4 Medio Friuli - Distretto sanitario di Tarcento,nan nan,Tarcento,Friuli-Venezia Giulia,33017,,46.2181177,13.2196949,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10001
+2,ASL,nan nan,Strambino,Piemonte,10019,,45.380841,7.8864796,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10002
+3,ASL,nan nan,Cotronei,Calabria,88836,,39.1569956,16.780794,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10003
+4,ASL,Via del rampanone 2,Lomazzo,Lombardia,22074,+39 02 96777069,45.6980676,9.0426257,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10004
+5,ASL 1 Avenza,nan nan,Carrara,Toscana,54033,,44.0486122,10.0574836,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10005
+6,ASL Lecce DSS Campi Salentina,nan nan,Campi Salentina,Puglia,73012,,40.4030217,18.0146624,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10006
+7,ASL TO1 - Presidio Distretto 3,nan nan,Torino,Piemonte,10141,,45.0647591,7.6346268,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10007
+8,ASL guardia medica,nan nan,Letojanni,Sicilia,98037,,37.8798274,15.3053794,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10008
+9,ASP,nan nan,Milazzo,Sicilia,98057,,38.226027,15.2411822,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10009
+10,ASReM Distretto Sanitario Riccia,nan nan,Riccia,Molise,86016,,41.4796592,14.8291067,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10010
+11,ASST dei Sette Laghi - Gazzada Schianno,Via Roma 18,Gazzada Schianno,Lombardia,21045,,45.7804796,8.8241389,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10011
+12,AVIS-Centro Antidiabete,nan nan,Marta,Lazio,01010,,42.5348892,11.92518,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10012
+13,Affidea Centro Diagnostico Martesana,Via della Filanda 2,Gessate,Lombardia,20060,,45.5434472,9.4395271,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10013
+14,Ambulatori Comunali,nan nan,Varallo Pombia,Piemonte,28040,,45.6667358,8.632989,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10014
+15,Ambulatorio,nan nan,Capergnanica,Lombardia,26010,,45.337306,9.644111,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10015
+16,Ambulatorio ASP,Piazza Elvidio Borelli nan,Lamezia Terme,Calabria,88046,+39 0968 2081,38.9707502,16.3141972,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10016
+17,Ambulatorio Geriatrico,Via Trotula de Ruggiero nan,Salerno,Campania,84123,,40.6811681,14.7556015,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10017
+18,Ambulatorio Infermieristico,Via Pastrengo 31,Udine,Friuli-Venezia Giulia,33100,+39 0432 530848,46.0617317,13.2497599,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10018
+19,Ambulatorio Medico,nan nan,L'Aquila,AQ,67100,,42.3216516,13.4642744,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10019
+20,Ambulatorio Medico,nan nan,Mombaroccio,Marche,61024,,43.7951132,12.8544109,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10020
+21,Ambulatorio Medico,Via Roma nan,Due Carrare,Veneto,35020,,45.2863285,11.8261215,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10021
+22,Ambulatorio Morego - San Quirico,Salita da Serro a Morego 9,Genova,Liguria,16122,010 098 7850,44.4755925,8.900901,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10022
+23,Ambulatorio Psichiatrico di Carate Brianza,Via Gaetano Donizetti 12,Carate Brianza,Lombardia,20841,,45.678154,9.2326359,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10023
+24,Ambulatorio medico,nan nan,Cortenuova,Lombardia,24050,,45.5373289,9.7872954,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10024
+25,Analisi Cliniche Nobisso,Viale della Libertà nan,Lusciano,Campania,81030,,40.9611351,14.1946201,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10025
+26,Angiografia,nan nan,Paderno Dugnano,Lombardia,20037,,45.572806,9.1551457,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10026
+27,Anmic,nan nan,Crotone,Calabria,88900,,39.0670244,17.1178847,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10027
+28,Ars Medica Praeneste,nan nan,Palestrina,Lazio,00036,,41.8339093,12.8868556,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10028
+29,Asl Napoli 3 Sud Distretto 56,Via Pasquale Fusco 12,Torre Annunziata,Campania,80058,,40.7566108,14.4363367,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10029
+30,Ats Brianza - Sede di Cesano Maderno,nan nan,Cesano Maderno,Lombardia,20811,,45.6306652,9.145803,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10030
+31,Azienda Asl Roma H,Viale San Nilo 4,Grottaferrata,Lazio,00046,+39 06 941 0952,41.7875519,12.6661118,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10031
+32,Azienda USL Pescara - Punto erogativo Pianella,nan nan,Pianella,PE,65019,,42.4006557,14.0521754,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10032
+33,C.M.O. Centro Polispecialistico - Sede Centrale,Via Roma 23-31,Torre Annunziata,Campania,80058,+39 081 861 2428,40.7514755,14.4569869,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10033
+34,CDI - Centro Diagnostico Italiano,nan nan,Milano,Lombardia,20152,,45.4586615,9.1199455,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10034
+35,CMSR,nan nan,Altavilla Vicentina,Veneto,36077,,45.518922,11.4861402,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10035
+36,CSM Bellocchio,nan nan,Perugia,Umbria,06123,,43.1030247,12.3719942,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10036
+37,Calabro Dental,nan nan,Crotone,Calabria,88900,,39.107486,17.0948552,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10037
+38,"Casa Del Comune, Ufficio Parrocchiale, Medico",nan nan,Capriate San Gervasio,Lombardia,24042,,45.5960108,9.5356517,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10038
+39,Casa Manai,nan nan,Bonorva,Sardegna,07012,,40.4214969,8.7747328,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10039
+40,Casa della Salute,nan nan,Zagarolo,Lazio,00039,,41.8408806,12.8283552,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10040
+41,"Casa di Cura ""Villa Aurora""",nan nan,Reggio di Calabria,Calabria,89125,,38.1157263,15.6574767,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10041
+42,Casa di Cura Bernardini,Via Scoglio del Tonno 64,Taranto,Puglia,74121,+39 099 7728896,40.4403183,17.2602482,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10042
+43,Casa di Cura Bonvicini - Privatklinik Bonvicini,nan nan,Bolzano,Trentino-Alto Adige,39100,,46.5063597,11.3337935,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10043
+44,Casa di Cura I Cedri,nan nan,Fara Novarese,Piemonte,28073,,45.5573012,8.4605777,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10044
+45,Casa di Cura Leonardo,nan nan,Vinci,Toscana,50059,,43.733212,10.9384521,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10045
+46,Casa di Cura Prof. Petrucciani,nan nan,Lecce,Puglia,73100,+39 0832 448111,40.3558078,18.1961981,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10046
+47,Casa di Cura San Carlo di Arona,Via Oleggio Castello 8,Arona,Piemonte,28041,+39 0322 243722,45.7491661,8.545592,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10047
+48,Casa di Cura Villa Barbarano,Via Spiaggia d'oro 21,Salò,Lombardia,25087,+39 0365 298 000,45.6136082,10.5531333,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10048
+49,Casa di Cura Villa Pia,nan nan,Roma,Lazio,00152,,41.8683167,12.4505883,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10049
+50,Casa di Cura e di Riposo San Luca,nan nan,Pecetto Torinese,Piemonte,10020,,45.0342653,7.7388182,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10050
+51,Casa di Cure Triolo-Zancla,Piazza Fonderia 23,Palermo,Sicilia,90133,+39 091 6054111,38.1196086,13.3664753,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10051
+52,"Casa di cura ""Villa Melitta"" - Privatklinik ""Villa Melitta""",nan nan,Bolzano,Trentino-Alto Adige,39100,+39 0471 471471,46.504472,11.3426282,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10052
+53,Casa di cura Marco Polo,Viale Marco Polo 41,Roma,Lazio,00145,+39 06 3286848,41.8746159,12.4863999,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10053
+54,Casa di cura Parco dei tigli,VIa Monticello 1,Teolo,Veneto,35037,+39 049 9997511,45.3661173,11.6884393,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10054
+55,Casa di cura Salus,nan nan,Brindisi,Puglia,72100,,40.6288958,17.9241374,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10055
+56,Casa di cura Sant'Anna,nan nan,Asti,Piemonte,14100,,44.8980592,8.181516,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10056
+57,Casa di cura Santa Barbara,Via Minerbio 1,Gela,Sicilia,93012,,37.0788781,14.20923,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10057
+58,Casa di cura Santa Lucia,nan nan,Siracusa,Sicilia,96100,,37.0804195,15.2981723,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10058
+59,Casa di cura Villa Aurelia,nan nan,Siracusa,Sicilia,96100,,37.1013825,15.269214,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10059
+60,Casa di cura Villa Azzurra,nan nan,Siracusa,Sicilia,96100,,37.10225,15.2693721,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10060
+61,Casa di cura Villa Bianca,nan nan,Lecce,Puglia,73100,,40.3430548,18.1753712,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10061
+62,Casa di cura Villa Mauritius,nan nan,Siracusa,Sicilia,96100,,37.1008217,15.2695858,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10062
+63,Casa di cura Villa Salus,nan nan,Melilli,Sicilia,96010,,37.1088282,15.2312963,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10063
+64,Centro Analisi Monza,Via Martiri delle Foibe 1,Monza,Lombardia,20900,+39 039 23971,45.5958754,9.2497695,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10064
+65,Centro Bignamini-Don Gnocchi,Via Giacomo Matteotti 56,Falconara Marittima,Marche,60015,+39 071 9160971,43.6252594,13.3956145,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10065
+66,Centro Diagnostico Martesana,nan nan,Gessate,Lombardia,20060,,45.5437458,9.43982,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10066
+67,Centro Internazionale Radio Medico (CIRM),Via dell'Architettura 41,Roma,Lazio,00144,06 5929 0263,41.8301474,12.4764413,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10067
+68,Centro Medico Cascina La Salette,Via Salette nan,Verderio,Lombardia,23878,,45.6721363,9.4292553,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10068
+69,Centro Medico Mediolanum,nan nan,Milano,Lombardia,20122,,45.4532898,9.1967463,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10069
+70,Centro Medico Pignatelli,Via Don Bosco 45,Lecce,Puglia,73100,+39 0832 242641,40.3473532,18.1654421,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10070
+71,Centro Medico Polispecialistico Ambulatoriale San Luigi,Via Piave 2,Borgomanero,Piemonte,28021,+39 0322 846754,45.7014843,8.4685118,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10071
+72,Centro Medico San Giorgio,Via Del Tonale E Della Mendola 172,Endine Gaiano,Lombardia,24060,,45.7882786,9.993355,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10072
+73,Centro Medico San Nicolò,Corso Giuseppe Mazzini 43,Albisola Superiore,Liguria,17011,+39 019 489815,44.3367469,8.5103132,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10073
+74,Centro Medico di Riabilitazione,Via della Chiesa 4,Ginosa,Puglia,74025,+39 099 8279611,40.4274461,16.8864568,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10074
+75,"Centro Morra, Cardiologia e studi medici privati",Via indipendenza 21,Pomigliano d'Arco,Campania,80038,,40.9089644,14.3955336,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10075
+76,Centro Ortopedico Aliotta,Via Palazzi 132,Gela,Sicilia,93012,,37.0741389,14.2303965,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10076
+77,Centro Psico - Sociale Seregno,Via Ivo Oliveti 17,Seregno,Lombardia,20831,,45.6454606,9.2127041,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10077
+78,Centro Radioterapico,Piazza Trento nan,Gela,Sicilia,93012,,37.062551,14.2523842,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10078
+79,Centro Riabilitativo Australia,nan nan,Avellino,Campania,83100,,40.9266054,14.7977176,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10079
+80,Centro Servizi Pietro Grocco,Via della Pallotta 42,Perugia,Umbria,06123,,43.0965974,12.3943045,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10080
+81,Centro Terapie Psichiatriche,nan nan,Ivrea,Piemonte,10015,,45.4691372,7.8720097,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10081
+82,Centro di radiologia e fisioterapia,nan nan,Gorle,Lombardia,24020,+39 035 290636,45.6894957,9.7123049,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10082
+83,Centro di salute Bevagna,Via Sant'Anna 16,Bevagna,Umbria,06031,+39 0742 361996,42.9368836,12.6145664,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10083
+84,Centro di salute Torgiano,Via Principe Umberto 94,Torgiano,Umbria,06089,+39 075 8020170,43.0261111,12.4329663,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10084
+85,Centro diurno anziani Brignole Sede,Corso Firenze 26A,Genova,Liguria,16125,,44.4183389,8.9311381,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10085
+86,Centro medicina dello sport,nan nan,Eupilio,Lombardia,22030,,45.8064306,9.2561236,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10086
+87,Centro medico,nan nan,Magione,Umbria,06063,,43.1297262,12.2398841,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10087
+88,Centro prelievi,Via Fogliotti nan,Arona,Piemonte,28041,,45.7614609,8.5581531,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10088
+89,Centro psico sociale,nan nan,Magenta,Lombardia,20013,,45.4690326,8.8861693,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10089
+90,Centro salute di Fabro,nan nan,Fabro,Umbria,05015,,42.8731855,12.0460131,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10090
+91,Cittadella della Salute,Via Enrico Fermi 15,Viterbo,Lazio,01100,+39 0761 3391,42.4096365,12.1090775,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10091
+92,CityClinic,nan nan,Bolzano,Trentino-Alto Adige,39100,+39 0471 1551010,46.4697339,11.3186214,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10092
+93,Clinic,nan nan,Aviano,Friuli-Venezia Giulia,33081,,46.0687673,12.5781154,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10093
+94,"Clinica ""Colonnello d'Avanzo""",nan nan,Foggia,Puglia,71121,,41.4536376,15.5450418,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10094
+95,Clinica - Casa Vagliasindi,nan nan,Catania,Sicilia,95128,,37.5173654,15.0827535,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10095
+96,Clinica Città di Lecce Hospital,nan nan,Lecce,Puglia,73100,,40.3407222,18.1302899,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10096
+97,Clinica Lucina,nan nan,Catania,Sicilia,95128,,37.5130542,15.0930903,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10097
+98,Clinica Malzoni,nan nan,Avellino,Campania,83100,,40.9115358,14.7744888,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10098
+99,Clinica Mangioni,nan nan,Lecco,Lombardia,23900,,45.8500557,9.3882431,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10099
+100,Clinica Mediterranea,nan nan,Napoli,Campania,80122,,40.8274158,14.2188927,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10100
+101,Clinica Paideia,Via Vincenzo Tiberio 46,Roma,Lazio,00191,+39 06 330941,41.93943,12.4767329,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10101
+102,Clinica Piacenza,Via Giacomo Morigi nan,Piacenza,PC,29121,,45.0471406,9.6751336,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10102
+103,Clinica Salus,nan nan,Battipaglia,Campania,84091,,40.605943,14.9922099,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10103
+104,Clinica San Francesco,Piazza Fortunato Cesari 4,Galatina,Puglia,73013,+39 0836 562046,40.173093,18.1664336,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10104
+105,Clinica San Francesco,nan nan,Foggia,Puglia,71121,,41.4434581,15.5442083,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10105
+106,Clinica Sant'Anna,nan nan,Agrigento,Sicilia,92100,,37.2881612,13.581318,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10106
+107,Clinica Santa Maria la Bruna,Via Nazionale 599,Torre del Greco,Campania,80059,+39 081 8484111,40.7700622,14.4052956,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10107
+108,Clinica Villa Rizzo,nan nan,Siracusa,Sicilia,96100,,37.079447,15.2779858,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10108
+109,Clinica Villa Sant'Anna,nan nan,Reggio di Calabria,Calabria,89125,,38.1039474,15.6443571,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10109
+110,Clinica Villa dei Pini,nan nan,Avellino,Campania,83100,,40.9247267,14.7715152,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10110
+111,Clinica Villa delle Querce,nan nan,Napoli,Campania,80136,,40.8530702,14.2369558,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10111
+112,Clinica VillaSerena,nan nan,Jesi,Marche,60035,,43.5072679,13.1829592,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10112
+113,Clinica del Mediterraneo,nan nan,Ragusa,Sicilia,97100,,36.9191084,14.7046462,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10113
+114,Clinilabor,nan nan,Sant'Egidio del Monte Albino,Campania,84010,,40.7399288,14.5964764,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10114
+115,Consultorio Familiare,Via del Lagaccio 9,Genova,Liguria,16134,,44.4185789,8.9189155,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10115
+116,Corilab,Via Duca d'Aosta 8,Frascati,Lazio,00044,+39 06 942 2520,41.8074719,12.6784374,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10116
+117,Data Medica,nan nan,Montecatini Terme,Toscana,51016,,43.8833104,10.7762238,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10117
+118,Distretto Sanitario,nan nan,Trasacco,AQ,67059,,41.958808,13.5284561,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10118
+119,Distretto Sanitario,nan nan,Jesi,Marche,60035,,43.5160049,13.2440117,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10119
+120,Dott. Nucci,nan nan,Vallefoglia,Marche,61022,,43.84397,12.7491966,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10120
+121,Dott.sa Dai Prà,nan nan,Vicenza,Veneto,36100,,45.5579181,11.5594057,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10121
+122,Dottore Privato Anacapri,nan nan,Anacapri,Campania,80071,,40.5545275,14.2169061,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10122
+123,Ex Ospedale San Camillo,nan nan,Sassari,Sardegna,07100,,40.7637328,8.5702598,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10123
+124,Fisioterapia,nan nan,Paderno Dugnano,Lombardia,20037,,45.5731365,9.1556407,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10124
+125,Golgi S.r.l. Poliambulatorio Specialistico,nan 14,Brescia,Lombardia,25123,,45.5600158,10.2285914,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10125
+126,Gruppo Larc,nan nan,Torino,Piemonte,10155,+39 011 0341777,45.0926257,7.6802072,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10126
+127,Guardia Medica,nan nan,Alcara Li Fusi,Sicilia,98070,,38.0206742,14.7012973,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10127
+128,Guardia Medica,nan nan,Vicari,Sicilia,90020,,37.8237374,13.5692949,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10128
+129,Guardia Medica,nan nan,Valverde,Sicilia,95028,,37.5763955,15.1198739,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10129
+130,Guardia Medica,nan nan,Favignana,Sicilia,91023,,37.9274,12.3278036,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10130
+131,Guardia Medica,nan nan,Carbonia,Sardegna,09013,,39.1722257,8.5207525,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10131
+132,Guardia Medica,nan nan,Foggia,Puglia,71121,,41.4543911,15.5444058,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10132
+133,Guardia Medica,nan nan,Varese,Lombardia,21100,,45.7969572,8.8460622,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10133
+134,Guardia Medica,nan nan,Scillato,Sicilia,90020,,37.8562051,13.9086732,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10134
+135,Guardia Medica - ASL,Piazzetta delle Muse nan,Santa Severina,Calabria,88832,,39.1461701,16.9138725,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10135
+136,Guardia Medica di Rocca di Mezzo,nan nan,Rocca di Mezzo,AQ,67048,+39 0862 917142,42.2099771,13.518453,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10136
+137,Guardia Medica di Seveso,Via Martiri d'Ungheria 30,Seveso,Lombardia,20822,,45.65164,9.1349423,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10137
+138,Guardia medica,Via Cupa del Feudo 47,Sant'Egidio del Monte Albino,Campania,84010,+39 081 9368176,40.7378146,14.5893467,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10138
+139,Guardia medica,nan nan,Marineo,Sicilia,90035,,37.9528398,13.4197933,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10139
+140,Humanitas - Clinica Castelli,nan nan,Bergamo,Lombardia,24121,,45.6958723,9.6573662,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10140
+141,Infermeria,nan nan,Genova,Liguria,16122,,44.4792741,8.8989284,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10141
+142,Iniziativa Medica S.p.a.,Via Rialto 14,Monselice,Veneto,35043,,45.2402104,11.7660646,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10142
+143,Istituto Cardiovascolare Camogli,Via Aurelia 85,Camogli,Liguria,16032,,44.3510484,9.159604,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10143
+144,Istituto Regina Elena,nan nan,Roma,Lazio,00185,,41.8021642,12.4504244,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10144
+145,La Nostra Famiglia,nan nan,Mandello del Lario,Lombardia,23826,,45.9200289,9.3196261,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10145
+146,La Salute,Via dei Bersaglieri 5,Gorizia,Friuli-Venezia Giulia,34170,,45.9363201,13.5729521,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10146
+147,Laboratorio Analisi Pignatelli,Via Martiri d'Otranto 2,Lecce,Puglia,73100,+39 0832 243416,40.3472668,18.1659551,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10147
+148,Laboratorio Casella,nan nan,Grottaferrata,Lazio,00046,,41.7862733,12.6694371,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10148
+149,Laboratorio analisi mediche e centro medico,nan nan,Busto Arsizio,Lombardia,21052,,45.629422,8.8327516,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10149
+150,MEDITEC,nan nan,Sondrio,Lombardia,23100,,46.1648368,9.8464159,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10150
+151,MEDITEC,nan nan,Sondrio,Lombardia,23100,,46.164836,9.8460925,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10151
+152,Marienklinik - Casa di cura S. Maria,Via Claudia De' Medici - Claudia-De'-Medici-Straße 2,Bolzano,Trentino-Alto Adige,39100,+39 0471 310 600,46.5022208,11.3515103,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10152
+153,Mavis Centro Polidiagnostico,"Via Dante Alighieri 13,15",Torre Annunziata,Campania,80058,+39 081 8611276,40.7583887,14.446663,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10153
+154,Medical Center,nan nan,Reggio nell'Emilia,RE,42121,,44.7114543,10.6211169,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10154
+155,Medicina di base della Guizza,nan nan,Padova,Veneto,35139,,45.3830143,11.8692295,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10155
+156,Meditel Medical Center Polispecialistico Srl,Via Vincenzo Alliata 1,Saronno,Lombardia,21047,02 962821,45.6310085,9.0302966,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10156
+157,Merclin,nan nan,Campagna,Campania,84022,,40.6061106,15.1170146,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10157
+158,Misericordia di Navacchio,nan nan,Cascina,Toscana,56023,,43.6882143,10.4864595,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10158
+159,Monza Medicina,nan nan,Monza,Lombardia,20900,,45.5747109,9.2556976,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10159
+160,Mugello Medical Center,nan nan,Scarperia e San Piero,Toscana,50038,,43.9946549,11.370965,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10160
+161,Mutua Sanitaria Besnatese,nan nan,Besnate,Lombardia,21010,,45.6995951,8.7668118,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10161
+162,Nova Salus,nan nan,Trasacco,AQ,67059,,41.9612692,13.524819,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10162
+163,PT - Ambulatorio Medico,nan nan,Vajont,Friuli-Venezia Giulia,33080,,46.1459942,12.6988166,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10163
+164,Palaia Human Care,Via Nicola Brandi 7,Brindisi,Puglia,72100,+39 0832 782694,40.6436619,17.929996,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10164
+165,Palazzo della Salute Martinez ASL 3,nan nan,Genova,Liguria,16155,,44.423924,8.8052895,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10165
+166,Poliambulario,nan nan,Vietri di Potenza,Basilicata,85058,,40.5976364,15.5049035,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10166
+167,Poliambulatori Territoriali A.S.S.T. Spedali Civili,Via Camillo Biseo 17,Brescia,Lombardia,25123,,45.545753,10.2266956,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10167
+168,Poliambulatorio,nan nan,Dorgali,Sardegna,08022,,40.2946336,9.5838485,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10168
+169,Poliambulatorio,nan nan,Paderno Dugnano,Lombardia,20037,,45.5723964,9.1552412,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10169
+170,Poliambulatorio,nan nan,Gavoi,Sardegna,08020,,40.1625209,9.1965677,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10170
+171,Poliambulatorio,nan nan,Rivoli,Piemonte,10098,,45.072249,7.5212946,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10171
+172,Poliambulatorio,Viale Mellino Mellini 6,Chiari,Lombardia,25032,,45.5381912,9.9328412,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10172
+173,Poliambulatorio,nan nan,Serravalle Sesia,Piemonte,13037,,45.6840783,8.3111908,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10173
+174,Poliambulatorio 118,nan nan,Santa Croce di Magliano,Molise,86047,,41.7133695,14.9910494,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10174
+175,Poliambulatorio ASL Sanluri,Corso Europa sn,Serramanna,Sardegna,09038,+39 070 913 9214,39.4295239,8.9230907,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10175
+176,Poliambulatorio Appio,nan nan,Roma,Lazio,00181,,41.8669283,12.5311639,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10176
+177,Poliambulatorio Comunità,nan nan,Ivrea,Piemonte,10015,,45.4603583,7.8805393,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10177
+178,Poliambulatorio Crispiano,nan nan,Crispiano,Puglia,74012,,40.6002715,17.2361622,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10178
+179,Poliambulatorio Crispiano,nan nan,Crispiano,Puglia,74012,,40.6004173,17.2349722,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10179
+180,Poliambulatorio Decollatura,piazza G. Perri nan,Decollatura,Calabria,88041,,39.0468784,16.3556222,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10180
+181,Poliambulatorio Europa,Piazzale Europa nan,Perugia,Umbria,06123,+39 075 5412914,43.1034651,12.3894212,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10181
+182,Poliambulatorio Guardia Medica,nan nan,Milo,Sicilia,95010,,37.7218771,15.1157842,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10182
+183,Poliambulatorio Potenza Picena,Via delle Fonti nan,Potenza Picena,Marche,62018,,43.3623317,13.6196968,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10183
+184,Poliambulatorio Reno,Via Arturo Colombi nan,Bologna,BO,40133,,44.49499,11.2859318,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10184
+185,Poliambulatorio Suor Chiara Di Mauro,nan nan,Siracusa,Sicilia,96100,,37.0843281,15.2914673,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10185
+186,Poliambulatorio della Misericordia,Via Santissima Annunziata nan,Isola di Capo Rizzuto,Calabria,88841,,38.9591593,17.0949732,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10186
+187,Poliambulatorio di Adelfia,nan nan,Adelfia,Puglia,70010,,41.0002756,16.8770666,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10187
+188,Poliambulatorio di Arcore,Via Umberto I 17,Arcore,Lombardia,20862,,45.6273342,9.3243026,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10188
+189,Poliambulatorio di Capo d'Orlando,nan nan,Capo d'Orlando,Sicilia,98071,,38.1576319,14.741731,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10189
+190,Poliambulatorio di Copertino,nan nan,Copertino,Puglia,73043,,40.2774606,18.0585364,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10190
+191,Poliambulatorio di Macherio,Via Italia 13,Macherio,Lombardia,20846,,45.6403329,9.2686842,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10191
+192,Poliambulatorio di Pontelambro,nan nan,Ponte Lambro,Lombardia,22037,,45.8185101,9.2235811,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10192
+193,Potito Centro Medico Radiologico,Via Conte Verde 5,Campobasso,Molise,86100,+39 0874 91720,41.5531236,14.657756,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10193
+194,Presidio Sanitario Polifunzionale,nan nan,Santhià,Piemonte,13048,,45.3647079,8.1750825,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10194
+195,Privatklinik Villa St. Anna - Casa di Cura Villa Santa Anna,nan nan,Merano,Trentino-Alto Adige,39012,,46.6694552,11.1702215,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10195
+196,RSA Caposoprano Residence,Via Palazzi 217,Gela,Sicilia,93012,,37.0746043,14.2280275,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10196
+197,Residenza Rosa del Marganai,nan nan,Iglesias,Sardegna,09016,,39.3116555,8.5573335,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10197
+198,Residenza Sanitaria Assistenziale,nan nan,Selargius,Sardegna,09047,,39.255854,9.1541472,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10198
+199,Riabilitazione,nan nan,Paderno Dugnano,Lombardia,20037,,45.5726648,9.1555877,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10199
+200,SERT,nan nan,Magenta,Lombardia,20013,,45.4695541,8.8937504,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10200
+201,Santa Monica,Via Monte Pasubio nan,Arona,Piemonte,28041,+39  0322 243369,45.7543212,8.5478825,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10201
+202,Servizio Veterinario - Anagrafe Canina,nan nan,Carbonia,Sardegna,09013,,39.1686964,8.524281,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10202
+203,Spine & Sport Clinic,Via del Lago 29,Bracciano,Lazio,00062,+39 06 99806298,42.1094937,12.1806193,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10203
+204,Starbene,nan nan,Crotone,Calabria,88900,,39.0826091,17.12694,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10204
+205,Stella del Mattino,nan nan,Boves,Piemonte,12012,,44.3367951,7.5446005,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10205
+206,Synlab,Corso Carlo Alberto nan,Lecco,Lombardia,23900,,45.8418239,9.4040441,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10206
+207,Teorema Srl,Via Torino 70,Cureggio,Piemonte,28060,+39 0322 836740,45.6759723,8.4548628,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10207
+208,Terme Santa Lucia,Contrada Santa Lucia nan,Tolentino,Marche,62029,+39 0733 968227,43.2149787,13.2588754,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10208
+209,Terme di Popoli,nan nan,Popoli,PE,65026,,42.1781752,13.8350145,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10209
+210,Toma Advanced Biomedical Assays,nan nan,Busto Arsizio,Lombardia,21052,,45.5992521,8.8512954,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10210
+211,ULSS 9 Scaligera,Via Campania 1,Verona,Veneto,37122,,45.4445792,10.9660352,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10211
+212,ULSS 9 Scaligera,nan nan,Verona,Veneto,37122,,45.4447412,10.9658211,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10212
+213,UPMC San Pietro FBF,nan nan,Roma,Lazio,00185,,41.9647324,12.4523497,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10213
+214,USI - Axa-Palocco (Axalab),via Eschilo 191,Roma,Lazio,00125,,41.7562332,12.3698228,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10214
+215,USI - Borghesiana (Pro.di.lab.),Via Casilina 1838,Roma,Lazio,00132,06 328 68 47,41.8624143,12.684269,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10215
+216,USI - Piazza Vittorio (Machiavelli Medical House),Via Machiavelli 22,Roma,Lazio,00185,+39 06 3286843,41.892491,12.5027604,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10216
+217,USI - Prati,via Virginio Orsini 18,Roma,Lazio,00192,+39 06 32 86 81,41.9102486,12.4700779,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10217
+218,Villa Angela,nan nan,Napoli,Campania,80123,,40.8207455,14.2083928,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10218
+219,Villa Anna,nan nan,San Benedetto del Tronto,Marche,63074,,42.9437656,13.880972,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10219
+220,Villa Bianca - Multimedica,Via Fratelli Bandiera 3,Limbiate,Lombardia,20812,,45.6043521,9.1176326,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10220
+221,Villa Caramora - Istituto Auxologico Italiano,nan nan,Verbania,Piemonte,28922,,45.9371348,8.576856,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10221
+222,Villa Elena,nan nan,Meldola,FC,47014,,44.1265316,12.0646702,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10222
+223,Villa Esther,nan nan,Avellino,Campania,83100,,40.9063469,14.7988575,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10223
+224,Villa Genusia,nan nan,Ginosa,Puglia,74013,,40.4347702,16.8670929,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10224
+225,Villa Maria Cecilia Hospital,nan nan,Cotignola,RA,48033,,44.3974493,11.8930821,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10225
+226,Villa Miari,nan nan,Santorso,Veneto,36014,,45.7410038,11.39793,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10226
+227,Villa San Giuseppe,nan nan,Cotronei,Calabria,88836,,39.1505884,16.7718373,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10227
+228,Villa Santa Maria,nan nan,Gaggiano,Lombardia,20083,,45.4166905,8.9983729,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10228
+229,Villa Santa Teresa,nan nan,Bagheria,Sicilia,90011,+39 091 9292111,38.0934539,13.5128269,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10229
+230,ambulatorio,nan nan,Vermezzo con Zelo,Lombardia,20071,,45.3931093,8.9790895,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10230

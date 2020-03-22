@@ -1,0 +1,71 @@
+,name,address,city,state,zip,phone,LAT,LON,hasSpecialties,ADDICTION MEDICINE,ADVANCED HEART FAILURE AND TRANSPLANT CARDIOLOGY,ALLERGY/IMMUNOLOGY,ANESTHESIOLOGY,ANESTHESIOLOGY ASSISTANT,AUDIOLOGIST,CARDIAC ELECTROPHYSIOLOGY,CARDIAC SURGERY,CARDIOVASCULAR DISEASE (CARDIOLOGY),CERTIFIED NURSE MIDWIFE,CERTIFIED REGISTERED NURSE ANESTHETIST,CHIROPRACTIC,CLINICAL NURSE SPECIALIST,CLINICAL PSYCHOLOGIST,CLINICAL SOCIAL WORKER,COLORECTAL SURGERY (PROCTOLOGY),CRITICAL CARE (INTENSIVISTS),DENTIST,DERMATOLOGY,DIAGNOSTIC RADIOLOGY,EMERGENCY MEDICINE,ENDOCRINOLOGY,FAMILY PRACTICE,GASTROENTEROLOGY,GENERAL PRACTICE,GENERAL SURGERY,GERIATRIC MEDICINE,GERIATRIC PSYCHIATRY,GYNECOLOGICAL ONCOLOGY,HAND SURGERY,HEMATOLOGY,HEMATOLOGY/ONCOLOGY,HEMATOPOIETIC CELL TRANSPLANTATION AND CELLULAR TH,HOSPICE/PALLIATIVE CARE,HOSPITALIST,INFECTIOUS DISEASE,INTERNAL MEDICINE,INTERVENTIONAL CARDIOLOGY,INTERVENTIONAL PAIN MANAGEMENT,INTERVENTIONAL RADIOLOGY,MAXILLOFACIAL SURGERY,MEDICAL ONCOLOGY,NEPHROLOGY,NEUROLOGY,NEUROPSYCHIATRY,NEUROSURGERY,NUCLEAR MEDICINE,NURSE PRACTITIONER,OBSTETRICS/GYNECOLOGY,OCCUPATIONAL THERAPY,OPHTHALMOLOGY,OPTOMETRY,ORAL SURGERY,ORTHOPEDIC SURGERY,OSTEOPATHIC MANIPULATIVE MEDICINE,OTOLARYNGOLOGY,PAIN MANAGEMENT,PATHOLOGY,PEDIATRIC MEDICINE,PERIPHERAL VASCULAR DISEASE,PHYSICAL MEDICINE AND REHABILITATION,PHYSICAL THERAPY,PHYSICIAN ASSISTANT,PLASTIC AND RECONSTRUCTIVE SURGERY,PODIATRY,PREVENTATIVE MEDICINE,PSYCHIATRY,PULMONARY DISEASE,RADIATION ONCOLOGY,REGISTERED DIETITIAN OR NUTRITION PROFESSIONAL,"RHEUMATOLOGY,",SLEEP MEDICINE,SPEECH LANGUAGE PATHOLOGIST,SPORTS MEDICINE,SURGICAL ONCOLOGY,THORACIC SURGERY,UNDEFINED PHYSICIAN TYPE (SPECIFY),"UROLOGY,",VASCULAR SURGERY,id
+0,AGEL Clinic,Jelačičova 8,Bratislava,Bratislava,821 03,,48.1548954,17.1290504,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000
+1,Centrum Zdravia,nan nan,Vráble,Nitriansky kraj,952 01,,48.2432868,18.3051133,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10001
+2,Denné sanatórium pre deti s chybami zraku,Jankolova 6,Bratislava,Bratislava,851 02,,48.1204901,17.1277593,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10002
+3,Detské rehabilitačné sanatórium,nan nan,Ružomberok,Ružomberok,034 01,,49.0844946,19.2991758,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10003
+4,Duo Med,nan nan,Zvolen,Zvolen,960 01,,48.5799496,19.1352182,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10004
+5,Fresenius Medical Care - Dializačné stredisko,nan nan,Trnava,Trnava,917 01,,48.3692966,17.5900692,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10005
+6,Gynekologicko - pôrodnícka nemocnica KOCH,nan nan,Bratislava,Bratislava,811 06,,48.1464933,17.0950774,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10006
+7,Kúpeľná poliklinika,nan 76,Kováčová,Zvolen,962 37,,48.6087541,19.1021579,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10007
+8,Lekáreň Pharmacia,nan nan,Liptovský Hrádok,Liptovský Mikuláš,033 01,,49.038929,19.7206984,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10008
+9,Medicentrum Magma,nan nan,Bratislava,Bratislava,851 02,,48.1262804,17.0963385,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10009
+10,Mediklinik,nan nan,Most pri Bratislave,Senec,900 46,,48.140918,17.2582889,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10010
+11,Medinet s.r.o.,Lichnerova 61,Senec,Senec,903 01,,48.2183076,17.4037054,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10011
+12,Mestská poliklinika,Hrnčiriková 222/6,Partizánske,Partizánske,958 01,,48.6267114,18.3735533,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10012
+13,Mestská poliklinika Šurany,nan nan,Šurany,Nitriansky kraj,942 01,,48.0884428,18.1792513,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10013
+14,Nemocničná poliklinika,nan nan,Bratislava,Bratislava,821 03,,48.1554206,17.1530974,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10014
+15,Nová poliklinika,nan nan,Topoľčany,Nitriansky kraj,955 01,,48.5630337,18.1740129,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10015
+16,Národné rehabilitačné centrum,nan 353,Kováčová,Zvolen,962 37,,48.6076647,19.1046999,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10016
+17,Oremus,Tomášikova 8,Košice,Košice,040 01,,48.7339184,21.2500242,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10017
+18,PRO BIOS,nan nan,Bratislava,Bratislava,821 03,,48.1538554,17.1398061,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10018
+19,Pneumo-Alergo Centrum,Údernícka 1,Bratislava,Bratislava,851 02,,48.1212216,17.0970723,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10019
+20,Poliklinika,Jesenského 85,Štúrovo,Nitriansky kraj,943 01,,47.7878983,18.7147395,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10020
+21,Poliklinika,nan nan,Bratislava,Bratislava,851 02,,48.101068,17.1183648,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10021
+22,Poliklinika,Tbiliská 7711/6,Bratislava,Bratislava,831 03,,48.2155441,17.1601515,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10022
+23,Poliklinika,nan nan,Šaľa,Nitriansky kraj,927 01,,48.1516496,17.8709727,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10023
+24,Poliklinika,Námestie 1. mája 6,Senec,Senec,903 01,,48.2209677,17.4011243,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10024
+25,Poliklinika,Moravská 512/62,Vráble,Nitriansky kraj,952 01,,48.2432284,18.306086,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10025
+26,Poliklinika,Rekreačná 4827/2,Piešťany,Piešťany,921 01,,48.57448,17.8135016,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10026
+27,Poliklinika,Janka Kráľa 573/15,Bojnice,Prievidza,972 01,,48.7820393,18.5857354,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10027
+28,Poliklinika 1 Škultétyho Martin,nan nan,Martin,Martin,036 01,,49.0692798,18.9215581,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10028
+29,Poliklinika Družba,Starohájska 6755/2,Trnava,Trnava,917 01,,48.3802122,17.5941648,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10029
+30,Poliklinika KVP,nan nan,Košice,Košice,040 11,,48.7143932,21.2158339,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10030
+31,Poliklinika Karlova Ves,nan nan,Bratislava,Bratislava,841 04,+421 2 602 64 111,48.1540821,17.0605057,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10031
+32,Poliklinika LDCH,nan nan,Detva,Detva,962 12,,48.559692,19.4228079,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10032
+33,Poliklinika Mlynská dolina,Staré Grunty 56,Bratislava,Bratislava,841 04,+421 2 3231 3020;+421 911 392 220;+421 910 911 230,48.1584696,17.0681771,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10033
+34,Poliklinika Mýtna,Mýtna 5,Bratislava,Bratislava,811 06,,48.1545407,17.1155205,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10034
+35,Poliklinika Panelová,Panelová 2,Košice,Košice,040 01,,48.7070312,21.2602764,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10035
+36,Poliklinika Pezinok,nan nan,Pezinok,Pezinok,902 01,,48.2860667,17.2736502,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10036
+37,Poliklinika ProCare,Jána Pavla II. 5,Košice,Košice,040 11,+421 907 888 999,48.7207463,21.211404,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10037
+38,Poliklinika ProCare,Ivana Krasku 2464/38,Sereď,Galanta,926 01,,48.2942509,17.7374345,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10038
+39,Poliklinika RUŽA,nan nan,Ružomberok,Ružomberok,034 01,,49.0852636,19.3012901,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10039
+40,Poliklinika Ružinov,nan nan,Bratislava,Bratislava,821 03,,48.155517,17.1539775,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10040
+41,Poliklinika Rázusova,Rázusova 16,Nitra,Nitriansky kraj,949 01,,48.298828,18.0826176,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10041
+42,Poliklinika Senica,nan nan,Senica,Senica,905 01,,48.6886123,17.3721307,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10042
+43,Poliklinika Tehelná,Tehelná nan,Bratislava,Bratislava,831 03,,48.1643302,17.1279542,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10043
+44,Poliklinika Terasa,Toryská 1,Košice,Košice,040 11,,48.7138101,21.2308248,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10044
+45,Poliklinika Turzovka,nan 41,Turzovka,Čadca,023 54,,49.4049491,18.6255018,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10045
+46,Poliklinika pri ZŤS,nan nan,Martin,Martin,036 01,,49.0700436,18.9111773,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10046
+47,Poliklinika sv. Michala,Lazaretská 14,Bratislava,Bratislava,811 06,,48.1465907,17.1188703,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10047
+48,ProCare,Betliarska 17,Bratislava,Bratislava,851 02,,48.0996399,17.1219348,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10048
+49,ProCare Central,Jelačičova 7,Bratislava,Bratislava,821 03,,48.1571474,17.1305885,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10049
+50,ProCare Vlčie hrdlo,Vlčie hrdlo 49,Bratislava,Bratislava,821 03,,48.1280907,17.1745951,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10050
+51,U gajdara,nan nan,Malacky,Malacky,901 01,,48.4401175,17.0250032,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10051
+52,Ultrazvuková ambulancia,nan nan,Bardejov,Bardejov,085 01,,49.3036231,21.2764323,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10052
+53,Unicentrum,Lúčky 1247/42,Bojnice,Prievidza,972 01,,48.782505,18.590365,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10053
+54,Uniklinika kardinála Korca,Nábrežná 1888/5,Prievidza,Prievidza,971 01,,48.7805766,18.6111562,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10054
+55,Vojenská nemocnica - Poliklinika,nan nan,Ružomberok,Ružomberok,034 01,,49.0859164,19.298747,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10055
+56,Vojenská poliklinika,Partizánska 3731,Trenčín,Trenčín,911 01,,48.886583,18.0358596,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10056
+57,Zdravotné stredisko,nan nan,Valaliky,Košice-Okolie,044 13,,48.63342,21.2974582,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10057
+58,Zdravotné stredisko,Mierová 84/2,Strážske,Michalovce,072 22,,48.8727053,21.8369641,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10058
+59,Zdravotné stredisko,nan 1219,Oščadnica,Čadca,023 01,,49.4382796,18.886726,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10059
+60,Zdravotné stredisko,nan 6,Most pri Bratislave,Senec,900 46,,48.1406028,17.2619715,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10060
+61,Zdravotné stredisko,Rajecká cesta 13/19,Rajecké Teplice,Žilina,013 13,,49.1274275,18.6811796,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10061
+62,Zdravotné stredisko Asklepios,Saratovská 223/24,Bratislava,Bratislava,841 01,,48.1930481,17.035458,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10062
+63,Zdravotné stredisko Fedinova,Fedinova 9,Bratislava,Bratislava,851 02,,48.1168095,17.1014172,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10063
+64,Zdravotné stredisko Martin-Košúty,Hodžova 1,Martin,Martin,036 01,,49.0863929,18.933248,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10064
+65,Zdravotné stredisko Pliešovce,Hviezdoslavova 5,Pliešovce,Zvolen,962 63,,48.4245088,19.1548415,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10065
+66,Zdravotné stredisko Záporožská,nan nan,Bratislava,Bratislava,851 02,,48.1261036,17.096536,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10066
+67,Zdravotné stredisko Šenkvice,Vinohradská 610/57,Šenkvice,Pezinok,900 81,,48.296413,17.3468087,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10067
+68,Zubná poliklinika,nan nan,Nitra,Nitriansky kraj,949 01,,48.3116672,18.0802726,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10068
+69,zdravotné stredisko,nan nan,Topoľčianky,Nitriansky kraj,951 93,,48.4201777,18.4139354,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10069

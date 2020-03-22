@@ -1,0 +1,222 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,10000,A.Z. Jan Portaels,Vaartstraat 42,Vilvoorde,Vlaanderen,1800,,,,,Yes,,50.9274072,4.4190545
+1,10001,A.Z. Jan Portaels,nan nan,Vilvoorde,Vlaanderen,1800,,,,,Yes,,50.9275154,4.4190125
+2,10002,A.Z. Jan Portaels,Gendarmeriestraat 65,Vilvoorde,Vlaanderen,1800,,,,,Yes,,50.9274896,4.418969
+3,10003,A.Z. Sint-Lucas campus Sint-Lucas,Groenebriel 1,Gent,Vlaanderen,9000,,,,,Yes,,51.064075,3.7198579
+4,10004,A.Z. Sint-Lucas campus Volkskliniek,Tichelrei 1,Gent,Vlaanderen,9000,,,,,,,51.0606214,3.7212564
+5,10005,ASZ Campus Geraardsbergen,nan nan,Geraardsbergen,Vlaanderen,9500,,,,,,,50.7705536,3.8771583
+6,10006,ASZ Wetteren,nan nan,Wetteren,Vlaanderen,9230,,,,,Yes,,51.011728,3.8977137
+7,10007,AZ Alma- campus Ringlaan,Ringlaan 15,Eeklo,Vlaanderen,9900,,,,,,,51.1916682,3.5358218
+8,10008,AZ Damiaan,nan nan,Oostende,Vlaanderen,8400,,,,,,,51.2178487,2.9352914
+9,10009,AZ Delta Menen,nan nan,Menen,Vlaanderen,8930,,,,,Yes,,50.7923928,3.1226568
+10,10010,AZ Delta campus Brugsesteenweg,Brugsesteenweg 90,Roeselare,Vlaanderen,8800,,+32 51 23 61 11,,,,,50.9547734,3.1219107
+11,10011,AZ Delta campus Wilgenstraat,Wilgenstraat 2,Roeselare,Vlaanderen,8800,,,,,Yes,,50.9389763,3.1216664
+12,10012,AZ Diest Campus Hasseltsestraat,nan nan,Diest,Vlaanderen,3290,,,,,,,50.9804781,5.0518246
+13,10013,AZ Diest Campus Statiestraat,nan nan,Diest,Vlaanderen,3290,,+32 13 35 40 11,,,,,50.986332,5.0516469
+14,10014,AZ Glorieux,nan nan,Ronse,Vlaanderen,9600,,,,,,,50.7548259,3.6051066
+15,10015,AZ Groeninge - campus Reepkaai - revalidatie,nan nan,Kortrijk,Vlaanderen,8500,,,,,No,,50.8298986,3.2599253
+16,10016,AZ Jan Palfijn site Watersportbaan,Henri Dunantlaan 5,Gent,Vlaanderen,9000,,,,,Yes,,51.0478855,3.7004804
+17,10017,AZ Klina,Augustijnslei 100,Brasschaat,Vlaanderen,2930,,,,,,,51.2989382,4.4888286
+18,10018,AZ Maria Middelares,Kortrijksesteenweg 1026,Gent,Vlaanderen,9000,,,,,Yes,,51.0238507,3.7024463
+19,10019,AZ Maria Middelares campus Sint-Jozef,Kliniekstraat 27,Gent,Vlaanderen,9050,,+32 9 236 50 00,,,Yes,,51.0436009,3.7570078
+20,10020,AZ Monica,nan nan,Antwerpen,Vlaanderen,2100,,,,,Yes,,51.2073111,4.4706491
+21,10021,AZ Monica Antwerpen,nan nan,Antwerpen,Vlaanderen,2018,,,,,,,51.2015676,4.408578
+22,10022,AZ Nikolaas (Meesterstraat),nan nan,Sint-Niklaas,Vlaanderen,9100,,,,,,,51.1631351,4.1511064
+23,10023,AZ Nikolaas (Moerland),Moerlandstraat 1,Sint-Niklaas,Vlaanderen,9100,,,,,,,51.1609406,4.1509993
+24,10024,AZ Nikolaas Campus Beveren,nan nan,Beveren,Vlaanderen,9120,,,,,,,51.2104909,4.2508722
+25,10025,AZ Oudenaarde,Minderbroedersstraat 3,Oudenaarde,Vlaanderen,9700,,+32 55 33 61 11,,,,,50.8430108,3.601752
+26,10026,AZ Sint-Blasius Dagkliniek,Koevliet 6,Zele,Vlaanderen,9240,,,,,No,,51.0665191,4.0266977
+27,10027,AZ Sint-Dimpna,nan nan,Geel,Vlaanderen,2440,,,,,,,51.1583474,5.0015767
+28,10028,AZ Sint-Dimpna (enkel personeel),nan nan,Geel,Vlaanderen,2440,,,,,,,51.1583373,5.0021894
+29,10029,AZ Sint-Jan,Ruddershove 10,Brugge,Vlaanderen,8000,,,,,Yes,,51.2213677,3.1977402
+30,10030,AZ Sint-Jan Brugge-Oostende - Campus Hendrik Serruys,nan nan,Oostende,Vlaanderen,8400,,,,,,,51.2239481,2.9144458
+31,10031,AZ Sint-Jozef,nan nan,Zoersel,Vlaanderen,2980,,,,,Yes,,51.2755462,4.6428568
+32,10032,AZ Sint-Lucas,nan nan,Brugge,Vlaanderen,8310,,+32 50 36 91 11,,,,,51.1850017,3.2466793
+33,10033,AZ Sint-Lucas,nan nan,Zelzate,Vlaanderen,9060,,,,,,,51.1957238,3.8227428
+34,10034,AZ Sint-Maarten,nan nan,Mechelen,Vlaanderen,2800,,,,,,,51.0522222,4.4733557
+35,10035,AZ St-Dimpna,nan nan,Geel,Vlaanderen,2440,,,,,,,51.1606838,4.9999523
+36,10036,AZ St-Dimpna,nan nan,Geel,Vlaanderen,2440,,,,,,,51.1595944,5.0007994
+37,10037,AZ St-Dimpna,nan nan,Geel,Vlaanderen,2440,,,,,,,51.160392,5.0001508
+38,10038,AZ Turnhout Campus Sint Elizabeth,nan nan,Turnhout,Vlaanderen,2300,,,,,,,51.3127219,4.9432027
+39,10039,AZ Turnhout Campus Sint Jozef,nan nan,Turnhout,Vlaanderen,2300,,,,,,,51.3342037,4.9185066
+40,10040,AZ West,nan nan,Veurne,Vlaanderen,8630,,,,,,,51.0613313,2.6715605
+41,10041,AZ Zeno campus Blankenberge,Dr. Frans Verhaegestraat 1,Blankenberge,Vlaanderen,8370,,+32 50 43 41 11,,,Yes,,51.3080095,3.1251157
+42,10042,AZ Zeno campus Knokke-Heist,Kalvekeetdijk 260,Knokke-Heist,Vlaanderen,8300,,+32 50 53 50 00,,,Yes,,51.3250828,3.2902951
+43,10043,AZ-Nikolaas,nan nan,Sint-Gillis-Waas,Vlaanderen,9170,,,,,,,51.223704,4.1245789
+44,10044,Algemeen Stedelijk Ziekenhuis Aalst,nan nan,Aalst,Vlaanderen,9300,,,,,Yes,,50.9363633,4.0161419
+45,10045,Algemeen Ziekenhuis Sint-Blasius,nan nan,Dendermonde,Vlaanderen,9200,,,,,,,51.0262041,4.1133228
+46,10046,Asster Psychiatrisch Ziekenhuis Campus Melveren,nan nan,Sint-Truiden,Vlaanderen,3800,,,,,,,50.838881,5.190948
+47,10047,Asster Psychiatrische ziekenhuis Campus Stad,nan nan,Sint-Truiden,Vlaanderen,3800,,,,,,,50.8099876,5.1739956
+48,10048,C.H.U. Notre-dame des Bruyères,Rue de Gaillarmont 600,Liège,Wallonie,4030,,,,,Yes,,50.6243239,5.6352129
+49,10049,CHM,nan nan,Mouscron,Wallonie,7700,,,,,Yes,,50.7489336,3.2205068
+50,10050,CHR Mons-Hainaut Site Saint-Joseph,Avenue Baudouin de Constantinople 5,Mons,Wallonie,7000,,,,,Yes,,50.4547493,3.9607193
+51,10051,CHR Mons-Hainaut Site Warquignies,Rue des Chaufours 27,Boussu,Wallonie,7300,,,,,Yes,,50.4187734,3.8040234
+52,10052,CHR Verviers | La Tourelle,Rue du Parc 29,Verviers,Wallonie,4800,,,,,Yes,,50.5819777,5.8572288
+53,10053,CHU Ambroise Paré,nan nan,Mons,Wallonie,7000,,,,,Yes,,50.4581915,3.9606929
+54,10054,CHU Brugmann - UVC Brugmann,Place Arthur Van Gehuchten - Arthur Van Gehuchtenplein 4,Brussel,Brussel,1020,,,,,Yes,,50.8851079,4.3300592
+55,10055,CHU Charleroi - Marie Curie (Lodelinsart),Chaussée de Bruxelles nan,Charleroi,Wallonie,6042,,+32 71 92 07 01,,,Yes,,50.4304463,4.4401943
+56,10056,CHU Esneux,rue Grandfosse 25-27,Esneux,Wallonie,4130,,,,,No,,50.5322087,5.5770286
+57,10057,CHU Esneux Polyclinique,rue Grandfosse 33,Esneux,Wallonie,4130,,,,,No,,50.5323707,5.578278
+58,10058,CHU Saint-Pierre - UMC Sint-Pieter,Rue Haute - Hoogstraat 322,Brussel,Brussel,1000,,,,,Yes,,50.8344015,4.3457406
+59,10059,Campus Sint-Jan,Houtemstraat 115,Tienen,Vlaanderen,3300,,,,,,,50.8154846,4.9405981
+60,10060,Centre Hospitalier Hornu - Frameries,nan nan,Frameries,Wallonie,7080,,,,,No,,50.4071136,3.8910473
+61,10061,Centre Hospitalier Reine Astrid Malmedy,Rue Devant les Religieuses 2,Malmedy,Wallonie,4960,,,,,Yes,,50.426357,6.0230262
+62,10062,Centre Hospitalier Régional de Huy,Rue des Trois Ponts 2,Huy,Wallonie,4500,,+32 85 27 21 11,,,Yes,,50.5134521,5.2395055
+63,10063,Centre Hospitalier Spécialisé Notre-Dame des Anges,Rue Émile Vandervelde 67,Liège,Wallonie,4000,,,,,No,,50.6480674,5.5448588
+64,10064,Centre Hospitalier Spécialisé l'Accueil,Rue du Doyard 15,Lierneux,Wallonie,4990,,,,,,,50.289536,5.7873744
+65,10065,Centre Hospitalier Tubize Nivelles - Site de Tubize,Avenue de Scandiano 8,Tubize,Wallonie,1480,,,,,,,50.6926293,4.2030516
+66,10066,Centre Hospitalier Tubize-Nivelles site de Nivelles,nan nan,Nivelles,Wallonie,1400,,,,,Yes,,50.5942888,4.3168064
+67,10067,Centre Hospitalier Universitaire Tivoli,nan nan,La Louvière,Wallonie,7100,,,,,Yes,,50.4781266,4.2054339
+68,10068,Centre Hospitalier de Mouscron,Avenue de Fécamp 49,Mouscron,Wallonie,7700,,+32 56 85 85 85,,,,,50.7489812,3.219568
+69,10069,Centre Hospitalier de Wallonie picarde - site IMC,nan nan,Tournai,Wallonie,7500,,,,,,,50.5931911,3.4010519
+70,10070,Centre Hospitalier de l'Ardenne,nan nan,Libramont-Chevigny,Wallonie,6800,,,,,Yes,,49.9254962,5.3781149
+71,10071,Centre Hospitalier de la Haute Senne - site Saint Vincent,nan nan,Soignies,Wallonie,7060,,,,,No,,50.5767818,4.0660158
+72,10072,Centre Medical Mosan,Rue de Lantin 122,Liège,Wallonie,4000,,+32 4 247 81 20,,,,,50.675785,5.5418784
+73,10073,Centre Neurologique et de Réadaptation Fonctionnelle,nan nan,Tinlot,Wallonie,4557,,,,,,,50.4865525,5.4348292
+74,10074,Centre de Réadaptation Heysel - Revalidatiecentrum Heizel,Rue du Heysel - Heizelstraat 3,Brussel,Brussel,1020,,,,,,,50.8911933,4.3432567
+75,10075,Centre de santé des Fagnes,Boulevard Louise 18,Chimay,Wallonie,6460,,,,,,,50.0444351,4.3101295
+76,10076,Centre hospitalier Etterbeek-Ixelles - Ziekenhuizencentrum Etterbeek-Elsene,Rue Jean Paquot - Jean Paquotstraat 63,Elsene,Brussel,1050,,+32 2 641 41 11,,,Yes,,50.8256318,4.3777079
+77,10077,Centre hospitalier Joseph Wauters,Avenue de la Résistance 2,Waremme,Wallonie,4300,,,,,,,50.6924025,5.2502706
+78,10078,Centre hospitalier Paul Brien - Verplegingscentrum Paul Brien,Rue du Foyer Schaerbeekois - Schaarbeekse Haardstraat 36,Schaarbeek,Brussel,1030,,,,,Yes,,50.8707003,4.3850323
+79,10079,Centre hospitalier Valida,Avenue Josse Goffin - Josse Goffinlaan 180,Sint-Agatha-Berchem,Brussel,1082,,+32 2 482 40 00,,,,,50.8669094,4.3069906
+80,10080,Centre hospitalier du Bois de l'Abbaye,nan nan,Seraing,Wallonie,4100,,,,,,,50.5819246,5.4918099
+81,10081,ChWaPi Site Union,Rue des Sports nan,Tournai,Wallonie,7500,,,,,,,50.5998092,3.3827826
+82,10082,Chirec - Hôpital de Braine-Waterloo,Rue Wayez 35,Braine-l'Alleud,Wallonie,1420,,+32 2 434 91 11,,,Yes,,50.6856278,4.3672156
+83,10083,Chêne aux Haies,nan nan,Mons,Wallonie,7000,,,,,,,50.4605019,3.978357
+84,10084,Clairs Vallons,nan nan,Ottignies-Louvain-la-Neuve,Wallonie,1340,,,,,,,50.6591836,4.6034381
+85,10085,Clinique André Renard,nan nan,Herstal,Wallonie,4040,,,,,,,50.6746387,5.6338726
+86,10086,Clinique Edmond-Jacques,Rue d'Harnoncourt 48,Virton,Wallonie,6762,,,,,,,49.553598,5.5269602
+87,10087,Clinique Notre-Dame,Rue Edmond de Sélys-Longchamps 47,Waremme,Wallonie,4300,,,,,Yes,,50.6916389,5.2435165
+88,10088,Clinique Notre-Dame,nan nan,Oupeye,Wallonie,4680,,,,,,,50.732309,5.6874787
+89,10089,Clinique Notre-Dame de Grâce,chaussée de Nivelles 212,Charleroi,Wallonie,6041,,,,,Yes,,50.4738036,4.428674
+90,10090,Clinique Peltzer (CHR),Rue de Liège 107,Verviers,Wallonie,4800,,,,,,,50.5843596,5.8540349
+91,10091,Clinique Psychiatrique des Frères Alexiens,Rue du Chateau de Ruyff 68,Welkenraedt,Wallonie,4840,,,,,,,50.6740217,5.95333
+92,10092,Clinique Saint-Jean - Kliniek Sint-Jan,Boulevard du Jardin Botanique - Kruidtuinlaan 32,Brussel,Brussel,1000,,,,,Yes,,50.8534822,4.3603011
+93,10093,Clinique Saint-Joseph,Rue des Déportés 137,Arlon,Wallonie,6700,,,,,Yes,,49.6782121,5.8211495
+94,10094,Clinique Saint-Joseph,Rue des Déportés 137,Arlon,Wallonie,6700,,,,,Yes,,49.6781912,5.8205352
+95,10095,Clinique Saint-Joseph,Rue des Déportés 137,Arlon,Wallonie,6700,,,,,Yes,,49.6778806,5.8212053
+96,10096,Clinique Saint-Luc,Rue Saint-Luc 8,Namur,Wallonie,5000,,,,,Yes,,50.4767817,4.8800495
+97,10097,Clinique Saint-Michel - Sint-Michiels Ziekenhuis,Rue de Linthout - Linthoutstraat 150,Etterbeek,Brussel,1040,,,,,Yes,,50.8429522,4.4003712
+98,10098,Clinique Saint-Pierre,Avenue Reine Fabiola 9,Ottignies-Louvain-la-Neuve,Wallonie,1340,,,,,Yes,,50.6684386,4.5592373
+99,10099,Clinique Saint-Vincent,nan nan,Liège,Wallonie,4000,,,,,,,50.6873306,5.5490375
+100,10100,Clinique Sainte-Anne Saint-Remi - Sint-Anna Sint-Remi Kliniek,Boulevard Jules Graindor - Jules Graindorlaan 66,Anderlecht,Brussel,1070,,,,,Yes,,50.8446487,4.3166137
+101,10101,Clinique Sainte-Elisabeth,Rue du Naimeux 17,Verviers,Wallonie,4802,,,,,,,50.5784147,5.8625602
+102,10102,Clinique Sainte-Rosalie (C.H.R. de la Citadelle),nan nan,Liège,Wallonie,4000,,,,,No,,50.6297658,5.55633
+103,10103,Clinique Sainte-Élisabeth,nan nan,Namur,Wallonie,5000,,,,,Yes,,50.4607992,4.8454964
+104,10104,Clinique Sainte-Élisabeth - Sint-Elisabeth Ziekenhuis,Avenue De Fré - De Frélaan 206,Ukkel,Brussel,1180,,+32 2 614 20 00,,,Yes,,50.8051388,4.3674079
+105,10105,Clinique de l'Espérance,nan nan,Saint-Nicolas,Wallonie,4420,,,,,,,50.640897,5.5335492
+106,10106,Clinique de l'IPAL : Site du Péri,nan nan,Liège,Wallonie,4000,,,,,,,50.6493027,5.5697851
+107,10107,Clinique des Houx,nan nan,Engis,Wallonie,4480,,,,,,,50.5510922,5.4081578
+108,10108,Clinique du Bois de la Pierre,nan nan,Wavre,Wallonie,1300,,,,,,,50.6964113,4.6146038
+109,10109,Clinique du Château Rouge,nan nan,Herstal,Wallonie,4040,,,,,,,50.6730228,5.6373891
+110,10110,Clinique universitaire de Mont-Godinne,Avenue Docteur Gaston Thérasse 1,Yvoir,Wallonie,5530,,,,,Yes,,50.3585352,4.8784311
+111,10111,Croix-Rouge et agence ONE d'Ampsin,nan nan,Amay,Wallonie,4540,,,,,No,,50.540763,5.2847348
+112,10112,De Mick,Papestraat 30,Brasschaat,Vlaanderen,2930,,,,,,,51.3075766,4.5441198
+113,10113,Epicura Ath,Rue Maria Thomée 1,Ath,Wallonie,7800,,,,,Yes,,50.6353691,3.7756854
+114,10114,Epicura Baudour,Rue Louis Caty 136,Saint-Ghislain,Wallonie,7331,,,,,Yes,,50.4689714,3.8426736
+115,10115,Epicura Hornu,Rue de Mons 63,Boussu,Wallonie,7301,,+32 65 71 31 11,,,Yes,,50.4368298,3.8286038
+116,10116,Forensisch Psychiatrisch Centrum,nan nan,Gent,Vlaanderen,9032,,,,,,,51.0779484,3.7201704
+117,10117,GHdC (Notre-Dame),nan nan,Charleroi,Wallonie,6000,,,,,,,50.4180456,4.4535293
+118,10118,H. Hart Ziekenhuis,Kliniekstraat 45,Tienen,Vlaanderen,3300,,+32 16 80 90 11,,,,,50.8113841,4.9323419
+119,10119,H. Hartziekenhuis Mol,Gasthuisstraat 1,Mol,Vlaanderen,2400,,,,,,,51.1869833,5.1146623
+120,10120,Heilig Hart Ziekenhuis,nan nan,Mol,Vlaanderen,2400,,,,,,,51.1873793,5.1144994
+121,10121,Heilig Hart Ziekenhuis,nan nan,Mol,Vlaanderen,2400,,,,,,,51.1880408,5.114736
+122,10122,Heilig Hart Ziekenhuis,nan nan,Mol,Vlaanderen,2400,,,,,,,51.1875597,5.1148329
+123,10123,Heilig Hart Ziekenhuis,nan nan,Mol,Vlaanderen,2400,,,,,,,51.1869976,5.1147106
+124,10124,"Home ""Le Bon Repos""",nan nan,Dour,Wallonie,7370,,,,,,,50.3961968,3.7693068
+125,10125,Hôpital Delta - Delta Ziekenhuis,Boulevard du Triomphe - Triomflaan 201,Oudergem,Brussel,1160,,,,,Yes,,50.8174238,4.4018218
+126,10126,Hôpital Militaire Reine Astrid - Militair Hospitaal Koningin Astrid,Rue Bruyn - Bruynstraat 1,Brussel,Brussel,1120,,,,,,,50.9080376,4.3979614
+127,10127,Hôpital Neuro-Psychiatrique Saint-Martin,Rue du Fort de Dave 84,Namur,Wallonie,5000,,,,,No,,50.4299845,4.8750004
+128,10128,Hôpital Princesse Paola,nan nan,Marche-en-Famenne,Wallonie,6900,,,,,Yes,,50.2280235,5.3216363
+129,10129,Hôpital Saint-Joseph,nan nan,Liège,Wallonie,4000,,,,,,,50.6483381,5.5551682
+130,10130,Hôpital Saint-Vincent,nan nan,Dinant,Wallonie,5500,,,,,,,50.2656149,4.9426384
+131,10131,Hôpital de Jolimont,Rue Ferrer 159,La Louvière,Wallonie,7100,,+32 64 23 30 11,,,,,50.4790921,4.2160053
+132,10132,Hôpital de Jour Universitaire la Clé,Quai Godefroid Kurth 45,Liège,Wallonie,4020,,,,,,,50.6461849,5.5918333
+133,10133,Hôpital de Jour Universitaire la Clé,Boulevard de la Constitution 149,Liège,Wallonie,4020,,,,,,,50.6461849,5.5918333
+134,10134,Hôpital de Lobbes,Rue de la Station 25,Lobbes,Wallonie,6540,,,,,Yes,,50.3454014,4.2607702
+135,10135,Hôpital de la Citadelle (CHR),nan nan,Liège,Wallonie,4000,,,,,,,50.651778,5.5752134
+136,10136,Hôpital Érasme - Erasmusziekenhuis,Route de Lennik - Lennikse Baan 808,Anderlecht,Brussel,1070,,,,,Yes,,50.8133959,4.2634539
+137,10137,Imelda Ziekenhuis,Imeldalaan 9,Bonheiden,Vlaanderen,2820,,+32 15 50 50 11,,,,,51.0190764,4.5574261
+138,10138,Instituut Tropische Geneeskunde Prins Leopold,nan nan,Antwerpen,Vlaanderen,2000,,,,,,,51.2127312,4.3976104
+139,10139,Jan Yperman,"Oostlaan 11,11A,11B",Poperinge,Vlaanderen,8970,,,,,,,50.8564425,2.7458794
+140,10140,Jessa,nan nan,Herk-de-Stad,Vlaanderen,3540,,,,,,,50.9385043,5.1633259
+141,10141,"Jessa Ziekenhuis, campus Salvator",Salvatorstraat 20,Hasselt,Vlaanderen,3500,,,,,No,,50.9107885,5.3428991
+142,10142,"Jessa ziekenhuis, campus Virga Jesse",Stadsomvaart 11,Hasselt,Vlaanderen,3500,,,,,Yes,,50.9263446,5.3404338
+143,10143,Joseph Bracops,Rue Docteur Huet - Dokter Huetstraat 79,Anderlecht,Brussel,1070,,,,,Yes,,50.8345398,4.2919724
+144,10144,KARUS,Beukenlaan 21,Gent,Vlaanderen,9051,,,,,,,51.0261239,3.6761414
+145,10145,Kliniek Sint Jozef,nan nan,Pittem,Vlaanderen,8740,,,,,,,50.9852377,3.2502484
+146,10146,Klinik St Josef,Klosterstraße 9,Sankt-Vith,Lüttich,4780,,,,,Yes,,50.2779515,6.1269273
+147,10147,Koningin Elisabeth Instituut,Fernand Dewittelaan 1,Koksijde,Vlaanderen,8670,,,,,,,51.1401563,2.6948579
+148,10148,Koningin Paola Kinderziekenhuis,nan nan,Antwerpen,Vlaanderen,2020,,,,,,,51.1809848,4.4212328
+149,10149,Le Domaine - Centre hospitalier,Rue Jean Lanneau 39,Braine-l'Alleud,Wallonie,1420,,,,,No,,50.6814332,4.3384547
+150,10150,Le Roseau Vert,Place du Roseau Vert 2,Honnelles,Wallonie,7387,,,,,,,50.3782098,3.6655792
+151,10151,Le Tilleriau,nan nan,Soignies,Wallonie,7060,,,,,Yes,,50.5803221,4.0786544
+152,10152,Le Valdor,nan nan,Liège,Wallonie,4020,,,,,,,50.6324595,5.5888608
+153,10153,Les Jours Heureux,nan nan,Dour,Wallonie,7370,,,,,,,50.380579,3.8099563
+154,10154,MPI Heilig Hart,Leernsesteenweg 53,Deinze,Vlaanderen,9800,,,,,No,,50.9996782,3.5490629
+155,10155,MR,nan nan,Celles,Wallonie,7760,,,,,No,,50.7191082,3.455411
+156,10156,"MRS ""Bon Accueil""",nan nan,Dour,Wallonie,7370,,,,,,,50.4012135,3.7636294
+157,10157,Maison de Repos / Résidence Caraman,nan nan,Boussu,Wallonie,7300,,,,,,,50.4337701,3.7910058
+158,10158,Maison de repos,nan nan,Flobecq,Wallonie,7880,,,,,,,50.7398259,3.7314737
+159,10159,Maison de retraite,nan nan,Estinnes,Wallonie,7120,,,,,,,50.3540645,4.0585637
+160,10160,Mariaziekenhuis,Maesensveld 1,Pelt,Vlaanderen,3900,,+32 11 82 60 00,,,,,51.211885,5.4164627
+161,10161,Medisch Centrum,Watermolenstraat nan,Brakel,Vlaanderen,9660,,,,,,,50.8092559,3.7699439
+162,10162,Medisch Centrum Beringen,Hospitaalstraat 27,Beringen,Vlaanderen,3580,,,,,,,51.0625052,5.2194085
+163,10163,OPZ Geel,Dr. Sanodreef 4,Geel,Vlaanderen,2440,,,,,,,51.1543293,4.9793556
+164,10164,Onze Lieve Vrouw van Lourdes,nan nan,Waregem,Vlaanderen,8793,,,,,Yes,,50.8997563,3.4165815
+165,10165,Onze-Lieve-Vrouwziekenhuis,Moorselbaan 164,Aalst,Vlaanderen,9300,,+32 53 72 41 11,,,Yes,,50.9449054,4.0538357
+166,10166,Openbaar Psychiatrisch Zorgcentrum Rekem,nan nan,Maasmechelen,Vlaanderen,3630,,,,,,,50.9370664,5.6638693
+167,10167,P,nan nan,Sint-Niklaas,Vlaanderen,9100,,,,,,,51.1622231,4.1325908
+168,10168,PVT Waesdonck,nan nan,Mortsel,Vlaanderen,2640,,,,,,,51.1809888,4.4583978
+169,10169,Polyclinique Universitaire d'Aywaille (CHU Liège),nan nan,Aywaille,Wallonie,4920,,,,,,,50.47223,5.66768
+170,10170,Polyclinique de Nivelles,nan nan,Nivelles,Wallonie,1400,,,,,,,50.5981285,4.3263155
+171,10171,Practimed  Campus Tessenderlo,Groenstraat 27,Tessenderlo,Vlaanderen,3980,,+32 13 670 730,,,No,,51.0715818,5.0959448
+172,10172,Psychiatrisch Centrum Dr. Guislain,Jozef Guislainstraat 43,Gent,Vlaanderen,9000,,,,,,,51.0684817,3.7014746
+173,10173,Psychiatrisch Centrum Gent-Sleidinge,Weststraat 135,Evergem,Vlaanderen,9940,,,,,No,,51.1243086,3.6674259
+174,10174,Psychiatrisch Centrum Sint-Amandus,nan nan,Beernem,Vlaanderen,8730,,,,,,,51.1182745,3.3218233
+175,10175,Psychiatrisch Centrum Zoete Nood Gods,nan nan,Lede,Vlaanderen,9340,,,,,,,50.970133,3.9701491
+176,10176,Psychiatrisch Verzorgingstehuis (PVT) De Warande,Zwaluwlaan 62,Wachtebeke,Vlaanderen,9185,,,,,,,51.1651485,3.8456009
+177,10177,Psychiatrisch Ziekenhuis Bethaniënhuis,nan nan,Zoersel,Vlaanderen,2980,,,,,,,51.2723134,4.6384962
+178,10178,Psychiatrisch Ziekenhuis Heilig Hart,Poperingseweg 16,Ieper,Vlaanderen,8900,,,,,,,50.8513736,2.8650963
+179,10179,Psychiatrisch Ziekenhuis Onze-Lieve-Vrouw,nan nan,Brugge,Vlaanderen,8200,,,,,,,51.1944645,3.2089895
+180,10180,Psychiatrisch Ziekenhuis Sint-Alexius,nan nan,Grimbergen,Vlaanderen,1850,,,,,No,,50.9201404,4.3565407
+181,10181,Psychiatrisch Ziekenhuis Sint-Jan de Deo,Fratersplein 9,Gent,Vlaanderen,9000,,,,,,,51.06453,3.7234324
+182,10182,Psychiatrisch Ziekenhuis Sint-Jan-Baptist,Suikerkaai 81,Zelzate,Vlaanderen,9060,,,,,,,51.1872262,3.8036132
+183,10183,RVT Ter Meeren,Wolfshaegen 186,Huldenberg,Vlaanderen,3040,,,,,,,50.8111325,4.6287413
+184,10184,Regionaal Ziekenhuis St-Trudo,Diestersteenweg 100,Sint-Truiden,Vlaanderen,3800,,,,,Yes,,50.8229838,5.1860694
+185,10185,Regionaal ziekenhuis Heilig Hart Leuven,Naamsestraat 105,Leuven,Vlaanderen,3000,,,,,Yes,,50.8717812,4.7019749
+186,10186,Revalidatiecentrum Preventorium Pulderbos,nan nan,Zandhoven,Vlaanderen,2240,,,,,,,51.238595,4.7260269
+187,10187,Saint-Alfred (malades mentaux),nan nan,Soignies,Wallonie,7060,,,,,,,50.5419714,4.0414794
+188,10188,Saint-Bernard (Psychiatrie),nan nan,Manage,Wallonie,7170,,,,,,,50.4995684,4.2251623
+189,10189,Sanatorium du Basil,nan nan,Stoumont,Wallonie,4987,,,,,,,50.4317462,5.8563009
+190,10190,Sankt Nikolaus Hospital,Hufengasse nan,Eupen,Lüttich,4700,,,,,Yes,,50.6285861,6.0284753
+191,10191,Sint Elisabeth,Nederij 133,Herentals,Vlaanderen,2200,,,,,Yes,,51.185395,4.8360625
+192,10192,Sint Vincentius,nan nan,Deinze,Vlaanderen,9800,,,,,,,50.985681,3.52805
+193,10193,Sint-Amedeus,Deurnestraat 252,Mortsel,Vlaanderen,2640,,,,,,,51.1839648,4.4506704
+194,10194,Sint-Andriesziekenhuis,nan nan,Tielt,Vlaanderen,8700,,,,,,,51.0026089,3.3213594
+195,10195,Sint-Augustinus (GZA),nan nan,Antwerpen,Vlaanderen,2610,,,,,Yes,,51.1750487,4.415881
+196,10196,Sint-Franciscus Xaverius-Ziekenhuis,Spaanse Loskaai 1,Brugge,Vlaanderen,8000,,+32 50 47 04 70,,,No,,51.2129836,3.2250538
+197,10197,Sint-Franciscus ziekenhuis,Pastoor Paquaylaan 129,Heusden-Zolder,Vlaanderen,3550,,,,,,,51.0478431,5.3154042
+198,10198,Sint-Jozefkliniek,Kasteelstraat 23,Bornem,Vlaanderen,2880,,,,,,,51.1000165,4.2314491
+199,10199,Sint-Maria Halle,Ziekenhuislaan 100,Halle,Vlaanderen,1500,,+32 2 363 12 11,,,,,50.7363334,4.2283433
+200,10200,Sint-Vincentius (GZA),Sint-Vincentiusstraat 20,Antwerpen,Vlaanderen,2018,,,,,Yes,,51.205108,4.4133843
+201,10201,Ter Duinen,Louisweg 46,Nieuwpoort,Vlaanderen,8620,,,,,No,,51.1387428,2.7153148
+202,10202,UCLouvain Saint-Luc University Hospital,Avenue Hippocrate - Hippokrateslaan 10,Sint-Lambrechts-Woluwe,Brussel,1200,,+32 2 764 11 11,,,Yes,,50.852123,4.4510836
+203,10203,UPC Sint-Kamillus,Krijkelberg 1,Bierbeek,Vlaanderen,3360,,,,,,,50.8558625,4.7469044
+204,10204,UZ Leuven - Campus Lubbeek,nan 2,Lubbeek,Vlaanderen,3210,,,,,,,50.8816068,4.8442506
+205,10205,UZ Pellenberg,nan nan,Lubbeek,Vlaanderen,3210,,,,,,,50.8608593,4.7984576
+206,10206,Universitair Ziekenhuis Gent,Corneel Heymanslaan 10,Gent,Vlaanderen,9000,,,,,Yes,,51.0256032,3.7285908
+207,10207,Urgences La Tourelle,Rue du Parc 29,Verviers,Wallonie,4800,,,,,Yes,,50.5819714,5.8574544
+208,10208,Vesalius Ziekenhuis,nan nan,Tongeren,Vlaanderen,3700,,,,,,,50.7875193,5.4827837
+209,10209,Vivalia - Hopital Sainte-Therese,Chaussée d'Houffalize 1,Bastogne,Wallonie,6600,,,,,Yes,,50.011569,5.7223686
+210,10210,Vivalia Cup - Hôpital psychiatrique La Clairière,nan nan,Bertrix,Wallonie,6880,,,,,No,,49.8375734,5.2642578
+211,10211,WZC Blijvelde,nan nan,Kortemark,Vlaanderen,8610,,,,,,,51.0318043,3.0395185
+212,10212,WZR De Dennen vzw,nan nan,Malle,Vlaanderen,2390,,,,,No,,51.2865307,4.6428987
+213,10213,ZNA Jan Palfijn,Lange Bremstraat 70,Antwerpen,Vlaanderen,2170,,+32 3 640 21 11,,,,,51.25766,4.4491903
+214,10214,ZNA Middelheim,"Lindendreef 1,1A",Antwerpen,Vlaanderen,2020,,,,,,,51.1827852,4.4204269
+215,10215,ZNA Sint-Erasmus,nan nan,Antwerpen,Vlaanderen,2140,,+32 3 270 80 11,,,,,51.2073443,4.4453451
+216,10216,ZNA Stuivenberg,Lange Beeldekensstraat 167,Antwerpen,Vlaanderen,2060,,+32 3 217 71 11,,,Yes,,51.2239867,4.4330401
+217,10217,ZOL Campus Sint-Jan,nan nan,Genk,Vlaanderen,3600,,,,,,,50.9566342,5.516027
+218,10218,ZOL Ziekenhuis Oost Limburg Campus Sint-Barbara,nan nan,Lanaken,Vlaanderen,3620,,,,,No,,50.9096135,5.6262522
+219,10219,Zeepreventorium,Koninklijke Baan 5,De Haan,Vlaanderen,8420,,,,,,,51.2707571,3.0190778
+220,10220,Ziekenhuis Inkendaal,nan nan,Sint-Pieters-Leeuw,Vlaanderen,1600,,,,,,,50.8049228,4.2209572

@@ -1,0 +1,15 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,20000,Bolnica Dr. Petra Držaja,Vodnikova cesta 62,Ljubljana,,1000,,,,,Yes,,46.067997,14.4868755
+20,20020,Splošna Bolnišnica Izola - Ospedale Generale Isola,Polje 40,Izola,,6310,,+386 5 6606 299,,,Yes,,45.5449708,13.6851455
+21,20021,Splošna Bolnišnica Slovenj Gradec,nan nan,Slovenj Gradec,,2380,,,,,Yes,,46.5092984,15.0812473
+27,20027,Splošna bolnišnica Murska Sobota,Ulica dr. Vrbnjaka 6,Murska Sobota,,9000,,,,,Yes,,46.6484582,16.1856969
+28,20028,Splošna bolnišnica dr. Jožeta Potrča Ptuj,nan nan,Ptuj,,2250,,,,,Yes,,46.4279247,15.875755
+29,20029,Splošna bolnišnica »Dr. Franca Derganca« Nova Gorica,Ulica padlih borcev 13A,Šempeter-Vrtojba,,5290,,,,,Yes,,45.933011,13.639599
+31,20031,Univerzitetni klinični center Ljubljana,Zaloška cesta 7,Ljubljana,,1000,,,,,Yes,,46.0548693,14.5202926
+32,20032,Univerzitetni klinični center Maribor,Ljubljanska ulica 5,Maribor,,2000,,+386 2 321 10 00,,,Yes,,46.5510318,15.6492422
+50,20050,Zdravstveni dom Domžale,Mestni trg 2,Domžale,,1230,,,,,Yes,,46.1398576,14.5963693
+52,20052,Zdravstveni dom Izola,Ulica oktobrske revolucije 11,Izola,,6310,,,,,Yes,,45.5345953,13.6604463
+54,20054,Zdravstveni dom Kamnik,Novi trg 26,Kamnik,,1241,,,,,Yes,,46.2216688,14.6130757
+57,20057,Zdravstveni dom Krško,Cesta Krških žrtev 132c,Krško,,8270,,,,,Yes,,45.9430913,15.4832334
+62,20062,Zdravstveni dom Metelkova,Metelkova ulica 9,Ljubljana,,1000,,,,,Yes,,46.056852,14.5150286
+65,20065,Zdravstveni dom Vrhnika,nan nan,Vrhnika,,1360,,,,,Yes,,45.9629571,14.2933391

@@ -1,0 +1,142 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,10000,Abbeyleix District Hospital,nan nan,Portlaoise,,,,,,,,,52.9125186,-7.3437598
+1,10001,Aut Even Hospital,Freshford Road nan,Kilkenny,,,,+353 56 777 5275,,,No,,52.6759357,-7.2719856
+2,10002,Baggot Street Community Hospital,Baggot Street Upper nan,Dublin,,,,,,,No,,53.3340261,-6.2434451
+3,10003,Ballina District Hospital,nan nan,Ballina,,,,,,,,,54.1155684,-9.1658476
+4,10004,Ballinamore Community Nursing Unit & Primary Care Centre,nan Tully,Carrick-on-Shannon,,,,,,,,,54.0506213,-7.8032363
+5,10005,Bandon Community Hospital,nan nan,Bandon,,,,+353 23 884 1403,,,,,51.7446378,-8.7253211
+6,10006,Bantry General Hospital,nan nan,Bantry,,,,,,,,,51.6770362,-9.4492159
+7,10007,Barretstown Gang Camp,nan nan,Naas,,,,,,,No,,53.1538336,-6.5998605
+8,10008,Beaumont Hospital,nan nan,Dublin,,,,,,,Yes,,53.3923659,-6.222199
+9,10009,Birr Community Hospital and Nursing Home,nan nan,Birr,,,,,,,,,53.0971271,-7.9003438
+10,10010,Blackrock Clinic,nan nan,Blackrock,,,,,,,,,53.3049726,-6.1879273
+11,10011,Bloomfield Health Services & Quaker House,Stocking Lane nan,Dublin,,,,+353-1-4950021,,,No,,53.2729512,-6.3062087
+12,10012,Bon Secours Hospital,Glasnevin Hill nan,Dublin,,,,,,,No,,53.3764215,-6.2678802
+13,10013,Bon Secours Hospital,nan nan,Tralee,,,,,,,,,52.26918,-9.7128287
+14,10014,Bon Secours Hospital,College Road nan,Cork,,,,+353 21 454 2807,,,,,51.8909605,-8.4984717
+15,10015,Bon Secours Hospital Galway,nan nan,Gaillimh,,,,,,,,,53.2767467,-9.0201572
+16,10016,Cappagh National Orthopaedic Hospital,nan nan,Dublin,,,,,,,No,,53.3923766,-6.3249131
+17,10017,Cavan General Hospital,Golf Links Road nan,Cavan,,,,+353-49-4376000,,,Yes,,54.000921,-7.3746693
+18,10018,Central Mental Hospital,Dundrum Road nan,Dublin,,,,,,,No,,53.2994618,-6.2438793
+19,10019,Central Remedial Clinic,nan nan,Dublin,,,,+353-1-8542200,,,No,,53.3701396,-6.2016274
+20,10020,Cherry Orchard Hospital,nan nan,Dublin,,,,,,,,,53.3436337,-6.3723067
+21,10021,Clonakilty Community Hospital,nan nan,Clonakilty,,,,,,,,,51.6315015,-8.8770657
+22,10022,Clonmethan Health Centre,nan nan,Oldtown,,,,,,,,,53.518519,-6.3169378
+23,10023,Clonskeagh Hospital,Clonskeagh Road nan,Dublin,,,,,,,,,53.316797,-6.2393273
+24,10024,Cloonamahon Learning Disability Services,nan nan,,,,,,,,,,54.1559377,-8.4880176
+25,10025,Cluain Lir Care Centre,Longford Road nan,Mullingar,,,,,,,,,53.5366752,-7.3527681
+26,10026,Connolly Hospital,Navan Road nan,Dublin,,,,+353-1-6465000,,,Yes,,53.3867253,-6.3689484
+27,10027,Coombe Women & Infants University Hospital,Cork Street nan,Dublin,,,,+353 1 408 5200,,,maternity,,53.3355303,-6.289229
+28,10028,Cork University Hospital,Bishopstown Road nan,Cork,,,,,,,Yes,,51.8854888,-8.5075272
+29,10029,Donegal District Hospital,nan nan,Donegal,,,,,,,,,54.6560999,-8.0982437
+30,10030,Dublin Dental University Hospital,Lincoln Place nan,Dublin,,,,+353-1-6127391,,,dental only,,53.3420051,-6.2522252
+31,10031,Ely Hospital,nan nan,Wexford,,,,,,,,,52.3448519,-6.4547554
+32,10032,Ennis Hospital,nan nan,Ennis,,,,,,,,,52.8506072,-8.9846649
+33,10033,Fairview Community Unit (Mater Hospital),nan nan,Dublin,,,,,,,,,53.3684454,-6.2437129
+34,10034,Falcarragh Medical Centre,nan nan,Letterkenny,,,,,,,No,,55.1369737,-8.1004214
+35,10035,Fermoy Community Hospital,nan nan,Fermoy,,,,,,,,,52.1371766,-8.2582157
+36,10036,Galway Clinic,nan nan,Gaillimh,,,,,,,,,53.2831508,-8.9742758
+37,10037,Gheel Autism Services,nan nan,Dublin,,,,,,,,,53.3681588,-6.2422495
+38,10038,Gorey District Hospital,nan nan,Gorey,,,,,,,,,52.6741591,-6.300593
+39,10039,Hermitage Medical Clinic,nan nan,,,,,,,,,,53.3590732,-6.4095432
+40,10040,Highfield Healthcare,Swords Road nan,Dublin,,,,,,,,,53.3784425,-6.2473548
+41,10041,Hospital Grounds New Ross,Hospital Road nan,New Ross,,,,,,,No,,52.3888629,-6.9409868
+42,10042,Incorporated Orthopaedic Hospital of Ireland,Blackheath Park nan,Dublin,,,,+353-1-8332521,,,No,,53.3666636,-6.2025272
+43,10043,Irish Wheelchair Association and Respite Centre,nan nan,Dublin,,,,,,,,,53.3685328,-6.2007396
+44,10044,Kanturk Community Hospital,nan nan,Mallow,,,,,,,,,52.1753847,-8.9165506
+45,10045,Kenmare Public Hospital,nan nan,Killarney,,,,,,,,,51.8894033,-9.5825884
+46,10046,Kilcreene Hospital,nan nan,,,,,,,,No,,52.6514167,-7.2764397
+47,10047,Killarney Community Hospital,nan nan,Killarney,,,,,,,,,52.0653143,-9.5168748
+48,10048,Kilrock House,Kilrock Road nan,Howth,,,,,,,No,,53.385786,-6.0602629
+49,10049,Kinsale Community Hospital,nan nan,Kinsale,,,,+353 21 4772 202,,,No,,51.7123349,-8.5276754
+50,10050,Leopardstown Park Hospital,nan nan,Dublin,,,,,,,No,,53.269656,-6.2032602
+51,10051,Lucena Clinic & St Peter's School,Orwell Road 59,Dublin,,,,+353-1-4923596,,,No,,53.3102029,-6.2735209
+52,10052,Macroom Community Hospital,nan nan,Macroom,,,,,,,,,51.9074717,-8.9681484
+53,10053,Mallow General Hospital,nan nan,Mallow,,,,,,,,,52.1512763,-8.6618732
+54,10054,Mater Misericordiae University Hospital,North Circular Road nan,Dublin,,,,,,,Yes,,53.3584846,-6.2669005
+55,10055,Mater Private Cork,City Gate nan,Cork,,,,,,,,,51.8863704,-8.4064969
+56,10056,Mater Private Hospital,Dorset Street Upper 81-84,Dublin,,,,,,,No,,53.3570097,-6.2651215
+57,10057,Mater Private Hospital,Eccles Street nan,Dublin,,,,,,,No,,53.3585759,-6.2649245
+58,10058,Mayo University Hospital,John Moore Road nan,Castlebar,,,,+353-94-9021733,,,Yes,,53.8495789,-9.3018946
+59,10059,Mercy University Hospital,nan nan,Cork,,,,,,,,,51.8980916,-8.4825851
+60,10060,Merlin Park Hospital,nan nan,Gaillimh,,,,,,,,,53.2761351,-9.003131
+61,10061,Mid-Western Regional Orthopaedic Hospital,nan nan,Kilmallock,,,,,,,,,52.5257371,-8.7126936
+62,10062,Midland Regional Hospital Mullingar,Longford Road nan,Mullingar,,,,,,,Yes,,53.5343723,-7.3508528
+63,10063,Midland Regional Hospital Portlaoise,nan nan,Portlaoise,,,,,,,,,53.0368195,-7.276417
+64,10064,Midland Regional Hospital Tullamore,nan nan,Tullamore,,,,,,,,,53.284292,-7.4914347
+65,10065,Midleton Community Hospital,nan nan,Midleton,,,,,,,,,51.917882,-8.1737102
+66,10066,Milford Care Centre,nan nan,Limerick,,,,,,,,,52.6690514,-8.5736179
+67,10067,Monaghan General Hospital,High Street nan,Monaghan,,,,,,,,,54.2490878,-6.9727318
+68,10068,Mount Carmel Community Hospital,Braemor Park nan,Dublin,,,,,,,No,,53.3036823,-6.2668347
+69,10069,Naas General Hospital,nan nan,Naas,,,,,,,,,53.2130204,-6.6624959
+70,10070,National Rehabilitation Hospital,Rochestown Avenue nan,Dun Laoghaire,,,,,,,,,53.2768721,-6.1528699
+71,10071,Nenagh General Hospital,Thurles Road nan,Nenagh,,,,+353 67 31491,,,,,52.8576879,-8.188917
+72,10072,Newcastle Hospital,nan nan,Greystones,,,,,,,,,53.0800851,-6.1014167
+73,10073,Our Lady of Lourdes Hospital,nan nan,Drogheda,,,,,,,Yes,,53.7227981,-6.3527367
+74,10074,Our Lady's Children's Hospital Crumlin,Cooley Road nan,Dublin,,,,,,,Yes,,53.3271596,-6.3192423
+75,10075,Our Lady's Children's Hospital Crumlin,nan nan,Dublin,,,,+353 1 409 6100,,,,,53.3246568,-6.3221557
+76,10076,Our Lady’s Hospital,nan nan,Navan,,,,,,,,,53.6511184,-6.7000687
+77,10077,Phoenix Care Centre,North Circular Road nan,Dublin,,,,+353-76-6958700,,,No,,53.3578101,-6.2855998
+78,10078,Portiuncula Hospital,nan nan,Ballinasloe,,,,+353-90-964-8200,,,Yes,,53.325815,-8.2353485
+79,10079,Roscommon Hospital,nan nan,Roscommon,,,,,,,,,53.6257011,-8.1768621
+80,10080,Rotunda Hospital,Parnell Square West nan,Dublin,,,,+353 1 8171700,,,No,,53.3519933,-6.2629718
+81,10081,Royal Hospital Donnybrook,Bloomfield Avenue nan,Dublin,,,,,,,No,,53.3253155,-6.2465583
+82,10082,Royal Victoria Eye and Ear Hospital,Adelaide Road nan,Dublin,,,,+353-1-6644600,,,"Eye, Ear, Nose, Throat, Head and Neck",,53.3332957,-6.2566483
+83,10083,Sacred Heart Hospital,nan nan,Carlow,,,,,,,,,52.8419589,-6.9246635
+84,10084,Saint Brigid's hospital,nan nan,Ballinasloe,,,,,,,No,,53.3295592,-8.2081459
+85,10085,Saint Camillus Hospital,Shelbourne Road nan,Limerick,,,,+353 61 326677,,,,,52.6694935,-8.640283
+86,10086,Saint Canice's Psychiatric Hospital,nan nan,Kilkenny,,,,,,,No,,52.6501335,-7.2322848
+87,10087,Saint Finbarr's Hospital,Douglas Road nan,Cork,,,,+353 21 496 6555,,,,,51.8851082,-8.4612195
+88,10088,Saint Fintan's Hospital,nan nan,Portlaoise,,,,,,,,,53.036553,-7.2873858
+89,10089,Saint Ita's Community Hospital,nan nan,Limerick,,,,,,,,,52.4544154,-9.0540508
+90,10090,Saint Ita's Psychiatric Hospital,nan nan,Malahide,,,,,,,,,53.4845506,-6.1123216
+91,10091,Saint John of God Hospital,nan nan,Blackrock,,,,,,,,,53.285975,-6.1935955
+92,10092,Saint John's Community Hospital and Community Service,Munster Hill nan,Enniscorthy,,,,,,,,,52.4967349,-6.5708044
+93,10093,Saint Joseph's Hospital,nan nan,Dublin,,,,,,,,,53.3875918,-6.4341079
+94,10094,Saint Loman's Hospital,nan nan,Mullingar,,,,,,,,,53.5301246,-7.3242592
+95,10095,Saint Mary's Health Campus,Bakers Road nan,Cork,,,,,,,No,,51.9038302,-8.4969637
+96,10096,Saint Mary's Hospital,Phoenix Park nan,Dublin,,,,,,,No,,53.349534,-6.3341347
+97,10097,Saint Patrick’s University Hospital,Steeven's Lane nan,Dublin,,,,,,,No,,53.3449986,-6.2927843
+98,10098,Saint Vincent's Hospital,nan nan,Athy,,,,,,,,,52.9982242,-6.9976353
+99,10099,Saint Vincent's Hospital,nan nan,Dublin,,,,,,,,,53.367241,-6.2428094
+100,10100,Sarsfield's Court,nan nan,,,,,,,,No,,51.9552622,-8.4098412
+101,10101,South Infirmary-Victoria University Hospital,Old Blackrock Road nan,Cork,,,,+353 21 4926100,,,"Ear, Nose and Throat;Sexual Assault Treatment Unit only",,51.8933199,-8.4656549
+102,10102,South Tipperary General Hospital,nan nan,Clonmel,,,,,,,,,52.3558965,-7.7111173
+103,10103,St Joseph's Community Hospital,nan nan,Bantry,,,,,,,Yes,,51.6525431,-9.9004154
+104,10104,St Joseph's Hospital,nan nan,Dublin,,,,,,,,,53.3826704,-6.1816763
+105,10105,St Joseph's Hospital,Springfield nan,Dungarvan,,,,+353-58-20900,,,,,52.0867197,-7.6386083
+106,10106,St Luke's Hospital,nan nan,Dublin,,,,,,,No,,53.3112764,-6.2694644
+107,10107,St Mary's Hospital,nan nan,Mullingar,,,,,,,,,53.6123933,-7.0683505
+108,10108,St Peter's,nan nan,Mullingar,,,,,,,No,,53.6769561,-7.2984324
+109,10109,St Vincent's Hospital,Coosan Point Road nan,Athlone,,,,,,,,,53.4274586,-7.9409713
+110,10110,St Vincent's University Hospital,Merrion Road nan,Dublin,,,,+353-1-2214000,,,Yes,,53.3181377,-6.2142474
+111,10111,St. Columba's Hospital,nan nan,Kilkenny,,,,,,,No,,52.5302692,-7.1326821
+112,10112,St. Columcille's Hospital,Bray Road nan,Loughlinstown,,,,+353-1-2825800,,,No,,53.2436132,-6.1327649
+113,10113,St. Edmundsbury Hospital,nan nan,Lucan,,,,,,,,,53.3631771,-6.4369582
+114,10114,St. Felim's Hospital,nan nan,,,,,,,,No,,54.0054098,-7.3600629
+115,10115,St. Finan's Hospital,nan nan,Killarney,,,,,,,,,52.0677747,-9.5131632
+116,10116,St. Francis Private Hospital,nan nan,Mullingar,,,,+353-44-9385300,,,No,,53.514872,-7.3357664
+117,10117,St. James's Hospital,James's Street nan,Dublin,,,,+353-1-4103000,,,Yes,,53.3384095,-6.2994208
+118,10118,St. John's Hospital Limerick,New Road nan,Limerick,,,,,,,,,52.6635791,-8.617538
+119,10119,St. Joseph's Hospital,nan nan,Limerick,,,,,,,No,,52.6575166,-8.6111731
+120,10120,St. Loman's Hospital,Lucan Road nan,Lucan,,,,+353-1-6207400,,,No,,53.3572285,-6.4065645
+121,10121,St. Luke's General Hospital,Freshford Road nan,Kilkenny,,,,,,,Yes,,52.6663849,-7.2650639
+122,10122,St. Mary's Hospital,nan nan,Mullingar,,,,,,,No,,53.5359152,-7.3492272
+123,10123,St. Michael's Hospital,Georges Street Lower nan,Dun Laoghaire,,,,+353 1 280 6901,,,Yes,,53.2945252,-6.1387525
+124,10124,St. Patrick's Hospital,nan nan,Waterford,,,,,,,,,52.2510868,-7.10345
+125,10125,St. Stephen's Psychiatric Hospital,nan nan,Cork,,,,,,,,,51.9526218,-8.4013896
+126,10126,St. Vincent's Private Hospital,nan nan,Dublin,,,,,,,No,,53.3149433,-6.2096944
+127,10127,Summerhill Community Mental Health Centre,nan nan,Wexford,,,,,,,,,52.3345099,-6.4684961
+128,10128,Tallaght University Hospital,Belgard Square North nan,Dublin,,,,+353-1-4142000,,,Yes,,53.2892594,-6.3761378
+129,10129,Tara Winthrop Clinic,nan nan,Swords,,,,,,,,,53.4445156,-6.2271122
+130,10130,Temple Street Childrens University Hospital,nan nan,Dublin,,,,,,,,,53.3571803,-6.2605579
+131,10131,The Lee Clinic,nan nan,Cork,,,,,,,,,51.8973532,-8.5256904
+132,10132,The Meath Primary Care Centre (Former Meath Hospital),Heytesbury Street nan,Dublin,,,,,,,No,,53.3355972,-6.2689203
+133,10133,The National Maternity Hospital,Holles Street nan,Dublin,,,,,,,No,,53.3407047,-6.2456518
+134,10134,University Hospital Galway,nan nan,Gaillimh,,,,,,,,,53.2785311,-9.0696201
+135,10135,University Hospital Kerry,nan nan,Tralee,,,,,,,Yes,,52.2640542,-9.6883661
+136,10136,University Hospital Limerick,nan nan,Limerick,,,,+353-61-301111,,,,,52.6363492,-8.6534072
+137,10137,University Hospital Waterford,nan nan,Waterford,,,,,,,Yes,,52.2476166,-7.0836076
+138,10138,"University Maternity Hospital, Limerick",Ennis Road nan,Limerick,,,,+353-61-32745,,,No,,52.6669817,-8.6329502
+139,10139,Wexford General Hospital,nan nan,Wexford,,,,+353 53 9142233,,,Yes,,52.341674,-6.4821267
+140,10140,Youghal Community Hospital,nan nan,Youghal,,,,,,,,,51.9577949,-7.8604116

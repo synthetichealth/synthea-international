@@ -1,0 +1,90 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,10000,Detská fakultná nemocnica,nan nan,Košice,Košice,040 01,,,,,,,48.7363959,21.2513748
+1,10001,Detská fakultná nemocnica Košice,nan nan,Košice,Košice,040 11,,+421552354101,,,Yes,,48.7216422,21.2391504
+2,10002,Detská fakultná nemocnica s poliklinikou Banská Bystrica,Námestie Ludvíka Svobodu 4,Banská Bystrica,Banská Bystrica,974 01,,+421 48 472 65 11,,,Yes,,48.7430887,19.1188485
+3,10003,"Diagnostické, preventívne a výskumné centrum VÚSCH",Ondavská 8,Košice,Košice,040 11,,,,,No,,48.7214918,21.2411747
+4,10004,Dolnooravská nemocnica s poliklinikou MUDr. L. N. Jégého Dolný Kubín,Nemocničná 1944/10,Dolný Kubín,Dolný Kubín,026 01,,,,,,,49.2152912,19.3011584
+5,10005,Fakultná nemocnica Nitra,Špitálska 6,Nitra,Nitriansky kraj,949 01,,,,,,,48.2991474,18.0856026
+6,10006,Fakultná nemocnica Trenčín,nan nan,Trenčín,Trenčín,911 01,,,,,Yes,,48.8838722,18.0272033
+7,10007,Fakultná nemocnica Trnava,Andreja Žarnova 11,Trnava,Trnava,917 01,,,,,,,48.3699855,17.588124
+8,10008,Fakultná nemocnica s poliklinikou F.D. Roosevelta,Námestie Ludvíka Svobodu 1,Banská Bystrica,Banská Bystrica,974 01,,,,,Yes,,48.7452816,19.1138999
+9,10009,Fakultná nemocnica s poliklinikou J. A. Reimana Prešov,Jána Hollého 14,Prešov,Prešov,080 01,,,,,,,48.998577,21.2510251
+10,10010,Fakultná nemocnica s poliklinikou Nové Zámky,Slovenská 11A,Nové Zámky,Nitriansky kraj,940 02,,,,,,,47.9932743,18.1497035
+11,10011,"Fakultná nemocnica s poliklinikou Skalica, a. s.",nan nan,Skalica,Skalica,909 01,,,,,,,48.8422693,17.2281031
+12,10012,Fakultná nemocnica s poliklinikou Žilina,nan nan,Žilina,Žilina,010 01,,,,,Yes,,49.2184185,18.7449224
+13,10013,Geriatrické centrum sv. Lukáša,Strojárenská 13,Košice,Košice,040 01,,,,,,,48.7272892,21.2497062
+14,10014,Hornooravská nemocnica s poliklinikou Trstená,nan nan,Trstená,Tvrdošín,028 01,,,,,,,49.3583495,19.6003184
+15,10015,Kysucká nemocnica s poliklinikou Čadca,Palárikova 2311,Čadca,Čadca,022 01,,,,,Yes,,49.4383154,18.774607
+16,10016,Lekárska služba prvej pomoci,nan nan,Košice,Košice,040 01,,,,,Yes,,48.7349378,21.253526
+17,10017,"Letecká vojenská nemocnica, a.s.",Murgašova 1,Košice,Košice,040 01,,,,,,,48.7180591,21.2548636
+18,10018,Liečebňa pre dlhodobo chorých Štiavnička,nan nan,Štiavnička,Ružomberok,034 01,,,,,,,49.0744005,19.3429235
+19,10019,Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu,Palúčanská 25,Liptovský Mikuláš,Liptovský Mikuláš,031 01,,,,,Yes,,49.085007,19.5990758
+20,10020,Medissimo,nan nan,Bratislava,Bratislava,851 02,,,,,,,48.1026362,17.109164
+21,10021,Mestská poliklinika Dr. Jozefa Goldbergera,Kukorelliho 337/16,Giraltovce,Svidník,087 01,,,,,No,,49.110953,21.5154785
+22,10022,Nemocnia Handlová - 2. súkromná nemocnica s.r.o.,nan nan,Handlová,Prievidza,972 51,,,,,,,48.7294427,18.7560577
+23,10023,"Nemocnica Alexandra Wintera, n.o.",Winterova 66,Piešťany,Piešťany,921 01,,,,,,,48.588072,17.8376658
+24,10024,"Nemocnica Bánovce - 3. súkromná nemocnica, s.r.o.",Hviezdoslavova 23/3,Bánovce nad Bebravou,Bánovce nad Bebravou,957 01,,,,,,,48.7206156,18.2580603
+25,10025,Nemocnica Dr. V. Alexandra,Hviezdoslavova nan,Kežmarok,Kežmarok,060 01,,,,,No,,49.1327402,20.4280176
+26,10026,"Nemocnica Košice-Šaca a.s., 1. súkromná nemocnica",nan nan,Košice,Košice,040 15,,,,,Yes,,48.6439647,21.1724086
+27,10027,Nemocnica Krompachy spol. s r.o.,nan nan,Krompachy,Spišská Nová Ves,053 42,,,,,Yes,,48.9055989,20.8722359
+28,10028,Nemocnica Levice s.r.o.,SNP 19,Levice,Nitriansky kraj,934 01,,,,,,,48.2230003,18.6137602
+29,10029,Nemocnica Malacky,nan nan,Malacky,Malacky,901 01,,,,,,,48.4402891,17.0313907
+30,10030,"Nemocnica Poprad, a. s.",nan nan,Poprad,Poprad,058 01,,,,,,,49.0510906,20.3001441
+31,10031,Nemocnica Zlaté Moravce a.s.,Bernolákova 4,Zlaté Moravce,Nitriansky kraj,953 01,,,,,Yes,,48.3833885,18.3978105
+32,10032,Nemocnica Zvolen a. s.,nan nan,Zvolen,Zvolen,960 01,,,,,,,48.5822089,19.1330622
+33,10033,"Nemocnica arm. generála L. Svobodu Svidník, a.s.",nan nan,Svidník,Svidník,089 01,,,,,,,49.3109246,21.5700429
+34,10034,"Nemocnica s poliklinikou Brezno, n.o.",nan nan,Brezno,Brezno,977 01,,,,,,,48.8099158,19.6250841
+35,10035,Nemocnica s poliklinikou Dunajská Streda a.s.,nan nan,Dunajská Streda,Dunajská Streda,929 01,,,,,,,47.9997392,17.6078077
+36,10036,Nemocnica s poliklinikou Ilava,nan nan,Ilava,Ilava,019 01,,,,,Yes,,48.9941958,18.229786
+37,10037,Nemocnica s poliklinikou Považská Bystrica,nan nan,Považská Bystrica,Považská Bystrica,017 01,,,,,Yes,,49.1045113,18.458003
+38,10038,Nemocnica s poliklinikou Prievidza so sídlom v Bojniciach,Nemocničná 581/2,Bojnice,Prievidza,972 01,,+421 46 511 21 11,,,,,48.7857114,18.5868956
+39,10039,"Nemocnica s poliklinikou Spišská Nová Ves, a.s.",nan nan,Spišská Nová Ves,Spišská Nová Ves,052 01,,,,,,,48.9572226,20.5657185
+40,10040,"Nemocnica s poliklinikou Sv. Jakuba, n.o., Bardejov",nan nan,Bardejov,Bardejov,085 01,,,,,,,49.2881501,21.271604
+41,10041,"Nemocnica s poliklinikou Sv. Lukáša Galanta, a. s.",Hodská 373/38,Galanta,Galanta,924 01,,,,,,,48.1952919,17.7193993
+42,10042,"Nemocnica s poliklinikou sv. Barbory Rožňava, a.s.",Špitálska 1,Rožňava,Rožňava,048 01,,,,,,,48.6649963,20.5339312
+43,10043,Národný onkologický ústav,Klenová 1,Bratislava,Bratislava,831 03,,,,,,,48.1727678,17.0907712
+44,10044,Národný ústav detských chorôb,Limbová 1,Bratislava,Bratislava,831 03,,,,,,,48.1676103,17.0895447
+45,10045,"Odborný liečebný ústav psychiatrický, Predná Hora",nan 126,Muránska Huta,Revúca,049 01,,,,,No,,48.7719824,20.1108319
+46,10046,"Onkologický ústav sv. Alžbety, s.r.o.",Heydukova 10,Bratislava,Bratislava,811 06,,,,,,,48.1474825,17.1133748
+47,10047,Poliklinika,nan 1212,Liptovský Mikuláš,Liptovský Mikuláš,031 01,,,,,No,,49.0870332,19.605272
+48,10048,Poliklinika,Poľovnícka 41,Veľký Meder,Dunajská Streda,932 01,,,,,No,,47.8500971,17.7629963
+49,10049,Poliklinika Janka Kráľa,Janka Kráľa 12,Rožňava,Rožňava,048 01,,,,,,,48.6597667,20.5291487
+50,10050,Poliklinika Nad jazerom,Spišské námestie 4,Košice,Košice,040 01,,,,,,,48.689436,21.2847217
+51,10051,Poliklinika Sever,nan nan,Košice,Košice,040 01,,,,,,,48.7326771,21.2517046
+52,10052,Poliklinika U. S. Steel,nan nan,Košice,Košice,040 11,,,,,No,,48.6249165,21.1916529
+53,10053,Poliklinika Východ,nan nan,Košice,Košice,040 22,,,,,,,48.7399308,21.2827439
+54,10054,Poliklinika Západ,nan nan,Košice,Košice,040 11,,,,,Yes,,48.7224577,21.2377899
+55,10055,Psychiatrická nemocnica Hronovce,nan nan,Hronovce,Nitriansky kraj,935 61,,,,,,,48.0020412,18.6563935
+56,10056,Psychiatrická nemocnica Philippa Pinela Pezinok,nan nan,Pezinok,Pezinok,902 01,,,,,,,48.3178123,17.2511902
+57,10057,Psychiatrická nemocnica Veľké Zálužie,Rínok 334,Veľké Zálužie,Nitriansky kraj,951 35,,,,,No,,48.302265,17.9421934
+58,10058,"Regionálna nemocnica Sobrance, n.o.",nan nan,Sobrance,Sobrance,073 01,,,,,,,48.7448275,22.1849153
+59,10059,"Stredoslovenský ústav srdcových a cievnych chorôb, a.s.",Cesta k nemocnici 5600/61,Banská Bystrica,Banská Bystrica,974 01,,,,,No,,48.7419552,19.1604522
+60,10060,"Svet zdravia Nemocnica Topoľčany, a.s.",nan nan,Topoľčany,Nitriansky kraj,955 01,,,,,,,48.5534277,18.1667499
+61,10061,"Univerzitná nemocnica - Nemocnica svätého Michala, a.s.,",Satinského 1,Bratislava,Bratislava,811 06,,,,,,,48.1462555,17.1168533
+62,10062,Univerzitná nemocnica Bratislava - Nemocnica Staré Mesto,Mickiewiczova 13,Bratislava,Bratislava,811 06,,,,,,,48.1515735,17.1169345
+63,10063,Univerzitná nemocnica Bratislava - Nemocnica akademika L. Dérera - Kramáre,Limbová 5,Bratislava,Bratislava,831 03,,,,,,,48.1658008,17.0896277
+64,10064,Univerzitná nemocnica Bratislava - Nemocnica sv. Cyrila a Metoda,Antolská 11,Bratislava,Bratislava,851 02,,,,,Yes,,48.1023156,17.1156951
+65,10065,Univerzitná nemocnica Bratislava – Nemocnica Ružinov,nan nan,Bratislava,Bratislava,821 03,,,,,,,48.1558897,17.1511697
+66,10066,Univerzitná nemocnica Bratislava – Špecializovaná geriatrická nemocnica,Krajinská 91,Rovinka,Senec,821 06,,,,,,,48.1245915,17.2072558
+67,10067,Univerzitná nemocnica L. Pasteura,Rastislavova nan,Košice,Košice,040 01,,,,,Yes,,48.7092102,21.2538699
+68,10068,Univerzitná nemocnica Louisa Pasteura,Trieda SNP nan,Košice,Košice,040 11,,,,,Yes,,48.7242228,21.236527
+69,10069,Univerzitná nemocnica Martin,Kollárova 4248/2,Martin,Martin,036 01,,,,,,,49.0596403,18.9142442
+70,10070,Univerzitná nemocnica s poliklinikou Milosrdní bratia,Námestie Slovenského národného povstania 10,Bratislava,Bratislava,811 06,,,,,,,48.1458548,17.1117674
+71,10071,Východoslovenský ústav srdcových a cievnych chorôb,nan nan,Košice,Košice,040 11,,,,,Yes,,48.721198,21.2408617
+72,10072,Všeobecná nemocnica Gelnica,nan nan,Gelnica,Gelnica,056 01,,,,,,,48.8581818,20.9336183
+73,10073,Všeobecná nemocnica Komárno,Mederčská 39,Komárno,Nitriansky kraj,945 01,,,,,,,47.7664208,18.1257438
+74,10074,Všeobecná nemocnica Rimavská Sobota,nan nan,Rimavská Sobota,Rimavská Sobota,979 01,,,,,Yes,,48.3845488,20.024159
+75,10075,"Všeobecná nemocnica s poliklinikou Lučenec, n.o.",nan nan,Lučenec,Lučenec,984 01,,,,,Yes,,48.3296186,19.6579217
+76,10076,Zdravie,nan nan,Púchov,Púchov,020 01,,,,,,,49.129713,18.3237084
+77,10077,Zdravotné stredisko,nan nan,Suchá nad Parnou,Trnava,919 01,,,,,No,,48.411007,17.486389
+78,10078,Zdravotné stredisko,nan nan,Slovenský Grob,Pezinok,900 26,,,,,,,48.254182,17.2843937
+79,10079,Zdravotné stredisko Svit,nan nan,Svit,Poprad,059 21,,,,,No,,49.0564703,20.203244
+80,10080,poliklinika,nan nan,Bardejov,Bardejov,085 01,,,,,,,49.2925877,21.269546
+81,10081,Ústredná vojenská nemocnica SNP Ružomberok - FN,nan nan,Ružomberok,Ružomberok,034 01,,,,,,,49.0763028,19.3124346
+82,10082,Ústredná vojenská nemocnica SNP Ružomberok - FN,nan nan,Ružomberok,Ružomberok,034 01,,,,,,,49.0863791,19.297863
+83,10083,Územná poliklinika,nan nan,Kremnica,Žiar nad Hronom,967 01,,,,,,,48.7005853,18.9153688
+84,10084,"Ľubovnianska nemocnica, n.o.",Obrancov mieru 3,Stará Ľubovňa,Stará Ľubovňa,064 01,,,,,,,49.2976998,20.6880224
+85,10085,"Špecializovaná nemocnica pre ortopedickú protetiku Bratislava, n. o.",Záhradnícka 42,Bratislava,Bratislava,821 03,,,,,,,48.1538792,17.1298797
+86,10086,Špecializovaná nemocnica sv. Svorada,Kláštorská 134,Nitra,Nitriansky kraj,949 01,,,,,,,48.34587,18.093618
+87,10087,Železničná nemocnica a poliklinika,Šancová 110,Bratislava,Bratislava,831 03,,,,,,,48.157916,17.1246318
+88,10088,Železničná nemocnica s poliklinikou Košice,nan nan,Košice,Košice,040 01,,,,,Yes,,48.7281181,21.2588677

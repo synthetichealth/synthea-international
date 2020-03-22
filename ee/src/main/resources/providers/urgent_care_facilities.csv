@@ -1,0 +1,7 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+2,20002,Hiiumaa Haigla,Rahu 2,Hiiumaa vald,,92413,,,,,Yes,,58.9995925,22.7548126
+3,20003,Ida-Tallinna Keskhaigla,Ravi 18,Tallinn,,10132,,,,,Yes,,59.4280322,24.7552877
+20,20020,Põhja-Eesti Regionaalhaigla,Juhan Sütiste tee 19,Tallinn,,12911,,+372 617 1300,,,Yes,,59.399837,24.702112
+26,20026,Rapla Haigla,Alu tee 1,Rapla,,79512,,,,,Yes,,59.0074186,24.7928732
+27,20027,Tallinna Lastehaigla,Tervise 28,Tallinn,,12911,,,,,Yes,,59.3986599,24.7055012
+29,20029,Tartu Ülikooli Kliinikum,Ludvig Puusepa 8,Tartu,,51003,,,,,Yes,,58.3702668,26.697912

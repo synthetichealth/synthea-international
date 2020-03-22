@@ -1,0 +1,809 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,10000,"""KUTNOWSKI SZPITAL SAMORZĄDOWY"" SPÓŁKA Z O.O.",nan nan,Kutno,Powiat Kutnowski,99-300,,,,,Yes,,52.2392953,19.371924
+1,10001,"""Teresa"" Uzdrowiskowy Szpital Kardiologiczny",Plac Zdrojowy 9,Jedlina-Zdrój,Powiat Wałbrzyski,58-330,,,,,,,50.728534,16.3453272
+2,10002,10 Wojskowy Szpital Kliniczny z Polikliniką,Powstańców Warszawy 5,Bydgoszcz,Bydgoszcz,85-023,,,,,,,53.1420664,18.011077
+3,10003,105 Szpital Wojskowy,Żelazna 1,Żagań,Powiat Żagański,68-100,,,,,,,51.6123209,15.3327485
+4,10004,105 Szpital Wojskowy z Przychodnią SPZOZ,Bolesława Domańskiego 2,Żary,Powiat Żarski,68-200,,,,,Yes,,51.6415875,15.1481984
+5,10005,107 Szpital Wojskowy,nan nan,Wałcz,Powiat Wałecki,78-600,,+48 67 258 24 42; +48 261 47 28 80,,,,,53.2838447,16.4616404
+6,10006,108 Szpital Wojskowy,Tadeusza Kościuszki 30,Ełk,Powiat Ełcki,19-300,,+48876219803,,,Yes,,53.8199983,22.3631121
+7,10007,109 Szpital Wojskowy z przychodnią,nan nan,Szczecin,Szczecin,70-560,,,,,,,53.4430984,14.54263
+8,10008,115 Szpital Wojskowy,Boczna 13,Hel,Powiat Pucki,84-150,,+48 58 690 42 60,,,,,54.6120893,18.7986812
+9,10009,116 Szpital Wojskowy z Przychodnią,nan nan,Opole,Opole,45-068,,,,,,,50.6605317,17.8966954
+10,10010,21 Wojskowy Szpital Uzdrowisko-Rehabilitacyjny,Generała Feliksa Rzewuskiego 8,Busko-Zdrój,Powiat Buski,28-100,,,,,,,50.4542961,20.7208577
+11,10011,22 Wojskowy Szpital Uzrowiskowo-Rehabilitacyjny,Wojska Polskiego 5,Ciechocinek,Powiat Aleksandrowski,87-720,,,,,No,,52.8785707,18.8042155
+12,10012,23. Wojskowy Szpital Uzdrowiskowo-Rehabilitacyjny,Jadwigi 2a,Lądek-Zdrój,Powiat Kłodzki,57-540,,,,,No,,50.3422994,16.8904087
+13,10013,5 Wojskowy Szpital Kliniczny w Krakowie,Wrocławska 1-3,Kraków,Kraków,30-074,,,,,Yes,,50.0751372,19.9339294
+14,10014,6 Szpital Wojskowy z Przychodnią,Szpitalna 2,Dęblin,Powiat Rycki,08-530,,261 518 530,,,,,51.5544396,21.8561291
+15,10015,7 Szpital Marynarki Wojennej,nan nan,Gdańsk,Gdańsk,80-307,,+48 58 552 63 18,,,,,54.391905,18.5650018
+16,10016,Angelius,nan nan,Katowice,Katowice,40-022,,,,,,,50.2166537,18.9840343
+17,10017,Apteka,Książęca 4,Bojszowy,Powiat Bieruńsko-Lędziński,43-220,,,,,,,50.0569879,19.0966361
+18,10018,Arion ZOZ,nan nan,Tarnogród,Powiat Biłgorajski,23-420,,,,,,,50.3605341,22.7427566
+19,10019,Arion ZOZ,Doktora Stanisława Pojaska nan,Biłgoraj,Powiat Biłgorajski,23-400,,,,,Yes,,50.5300021,22.7126673
+20,10020,Beskidzkie Centrum Medyczne,Młodzieżowa 21,Bielsko-Biała,Bielsko-Biała,43-300,,+48 33 82 63 400,,,,,49.7852242,19.0311845
+21,10021,Beskidzkie Centrum Onkologii im. Jana Pawła II,nan nan,Bielsko-Biała,Bielsko-Biała,43-300,,+48 33 498 4001,,,,,49.8237033,19.0566707
+22,10022,Białostockie Centrum Onkologii im. Marii Skłodowskiej - Curie,nan nan,Białystok,Białystok,15-007,,,,,,,53.1354418,23.1677438
+23,10023,Bieszczadzkie Wodne Ochotnicze Pogotowie Ratunkowe,nan nan,Solina,Powiat Leski,38-612,,,,,Yes,,49.382042,22.4483314
+24,10024,Brzeskie Centrum Medyczne,Nysańska 4-6,Brzeg,Powiat Brzeski,49-300,,,,,,,50.8523726,17.4756819
+25,10025,Budynek Szpitalny,Ogrodowa nan,Szubin,Powiat Nakielski,89-200,,,,,,,53.0078034,17.7299084
+26,10026,Bydgoskie Centrum Diabetologii i Endokrynologii,nan nan,Bydgoszcz,Bydgoszcz,85-023,,,,,,,53.1056571,18.0592279
+27,10027,Były Szpital w Górze,Ludwika Hirszfelda 8,Góra,Powiat Górowski,56-200,,,,,,,51.6653014,16.5402075
+28,10028,CDT Medicus - Szpital,Leśna 8,Lubin,Powiat Lubiński,59-300,,,,,,,51.3833304,16.2033617
+29,10029,CenterMed Sp. z o.o.,Feliksa Bocheńskiego 38a,Katowice,Katowice,40-022,,,,,,,50.2661648,18.9899633
+30,10030,Centralny Szpital Kliniczny MON,Szaserów 128,Warszawa,Warszawa,04-083,,,,,,,52.2518166,21.0936436
+31,10031,Centralny Szpital Kliniczny MSWiA,Wołoska 137,Warszawa,Warszawa,02-632,,,,,,,52.1994168,20.997354
+32,10032,"Centrum Ginekologii, Położnictwa i Neonatologii w Opolu",Władysława Reymonta 8,Opole,Opole,45-068,,+48 77 454 54 01,,,,,50.6668027,17.9276177
+33,10033,"Centrum Ginekologii, Położnictwa i Neonatologii w Opolu",nan nan,Opole,Opole,45-068,,,,,,,50.6672094,17.9287324
+34,10034,Centrum Leczenia Chorób Płuc - oddział dziecięcy,nan nan,Łódź,Łódź,90-132,,,,,,,51.8357575,19.4829462
+35,10035,Centrum Leczenia Oparzeń,nan nan,Siemianowice Śląskie,Siemianowice Śląskie,41-100,,,,,,,50.3051211,19.0285062
+36,10036,Centrum Medyczne BCM,nan nan,Wyszogród,Powiat Płocki,09-450,,,,,No,,52.3882716,20.1885503
+37,10037,Centrum Medyczne Grupa Zdrowie - Zakład Opiekuńczo Leczniczy dla osób z zaburzeniami psychicznymi,nan nan,Raciąż (Gmina),Powiat Płoński,09-140,,+48 22 749 10 70,,,,,52.8188985,20.0425421
+38,10038,Centrum Medyczne Karpacz,nan nan,Karpacz,Powiat Jeleniogórski,58-540,,+48 883 358 135,,,,,50.7813504,15.7407475
+39,10039,Centrum Medyczne Promed,nan nan,Pabianice,Powiat Pabianicki,95-200,,,,,,,51.6594022,19.3531108
+40,10040,Centrum Medyczne Szpital św. Rodziny,Stanisława Wigury 19,Łódź,Łódź,90-318,,+48 42 2549681,,,,,51.7562587,19.4635888
+41,10041,Centrum Medyczne w Łańcucie,nan nan,Łańcut,Powiat Łańcucki,37-100,,,,,Yes,,50.0672027,22.2329009
+42,10042,Centrum Onkologii,nan nan,Gliwice,Gliwice,44-100,,,,,,,50.3027415,18.6615338
+43,10043,Centrum Onkologii,Wilhelma Konrada Roentgena 5,Warszawa,Warszawa,02-781,,,,,,,52.1472241,21.0354016
+44,10044,Centrum Onkologii,nan nan,Bydgoszcz,Bydgoszcz,85-023,,,,,,,53.1457609,18.1124637
+45,10045,Centrum Onkologii Instytut imienia Marii Skłodowskiej,Garncarska 11,Kraków,Kraków,31-141,,,,,,,50.0617535,19.9273596
+46,10046,Centrum Opieki Medycznej,nan nan,Jarosław,Powiat Jarosławski,37-500,,,,,,,50.0136554,22.6933452
+47,10047,Centrum Pediatrii im. Jana Pawła II,nan nan,Sosnowiec,Sosnowiec,41-214,,,,,,,50.2737397,19.1968861
+48,10048,Centrum Psychiatrii,nan nan,Katowice,Katowice,40-022,,,,,,,50.2717742,19.0839802
+49,10049,Centrum Pulmonologii i Torakochirurgii w Bystrej,nan nan,Bielsko-Biała,Bielsko-Biała,43-300,,,,,,,49.7655585,19.0674264
+50,10050,Centrum Pulmonologii i alergologii,Franciszkańska 30,Szklarska Poręba,Powiat Jeleniogórski,58-580,,,,,,,50.8295664,15.5297053
+51,10051,Centrum Rehabilitacji REHAMED-CENTER,Tajęcina 66A,Trzebownisko,Powiat Rzeszowski,36-001,,,,,,,50.1258066,22.0066891
+52,10052,Centrum Terapii Nerwic,Zamkowa 1a,Strzeleczki,Powiat Krapkowicki,47-364,,+48 77 466 84 18; +48 77 466 84 63,,,,,50.4416554,17.7718881
+53,10053,Centrum Zdrowia Dziecka,nan nan,Warszawa,Warszawa,04-703,,,,,,,52.2069459,21.1880582
+54,10054,Centrum Zdrowia Tuchów,Szpitalna 1,Tuchów,Powiat Tarnowski,33-170,,,,,,,49.8925689,21.0605353
+55,10055,Certus,Grunwaldzka 156,Poznań,Poznań,60-161,,+48 61 860 42 00,,,,,52.392763,16.8594452
+56,10056,Chorzowskie Centrum Pediatrii i Onkologii im. dr Edwarda Hankego,Władysława Truchana 7,Chorzów,Chorzów,41-506,,,,,,,50.297283,18.9486623
+57,10057,Dolnośląski Szpital Specjalistyczny im. T. Marciniaka,Generała Augusta Emila Fieldorfa nan,Wrocław,Wrocław,54-050,,+48713064419,,,Yes,,51.1422775,16.9059648
+58,10058,Dolnośląskie Centrum Onkologii,nan nan,Wrocław,Wrocław,50-502,,,,,,,51.0946573,17.0162879
+59,10059,Dolnośląskie Centrum Rehabilitacji Sp. z o.o. w Kamiennej Górze,nan nan,Kamienna Góra,Powiat Kamiennogórski,58-400,,,,,,,50.7789146,16.0674418
+60,10060,Dolnośląskie Centrum Zdrowia Psychicznego,nan nan,Wrocław,Wrocław,50-225,,,,,,,51.1296303,17.0278072
+61,10061,Dom Pomocy Społecznej,nan nan,Wielgie,Powiat Lipnowski,87-603,,,,,,,52.7498767,19.2339524
+62,10062,Dom Pomocy Społecznej,nan nan,Łódź,Łódź,93-358,,,,,,,51.7068489,19.4344586
+63,10063,Domowy Szpital,Spółdzielcza 5,Biała Podlaska,Biała Podlaska,21-500,,,,,,,52.0341791,23.1104192
+64,10064,Dziecięcy Szpital Uzdrowiskowy „Mieszko”,Wojska Polskiego 4,Szczawno-Zdrój,Powiat Wałbrzyski,58-310,,,,,No,,50.804922,16.2549841
+65,10065,Esculap,nan nan,Bielsko-Biała,Bielsko-Biała,43-300,,,,,,,49.8073872,18.9731649
+66,10066,EuroMediCare,nan nan,Wrocław,Wrocław,54-144,,,,,No,,51.1421892,16.9560493
+67,10067,Euromedic,Tadeusza Kościuszki 92,Katowice,Katowice,40-022,,,,,,,50.2452523,19.0119544
+68,10068,Filia Domu Pomocy Społecznej Nr 1,nan nan,Tomaszów Mazowiecki,Powiat Tomaszowski,97-200,,,,,,,51.5345777,19.9992428
+69,10069,Filia Wielkopolskiego Centrum Onkologii,Kaszubska 12,Kalisz,Kalisz,62-800,,,,,,,51.7692528,18.1018641
+70,10070,Fundacja Hospicjum dla Dzieci,Lwowska 132,Rzeszów,Rzeszów,35-074,,17 853 48 18,,,,,50.0377121,22.0633016
+71,10071,GAMETA,Rudzka 34/36,Rzgów,Powiat Łódzki Wschodni,95-030,,+48 42 645 77 77,,,,,51.6737683,19.478558
+72,10072,Galen Ortopedia,Jerzego 6,Bieruń,Powiat Bieruńsko-Lędziński,43-155,,,,,,,50.0925548,19.0904836
+73,10073,Galena,nan nan,Bielsko-Biała,Bielsko-Biała,43-300,,,,,,,49.8103258,19.0559899
+74,10074,Geo Medical,Wita Stwosza 41,Katowice,Katowice,40-022,,,,,,,50.2457373,19.0133727
+75,10075,Ginekologiczno-Położniczy Szpital Kliniczny,Polna 33,Poznań,Poznań,60-584,,+48 61 841 92 24,,,,,52.410091,16.8963007
+76,10076,Gliwickie Centrum Medyczne Sp. z o.o.,Tadeusza Kościuszki 29,Gliwice,Gliwice,44-100,,324613201,,,,,50.2944524,18.6529806
+77,10077,Gminna Przychodnia SZOZ,Bydgoska 38,Dąbrowa Chełmińska,Powiat Bydgoski,86-070,,,,,,,53.1772024,18.2998435
+78,10078,Gminny Ośrodek Zdrowia,Powstańców Śląskich 7,Przystajń,Powiat Kłobucki,42-141,,,,,,,50.8831648,18.6872297
+79,10079,Gminny Zakład Opieki Zdrowotnej,Jana nan,Bojszowy,Powiat Bieruńsko-Lędziński,43-220,,,,,,,50.0574498,19.0965943
+80,10080,Górnośląskie Centrum Zdrowia Dziecka im. Jana Pawła II,Medyków 16,Katowice,Katowice,40-022,,+48 32 2071800,,,,,50.2238509,18.949552
+81,10081,Głogowski Szpital Powiatowy,Tadeusza Kościuszki 15,Głogów,Powiat Głogowski,67-200,,,,,,,51.6548096,16.074964
+82,10082,Hospicjum,Szpitalna 1C,Miechów,Powiat Miechowski,32-200,,,,,,,50.3552426,20.0355248
+83,10083,Hospicjum Cordis,Oswobodzenia 48,Katowice,Katowice,40-022,,,,,,,50.2472868,19.0883464
+84,10084,Hospicjum Elbląskie,nan nan,Elbląg,Elbląg,82-300,,,,,,,54.1716241,19.4276207
+85,10085,Hospicjum Palium,Osiedle Rusa 55,Poznań,Poznań,61-285,,,,,,,52.3913603,16.9871195
+86,10086,Hospicjum Stacjonarne VITA-SPES,nan 37,Padew Narodowa,Powiat Mielecki,39-340,,,,,,,50.3990414,21.5389441
+87,10087,Hospicjum im. Jana Pawła II,Południowa 3,Konin,Konin,62-500,,,,,No,,52.2271422,18.282373
+88,10088,Hospicjum w Tczewie,nan nan,Tczew,Powiat Tczewski,83-100,,,,,,,54.0906833,18.7969011
+89,10089,Hospicjum Świętego Łazarza,nan nan,Kraków,Kraków,31-836,,+48 12 641 4655,,,,,50.0847743,20.0323564
+90,10090,"I Klinika Psychiatrii, Psychoterapii i Wczesnej Interwencji SPSK 1",Głuska 1,Lublin,Lublin,20-115,,,,,,,51.2071833,22.5883899
+91,10091,I Szpital Miejski im. dr. Emanuela Sonnenberga,Pieniny 30,Łódź,Łódź,92-208,,+48 42 6793067,,,,,51.7821154,19.5245703
+92,10092,I Szpital Wojskowy,Aleje Racławickie 23,Lublin,Lublin,20-115,,,,,,,51.250909,22.5338662
+93,10093,II Szpital Miejski im. dr Ludwika Rydygiera,nan nan,Łódź,Łódź,90-318,,,,,,,51.7770744,19.4677025
+94,10094,III Szpital Miejski im. dr. Karola Jonschera,Milionowa 14,Łódź,Łódź,92-208,,+48 42 6761774,,,,,51.7524264,19.4849983
+95,10095,IV Wojskowy Szpital Kliniczny,nan nan,Wrocław,Wrocław,50-559,,,,,,,51.0753867,17.0237598
+96,10096,Instytut Centrum Zdrowia Matki Polki,nan nan,Łódź,Łódź,93-358,,,,,,,51.7078777,19.481395
+97,10097,Instytut Centrum Zdrowia Matki Polki,nan nan,Łódź,Łódź,93-358,,+48 42 2711000,,,,,51.7075013,19.4766984
+98,10098,Instytut Centrum Zdrowia Matki Polki,Rzgowska 281/289,Łódź,Łódź,93-358,,,,,,,51.7061807,19.4797244
+99,10099,Instytut Gruźlicy i Chorób Płuc,nan nan,Warszawa,Warszawa,01-172,,,,,,,52.2353167,20.9670485
+100,10100,Instytut Gruźlicy i Chorób Płuc - Oddział Terenowy im. Jana i Ireny Rudników,nan nan,Rabka-Zdrój,Powiat Nowotarski,34-700,,,,,,,49.6068517,19.9669328
+101,10101,Instytut Kardiologii,nan nan,Warszawa,Warszawa,04-626,,,,,,,52.218842,21.1758441
+102,10102,Instytut Matki i Dziecka,Marcina Kasprzaka 17A,Warszawa,Warszawa,01-214,,+48 22 327 73 05,,,,,52.2273459,20.9689427
+103,10103,Instytut Medycyny Pracy im. prof. dr. med. Jerzego Nofera,Świętej Teresy od Dzieciątka Jezus 8,Łódź,Łódź,91-357,,+48 42 631 45 02,,,,,51.801787,19.436214
+104,10104,Instytut Onkologii,Wawelska 15,Warszawa,Warszawa,02-340,,,,,,,52.2159434,20.9833461
+105,10105,Instytut Psychiatrii i Neurologii,nan nan,Warszawa,Warszawa,02-758,,,,,,,52.1721674,21.0654691
+106,10106,Instytut Reumatologii i Kardiologii,nan nan,Warszawa,Warszawa,02-632,,,,,,,52.1920274,20.995275
+107,10107,Jaworskie Centrum Medyczne,nan nan,Jawor,Powiat Jaworski,59-400,,,,,,,51.0474669,16.1988781
+108,10108,Jolly Med,Popielówek 1 nan,Lubomierz,Powiat Lwówecki,59-623,,75 789 13 30,,,,,50.9749107,15.5236438
+109,10109,Katedra i Klinika Psychiatrii Pomorskiego Uniwersytetu Medycznego,nan nan,Szczecin,Szczecin,70-560,,,,,,,53.4544829,14.5323967
+110,10110,Katowickie Centrum Onkologii (dawn. Szpital im. Stanisława Leszczyńskiego),Raciborska 26,Katowice,Katowice,40-022,,32 251-52-53,,,,,50.2547333,19.0049573
+111,10111,Katowickie Centrum Onkologii Zespół nr 2,nan nan,Katowice,Katowice,40-022,,,,,No,,50.2865682,19.0119179
+112,10112,Klinika,nan nan,Chojnice (Gmina),Powiat Chojnicki,89-641,,,,,,,53.7266247,17.6275143
+113,10113,Klinika Chorób Zakaźnych Wojewódzkiego Szpitala Zespolonego,Radiowa 7,Kielce,Kielce,25-525,,+48 41 363 71 37,,,,,50.8752139,20.6377718
+114,10114,Klinika Dermatologii i Wenerologii Uniwersytetu Medycznego w Łodzi,Plac generała Józefa Hallera 1,Łódź,Łódź,90-563,,,,,,,51.7683776,19.4333373
+115,10115,"Klinika Dermatologii, Wenerologii i Dermatologii Dziecięcej",Radziwiłłowska 13,Lublin,Lublin,20-115,,,,,,,51.2497035,22.558396
+116,10116,Klinika Ort-Medica Centeum Medyczne,Brzozowa 7,Ostrów Wielkopolski,Powiat Ostrowski,63-400,,,,,,,51.6274169,17.8049814
+117,10117,Klinika Pro Bono,nan nan,Poznań,Poznań,60-122,,,,,,,52.3772308,16.8805224
+118,10118,Klinika św. Łukasza,Bystrzańska 94b,Bielsko-Biała,Bielsko-Biała,43-300,,,,,No,,49.7825107,19.0667834
+119,10119,Kolejowy Szpital Uzdrowiskowy,Zdrojowa 17,Ciechocinek,Powiat Aleksandrowski,87-720,,,,,,,52.8772621,18.7895421
+120,10120,Kolejowy Szpital Uzdrowiskowy,Gabriela Narutowicza 12,Aleksandrów Kujawski,Powiat Aleksandrowski,87-700,,,,,No,,52.880236,18.6898415
+121,10121,Krakowska Poradnia Opieki Paliatywnej,Wielicka nan,Kraków,Kraków,30-864,,,,,,,50.0101323,20.0059805
+122,10122,Krakowski Szpital Reumatologii i Rehabilitacji,Aleja Marszałka Ferdynanda Focha 33,Kraków,Kraków,30-233,,,,,,,50.0575056,19.9134477
+123,10123,Krakowskie Centrum Rehabilitacji,nan nan,Kraków,Kraków,30-233,,,,,,,50.0635596,19.8658621
+124,10124,Krom-Med,Siewierska 74a,Zawiercie,Powiat Zawierciański,42-400,,,,,,,50.4892528,19.4908009
+125,10125,Kujawsko-Pomorskie Centrum Pulmonologii w Bydgoszczy,Seminaryjna 1,Bydgoszcz,Bydgoszcz,85-023,,,,,No,,53.1220007,17.9838251
+126,10126,LUX MED,Puławska 455,Warszawa,Warszawa,02-840,,+48 22 4312059,,,,,52.1384034,21.0185935
+127,10127,Latawiec,nan nan,Świdnica,Powiat Świdnicki,58-100,,,,,,,50.8328388,16.4655143
+128,10128,Leszczyńskie Centrum Medyczne Ventriculus,Słowiańska nan,Leszno,Leszno,64-100,,65 520 65 80,,,,,51.8424941,16.5691177
+129,10129,Leśny,nan nan,Oborniki Śląskie,Powiat Trzebnicki,55-120,,,,,,,51.3074876,16.8922688
+130,10130,Liftmed,Cegielniana 14,Rybnik,Rybnik,44-200,,+48324408899,,,,,50.099934,18.5430245
+131,10131,Lotnicze Pogotowie Ratunkowe,nan nan,Sanok,Powiat Sanocki,38-500,,,,,,,49.5750066,22.2034415
+132,10132,Lotnicze Pogotowie Ratunkowe Ostrów Wielkopolski,Michałków 1a,Ostrów Wielkopolski (Gmina),Powiat Ostrowski,63-400,,,,,,,51.7019968,17.8398252
+133,10133,Lux Med,Władysława Szernera 3,Warszawa,Warszawa,03-305,,,,,,,52.2807225,21.0117169
+134,10134,Lądowisko Żyrardów,Jana Skrowaczewskiego nan,Żyrardów,Powiat Żyrardowski,96-300,,,,,landing_site,,52.0693953,20.4297681
+135,10135,Mazowiecki Oddział Wojewódzki NFZ - Delegatura w Radomiu,nan nan,Radom,Radom,26-610,,,,,,,51.4321972,21.1640157
+136,10136,Mazowiecki Szpital Bródnowski,Ludwika Kondratowicza 8,Warszawa,Warszawa,03-352,,22 326 55 00,,,Yes,,52.2914836,21.0469851
+137,10137,Mazowiecki Szpital Onkologiczny,Kościelna 61,Wieliszew,Powiat Legionowski,05-135,,,,,,,52.4400895,20.9623141
+138,10138,Mazowiecki Szpital Specjalistyczny,Juliana Aleksandrowicza 5,Radom,Radom,26-610,,,,,,,51.4393477,21.1576187
+139,10139,Mazowiecki Szpital Wojewódzki Drewnica,nan nan,Ząbki,Powiat Wołomiński,05-091,,,,,,,52.297273,21.1144242
+140,10140,Mazowiecki Szpital Wojewódzki w Siedlcach,nan nan,Siedlce,Siedlce,08-110,,,,,,,52.1746086,22.2917481
+141,10141,Mazowieckie Centrum Epileptologii i Nefrologii Dziecięcej,Barska nan,Warszawa,Warszawa,02-340,,,,,No,,52.219458,20.9777227
+142,10142,Mazowieckie Centrum Leczenia Chorób Płuc i Gruźlicy,Reymonta 83/91,Otwock,Powiat Otwocki,05-400,,,,,,,52.1100528,21.2984134
+143,10143,Mazowieckie Centrum Neuropsychiatrii,3 Maja 127D,Józefów,Powiat Otwocki,05-420,,,,,No,,52.1280695,21.2376612
+144,10144,Mazowieckie Centrum Neuropsychiatrii i Rehabilitacji Dzieci i Młodzieży w Zagórzu - Oddział w Garwolinie,nan nan,Garwolin,Powiat Garwoliński,08-400,,,,,,,51.8863869,21.6247226
+145,10145,Mazowieckie Centrum Rehabilitacji STOCER,nan nan,Konstancin-Jeziorna,Powiat Piaseczyński,05-510,,22 711 90 00,,,,,52.0796994,21.1136106
+146,10146,Małpolskie Centrum Rehabilitacji Dzieci w Radziszowie,Podlesie 173,Skawina,Powiat Krakowski,32-050,,+12 275 17 51 w.160,,,,,49.9079739,19.8344921
+147,10147,MedPolonia,Obornicka 262,Poznań,Poznań,60-681,,+48 61 66 43 313; +48 514 971 722,,,,,52.4482314,16.9077441
+148,10148,Medeor Plus,nan nan,Łódź,Łódź,91-357,,,,,,,51.7879771,19.4471071
+149,10149,Miejski Samodzielny Publiczny Zakład Opieki Zdrowotnej Nr 1,Ignacego Prądzyńskiego 11,Wołomin,Powiat Wołomiński,05-200,,,,,,,52.3428662,21.2385535
+150,10150,Miejski Szpital Zespolony,nan nan,Częstochowa,Częstochowa,42-202,,,,,,,50.813681,19.1329304
+151,10151,Miejski Szpital Zespolony im. dr Władysława Biegańskiego,Adama Mickiewicza 12,Częstochowa,Częstochowa,42-217,,,,,,,50.8016604,19.1142928
+152,10152,Miejski Szpital w Pionkach,Niepodległości 1,Pionki,Powiat Radomski,26-670,,,,,Yes,,51.475322,21.4447717
+153,10153,Milickie Centrum Medyczne,nan nan,Milicz,Powiat Milicki,56-300,,,,,ambulance_station,,51.5167157,17.2587172
+154,10154,Międzyleski Szpital Specjalistyczny,Bursztynowa 2,Warszawa,Warszawa,04-703,,022 815-67-39,,,,,52.2028399,21.1826029
+155,10155,Międzynarodowe Centrum Słuchu,nan nan,Nadarzyn,Powiat Pruszkowski,05-830,,,,,,,52.0983573,20.8205484
+156,10156,NOVOMED,nan nan,Włoszczowa,Powiat Włoszczowski,29-100,,,,,,,50.8465754,19.9849326
+157,10157,"NZOZ ""Zdrowie""",Klonowa 9,Janikowo,Powiat Inowrocławski,88-160,,,,,,,52.7547413,18.1047321
+158,10158,NZOZ Analco,Aleja Armii Krajowej 25,Świdnik,Powiat Świdnicki,21-040,,,,,,,51.2178079,22.7150565
+159,10159,NZOZ KORMED Sp. z o.o.,nan nan,Jawor,Powiat Jaworski,59-400,,,,,,,51.0595445,16.183387
+160,10160,NZOZ Konwaliowa,Jana Kowalczyka 1A,Warszawa,Warszawa,03-193,,+48 22 3532266,,,,,52.304236,20.9897828
+161,10161,NZOZ Medyk Ośrodek Zdrowia,Lipowa 10,Miedźna,Powiat Pszczyński,43-225,,,,,,,50.0162738,19.1015099
+162,10162,NZOZ Moja Poradnia - przychodnia,Cicha 23,Piekary Śląskie,Piekary Śląskie,41-940,,,,,No,,50.3924214,18.9545862
+163,10163,NZOZ Salus Ośrodek Zdrowia,Grunwaldzka 50,Chorzele,Powiat Przasnyski,06-330,,,,,,,53.2627251,20.8978316
+164,10164,NZOZ Szpital Miejski w Rudzie Śląskiej,Wincentego Lipa 2,Ruda Śląska,Ruda Śląska,41-710,,,,,,,50.3152877,18.8875286
+165,10165,NZOZ Szpital Powiatowy,Piastowska 7,Bielawa,Powiat Dzierżoniowski,58-260,,,,,,,50.6838,16.6095285
+166,10166,NZOZ Szpital na Siemiradzkiego im. R. Czerwiakowskiego,nan nan,Kraków,Kraków,31-141,,,,,,,50.069745,19.9324386
+167,10167,NZOZ Szpital na Siemiradzkiego — Ośrodek Medycyny Matczyno-Płodowej,Kremerowska 11,Kraków,Kraków,31-141,,,,,,,50.0679679,19.929607
+168,10168,Namysłowskie Centrum Zdrowia SA,nan nan,Namysłów,Powiat Namysłowski,46-100,,+48 77 40 40 200,,,,,51.0840607,17.7106492
+169,10169,Nasza Przychodnia s.c. NZOZ. Przychodnia,Torowa 1,Czarna Białostocka,Powiat Białostocki,16-020,,,,,,,53.3017772,23.2879297
+170,10170,Neurologia - Oddział 20,nan 43,Skąpe,Powiat Świebodziński,66-213,,,,,,,52.1442628,15.4030208
+171,10171,Niepubliczny Ośrodek Zdrowia,nan nan,Jarczów,Powiat Tomaszowski,22-664,,,,,,,50.4243261,23.5871534
+172,10172,Niepubliczny Zakład Opieki Zdrowotnej,nan 762,Hyżne,Powiat Rzeszowski,36-024,,,,,,,49.9142527,22.132342
+173,10173,Niepubliczny Zakład Opieki Zdrowotnej,Adama Mickiewicza 1,Ustroń,Powiat Cieszyński,43-450,,,,,,,49.7184505,18.8147904
+174,10174,"Niepubliczny Zakład Opieki Zdrowotnej ""BHMed"" sp. z o. o.",nan nan,Świdnica,Powiat Świdnicki,58-100,,,,,,,50.829925,16.5108825
+175,10175,"Niepubliczny Zakład Opieki Zdrowotnej ""Nowy Szpital""",nan nan,Kostrzyn nad Odrą,Powiat Gorzowski,66-470,,,,,,,52.6084622,14.6419166
+176,10176,"Niepubliczny Zakład Opieki Zdrowotnej ""ZDROWIE""",Stanisława Staszica 3k,Szydłowiec,Powiat Szydłowiecki,26-500,,,,,,,51.2277701,20.86543
+177,10177,Niepubliczny Zakład Opieki Zdrowotnej - Szpital Specjalistyczny im. Prof. E. Michałowskiego,Strzelecka 9,Katowice,Katowice,40-022,,32 602-70-00,,,,,50.2530152,19.005832
+178,10178,Niepubliczny Zakład Opieki Zdrowotnej CARE,Stanisława Dubois 17,Zgierz,Powiat Zgierski,95-100,,,,,,,51.8579637,19.4212246
+179,10179,Niepubliczny Zakład Opieki Zdrowotnej Mak-Med sp. z o.o.,Biegańskiego 3,Małkinia Górna,Powiat Ostrowski,07-320,,,,,,,52.6923238,22.0491605
+180,10180,Niepubliczny Zakład Opieki Zdrowotnej PANACEUM,Solidarności 12,Ruda Śląska,Ruda Śląska,41-710,,,,,,,50.2406591,18.8334475
+181,10181,Niepubliczny Zakład Opieki Zdrowotnej WIELMED w Łagowie,Słupska 3,Łagów,Powiat Kielecki,26-025,,,,,,,50.7772349,21.0860829
+182,10182,Nowa siedziba Szpitala Uniwersyteckiego,Macieja Jakubowskiego nan,Kraków,Kraków,30-864,,,,,,,50.0089588,19.9952407
+183,10183,Nowodworskie Centrum Medyczne,nan nan,Nowy Dwór Mazowiecki,Powiat Nowodworski,05-100,,,,,,,52.4186148,20.7252072
+184,10184,Nowy Szpital,nan nan,Świecie,Powiat Świecki,86-100,,,,,,,53.4135904,18.4652544
+185,10185,Nowy Szpital,nan nan,Szprotawa,Powiat Żagański,67-300,,,,,,,51.5666949,15.5519833
+186,10186,Nowy Szpital Olkusz,1000-lecia nan,Olkusz,Powiat Olkuski,32-300,,,,,,,50.2695531,19.5674073
+187,10187,ODDZIAŁ MEDYCYNY PALIATYWNEJ SZPITALA OGÓLNEGO im. dr Edmunda Wojtyły w Bielsku-Białej,Emilii Plater 17,Bielsko-Biała,Bielsko-Biała,43-300,,,,,No,,49.8205913,19.0239195
+188,10188,Oddział Dzienny Psychiatryczny Ogólny Świętokrzyskiego Centrum Psychiatrii,Janusza Kusocińskiego 59,Kielce,Kielce,25-525,,+48 41 366 97 71,,,,,50.8540784,20.5983963
+189,10189,"Oddział Pulmonologii, Diagnostyki i Leczenia Raka Płuca",Wieniecka 49,Włocławek,Włocławek,87-800,,,,,,,52.6592899,19.0320254
+190,10190,Oddział Ratunkowy,Korczyńska 57,Krosno,Krosno,38-400,,+48134364110,,,Yes,,49.7012565,21.7834387
+191,10191,Oddział Rehabilitacji Neurologicznej Szpitala MSWiA,Juliana Ursyna Niemcewicza 82,Warszawa,Warszawa,05-075,,,,,,,52.245291,21.2300705
+192,10192,Oddział Wewnętrzny,Mossego 17,Grodzisk Wielkopolski,Powiat Grodziski,62-065,,,,,,,52.2281867,16.368498
+193,10193,Oddział Zakaźny,nan nan,Ostróda,Powiat Ostródzki,14-100,,,,,,,53.6932488,19.9755567
+194,10194,Oddział neurologiczny,Marka Sobieskiego 4C,Krasnystaw,Powiat Krasnostawski,22-300,,,,,Yes,,50.9829668,23.1646202
+195,10195,Oddziały dziecięce Wojewódzkiego Zespołu Reumatologicznego,nan nan,Sopot,Sopot,81-704,,,,,,,54.4473946,18.5407802
+196,10196,Okręgowy Szpital Kolejowy,Panewnicka 65,Katowice,Katowice,40-022,,+48 32 6053500,,,,,50.2270376,18.9592083
+197,10197,Okulistyka s.c.,Stanisława Wyspiańskiego 23,Tomaszów Lubelski,Powiat Tomaszowski,22-600,,,,,No,,50.4415484,23.4138327
+198,10198,Opolskie Centrum Onkologii,nan nan,Opole,Opole,45-068,,,,,,,50.6723787,17.9369398
+199,10199,"Osrodek zdrowia, przychodnia lekarska",Plac Ratuszowy 1B,Łaziska Górne,Powiat Mikołowski,43-170,,,,,No,,50.1502017,18.8397024
+200,10200,Ośrodek Diagnostyczno-Leczniczy,nan nan,Chełm,Chełm,22-100,,,,,,,51.1350706,23.4828394
+201,10201,Ośrodek Kardiologii Inwazyjnej IKARDIA,nan nan,Nałęczów,Powiat Puławski,24-140,,,,,,,51.2845881,22.2077706
+202,10202,Ośrodek Leczenia Specjalistycznego,Nowowiejska 27,Warszawa,Warszawa,00-659,,,,,,,52.2199317,21.0082314
+203,10203,Ośrodek Pediatryczny im. dr J. Korczaka - Wojewódzki Szpital Specjalistyczny im. M.Kopernika w Łodzi,nan nan,Łódź,Łódź,92-208,,,,,,,51.7582325,19.4841195
+204,10204,Ośrodek Pediatryczny im. dr. Janusza Korczaka,Aleja Marszałka Józefa Piłsudskiego 71,Łódź,Łódź,92-208,,,,,Yes,,51.7611942,19.4840198
+205,10205,Ośrodek Psychiatryczny,Dolna 42,Warszawa,Warszawa,02-554,,,,,,,52.2004304,21.0257103
+206,10206,Ośrodek Rehabilitacji im. Prof. Dr Wiktora Degi,Stanisława Konarskiego 5,Zgorzelec,Powiat Zgorzelecki,59-900,,,,,No,,51.1463865,15.0067908
+207,10207,Ośrodek Rehabilitacyjno-Reumatologiczny,nan nan,Goczałkowice-Zdrój,Powiat Pszczyński,43-230,,,,,,,49.9372259,18.9792152
+208,10208,Ośrodek Zdrowia,Mossego 23,Grodzisk Wielkopolski,Powiat Grodziski,62-065,,,,,,,52.2279694,16.3696575
+209,10209,Ośrodek Zdrowia,nan 795,Boguchwała,Powiat Rzeszowski,36-047,,,,,No,,49.9963735,21.8741571
+210,10210,Ośrodek Zdrowia,Ludowa nan,Krynica-Zdrój,Powiat Nowosądecki,33-380,,,,,No,,49.3970575,20.9543762
+211,10211,Ośrodek Zdrowia,Augustowska 45,Sztabin,Powiat Augustowski,16-310,,,,,,,53.6846098,23.0957768
+212,10212,Ośrodek Zdrowia,nan nan,Długosiodło,Powiat Wyszkowski,07-210,,,,,,,52.7614387,21.5903152
+213,10213,Ośrodek Zdrowia,Główna 29,Tarnów (Gmina),Powiat Tarnowski,33-111,,,,,,,49.9690734,20.9469114
+214,10214,Ośrodek Zdrowia,nan 70,Tarnów (Gmina),Powiat Tarnowski,33-112,,,,,,,49.9705079,20.9906953
+215,10215,Ośrodek Zdrowia,Garwolińska 9,Borowie,Powiat Garwoliński,08-412,,+48 25 685 90 29,,,,,51.9489385,21.7687628
+216,10216,Ośrodek Zdrowia,Józefa Piłsudskiego 17,Gorzyce,Powiat Tarnobrzeski,39-432,,,,,No,,50.6628807,21.839854
+217,10217,Ośrodek Zdrowia,nan 427,Rakszawa,Powiat Łańcucki,37-111,,,,,No,,50.1595382,22.239242
+218,10218,Ośrodek Zdrowia,Radzyńska 4,Łasin,Powiat Grudziądzki,86-320,,,,,,,53.5174671,19.0812354
+219,10219,"Ośrodek Zdrowia ""Domestica""",Szkolna 5,Czastary,Powiat Wieruszowski,98-410,,,,,,,51.2590559,18.3236492
+220,10220,Ośrodek Zdrowia w Bukowej,nan nan,Krasocin,Powiat Włoszczowski,28-366,,,,,,,50.8637729,20.202921
+221,10221,Ośrodek Zdrowia w Krzyżanowicach,Wyzwolenia 1A,Krzyżanowice,Powiat Raciborski,47-450,,+4832 419 40 22,,,,,49.9821412,18.2692767
+222,10222,Ośrodek Zdrowia w Przysietnicy,nan 858,Brzozów,Powiat Brzozowski,36-200,,,,,,,49.7191169,22.0466012
+223,10223,Ośrodek Zdrowia w Rutce-Tartak,Leśna 1,Rutka-Tartak,Powiat Suwalski,16-406,,,,,,,54.3214913,22.9709955
+224,10224,Ośrodek Zdrowia w Tuczępach,nan 15,Tuczępy,Powiat Buski,28-142,,,,,,,50.5162447,20.9922258
+225,10225,Ośrodek zdrowia,nan nan,Łańcut (Gmina),Powiat Łańcucki,37-122,,,,,,,50.0138249,22.2299912
+226,10226,Ośrodek zdrowia,nan nan,Stary Sącz,Powiat Nowosądecki,33-340,,,,,No,,49.5624136,20.6314663
+227,10227,Pabian-Med,Jana Kilińskiego 10/12,Pabianice,Powiat Pabianicki,95-200,,,,,No,,51.6603221,19.3548004
+228,10228,Pabianickie Centrum Psychiatryczne,Wiejska 60,Pabianice,Powiat Pabianicki,95-200,,,,,,,51.6503986,19.3302534
+229,10229,Pałuckie Centrum Zdrowia SZPITAL,Szpitalna 30,Żnin,Powiat Żniński,88-400,,,,,Yes,,52.8471996,17.7179887
+230,10230,Piekarskie Centrum Medyczne,Szpitalna 11,Piekary Śląskie,Piekary Śląskie,41-940,,,,,Yes,,50.3745234,18.9524166
+231,10231,Pleszewskie Centrum Medyczne,nan nan,Pleszew,Powiat Pleszewski,63-300,,+48627420900,,,Yes,,51.8986911,17.7643519
+232,10232,Podhalański Szpital Specjalistyczny im. Jana Pawła II w Nowym Targu,nan nan,Nowy Targ,Powiat Nowotarski,34-400,,,,,,,49.4875435,20.0306161
+233,10233,Pogotowie,nan nan,Pokrzywnica,Powiat Pułtuski,06-121,,,,,,,52.6201304,21.0213049
+234,10234,Pogotowie Ratunkowe,nan nan,Rzeszów,Rzeszów,35-074,,,,,,,50.0343853,21.9970674
+235,10235,Pogotowie Ratunkowe,nan nan,Wołów,Powiat Wołowski,56-100,,,,,,,51.3404151,16.6405346
+236,10236,Pogotowie Ratunkowe w Łomży,Wąska 8,Łomża,Łomża,18-400,,,,,,,53.173083,22.081521
+237,10237,Pogotowie Ratunkowe w Łomży,Szosa Zambrowska 1,Łomża,Łomża,18-400,,,,,,,53.1732612,22.0814395
+238,10238,Pogotowie ratunkowe,nan nan,Pszczyna,Powiat Pszczyński,43-200,,,,,,,49.9712971,18.935651
+239,10239,"Poliklinika MSW, Zespół Lecznictwa Psychiatrycznego",nan nan,Olsztyn,Olsztyn,10-118,,,,,,,53.7956023,20.4831587
+240,10240,Poliklinika MSWiA,nan nan,Lublin,Lublin,20-115,,+48 81 5285595,,,,,51.2497286,22.5548295
+241,10241,Polmedic - Centrum Medyczne,nan nan,Radom,Radom,26-610,,,,,,,51.3812803,21.1621522
+242,10242,Pomorskie Centrum Chorób Zakaźnych i Gruźlicy,nan nan,Gdańsk,Gdańsk,80-208,,,,,,,54.3629107,18.6153392
+243,10243,Pomorskie Centrum Rehabilitacji - Szpital w Dzierżążnie,Szpitalna nan,Kartuzy,Powiat Kartuski,83-332,,,,,No,,54.3297463,18.2610104
+244,10244,"Poradnia ""Salus""",Tadeusza Kościuszki 9,Jawor,Powiat Jaworski,59-400,,,,,,,51.0477615,16.1959494
+245,10245,Poradnia rehabilitacyjna,nan nan,Tomaszów Mazowiecki,Powiat Tomaszowski,97-200,,,,,,,51.5287901,20.0230104
+246,10246,Powiatowe Centrum Matki i Dziecka,Franklina Roosevelta 3,Piotrków Trybunalski,Piotrków Trybunalski,97-300,,,,,,,51.4008518,19.6909399
+247,10247,Powiatowe Centrum Zdrowia,Aleja Armii Krajowej 105/106,Malbork,Powiat Malborski,82-200,,,,,Yes,,54.0315709,19.0222245
+248,10248,Powiatowe Centrum Zdrowia,Gustawa Morcinka nan,Lwówek Śląski,Powiat Lwówecki,59-600,,,,,,,51.111921,15.5863659
+249,10249,Powiatowe Centrum Zdrowia S.A.,nan nan,Kluczbork,Powiat Kluczborski,46-200,,,,,,,50.9664533,18.2163277
+250,10250,Powiatowy Szpital Pomocy Maltańskiej,Niepodległości 9,Barczewo,Powiat Olsztyński,11-010,,,,,,,53.8293093,20.6952972
+251,10251,Powiatowy Szpital w Aleksnadrowie Kujawskim,Juliusza Słowackiego 18,Aleksandrów Kujawski,Powiat Aleksandrowski,87-700,,,,,Yes,,52.8742131,18.6968919
+252,10252,Powiatowy Szpital w Iławie,nan nan,Iława,Powiat Iławski,14-200,,,,,,,53.5852161,19.5646436
+253,10253,Powiatowy Zespół Opieki Zdrowotnej w Ostródzie S.A.,nan nan,Ostróda,Powiat Ostródzki,14-100,,,,,Yes,,53.6931711,19.9744278
+254,10254,Powiatowy Zespół Szpitali im. Józefa Dietla,nan nan,Oleśnica,Powiat Oleśnicki,56-400,,,,,,,51.2091144,17.3901236
+255,10255,Powiatowy Zespół Zakładów Opieki Zdrowotnej,nan nan,Będzin,Powiat Będziński,42-500,,,,,,,50.324926,19.1313763
+256,10256,Powiatowy Zespół Zakładów Opieki Zdrowotnej w Będzinie - Szpital w Czeladzi,Szpitalna 40,Czeladź,Powiat Będziński,41-250,,,,,,,50.3269768,19.0760773
+257,10257,Prosektorium,nan nan,Miechów,Powiat Miechowski,32-200,,,,,,,50.3538186,20.0366755
+258,10258,Prywatna Klinika ADO MED 2,Stefana Batorego 19,Chorzów,Chorzów,41-506,,+48 32 247-00-29,,,,,50.2735559,18.9393923
+259,10259,Prywatna Klinika Chirurgii i Medycyny Estetycznej,nan nan,Chełm,Chełm,22-100,,,,,,,51.1355439,23.4691694
+260,10260,Prywatny Szpital Położniczo Ginekologiczny,Łubinowa 3,Katowice,Katowice,40-022,,+48 32 2025521,,,,,50.2058505,18.9898269
+261,10261,Przychodnia,nan nan,Rybno,Powiat Działdowski,13-220,,,,,,,53.3830561,19.9264158
+262,10262,Przychodnia,Kardynała Stefana Wyszyńskiego 26,Brusy,Powiat Chojnicki,89-634,,,,,,,53.9473922,17.7041539
+263,10263,Przychodnia,Tadeusza Kościuszki 2,Ostróda,Powiat Ostródzki,14-100,,,,,,,53.696774,19.9635316
+264,10264,"Przychodnia ""Centrum""",Koźmińska 9,Warta,Powiat Sieradzki,98-290,,,,,No,,51.7106244,18.6194006
+265,10265,"Przychodnia ""Medyk""",Popioły 1,Warta,Powiat Sieradzki,98-290,,,,,No,,51.7045636,18.6211807
+266,10266,Przychodnia Lekarska,Gimnazjalna 6,Odolanów,Powiat Ostrowski,63-430,,,,,,,51.5783718,17.6597261
+267,10267,Przychodnia NFZ,nan nan,Sadowne,Powiat Węgrowski,07-140,,,,,,,52.6335118,21.852631
+268,10268,Przychodnia NZOZ PRIMUS,Szkolna 12,Siewierz,Powiat Będziński,42-470,,,,,,,50.499236,19.1944151
+269,10269,Przychodnia Pod Klasztorem,Plac Mariacki 7,Leżajsk,Powiat Leżajski,37-300,,,,,No,,50.2697608,22.4064781
+270,10270,Przychodnia Przyszpitalna,Prezydenta Stefana Artwińskiego 1,Kielce,Kielce,25-525,,,,,,,50.8711846,20.6032438
+271,10271,Przychodnia Rejonowa,nan nan,Goniądz,Powiat Moniecki,19-110,,,,,,,53.4865369,22.7344213
+272,10272,Przychodnia Rejonowa,Mieczysława Niedziałkowskiego 15,Zawiercie,Powiat Zawierciański,42-400,,,,,Yes,,50.4900575,19.4284561
+273,10273,Przychodnia Rejonowa Nr 1,Ludwika Waryńskiego 27,Suwałki,Suwałki,16-400,,,,,,,54.0996418,22.938013
+274,10274,Przychodnia Rejonowa nr 1,Konstantego Ildefonsa Gałczyńskiego 1,Zawiercie,Powiat Zawierciański,42-400,,,,,Yes,,50.4934977,19.4380805
+275,10275,Przychodnia Rejonowa nr 4 ZLA,Borowa 33a,Zawiercie,Powiat Zawierciański,42-400,,326714131,,,Yes,,50.5104758,19.4030924
+276,10276,Przychodnia Rejonowa nr 7,nan nan,Kielce,Kielce,25-525,,,,,,,50.8527842,20.6184991
+277,10277,Przychodnia Rejonowo-Specjalistyczna nr 5,Marszałka Józefa Piłsudskiego 80,Zawiercie,Powiat Zawierciański,42-400,,,,,,,50.4911993,19.4476747
+278,10278,Przychodnia Zdrowia,Szkolna 7,Szczebrzeszyn,Powiat Zamojski,22-460,,,,,,,50.6977531,22.9812793
+279,10279,Przychodnia lekarska,nan nan,Kalety,Powiat Tarnogórski,42-660,,,,,,,50.5629244,18.8819378
+280,10280,Przychodnia rejonowa,Stanisława Staszica 4,Szydłowiec,Powiat Szydłowiecki,26-500,,48 617 12 95,,,Yes,,51.2271051,20.868591
+281,10281,Przychodnia specjalistyczna,Powstańców Śląskich 8,Zawiercie,Powiat Zawierciański,42-400,,326723445,,,Yes,,50.4851136,19.424907
+282,10282,Przychodnia w Jeziorsku,nan 21,Warta,Powiat Sieradzki,98-290,,,,,No,,51.7941248,18.6477569
+283,10283,Pszczyńskie Centrum Okulistyczne,nan nan,Pszczyna,Powiat Pszczyński,43-200,,,,,No,,49.9696987,18.9440948
+284,10284,Radomski Szpital Specjalistyczny im. dr. Tytusa Chałubińskiego,nan nan,Radom,Radom,26-610,,,,,,,51.4008774,21.1448902
+285,10285,Radomski Szpital Specjalistyczny im. dr. Tytusa Chałubińskiego,nan nan,Radom,Radom,26-610,,+48 48 361 51 00,,,,,51.3980734,21.1481098
+286,10286,Radomskie Centrum Onkologii im. Bohaterów Radomskiego Czerwca '76,nan nan,Radom,Radom,26-610,,,,,,,51.4128033,21.1122309
+287,10287,Regionalne Centrum Krwiodawstwa i Krwiolecznictwa,Franciszkańska 17/25,Łódź,Łódź,90-318,,,,,,,51.7823883,19.4611172
+288,10288,Regionalne Centrum Onkologii - Zakład Teleradioterapii,Łęgska 55,Włocławek,Włocławek,87-800,,,,,,,52.6578606,19.0747086
+289,10289,Regionalne Centrum Zdrowia,nan nan,Lubin,Powiat Lubiński,59-300,,,,,,,51.402188,16.1965219
+290,10290,Regionalny Szpital w Kołobrzegu,Podporucznika Edmunda Łopuskiego 31-33,Kołobrzeg,Powiat Kołobrzeski,78-100,,+48 943530200,,,Yes,,54.1738361,15.5660185
+291,10291,Regionalny szpital specjalistyczny im. doktora Władysława Biegańskiego,Doktora Ludwika Rydygiera 15-17,Grudziądz,Grudziądz,86-300,,,,,,,53.4538157,18.7838686
+292,10292,SOR,nan nan,Biała Podlaska,Biała Podlaska,21-500,,,,,,,52.0465301,23.1106975
+293,10293,SP SP ZOZ Oddział Psychiatryczny,nan nan,Słupsk,Słupsk,76-200,,,,,,,54.4729724,17.0252592
+294,10294,"SP ZOZ ""Szpital Powiatowy"" w Bochni im Bł. Marty Wieckiej",Krakowska 31,Bochnia,Powiat Bocheński,32-700,,+48 14 615 3 400,,,Yes,,49.9668561,20.4215027
+295,10295,"SP ZOZ ""Szpital Powiatowy"" w Bochni im Bł. Marty Wieckiej",Krakowska 31,Bochnia,Powiat Bocheński,32-700,,+48 14 615 3 400,,,Yes,,49.9668561,20.4215027
+296,10296,SP ZOZ Miejski Szpital Zespolony im. dr Tytusa Chałubińskiego,Królowej Bony 1/3,Częstochowa,Częstochowa,42-226,,,,,,,50.8078149,19.0950308
+297,10297,SP ZOZ Szpital im. Andrzeja Wolańczyka,Hoża 11,Złotoryja,Powiat Złotoryjski,59-500,,,,,,,51.1164812,15.9104055
+298,10298,SP ZOZ Wojewódzka Stacja Pogotowia Ratunkowego w Łapach,Cmentarna 28,Łapy,Powiat Białostocki,18-100,,85 715 23 69,,,ambulance_station,,52.9864466,22.8874341
+299,10299,SP ZOZ w Wolsztynie,nan nan,Wolsztyn,Powiat Wolsztyński,64-200,,,,,,,52.1173855,16.1179053
+300,10300,SPZOZ Państwowy Szpital dla Nerwowo i Psychicznie Chorych,nan nan,Rybnik,Rybnik,44-200,,,,,,,50.1047425,18.5469764
+301,10301,SPZOZ Szpital Specjalistyczny,nan nan,Puławy,Powiat Puławski,24-100,,,,,Yes,,51.420449,21.9724068
+302,10302,SPZOZ Szpital im. dr. Z. Patryna,nan nan,Wieluń,Powiat Wieluński,98-300,,+48 43 84-06-700,,,,,51.2142758,18.5649571
+303,10303,"SPZOZ w Kępnie, Oddział Leczniczo-Rehabilitacyjny",nan 97,Baranów,Powiat Kępiński,63-604,,,,,,,51.2454292,17.9716837
+304,10304,SPZZOZ Wyszków,Komisji Edukacji Narodowej nan,Wyszków,Powiat Wyszkowski,07-200,,,,,,,52.5858871,21.4421565
+305,10305,SZPITAL SPECJALISTA Sp. z o.o.,29 Listopada 37,Kutno,Powiat Kutnowski,99-300,,,,,,,52.2349356,19.3503165
+306,10306,SZPZOZ im. Dzieci Warszawy,nan nan,Łomianki,Powiat Warszawski Zachodni,05-092,,,,,,,52.3391835,20.8466111
+307,10307,Samodzielne Publiczne Sanatorium Rehabilitacyjne im. Janusza Korczaka,Sanatoryjna 1,Krasnobród,Powiat Zamojski,22-440,,,,,,,50.5496739,23.1982075
+308,10308,Samodzielnego Publicznego Zakładu Opieki Zdrowotnej Nr 1 w Bełżycach,Lubelska 90,Bełżyce,Powiat Lubelski,24-200,,,,,,,51.1771078,22.2930923
+309,10309,Samodzielny Gminny Ośrodek Zdrowia,Nadstawie 28,Oleśnica,Powiat Staszowski,28-220,,,,,,,50.4521589,21.0603546
+310,10310,Samodzielny Ośrodek Rehabilitacyjno-Oświatowy dla Dzieci Niepełnosprawnych,nan nan,Katowice,Katowice,40-022,,,,,,,50.2839681,18.9709738
+311,10311,Samodzielny Publiczny Centralny Szpital Kliniczny,Stefana Banacha 1a,Warszawa,Warszawa,02-106,,,,,,,52.2102165,20.9833578
+312,10312,Samodzielny Publiczny Centralny Szpital Kliniczny im. prof. Kornela Gibińskiego,Medyków 14,Katowice,Katowice,40-022,,+ 48 32 7894000,,,,,50.2238808,18.952676
+313,10313,Samodzielny Publiczny Gminny Ośrodek Zdrowia,Szkolna 26,Puńsk,Powiat Sejneński,16-515,,,,,,,54.2486944,23.1863287
+314,10314,Samodzielny Publiczny Kliniczny Szpital Okulistyczny,Józefa Sierakowskiego 13,Warszawa,Warszawa,03-730,,22 511 62 00,,,,,52.2512824,21.029883
+315,10315,Samodzielny Publiczny Psychiatryczny Zakład Opiekuńczo-Leczniczy w Celejowie,nan 68,Wąwolnica,Powiat Puławski,24-160,,+48 81 881 02 11,,,,,51.3299041,22.0695156
+316,10316,Samodzielny Publiczny Specjalistyczny  Zakład Opieki Zdrowotnej “ZDROJE”,nan nan,Szczecin,Szczecin,70-560,,,,,,,53.4282456,14.5485841
+317,10317,Samodzielny Publiczny Specjalistyczny Szpital Zachodni imienia Jana Pawła II,Daleka 11,Grodzisk Mazowiecki,Powiat Grodziski,05-825,,,,,,,52.0942318,20.6171621
+318,10318,Samodzielny Publiczny Specjalistyczny Zakład Opieki Zdrowotnej w Białobrzegach,Spacerowa 10,Białobrzegi,Powiat Białobrzeski,26-800,,,,,,,51.6467501,20.9629098
+319,10319,Samodzielny Publiczny Specjalistyczny Zakład Opieki Zdrowotnej w Lęborku,Juliana Węgrzynowicza 13,Lębork,Powiat Lęborski,84-300,,+48 59 863 52 83,,,Yes,,54.5387619,17.7531523
+320,10320,Samodzielny Publiczny Specjalistyczny Zakład Opieki Zdrowotnej “Zdroje”,Mączna nan,Szczecin,Szczecin,70-560,,,,,,,53.3699484,14.6446647
+321,10321,Samodzielny Publiczny Szpital Kliniczny Nr 1,nan nan,Wrocław,Wrocław,50-381,,,,,,,51.1096818,17.0659648
+322,10322,Samodzielny Publiczny Szpital Kliniczny Nr 4 w Lublinie,nan nan,Lublin,Lublin,20-115,,,,,,,51.2573959,22.5630442
+323,10323,Samodzielny Publiczny Szpital Kliniczny im. Andrzeja Mielęckiego Śląskiego Uniwersytetu Medycznego,Francuska 20-24,Katowice,Katowice,40-022,,+48 32 259-12-00,,,,,50.2534912,19.0300849
+324,10324,Samodzielny Publiczny Szpital Kliniczny im. Prof. Adama Grucy,Konarskiego 13,Otwock,Powiat Otwocki,05-400,,,,,No,,52.1231919,21.2789552
+325,10325,Samodzielny Publiczny Szpital Kliniczny nr 1 Pomorskiego Uniwersytetu Medycznego,nan nan,Szczecin,Szczecin,70-560,,+48 91 425-3000,,,,,53.4470522,14.5038663
+326,10326,Samodzielny Publiczny Szpital Kliniczny nr 1 Pomorskiego Uniwersytetu Medycznego w Szczecinie,nan nan,Police,Powiat Policki,72-009,,+48 91 425 38 00,,,,,53.5464916,14.5605168
+327,10327,Samodzielny Publiczny Szpital Kliniczny nr 1 imienia Prof. Stanisława Szyszko Śląskiego Uniwersytetu Medycznego w Katowicach,nan nan,Zabrze,Zabrze,41-800,,,,,,,50.3022595,18.7833181
+328,10328,Samodzielny Publiczny Szpital Kliniczny nr 2 Pomorskiego Uniwersytetu Medycznego,nan nan,Szczecin,Szczecin,70-560,,,,,,,53.4093126,14.5326808
+329,10329,Samodzielny Publiczny Szpital Kliniczny nr 2 Śląskiego Uniwersytetu Medycznego,Marii Curie-Skłodowskiej 10,Zabrze,Zabrze,41-800,,,,,,,50.3142347,18.7799887
+330,10330,Samodzielny Publiczny Szpital Kliniczny nr 3 Śląskiego Uniwersytetu Medycznego,Księdza Karola Koziołka 1,Zabrze,Zabrze,41-800,,,,,,,50.3217493,18.8085059
+331,10331,Samodzielny Publiczny Szpital Rejonowy,Wojska Polskiego 7,Nowogard,Powiat Goleniowski,72-200,,,,,,,53.6728563,15.1104861
+332,10332,Samodzielny Publiczny Szpital Wojewódzki im. Papieża Jana Pawła II,Aleje Jana Pawła II 10,Zamość,Zamość,22-400,,,,,,,50.7121299,23.2872282
+333,10333,Samodzielny Publiczny Szpital dla Nerwowo i Psychicznie Chorych,nan nan,Międzyrzecz,Powiat Międzyrzecki,66-300,,,,,,,52.4512583,15.6167411
+334,10334,Samodzielny Publiczny Szpital w Sulęcinie,Wincentego Witosa 4,Sulęcin,Powiat Sulęciński,69-200,,,,,,,52.4370979,15.116881
+335,10335,Samodzielny Publiczny Wojewódzki Szpital Zespolony - Zdunowo,nan nan,Szczecin,Szczecin,70-560,,,,,Yes,,53.3770738,14.7707011
+336,10336,Samodzielny Publiczny Wojewódzki Szpital Zespolony w Szczecinie,Arkońska nan,Szczecin,Szczecin,70-560,,+48 91 813 90 00; +48 91 813 90 10; +48 91 813 90 21,,,,,53.4525619,14.5250212
+337,10337,Samodzielny Publiczny Zakład Opieki Zdrowotnej,nan 12,Zakrzew,Powiat Radomski,26-652,,,,,,,51.4394615,20.9970847
+338,10338,"Samodzielny Publiczny Zakład Opieki Zdrowotnej ""Szpital w Łowiczu""",nan nan,Łowicz,Powiat Łowicki,99-400,,,,,,,52.099051,19.9286569
+339,10339,Samodzielny Publiczny Zakład Opieki Zdrowotnej MSW,Kronikarza Galla nan,Kraków,Kraków,30-074,,,,,Yes,,50.0723088,19.9136062
+340,10340,Samodzielny Publiczny Zakład Opieki Zdrowotnej MSW,nan nan,Koszalin,Koszalin,75-007,,,,,,,54.1871181,16.186682
+341,10341,Samodzielny Publiczny Zakład Opieki Zdrowotnej MSWiA,nan nan,Opole,Opole,45-068,,,,,,,50.6635686,17.9253597
+342,10342,Samodzielny Publiczny Zakład Opieki Zdrowotnej MSWiA w Zielonej Górze,Wazów 42,Zielona Góra,Zielona Góra,65-052,,,,,,,51.942115,15.5197628
+343,10343,Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych i Administracji,nan nan,Łódź,Łódź,90-318,,,,,,,51.7825301,19.4727054
+344,10344,Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych w Katowicach im. sierżanta Grzegorza Załogi,Bartosza Głowackiego 10,Katowice,Katowice,40-022,,,,,,,50.2501383,19.0096093
+345,10345,Samodzielny Publiczny Zakład Opieki Zdrowotnej Rypin,3 Maja 2,Rypin,Powiat Rypiński,87-500,,,,,,,53.0665903,19.4149246
+346,10346,Samodzielny Publiczny Zakład Opieki Zdrowotnej Szpital Powiatowy,Fabryczna 18,Poniatowa,Powiat Opolski,24-320,,,,,,,51.1744477,22.0742837
+347,10347,Samodzielny Publiczny Zakład Opieki Zdrowotnej Szpital im. św. Elżbiety,Warszawska 52,Katowice,Katowice,40-022,,+48 32 253-08-31,,,,,50.2575648,19.0335066
+348,10348,Samodzielny Publiczny Zakład Opieki Zdrowotnej im. dr. E.Jelskiego - Przychodnia Rejonowa w Knyszynie - Poradnia ogólna,Grodzieńska 96,Knyszyn,Powiat Moniecki,19-120,,857167026,,,,,53.3196835,22.9217608
+349,10349,Samodzielny Publiczny Zakład Opieki Zdrowotnej w Janowcu Wielkopolskim,nan nan,Janowiec Wielkopolski,Powiat Żniński,88-430,,,,,,,52.7545817,17.4888556
+350,10350,Samodzielny Publiczny Zakład Opieki Zdrowotnej w Myślenicach,nan nan,Myślenice,Powiat Myślenicki,32-400,,,,,,,49.8283622,19.9470668
+351,10351,Samodzielny Publiczny Zakład Opieki Zdrowotnej w Mławie,Anny Dobrskiej 1,Mława,Powiat Mławski,06-500,,,,,Yes,,53.123571,20.3727912
+352,10352,Samodzielny Publiczny Zakład Opieki Zdrowotnej w Szamotułach,Sukiennicza 13,Szamotuły,Powiat Szamotulski,64-500,,612927100,,,Yes,,52.6115613,16.5807703
+353,10353,Samodzielny Publiczny Zakład Opieki Zdrowotnej w Łapach,Janusza Korczaka 23,Łapy,Powiat Białostocki,18-100,,+48 85 814 24 39,,,,,52.9882429,22.866529
+354,10354,Samodzielny Publiczny Zakład Opieki Zdrowotnej w Świdniku,Bolesława Leśmiana 4,Świdnik,Powiat Świdnicki,21-040,,,,,,,51.2212665,22.6978187
+355,10355,Samodzielny Publiczny Zakład Opieki Zdrowotnej w Świdniku,nan nan,Świdnik,Powiat Świdnicki,21-040,,,,,,,51.2214212,22.6937381
+356,10356,Samodzielny Publiczny Zakład Opieki Zdrowotnej w Świdniku,Aleja Lotników Polskich 22,Świdnik,Powiat Świdnicki,21-040,,,,,,,51.2201087,22.6940406
+357,10357,"Samodzielny Publiczny Zespół Gruźlicy i Chorób Płuc, Szpital Położniczo-Ginekologiczny",nan nan,Olsztyn,Olsztyn,10-118,,,,,,,53.8007959,20.5113861
+358,10358,Samodzielny Publiczny Zespół Opieki Zdrowotnej,nan nan,Turek,Powiat Turecki,62-700,,,,,,,52.0110459,18.4900049
+359,10359,Samodzielny Publiczny Zespół Opieki Zdrowotnej w Gostyniu,Karola Marcinkowskiego 8,Gostyń,Powiat Gostyński,63-800,,,,,,,51.8827174,17.0102171
+360,10360,Samodzielny Publiczny Zespół Opieki Zdrowotnej w Leżajsku,Leśna 22,Leżajsk,Powiat Leżajski,37-300,,,,,Yes,,50.2718598,22.4013423
+361,10361,Samodzielny Publiczny Zespół Opieki Zdrowotnej we Włodawie,Aleja Marszałka Józefa Piłsudskiego 64,Włodawa,Powiat Włodawski,22-200,,797 702 705,,,,,51.557595,23.5531399
+362,10362,Samodzielny Publiczny Zespół Szpitali Pulmonologiczno - Reumatologicznych,Karola Miarki 14,Dobrzeń Wielki,Powiat Opolski,46-082,,,,,,,50.8037059,17.8846005
+363,10363,Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej,Niechorska 27,Gryfice,Powiat Gryficki,72-300,,+48 91 3842061,,,,,53.9222028,15.1768073
+364,10364,Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej,Jana Zamoyskiego 149,Janów Lubelski,Powiat Janowski,23-300,,,,,,,50.7013106,22.436027
+365,10365,Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej,Wschodnia 23,Szydłowiec,Powiat Szydłowiecki,26-500,,,,,,,51.2259467,20.8629514
+366,10366,Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej,nan nan,Przasnysz,Powiat Przasnyski,06-300,,,,,Yes,,53.0273904,20.8933352
+367,10367,Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej im. Stefana Niewirowicza w Staszowie,11 Listopada 78,Staszów,Powiat Staszowski,28-200,,+48 15 864 85 39,,,Yes,,50.5618995,21.1904322
+368,10368,Samodzielny Specjalistyczny Zespół Zakładów Opieki Zdrowotnej w Rudce,nan nan,Mrozy,Powiat Miński,05-320,,,,,,,52.1540833,21.8265658
+369,10369,Samodzielny Szpital Kliniczny im. prof. Witolda Orłowskiego,nan nan,Warszawa,Warszawa,00-421,,22 628-30-11,,,,,52.2298559,21.031173
+370,10370,Samodzielny Szpital Miejski im. PCK,Henryka Sienkiewicza 79,Białystok,Białystok,15-007,,,,,Yes,,53.1404235,23.171534
+371,10371,Samodzielny Szpital Wojewódzki im. Mikołaja Kopernika w Piotrkowie Trybunalskim,Rakowska 15,Piotrków Trybunalski,Piotrków Trybunalski,97-300,,,,,,,51.4167109,19.7126295
+372,10372,Samodzielny Wojewódzki Publiczny Zespół Zakładów Psychiatrycznej Opieki Zdrowotnej im. dr Barbary Borzym,Krychnowicka 1,Radom,Radom,26-610,,,,,,,51.3598209,21.0849058
+373,10373,Samodzielny Wojewódzki Szpital dla Nerwowo i Psychicznie Chorych im. Ks. Biskupa Nathana w Branicach,Szpitalna 18A,Branice,Powiat Głubczycki,48-140,,+48774868140,,,,,50.054209,17.7959403
+374,10374,Samorządowy Zakład Podstawowej Opieki Zdrowotnej,Osiedle Północ 10,Chęciny,Powiat Kielecki,26-060,,,,,,,50.8030391,20.4684241
+375,10375,"Sanatorium ""Leśnik""",23 Marca 105,Sopot,Sopot,81-704,,,,,,,54.4489182,18.5264537
+376,10376,Sanatorium Eskulap,Parkowa 5,Rymanów,Powiat Krośnieński,38-481,,+4813 43 574 64,,,,,49.547092,21.8516989
+377,10377,Sanatorium Polonia,Anny i Jana Potockich 1,Rymanów,Powiat Krośnieński,38-481,,+4813 43 574 18,,,,,49.5429381,21.8470554
+378,10378,Sanatorium Uzdrowiskowe Zimowit,Parkowa 4,Rymanów,Powiat Krośnieński,38-481,,+4813 43 572 31,,,No,,49.5429072,21.8529441
+379,10379,Silesia-Med S.A,nan nan,Miedźna,Powiat Pszczyński,43-227,,,,,,,49.9671731,19.0456292
+380,10380,Specjalistyczny Psychiatryczny Zespół Opieki Zdrowotnej,Aleksandrowska 159,Łódź,Łódź,90-132,,,,,,,51.8098992,19.350014
+381,10381,Specjalistyczny Szpital Ginekologiczno - Położniczy im. E. Biernackiego,nan nan,Wałbrzych,Wałbrzych,58-302,,,,,,,50.7714434,16.2891021
+382,10382,Specjalistyczny Szpital Miejski im. M. Kopernika,Stefana Batorego 17/19,Toruń,Toruń,87-100,,,,,Yes,,53.023324,18.620197
+383,10383,Specjalistyczny Szpital Wojewódzki,Powstańców Wielkopolskich 2,Ciechanów,Powiat Ciechanowski,06-400,,,,,,,52.8839764,20.6342488
+384,10384,Specjalistyczny Szpital im. dra Alfreda Sokołowskiego,Stefana Batorego 4,Wałbrzych,Wałbrzych,58-302,,,,,,,50.7764121,16.2768952
+385,10385,Specjalistyczny Szpital im.dra A. Sokołowskiego,nan nan,Wałbrzych,Wałbrzych,58-302,,,,,,,50.8021038,16.2790434
+386,10386,Specjalistyczny Zespół Gruźlicy I Chorób Płuc,nan nan,Koszalin,Koszalin,75-007,,,,,,,54.195031,16.175293
+387,10387,Specjalistyczny Zespół Opieki Zdrowotnej nad Matką: Zespół Poradni Specjalistycznych,nan nan,Poznań,Poznań,61-747,,,,,,,52.4159056,16.9206168
+388,10388,Stacja Pogotowia Ratunkowego w Mońkach,Aleja Wojska Polskiego 56,Mońki,Powiat Moniecki,19-100,,,,,,,53.4044533,22.8108279
+389,10389,Stacja Ratownictwa Medycznego,nan nan,Chełm,Chełm,22-100,,,,,,,51.1442836,23.4581796
+390,10390,Stacja dializ BBraun,nan nan,Garwolin,Powiat Garwoliński,08-400,,,,,,,51.872182,21.6363499
+391,10391,Stomatologi Protetyka,nan nan,Pabianice,Powiat Pabianicki,95-200,,,,,,,51.6603029,19.350338
+392,10392,Stomotolog,nan nan,Żelechów,Powiat Garwoliński,08-430,,,,,,,51.8104807,21.9132567
+393,10393,Strzelińskie Centrum Medyczne,nan nan,Strzelin,Powiat Strzeliński,57-100,,,,,Yes,,50.7891929,17.0697816
+394,10394,Szpital,nan nan,Bogatynia,Powiat Zgorzelecki,59-920,,,,,,,50.9071331,14.96977
+395,10395,Szpital,nan nan,Tomaszów Lubelski,Powiat Tomaszowski,22-600,,,,,,,50.4429847,23.4140112
+396,10396,Szpital,nan nan,Kościelisko,Powiat Tatrzański,34-511,,,,,,,49.2915186,19.8930496
+397,10397,Szpital,"Danuty Siedzikówny ""Inki"" 4",Iłża,Powiat Radomski,27-100,,,,,,,51.1657819,21.2329656
+398,10398,Szpital,Lubańska 11/12,Zgorzelec,Powiat Zgorzelecki,59-900,,,,,,,51.1581783,15.0109046
+399,10399,Szpital,nan nan,Leżajsk,Powiat Leżajski,37-300,,,,,,,50.2720585,22.4012874
+400,10400,Szpital,nan nan,Nowa Dęba,Powiat Tarnobrzeski,39-460,,,,,,,50.41915,21.7545081
+401,10401,Szpital,Stanisława Staszica 4,Stalowa Wola,Powiat Stalowowolski,37-450,,,,,,,50.563739,22.0676054
+402,10402,Szpital,Czesława Stęszewskiego 9,Koźmin Wielkopolski,Powiat Krotoszyński,63-720,,,,,,,51.8259181,17.4478644
+403,10403,Szpital,Mossego 1,Grodzisk Wielkopolski,Powiat Grodziski,62-065,,,,,,,52.2288544,16.3663534
+404,10404,Szpital,nan nan,Nowy Tomyśl,Powiat Nowotomyski,64-300,,,,,,,52.3161305,16.1405484
+405,10405,Szpital,Ogrodowa nan,Szubin,Powiat Nakielski,89-200,,,,,,,53.0084871,17.7301524
+406,10406,Szpital,Bodzentyńska 17,Iłża,Powiat Radomski,27-100,,,,,,,51.1611994,21.2338809
+407,10407,Szpital,Armii Krajowej 8,Biskupiec,Powiat Olsztyński,11-300,,,,,Yes,,53.8658572,20.9565281
+408,10408,"Szpital ""Biały Orzeł""",Parkowa 5,Mieroszów,Powiat Wałbrzyski,58-351,,,,,,,50.6847205,16.2364506
+409,10409,"Szpital ""Mikulicz""",nan nan,Świebodzice,Powiat Świdnicki,58-160,,,,,,,50.8545309,16.3212257
+410,10410,Szpital - Oddział 1,nan 61,Skąpe,Powiat Świebodziński,66-213,,,,,,,52.146956,15.409603
+411,10411,Szpital - Oddział 10(ZOL X),nan 54,Skąpe,Powiat Świebodziński,66-213,,,,,,,52.1458154,15.4067629
+412,10412,Szpital - Oddział 14B,nan 50,Skąpe,Powiat Świebodziński,66-213,,,,,,,52.144819,15.4058215
+413,10413,Szpital - Oddział 15,nan 48,Skąpe,Powiat Świebodziński,66-213,,,,,,,52.1443115,15.4057532
+414,10414,Szpital - Oddział 16C,nan 47,Skąpe,Powiat Świebodziński,66-213,,,,,,,52.1445268,15.404977
+415,10415,Szpital - Oddział 17,nan 46,Skąpe,Powiat Świebodziński,66-213,,,,,,,52.1438298,15.404753
+416,10416,Szpital - Oddział 18,nan 44,Skąpe,Powiat Świebodziński,66-213,,,,,,,52.1443113,15.4041351
+417,10417,Szpital - Oddział 19,nan 45,Skąpe,Powiat Świebodziński,66-213,,,,,,,52.1436556,15.4037793
+418,10418,Szpital - Oddział 2,nan 60,Skąpe,Powiat Świebodziński,66-213,,,,,,,52.1464782,15.4095451
+419,10419,Szpital - Oddział 3,nan 59,Skąpe,Powiat Świebodziński,66-213,,,,,,,52.1459771,15.409676
+420,10420,Szpital - Oddział 4,nan 58,Skąpe,Powiat Świebodziński,66-213,,,,,,,52.1456575,15.4094296
+421,10421,Szpital - Oddział 6,nan 56,Skąpe,Powiat Świebodziński,66-213,,,,,,,52.1449971,15.4085676
+422,10422,Szpital - Oddział 7,nan 66,Skąpe,Powiat Świebodziński,66-213,,,,,,,52.1470011,15.4074744
+423,10423,Szpital - Oddział 8,nan 65,Skąpe,Powiat Świebodziński,66-213,,,,,,,52.1466539,15.4075006
+424,10424,Szpital - Oddział 9,nan 55,Skąpe,Powiat Świebodziński,66-213,,,,,,,52.1461213,15.4072962
+425,10425,Szpital Asklepios,nan nan,Rzeszów,Rzeszów,35-074,,,,,,,50.0245487,22.0061156
+426,10426,Szpital Barlinek sp. z o.o.,nan nan,Barlinek,Powiat Myśliborski,74-320,,,,,,,52.9976806,15.2238067
+427,10427,Szpital Barska,nan nan,Włocławek,Włocławek,87-800,,,,,,,52.6506765,19.0922702
+428,10428,Szpital Bielański,Cegłowska 80,Warszawa,Warszawa,01-834,,,,,,,52.2862057,20.9521796
+429,10429,Szpital Chirurgii Małoinwazjnej i Rekonstrukcyjnej,nan nan,Bielsko-Biała,Bielsko-Biała,43-300,,,,,,,49.7851035,19.0301854
+430,10430,Szpital Chirurgii Urazowej,Bytomska 62,Piekary Śląskie,Piekary Śląskie,41-940,,,,,,,50.3719431,18.9470183
+431,10431,Szpital Chorób Płuc,Dworcowa 20,Orzesze,Powiat Mikołowski,43-187,,+48 32 2213661,,,,,50.1527347,18.7727436
+432,10432,Szpital Chorób Płuc im. K. Dłuskiego,nan nan,Wrocław,Wrocław,53-229,,,,,,,51.1020157,17.0069466
+433,10433,Szpital Chorób Płuc w Pilchowicach,Dworcowa 31,Pilchowice,Powiat Gliwicki,44-145,,,,,,,50.2147421,18.5628605
+434,10434,Szpital Czerniakowski,nan nan,Warszawa,Warszawa,00-762,,,,,,,52.205929,21.0369934
+435,10435,Szpital Dziecięcy Polanki,Polanki 119,Gdańsk,Gdańsk,80-328,,,,,,,54.3951194,18.5595638
+436,10436,Szpital Dziecięcy im. Bolesława Krysiewicza,nan nan,Poznań,Poznań,61-747,,,,,,,52.404163,16.9294335
+437,10437,Szpital Dziecięcy im. J. Korczaka,Ignacego Krasickiego 21,Jastrzębie-Zdrój,Jastrzębie-Zdrój,44-335,,,,,,,49.9602288,18.573874
+438,10438,Szpital Dziecięcy imienia profesora doktora Jana Bogdanowicza,nan nan,Warszawa,Warszawa,03-914,,,,,,,52.2350116,21.0615426
+439,10439,Szpital ESKULAP,Koperkowa 2,Osielsko,Powiat Bydgoski,86-031,,+48523265800,,,,,53.1772909,18.0616861
+440,10440,Szpital Geriatryczny im. Jana Pawła II w Katowicach,nan nan,Katowice,Katowice,40-022,,,,,,,50.2678355,19.0928538
+441,10441,Szpital Ginekologiczno-Położniczy im. Świętej Rodziny,Kazimierza Jarochowskiego 18,Poznań,Poznań,60-289,,,,,,,52.3955189,16.893848
+442,10442,Szpital Ginekologiczno-Położniczy im. Świętej Rodziny,Antoniego Józefa Madalińskiego 25,Warszawa,Warszawa,02-554,,,,,,,52.2043311,21.0163991
+443,10443,Szpital Grochowski,nan nan,Warszawa,Warszawa,04-083,,,,,,,52.2426462,21.0774323
+444,10444,Szpital Kardiologiczno-Onkologiczny Magodent,nan nan,Warszawa,Warszawa,03-982,,,,,,,52.2331948,21.0988984
+445,10445,Szpital Kardiologiczny,Aleja Jordana 2,Rabka-Zdrój,Powiat Nowotarski,34-700,,(18) 267 65 16,,,,,49.6070643,19.9571175
+446,10446,Szpital Kliniczny Nr 7 Górnośląskie Centrum Medyczne,Ziołowa 45/47,Katowice,Katowice,40-022,,,,,,,50.2094867,19.0011789
+447,10447,Szpital Kliniczny Przemienienia Pańskiego oddział ul. Długa,Długa 1/2,Poznań,Poznań,61-747,,+48 61 854 90 00,,,,,52.4026579,16.9362603
+448,10448,Szpital Kliniczny Przemienienia Pańskiego oddział ul. Szamarzewskiego,Augustyna Szamarzewskiego 82/84,Poznań,Poznań,60-584,,+48 61 854 90 00,,,,,52.4139182,16.8813899
+449,10449,Szpital Kliniczny WUM,nan nan,Warszawa,Warszawa,00-390,,,,,,,52.2456727,21.0222826
+450,10450,Szpital Kliniczny im. Heliodora Święcickiego,Stanisława Przybyszewskiego 49,Poznań,Poznań,60-289,,,,,,,52.4046017,16.8855051
+451,10451,Szpital Kliniczny im. Karola Jonschera,Szpitalna 27/33,Poznań,Poznań,60-584,,+48 61 849 12 00,,,,,52.4131916,16.8782285
+452,10452,Szpital Kolejowy,nan nan,Wilkowice,Powiat Bielski,43-365,,,,,,,49.7718594,19.090354
+453,10453,Szpital Kolejowy im. Włodzimierza Roeflera,Warsztatowa 1,Pruszków,Powiat Pruszkowski,05-800,,,,,,,52.1745009,20.8068768
+454,10454,Szpital MSW,nan nan,Wrocław,Wrocław,50-217,,,,,,,51.1247198,17.0359335
+455,10455,Szpital MSWiA,nan nan,Rzeszów,Rzeszów,35-074,,,,,,,50.0477065,21.98277
+456,10456,Szpital MSWiA,nan nan,Gdańsk,Gdańsk,80-142,,,,,,,54.3508918,18.6348426
+457,10457,Szpital MSWiA,Grenadierów 3,Lublin,Lublin,20-115,,,,,Yes,,51.228263,22.6127864
+458,10458,Szpital Medicover,nan nan,Warszawa,Warszawa,02-972,,,,,,,52.1547566,21.0763184
+459,10459,Szpital Miejski,nan nan,Przemyśl,Przemyśl,37-700,,,,,,,49.776767,22.7825713
+460,10460,Szpital Miejski,nan nan,Olsztyn,Olsztyn,10-118,,,,,,,53.7708314,20.4797983
+461,10461,Szpital Miejski,Oleśnicka 25,Syców,Powiat Oleśnicki,56-500,,,,,,,51.3031947,17.7052742
+462,10462,Szpital Miejski,Krakowska 77,Dębica,Powiat Dębicki,39-200,,,,,,,50.0389644,21.3930595
+463,10463,Szpital Miejski,Szpitalna 1,Sosnowiec,Sosnowiec,41-214,,,,,,,50.2974959,19.1818419
+464,10464,Szpital Miejski,nan nan,Piekary Śląskie,Piekary Śląskie,41-940,,,,,,,50.3749495,18.9537067
+465,10465,Szpital Miejski,Świętego Jana nan,Gniezno,Powiat Gnieźnieński,62-200,,,,,Yes,,52.5385706,17.5961309
+466,10466,Szpital Miejski,Konstytucji 3 Maja 35,Międzyrzecz,Powiat Międzyrzecki,66-300,,,,,Yes,,52.4398176,15.5842469
+467,10467,Szpital Miejski,3 Maja nan,Gniezno,Powiat Gnieźnieński,62-200,,,,,Yes,,52.5418021,17.5985952
+468,10468,Szpital Miejski Nr 4 z Przychodnią,Zygmunta Starego 20,Gliwice,Gliwice,44-100,,,,,,,50.2916425,18.6573571
+469,10469,Szpital Miejski Specjalistyczny imienia Gabriela Narutowicza,nan nan,Kraków,Kraków,31-262,,,,,Yes,,50.0834433,19.9379781
+470,10470,Szpital Miejski im. Jana Garduły,nan nan,Świnoujście,Świnoujście,72-602,,,,,,,53.910197,14.2568593
+471,10471,Szpital Miejski im. Jana Pawła II,Rycerska 4,Rzeszów,Rzeszów,35-074,,,,,,,50.0474761,22.0014772
+472,10472,Szpital Miejski im. Świętego Aleksandra - ArtMedik,Generała Tadeusza Kościuszki 25,Kielce,Kielce,25-525,,+48 41 341 78 00,,,,,50.8737142,20.6383903
+473,10473,Szpital Miejski nr.1,nan nan,Sosnowiec,Sosnowiec,41-214,,,,,,,50.2699867,19.1310267
+474,10474,Szpital Miejski w Proszowicach,nan nan,Proszowice,Powiat Proszowicki,32-100,,,,,,,50.1861862,20.2979416
+475,10475,Szpital Miejski w Siedlcach,nan nan,Siedlce,Siedlce,08-110,,,,,,,52.1691536,22.284419
+476,10476,Szpital Miejski w Tychach,nan nan,Tychy,Tychy,43-100,,,,,,,50.1194672,18.9820598
+477,10477,Szpital Miejski w Zabrzu,Zamkowa 4,Zabrze,Zabrze,41-800,,,,,,,50.3267322,18.8255014
+478,10478,Szpital Morski im. PCK,Powstania Styczniowego 1,Gdynia,Gdynia,81-364,,,,,,,54.4893523,18.5506582
+479,10479,Szpital Murcki,Alfreda Sokołowskiego 2,Katowice,Katowice,40-749,,+48 32 255 61 62,,,,,50.1978764,19.0390448
+480,10480,Szpital Na Wyspie,Pokoju 1a,Lubsko,Powiat Żarski,68-300,,,,,,,51.7935232,14.9745175
+481,10481,Szpital Na Wyspie,Pszenna 2,Żary,Powiat Żarski,68-200,,,,,Yes,,51.6444345,15.1522807
+482,10482,Szpital Neuropsychiatryczny,Abramowicka 2,Lublin,Lublin,20-115,,,,,,,51.2046306,22.5873647
+483,10483,Szpital Neuropsychiatryczny imienia Doktora Józefa Babińskiego,nan nan,Kraków,Kraków,30-394,,,,,,,50.0054078,19.8878965
+484,10484,Szpital Obserwacyjno Zakaźny i Hepatologii Zakaźnej,nan nan,Bytom,Bytom,41-902,,,,,,,50.3535226,18.9122842
+485,10485,Szpital Ogólny,Szpitalna 5,Wysokie Mazowieckie,Powiat Wysokomazowiecki,18-200,,,,,,,52.9156947,22.5214749
+486,10486,Szpital Ogólny im. dr Edmunda Wojtyły,nan nan,Bielsko-Biała,Bielsko-Biała,43-300,,,,,,,49.82274,19.033113
+487,10487,Szpital Pediatryczny,nan nan,Bielsko-Biała,Bielsko-Biała,43-300,,,,,,,49.819438,19.0266807
+488,10488,Szpital Powiatowy,Piastowska 64,Prudnik,Powiat Prudnicki,48-200,,,,,,,50.3229392,17.5682856
+489,10489,Szpital Powiatowy,Szpitalna nan,Lwówek Śląski,Powiat Lwówecki,59-600,,,,,,,51.1111792,15.5834118
+490,10490,Szpital Powiatowy,nan nan,Dzierżoniów,Powiat Dzierżoniowski,58-200,,,,,Yes,,50.7287569,16.6569057
+491,10491,Szpital Powiatowy,nan nan,Rawicz,Powiat Rawicki,63-900,,,,,,,51.6142868,16.8433772
+492,10492,Szpital Powiatowy,nan nan,Brodnica,Powiat Brodnicki,87-300,,,,,,,53.2619072,19.3918758
+493,10493,Szpital Powiatowy,Jana III Sobieskiego 9,Lubliniec,Powiat Lubliniecki,42-700,,+48 34 350 63 80,,,Yes,,50.6650156,18.6818683
+494,10494,Szpital Powiatowy,Inwalidów Wojennych 26,Wołów,Powiat Wołowski,56-100,,,,,,,51.3405759,16.6392728
+495,10495,Szpital Powiatowy,nan nan,Żywiec,Powiat Żywiecki,34-300,,+48 33 861-40-31,,,Yes,,49.6932754,19.2031152
+496,10496,Szpital Powiatowy,Jana Kochanowskiego 2,Lesko,Powiat Leski,38-600,,,,,Yes,,49.4749346,22.3340372
+497,10497,Szpital Powiatowy,nan nan,Starachowice,Powiat Starachowicki,27-200,,,,,,,51.0653471,21.0723237
+498,10498,Szpital Powiatowy,nan nan,Szczytno,Powiat Szczycieński,12-100,,,,,,,53.557599,20.9872388
+499,10499,Szpital Powiatowy,Józefa Chełmońskiego 1,Śrem,Powiat Śremski,63-100,,,,,,,52.0893181,17.0057831
+500,10500,"Szpital Powiatowy ""Zespół Opieki Zdrowotnej""",nan nan,Świętochłowice,Świętochłowice,41-605,,,,,,,50.3068235,18.9152631
+501,10501,Szpital Powiatowy - Oddział Chorób Wewnętrznych,Ignacego Jana Paderewskiego 11,Tczew,Powiat Tczewski,83-100,,,,,No,,54.0851851,18.798579
+502,10502,Szpital Powiatowy - Oddział Zakaźny,Grunwaldzka 64,Lubliniec,Powiat Lubliniecki,42-700,,+48 34 356 24 15,,,,,50.6623443,18.6800192
+503,10503,Szpital Powiatowy SPZOZ,Stanisława Duboisa 68,Ostrów Mazowiecka,Powiat Ostrowski,07-300,,,,,,,52.7989672,21.9120662
+504,10504,Szpital Powiatowy SPZZOZ. Oddział Psychiatryczny,nan nan,Czeladź,Powiat Będziński,41-250,,,,,,,50.3266315,19.0766701
+505,10505,Szpital Powiatowy ZZOZ,Aleja Wolności 4,Ostrzeszów,Powiat Ostrzeszowski,63-500,,,,,,,51.4256626,17.9278189
+506,10506,Szpital Powiatowy im. Aleksandra Majkowskiego w Kartuzach,Floriana Ceynowy 7,Kartuzy,Powiat Kartuski,83-300,,+48 58 685 48 00,,,Yes,,54.3368137,18.1977338
+507,10507,Szpital Powiatowy im. Edmunda Biernackiego w Opocznie,Partyzantów 30,Opoczno,Powiat Opoczyński,26-300,,44 754 48 04,,,,,51.3783074,20.277828
+508,10508,Szpital Powiatowy im. Jana Pawła II,Kardynała Stefana Wyszyńskiego 11,Bartoszyce,Powiat Bartoszycki,11-200,,,,,,,54.258791,20.7916239
+509,10509,Szpital Powiatowy im. Jana Pawła II w Gryfinie,Parkowa 5,Gryfino,Powiat Gryfiński,74-100,,+48 91 416 90 98;+48 91 416 23 54;+48 91 416 21 09,,,,,53.2548607,14.4912841
+510,10510,Szpital Powiatowy im. Jana Pawła II w Wadowicach,nan nan,Wadowice,Powiat Wadowicki,34-100,,,,,,,49.8810345,19.4918789
+511,10511,Szpital Powiatowy im. M. Kajki,Wolności 3,Mrągowo,Powiat Mrągowski,11-700,,,,,Yes,,53.8797395,21.303158
+512,10512,Szpital Powiatowy im. Marcela Nenckiego,nan nan,Krotoszyn,Powiat Krotoszyński,63-700,,,,,,,51.6983523,17.4325824
+513,10513,Szpital Powiatowy im. Polskiego Czerwonego Krzyża,nan nan,Nisko,Powiat Niżański,37-400,,,,,,,50.5199659,22.1426908
+514,10514,Szpital Powiatowy im. Prałata J.Glowatzkiego w Strzelcach Opolskich,nan nan,Strzelce Opolskie,Powiat Strzelecki,47-100,,,,,,,50.5153433,18.2928621
+515,10515,Szpital Powiatowy im. Zbigniewa Koprowskiego,nan nan,Sokołów Podlaski,Powiat Sokołowski,08-300,,,,,Yes,,52.4036237,22.2394627
+516,10516,Szpital Powiatowy imienia doktora Tytusa Chałubińskiego w Zakopanem,nan nan,Zakopane,Powiat Tatrzański,34-500,,,,,Yes,,49.3052848,19.9548294
+517,10517,Szpital Powiatowy imienia świętego Maksymiliana,Wysokie Brzegi 4,Oświęcim,Powiat Oświęcimski,32-600,,,,,,,50.0394198,19.2389987
+518,10518,Szpital Powiatowy w Białogardzie,nan nan,Białogard,Powiat Białogardzki,78-200,,,,,,,54.0076179,16.006636
+519,10519,Szpital Powiatowy w Białogardzie (stary szpital),nan nan,Białogard,Powiat Białogardzki,78-200,,,,,,,54.0070473,15.9697401
+520,10520,Szpital Powiatowy w Chrzanowie,nan nan,Chrzanów,Powiat Chrzanowski,32-500,,,,,Yes,,50.1344407,19.4292324
+521,10521,Szpital Powiatowy w Kolbuszowej,nan nan,Kolbuszowa,Powiat Kolbuszowski,36-100,,,,,Yes,,50.2434871,21.7628199
+522,10522,Szpital Powiatowy w Kraśniku,Fryderyka Chopina 13,Kraśnik,Powiat Kraśnicki,23-200,,,,,,,50.9326736,22.2218654
+523,10523,Szpital Powiatowy w Kętrzynie,Marii Skłodowskiej-Curie 2,Kętrzyn,Powiat Kętrzyński,11-400,,,,,Yes,,54.0825414,21.3755694
+524,10524,Szpital Powiatowy w Międzyrzecu Podlaskim,Warszawska 2-4,Międzyrzec Podlaski,Powiat Bialski,21-560,,+48833714011,,,,,51.9851536,22.7871129
+525,10525,Szpital Powiatowy w Mińsku Mazowieckim,nan nan,Mińsk Mazowiecki,Powiat Miński,05-300,,+48 25 758 30 01,,,,,52.1738692,21.580234
+526,10526,Szpital Powiatowy w Oleśnie,nan nan,Olesno,Powiat Oleski,46-300,,,,,,,50.8814855,18.4134058
+527,10527,Szpital Powiatowy w Otwocku,nan nan,Otwock,Powiat Otwocki,05-400,,,,,Yes,,52.0991115,21.2608026
+528,10528,Szpital Powiatowy w Oławie,nan nan,Oława,Powiat Oławski,55-200,,,,,Yes,,50.9510646,17.2839605
+529,10529,Szpital Powiatowy w Połczynie Zdroju,nan nan,Połczyn-Zdrój,Powiat Świdwiński,78-320,,94 366 18 07,,,,,53.7638725,16.0908042
+530,10530,Szpital Powiatowy w Pszczynie,nan nan,Pszczyna,Powiat Pszczyński,43-200,,,,,,,49.9736401,18.9384724
+531,10531,Szpital Powiatowy w Radomsku,nan nan,Radomsko,Powiat Radomszczański,97-500,,,,,,,51.0574863,19.4568294
+532,10532,Szpital Powiatowy w Ropczycach,nan nan,Ropczyce,Powiat Ropczycko-Sędziszowski,39-100,,,,,Yes,,50.0583934,21.6157441
+533,10533,Szpital Powiatowy w Rykach,nan nan,Ryki,Powiat Rycki,08-500,,,,,,,51.6220994,21.9292169
+534,10534,Szpital Powiatowy w Strzyżowie,nan nan,Strzyżów,Powiat Strzyżowski,38-100,,,,,,,49.8696942,21.784034
+535,10535,Szpital Powiatowy w Sławnie,nan nan,Sławno,Powiat Sławieński,76-100,,,,,,,54.3700839,16.6783058
+536,10536,Szpital Powiatowy w Słubicach,nan nan,Słubice,Powiat Słubicki,69-100,,,,,Yes,,52.3520726,14.5558683
+537,10537,Szpital Powiatowy w Tczewie,nan nan,Tczew,Powiat Tczewski,83-100,,,,,,,54.0835951,18.7900361
+538,10538,Szpital Powiatowy w Wołominie,nan nan,Wołomin,Powiat Wołomiński,05-200,,,,,Yes,,52.3461175,21.2208159
+539,10539,Szpital Powiatowy w Zambrowie,Papieża Jana Pawła II 3,Zambrów,Powiat Zambrowski,18-300,,,,,,,52.9883166,22.2534493
+540,10540,Szpital Powiatowy w Zawierciu,Miodowa 14,Zawiercie,Powiat Zawierciański,42-400,,+48 32 674 02 00,,,,,50.4821266,19.408142
+541,10541,Szpital Powiatowy w Łęcznej,Krasnystawska 52,Łęczna,Powiat Łęczyński,21-010,,,,,Yes,,51.2910235,22.8778786
+542,10542,Szpital Powiatowy we Wrześni,nan nan,Września,Powiat Wrzesiński,62-300,,,,,,,52.324746,17.5733251
+543,10543,Szpital Położniczo-Ginekologiczny Medikor,Rzemieślnicza 5,Nowy Sącz,Nowy Sącz,33-300,,,,,,,49.619088,20.7058127
+544,10544,Szpital Praski,"Aleja ""Solidarności"" 67",Warszawa,Warszawa,03-730,,22 818 50 61,,,,,52.2507462,21.0274388
+545,10545,Szpital Psychiatryczny,Sarzyńska 9,Koszalin,Koszalin,75-007,,,,,,,54.172213,16.1872914
+546,10546,Szpital Psychiatryczny,nan nan,Jarosław,Powiat Jarosławski,37-500,,,,,,,50.0188487,22.6739202
+547,10547,Szpital Psychiatryczny,nan nan,Frombork,Powiat Braniewski,14-530,,,,,,,54.3531398,19.6786019
+548,10548,Szpital Regionalistyczny w Łasinie,Grudziądzka 2,Łasin,Powiat Grudziądzki,86-320,,,,,,,53.5184698,19.0830049
+549,10549,Szpital Rehabilitacji Neurologicznej,nan nan,Konstancin-Jeziorna,Powiat Piaseczyński,05-510,,,,,No,,52.0704596,21.1216014
+550,10550,Szpital Rehabilitacyjno - Kardiologiczny w Kowanówku,Sanatoryjna nan,Oborniki,Powiat Obornicki,64-600,,,,,No,,52.6844006,16.8441649
+551,10551,Szpital Rehabilitacyjny MSWiA,nan 63,Krzemieniewo,Powiat Leszczyński,64-120,,+48 65 53 61 200; +48 65 53 69 452,,,No,,51.897223,16.7849706
+552,10552,Szpital Rehabilitacyjny Onkologiczno-Hematologiczny dla Dzieci Orlik,nan nan,Kudowa-Zdrój,Powiat Kłodzki,57-350,,,,,,,50.4750715,16.2779971
+553,10553,Szpital Rejonowy,nan nan,Lubaczów,Powiat Lubaczowski,37-600,,,,,Yes,,50.169911,23.1238773
+554,10554,Szpital Rejonowy,Powstania Wielkopolskiego 8,Strzelno,Powiat Mogileński,88-320,,,,,,,52.6271842,18.1735101
+555,10555,Szpital Rejonowy,Szpitalna nan,Nowa Ruda,Powiat Kłodzki,57-400,,+48 74 872 22 81,,,Yes,,50.5835532,16.4971451
+556,10556,Szpital Rejonowy im.dr Anki,Szkolna 1,Krzepice,Powiat Kłobucki,42-161,,,,,ambulance_station,,50.9702662,18.7285831
+557,10557,Szpital Rejonowy w Busku - Zdroju,Bohaterów Warszawy 69,Busko-Zdrój,Powiat Buski,28-100,,,,,Yes,,50.4668713,20.7014434
+558,10558,Szpital Reumatologiczno-Rehabilitacyjny,nan nan,Goczałkowice-Zdrój,Powiat Pszczyński,43-230,,,,,,,49.9382866,18.9796167
+559,10559,Szpital SPZOZ w Kępnie,nan nan,Kępno,Powiat Kępiński,63-600,,,,,,,51.2772816,17.9832529
+560,10560,Szpital Solec,nan nan,Warszawa,Warszawa,00-390,,222 506 100,,,,,52.2352017,21.029742
+561,10561,Szpital Specjalistyczny Centrum Medycznego MAVIT,Szopienicka 65,Katowice,Katowice,40-022,,+48 32 358-77-00,,,,,50.2468928,19.0801793
+562,10562,Szpital Specjalistyczny Chorób Płuc im. dr O. Sokołowskiego,Gładkie 1a,Zakopane,Powiat Tatrzański,34-500,,,,,,,49.297707,19.943907
+563,10563,Szpital Specjalistyczny Inflancka,nan nan,Warszawa,Warszawa,00-187,,,,,,,52.2549341,20.9922261
+564,10564,Szpital Specjalistyczny MSWiA,nan nan,Otwock,Powiat Otwocki,05-400,,,,,,,52.106024,21.2800536
+565,10565,Szpital Specjalistyczny Ministerstwa Spraw Wewnętrznych,Mieczysława Karłowicza nan,Głuchołazy,Powiat Nyski,48-340,,,,,,,50.3023347,17.3852376
+566,10566,Szpital Specjalistyczny Podkarpacki Ośrodek Onkologiczny,nan nan,Brzozów,Powiat Brzozowski,36-200,,,,,,,49.69153,22.02461
+567,10567,Szpital Specjalistyczny Prabuty,nan nan,Prabuty,Powiat Kwidzyński,82-550,,,,,,,53.7379295,19.2075269
+568,10568,Szpital Specjalistyczny Pro-Familia,nan nan,Łódź,Łódź,92-208,,+48 42 207 00 07,,,,,51.7555888,19.5070751
+569,10569,Szpital Specjalistyczny im. A.Falkiewicza,Warszawska 2,Wrocław,Wrocław,52-114,,,,,,,51.0642413,17.0780762
+570,10570,Szpital Specjalistyczny im. Edmunda Biernackiego,Stefana Żeromskiego 22,Mielec,Powiat Mielecki,39-300,,,,,,,50.2888956,21.4357934
+571,10571,Szpital Specjalistyczny im. Floriana Ceynowy w Wejherowie,Doktora Alojzego Jagalskiego 10,Wejherowo,Powiat Wejherowski,84-200,,,,,,,54.6129809,18.2447498
+572,10572,Szpital Specjalistyczny im. H. Klimontowicza,nan nan,Gorlice,Powiat Gorlicki,38-300,,,,,,,49.6502098,21.1648412
+573,10573,Szpital Specjalistyczny im. H. Klimontowicza,nan nan,Gorlice,Powiat Gorlicki,38-300,,,,,,,49.6496064,21.1636125
+574,10574,Szpital Specjalistyczny im. J. K. Łukowicza,nan nan,Chojnice,Powiat Chojnicki,89-600,,,,,,,53.7107348,17.5503116
+575,10575,Szpital Specjalistyczny im. Jędrzeja Śniadeckiego w Nowym Sączu,Młyńska 10,Nowy Sącz,Nowy Sącz,33-300,,,,,Yes,,49.6199439,20.6987663
+576,10576,Szpital Specjalistyczny im. S. Starkiewicza,nan nan,Dąbrowa Górnicza,Dąbrowa Górnicza,41-300,,,,,,,50.3212452,19.1761807
+577,10577,Szpital Specjalistyczny im. S. Starkiewicza Oddział Psychiatryczny,nan nan,Dąbrowa Górnicza,Dąbrowa Górnicza,41-300,,,,,,,50.3192631,19.2129055
+578,10578,Szpital Specjalistyczny im. Stanisława Staszica w Pile,Ludwika Rydygiera 1,Piła,Powiat Pilski,64-920,,672106666,,,Yes,,53.1223991,16.7176364
+579,10579,Szpital Specjalistyczny im. Świętej Rodziny,nan 600,Głogów Małopolski,Powiat Rzeszowski,36-054,,,,,,,50.1049166,21.9785647
+580,10580,Szpital Specjalistyczny imienia Jana Pawła II,nan nan,Kraków,Kraków,31-262,,,,,,,50.0897993,19.9324179
+581,10581,Szpital Specjalistyczny nr 1,nan nan,Bytom,Bytom,41-902,,,,,,,50.3539214,18.9225099
+582,10582,Szpital Specjalistyczny nr 2,Stefana Batorego 15,Bytom,Bytom,41-902,,,,,,,50.3479238,18.9073432
+583,10583,Szpital Specjalistyczny w Chorzowie,nan nan,Chorzów,Chorzów,41-506,,,,,,,50.2922992,18.9512691
+584,10584,Szpital Specjalistyczny w Kościerzynie,Alojzego Piechowskiego 36,Kościerzyna,Powiat Kościerski,83-400,,,,,Yes,,54.1219303,17.9500993
+585,10585,Szpital Stary,nan nan,Sanok,Powiat Sanocki,38-500,,,,,,,49.5558142,22.2031203
+586,10586,Szpital Szczecinek,nan nan,Szczecinek,Powiat Szczecinecki,78-400,,,,,Yes,,53.7118769,16.6790258
+587,10587,Szpital Tucholski,Bartłomieja Nowodworskiego nan,Tuchola,Powiat Tucholski,89-500,,,,,,,53.5896978,17.8616909
+588,10588,Szpital Tuszyn,nan nan,Tuszyn,Powiat Łódzki Wschodni,95-080,,,,,,,51.601824,19.4995818
+589,10589,Szpital Uniwersytecki CM UJ,nan nan,Kraków,Kraków,31-547,,,,,,,50.0613977,19.9481329
+590,10590,Szpital Uniwersytecki Collegium Medicum Uniwersytetu Jagiellońskiego,nan nan,Kraków,Kraków,31-141,,+48 12 430 5266,,,,,50.0468817,19.9428065
+591,10591,Szpital Uniwersytecki im. Karola Marcinkowskiego w Zielonej Górze,nan nan,Zielona Góra,Zielona Góra,65-052,,,,,Yes,,51.9399731,15.5186975
+592,10592,Szpital Uniwersytecki nr 1 im. dr. A. Jurasza,Marii Skłodowskiej-Curie 9,Bydgoszcz,Bydgoszcz,85-023,,,,,,,53.1278607,18.0288326
+593,10593,Szpital Uniwersytecki nr 2 im. dr Jana Biziela,Kornela Ujejskiego 75,Bydgoszcz,Bydgoszcz,85-023,,,,,,,53.116672,18.0248289
+594,10594,Szpital Uzdrowiskowo-Rehabilitacyjny POLEX,Jana Lorentowicza 4,Ciechocinek,Powiat Aleksandrowski,87-720,,+48 54 283 60 87,,,,,52.8764501,18.7939866
+595,10595,"Szpital Uzdrowiskowy dla Dzieci ""Stokrotka""",nan nan,Goczałkowice-Zdrój,Powiat Pszczyński,43-230,,,,,,,49.9396019,18.9800904
+596,10596,Szpital Uzdrowiskowy nr 1,Armii Krajowej 6,Ciechocinek,Powiat Aleksandrowski,87-720,,+48 54 283 60 73,,,,,52.8779459,18.7956889
+597,10597,"Szpital Uzdrowiskowy nr 4 ""Dom Zdrojowy""",Leśna 3,Ciechocinek,Powiat Aleksandrowski,87-720,,+48 54 283 6078,,,Yes,,52.8762056,18.7992096
+598,10598,Szpital Vital Medic,nan nan,Kluczbork,Powiat Kluczborski,46-200,,,,,,,50.9690422,18.2175522
+599,10599,Szpital Wielospecjalistyczny,Tadeusza Kościuszki 1,Gliwice,Gliwice,44-100,,+48 32 238-20-91,,,,,50.289044,18.6613725
+600,10600,Szpital Wielospecjalistyczny im. Stanleya Dudricka,Tyniecka 15,Skawina,Powiat Krakowski,32-050,,,,,,,49.9782595,19.8195918
+601,10601,Szpital Wielospecjalistyczny w Jaworznie,nan nan,Jaworzno,Jaworzno,43-602,,,,,,,50.2056632,19.2852219
+602,10602,Szpital Wojewódzki,Augustyna Kośnego 53,Opole,Opole,45-068,,+48 (77) 443-31-00,,,,,50.6718077,17.9348993
+603,10603,Szpital Wojewódzki,Szpitalna 1,Tarnobrzeg,Tarnobrzeg,39-400,,,,,,,50.5687037,21.6704214
+604,10604,Szpital Wojewódzki,nan nan,Skierniewice,Skierniewice,96-100,,,,,,,51.9639422,20.1527798
+605,10605,Szpital Wojewódzki Nr 2,Lwowska 60,Rzeszów,Rzeszów,35-074,,,,,,,50.0339896,22.0387917
+606,10606,Szpital Wojewódzki im. Jana Pawła II,nan nan,Bełchatów,Powiat Bełchatowski,97-400,,,,,,,51.3753513,19.3548378
+607,10607,Szpital Wojewódzki im. M. Kopernika,nan nan,Koszalin,Koszalin,75-007,,,,,Yes,,54.1993557,16.2111011
+608,10608,Szpital Wojewódzki im. Prymasa Kardynała Stefana Wyszyńskiego,nan nan,Sieradz,Powiat Sieradzki,98-200,,,,,,,51.5826827,18.7104774
+609,10609,Szpital Wojewódzki im. dr. Ludwika Rydygiera w Suwałkach,nan nan,Suwałki,Suwałki,16-400,,,,,,,54.117928,22.9270175
+610,10610,Szpital Wojewódzki w Bielsku-Białej,nan nan,Bielsko-Biała,Bielsko-Biała,43-300,,,,,,,49.7901228,19.0431546
+611,10611,Szpital Wolski im. doktor Anny Gostyńskiej,Marcina Kasprzaka 17,Warszawa,Warszawa,01-214,,,,,,,52.2271566,20.9710687
+612,10612,Szpital Zakonu Bonifatrów pw. Aniołów Stróżów,Leopolda Markiefki 87,Katowice,Katowice,40-022,,32 357-62-00,,,,,50.2686218,19.0408817
+613,10613,Szpital Zakonu Bonifratrów św. Jana Bożego,Kosynierów Gdyńskich 61,Łódź,Łódź,93-358,,+48 42 685 51 30,,,,,51.71778,19.4703379
+614,10614,Szpital Zespolony,nan nan,Kędzierzyn-Koźle,Powiat Kędzierzyńsko-Kozielski,47-200,,,,,,,50.3324067,18.1500595
+615,10615,Szpital dla Nerwowo i Psychicznie Chorych im. Stanisława Kryzana,Skarszewska 7,Starogard Gdański,Powiat Starogardzki,83-200,,,,,,,53.9767348,18.5076719
+616,10616,Szpital dla Przewlekle Chorych Dzieci z Rehabilitacją,3 Maja 35,Ostrów Wielkopolski,Powiat Ostrowski,63-400,,,,,,,51.6364594,17.8124985
+617,10617,Szpital im. Henryka Jordana,nan nan,Łódź,Łódź,91-357,,,,,,,51.8026661,19.4535886
+618,10618,Szpital im. Ignacego Mościckiego Lecznica Dzieci i Dorosłych,Powstańców 27,Chorzów,Chorzów,41-506,,,,,,,50.2933457,18.950531
+619,10619,Szpital im. Jana Bożego,Zbigniewa Herberta 21,Lublin,Lublin,20-115,,,,,Yes,,51.2153263,22.5693612
+620,10620,Szpital im. Jana Pawła II,Stefana Żeromskiego 28,Włoszczowa,Powiat Włoszczowski,29-100,,,,,,,50.8464519,19.9731347
+621,10621,Szpital im. Mikołaja Kopernika,nan nan,Gdańsk,Gdańsk,80-142,,,,,,,54.3502561,18.6367395
+622,10622,Szpital im. Mikołaja Kopernika,nan nan,Gdańsk,Gdańsk,80-142,,,,,,,54.3525794,18.6351402
+623,10623,Szpital im. Piotra Skargi,Księdza Piotra Skargi 10,Grójec,Powiat Grójecki,05-600,,,,,,,51.8677262,20.8678481
+624,10624,Szpital im. Radzimira Śmigielskiego,Szpitalna 5,Skwierzyna,Powiat Międzyrzecki,66-440,,+48 95 717 00 39,,,Yes,,52.5941214,15.505051
+625,10625,Szpital im. Tytusa Chałubińskiego,Bolesława Limanowskiego nan,Ostrów Wielkopolski,Powiat Ostrowski,63-400,,062 595-11-00,,,Yes,,51.6553568,17.8292807
+626,10626,Szpital im. dr. J. Dietla,nan nan,Krynica-Zdrój,Powiat Nowosądecki,33-380,,,,,,,49.4017116,20.953367
+627,10627,Szpital im. Świętego Ducha w Rawie Mazowieckiej,Warszawska 14,Rawa Mazowiecka,Powiat Rawski,96-200,,,,,Yes,,51.766499,20.2588668
+628,10628,Szpital im. św. Jadwigi Śląskiej,nan nan,Trzebnica,Powiat Trzebnicki,55-100,,,,,,,51.3189368,17.0604149
+629,10629,Szpital im.Sebastiana Petrycego,Szpitalna 1,Dąbrowa Tarnowska,Powiat Dąbrowski,33-200,,+48 14 642 28 31,,,No,,50.1767269,20.9745103
+630,10630,Szpital miejski,nan nan,Maków Mazowiecki,Powiat Makowski,06-200,,,,,,,52.8626942,21.0862767
+631,10631,Szpital miejski,Jana Pawła II 2,Pyrzyce,Powiat Pyrzycki,74-200,,,,,,,53.146932,14.8951722
+632,10632,Szpital miejski w Rabce Zdroju,Słoneczna 3,Rabka-Zdrój,Powiat Nowotarski,34-700,,,,,Yes,,49.6089083,19.9706168
+633,10633,Szpital nr 1,Marii Curie-Skłodowskiej 16,Głuchołazy,Powiat Nyski,48-340,,,,,,,50.3155926,17.3854369
+634,10634,Szpital nr 2,nan nan,Cieszyn,Powiat Cieszyński,43-400,,,,,,,49.7528882,18.6400149
+635,10635,Szpital nr 2,Józefa Lompy 2,Głuchołazy,Powiat Nyski,48-340,,,,,,,50.3019009,17.3833807
+636,10636,Szpital nr 2,nan nan,Cieszyn,Powiat Cieszyński,43-400,,,,,,,49.7530821,18.6400233
+637,10637,Szpital oddział zakaźny,nan nan,Grajewo,Powiat Grajewski,19-200,,,,,,,53.644812,22.4697083
+638,10638,"Szpital ortopedyczny ""ORTOPEDICUM""",Koło Strzelnicy 3,Kraków,Kraków,30-233,,+48 12 425 3851,,,,,50.0637818,19.8803494
+639,10639,Szpital powiatowy im. Marii Skłodowskiej-Curie,Bartoszycka 3,Lidzbark Warmiński,Powiat Lidzbarski,11-100,,,,,,,54.1258065,20.5909671
+640,10640,Szpital powiatowy w Pińczowie,nan nan,Pińczów,Powiat Pińczowski,28-400,,,,,Yes,,50.5181714,20.5298184
+641,10641,Szpital powiatowy w Więcborku,nan nan,Więcbork,Powiat Sępoleński,89-410,,,,,,,53.3553688,17.4908429
+642,10642,Szpital powiatowy w Wągrowcu,nan nan,Wągrowiec,Powiat Wągrowiecki,62-100,,+48 67 268 15 00,,,,,52.8176567,17.2037411
+643,10643,Szpital rejonowy,nan nan,Zwoleń,Powiat Zwoleński,26-700,,+48 676 2239,,,,,51.3553164,21.5807023
+644,10644,Szpital specjalistyczny imienia Stefana Żeromskiego,nan nan,Kraków,Kraków,31-985,,,,,Yes,,50.0636561,20.0474167
+645,10645,Szpital w Paczkowie im. Św. Jana Pawła II,Stanisława Staszica 3,Paczków,Powiat Nyski,48-370,,+48 77 43 90 308,,,,,50.4631834,17.0028333
+646,10646,Szpital w Słupcy,Traugutta 7,Słupca,Powiat Słupecki,62-400,,+48 63 275 23 00,,,,,52.2932784,17.8706689
+647,10647,Szpital w Wodzisławiu Śląskim,nan nan,Wodzisław Śląski,Powiat Wodzisławski,44-300,,,,,,,50.0096933,18.4609873
+648,10648,Szpital Śląski,nan nan,Cieszyn,Powiat Cieszyński,43-400,,,,,,,49.7461535,18.6384851
+649,10649,Szpital Średzki,Franciszka Żwirki i Stanisława Wigury 10,Środa Wielkopolska,Powiat Średzki,63-000,,,,,,,52.2276352,17.2852607
+650,10650,Szpital Św. Wojciecha,Aleja Jana Pawła II 50,Gdańsk,Gdańsk,80-464,,,,,Yes,,54.4040749,18.6129698
+651,10651,Szpital Świętej Anny,nan nan,Piaseczno,Powiat Piaseczyński,05-500,,,,,,,52.0617724,21.0256341
+652,10652,Szpital Świętej Anny,nan nan,Miechów,Powiat Miechowski,32-200,,,,,,,50.3542771,20.0338502
+653,10653,Szpital Świętej Trójcy,nan nan,Płock,Płock,09-402,,,,,,,52.5394412,19.6956636
+654,10654,Szpital św. Antoniego,Bolesława Chrobrego 5,Ząbkowice Śląskie,Powiat Ząbkowicki,57-200,,,,,,,50.5875696,16.8171632
+655,10655,Szpital św. Jerzego,Szpitalna nan,Kamień Pomorski,Powiat Kamieński,72-400,,,,,,,53.9698957,14.7774802
+656,10656,Szpital św. Rocha,Częstochowska 31,Ozimek,Powiat Opolski,46-040,,,,,,,50.6816811,18.2198894
+657,10657,Szpital św. Tadeusza,nan nan,Łuków,Powiat Łukowski,21-400,,,,,,,51.9251435,22.3784183
+658,10658,Szpital św. Wojciecha,nan nan,Poznań,Poznań,61-304,,+48 61 623 31 11,,,,,52.362602,16.9926794
+659,10659,Szpital świętej Elżbiety,Seweryna Goszczyńskiego 1,Warszawa,Warszawa,02-626,,,,,,,52.1955159,21.0201984
+660,10660,Szpitalny Oddział Ratunkowy,nan nan,Zawiercie,Powiat Zawierciański,42-400,,,,,Yes,,50.481391,19.4087415
+661,10661,ULTRAMEDIC Centrum Medyczne,Władysława Broniewskiego 48,Bielsko-Biała,Bielsko-Biała,43-300,,,,,,,49.8160822,19.0502748
+662,10662,Ujastek Grupa Neomedic,nan nan,Kraków,Kraków,31-985,,,,,,,50.0819687,20.069107
+663,10663,Uniwersytecka Klinika Stomatologiczna,Montelupich 4,Kraków,Kraków,31-141,,,,,,,50.07372,19.9406579
+664,10664,Uniwersytecki Szpital Dziecięcy,nan nan,Kraków,Kraków,30-864,,+48 12 658 20 11,,,Yes,,50.0135884,19.9997597
+665,10665,Uniwersytecki Szpital Dziecięcy w Lublinie,nan nan,Lublin,Lublin,20-115,,,,,,,51.260747,22.5599535
+666,10666,Uniwersytecki Szpital Kliniczny,Aleja Warszawska 30,Olsztyn,Olsztyn,10-118,,,,,,,53.7737975,20.469254
+667,10667,Uniwersytecki Szpital Kliniczny im. Jana Mikulicza-Radeckiego,nan nan,Wrocław,Wrocław,50-559,,,,,,,51.0727454,17.0320947
+668,10668,Uniwersytecki Szpital Kliniczny im. WAM - Centralny Szpital Weteranów,nan nan,Łódź,Łódź,90-563,,,,,,,51.7601882,19.4432056
+669,10669,Uniwersytecki Szpital Kliniczny im. WAM – Centralny Szpital Weteranów,nan nan,Łódź,Łódź,90-318,,,,,,,51.7790809,19.4683742
+670,10670,Uniwersytecki Szpital Kliniczny im. Wojskowej Akademii Medycznej,Stefana Żeromskiego 113,Łódź,Łódź,90-563,,+48 42 6393424,,,,,51.7592927,19.4477591
+671,10671,Uniwersytecki Szpital Kliniczny im. Wojskowej Akademii Medycznej,Plac generała Józefa Hallera 1,Łódź,Łódź,90-563,,,,,,,51.768176,19.4372567
+672,10672,Uniwersytecki Szpital Kliniczny nr 1 im. N. Barlickiego. SPZOZ,Doktora Stefana Kopcińskiego 22,Łódź,Łódź,92-208,,,,,,,51.7748992,19.4826244
+673,10673,Uniwersytecki Szpital Ortopedyczno Rehabilitacyjny w Zakopanem,nan nan,Zakopane,Powiat Tatrzański,34-500,,,,,,,49.2871461,19.9860094
+674,10674,Uniwersyteckie Centrum Kliniczne,Dębinki 7,Gdańsk,Gdańsk,80-208,,,,,,,54.3670961,18.6263015
+675,10675,Uniwersyteckie Centrum Kliniczne im. prof. K. Gibińskiego Śląskiego Uniwersytetu Medycznego w Katowicach,nan nan,Katowice,Katowice,40-022,,,,,,,50.2457764,19.018341
+676,10676,Uniwersyteckie Centrum Medycyny Morskiej i Tropikalnej,nan nan,Gdynia,Gdynia,81-364,,,,,No,,54.4875288,18.5474512
+677,10677,Utrata,nan nan,Pruszków,Powiat Pruszkowski,05-800,,,,,,,52.163468,20.8344012
+678,10678,Uzdrowiskowy Instytut Zdrowia,Sanatoryjna 7,Ustroń,Powiat Cieszyński,43-450,,,,,,,49.7218023,18.8253442
+679,10679,Uzdrowiskowy Szpital Dziecięcy „Olszówka”,Juliusza Słowackiego 8,Rabka-Zdrój,Powiat Nowotarski,34-700,,18 26 77 011,,,,,49.6107654,19.970421
+680,10680,VITA LONGA,Uniczowska 6,Katowice,Katowice,40-022,,,,,,,50.1759428,18.9694461
+681,10681,Vratislavia Medica,nan nan,Wrocław,Wrocław,51-126,,,,,,,51.1582036,17.0292403
+682,10682,WOPR,nan nan,Wolbórz,Powiat Piotrkowski,97-320,,,,,,,51.4440199,19.9237751
+683,10683,WSS Oddział Pulmonologiczny,nan nan,Słupsk,Słupsk,76-200,,,,,,,54.4726532,17.0258772
+684,10684,WSS im. M. Pirogowa. Ośrodek Szpitalny im. M. Madurowicza,nan nan,Łódź,Łódź,90-563,,,,,,,51.7524387,19.4250496
+685,10685,WSZPZO im. prof. Eugeniusza Wilczkowskiego,Zalesie nan,Gostynin (Gmina),Powiat Gostyniński,09-500,,,,,,,52.4007754,19.5037525
+686,10686,WZZOZ Centrum Leczenia Chorób Płuc i Rehabilitacji w Łodzi,Szpitalna 5,Tuszyn,Powiat Łódzki Wschodni,95-080,,+48 42 614 37 96,,,,,51.6002138,19.5042929
+687,10687,Warszawski Szpital Dla Dzieci,Mikołaja Kopernika 43,Warszawa,Warszawa,00-056,,,,,,,52.2376088,21.0193237
+688,10688,Wiejski Ośrodek Zdrowia,Józefa Suskiego 35,Oświęcim (Gmina),Powiat Oświęcimski,32-600,,,,,,,50.0175104,19.3159192
+689,10689,Wielkopolskie Centrum Onkologii,nan nan,Poznań,Poznań,61-747,,,,,,,52.4019993,16.9350138
+690,10690,Wielkopolskie Centrum Pulmonologii i Torakochirurgii im. Eugenii i Janusza Zeylandów,Strzelecka 32,Chodzież,Powiat Chodzieski,64-800,,67 2822837,,,,,52.9833724,16.9015677
+691,10691,Wielkopolskie Centrum Pulmonologii i Torakochirurgii im. Eugenii i Janusza Zeylandów,nan nan,Poznań,Poznań,60-584,,,,,,,52.4116553,16.8855454
+692,10692,Wielospecjalistyczna Przychodnia i Szpital chirurgii jednego dnia (w budowie),nan nan,Warszawa,Warszawa,03-257,,,,,,,52.3176464,21.0287805
+693,10693,Wielospecjalistyczny Szpital Miejski im. E. Warmińskiego,Szpitalna 19,Bydgoszcz,Bydgoszcz,85-023,,,,,,,53.1011525,18.0445249
+694,10694,Wielospecjalistyczny Szpital Miejski im. Józefa Strusia,nan nan,Poznań,Poznań,61-304,,,,,Yes,,52.390299,16.998308
+695,10695,Wielospecjalistyczny Szpital Powiatowy im. dr B. Hagera,Pyskowicka 47-51,Tarnowskie Góry,Powiat Tarnogórski,42-600,,+48 32 285-42-13,,,,,50.4386508,18.8041073
+696,10696,Wielospecjalistyczny Szpital SPZOZ w Nowej Soli,nan nan,Nowa Sól,Powiat Nowosolski,67-100,,,,,,,51.8073216,15.6864402
+697,10697,Wielospecjalistyczny Szpital Wojewódzki w Gorzowie Wielkopolskim,nan nan,Gorzów Wielkopolski,Gorzów Wielkopolski,66-400,,,,,Yes,,52.7621905,15.2352041
+698,10698,Wielospecjalistyczny Szpital Wojewódzki w Gorzowie Wielkopolskim,nan nan,Gorzów Wielkopolski,Gorzów Wielkopolski,66-400,,,,,Yes,,52.7548871,15.2616625
+699,10699,Wielospecjalistyczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych w Bydgoszczy,Księdza Ryszarda Markwarta 4-6,Bydgoszcz,Bydgoszcz,85-023,,,,,,,53.1264586,18.0120159
+700,10700,Wojewódzka Przychodnia Zdrowia Psychicznego w Bydgoszczy,Józefa Sułkowskiego 58A,Bydgoszcz,Bydgoszcz,85-023,,,,,,,53.1410544,18.0305872
+701,10701,Wojewódzka Stacja Krwiodawstwa,Jagiellońska 66,Kielce,Kielce,25-525,,+48 41 3359400,,,,,50.8733262,20.6051175
+702,10702,Wojewódzka Stacja Pogotowia Ratunkowego SP ZOZ w Suwałkach,Adama Mickiewicza 11,Suwałki,Suwałki,16-400,,,,,Yes,,54.09835,22.9251523
+703,10703,Wojewódzka Stacja Ratownictwa Medycznego,nan nan,Łódź,Łódź,90-318,,,,,,,51.754992,19.4636559
+704,10704,Wojewódzka Stacja Ratownictwa Medycznego,nan nan,Łódź,Łódź,90-318,,,,,,,51.7542881,19.4626958
+705,10705,Wojewódzki Ośrodek Lecznictwa Psychiatrycznego,Adama Mickiewicza 24/26,Toruń,Toruń,87-100,,,,,,,53.0122139,18.5913868
+706,10706,Wojewódzki Podkarpacki Szpital Psychiatryczny im. prof. Eugeniusza Brzezickiego,Różana 9,Żurawica,Powiat Przemyski,37-712,,,,,,,49.8256841,22.7665999
+707,10707,Wojewódzki Specjalistyczny Szpital im. M. Pirogowa (dawny szp. im. M. Madurowicza),Wileńska 37,Łódź,Łódź,90-563,,,,,,,51.7532157,19.4232894
+708,10708,Wojewódzki Specjalistyczny Szpital im. dr. Władysława Biegańskiego,Karola Kniaziewicza 1/5,Łódź,Łódź,91-357,,,,,Yes,,51.8011994,19.4359862
+709,10709,Wojewódzki Specjalistyczny Szpital imienia Mikołaja Pirogowa,nan nan,Łódź,Łódź,90-318,,,,,,,51.7514492,19.4544305
+710,10710,Wojewódzki Specjalistyczny Szpital imienia Mikołaja Pirogowa,Wólczańska 193/195,Łódź,Łódź,90-318,,,,,,,51.7517792,19.455217
+711,10711,Wojewódzki Specjalistyczny Zespół Neuropsychiatryczny,nan nan,Opole,Opole,45-068,,,,,,,50.6761642,17.9394115
+712,10712,Wojewódzki Specjalistyczny Zespół Zakładów Opieki Zdrowotnej Chorób Płuc i Gruźlicy,nan nan,Godziesze Wielkie,Powiat Kaliski,62-872,,,,,,,51.6979862,18.1475419
+713,10713,Wojewódzki Szpital Chirurgii Urazowej,nan nan,Warszawa,Warszawa,02-340,,,,,,,52.2194142,20.9780343
+714,10714,Wojewódzki Szpital Chorób Płuc im. dr Alojzego Pawelca,nan nan,Wodzisław Śląski,Powiat Wodzisławski,44-300,,,,,,,49.99847,18.4887471
+715,10715,Wojewódzki Szpital Dziecięcy im. J. Brudzińskiego w Bydgoszczy,nan nan,Bydgoszcz,Bydgoszcz,85-023,,,,,,,53.1296279,18.0266266
+716,10716,Wojewódzki Szpital Neuropsychiatryczny im. dr Emila Cyrana,Grunwaldzka 48,Lubliniec,Powiat Lubliniecki,42-700,,+48 34 353 28 00,,,,,50.6658049,18.6798716
+717,10717,Wojewódzki Szpital Neuropsychiatryczny imienia Oskara Bielawskiego,nan nan,Kościan,Powiat Kościański,64-000,,,,,,,52.0820588,16.6374687
+718,10718,Wojewódzki Szpital Obserwacyjno-Zakaźny,Świętego Floriana 12,Bydgoszcz,Bydgoszcz,85-023,,,,,,,53.1224982,18.0083532
+719,10719,Wojewódzki Szpital Obserwacyjno-Zakaźny,Zygmunta Krasińskiego 4/4a,Toruń,Toruń,87-100,,,,,,,53.0111493,18.5942619
+720,10720,Wojewódzki Szpital Okulistyczny,Osiedle Na Wzgórzach 17b,Kraków,Kraków,31-764,,,,,,,50.0994233,20.0636032
+721,10721,Wojewódzki Szpital Podkarpacki,nan nan,Krosno,Krosno,38-400,,,,,,,49.703496,21.7850762
+722,10722,Wojewódzki Szpital Psychiatryczny,nan nan,Andrychów,Powiat Wadowicki,34-120,,,,,,,49.8474628,19.3463883
+723,10723,Wojewódzki Szpital Psychiatryczny im. Tadeusza Bilikiewicza,Srebrniki 17,Gdańsk,Gdańsk,80-254,,,,,,,54.3745133,18.577691
+724,10724,Wojewódzki Szpital Psychiatryczny w Warcie,Sieradzka 3,Warta,Powiat Sieradzki,98-290,,,,,Yes,,51.704706,18.6260482
+725,10725,Wojewódzki Szpital Psychiatryczny w Warcie,Sieradzka 1,Warta,Powiat Sieradzki,98-290,,,,,,,51.7051934,18.6282054
+726,10726,Wojewódzki Szpital Psychiatryczny w Warcie,nan nan,Warta,Powiat Sieradzki,98-290,,,,,,,51.7041364,18.6279617
+727,10727,Wojewódzki Szpital Psychiatryczny w Warcie,nan nan,Warta,Powiat Sieradzki,98-290,,,,,,,51.703486,18.6295369
+728,10728,Wojewódzki Szpital Psychiatryczny w Złotoryi,nan nan,Złotoryja,Powiat Złotoryjski,59-500,,,,,,,51.1223726,15.906964
+729,10729,Wojewódzki Szpital Rehabilitacyjny dla Dzieci w Ameryce,nan nan,Olsztynek,Powiat Olsztyński,11-015,,,,,,,53.6170489,20.3148356
+730,10730,Wojewódzki Szpital Rehabilitacyjny im. dr. S. Jasińskiego w Zakopanem,nan nan,Zakopane,Powiat Tatrzański,34-500,,,,,No,,49.3125494,19.9613435
+731,10731,Wojewódzki Szpital Specjalistyczny,nan nan,Biała Podlaska,Biała Podlaska,21-500,,,,,,,52.0473592,23.1098975
+732,10732,Wojewódzki Szpital Specjalistyczny Nr 2 - Oddział pediatryczny,Ignacego Krasickiego 21,Jastrzębie-Zdrój,Jastrzębie-Zdrój,44-335,,,,,,,49.959572,18.5740457
+733,10733,Wojewódzki Szpital Specjalistyczny Nr 2 - Oddział pediatryczny,Ignacego Krasickiego 21,Jastrzębie-Zdrój,Jastrzębie-Zdrój,44-335,,,,,,,49.9597902,18.5737308
+734,10734,Wojewódzki Szpital Specjalistyczny dla Nerwowo i Psychicznie Chorych,nan nan,Skąpe,Powiat Świebodziński,66-213,,,,,,,52.1472212,15.4101815
+735,10735,Wojewódzki Szpital Specjalistyczny im. Fryderyka Chopina,Fryderyka Szopena nan,Rzeszów,Rzeszów,35-074,,,,,,,50.0348841,22.0084508
+736,10736,Wojewódzki Szpital Specjalistyczny im. J. Gromkowskiego,nan nan,Wrocław,Wrocław,51-143,,,,,,,51.1439634,17.0678492
+737,10737,Wojewódzki Szpital Specjalistyczny im. J. Korczaka,nan nan,Słupsk,Słupsk,76-200,,,,,,,54.4509957,17.0605403
+738,10738,Wojewódzki Szpital Specjalistyczny im. M. Kopernika,Pabianicka 62,Łódź,Łódź,93-358,,+48 42 6895000,,,,,51.731563,19.4540744
+739,10739,Wojewódzki Szpital Specjalistyczny im. Marii Skłodowskiej – Curie,Parzęczewska nan,Zgierz,Powiat Zgierski,95-100,,42 71 44 500,,,Yes,,51.8640546,19.3858702
+740,10740,Wojewódzki Szpital Specjalistyczny im. Najświętszej Maryi Panny,Bialska 104/118,Częstochowa,Częstochowa,42-218,,,,,,,50.8304413,19.0884438
+741,10741,Wojewódzki Szpital Specjalistyczny im. Stefana Wyszyńskiego,Aleja Kraśnicka 100,Lublin,Lublin,20-115,,+48 81 537-41-71,,,,,51.2380904,22.5032137
+742,10742,Wojewódzki Szpital Specjalistyczny im. św. Rafała w Czerwonej Górze,nan nan,Chęciny,Powiat Kielecki,26-060,,+48413465545,,,,,50.8232671,20.4889501
+743,10743,Wojewódzki Szpital Specjalistyczny imienia Ludwika Rydygiera,nan nan,Kraków,Kraków,31-836,,,,,Yes,,50.0910266,20.0205616
+744,10744,Wojewódzki Szpital Specjalistyczny nr 1,Edukacji 102,Tychy,Tychy,43-100,,,,,Yes,,50.1126076,19.0059043
+745,10745,Wojewódzki Szpital Specjalistyczny nr 3,Energetyków 46,Rybnik,Rybnik,44-200,,32 4291000,,,Yes,,50.112774,18.5196013
+746,10746,Wojewódzki Szpital Specjalistyczny nr 4,nan nan,Bytom,Bytom,41-902,,+48 32 281-02-71,,,,,50.3557058,18.9131102
+747,10747,Wojewódzki Szpital Specjalistyczny nr 5 im. Świętej Barbary,nan nan,Sosnowiec,Sosnowiec,41-214,,,,,,,50.3023513,19.1213631
+748,10748,Wojewódzki Szpital Specjalistyczny w Legnicy,nan nan,Legnica,Legnica,59-220,,,,,,,51.2073254,16.2193475
+749,10749,Wojewódzki Szpital Specjalistyczny we Wrocławiu,Henryka Michała Kamieńskiego 73a,Wrocław,Wrocław,51-126,,,,,,,51.1507047,17.0457466
+750,10750,Wojewódzki Szpital Zakaźny,nan nan,Warszawa,Warszawa,01-214,,,,,,,52.2329416,20.9713012
+751,10751,Wojewódzki Szpital Zespolony,nan nan,Skierniewice,Skierniewice,96-100,,,,,,,51.9638303,20.1537002
+752,10752,Wojewódzki Szpital Zespolony,nan nan,Skierniewice,Skierniewice,96-100,,,,,,,51.9637847,20.154448
+753,10753,Wojewódzki Szpital Zespolony,nan nan,Skierniewice,Skierniewice,96-100,,,,,,,51.9636352,20.153984
+754,10754,Wojewódzki Szpital Zespolony,Juraszów 7/19,Poznań,Poznań,60-626,,,,,,,52.4388806,16.9049989
+755,10755,Wojewódzki Szpital Zespolony,Grunwaldzka 45,Kielce,Kielce,25-525,,+48 41 367 13 01,,,,,50.8743938,20.6018485
+756,10756,Wojewódzki Szpital Zespolony - Szpital Dziecięcy,Konstytucji 3 Maja 42,Toruń,Toruń,87-100,,,,,Yes,,53.0220975,18.6919684
+757,10757,Wojewódzki Szpital Zespolony im. Jędrzeja Śniadeckiego,nan nan,Białystok,Białystok,15-007,,,,,,,53.1233625,23.1615988
+758,10758,Wojewódzki Szpital Zespolony im. L. Rydygiera,Świętego Józefa 53-59,Toruń,Toruń,87-100,,,,,Yes,,53.0262347,18.583293
+759,10759,Wojewódzki Szpital Zespolony im. Ludwika Perzyny,Poznańska 79,Kalisz,Kalisz,62-800,,+48 62 765 12 51,,,Yes,,51.7629323,18.067068
+760,10760,Wojewódzki Szpital Zespolony im. Ludwika Perzyny,Toruńska 7,Kalisz,Kalisz,62-800,,,,,,,51.768977,18.0999563
+761,10761,Wojewódzki Szpital Zespolony im. Marcina Kacprzaka w Płocku,Medyczna 19,Płock,Płock,09-402,,,,,Yes,,52.5579696,19.6545915
+762,10762,Wojewódzki Szpital Zespolony im. prof. dr. Witolda Orłowskiego w Częstochowie,Polskiego Czerwonego Krzyża 7,Częstochowa,Częstochowa,42-215,,,,,,,50.8302823,19.1103414
+763,10763,Wojewódzki Szpital Zespolony w Lesznie,Jana Kiepury 45,Leszno,Leszno,64-100,,,,,Yes,,51.8409448,16.6040808
+764,10764,Wojewódzki Szpital dla Nerwowo i Psychicznie Chorych,nan nan,Wołów,Powiat Wołowski,56-110,,,,,,,51.2790472,16.4568689
+765,10765,Wojewódzki Szpital dla Nerwowo i Psychicznie Chorych,nan nan,Bolesławiec,Powiat Bolesławiecki,59-700,,,,,No,,51.2588305,15.5875688
+766,10766,"Wojewódzki Szpital dla Nerwowo i Psychicznie Chorych ""Dziekanka"" im. Aleksandra Piotrowskiego",Poznańska nan,Gniezno,Powiat Gnieźnieński,62-200,,,,,,,52.5346041,17.5813588
+767,10767,Wojewódzki Szpital dla Nerwowo i Psychicznie Chorych w Sieniawce,Rolnicza 25,Bogatynia,Powiat Zgorzelecki,59-921,,,,,,,50.8920082,14.8396239
+768,10768,Wojewódzki Szpital im. Św. Ojca Pio w Przemyślu,nan nan,Przemyśl,Przemyśl,37-700,,,,,,,49.8102309,22.783052
+769,10769,Wojewódzki Zakład Opieki Psychiatrycznej w Sokołówce,nan nan,Koźminek,Powiat Kaliski,62-840,,+48627637013,,,,,51.8196115,18.3080056
+770,10770,Wojewódzki Zespół Zakładów Opieki Zdrowotnej – Centrum Leczenia Chorób Płuc i Rehabilitacji im. błogosławionego ojca Rafała Chylińskiego,nan nan,Łódź,Łódź,90-132,,+42 617 72 11,,,,,51.8471902,19.4753249
+771,10771,Wojewódzki ośrodek diabetologii i chorób metabolicznych,nan nan,Łódź,Łódź,90-318,,,,,,,51.7641264,19.4827371
+772,10772,Wojewódzkie Centrum Medyczne,nan nan,Opole,Opole,45-068,,,,,,,50.6753264,17.9756738
+773,10773,Wojewódzkie Centrum Pediatrii Kubalonka,nan nan,Istebna,Powiat Cieszyński,43-470,,,,,,,49.6007251,18.8990952
+774,10774,Wojewódzkie Centrum Psychiatrii Długoterminowej,Morawka 1,Stronie Śląskie,Powiat Kłodzki,57-550,,,,,,,50.2911204,16.8785177
+775,10775,Wojewódzkie Centrum Szpitalne Kotliny Jeleniogórskiej,Michała Kleofasa Ogińskiego 6,Jelenia Góra,Jelenia Góra,58-500,,,,,,,50.9142094,15.7658202
+776,10776,Wojskowy Instytut Medycyny Lotniczej,Zygmunta Krasińskiego 54/56,Warszawa,Warszawa,01-773,,,,,,,52.2611641,20.9628298
+777,10777,Wojskowy Ośrodek Medycyny Prewencyjnej,nan nan,Nowy Dwór Mazowiecki,Powiat Nowodworski,05-100,,,,,,,52.4339339,20.6647661
+778,10778,ZLA Amicus-Med,Klasztorna 9b,Kuźnia Raciborska,Powiat Raciborski,47-420,,+48 32 419 14 16,,,,,50.2011135,18.3151679
+779,10779,ZOZ Oddział II Wewnętrzny,Ekonomii 4,Skarżysko-Kamienna,Powiat Skarżyski,26-100,,,,,,,51.0996856,20.8697665
+780,10780,"ZZOZ Wadowice, Szpital powiatowy im. Jana Pawła II",Karmelicka 12,Wadowice,Powiat Wadowicki,34-100,,,,,,,49.880968,19.4906774
+781,10781,Zachodnie Centrum Medyczne,nan nan,Krosno Odrzańskie,Powiat Krośnieński,66-600,,,,,,,52.0578174,15.097368
+782,10782,Zachodniopomorskie Centrum Onkologii,nan nan,Szczecin,Szczecin,70-560,,,,,,,53.4673263,14.5922397
+783,10783,Zakład Opieki Długoterminowej i Paliacji,Marszałka Józefa Piłsudskiego 6,Błażowa,Powiat Rzeszowski,36-030,,+48 17 229 70 25,,,No,,49.8834167,22.101222
+784,10784,Zakład Opieki Zdrowotnej MSWiA im. prof. Ludwika Bierkowskiego,Dojazd 34,Poznań,Poznań,60-626,,,,,,,52.4372898,16.9046275
+785,10785,Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych i Administracji,nan nan,Szczecin,Szczecin,70-560,,+48 91 43 29 511,,,,,53.4360228,14.5233991
+786,10786,Zakład Opiekuńczo Leczniczy,nan nan,Brzeg,Powiat Brzeski,49-300,,,,,,,50.8565246,17.4785068
+787,10787,Zakład Opiekuńczo-Leczniczy,nan nan,Gniezno,Powiat Gnieźnieński,62-200,,,,,,,52.528329,17.572844
+788,10788,Zakład Opiekuńczo-Leczniczy,Parkowa nan,Głuchołazy,Powiat Nyski,48-340,,,,,,,50.305265,17.3835388
+789,10789,Zakład Pielęgnacyjno - Opiekuńczy imienia świętego Józefa w Pleszewie,nan nan,Pleszew,Powiat Pleszewski,63-300,,,,,,,51.8990348,17.78525
+790,10790,"Zespół Opieki Zdrowotnej ,,Szpitala Powiatowego” w Sochaczewie",nan nan,Sochaczew,Powiat Sochaczewski,96-500,,+48 46 864-95-00,,,,,52.2384086,20.2239274
+791,10791,Zespół Opieki Zdrowotnej Szpital Psychiatryczny,nan nan,Żyraków,Powiat Dębicki,39-204,,,,,,,50.0584532,21.3682963
+792,10792,Zespół Opieki Zdrowotnej w Bolesławcu,nan nan,Bolesławiec,Powiat Bolesławiecki,59-700,,,,,,,51.2553219,15.5673784
+793,10793,"Zespół Opieki Zdrowotnej w Chełmnie, Szpital Rejonowy im. L. Rydygiera",Ludwika Rydygiera 1,Chełmno,Powiat Chełmiński,86-200,,+48 56 677 26 07,,,,,53.3446928,18.419235
+794,10794,Zespół Opieki Zdrowotnej w Ostrowcu Świętokrzyskim,Karola Szymanowskiego 11,Ostrowiec Świętokrzyski,Powiat Ostrowiecki,27-400,,+4841 247 80 00,,,,,50.9526539,21.3602881
+795,10795,Zespół Opieki Zdrowotnej w Rydułtowach,nan nan,Rydułtowy,Powiat Wodzisławski,44-280,,,,,,,50.0600824,18.4250384
+796,10796,Zespół Opieki Zdrowotnej w Skarżysku-Kamiennej,Szpitalna 1,Skarżysko-Kamienna,Powiat Skarżyski,26-100,,,,,,,51.126421,20.8700827
+797,10797,Zespół Profilaktyki i Rehabilitacji,nan nan,Janowice Wielkie,Powiat Jeleniogórski,58-520,,,,,,,50.8917891,15.9285591
+798,10798,Zespół Szpitali Miejskich w Chorzowie,Strzelców Bytomskich 11,Chorzów,Chorzów,41-506,,32 349-91-15,,,,,50.2915995,18.9406385
+799,10799,"Zespół Szpitalno - Sanatoryjny ""ZACHĘTA""",Tadeusza Kościuszki 20,Ciechocinek,Powiat Aleksandrowski,87-720,,,,,No,,52.8791265,18.7974045
+800,10800,"Zespół Szpitalno - Sanatoryjny ""ZACHĘTA"" B",Tadeusza Kościuszki 14,Ciechocinek,Powiat Aleksandrowski,87-720,,,,,No,,52.8795493,18.7950995
+801,10801,"Zespół sanatoryjno-Szpitalny ""Gwarek""",nan nan,Goczałkowice-Zdrój,Powiat Pszczyński,43-230,,,,,,,49.9396019,18.9800904
+802,10802,ośrodek zdrowia,Stefana Żeromskiego 28,Krzczonów,Powiat Lubelski,23-110,,,,,,,51.0051922,22.7034606
+803,10803,przychodnia w małdytach,nan nan,Małdyty,Powiat Ostródzki,14-330,,,,,,,53.9206575,19.7409703
+804,10804,szpital psychiatryczny,nan nan,Toszek,Powiat Gliwicki,44-180,,,,,,,50.4527439,18.5232217
+805,10805,Łużyckie Centrum Medyczne,Zawidowska 4,Lubań,Powiat Lubański,59-800,,,,,,,51.1166863,15.2740571
+806,10806,Świętokrzyskie Centrum Rehabilitacji w Czarnieckiej Górze,nan 43,Stąporków,Powiat Konecki,26-220,,,,,,,51.1363269,20.528967
+807,10807,Żagiel Med Szpital,nan nan,Lublin,Lublin,20-115,,,,,,,51.2262329,22.5949052

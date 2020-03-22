@@ -1,0 +1,214 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+2,20002,Ambulatorio Vallobin,nan nan,Oviedo,Asturias,33012,,,,,Yes,,43.3687426,-5.8660012
+23,20023,CAP ARENYS DE MUNT,Carrer Verge del Remei nan,Arenys de Munt,Barcelona,08358,,+34 93 795 02 41,,,Yes,,41.6100409,2.5386195
+25,20025,CHARE,nan nan,Puente Genil,Andalucia,14500,,,,,Yes,,37.3987301,-4.7519757
+39,20039,Centro Materno Infantil Nosa Sra. de Belén,Rúa Filantropía 3,A Coruña,Galicia,15011,,,,,Yes,,43.3656378,-8.4148806
+51,20051,Centro de Alta Resolución,Plaza del Molinillo nan,Trujillo,Extremadura,10200,,,,,Yes,,39.4546291,-5.8826599
+58,20058,Centro de Especialidades Zaídin,nan nan,Granada,Andalucia,18007,,,,,Yes,,37.1610753,-3.5997961
+68,20068,Centro de Salud,Calle Plaza de Abajo nan,Sacedón,Guadalajara,19120,,+34 949350676,,,Yes,,40.4824495,-2.7325146
+72,20072,Centro de Salud Adeje,nan nan,Adeje,Santa Cruz de Tenerife,38670,,,,,Yes,,28.1183824,-16.7271976
+76,20076,Centro de Salud Barrio de la Salud,nan nan,Santa Cruz de Tenerife,Santa Cruz de Tenerife,38007,,,,,Yes,,28.4668162,-16.2699171
+83,20083,Centro de Salud La Isleta,nan nan,Las Palmas de Gran Canaria,Las Palmas,35008,,,,,Yes,,28.1487683,-15.4239673
+85,20085,Centro de Salud Las Ciudades,nan nan,Getafe,Madrid,28901,,,,,Yes,,40.3148017,-3.7143714
+107,20107,Centro de Salud de Guanarteme,nan nan,Las Palmas de Gran Canaria,Las Palmas,35010,,,,,Yes,,28.1270906,-15.4410807
+117,20117,Centro de especialidades,Severo Ochoa nan,Daimiel,Ciudad Real,13250,,,,,Yes,,39.0645715,-3.6155717
+118,20118,Centro de salud,Avenida del Barco nan,Marmolejo,Andalucia,23770,,,,,Yes,,38.0428518,-4.1730251
+121,20121,Centro de salud Playa de Arinaga,nan nan,Agüimes,Las Palmas,35118,,,,,Yes,,27.8595131,-15.3935692
+127,20127,Ciudad Sanitaria La Paz.,nan nan,Madrid,Madrid,28029,,,,,Yes,,40.4824744,-3.6885105
+133,20133,Clínica Asepeyo,nan nan,Coslada,Madrid,28821,,,,,Yes,,40.4367453,-3.5320201
+137,20137,Clínica Diagonal,nan nan,Esplugues de Llobregat,Barcelona,08950,,,,,Yes,,41.3786157,2.097056
+140,20140,Clínica La Inmaculada,nan nan,Granada,Andalucia,18004,,,,,Yes,,37.1639549,-3.6075349
+157,20157,Clínica Santa Elena,nan nan,Torremolinos,Andalucia,29620,,,,,Yes,,36.6462076,-4.4882498
+159,20159,Clínica Teknon,nan nan,Barcelona,Barcelona,08022,,,,,Yes,,41.4051163,2.1276668
+160,20160,Clínica Universidad de Navarra,Avenida Pío XII 36,Pamplona,Navarra,31003,,,,,Yes,,42.8049517,-1.6634949
+167,20167,Complejo Asistencial Universitario de León,nan nan,León,León,24002,,,,,Yes,,42.6199801,-5.5743089
+168,20168,Complejo Asistencial de Segovia,nan nan,Segovia,Segovia,40003,,,,,Yes,,40.9424948,-4.1305351
+169,20169,Complejo Hopitaliario Provincial de Toledo,nan nan,Toledo,Toledo,45006,,,,,Yes,,39.8612803,-4.0144969
+174,20174,Complejo Hospitalario de Navarra,Calle Irunlarrea 3,Iruña,Nafarroa,31008,,+34 848422222,,,Yes,,42.8052635,-1.672899
+176,20176,Complexo Hospitalario Universitario da Coruña,As Xubias de Arriba 84,A Coruña,Galicia,15003,,+34 981 178000,,,Yes,,43.3428908,-8.3889643
+177,20177,Complexo Hospitalario Universitario de Ourense,Rúa Ramón Puga Noguerol 52,Ourense,Galicia,32003,,+34988385500,,,Yes,,42.324697,-7.8595439
+178,20178,Complexo Hospitalario Universitario de Santiago,Rúa da Choupana nan,Santiago de Compostela,Galicia,15702,,+34 981950000,,,Yes,,42.869999,-8.565157
+192,20192,Consultorio Médico,Calle de los Donantes de Sangre 3,Lardero,La Rioja,26140,,,,,Yes,,42.4297975,-2.4592576
+193,20193,Consultorio de Panes,La Plaza nan,Peñamellera Baja,Asturias,33570,,+34 985 414 043,,,Yes,,43.3225772,-4.584151
+195,20195,Cruz Roja,nan nan,Olmedo,Valladolid,47410,,,,,Yes,,41.2815781,-4.68177
+212,20212,Espitau Val d'Aran,nan nan,Vielha E Mijaran,Lleida,25530,,,,,Yes,,42.7023853,0.7970658
+218,20218,Fundación Hospital de Avilés,nan nan,Avilés,Asturias,33401,,,,,Yes,,43.5549827,-5.9261644
+222,20222,Gernikako Ospitalea,nan nan,Gernika-Lumo,Pais Vasco,48300,,,,,Yes,,43.3188882,-2.671891
+226,20226,Gurutzetako Ospitalea,nan nan,Barakaldo,Pais Vasco,48901,,,,,Yes,,43.2832627,-2.9838558
+230,20230,Hospital,nan nan,Teruel,Aragon,44001,,,,,Yes,,40.3334846,-1.1065399
+232,20232,"Hospital ""Juan Ramón Jiménez""",Ronda Norte nan,Huelva,Andalucia,21003,,,,,Yes,,37.280861,-6.9276097
+238,20238,Hospital Arquitecto Marcide,Avenida Residencia nan,Ferrol,Galicia,15403,,+34 981334000,,,Yes,,43.5102356,-8.2168375
+247,20247,Hospital Casa Maternitat,nan nan,Barcelona,Barcelona,08028,,,,,Yes,,41.3850391,2.1229266
+251,20251,Hospital Ciudad de Coria,nan nan,Coria,Extremadura,10800,,,,,Yes,,39.9903825,-6.542675
+254,20254,Hospital Clínic,nan nan,Barcelona,Barcelona,08029,,,,,Yes,,41.3888263,2.15241
+255,20255,Hospital Clínica Benidorm,Avinguda d'Alfonso Puchades 8,Benidorm,Alacant,03501,,+34 965 85 38 50,,,Yes,,38.5432766,-0.1293041
+256,20256,Hospital Clínico Universitario,Paseo de San Vicente 182,Salamanca,Salamanca,37007,,+34 923 291 100,,,Yes,,40.9640108,-5.6753893
+258,20258,Hospital Clínico Universitario Virgen de la Arrixaca,nan nan,Murcia,Murcia,30120,,,,,Yes,,37.9302204,-1.1641352
+259,20259,Hospital Clínico Universitario Virgen de la Victoria,nan nan,Málaga,Andalucia,29010,,+34 951 03 20 00,,,Yes,,36.7194147,-4.4791055
+260,20260,Hospital Clínico Universitario de Valladolid,Calle Real de Burgos 3,Valladolid,Valladolid,47011,,,,,Yes,,41.6557982,-4.7171031
+261,20261,Hospital Comarcal,nan nan,Melilla,Melilla,52004,,,,,Yes,,35.2861272,-2.9482513
+264,20264,Hospital Comarcal Sant Jaume,nan nan,Calella,Barcelona,08370,,,,,Yes,,41.6156937,2.6567306
+266,20266,Hospital Comarcal Vega Baja,nan nan,Orihuela,Comunidad Valenciana,03300,,,,,Yes,,38.0867509,-0.8539921
+269,20269,Hospital Comarcal d'Inca,Camí vell de Llubí nan,Inca,Illes Balears,07300,,,,,Yes,,39.7153837,2.9197169
+270,20270,Hospital Comarcal da Barbanza,Lugar Salmón nan,Ribeira,Galicia,15960,,+34 981835985,,,Yes,,42.594326,-8.9998163
+271,20271,Hospital Comarcal de Antequera,Avenida Muñoz Rojas nan,Antequera,Andalucia,29200,,+34 951 061 600,,,Yes,,37.0298039,-4.5265195
+275,20275,Hospital Comarcal de Valdeorras,Avenida Conde de Fenosa 50,O Barco de Valdeorras,Galicia,32314,,+34 988339000,,,Yes,,42.4172417,-6.9917452
+276,20276,Hospital Comarcal de la Línea de la Concepción,nan nan,La Línea de la Concepción,Andalucia,11300,,,,,Yes,,36.1750583,-5.3542044
+277,20277,Hospital Comarcal de la Marina Baixa,nan nan,Villajoyosa,Comunidad Valenciana,03570,,,,,Yes,,38.5307318,-0.1983847
+278,20278,Hospital Comarcal de la Merced,nan nan,Osuna,Andalucia,41640,,,,,Yes,,37.2314356,-5.0956803
+280,20280,Hospital Comarcal do Salnés,nan nan,Vilagarcía de Arousa,Galicia,36600,,+34 986568000,,,Yes,,42.5747694,-8.7257024
+282,20282,Hospital Doctor Gálvez,Calle San Agustín 1,Málaga,Andalucia,29008,,+24 952224295,,,Yes,,36.7210957,-4.4194864
+284,20284,Hospital Don Benito-Villanueva de la Serena,Avenida de las Vegas Altas nan,Don Benito,Extremadura,06400,,+34 924 38 68 00,,,Yes,,38.9637476,-5.8281772
+286,20286,Hospital Dr. Josep Trueta,Avinguda de França nan,Girona,Girona,17007,,,,,Yes,,41.9982129,2.819705
+293,20293,Hospital García Orcoyen,nan nan,Estella,Navarra,31200,,,,,Yes,,42.684129,-2.0382588
+294,20294,Hospital General,nan nan,Requena,Comunidad Valenciana,46340,,,,,Yes,,39.4877633,-1.0897334
+298,20298,Hospital General Universitari,Avenida de las Tres Cruces nan,Valencia,Comunidad Valenciana,46014,,,,,Yes,,39.4694036,-0.4064932
+299,20299,Hospital General Universitari d'Elx,nan nan,Elche,Comunidad Valenciana,03203,,,,,Yes,,38.2594241,-0.6844712
+300,20300,"Hospital General Universitario ""Reina Sofía""",nan nan,Murcia,Murcia,30003,,,,,Yes,,37.9835265,-1.1198154
+301,20301,Hospital General Universitario Gregorio Marañón.,nan nan,Madrid,Madrid,28009,,,,,Yes,,40.4182536,-3.6730115
+302,20302,Hospital General Universitario Los Arcos del Mar Menor,Paraje Torre Octavio 54,San Javier,Murcia,30730,,,,,Yes,,37.8211351,-0.8625417
+304,20304,Hospital General Universitario Santa Lucía,nan nan,Cartagena,Murcia,30203,,,,,Yes,,37.6000142,-0.9633342
+305,20305,Hospital General Universitario Santa Lucía,nan nan,Cartagena,Murcia,30203,,,,,Yes,,37.5999169,-0.962264
+306,20306,Hospital General Universitario Santa Lucía - SMS,nan nan,Cartagena,Murcia,30203,,,,,Yes,,37.6000142,-0.9633342
+307,20307,Hospital General Universitario Sta. María del Rosell,nan nan,Cartagena,Murcia,30203,,,,,Yes,,37.6090827,-0.9763467
+308,20308,Hospital General Universitario de Albacete,nan nan,Albacete,Albacete,02002,,,,,Yes,,38.9861461,-1.8460198
+309,20309,Hospital General Universitario de Alicante,nan nan,Alicante,Comunidad Valenciana,03010,,,,,Yes,,38.3641619,-0.4881157
+310,20310,Hospital General Vall d'Hebron,nan nan,Barcelona,Barcelona,08035,,,,,Yes,,41.4271042,2.1420979
+313,20313,Hospital General de Baza,Carretera de Murcia nan,Baza,Andalucia,18800,,+34 958 86 31 52,,,Yes,,37.5015002,-2.7533949
+316,20316,Hospital General de Ciudad Real,nan nan,Ciudad Real,Ciudad Real,13001,,,,,Yes,,38.9688296,-3.9320852
+318,20318,Hospital General de Elda,nan nan,Elda,Comunidad Valenciana,03600,,,,,Yes,,38.4941963,-0.8072375
+321,20321,Hospital General de l'Hospitalet,nan nan,l'Hospitalet de Llobregat,Barcelona,08901,,,,,Yes,,41.3736461,2.1063481
+325,20325,Hospital HLA San Carlos,nan nan,Dénia,Alacant,03700,,+34 965 78 15 50,,,Yes,,38.8381615,0.093222
+327,20327,Hospital Hospiten de Estepona,nan nan,Estepona,Andalucia,29680,,,,,Yes,,36.4530586,-5.0851023
+329,20329,Hospital IMED-Valencia,Avenida de la Ilustración 1,Burjassot,València,46100,,+34 963 00 30 03,,,Yes,,39.5016118,-0.4084591
+333,20333,Hospital Infanta Elena.,nan nan,Valdemoro,Madrid,28343,,,,,Yes,,40.1975144,-3.6986235
+337,20337,Hospital Insular Nuestra Señora de los Reyes,Calle Los Barriales 1,Valverde,Santa Cruz de Tenerife,38900,,+34-922-553500,,,Yes,,27.813664,-17.9163241
+341,20341,Hospital La Inmaculada,Avenida de la Doctora Ana Parra nan,Huércal-Overa,Andalucia,04600,,,,,Yes,,37.4019201,-1.9436087
+343,20343,Hospital Lluís Alcanyís,nan nan,Xàtiva,València,46800,,,,,Yes,,39.0076068,-0.5091424
+347,20347,Hospital Madrid - Torrelodones,nan nan,Torrelodones,Madrid,28250,,,,,Yes,,40.5703659,-3.9261367
+348,20348,Hospital Mancha Centro,nan nan,Alcázar de San Juan,Ciudad Real,13600,,,,,Yes,,39.3957828,-3.2205388
+349,20349,Hospital Mare de Déu de la Mercè,Passeig Universal 34-44,Barcelona,Barcelona,08042,,+34 934 27 52 50,,,Yes,,41.4379097,2.1622909
+350,20350,Hospital Marina Salud Denia,nan nan,Dénia,Alacant,03700,,,,,Yes,,38.833935,0.0581953
+354,20354,Hospital Materno Infantil,Calle La Violeta nan,Badajoz,Extremadura,06004,,,,,Yes,,38.8660543,-6.9719154
+355,20355,Hospital Materno Infantil Teresa Herrera,As Xubias de Abaixo nan,A Coruña,Galicia,15003,,+34 981 178000,,,Yes,,43.33898,-8.3878796
+362,20362,Hospital Modelo,Rúa Virrey Osorio 30,A Coruña,Galicia,15011,,+34 981147300,,,Yes,,43.3665879,-8.4182543
+365,20365,Hospital Montecelo,Estrada Mourente nan,Pontevedra,Galicia,36002,,+34 986800000,,,Yes,,42.4294011,-8.6150643
+368,20368,Hospital Mútua de Terrassa,nan nan,Terrassa,Barcelona,08221,,,,,Yes,,41.5639461,2.0167974
+370,20370,Hospital Mútua de Terrassa,nan nan,Terrassa,Barcelona,08221,,,,,Yes,,41.5638221,2.0162174
+371,20371,Hospital NISA Aljarafe,Avenida Plácido Fernández Viagas nan,Castilleja de la Cuesta,Andalucia,41950,,,,,Yes,,37.3919539,-6.0627747
+373,20373,Hospital Naval,nan nan,Ferrol,Galicia,15405,,,,,Yes,,43.511898,-8.2088869
+376,20376,Hospital Nisa 9 de Octubre,Carrer de la Vall de la Ballestera 59,València,València,46015,,+34 963179100,,,Yes,,39.4783632,-0.4023166
+386,20386,Hospital Perpetuo Socorro,nan nan,Albacete,Albacete,02006,,,,,Yes,,38.9884595,-1.8731877
+387,20387,Hospital Perpetuo Socorro,nan nan,Cartagena,Murcia,30203,,,,,Yes,,37.6145855,-0.997121
+388,20388,Hospital Perpetuo Socorro,nan nan,Badajoz,Extremadura,06004,,,,,Yes,,38.8664622,-6.9708727
+390,20390,Hospital Profesor Novoa Santos,Estrada de Catabois 730,Ferrol,Galicia,15403,,+34 981 334000,,,Yes,,43.5158693,-8.2200605
+393,20393,Hospital Provincial Ortiz de Zárate,nan nan,Guadalajara,Guadalajara,19001,,,,,Yes,,40.6407346,-3.1724711
+395,20395,Hospital Provincial de Conxo,Rúa de Ramón Baltar nan,Santiago de Compostela,Galicia,15702,,+34 981 951900,,,Yes,,42.8596386,-8.5523618
+396,20396,Hospital Provincial de Pontevedra,Rúa Doctor Loureiro Crespo 2,Pontevedra,Galicia,36002,,+34 986807000,,,Yes,,42.4277707,-8.6372844
+403,20403,Hospital Público Gutiérrez Ortega,Avenida de los Estudiantes nan,Valdepeñas,Ciudad Real,13300,,,,,Yes,,38.7707255,-3.3936056
+404,20404,Hospital Público de Montilla,nan nan,Montilla,Andalucia,14550,,,,,Yes,,37.564367,-4.6482905
+414,20414,Hospital Quirónsalud,nan nan,Albacete,Albacete,02002,,+34 967 247 100,,,Yes,,38.9851547,-1.8442387
+415,20415,Hospital Quirónsalud A Coruña,Rúa Londres 2,A Coruña,Galicia,15003,,,,,Yes,,43.3287601,-8.4001852
+418,20418,Hospital Recoletas,Calle del Doctor Velasco 21-23,Segovia,Segovia,40003,,+34 921 46 01 15,,,Yes,,40.9527888,-4.1245156
+419,20419,Hospital Recoletas Campo Grande,Calle de la Estación del Norte nan,Valladolid,Valladolid,47007,,+34 983 13 55 55,,,Yes,,41.6441737,-4.7278114
+422,20422,Hospital Regional Universitario de Málaga,nan nan,Málaga,Andalucia,29010,,,,,Yes,,36.7228578,-4.4506936
+425,20425,Hospital Rey Don Jaime,nan nan,Castellón de la Plana,Comunidad Valenciana,12002,,,,,Yes,,39.9975759,-0.037088
+426,20426,Hospital Rey Don Jaime,Calle de Santa María Rosa Molas 25,Castellón de la Plana,Comunidad Valenciana,12002,,,,,Yes,,39.9974086,-0.0364203
+427,20427,Hospital Rey Juan Carlos I,Calle Gladiolo nan,Móstoles,Madrid,28931,,,,,Yes,,40.3388721,-3.8734781
+429,20429,Hospital San Agustin,nan nan,Linares,Andalucia,23700,,,,,Yes,,38.0895711,-3.6445569
+431,20431,Hospital San Cecilio,nan nan,Armilla,Andalucia,18100,,+34 958 02 30 00,,,Yes,,37.1478516,-3.6071258
+437,20437,Hospital San Juan Grande,Glorieta Félix Rodríguez de la Fuente 1,Jerez de la Frontera,Andalucia,11408,,,,,Yes,,36.6917233,-6.1507303
+438,20438,Hospital San Juan de Dios,nan nan,Córdoba,Andalucia,14012,,,,,Yes,,37.9096636,-4.7940016
+442,20442,Hospital San Juan de Dios Aljarafe,Calle Averroes nan,Bormujos,Andalucia,41930,,,,,Yes,,37.3742315,-6.0832656
+443,20443,Hospital San Juan de la Cruz,Avenida de la Ciudad de Linares 41,Úbeda,Andalucia,23400,,,,,Yes,,38.0203274,-3.3845506
+444,20444,Hospital San Pedro,nan nan,Logroño,La Rioja,26005,,,,,Yes,,42.4514233,-2.4277188
+452,20452,Hospital Santa Bárbara,nan nan,Puertollano,Ciudad Real,13500,,,,,Yes,,38.7053565,-4.1133384
+456,20456,Hospital Santa Ángela de la Cruz - Viamed,nan nan,Sevilla,Andalucia,41014,,,,,Yes,,37.3276999,-5.9665107
+464,20464,Hospital Tierra de barros,nan nan,Almendralejo,Extremadura,06200,,,,,Yes,,38.6560342,-6.3762517
+465,20465,Hospital Universitari Arnau de Vilanova,nan nan,Lleida,Lleida,25002,,,,,Yes,,41.6265007,0.610524
+469,20469,Hospital Universitari de Bellvitge,nan nan,l'Hospitalet de Llobregat,Barcelona,08901,,,,,Yes,,41.3444176,2.107265
+471,20471,Hospital Universitari de Tarragona Joan XXIII,nan nan,Tarragona,Tarragona,43002,,,,,Yes,,41.124911,1.2377098
+472,20472,Hospital Universitari de Vic,"Carrer d'en Francesc Pla ""El Vigatà"" 1",Vic,Barcelona,08500,,+34 93 889 11 11,,,Yes,,41.9373497,2.260719
+474,20474,Hospital Universitari i Politècnic La Fe,nan nan,València,València,46026,,,,,Yes,,39.4440651,-0.3735219
+475,20475,Hospital Universitario,nan nan,Guadalajara,Guadalajara,19001,,,,,Yes,,40.6194739,-3.1554041
+476,20476,Hospital Universitario 12 de Octubre.,nan nan,Madrid,Madrid,28041,,,,,Yes,,40.3773505,-3.701247
+477,20477,Hospital Universitario Clínico San Carlos,Calle Profesor Martín Lagos nan,Madrid,Madrid,28040,,+34 913 30 30 00; +34 913 30 30 01,,,Yes,,40.4411751,-3.7218
+482,20482,Hospital Universitario La Moraleja Sanitas,Avenida de Francisco Pi y Margall 81,Madrid,Madrid,28050,,,,,Yes,,40.4928205,-3.6633049
+483,20483,Hospital Universitario Lucus Augusti,nan nan,Lugo,Galicia,27004,,,,,Yes,,43.0221177,-7.5289622
+484,20484,Hospital Universitario Marqués de Valdecilla,nan nan,Santander,Cantabria,39008,,,,,Yes,,43.4571598,-3.8268696
+485,20485,Hospital Universitario Miguel Servet,nan nan,Zaragoza,Aragon,50009,,,,,Yes,,41.6349646,-0.9011363
+486,20486,Hospital Universitario Príncipe de Asturias.,nan nan,Alcalá de Henares,Madrid,28805,,,,,Yes,,40.5120964,-3.3477476
+487,20487,Hospital Universitario Puerta de Hierro - Majadahonda,nan nan,Majadahonda,Madrid,28220,,,,,Yes,,40.4516352,-3.8771815
+489,20489,Hospital Universitario Ramón y Cajal.,nan nan,Madrid,Madrid,28034,,,,,Yes,,40.4871164,-3.6957239
+490,20490,Hospital Universitario Reina Sofía,nan nan,Córdoba,Andalucia,14004,,,,,Yes,,37.8687107,-4.7995969
+491,20491,Hospital Universitario Río Hortega,Calle de la Dulzaina 2,Valladolid,Valladolid,47012,,+34 983 42 04 00,,,Yes,,41.6276292,-4.7131972
+492,20492,Hospital Universitario Virgen Macarena,Avenida Doctor Fedriani 3,Sevilla,Andalucia,41009,,,,,Yes,,37.4076145,-5.9873101
+494,20494,Hospital Universitario Virgen de las Nieves,Avenida Juan Pablo II nan,Granada,Andalucia,18013,,,,,Yes,,37.1935729,-3.6081599
+495,20495,Hospital Universitario Virgen de las Nieves,Plaza de la Caleta nan,Granada,Andalucia,18012,,,,,Yes,,37.187641,-3.6090198
+496,20496,Hospital Universitario Virgen del Rocío,nan nan,Sevilla,Andalucia,41013,,,,,Yes,,37.3606289,-5.9811179
+497,20497,Hospital Universitario de Burgos,Avenida Islas Baleares 3,Burgos,Burgos,09004,,+34 947 28 18 000,,,Yes,,42.3633647,-3.6835166
+498,20498,Hospital Universitario de Ceuta,Loma Colmenar nan,Ceuta,Ceuta,51001,,+34 856907000,,,Yes,,35.8798467,-5.3430112
+499,20499,Hospital Universitario de Fuenlabrada.,Camino del Molino 2,Fuenlabrada,Madrid,28944,,,,,Yes,,40.2854858,-3.8134957
+501,20501,Hospital Universitario de Gran Canaria Doctor Negrín,nan nan,Las Palmas de Gran Canaria,Las Palmas,35010,,,,,Yes,,28.1219695,-15.4431871
+503,20503,Hospital Universitario de Móstoles.,nan nan,Móstoles,Madrid,28931,,,,,Yes,,40.3159008,-3.878555
+505,20505,Hospital Universitario de la Ribera,nan nan,Alzira,València,46600,,+34 962458100,,,Yes,,39.1605128,-0.4201551
+507,20507,Hospital Valle del Nalón,nan nan,Langreo,Asturias,33900,,,,,Yes,,43.3278077,-5.7217969
+510,20510,Hospital Viamed Bahía de Cádiz,Calle Ayala 7,Chiclana de la Frontera,Andalucia,11130,,,,,Yes,,36.4206606,-6.1501457
+513,20513,Hospital Victoria Eugenia,nan nan,Sevilla,Andalucia,41008,,,,,Yes,,37.4013893,-5.9826034
+514,20514,Hospital Virgen de Altagracia,nan nan,Manzanares,Ciudad Real,13200,,,,,Yes,,38.9998332,-3.3616535
+517,20517,Hospital Virgen de la Luz,nan nan,Cuenca,Cuenca,16002,,,,,Yes,,40.0763906,-2.1489804
+519,20519,Hospital Virgen de la Salud,nan nan,Toledo,Toledo,45005,,,,,Yes,,39.8712823,-4.0362507
+523,20523,Hospital Virgen del Castillo,nan nan,Yecla,Murcia,30510,,,,,Yes,,38.6164601,-1.1079458
+524,20524,Hospital Virgen del Mar,Calle de Honduras 14,Madrid,Madrid,28036,,,,,Yes,,40.4595691,-3.6788672
+526,20526,Hospital Virgen del Valle,nan nan,Toledo,Toledo,45003,,,,,Yes,,39.8436,-4.0219458
+527,20527,Hospital Virxe da Xunqueira,"Recheo, Paseo Marítimo nan",Cee,Galicia,15270,,+34 981706010,,,Yes,,42.9532543,-9.1918248
+532,20532,Hospital Vithas Virgen del Mar,Carretera de El Mamí a Viator km 1,Almería,Andalucia,04003,,,,,Yes,,36.856263,-2.4178817
+535,20535,Hospital Xeral Juan Cardona,Rúa Pardo Bazán nan,Ferrol,Galicia,15403,,+34 981 312500,,,Yes,,43.4812385,-8.2029811
+536,20536,Hospital da Costa,Rúa Médico Vior nan,Burela,Galicia,27880,,+34 982589825,,,Yes,,43.6523481,-7.3605594
+538,20538,Hospital de Alta Resolución El Toyo,nan nan,Almería,Andalucia,04003,,,,,Yes,,36.8511433,-2.3129379
+543,20543,Hospital de Alta Resolución de Ecija,Avenida Dr. Sánchez Malo nan,Écija,Andalucia,41400,,,,,Yes,,37.5320429,-5.0936738
+546,20546,Hospital de Alta Resolución de Sierra Norte,nan nan,Constantina,Andalucia,41450,,,,,Yes,,37.8622277,-5.6198614
+547,20547,Hospital de Alta Resolución de Utrera,Avenida Brigadas Internacionales nan,Utrera,Andalucia,41710,,+34 955 83 90 01,,,Yes,,37.1759091,-5.7857335
+549,20549,Hospital de Barcelona,Avinguda Diagonal 658,Barcelona,Barcelona,08029,,,,,Yes,,41.3901034,2.1296033
+552,20552,Hospital de Calde,Rúa Calde nan,Lugo,Galicia,27004,,+34 982296000,,,Yes,,42.9547574,-7.6025226
+561,20561,Hospital de Gandia (Francisco de Borja),Avinguda de la Medicina nan,Gandia,València,46701,,,,,Yes,,38.9642626,-0.1691038
+564,20564,Hospital de Hellín,nan nan,Hellín,Albacete,02400,,,,,Yes,,38.5039183,-1.6903337
+566,20566,Hospital de Jerez,nan nan,Jerez de la Frontera,Andalucia,11404,,,,,Yes,,36.6973858,-6.1487902
+574,20574,Hospital de Manises,nan nan,Manises,València,46940,,,,,Yes,,39.486303,-0.452911
+578,20578,Hospital de Mollet,nan nan,Mollet del Vallès,Barcelona,08100,,,,,Yes,,41.5447578,2.202177
+580,20580,Hospital de Palamós,nan nan,Palamós,Girona,17230,,,,,Yes,,41.8524543,3.1314959
+581,20581,Hospital de Poniente,nan nan,El Ejido,Andalucia,04700,,,,,Yes,,36.7528593,-2.8034531
+582,20582,Hospital de Puigcerdà,Plaça de Santa Maria nan,Puigcerdà,Girona,17520,,+34 972880150,,,Yes,,42.4322259,1.9263438
+584,20584,Hospital de Sagunto (Mini Fe),nan nan,Sagunto,Comunidad Valenciana,46520,,,,,Yes,,39.6739794,-0.2329596
+589,20589,Hospital de San Vicente,nan nan,San Vicente del Raspeig,Comunidad Valenciana,03690,,,,,Yes,,38.4033878,-0.530071
+590,20590,Hospital de Sant Joan Despí Moisès Broggi,Carrer de Jacint Verdaguer 90,Sant Joan Despí,Barcelona,08970,,,,,Yes,,41.3744454,2.0731719
+592,20592,Hospital de Sant LLorenç,nan nan,Viladecans,Barcelona,08840,,,,,Yes,,41.3125909,2.0144945
+598,20598,Hospital de Santa María del Puerto,Avenida de La Libertad nan,El Puerto de Santa María,Andalucia,11500,,,,,Yes,,36.598435,-6.2381559
+599,20599,Hospital de Sierrallana,Calle de Manuel Teira Fernández nan,Santillana del Mar,Cantabria,39330,,,,,Yes,,43.3635181,-4.0758713
+605,20605,Hospital de Tortosa Verge de la Cinta,nan nan,Tortosa,Tarragona,43500,,+34977519100,,,Yes,,40.8110758,0.5239604
+609,20609,Hospital de l'Esperit Sant,Avinguda de Mossèn Pons i Rabadà nan,Santa Coloma de Gramenet,Barcelona,08922,,+34933860202,,,Yes,,41.4373699,2.2134529
+616,20616,Hospital de la Santa Creu,nan nan,Tortosa,Tarragona,43590,,,,,Yes,,40.8273595,0.5103493
+617,20617,Hospital de la Santa Creu i Sant Pau,nan nan,Barcelona,Barcelona,08041,,,,,Yes,,41.4148469,2.1740664
+622,20622,Hospital del Mar,nan nan,Barcelona,Barcelona,08003,,,,,Yes,,41.3846595,2.193035
+623,20623,Hospital del Mar-urgències,nan nan,Barcelona,Barcelona,08003,,,,,Yes,,41.3835054,2.1938724
+627,20627,Hospital del Sureste,nan nan,Arganda del Rey,Madrid,28500,,,,,Yes,,40.297784,-3.4572337
+628,20628,Hospital del Tajo,nan nan,Aranjuez,Madrid,28300,,,,,Yes,,40.0560035,-3.6128166
+629,20629,Hospital del Vendrell,nan nan,El Vendrell,Tarragona,43700,,,,,Yes,,41.227208,1.5527733
+630,20630,Hospital del Vinalopó,calle Tonico Sansano Mora 14,Elche,Comunidad Valenciana,03203,,,,,Yes,,38.2564281,-0.7153506
+631,20631,Hospital do Mexoeiro,Meixoeiro nan,Vigo,Galicia,36215,,,,,Yes,,42.214777,-8.6822241
+633,20633,Hospital quironsalud Tenerife,Calle Poeta Rodríguez Herrera 1,Santa Cruz de Tenerife,Santa Cruz de Tenerife,38006,,+34-922270700,,,Yes,,28.4708362,-16.2669612
+635,20635,Hospital Álvarez Buylla,nan nan,Mieres,Asturias,33600,,,,,Yes,,43.2274199,-5.7816168
+639,20639,Hospiten Bellvue,nan nan,Puerto de la Cruz,Santa Cruz de Tenerife,38400,,+34 922 38 35 51,,,Yes,,28.4073817,-16.5451651
+648,20648,Instituto Provincial de Oftalmología,Calle del General Arrando 17,Madrid,Madrid,28010,,,,,Yes,,40.4318248,-3.6930987
+657,20657,Manuel Lois,Vía Paisajista nan,Huelva,Andalucia,21003,,,,,Yes,,37.257097,-6.9449138
+659,20659,Muro,Carrer Veler 1,Muro,Illes Balears,07440,,,,,Yes,,39.8135819,3.107409
+661,20661,Obra Hospitalaria Nuestra Señora de Regla,nan nan,León,León,24002,,+34 987 236900,,,Yes,,42.6002368,-5.5670322
+678,20678,Policlinica IMED Teulada,nan nan,Teulada,Alacant,03725,,,,,Yes,,38.726218,0.1087744
+679,20679,Policlínica Juaneda Miramar,nan nan,Palma,Illes Balears,07011,,,,,Yes,,39.5842813,2.6301732
+682,20682,Puerta del Mar,Avenida Ana de Viya nan,Cádiz,Andalucia,11012,,,,,Yes,,36.5093708,-6.2784864
+686,20686,Quirónsalud Palmaplanas,nan nan,Palma,Illes Balears,07010,,,,,Yes,,39.5991876,2.642725
+707,20707,Santiago Ospitalea/Hospital de Santiago,nan nan,Gasteiz,Araba,01003,,+34 945007600,,,Yes,,42.8460001,-2.6662209
+719,20719,Virgen del Camino,nan nan,Sanlúcar de Barrameda,Andalucia,11540,,,,,Yes,,36.7685342,-6.3602072
+721,20721,Zumarragako ospitalea,nan nan,Zumarraga,Pais Vasco,20700,,,,,Yes,,43.0836953,-2.3135294
+722,20722,centro de salud de isla cristina,calle sitges nan,Isla Cristina,Andalucia,21410,,,,,Yes,,37.1969404,-7.3235612
+726,20726,hospital de l'Esperança,nan nan,Barcelona,Barcelona,08024,,,,,Yes,,41.410801,2.1539829

@@ -1,0 +1,38 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+9,20009,Fakultní nemocnice,nan nan,Hradec Králové,Hradec Králové,500 03,,,,,Yes,,50.2018747,15.8250963
+11,20011,Fakultní nemocnice Královské Vinohrady,nan nan,Praha,Hlavní město Praha,101 00,,,,,Yes,,50.0761686,14.473889
+13,20013,Fakultní nemocnice Olomouc,nan nan,Olomouc,Olomouc,779 00,,,,,Yes,,49.5818652,17.2401479
+15,20015,Fakultní nemocnice Plzeň,nan nan,Plzeň,Plzeň-město,301 00,,,,,Yes,,49.7334454,13.3747185
+30,20030,Klaudiánova nemocnice,nan nan,Mladá Boleslav,Mladá Boleslav,293 01,,,,,Yes,,50.4186549,14.9105213
+51,20051,"Městská nemocnice s poliklinikou Uh. Brod, s.r.o.",Partyzánů 2174,Uherský Brod,Uherské Hradiště,688 01,,,,,Yes,,49.0289712,17.6533259
+52,20052,Městská nemocnice Čáslav,nan nan,Čáslav,Kutná Hora,286 01,,,,,Yes,,49.9032537,15.4014539
+67,20067,Nemocnice Ivančice,Široká 16,Ivančice,Brno-venkov,664 91,,,,,Yes,,49.1018213,16.3714762
+68,20068,Nemocnice Jihlava,nan nan,Jihlava,Jihlava,586 01,,,,,Yes,,49.3988566,15.5701361
+70,20070,Nemocnice Kutná Hora,nan nan,Kutná Hora,Kutná Hora,284 01,,,,,Yes,,49.9469531,15.2511758
+71,20071,Nemocnice Kyjov,nan nan,Kyjov,Hodonín,697 01,,,,,Yes,,49.0104209,17.1096008
+74,20074,Nemocnice Milosrdných bratří,nan nan,Brno,Brno-město,639 00,,+420 532 299 111,,,Yes,,49.185039,16.5953946
+76,20076,Nemocnice Most,nan nan,Most,Most,434 01,,,,,Yes,,50.5088243,13.6232669
+77,20077,Nemocnice Mělník,nan nan,Mělník,Mělník,276 01,,,,,Yes,,50.3476392,14.4831661
+78,20078,Nemocnice Na Bulovce,nan nan,Praha,Hlavní město Praha,182 00,,,,,Yes,,50.1155676,14.4646655
+83,20083,Nemocnice Nymburk,nan nan,Nymburk,Nymburk,288 02,,,,,Yes,,50.1876453,15.0363042
+88,20088,Nemocnice Prostějov,nan nan,Prostějov,Prostějov,796 01,,,,,Yes,,49.4773831,17.0832354
+90,20090,Nemocnice Přerov,nan nan,Přerov,Přerov,750 02,,,,,Yes,,49.4576644,17.4764317
+91,20091,Nemocnice Rokycany,nan nan,Rokycany,Rokycany,337 01,,,,,Yes,,49.7472337,13.6040944
+92,20092,Nemocnice Rudolfa a Stefanie Benešov,nan nan,Benešov,Benešov,256 01,,,,,Yes,,49.7874858,14.6822282
+97,20097,Nemocnice Tanvald,nan nan,Tanvald,Jablonec nad Nisou,468 41,,,,,Yes,,50.7402699,15.3009296
+99,20099,"Nemocnice Tábor, a.s.",nan nan,Tábor,Tábor,390 02,,,,,Yes,,49.4181039,14.6509461
+106,20106,Nemocnice Vyškov,nan nan,Vyškov,Vyškov,682 01,,,,,Yes,,49.2768252,16.9824803
+113,20113,Nemocnice s poliklinikou Karviná-Ráj pracoviště Orlová,nan nan,Orlová,Karviná,735 14,,,,,Yes,,49.8746773,18.4333752
+115,20115,Nemocnice Česká Lípa,nan nan,Česká Lípa,Česká Lípa,470 01,,,,,Yes,,50.6850347,14.5465999
+116,20116,Nemocnice Český Krumlov,Na Moráni nan,Český Krumlov,Český Krumlov,381 01,,,,,Yes,,48.8123869,14.3242762
+120,20120,Oblastní nemocnice,nan nan,Kladno,Kladno,272 01,,,,,Yes,,50.142728,14.0889581
+128,20128,Panochova nemocnice Turnov,nan nan,Turnov,Semily,511 01,,,,,Yes,,50.5890997,15.1678988
+129,20129,Pardubická krajská nemocnice,Kyjevská nan,Pardubice,Pardubice,530 02,,,,,Yes,,50.0293531,15.7901868
+136,20136,Poliklinika Moravské Budějovice,nan nan,Moravské Budějovice,Třebíč,676 02,,,,,Yes,,49.0529552,15.8070632
+137,20137,Poliklinika Moravské Budějovice - budova 2,nan nan,Moravské Budějovice,Třebíč,676 02,,,,,Yes,,49.0529624,15.8070255
+159,20159,Slezská nemocnice v Opavě,nan nan,Opava,Opava,746 01,,,,,Yes,,49.9359221,17.881031
+165,20165,Uherskohradišťská nemocnice a.s.,nan nan,Uherské Hradiště,Uherské Hradiště,686 01,,,,,Yes,,49.064686,17.4553953
+170,20170,Vojenská nemocnice - chirurgie,nan nan,Olomouc,Olomouc,779 00,,,,,Yes,,49.5988889,17.2711466
+174,20174,"Záchranná služba Plzeňského kraje, Výjezdové stanoviště Plzeň sever",nan nan,Plzeň,Plzeň-město,301 00,,,,,Yes,,49.7662813,13.3720388
+179,20179,Ústav chirurgie ruky a plastické chirurgie Vysoké nad Jizerou,nan nan,Vysoké nad Jizerou,Semily,512 11,,+420481350905,,,Yes,,50.6828414,15.4031923
+183,20183,Územní zdravotnická záchranná služba Karlovarského kraje,Závodní 390/98C,Karlovy Vary,Karlovy Vary,360 01,,,,,Yes,,50.2210586,12.825288

@@ -1,0 +1,99 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,20000,"""KUTNOWSKI SZPITAL SAMORZĄDOWY"" SPÓŁKA Z O.O.",nan nan,Kutno,Powiat Kutnowski,99-300,,,,,Yes,,52.2392953,19.371924
+4,20004,105 Szpital Wojskowy z Przychodnią SPZOZ,Bolesława Domańskiego 2,Żary,Powiat Żarski,68-200,,,,,Yes,,51.6415875,15.1481984
+6,20006,108 Szpital Wojskowy,Tadeusza Kościuszki 30,Ełk,Powiat Ełcki,19-300,,+48876219803,,,Yes,,53.8199983,22.3631121
+13,20013,5 Wojskowy Szpital Kliniczny w Krakowie,Wrocławska 1-3,Kraków,Kraków,30-074,,,,,Yes,,50.0751372,19.9339294
+19,20019,Arion ZOZ,Doktora Stanisława Pojaska nan,Biłgoraj,Powiat Biłgorajski,23-400,,,,,Yes,,50.5300021,22.7126673
+23,20023,Bieszczadzkie Wodne Ochotnicze Pogotowie Ratunkowe,nan nan,Solina,Powiat Leski,38-612,,,,,Yes,,49.382042,22.4483314
+41,20041,Centrum Medyczne w Łańcucie,nan nan,Łańcut,Powiat Łańcucki,37-100,,,,,Yes,,50.0672027,22.2329009
+57,20057,Dolnośląski Szpital Specjalistyczny im. T. Marciniaka,Generała Augusta Emila Fieldorfa nan,Wrocław,Wrocław,54-050,,+48713064419,,,Yes,,51.1422775,16.9059648
+136,20136,Mazowiecki Szpital Bródnowski,Ludwika Kondratowicza 8,Warszawa,Warszawa,03-352,,22 326 55 00,,,Yes,,52.2914836,21.0469851
+152,20152,Miejski Szpital w Pionkach,Niepodległości 1,Pionki,Powiat Radomski,26-670,,,,,Yes,,51.475322,21.4447717
+190,20190,Oddział Ratunkowy,Korczyńska 57,Krosno,Krosno,38-400,,+48134364110,,,Yes,,49.7012565,21.7834387
+194,20194,Oddział neurologiczny,Marka Sobieskiego 4C,Krasnystaw,Powiat Krasnostawski,22-300,,,,,Yes,,50.9829668,23.1646202
+204,20204,Ośrodek Pediatryczny im. dr. Janusza Korczaka,Aleja Marszałka Józefa Piłsudskiego 71,Łódź,Łódź,92-208,,,,,Yes,,51.7611942,19.4840198
+229,20229,Pałuckie Centrum Zdrowia SZPITAL,Szpitalna 30,Żnin,Powiat Żniński,88-400,,,,,Yes,,52.8471996,17.7179887
+230,20230,Piekarskie Centrum Medyczne,Szpitalna 11,Piekary Śląskie,Piekary Śląskie,41-940,,,,,Yes,,50.3745234,18.9524166
+231,20231,Pleszewskie Centrum Medyczne,nan nan,Pleszew,Powiat Pleszewski,63-300,,+48627420900,,,Yes,,51.8986911,17.7643519
+247,20247,Powiatowe Centrum Zdrowia,Aleja Armii Krajowej 105/106,Malbork,Powiat Malborski,82-200,,,,,Yes,,54.0315709,19.0222245
+251,20251,Powiatowy Szpital w Aleksnadrowie Kujawskim,Juliusza Słowackiego 18,Aleksandrów Kujawski,Powiat Aleksandrowski,87-700,,,,,Yes,,52.8742131,18.6968919
+253,20253,Powiatowy Zespół Opieki Zdrowotnej w Ostródzie S.A.,nan nan,Ostróda,Powiat Ostródzki,14-100,,,,,Yes,,53.6931711,19.9744278
+272,20272,Przychodnia Rejonowa,Mieczysława Niedziałkowskiego 15,Zawiercie,Powiat Zawierciański,42-400,,,,,Yes,,50.4900575,19.4284561
+274,20274,Przychodnia Rejonowa nr 1,Konstantego Ildefonsa Gałczyńskiego 1,Zawiercie,Powiat Zawierciański,42-400,,,,,Yes,,50.4934977,19.4380805
+275,20275,Przychodnia Rejonowa nr 4 ZLA,Borowa 33a,Zawiercie,Powiat Zawierciański,42-400,,326714131,,,Yes,,50.5104758,19.4030924
+280,20280,Przychodnia rejonowa,Stanisława Staszica 4,Szydłowiec,Powiat Szydłowiecki,26-500,,48 617 12 95,,,Yes,,51.2271051,20.868591
+281,20281,Przychodnia specjalistyczna,Powstańców Śląskich 8,Zawiercie,Powiat Zawierciański,42-400,,326723445,,,Yes,,50.4851136,19.424907
+290,20290,Regionalny Szpital w Kołobrzegu,Podporucznika Edmunda Łopuskiego 31-33,Kołobrzeg,Powiat Kołobrzeski,78-100,,+48 943530200,,,Yes,,54.1738361,15.5660185
+294,20294,"SP ZOZ ""Szpital Powiatowy"" w Bochni im Bł. Marty Wieckiej",Krakowska 31,Bochnia,Powiat Bocheński,32-700,,+48 14 615 3 400,,,Yes,,49.9668561,20.4215027
+295,20295,"SP ZOZ ""Szpital Powiatowy"" w Bochni im Bł. Marty Wieckiej",Krakowska 31,Bochnia,Powiat Bocheński,32-700,,+48 14 615 3 400,,,Yes,,49.9668561,20.4215027
+301,20301,SPZOZ Szpital Specjalistyczny,nan nan,Puławy,Powiat Puławski,24-100,,,,,Yes,,51.420449,21.9724068
+319,20319,Samodzielny Publiczny Specjalistyczny Zakład Opieki Zdrowotnej w Lęborku,Juliana Węgrzynowicza 13,Lębork,Powiat Lęborski,84-300,,+48 59 863 52 83,,,Yes,,54.5387619,17.7531523
+335,20335,Samodzielny Publiczny Wojewódzki Szpital Zespolony - Zdunowo,nan nan,Szczecin,Szczecin,70-560,,,,,Yes,,53.3770738,14.7707011
+339,20339,Samodzielny Publiczny Zakład Opieki Zdrowotnej MSW,Kronikarza Galla nan,Kraków,Kraków,30-074,,,,,Yes,,50.0723088,19.9136062
+351,20351,Samodzielny Publiczny Zakład Opieki Zdrowotnej w Mławie,Anny Dobrskiej 1,Mława,Powiat Mławski,06-500,,,,,Yes,,53.123571,20.3727912
+352,20352,Samodzielny Publiczny Zakład Opieki Zdrowotnej w Szamotułach,Sukiennicza 13,Szamotuły,Powiat Szamotulski,64-500,,612927100,,,Yes,,52.6115613,16.5807703
+360,20360,Samodzielny Publiczny Zespół Opieki Zdrowotnej w Leżajsku,Leśna 22,Leżajsk,Powiat Leżajski,37-300,,,,,Yes,,50.2718598,22.4013423
+366,20366,Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej,nan nan,Przasnysz,Powiat Przasnyski,06-300,,,,,Yes,,53.0273904,20.8933352
+367,20367,Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej im. Stefana Niewirowicza w Staszowie,11 Listopada 78,Staszów,Powiat Staszowski,28-200,,+48 15 864 85 39,,,Yes,,50.5618995,21.1904322
+370,20370,Samodzielny Szpital Miejski im. PCK,Henryka Sienkiewicza 79,Białystok,Białystok,15-007,,,,,Yes,,53.1404235,23.171534
+382,20382,Specjalistyczny Szpital Miejski im. M. Kopernika,Stefana Batorego 17/19,Toruń,Toruń,87-100,,,,,Yes,,53.023324,18.620197
+393,20393,Strzelińskie Centrum Medyczne,nan nan,Strzelin,Powiat Strzeliński,57-100,,,,,Yes,,50.7891929,17.0697816
+407,20407,Szpital,Armii Krajowej 8,Biskupiec,Powiat Olsztyński,11-300,,,,,Yes,,53.8658572,20.9565281
+457,20457,Szpital MSWiA,Grenadierów 3,Lublin,Lublin,20-115,,,,,Yes,,51.228263,22.6127864
+465,20465,Szpital Miejski,Świętego Jana nan,Gniezno,Powiat Gnieźnieński,62-200,,,,,Yes,,52.5385706,17.5961309
+466,20466,Szpital Miejski,Konstytucji 3 Maja 35,Międzyrzecz,Powiat Międzyrzecki,66-300,,,,,Yes,,52.4398176,15.5842469
+467,20467,Szpital Miejski,3 Maja nan,Gniezno,Powiat Gnieźnieński,62-200,,,,,Yes,,52.5418021,17.5985952
+469,20469,Szpital Miejski Specjalistyczny imienia Gabriela Narutowicza,nan nan,Kraków,Kraków,31-262,,,,,Yes,,50.0834433,19.9379781
+481,20481,Szpital Na Wyspie,Pszenna 2,Żary,Powiat Żarski,68-200,,,,,Yes,,51.6444345,15.1522807
+490,20490,Szpital Powiatowy,nan nan,Dzierżoniów,Powiat Dzierżoniowski,58-200,,,,,Yes,,50.7287569,16.6569057
+493,20493,Szpital Powiatowy,Jana III Sobieskiego 9,Lubliniec,Powiat Lubliniecki,42-700,,+48 34 350 63 80,,,Yes,,50.6650156,18.6818683
+495,20495,Szpital Powiatowy,nan nan,Żywiec,Powiat Żywiecki,34-300,,+48 33 861-40-31,,,Yes,,49.6932754,19.2031152
+496,20496,Szpital Powiatowy,Jana Kochanowskiego 2,Lesko,Powiat Leski,38-600,,,,,Yes,,49.4749346,22.3340372
+506,20506,Szpital Powiatowy im. Aleksandra Majkowskiego w Kartuzach,Floriana Ceynowy 7,Kartuzy,Powiat Kartuski,83-300,,+48 58 685 48 00,,,Yes,,54.3368137,18.1977338
+511,20511,Szpital Powiatowy im. M. Kajki,Wolności 3,Mrągowo,Powiat Mrągowski,11-700,,,,,Yes,,53.8797395,21.303158
+515,20515,Szpital Powiatowy im. Zbigniewa Koprowskiego,nan nan,Sokołów Podlaski,Powiat Sokołowski,08-300,,,,,Yes,,52.4036237,22.2394627
+516,20516,Szpital Powiatowy imienia doktora Tytusa Chałubińskiego w Zakopanem,nan nan,Zakopane,Powiat Tatrzański,34-500,,,,,Yes,,49.3052848,19.9548294
+520,20520,Szpital Powiatowy w Chrzanowie,nan nan,Chrzanów,Powiat Chrzanowski,32-500,,,,,Yes,,50.1344407,19.4292324
+521,20521,Szpital Powiatowy w Kolbuszowej,nan nan,Kolbuszowa,Powiat Kolbuszowski,36-100,,,,,Yes,,50.2434871,21.7628199
+523,20523,Szpital Powiatowy w Kętrzynie,Marii Skłodowskiej-Curie 2,Kętrzyn,Powiat Kętrzyński,11-400,,,,,Yes,,54.0825414,21.3755694
+527,20527,Szpital Powiatowy w Otwocku,nan nan,Otwock,Powiat Otwocki,05-400,,,,,Yes,,52.0991115,21.2608026
+528,20528,Szpital Powiatowy w Oławie,nan nan,Oława,Powiat Oławski,55-200,,,,,Yes,,50.9510646,17.2839605
+532,20532,Szpital Powiatowy w Ropczycach,nan nan,Ropczyce,Powiat Ropczycko-Sędziszowski,39-100,,,,,Yes,,50.0583934,21.6157441
+536,20536,Szpital Powiatowy w Słubicach,nan nan,Słubice,Powiat Słubicki,69-100,,,,,Yes,,52.3520726,14.5558683
+538,20538,Szpital Powiatowy w Wołominie,nan nan,Wołomin,Powiat Wołomiński,05-200,,,,,Yes,,52.3461175,21.2208159
+541,20541,Szpital Powiatowy w Łęcznej,Krasnystawska 52,Łęczna,Powiat Łęczyński,21-010,,,,,Yes,,51.2910235,22.8778786
+553,20553,Szpital Rejonowy,nan nan,Lubaczów,Powiat Lubaczowski,37-600,,,,,Yes,,50.169911,23.1238773
+555,20555,Szpital Rejonowy,Szpitalna nan,Nowa Ruda,Powiat Kłodzki,57-400,,+48 74 872 22 81,,,Yes,,50.5835532,16.4971451
+557,20557,Szpital Rejonowy w Busku - Zdroju,Bohaterów Warszawy 69,Busko-Zdrój,Powiat Buski,28-100,,,,,Yes,,50.4668713,20.7014434
+575,20575,Szpital Specjalistyczny im. Jędrzeja Śniadeckiego w Nowym Sączu,Młyńska 10,Nowy Sącz,Nowy Sącz,33-300,,,,,Yes,,49.6199439,20.6987663
+578,20578,Szpital Specjalistyczny im. Stanisława Staszica w Pile,Ludwika Rydygiera 1,Piła,Powiat Pilski,64-920,,672106666,,,Yes,,53.1223991,16.7176364
+584,20584,Szpital Specjalistyczny w Kościerzynie,Alojzego Piechowskiego 36,Kościerzyna,Powiat Kościerski,83-400,,,,,Yes,,54.1219303,17.9500993
+586,20586,Szpital Szczecinek,nan nan,Szczecinek,Powiat Szczecinecki,78-400,,,,,Yes,,53.7118769,16.6790258
+591,20591,Szpital Uniwersytecki im. Karola Marcinkowskiego w Zielonej Górze,nan nan,Zielona Góra,Zielona Góra,65-052,,,,,Yes,,51.9399731,15.5186975
+597,20597,"Szpital Uzdrowiskowy nr 4 ""Dom Zdrojowy""",Leśna 3,Ciechocinek,Powiat Aleksandrowski,87-720,,+48 54 283 6078,,,Yes,,52.8762056,18.7992096
+607,20607,Szpital Wojewódzki im. M. Kopernika,nan nan,Koszalin,Koszalin,75-007,,,,,Yes,,54.1993557,16.2111011
+619,20619,Szpital im. Jana Bożego,Zbigniewa Herberta 21,Lublin,Lublin,20-115,,,,,Yes,,51.2153263,22.5693612
+624,20624,Szpital im. Radzimira Śmigielskiego,Szpitalna 5,Skwierzyna,Powiat Międzyrzecki,66-440,,+48 95 717 00 39,,,Yes,,52.5941214,15.505051
+625,20625,Szpital im. Tytusa Chałubińskiego,Bolesława Limanowskiego nan,Ostrów Wielkopolski,Powiat Ostrowski,63-400,,062 595-11-00,,,Yes,,51.6553568,17.8292807
+627,20627,Szpital im. Świętego Ducha w Rawie Mazowieckiej,Warszawska 14,Rawa Mazowiecka,Powiat Rawski,96-200,,,,,Yes,,51.766499,20.2588668
+632,20632,Szpital miejski w Rabce Zdroju,Słoneczna 3,Rabka-Zdrój,Powiat Nowotarski,34-700,,,,,Yes,,49.6089083,19.9706168
+640,20640,Szpital powiatowy w Pińczowie,nan nan,Pińczów,Powiat Pińczowski,28-400,,,,,Yes,,50.5181714,20.5298184
+644,20644,Szpital specjalistyczny imienia Stefana Żeromskiego,nan nan,Kraków,Kraków,31-985,,,,,Yes,,50.0636561,20.0474167
+650,20650,Szpital Św. Wojciecha,Aleja Jana Pawła II 50,Gdańsk,Gdańsk,80-464,,,,,Yes,,54.4040749,18.6129698
+660,20660,Szpitalny Oddział Ratunkowy,nan nan,Zawiercie,Powiat Zawierciański,42-400,,,,,Yes,,50.481391,19.4087415
+664,20664,Uniwersytecki Szpital Dziecięcy,nan nan,Kraków,Kraków,30-864,,+48 12 658 20 11,,,Yes,,50.0135884,19.9997597
+694,20694,Wielospecjalistyczny Szpital Miejski im. Józefa Strusia,nan nan,Poznań,Poznań,61-304,,,,,Yes,,52.390299,16.998308
+697,20697,Wielospecjalistyczny Szpital Wojewódzki w Gorzowie Wielkopolskim,nan nan,Gorzów Wielkopolski,Gorzów Wielkopolski,66-400,,,,,Yes,,52.7621905,15.2352041
+698,20698,Wielospecjalistyczny Szpital Wojewódzki w Gorzowie Wielkopolskim,nan nan,Gorzów Wielkopolski,Gorzów Wielkopolski,66-400,,,,,Yes,,52.7548871,15.2616625
+702,20702,Wojewódzka Stacja Pogotowia Ratunkowego SP ZOZ w Suwałkach,Adama Mickiewicza 11,Suwałki,Suwałki,16-400,,,,,Yes,,54.09835,22.9251523
+708,20708,Wojewódzki Specjalistyczny Szpital im. dr. Władysława Biegańskiego,Karola Kniaziewicza 1/5,Łódź,Łódź,91-357,,,,,Yes,,51.8011994,19.4359862
+724,20724,Wojewódzki Szpital Psychiatryczny w Warcie,Sieradzka 3,Warta,Powiat Sieradzki,98-290,,,,,Yes,,51.704706,18.6260482
+739,20739,Wojewódzki Szpital Specjalistyczny im. Marii Skłodowskiej – Curie,Parzęczewska nan,Zgierz,Powiat Zgierski,95-100,,42 71 44 500,,,Yes,,51.8640546,19.3858702
+743,20743,Wojewódzki Szpital Specjalistyczny imienia Ludwika Rydygiera,nan nan,Kraków,Kraków,31-836,,,,,Yes,,50.0910266,20.0205616
+744,20744,Wojewódzki Szpital Specjalistyczny nr 1,Edukacji 102,Tychy,Tychy,43-100,,,,,Yes,,50.1126076,19.0059043
+745,20745,Wojewódzki Szpital Specjalistyczny nr 3,Energetyków 46,Rybnik,Rybnik,44-200,,32 4291000,,,Yes,,50.112774,18.5196013
+756,20756,Wojewódzki Szpital Zespolony - Szpital Dziecięcy,Konstytucji 3 Maja 42,Toruń,Toruń,87-100,,,,,Yes,,53.0220975,18.6919684
+758,20758,Wojewódzki Szpital Zespolony im. L. Rydygiera,Świętego Józefa 53-59,Toruń,Toruń,87-100,,,,,Yes,,53.0262347,18.583293
+759,20759,Wojewódzki Szpital Zespolony im. Ludwika Perzyny,Poznańska 79,Kalisz,Kalisz,62-800,,+48 62 765 12 51,,,Yes,,51.7629323,18.067068
+761,20761,Wojewódzki Szpital Zespolony im. Marcina Kacprzaka w Płocku,Medyczna 19,Płock,Płock,09-402,,,,,Yes,,52.5579696,19.6545915
+763,20763,Wojewódzki Szpital Zespolony w Lesznie,Jana Kiepury 45,Leszno,Leszno,64-100,,,,,Yes,,51.8409448,16.6040808

@@ -1,0 +1,96 @@
+,name,address,city,state,zip,phone,LAT,LON,hasSpecialties,ADDICTION MEDICINE,ADVANCED HEART FAILURE AND TRANSPLANT CARDIOLOGY,ALLERGY/IMMUNOLOGY,ANESTHESIOLOGY,ANESTHESIOLOGY ASSISTANT,AUDIOLOGIST,CARDIAC ELECTROPHYSIOLOGY,CARDIAC SURGERY,CARDIOVASCULAR DISEASE (CARDIOLOGY),CERTIFIED NURSE MIDWIFE,CERTIFIED REGISTERED NURSE ANESTHETIST,CHIROPRACTIC,CLINICAL NURSE SPECIALIST,CLINICAL PSYCHOLOGIST,CLINICAL SOCIAL WORKER,COLORECTAL SURGERY (PROCTOLOGY),CRITICAL CARE (INTENSIVISTS),DENTIST,DERMATOLOGY,DIAGNOSTIC RADIOLOGY,EMERGENCY MEDICINE,ENDOCRINOLOGY,FAMILY PRACTICE,GASTROENTEROLOGY,GENERAL PRACTICE,GENERAL SURGERY,GERIATRIC MEDICINE,GERIATRIC PSYCHIATRY,GYNECOLOGICAL ONCOLOGY,HAND SURGERY,HEMATOLOGY,HEMATOLOGY/ONCOLOGY,HEMATOPOIETIC CELL TRANSPLANTATION AND CELLULAR TH,HOSPICE/PALLIATIVE CARE,HOSPITALIST,INFECTIOUS DISEASE,INTERNAL MEDICINE,INTERVENTIONAL CARDIOLOGY,INTERVENTIONAL PAIN MANAGEMENT,INTERVENTIONAL RADIOLOGY,MAXILLOFACIAL SURGERY,MEDICAL ONCOLOGY,NEPHROLOGY,NEUROLOGY,NEUROPSYCHIATRY,NEUROSURGERY,NUCLEAR MEDICINE,NURSE PRACTITIONER,OBSTETRICS/GYNECOLOGY,OCCUPATIONAL THERAPY,OPHTHALMOLOGY,OPTOMETRY,ORAL SURGERY,ORTHOPEDIC SURGERY,OSTEOPATHIC MANIPULATIVE MEDICINE,OTOLARYNGOLOGY,PAIN MANAGEMENT,PATHOLOGY,PEDIATRIC MEDICINE,PERIPHERAL VASCULAR DISEASE,PHYSICAL MEDICINE AND REHABILITATION,PHYSICAL THERAPY,PHYSICIAN ASSISTANT,PLASTIC AND RECONSTRUCTIVE SURGERY,PODIATRY,PREVENTATIVE MEDICINE,PSYCHIATRY,PULMONARY DISEASE,RADIATION ONCOLOGY,REGISTERED DIETITIAN OR NUTRITION PROFESSIONAL,"RHEUMATOLOGY,",SLEEP MEDICINE,SPEECH LANGUAGE PATHOLOGIST,SPORTS MEDICINE,SURGICAL ONCOLOGY,THORACIC SURGERY,UNDEFINED PHYSICIAN TYPE (SPECIFY),"UROLOGY,",VASCULAR SURGERY,id
+0,Ambulance,nan nan,Frýdlant,Liberec,464 01,,50.9249512,15.0883687,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000
+1,Avicena,Pálkova 1,Liberec,Liberec,460 01,,50.7714355,15.0559821,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10001
+2,Dětská poliklinika,nan nan,Liberec,Liberec,460 01,,50.7747388,15.0671972,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10002
+3,EUC Klinika,nan nan,Slaný,Kladno,274 01,,50.2325807,14.0847486,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10003
+4,EUC klinika,Denisovo nábřeží nan,Plzeň,Plzeň-město,301 00,,49.744785,13.383713,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10004
+5,"Edukační kampus, dentální učení Kladno",nan nan,Kladno,Kladno,272 01,,50.137812,14.087185,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10005
+6,Hornická poliklinika,Sokolská třída 2587/81,Ostrava,Ostrava-město,702 00,,49.846435,18.2854812,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10006
+7,III. poliklinika,nan nan,Příbram,Příbram,261 01,,49.6764169,14.0001359,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10007
+8,Klinika Malvazinky,nan nan,Praha,Hlavní město Praha,150 00,,50.064296,14.394643,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10008
+9,Klinika plastické chirurgie,nan nan,Brno,Brno-město,612 00,,49.2257803,16.5906865,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10009
+10,Klinika u svatého Klimenta,nan nan,Praha,Hlavní město Praha,170 00,,50.0969738,14.422072,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10010
+11,LDN,nan nan,Praha,Hlavní město Praha,160 00,,50.106887,14.3999698,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10011
+12,Lékařské centrum - Laudonova vila,nan nan,Ždánice,Hodonín,696 32,,49.0634235,17.0249698,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10012
+13,Léčebně preventivní zařízení,nan nan,Sokolov,Sokolov,356 01,,50.1775593,12.6414221,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10013
+14,"MEPHACENTRUM, a.s.",Opavská 962/39,Ostrava,Ostrava-město,702 00,,49.8313636,18.1782084,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10014
+15,MG Medical Center,Ostrožná 244/27,Opava,Opava,746 01,,49.9366175,17.902443,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10015
+16,"Mamografie, chirurgická ambulance",Na Šibeníku 914/1,Olomouc,Olomouc,779 00,,49.5971876,17.2362842,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10016
+17,Medical centrum,nan 703,Rokytnice nad Jizerou,Semily,512 44,+420 602 420 758,50.7305413,15.4697994,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10017
+18,Městská poliklinika,nan nan,Rožnov pod Radhoštěm,Vsetín,756 61,,49.4640643,18.1444542,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10018
+19,Městská poliklinika Nejdek,nan nan,Nejdek,Karlovy Vary,362 21,,50.3268539,12.7336135,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10019
+20,Městská poliklinika Uničov,nan nan,Uničov,Olomouc,783 91,,49.7667589,17.1224364,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10020
+21,Národní ústav duševního zdraví,nan nan,Klecany,Praha-východ,250 67,,50.1792856,14.4195543,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10021
+22,POLIKLINIKA Třešť,nan nan,Třešť,Jihlava,589 01,,49.2844124,15.4821012,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10022
+23,Poliklinika,nan nan,Chodov,Sokolov,357 35,,50.2377789,12.7453488,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10023
+24,Poliklinika,nan nan,Čáslav,Kutná Hora,286 01,,49.9132086,15.3926546,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10024
+25,Poliklinika,nan nan,Semily,Semily,513 01,,50.601751,15.334124,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10025
+26,Poliklinika,nan nan,Slavkov u Brna,Vyškov,684 01,,49.1563832,16.8792411,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10026
+27,Poliklinika,nan nan,Náměšť nad Oslavou,Třebíč,675 71,,49.209583,16.1501797,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10027
+28,Poliklinika,nan nan,Choceň,Ústí nad Orlicí,565 01,,50.003844,16.2207563,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10028
+29,Poliklinika,nan nan,Kladno,Kladno,272 01,,50.1437433,14.0929768,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10029
+30,Poliklinika,nan nan,Hlinsko,Chrudim,539 01,,49.7660044,15.9017124,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10030
+31,Poliklinika,Jeřábkova 158,Milevsko,Písek,399 01,,49.4528053,14.3613422,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10031
+32,Poliklinika,nan nan,Úpice,Trutnov,542 32,,50.5099661,16.0200246,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10032
+33,Poliklinika,nan nan,Frenštát pod Radhoštěm,Nový Jičín,744 01,,49.5459592,18.2126839,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10033
+34,Poliklinika,nan nan,Jaroměř,Náchod,551 01,,50.3531203,15.9212094,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10034
+35,Poliklinika,nan nan,Litovel,Olomouc,784 01,,49.7025833,17.076626,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10035
+36,Poliklinika,nan nan,Kroměříž,Kroměříž,767 01,,49.2972338,17.3874847,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10036
+37,Poliklinika,nan nan,Tábor,Tábor,390 02,,49.4109719,14.6705579,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10037
+38,Poliklinika,nan nan,Tábor,Tábor,390 02,,49.4108592,14.6703584,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10038
+39,Poliklinika,nan nan,Vsetín,Vsetín,755 01,,49.3338323,17.9988215,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10039
+40,Poliklinika,nan nan,Dačice,Jindřichův Hradec,380 01,,49.0766398,15.4309813,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10040
+41,Poliklinika,nan nan,Dačice,Jindřichův Hradec,380 01,,49.0763892,15.4302117,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10041
+42,Poliklinika,nan nan,Dačice,Jindřichův Hradec,380 01,,49.0762065,15.4305503,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10042
+43,"Poliklinika ""A""",nan nan,Prostějov,Prostějov,796 01,,49.4754064,17.0883265,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10043
+44,Poliklinika AGEL,nan nan,Praha,Hlavní město Praha,120 00,,50.0810799,14.437541,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10044
+45,Poliklinika AGEL Nymburk,nan nan,Nymburk,Nymburk,288 02,,50.1884634,15.037811,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10045
+46,Poliklinika ArcellorMittal Ostrava,nan nan,Ostrava,Ostrava-město,702 00,,49.7964604,18.3053252,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10046
+47,Poliklinika Břeclav p.o.,nan nan,Břeclav,Břeclav,690 02,,48.7514291,16.8817671,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10047
+48,Poliklinika DAM,nan nan,Praha,Hlavní město Praha,160 00,+420 233 018 211,50.0900127,14.3577147,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10048
+49,Poliklinika Dobrovského,Dobrovského 23,Brno,Brno-město,612 00,,49.219399,16.593302,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10049
+50,Poliklinika Holešov,nan nan,Holešov,Kroměříž,769 01,,49.3310133,17.5727035,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10050
+51,Poliklinika II,nan nan,Jablonec nad Nisou,Jablonec nad Nisou,466 01,,50.7251107,15.164621,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10051
+52,"Poliklinika Jablunkov, s.r.o.",nan nan,Jablunkov,Frýdek-Místek,739 91,+420558358011,49.5747018,18.7634474,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10052
+53,Poliklinika Jirkov,nan nan,Jirkov,Chomutov,431 11,,50.5021223,13.4455008,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10053
+54,Poliklinika Kosmonosy,nan nan,Kosmonosy,Mladá Boleslav,293 06,,50.440115,14.9254883,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10054
+55,Poliklinika Králův Dvůr,nan nan,Králův Dvůr,Beroun,267 01,,49.9457106,14.0359315,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10055
+56,Poliklinika Kyjov,třída Komenského 740,Kyjov,Hodonín,697 01,,49.0145819,17.1250971,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10056
+57,Poliklinika Michnova s.r.o.,nan nan,Praha,Hlavní město Praha,149 00,+420 271 750 858,50.0315752,14.5205333,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10057
+58,Poliklinika Na Dlouhém lánu,Na Dlouhém lánu 11,Praha,Hlavní město Praha,160 00,,50.0964576,14.3652078,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10058
+59,Poliklinika Na Valech,nan nan,Nymburk,Nymburk,288 02,,50.1859651,15.0366557,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10059
+60,Poliklinika Opava,náměstí Slezského odboje 1540/3,Opava,Opava,746 01,,49.9399002,17.8928092,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10060
+61,Poliklinika Palackého,nan nan,Praha,Hlavní město Praha,110 00,+420 222 928 400,50.0812864,14.4230319,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10061
+62,Poliklinika Parnik,nan nan,Praha,Hlavní město Praha,198 00,,50.1070608,14.5716118,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10062
+63,Poliklinika Pod Marjánkou,nan nan,Praha,Hlavní město Praha,160 00,+420 220 518 080,50.0846513,14.3665053,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10063
+64,Poliklinika Stodůlky,nan nan,Praha,Hlavní město Praha,155 00,,50.045881,14.3147947,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10064
+65,Poliklinika Tachov,nan nan,Tachov,Tachov,347 01,,49.7972138,12.6341185,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10065
+66,Poliklinika Viniční,nan nan,Brno,Brno-město,615 00,,49.1985243,16.655853,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10066
+67,Poliklinika Vltava,Fr. Ondříčka 2,České Budějovice,České Budějovice,370 01,,48.9889732,14.4543515,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10067
+68,Poliklinika Vltavínská,Vltavínská 1289,Třebíč,Třebíč,674 01,,49.2041979,15.8786825,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10068
+69,Poliklinika: Dětské oddělení,nan nan,Bystřice nad Pernštejnem,Žďár nad Sázavou,593 01,,49.5251242,16.2614898,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10069
+70,Přeloučská poliklinika,nan nan,Přelouč,Pardubice,535 01,,50.0358099,15.5662839,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10070
+71,Sdružení ambulantních lékařů spol. s r.o.,nan nan,Lanškroun,Ústí nad Orlicí,563 01,,49.9114674,16.6130209,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10071
+72,Silesia Medical,Havanská 6145/4a,Ostrava,Ostrava-město,702 00,,49.8338208,18.1688303,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10072
+73,Stará poliklinika,nan nan,Prostějov,Prostějov,796 01,,49.4714077,17.1200085,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10073
+74,Stomatologická klinika,nan nan,Olomouc,Olomouc,779 00,,49.5962159,17.2442028,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10074
+75,Surgal Clinic,Drobného 307/38,Brno,Brno-město,613 00,+420532149348,49.207781,16.611391,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10075
+76,Zdravotni stredisko,nan nan,Chomutov,Chomutov,430 01,,50.4876367,13.4383314,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10076
+77,Zdravotnické zařízení Smíchov,nan nan,Praha,Hlavní město Praha,150 00,,50.073543,14.4006059,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10077
+78,Zdravotní střediko,Školní 196,Meziměstí,Náchod,549 81,,50.6276713,16.2413407,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10078
+79,Zdravotní středisko,nan nan,Jablonné v Podještědí,Liberec,471 25,,50.766254,14.7594649,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10079
+80,Zdravotní středisko,nan nan,Velký Týnec,Olomouc,783 72,,49.5514446,17.3343698,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10080
+81,Zdravotní středisko,nan nan,Přerov nad Labem,Nymburk,289 16,,50.1599071,14.8254149,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10081
+82,Zdravotní středisko,nan nan,Kravaře,Opava,747 21,,49.9336698,18.0134846,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10082
+83,Zdravotní středisko,nan nan,Karviná,Karviná,733 01,,49.8500818,18.5599286,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10083
+84,Zdravotní středisko,nan nan,Přibyslav,Havlíčkův Brod,582 22,,49.5769295,15.737742,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10084
+85,Zdravotní středisko,nan nan,Litoměřice,Litoměřice,412 01,,50.5375319,14.1259822,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10085
+86,Zdravotní středisko,nan 65,Straškov-Vodochody,Litoměřice,411 84,,50.361871,14.246708,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10086
+87,Zdravotní středisko Březenecká,Březenecká 4804,Chomutov,Chomutov,430 01,,50.4765722,13.4119045,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10087
+88,Zdravotní středisko Zašová,nan nan,Zašová,Vsetín,756 51,,49.4721393,18.0419292,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10088
+89,klinika adiktologie,nan nan,Praha,Hlavní město Praha,120 00,,50.0703133,14.4229735,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10089
+90,poliklinika,nan nan,Hradec Králové,Hradec Králové,500 03,,50.2099172,15.8237817,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10090
+91,poliklinika Galen,nan nan,Ústí nad Orlicí,Ústí nad Orlicí,562 01,,49.9715514,16.4000798,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10091
+92,poliklinika Galen,nan nan,Ústí nad Orlicí,Ústí nad Orlicí,562 01,,49.9717317,16.3997317,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10092
+93,poliklinika Galen,nan nan,Ústí nad Orlicí,Ústí nad Orlicí,562 01,,49.97166,16.400459,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10093
+94,poliklinika Galen,nan nan,Ústí nad Orlicí,Ústí nad Orlicí,562 01,,49.971579,16.400614,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10094

@@ -1,0 +1,18 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+2,20002,Alytaus apskrities S. Kudirkos ligoninė,Ligoninės g. 12,Alytus,Alytaus savivaldybė,62112,,,,,Yes,,54.3989181,24.0406259
+9,20009,Biržų ligoninė,Vilniaus g. 115,Biržai,Biržų rajono savivaldybė,41150,,,,,Yes,,56.1883822,24.7585641
+13,20013,Grigiškių palaikomojo gydymo ir slaugos ligoninė,Mokyklos g. 10,Vilnius,Vilniaus Miesto savivaldybė,03113,,,,,Yes,,54.671906,25.0902703
+19,20019,Joniškėlio ligoninė,Vytauto g. 3,Joniškėlis,Pasvalio rajono savivaldybė,39306,,,,,Yes,,56.0262554,24.1690884
+20,20020,Jurbarko ligoninė,nan nan,Jurbarkas,Jurbarko rajono savivaldybė,74133,,,,,Yes,,55.0854936,22.7486134
+28,20028,Kauno Raudonojo Kryžiaus klinikinė ligoninė,Gedimino g. 36,Kaunas,Kauno savivaldybė,44301,,,,,Yes,,54.8956665,23.9218516
+30,20030,Kelmės ligoninė,Nepriklausomybės g. 2,Kelmė,Kelmės rajono savivaldybė,86169,,,,,Yes,,55.6311415,22.9467744
+33,20033,Klaipėdos universitetinė ligoninė,nan nan,Klaipėda,Klaipėdos savivaldybė,91218,,,,,Yes,,55.7513834,21.1284329
+34,20034,Klaipėdos vaikų ligoninė,K. Donelaičio g. 7,Klaipėda,Klaipėdos savivaldybė,91218,,+37046484144;+37046484120,,,Yes,,55.7151376,21.1352706
+35,20035,Kražių ambulatorija,S. Dariaus ir S. Girėno g. 35,Kražiai,Kelmės rajono savivaldybė,86285,,,,,Yes,,55.6029106,22.6893136
+45,20045,LSMUL Kauno Klinikos,Eivenių g. 2,Kaunas,Kauno savivaldybė,50176,,,,,Yes,,54.9189294,23.919375
+57,20057,Neringos pirminės sveikatos priežiūros centras,Taikos g. 11,Neringa,Neringos Savivaldybe,93124,,,,,Yes,,55.302643,21.0033078
+75,20075,Respublikinė Klaipėdos ligoninė,S. Nėries g. 3,Klaipėda,Klaipėdos savivaldybė,91218,,+370 46 410 688,,,Yes,,55.7184174,21.1327333
+77,20077,Respublikinė Vilniaus universitetinė ligoninė,Šiltnamių g. 29,Vilnius,Vilniaus Miesto savivaldybė,04130,,,,,Yes,,54.6691438,25.2055004
+85,20085,Santariškių klinikų vaikų ligoninė,Santariškių g. 7,Vilnius,Vilniaus Miesto savivaldybė,08411,,,,,Yes,,54.7554462,25.281913
+116,20116,VšĮ Kupiškio Pirminės Sveikatos Priežiūros Centras,Krantinės g. 30,Kupiškis,Kupiškio rajono savivaldybė,40115,,,,,Yes,,55.8369856,24.9914702
+121,20121,VšĮ „Kupiškio ligoninė“,Krantinės g. 28,Kupiškis,Kupiškio rajono savivaldybė,40115,,,,,Yes,,55.8373946,24.9876543

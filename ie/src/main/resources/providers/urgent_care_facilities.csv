@@ -1,0 +1,20 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+8,20008,Beaumont Hospital,nan nan,Dublin,,,,,,,Yes,,53.3923659,-6.222199
+17,20017,Cavan General Hospital,Golf Links Road nan,Cavan,,,,+353-49-4376000,,,Yes,,54.000921,-7.3746693
+26,20026,Connolly Hospital,Navan Road nan,Dublin,,,,+353-1-6465000,,,Yes,,53.3867253,-6.3689484
+28,20028,Cork University Hospital,Bishopstown Road nan,Cork,,,,,,,Yes,,51.8854888,-8.5075272
+54,20054,Mater Misericordiae University Hospital,North Circular Road nan,Dublin,,,,,,,Yes,,53.3584846,-6.2669005
+58,20058,Mayo University Hospital,John Moore Road nan,Castlebar,,,,+353-94-9021733,,,Yes,,53.8495789,-9.3018946
+62,20062,Midland Regional Hospital Mullingar,Longford Road nan,Mullingar,,,,,,,Yes,,53.5343723,-7.3508528
+73,20073,Our Lady of Lourdes Hospital,nan nan,Drogheda,,,,,,,Yes,,53.7227981,-6.3527367
+74,20074,Our Lady's Children's Hospital Crumlin,Cooley Road nan,Dublin,,,,,,,Yes,,53.3271596,-6.3192423
+78,20078,Portiuncula Hospital,nan nan,Ballinasloe,,,,+353-90-964-8200,,,Yes,,53.325815,-8.2353485
+103,20103,St Joseph's Community Hospital,nan nan,Bantry,,,,,,,Yes,,51.6525431,-9.9004154
+110,20110,St Vincent's University Hospital,Merrion Road nan,Dublin,,,,+353-1-2214000,,,Yes,,53.3181377,-6.2142474
+117,20117,St. James's Hospital,James's Street nan,Dublin,,,,+353-1-4103000,,,Yes,,53.3384095,-6.2994208
+121,20121,St. Luke's General Hospital,Freshford Road nan,Kilkenny,,,,,,,Yes,,52.6663849,-7.2650639
+123,20123,St. Michael's Hospital,Georges Street Lower nan,Dun Laoghaire,,,,+353 1 280 6901,,,Yes,,53.2945252,-6.1387525
+128,20128,Tallaght University Hospital,Belgard Square North nan,Dublin,,,,+353-1-4142000,,,Yes,,53.2892594,-6.3761378
+135,20135,University Hospital Kerry,nan nan,Tralee,,,,,,,Yes,,52.2640542,-9.6883661
+137,20137,University Hospital Waterford,nan nan,Waterford,,,,,,,Yes,,52.2476166,-7.0836076
+139,20139,Wexford General Hospital,nan nan,Wexford,,,,+353 53 9142233,,,Yes,,52.341674,-6.4821267

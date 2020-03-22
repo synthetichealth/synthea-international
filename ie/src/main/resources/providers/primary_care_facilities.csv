@@ -1,0 +1,74 @@
+,name,address,city,state,zip,phone,LAT,LON,hasSpecialties,ADDICTION MEDICINE,ADVANCED HEART FAILURE AND TRANSPLANT CARDIOLOGY,ALLERGY/IMMUNOLOGY,ANESTHESIOLOGY,ANESTHESIOLOGY ASSISTANT,AUDIOLOGIST,CARDIAC ELECTROPHYSIOLOGY,CARDIAC SURGERY,CARDIOVASCULAR DISEASE (CARDIOLOGY),CERTIFIED NURSE MIDWIFE,CERTIFIED REGISTERED NURSE ANESTHETIST,CHIROPRACTIC,CLINICAL NURSE SPECIALIST,CLINICAL PSYCHOLOGIST,CLINICAL SOCIAL WORKER,COLORECTAL SURGERY (PROCTOLOGY),CRITICAL CARE (INTENSIVISTS),DENTIST,DERMATOLOGY,DIAGNOSTIC RADIOLOGY,EMERGENCY MEDICINE,ENDOCRINOLOGY,FAMILY PRACTICE,GASTROENTEROLOGY,GENERAL PRACTICE,GENERAL SURGERY,GERIATRIC MEDICINE,GERIATRIC PSYCHIATRY,GYNECOLOGICAL ONCOLOGY,HAND SURGERY,HEMATOLOGY,HEMATOLOGY/ONCOLOGY,HEMATOPOIETIC CELL TRANSPLANTATION AND CELLULAR TH,HOSPICE/PALLIATIVE CARE,HOSPITALIST,INFECTIOUS DISEASE,INTERNAL MEDICINE,INTERVENTIONAL CARDIOLOGY,INTERVENTIONAL PAIN MANAGEMENT,INTERVENTIONAL RADIOLOGY,MAXILLOFACIAL SURGERY,MEDICAL ONCOLOGY,NEPHROLOGY,NEUROLOGY,NEUROPSYCHIATRY,NEUROSURGERY,NUCLEAR MEDICINE,NURSE PRACTITIONER,OBSTETRICS/GYNECOLOGY,OCCUPATIONAL THERAPY,OPHTHALMOLOGY,OPTOMETRY,ORAL SURGERY,ORTHOPEDIC SURGERY,OSTEOPATHIC MANIPULATIVE MEDICINE,OTOLARYNGOLOGY,PAIN MANAGEMENT,PATHOLOGY,PEDIATRIC MEDICINE,PERIPHERAL VASCULAR DISEASE,PHYSICAL MEDICINE AND REHABILITATION,PHYSICAL THERAPY,PHYSICIAN ASSISTANT,PLASTIC AND RECONSTRUCTIVE SURGERY,PODIATRY,PREVENTATIVE MEDICINE,PSYCHIATRY,PULMONARY DISEASE,RADIATION ONCOLOGY,REGISTERED DIETITIAN OR NUTRITION PROFESSIONAL,"RHEUMATOLOGY,",SLEEP MEDICINE,SPEECH LANGUAGE PATHOLOGIST,SPORTS MEDICINE,SURGICAL ONCOLOGY,THORACIC SURGERY,UNDEFINED PHYSICIAN TYPE (SPECIFY),"UROLOGY,",VASCULAR SURGERY,id
+0,An Coillín,nan nan,Castlebar,,,,53.8491306,-9.3071503,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000
+1,Athenry Primary Care Centre,Raheen Woods Road nan,Athenry,,,+353-91-844489,53.2996773,-8.7558231,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10001
+2,Athy Health Centre,nan nan,Athy,,,,52.9949225,-6.9910013,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10002
+3,Atrium,nan nan,Mullingar,,,,53.533572,-7.3491108,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10003
+4,Bagenalstown Health Centre,nan nan,Muine Bheag,,,,52.7015948,-6.9593342,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10004
+5,Ballinderry Clinic,nan nan,Mullingar,,,+353-44-9329900,53.514482,-7.3358716,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10005
+6,Ballyfermot & Palmerstown Primary Care and Mental Health Centre,nan nan,Dublin,,,,53.3429779,-6.3720754,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10006
+7,Breast Check Southern Unit,Infirmary Road nan,Cork,,,,51.8937622,-8.4654642,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10007
+8,Brú Chaoimhín Campus,Cork Street nan,Dublin,,,,53.3372381,-6.2860386,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10008
+9,CADS Clinic (OLD FEVER HOSPITAL),nan nan,Mullingar,,,,53.5366753,-7.3506295,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10009
+10,Cara Medical Centre,nan nan,Limerick,,,+353-69-72040,52.4546319,-9.0524026,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10010
+11,Castleknock Health Facility,nan nan,Dublin,,,,53.3712146,-6.358365,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10011
+12,Celbridge Health Centre,Shackleton Road nan,Naas,,,,53.3446479,-6.5450907,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10012
+13,Cill Dara Primary Care Centre,nan nan,Kildare,,,,53.1541955,-6.9013399,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10013
+14,City General Hospital,Infirmary Road nan,Cork,,,,51.8933242,-8.4656528,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10014
+15,Clonbrusk Primary Care Centre,nan nan,Athlone,,,,53.4331091,-7.9428249,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10015
+16,Crumlin Mental Health Centre,Armagh Road nan,Dublin,,,,53.3199747,-6.3093513,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10016
+17,Cuisle Cancer Support Centre,nan nan,Portlaoise,,,,53.0356321,-7.2758065,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10017
+18,Delvin Health Centre,nan nan,Mullingar,,,,53.6135201,-7.0915221,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10018
+19,Dunshaughlin Health Centre Unit,nan nan,Dunshaughlin,,,,53.5080547,-6.5436364,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10019
+20,East Galway Cancer Support,nan nan,Ballinasloe,,,,53.3239212,-8.2405501,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10020
+21,Elmwood Medical Centre,nan nan,Cork,,,+353 21 489 3255,51.8670434,-8.4581089,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10021
+22,Enniscrone Primary Care and Community Resource Centre,nan nan,Ballina,,,,54.215566,-9.0823867,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10022
+23,Everyman Centre,Mount Street Lower 4,Dublin,,,,53.3393151,-6.2458998,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10023
+24,Glasnevin Health Centre,Botanic Avenue nan,Dublin,,,,53.3723945,-6.2676111,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10024
+25,Graiguenamanagh Health Centre,nan nan,Kilkenny,,,,52.5419864,-6.9543223,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10025
+26,Grove Medical Centre,Sean Purcell Road nan,Tuam,,,,53.51169,-8.852714,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10026
+27,HSE Health Centre,nan nan,Naas,,,,53.0213842,-6.6128294,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10027
+28,HSE Health Clinic,nan nan,Blackrock,,,,53.2706297,-6.1557053,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10028
+29,HSE Our Lady's Clinic,Patrick Street nan,Dun Laoghaire,,,,53.2914317,-6.1371863,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10029
+30,HSE Primary Care Centre,nan nan,Lifford,,,,54.8050288,-7.7664364,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10030
+31,"HSE, The Derg Centre",nan nan,Nenagh,,,,52.8719816,-8.2194838,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10031
+32,Health Centre,nan nan,Castlebar,,,,53.8527525,-9.3028959,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10032
+33,Health Centre,nan nan,Athy,,,,52.9423387,-7.0431644,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10033
+34,Inchicore Primary Care and Mental Health Centre,St Michael's Estate nan,Dublin,,,,53.3378493,-6.3147542,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10034
+35,Ionad Sláinte,nan nan,Tory Island,,,,55.2644589,-8.2242985,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10035
+36,Kingdom Clinic,"New Street 43,44",Killarney,,,,52.0586086,-9.5145456,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10036
+37,Lisdoonvarna Health Centre,nan nan,Ennis,,,,53.0292672,-9.286835,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10037
+38,Louisburgh Medical Practice,nan nan,Westport,,,,53.7631755,-9.8064937,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10038
+39,Marian House ASD Services,nan nan,Cork,,,+353 21 434 7087,51.8588902,-8.4932752,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10039
+40,McGreals Primary Care Centre,Blessington Business Park nan,Naas,,,,53.1765033,-6.529605,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10040
+41,Millbrook Lawns Health Centre,nan nan,Dublin,,,,53.2845061,-6.3554102,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10041
+42,Mohill Primary Care Centre,nan nan,Mohill,,,,53.9234678,-7.8654143,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10042
+43,Mullingar Primary Care Centre,nan nan,Mullingar,,,,53.5326851,-7.3455377,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10043
+44,Northbrook Clinic,Northbrook Road nan,Dublin,,,,53.3285908,-6.2561453,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10044
+45,Old County Road Health Centre,Crumlin Road nan,Dublin,,,+353 1 4154700,53.3289558,-6.3026502,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10045
+46,Palace Medical Centre,nan nan,Tuam,,,,53.5228586,-8.8524384,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10046
+47,Park Medical & Dental Centre,Park Road nan,Killarney,,,,52.0606536,-9.4894407,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10047
+48,Primary Care Centre,Armagh Road nan,Dublin,,,,53.3194176,-6.3060069,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10048
+49,Primary Care Centre,Grangegorman Upper nan,Dublin,,,,53.3569212,-6.2823827,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10049
+50,Primary Care Centre Sligo,Barrack Street nan,Sligo,,,,54.2768244,-8.4747158,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10050
+51,Primary Care Medical Centre,nan nan,Galway,,,,53.1142297,-9.1500886,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10051
+52,Priority Medical,Pembroke Cottages 6,Dublin,,,+353 1 291 6153,53.2898266,-6.2439189,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10052
+53,Rathangan Medical Center,nan nan,Kildare,,,,53.2208388,-6.992609,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10053
+54,Rathcormac Clinic,nan nan,Fermoy,,,,52.0785389,-8.2810167,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10054
+55,Rathmullan Health Centre,nan nan,Letterkenny,,,,55.0956526,-7.5339952,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10055
+56,Reflections,nan nan,Mohill,,,,53.9219172,-7.865241,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10056
+57,Roselawn Health Centre,nan nan,Dublin,,,,53.3844999,-6.3828729,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10057
+58,Slievemore Clinic,Old Dublin Road nan,Blackrock,,,+353-1-200-0501,53.292638,-6.2009724,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10058
+59,South Doc Youghal,nan nan,Youghal,,,1850 335 999,51.971019,-7.8626907,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10059
+60,Swords Health Centre,nan nan,Swords,,,+353 1 890 2200,53.4595885,-6.2215601,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10060
+61,The Cork Clinic,Western Road nan,Cork,,,,51.8936248,-8.497602,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10061
+62,The Mayo Clinic,nan nan,Castlebar,,,,53.8556081,-9.2879402,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10062
+63,Thomas Court Primary Care Clinic,Hanbury Lane nan,Dublin,,,,53.3424219,-6.2808994,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10063
+64,Tuam Health Centre,nan nan,Tuam,,,,53.5119146,-8.8533571,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10064
+65,Tullow Health Centre,nan nan,Carlow,,,,52.8037328,-6.7306141,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10065
+66,Turloughmore Clinic,nan nan,Athenry,,,,53.369021,-8.8935277,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10066
+67,Virginia Community Health Centre,nan nan,Kells,,,,53.830926,-7.0683527,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10067
+68,Walmer College and Holistic Centre,nan nan,Dublin,,,,53.3843386,-6.1748913,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10068
+69,Wexford Community Services,Upper Georges Street nan,Wexford,,,,52.339868,-6.4658331,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10069
+70,Wexford Primary Care Centre,Grogans Road nan,Wexford,,,,52.335137,-6.4659669,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10070
+71,Whitfield Clinic,nan nan,Waterford,,,,52.2403224,-7.1738185,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10071
+72,health centre,nan nan,Castlerea,,,,53.8997838,-8.5792816,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10072

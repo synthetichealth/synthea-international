@@ -1,0 +1,24 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,20000,Aalborg Universitetshospital,,Aalborg,Aalborg,9000,,,,,Yes,,57.0360687,9.9091295
+3,20003,"Aalborg Universitetshospital, Farsø",,Farsø,Vesthimmerlands,9640,,,,,Yes,,56.7772698,9.3350686
+4,20004,"Aalborg Universitetshospital, Hobro",,Hobro,Mariagerfjord,9500,,+4597652000,,,Yes,,56.633789,9.7963359
+6,20006,Aarhus Universitetshospital,,Aarhus,Aarhus,8000,,,,,Yes,,56.1859328,10.1703464
+11,20011,Bispebjerg Hospital,,København,København,2400,,,,,Yes,,55.7153074,12.5369548
+12,20012,Bornholms Hospital,,Rønne,Bornholm,3700,,,,,Yes,,55.0896987,14.7077031
+14,20014,Frederiksberg Hospital,,Frederiksberg,Frederiksberg,2000,,,,,Yes,,55.6884734,12.5243674
+15,20015,Gentofte Hospital,,Hellerup,Gentofte,2900,,,,,Yes,,55.7379509,12.5444273
+17,20017,Herlev Hospital,,Herlev,Herlev,2730,,,,,Yes,,55.7339037,12.4396485
+18,20018,Herning Centralsygehus,,Herning,Herning,7400,,,,,Yes,,56.1412346,8.9723046
+25,20025,Nordsjællands Hospital – Frederikssund,,,,,,,,,Yes,,55.8469813,12.0827222
+26,20026,Nordsjællands Hospital – Hillerød,,Hillerød,Hillerød,3400,,,,,Yes,,55.9311993,12.3230106
+29,20029,Odense Universitetshospital,,Odense C,Odense,5000,,,,,Yes,,55.3891189,10.3622345
+35,20035,Psykiatrisk Center Glostrup (afdeling Hvidovre),,,,,,,,,Yes,,55.6504542,12.4441544
+39,20039,Regionshospitalet Holstebro,,Holstebro,Holstebro,7500,,,,,Yes,,56.3625856,8.6284558
+40,20040,Regionshospitalet Horsens,,Horsens,Horsens,8700,,,,,Yes,,55.864291,9.8713133
+41,20041,Regionshospitalet Randers,,Randers,Randers,8900,,,,,Yes,,56.4694205,10.0462763
+42,20042,Regionshospitalet Silkeborg,,Silkeborg,Silkeborg,8600,,,,,Yes,,56.1710665,9.5580562
+44,20044,Rigshospitalet,,København,København,2100,,,,,Yes,,55.6995964,12.5646201
+46,20046,Roskilde Sygehus,,Roskilde,Roskilde,4000,,,,,Yes,,55.6358365,12.09477
+47,20047,Samsø Sundheds- og Akuthus,,Tranebjerg,Samsø,8305,,,,,Yes,,55.8307263,10.5903912
+57,20057,"Sydvestjydsk Sygehus, Esbjerg",,Esbjerg,Esbjerg,6700,,,,,Yes,,55.4734797,8.455534
+60,20060,Ærø Sygehus,,Ærøskøbing,Ærø,5970,,,,,Yes,,54.8924021,10.4062921

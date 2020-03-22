@@ -1,0 +1,23 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,20000,400 ágyas klinika,Ifjúság útja 13,Pécs,Baranya,7624,,,,,Yes,,46.0750451,18.2070318
+13,20013,Budai Gyermekkórház,Bolyai utca 5-9,Budapest,Budapest,1026,,,,,Yes,,47.517915,19.029753
+14,20014,Bugát Pál Kórház,nan nan,Gyöngyös,Heves,3200,,,,,Yes,,47.7877141,19.9286501
+15,20015,Bugát Pál Kórház,nan nan,Gyöngyös,Heves,3200,,,,,Yes,,47.7889463,19.9297544
+23,20023,Debreceni Egyetem Kenézy Gyula Kórház,nan nan,Debrecen,Debreceni Járás,4026,,,,,Yes,,47.5341087,21.6055168
+28,20028,Dorogi Szent Borbála Szakkórház,Kossuth Lajos utca 6,Dorog,Esztergomi Járás,2510,,,,,Yes,,47.7198608,18.7335302
+29,20029,Dr. Bugyi István Kórház,Sima Ferenc utca 44-58,Szentes,Szentesi Járás,6600,,+36 63 313 244,,,Yes,,46.6641205,20.2507897
+34,20034,Egészségügyi központ,nan nan,Szakoly,Nagykállói Járás,4234,,,,,Yes,,47.7616914,21.9034194
+41,20041,Gottsegen György Országos Kardiológiai Intézet,Haller utca 29,Budapest,Budapest,1093,,+3612151220,,,Yes,,47.476838,19.0849676
+56,20056,III. épület,nan nan,Sopron,Soproni Járás,9400,,,,,Yes,,47.6766734,16.5984195
+68,20068,Jávorszky Ödön Városi Kórház,nan nan,Vác,Pest,2600,,,,,Yes,,47.7821158,19.1498361
+70,20070,Jósa András Oktatókórház,Szent István utca 68,Nyíregyháza,Nyíregyházi Járás,4400,,+36 42 599 700;+36 42 506 800,,,Yes,,47.9522607,21.7298101
+71,20071,Kanizsai Dorottya kórház,Szekeres József utca 2-8,Nagykanizsa,Zala,8800,,+36 93 502 092,,,Yes,,46.4505899,16.9973638
+72,20072,Kaposi Mór Megyei Kórház,nan nan,Kaposvár,Somogy,7400,,,,,Yes,,46.3603655,17.7974317
+94,20094,Markhot Ferenc Oktatókórház és Rendelőintézet,nan nan,Eger,Heves,3300,,,,,Yes,,47.9049144,20.3753925
+95,20095,Markusovszky Kórház,nan nan,Szombathely,Vas,9700,,,,,Yes,,47.2361436,16.6179525
+106,20106,Országos Traumatológiai Intézet,Fiumei út 17,Budapest,Budapest,1082,,,,,Yes,,47.4965437,19.0803534
+126,20126,Semmelweis Kórház,nan nan,Kiskunhalas,Kiskunhalasi Járás,6400,,,,,Yes,,46.4327513,19.4726907
+142,20142,Szent Pantaleon kórház,nan nan,Dunaújváros,Dunaújvárosi Járás,2400,,,,,Yes,,46.9649959,18.9430467
+148,20148,Százhalom Egészségügyi Központ,nan nan,Százhalombatta,Pest,2440,,,,,Yes,,47.3220474,18.9093872
+159,20159,Vaszary Kolos Kórház,Petőfi Sándor utca 26-28,Esztergom,Esztergomi Járás,2500,,,,,Yes,,47.791445,18.7458029
+162,20162,Városi Kórház Keszthely,Ady Endre utca 2,Keszthely,Zala,8360,,+36 83 311 060,,,Yes,,46.7685453,17.2532738

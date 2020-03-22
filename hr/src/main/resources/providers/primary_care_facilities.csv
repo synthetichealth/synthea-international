@@ -1,0 +1,89 @@
+,name,address,city,state,zip,phone,LAT,LON,hasSpecialties,ADDICTION MEDICINE,ADVANCED HEART FAILURE AND TRANSPLANT CARDIOLOGY,ALLERGY/IMMUNOLOGY,ANESTHESIOLOGY,ANESTHESIOLOGY ASSISTANT,AUDIOLOGIST,CARDIAC ELECTROPHYSIOLOGY,CARDIAC SURGERY,CARDIOVASCULAR DISEASE (CARDIOLOGY),CERTIFIED NURSE MIDWIFE,CERTIFIED REGISTERED NURSE ANESTHETIST,CHIROPRACTIC,CLINICAL NURSE SPECIALIST,CLINICAL PSYCHOLOGIST,CLINICAL SOCIAL WORKER,COLORECTAL SURGERY (PROCTOLOGY),CRITICAL CARE (INTENSIVISTS),DENTIST,DERMATOLOGY,DIAGNOSTIC RADIOLOGY,EMERGENCY MEDICINE,ENDOCRINOLOGY,FAMILY PRACTICE,GASTROENTEROLOGY,GENERAL PRACTICE,GENERAL SURGERY,GERIATRIC MEDICINE,GERIATRIC PSYCHIATRY,GYNECOLOGICAL ONCOLOGY,HAND SURGERY,HEMATOLOGY,HEMATOLOGY/ONCOLOGY,HEMATOPOIETIC CELL TRANSPLANTATION AND CELLULAR TH,HOSPICE/PALLIATIVE CARE,HOSPITALIST,INFECTIOUS DISEASE,INTERNAL MEDICINE,INTERVENTIONAL CARDIOLOGY,INTERVENTIONAL PAIN MANAGEMENT,INTERVENTIONAL RADIOLOGY,MAXILLOFACIAL SURGERY,MEDICAL ONCOLOGY,NEPHROLOGY,NEUROLOGY,NEUROPSYCHIATRY,NEUROSURGERY,NUCLEAR MEDICINE,NURSE PRACTITIONER,OBSTETRICS/GYNECOLOGY,OCCUPATIONAL THERAPY,OPHTHALMOLOGY,OPTOMETRY,ORAL SURGERY,ORTHOPEDIC SURGERY,OSTEOPATHIC MANIPULATIVE MEDICINE,OTOLARYNGOLOGY,PAIN MANAGEMENT,PATHOLOGY,PEDIATRIC MEDICINE,PERIPHERAL VASCULAR DISEASE,PHYSICAL MEDICINE AND REHABILITATION,PHYSICAL THERAPY,PHYSICIAN ASSISTANT,PLASTIC AND RECONSTRUCTIVE SURGERY,PODIATRY,PREVENTATIVE MEDICINE,PSYCHIATRY,PULMONARY DISEASE,RADIATION ONCOLOGY,REGISTERED DIETITIAN OR NUTRITION PROFESSIONAL,"RHEUMATOLOGY,",SLEEP MEDICINE,SPEECH LANGUAGE PATHOLOGIST,SPORTS MEDICINE,SURGICAL ONCOLOGY,THORACIC SURGERY,UNDEFINED PHYSICIAN TYPE (SPECIFY),"UROLOGY,",VASCULAR SURGERY,id
+0,Ambulanta,nan nan,Zagreb,,10090,,45.803132,15.8949806,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000
+1,Ambulanta,nan nan,Stari Jankovci,,32242,,45.2152054,18.9851917,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10001
+2,Ambulanta,nan nan,Bilje,,31327,,45.606568,18.7496048,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10002
+3,Ambulanta,nan nan,Trilj,,21240,,43.6151593,16.726128,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10003
+4,Ambulanta Antunovac,nan nan,Antunovac,,31216,,45.4876699,18.6730355,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10004
+5,Ambulanta Gerovo,nan nan,Čabar,,51306,,45.5153421,14.6445735,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10005
+6,Ambulanta Josipdol,nan nan,Josipdol,,47303,,45.1899206,15.2842284,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10006
+7,Ambulanta Komletinci,Ulica braće Radić 13a,Otok,,32252,,45.1494388,18.9469436,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10007
+8,Ambulanta Krk,nan nan,Krk,,51500,,45.0286173,14.5693949,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10008
+9,Ambulanta Perušić,nan nan,Perušić,,53202,,44.6489412,15.3803989,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10009
+10,Ambulanta Popovac,Đure Đakovića 2,Popovac,,31300,+385 31 728142,45.8059972,18.6609048,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10010
+11,Ambulanta Sarvaš,Osječka ulica 64,Osijek,,31000,,45.5238027,18.8418683,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10011
+12,Ambulanta Tenja,nan nan,Osijek,,31207,,45.5045145,18.7433375,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10012
+13,Ambulanta Velika,Ulica Vladimira Nazora 4,Velika,,34330,,45.4438688,17.6636292,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10013
+14,Ambulanta opće medicine Bukovac,nan nan,Zagreb,,10000,,45.8396576,16.011112,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10014
+15,Ambulanta Čeminac,Ulica Ljudevita Gaja 2,Čeminac,,31326,,45.6861363,18.6683714,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10015
+16,Dječji dispanzer,Trg Hrvatske bratske zajednice 4,Split,,21000,,43.5156914,16.4395231,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10016
+17,Dom Zdravlja Umag,Edoarda Pascalija ulica - Via Edoardo Pascali 3a,Umag,,52470,,45.4329549,13.5240945,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10017
+18,Dom zdravlja,Odranska ulica 10,Zagreb,,10000,,45.7924313,15.9624538,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10018
+19,Dom zdravlja,nan nan,Zagreb,,10110,,45.7968575,15.9497958,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10019
+20,Dom zdravlja,Trg kralja Tomislava 15,Donji Andrijevci,,35214,,45.1862767,18.2958862,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10020
+21,"Dom zdravlja ""Dr. J. Kajfež""",Šetalište Ivana Gorana Kovačića 1,Delnice,,51300,+385 51 811 233,45.3977403,14.8036985,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10021
+22,Dom zdravlja Botinec,Ulica Zlatarova zlata 65a,Zagreb,,10020,,45.7544592,15.9389899,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10022
+23,Dom zdravlja Centar,Matka Laginje 16,Zagreb,,10000,+385 1 4604 195,45.8131313,15.9923829,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10023
+24,Dom zdravlja Donji grad,Prolaz kod Snježne Gospe 1,Osijek,,31000,,45.5544786,18.718831,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10024
+25,Dom zdravlja Gajevo-Jarun,Ulica Hrvoja Macanovića 2a,Zagreb,,10110,,45.7897323,15.934184,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10025
+26,Dom zdravlja Gajnice,nan nan,Zagreb,,10090,,45.8159971,15.8768667,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10026
+27,Dom zdravlja Hvar,nan nan,Hvar,,21450,,43.1733085,16.4354189,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10027
+28,Dom zdravlja Ivanec,nan nan,Ivanec,,42240,,46.2247459,16.1270056,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10028
+29,Dom zdravlja Ivanec Bistranski,nan nan,Zaprešić,,10290,,45.8497361,15.833388,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10029
+30,Dom zdravlja Jelsa,nan nan,Jelsa,,21465,+385 21 583 533,43.1665649,16.6810931,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10030
+31,Dom zdravlja Kastav,Kastav 169,Kastav,,51215,,45.3712862,14.3535305,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10031
+32,Dom zdravlja Klanjec,Trg mira 9,Klanjec,,49290,,46.0477575,15.7392317,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10032
+33,Dom zdravlja Kozjak,Rebar 33,Zagreb,,10000,+385 1 234 7830,45.8307559,15.9999301,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10033
+34,Dom zdravlja Lipik,Slavonska ulica 51,Lipik,,34550,034/421-285,45.4113055,17.1638925,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10034
+35,Dom zdravlja MUP,nan nan,Zagreb,,10110,,45.8008718,15.960391,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10035
+36,Dom zdravlja Mali Lošinj,Ulica dr. Dinka Kozulića 7,Mali Lošinj,,51550,051 23 12 05,44.5328651,14.4631007,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10036
+37,Dom zdravlja Ogulin,nan nan,Ogulin,,47300,,45.2643052,15.227807,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10037
+38,Dom zdravlja Ozalj,nan nan,Ozalj,,47280,+385 47731002,45.6125372,15.4792798,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10038
+39,Dom zdravlja PGŽ,nan nan,Lovran,,51415,,45.2908779,14.2744228,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10039
+40,Dom zdravlja Peščenica,nan nan,Zagreb,,10135,,45.8057821,16.0181425,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10040
+41,Dom zdravlja Pleternica,nan nan,Pleternica,,34310,,45.2870322,17.7992116,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10041
+42,Dom zdravlja Podsused,nan nan,Zagreb,,10090,,45.8156936,15.8458738,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10042
+43,Dom zdravlja Poreč,nan nan,Poreč,,52440,,45.2275209,13.6054706,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10043
+44,Dom zdravlja Primorsko - goranske županije ispostava Vrbovsko,Ulica Dobra 20,Vrbovsko,,51326,+385 51 875138,45.3743622,15.0710462,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10044
+45,Dom zdravlja Retkovec,nan nan,Zagreb,,10040,,45.8276066,16.0650146,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10045
+46,Dom zdravlja Rudeš,nan nan,Zagreb,,10110,,45.7968616,15.9204365,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10046
+47,Dom zdravlja Sigečica,Rapska ulica 39,Zagreb,,10000,,45.7995528,16.0035568,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10047
+48,Dom zdravlja Trnje,Kruge 44,Zagreb,,10000,,45.7983214,15.9860984,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10048
+49,Dom zdravlja Varaždinske županije,Vinogradska ulica 1,Ludbreg,,42230,,46.2451725,16.6197953,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10049
+50,Dom zdravlja Vinkovci,Ulica kralja Zvonimira 53,Vinkovci,,32100,,45.2949363,18.8081987,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10050
+51,Dom zdravlja Vrapče,Vrabečak 4,Zagreb,,10090,,45.8143156,15.9068102,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10051
+52,Dom zdravlja Vrbovec,nan nan,Vrbovec,,10340,,45.8864897,16.4173618,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10052
+53,Dom zdravlja Vrgorac,Vukovarska ulica 23,Vrgorac,,21276,,43.202243,17.3750768,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10053
+54,Dom zdravlja Zagreb Centar,Ulica Josipa Runjanina 4,Zagreb,,10000,,45.8050456,15.9689764,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10054
+55,Dom zdravlja Zlatar Bistrica,nan nan,Zlatar Bistrica,,49246,,46.0536347,16.0836851,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10055
+56,Dom zdravlja Čazma,nan nan,Čazma,,43240,,45.7481792,16.6155626,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10056
+57,Dom zdravlja Črnomerec,Prilaz baruna Filipovića 11,Zagreb,,10000,,45.8114018,15.944001,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10057
+58,Hitna medicinska pomoć,nan nan,Dubrovnik,,20000,,42.6503367,18.0765839,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10058
+59,Hrvatski zavod za transfuzijsku medicinu,Petrova ulica 3,Zagreb,,10000,,45.8161627,15.9909159,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10059
+60,Istarski domovi zdravlja - Ispostava Rovinj,Trg Marka Zeljka 5,Kanfanar,,52341,,45.1232966,13.8389876,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10060
+61,"KBC Split, podružnica Zagvozd",Franje Tuđmana 46,Zagvozd,,21270,,43.3993929,17.0510218,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10061
+62,KBO Odjel za oftalmologiju,Europska avenija 14,Osijek,,31000,0038531225800,45.5607573,18.6845152,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10062
+63,Klinika Svjetlost,Ulica Vjekoslava Heinzela 39,Zagreb,,10135,+385 1 777 5656,45.8101493,16.0026856,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10063
+64,"Odjel za fizikalnu terapiju i rehabilitaciju, Ortopedska bolnica Biograd na moru",nan nan,Biograd na Moru,,23210,,43.9478933,15.4469685,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10064
+65,Područna ambulanta Mukinje,Mukinje 22,Plitvička jezera,,53230,,44.8750642,15.6268384,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10065
+66,Poliklinika Cosmogamma,nan nan,Zagreb,,10010,,45.7591304,16.0104166,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10066
+67,Poliklinika Dr. Zora Profozić,Bosutska ulica 19,Zagreb,,10000,,45.7971664,15.9822276,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10067
+68,Poliklinika Maja i Krešimir Čavka,Jordanovac 99,Zagreb,,10000,+385 1 2316 704,45.8255365,16.0018162,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10068
+69,Poliklinika Nemetova / Aviva,Nemetova 2,Zagreb,,10000,,45.8423165,15.9713997,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10069
+70,Poliklinika Peharec,Rizzijeva 101,Pula,,52100,,44.8533711,13.8526503,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10070
+71,Poliklinika Sunce,nan nan,Zagreb,,10110,,45.7866796,15.927713,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10071
+72,Poliklinika Sunce,nan nan,Split,,21000,,43.5197198,16.4537684,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10072
+73,Poliklinika Therapia,nan nan,Zadar,,23000,,44.1264042,15.2452844,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10073
+74,Poliklinika Turjak,Josipa Jurja Strossmayera 163,Osijek,,31000,,45.5627724,18.6566249,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10074
+75,Poliklinika Zagreb,Argentinska ulica 2,Zagreb,,10090,01/3832-354,45.8145745,15.8764791,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10075
+76,Poliklinika opće bolnice Zadar,nan nan,Zadar,,23000,,44.10819,15.2357118,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10076
+77,Poliklinika za rehabilitaciju slušanja i govora SUVAG,Ulica kneza Ljudevita Posavskog 10,Zagreb,,10000,+385 1 4629 600,45.8082858,15.9931166,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10077
+78,Rodilište,Spinčićeva 1/2,Split,,21000,,43.503864,16.4597086,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10078
+79,Sesvete medic centar,Kašinska cesta 28,Zagreb,,10360,,45.8309749,16.1102359,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10079
+80,Služba za produženo liječenje i palijativnu skrb Novi Marof,Varaždinska ulica 2,Novi Marof,,42220,,46.1665826,16.3350902,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10080
+81,"Služba školske medicine, Ambulanta Zamet",nan nan,Rijeka,,51000,,45.3430347,14.3904781,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10081
+82,Specijalna bolnica za medicinsku rehabilitaciju Varaždinske Toplice,Trg svetog Martina 1,Varaždinske Toplice,,42223,+385 42 630 000,46.2111083,16.4199228,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10082
+83,Thalassotherapia Opatija,Ulica maršala Tita 188,Opatija,,51410,,45.3289816,14.3002949,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10083
+84,Zavod za javno zdravstvo Splitsko-Dalmatinske županije,Vukovarska 46,Split,,21000,,43.5110023,16.4497373,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10084
+85,Zdravstvena stanica Josipovac,Zagorska 4,Osijek,,31220,,45.5796442,18.5890592,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10085
+86,Zdravstvena stanica Strmec,Ulica Kralja Tomislava 3,Sveta Nedelja,,10431,,45.8102704,15.7893581,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10086
+87,Školska poliklinika,Trg Hrvatske bratske zajednice 5,Split,,21000,,43.5162962,16.439811,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10087

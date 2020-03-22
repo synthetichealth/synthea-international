@@ -1,0 +1,3 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+2,20002,Saint James Hospital,George Borg Olivier Street nan,Sliema,,SLM,,35623291000.0,,,Yes,,35.913199,14.5029905
+3,20003,Saint James Hospital,Tal-Hotba 3.0,Żejtun,,ZTN,,35623291000.0,,,Yes,,35.8601481,14.5200336

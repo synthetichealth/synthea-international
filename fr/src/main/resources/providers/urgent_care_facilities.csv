@@ -1,0 +1,601 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+32,20032,C.H.U. - Hôpital Gabriel Montpied,nan nan,Beaumont,Puy-de-Dôme,63110,,+33 4 73 75 07 50,,,Yes,,45.7601964,3.0883572
+36,20036,CHAM - Centre Hospitalier de l'Arrondissement de Montreuil-sur-mer,Route Départementale 140,Rang-du-Fliers,Hauts-de-France,62180,,+33 3 21 89 46 25,,,Yes,,50.4156606,1.6606522
+38,20038,CHRU de Nancy Brabois,nan nan,Vandoeuvre-lès-Nancy,Grand Est,54500,,,,,Yes,,48.648566,6.14586
+42,20042,CHU Amiens Sud,nan nan,Amiens,Hauts-de-France,80000,,+33 3 22 45 60 00,,,Yes,,49.8700095,2.2480667
+43,20043,CHU Estaing,nan nan,Clermont-Ferrand,Puy-de-Dôme,63100,,+33 4 73 75 07 50,,,Yes,,45.7866733,3.1091001
+44,20044,CHU Félix Guyon,Allée des Topazes nan,Saint-Denis,Réunion,97400,,0262 90 50 50,,,Yes,,-20.8899622,55.4447582
+46,20046,CHU Louise Michel Hopital Nord,Route de Châteaugay 61,Cébazat,Puy-de-Dôme,63118,,,,,Yes,,45.8388679,3.0924428
+48,20048,CHU d'Angers,Rue Larrey nan,Angers,Pays de la Loire,49100,,+33 2 41 35 36 37,,,Yes,,47.4806504,-0.5595356
+49,20049,CHU de Guadeloupe,nan nan,Les Abymes,Guadeloupe,97139,,+33 5 90 89 10 10,,,Yes,,16.2384565,-61.5283281
+50,20050,CHU de Martinique,nan nan,Fort-de-France,Martinique,97200,,0596 55 20 00,,,Yes,,14.6351662,-61.0371342
+53,20053,CHU de Nîmes,nan nan,Nîmes,Occitanie,30000,,+33 4 66 68 68 68,,,Yes,,43.8242207,4.3253869
+54,20054,CHU de Reims,nan nan,Reims,Grand Est,51100,,+33 3 26 78 78 78,,,Yes,,49.2299514,4.0151871
+55,20055,CHU de Saint-Pierre,Avenue Président Mitterrand nan,Saint-Pierre,Réunion,97410,,0262 35 90 00,,,Yes,,-21.3436878,55.4962936
+85,20085,Centre Hospitalier Alpes Léman,Route de Findrol 558,Contamine-sur-Arve,Haute-Savoie,74130,,,,,Yes,,46.1433228,6.3205583
+87,20087,Centre Hospitalier Ardèche Méridionale,nan nan,Aubenas,Ardèche,07200,,+33 4 75 35 60 60,,,Yes,,44.6128718,4.3964802
+88,20088,Centre Hospitalier Ardèche Nord,nan nan,Annonay,Ardèche,07100,,+33 4 75 67 35 00,,,Yes,,45.2432613,4.6647689
+89,20089,Centre Hospitalier Aunay-Bayeux,nan nan,Bayeux,Normandie,14400,,+33 2 31 51 51 51,,,Yes,,49.275013,-0.701459
+91,20091,Centre Hospitalier Avranches - Granville,nan nan,Granville,Normandie,50400,,+33 2 33 91 50 00,,,Yes,,48.8287736,-1.567804
+92,20092,Centre Hospitalier Avranches - Granville,nan nan,Avranches,Normandie,50300,,+33 2 33 91 50 00,,,Yes,,48.691458,-1.35309
+98,20098,Centre Hospitalier Chamonix Mont Blanc,nan nan,Chamonix-Mont-Blanc,Haute-Savoie,74400,,+33 4 50 53 84 00,,,Yes,,45.9138774,6.8619346
+99,20099,Centre Hospitalier Côte de Lumière,Rue Jacques Monod nan,Les Sables-d'Olonne,Pays de la Loire,85100,,+33 2 51 21 85 85,,,Yes,,46.5167608,-1.7485529
+101,20101,Centre Hospitalier Docteur Récamier,nan nan,Belley,Ain,01300,,+33 4 79 42 59 59,,,Yes,,45.761806,5.684719
+102,20102,Centre Hospitalier Départemental - Site de La-Roche-sur-Yon,nan nan,La Roche-sur-Yon,Pays de la Loire,85000,,+33 2 51 44 61 61,,,Yes,,46.6671526,-1.4155459
+103,20103,Centre Hospitalier Départemental - Site de Luçon,nan nan,Luçon,Pays de la Loire,85400,,+33 2 51 28 33 33,,,Yes,,46.4498685,-1.1745527
+104,20104,Centre Hospitalier Départemental - Site de Montaigu,nan nan,Montaigu-Vendée,Pays de la Loire,85600,,+33 2 51 45 40 00,,,Yes,,46.9710322,-1.3108931
+107,20107,Centre Hospitalier Ferdinand Grall,nan nan,Landerneau,Bretagne,29800,,+33 2 98 21 80 00,,,Yes,,48.4489023,-4.2338213
+109,20109,Centre Hospitalier Francis Robert,nan nan,Ancenis-Saint-Géréon,Pays de la Loire,44150,,+33 2 40 09 44 00,,,Yes,,47.3730553,-1.1743569
+111,20111,Centre Hospitalier Gabriel Deplante,Rue de la Forêt 1,Rumilly,Haute-Savoie,74150,,+33 4 50 01 80 00,,,Yes,,45.864621,5.937015
+115,20115,Centre Hospitalier Guy Thomas,nan nan,Riom,Puy-de-Dôme,63200,,+33 4 73 67 80 00,,,Yes,,45.8902708,3.1120648
+123,20123,Centre Hospitalier Intercommunal Elbeuf. Louviers. Val de Reuil,nan nan,Louviers,Normandie,27400,,+33 2 32 25 75 00,,,Yes,,49.2126878,1.1768487
+124,20124,Centre Hospitalier Intercommunal Lucie et Raymond Aubrac,Allée de la Source 40,Villeneuve-Saint-Georges,Val-de-Marne,94190,,+33 1 43 86 20 00,,,Yes,,48.7225968,2.4514191
+126,20126,Centre Hospitalier Intercommunal des Alpes du Sud,Place Auguste Muret 1,Gap,Hautes-Alpes,05000,,+33 4 92 40 61 61,,,Yes,,44.5581617,6.0730852
+127,20127,Centre Hospitalier Intercommunal des Alpes du Sud,nan nan,Sisteron,Alpes-de-Haute-Provence,04200,,+33 4 92 33 70 00,,,Yes,,44.1937351,5.9428555
+129,20129,Centre Hospitalier Intercommunal des Andaines - Site de la Ferté-Macé,nan nan,La Ferté Macé,Normandie,61600,,+33 2 33 30 50 50,,,Yes,,48.5991475,-0.3473258
+131,20131,Centre Hospitalier Jacques Monod,nan nan,Flers,Normandie,61100,,+33 2 33 62 62 00,,,Yes,,48.7473277,-0.5412251
+132,20132,Centre Hospitalier La Tour Blanche,nan nan,Issoudun,Centre-Val de Loire,36100,,+33 2 54 03 54 03,,,Yes,,46.9585641,1.997604
+136,20136,Centre Hospitalier Loire-Vendée-Océan - Site de Challans,nan nan,Challans,Pays de la Loire,85300,,+33 2 51 49 50 00,,,Yes,,46.8455579,-1.8714987
+138,20138,Centre Hospitalier Louis Pasteur,nan nan,Le Coudray,Centre-Val de Loire,28630,,+33 2 37 30 30 30,,,Yes,,48.4241098,1.5086658
+139,20139,Centre Hospitalier Louis Pasteur,nan nan,Dole,Jura,39100,,+33 3 84 79 80 80,,,Yes,,47.0819311,5.4700545
+141,20141,Centre Hospitalier Lyon-Sud,Chemin du Grand Revoyet 165,Pierre-Bénite,Rhône,69310,,+33 8 25 08 25 69,,,Yes,,45.7037174,4.8074577
+146,20146,Centre Hospitalier Marguerite de Lorraine,nan nan,Mortagne-au-Perche,Normandie,61400,,+33 2 33 83 40 40,,,Yes,,48.5226591,0.5503153
+147,20147,Centre Hospitalier Marie Madeleine,Rue Thérèse 2,Forbach,Grand Est,57600,,+33 3 87 88 80 00,,,Yes,,49.181845,6.911648
+154,20154,Centre Hospitalier Mémorial,nan nan,Saint-Lô,Normandie,50000,,+33 2 33 06 33 33,,,Yes,,49.1046627,-1.1112861
+155,20155,Centre Hospitalier Métropole Savoie,nan nan,Chambéry,Savoie,73000,,+33 4 79 96 50 50,,,Yes,,45.5639137,5.9145497
+156,20156,Centre Hospitalier Métropole Savoie (site d'Aix-les-Bains),nan nan,Aix-les-Bains,Savoie,73100,,+33 4 79 88 61 61,,,Yes,,45.6980554,5.903834
+158,20158,Centre Hospitalier Nord Ouest Villefranche,nan nan,Gleizé,Rhône,69400,,+33 4 74 09 25 03,,,Yes,,46.0055909,4.692005
+159,20159,Centre Hospitalier Paul Ardier,nan nan,Issoire,Puy-de-Dôme,63500,,+33 4 73 89 72 72,,,Yes,,45.5411035,3.251009
+164,20164,Centre Hospitalier Pierre Oudot,Avenue du Médipôle 30,Bourgoin-Jallieu,Isère,38300,,+33 4 69 15 70 00,,,Yes,,45.5964572,5.2427431
+169,20169,Centre Hospitalier René Pleven,nan nan,Dinan,Bretagne,22100,,+33 2 96 85 72 85,,,Yes,,48.4446872,-2.0507735
+171,20171,Centre Hospitalier Régional Universitaire de Lille,nan nan,Lille,Hauts-de-France,59000,,,,,Yes,,50.6083638,3.0301983
+172,20172,Centre Hospitalier Régional d'Orléans,nan nan,Orléans,Centre-Val de Loire,45100,,+33 2 38 51 44 44,,,Yes,,47.8368281,1.9173824
+174,20174,Centre Hospitalier Saint-Charles,nan nan,Toul,Grand Est,54200,,+33 3 83 62 20 20,,,Yes,,48.675808,5.886645
+179,20179,Centre Hospitalier Sainte-Béatrix de Lorraine,Rue Georges Lang 1,Remiremont,Grand Est,88200,,+33 329 234 141,,,Yes,,48.0140082,6.5906405
+180,20180,Centre Hospitalier Sainte-Catherine,nan nan,Saverne,Grand Est,67700,,+33 3 88 71 67 67,,,Yes,,48.7472653,7.3482217
+193,20193,Centre Hospitalier Spécialisé la Chartreuse,nan nan,Dijon,Côte-d'Or,21000,,,,,Yes,,47.3222547,5.015575
+195,20195,Centre Hospitalier Sud Francilien,nan nan,Corbeil-Essonnes,Essonne,91100,,+33 1 61 69 61 69,,,Yes,,48.6215433,2.4574678
+197,20197,Centre Hospitalier Universitaire Côte de Nacre,Avenue de la Côte de Nacre nan,Caen,Normandie,14000,,+33 2 31 06 31 06,,,Yes,,49.202482,-0.3534934
+199,20199,Centre Hospitalier Yves Grassot,nan nan,Marmande,Nouvelle-Aquitaine,47200,,+33 5 53 20 30 40,,,Yes,,44.5019139,0.1655302
+200,20200,Centre Hospitalier Yves Touraine,nan nan,Le Pont-de-Beauvoisin,Isère,38480,,+33 4 76 32 64 32,,,Yes,,45.539076,5.664412
+201,20201,Centre Hospitalier d'Abbeville,nan nan,Abbeville,Hauts-de-France,80100,,+33 3 22 25 52 00,,,Yes,,50.1007453,1.8312942
+203,20203,Centre Hospitalier d'Ambert,nan nan,Ambert,Puy-de-Dôme,63600,,+33 4 73 82 73 82,,,Yes,,45.5539687,3.7420262
+204,20204,Centre Hospitalier d'Argonne,nan nan,Sainte-Menehould,Grand Est,51800,,+33 3 26 60 81 41,,,Yes,,49.0916952,4.9099274
+205,20205,Centre Hospitalier d'Armentières,nan nan,Armentières,Hauts-de-France,59280,,+33 3 20 48 33 33,,,Yes,,50.683678,2.8689847
+206,20206,Centre Hospitalier d'Arras,nan nan,Arras,Hauts-de-France,62000,,+33 3 21 21 10 10,,,Yes,,50.297033,2.755097
+207,20207,Centre Hospitalier d'Auch,nan nan,Auch,Occitanie,32000,,+33 5 62 61 32 32,,,Yes,,43.6313603,0.5809226
+211,20211,Centre Hospitalier d'Hazebrouck,nan nan,Hazebrouck,Hauts-de-France,59190,,+33 3 28 42 66 00,,,Yes,,50.727861,2.5376066
+214,20214,Centre Hospitalier de Beauvais,nan nan,Beauvais,Hauts-de-France,60000,,+33 3 44 11 21 21,,,Yes,,49.4509421,2.0719811
+218,20218,Centre Hospitalier de Boulogne-sur-Mer,nan nan,Boulogne-sur-Mer,Hauts-de-France,62200,,+33 3 21 99 33 33,,,Yes,,50.7220646,1.6256386
+219,20219,Centre Hospitalier de Brioude,nan nan,Brioude,Haute-Loire,43100,,+33 4 71 50 99 99,,,Yes,,45.2974457,3.3811491
+220,20220,Centre Hospitalier de Béthune,nan nan,Beuvry,Hauts-de-France,62660,,+33 3 21 64 44 44,,,Yes,,50.5163509,2.6722465
+222,20222,Centre Hospitalier de Calais,nan nan,Calais,Hauts-de-France,62100,,+33 3 21 46 33 33,,,Yes,,50.9428578,1.8892642
+223,20223,Centre Hospitalier de Cambrai,Avenue de Paris 516,Cambrai,Hauts-de-France,59400,,+33 3 27 73 73 73,,,Yes,,50.1656773,3.228497
+227,20227,Centre Hospitalier de Chauny,nan nan,Chauny,Hauts-de-France,02300,,+33 3 23 38 55 00,,,Yes,,49.6235703,3.2306461
+228,20228,Centre Hospitalier de Château du Loir,nan nan,Montval-sur-Loir,Pays de la Loire,72500,,+33 2 43 44 77 77,,,Yes,,47.6912468,0.4202901
+229,20229,Centre Hospitalier de Compiègne,nan nan,Compiègne,Hauts-de-France,60200,,+33 3 44 23 60 00,,,Yes,,49.386385,2.7873618
+230,20230,Centre Hospitalier de Condom,nan nan,Condom,Occitanie,32100,,+33 5 62 28 20 77,,,Yes,,43.9562919,0.3782684
+232,20232,Centre Hospitalier de Creil,Boulevard Laennec BP 72 nan,Creil,Hauts-de-France,60100,,+33 3 44 61 60 00,,,Yes,,49.2481747,2.4577253
+233,20233,Centre Hospitalier de Crest,nan nan,Crest,Drôme,26400,,+33 4 75 25 37 00,,,Yes,,44.7278265,5.007578
+235,20235,Centre Hospitalier de Douai,nan nan,Dechy,Hauts-de-France,59187,,+33 3 27 99 61 61,,,Yes,,50.34092,3.1020257
+236,20236,Centre Hospitalier de Doullens,nan nan,Doullens,Hauts-de-France,80600,,+33 3 22 32 33 33,,,Yes,,50.1539297,2.3514221
+237,20237,Centre Hospitalier de Dunkerque,nan nan,Dunkerque,Hauts-de-France,59140,,+33 3 28 28 59 00,,,Yes,,51.03849,2.4003221
+238,20238,Centre Hospitalier de Falaise,Boulevard des Bercagnes nan,Falaise,Normandie,14700,,+33 2 31 40 40 40,,,Yes,,48.8907135,-0.2065239
+240,20240,Centre Hospitalier de Gisors - Pôle Sanitaire du Vexin,nan nan,Gisors,Normandie,27140,,+33 2 32 27 76 76,,,Yes,,49.2828514,1.7576147
+241,20241,Centre Hospitalier de Grasse - Site Clavary,nan nan,Grasse,Alpes-Maritimes,06130,,+33 4 93 09 55 55,,,Yes,,43.620205,6.9286253
+242,20242,Centre Hospitalier de Haguenau,nan nan,Haguenau,Grand Est,67500,,+33 3 88 06 33 33,,,Yes,,48.7978044,7.7822082
+243,20243,Centre Hospitalier de Hirson,Rue Aux Loups 40,Hirson,Hauts-de-France,02500,,+33 3 23 58 82 82,,,Yes,,49.925533,4.073861
+246,20246,Centre Hospitalier de La Mûre,nan nan,La Mure,Isère,38350,,+33 4 76 81 42 00,,,Yes,,44.9052689,5.7936902
+249,20249,Centre Hospitalier de Laon,nan nan,Laon,Hauts-de-France,02000,,+33 3 23 24 33 33,,,Yes,,49.5622462,3.6112165
+250,20250,Centre Hospitalier de Laval,nan nan,Laval,Pays de la Loire,53000,,+33 2 43 66 50 00,,,Yes,,48.0646288,-0.7869535
+251,20251,Centre Hospitalier de Lens,nan nan,Lens,Hauts-de-France,62300,,+33 3 21 69 12 34,,,Yes,,50.4414038,2.8202238
+253,20253,Centre Hospitalier de Lunéville,nan nan,Lunéville,Grand Est,54300,,+33 3 83 76 12 12,,,Yes,,48.5905635,6.4914122
+257,20257,Centre Hospitalier de Montdidier,nan nan,Montdidier,Hauts-de-France,80500,,+33 3 22 78 70 00,,,Yes,,49.6502059,2.57355
+258,20258,Centre Hospitalier de Montgelas,nan nan,Givors,Rhône,69700,,+33 4 78 07 30 30,,,Yes,,45.6004523,4.7638469
+259,20259,Centre Hospitalier de Montluçon,nan nan,Montluçon,Allier,03100,,+33 4 70 02 30 30,,,Yes,,46.3428578,2.6090735
+260,20260,Centre Hospitalier de Montélimar,nan nan,Montélimar,Drôme,26200,,+33 4 75 53 40 00,,,Yes,,44.5691908,4.781298
+262,20262,Centre Hospitalier de Moulins-Yzeure,nan nan,Moulins,Allier,03000,,+33 4 70 35 77 77,,,Yes,,46.5705256,3.3245466
+265,20265,Centre Hospitalier de Noyon,nan nan,Noyon,Hauts-de-France,60400,,+33 3 44 44 42 22,,,Yes,,49.5896793,2.9986108
+266,20266,Centre Hospitalier de Nérac,nan nan,Nérac,Nouvelle-Aquitaine,47600,,,,,Yes,,44.136159,0.33674
+271,20271,Centre Hospitalier de Péronne,nan nan,Péronne,Hauts-de-France,80200,,+33 3 22 83 60 00,,,Yes,,49.93462,2.927698
+272,20272,Centre Hospitalier de Rambouillet,nan nan,Rambouillet,Yvelines,78120,,+33 1 34 83 78 78,,,Yes,,48.6514768,1.8228153
+274,20274,Centre Hospitalier de Roanne,nan nan,Roanne,Loire,42300,,+33 4 77 44 30 00,,,Yes,,46.043253,4.080851
+277,20277,Centre Hospitalier de Saint-Flour,nan nan,Saint-Flour,Cantal,15100,,+33 4 71 60 64 64,,,Yes,,45.0344814,3.0851227
+278,20278,Centre Hospitalier de Saint-Hilaire-du-Harcouet,nan nan,Saint-Hilaire-du-Harcouët,Normandie,50600,,+33 2 33 79 44 44,,,Yes,,48.5702004,-1.0959452
+281,20281,Centre Hospitalier de Sambre-Avesnois,nan nan,Maubeuge,Hauts-de-France,59600,,+33 3 27 69 43 43,,,Yes,,50.2782132,3.95791
+284,20284,Centre Hospitalier de Saumur,nan nan,Saumur,Pays de la Loire,49400,,+33 2 41 53 30 30,,,Yes,,47.2472895,-0.0570352
+286,20286,Centre Hospitalier de Seclin,nan nan,Seclin,Hauts-de-France,59113,,,,,Yes,,50.5444479,3.0188983
+287,20287,Centre Hospitalier de Soissons,nan nan,Belleu,Hauts-de-France,02200,,+33 3 23 75 70 70,,,Yes,,49.3686545,3.3356069
+290,20290,Centre Hospitalier de Sélestat,nan nan,Sélestat,Grand Est,67600,,+33 3 88 57 56 00,,,Yes,,48.2634187,7.4312733
+292,20292,Centre Hospitalier de Thiers,Route du Fau nan,Thiers,Puy-de-Dôme,63300,,+33 4 73 51 10 00,,,Yes,,45.85808,3.5196444
+293,20293,Centre Hospitalier de Tourcoing,nan nan,Tourcoing,Hauts-de-France,59200,,+33 3 20 69 49 49,,,Yes,,50.748005,3.1808049
+296,20296,Centre Hospitalier de Valenciennes,nan nan,Valenciennes,Hauts-de-France,59300,,+33 3 27 14 33 33,,,Yes,,50.3611231,3.4967099
+298,20298,Centre Hospitalier de Vitry-le-François,nan nan,Vitry-le-François,Grand Est,51300,,+33 3 26 73 60 60,,,Yes,,48.7171593,4.6012375
+299,20299,Centre Hospitalier de l'Aigle,nan nan,L'Aigle,Normandie,61300,,+33 2 33 24 95 95,,,Yes,,48.7666018,0.6098708
+301,20301,Centre Hospitalier de l'Ouest Vosgien - Site de Vittel,nan 191,Vittel,Grand Est,88800,,+33 3 29 94 80 00,,,Yes,,48.2061967,5.9456899
+305,20305,Centre Hospitalier de la Côte Fleurie,La Brèche du Bois nan,Pennedepie,Normandie,14600,,+33 2 31 89 89 89,,,Yes,,49.3812756,0.1304307
+306,20306,Centre Hospitalier de la Milétrie,Rue de la Milétrie 2,Mignaloux-Beauvoir,Nouvelle-Aquitaine,86550,,+33 5 49 44 44 44,,,Yes,,46.5516086,0.3877045
+308,20308,Centre Hospitalier des Quatre Villes,Grande Rue 141,Sèvres,Hauts-de-Seine,92310,,+33 1 77707070,,,Yes,,48.8207745,2.201871
+310,20310,Centre Hospitalier du Forez,nan nan,Montbrison,Loire,42600,,+33 4 77 96 78 00,,,Yes,,45.6125842,4.0475763
+311,20311,Centre Hospitalier du Haut-Bugey,Route de Veyziat 1,Géovreisset,Ain,01100,,+33 4 74 73 10 01,,,Yes,,46.2609108,5.6307257
+313,20313,Centre Hospitalier du Mans,nan nan,Le Mans,Pays de la Loire,72000,,+33 2 43 43 43 43,,,Yes,,48.0127166,0.1789534
+315,20315,Centre Hospitalier du Nord-Mayenne,nan nan,Mayenne,Pays de la Loire,53100,,+33 2 43 08 73 00,,,Yes,,48.3069815,-0.6048006
+317,20317,Centre Hospitalier d‘Arcachon,nan nan,La Teste-de-Buch,Nouvelle-Aquitaine,33260,,+33 5 57 52 90 00,,,Yes,,44.6155719,-1.1140113
+318,20318,Centre Hospitalier intercommunal Alençon-Mamers,nan nan,Mamers,Pays de la Loire,72600,,+33 2 43 31 31 31,,,Yes,,48.3594332,0.3607798
+319,20319,Centre Hospitalier Émile Durkheim,Avenue Robert Schuman 3,Épinal,Grand Est,88000,,+33 3 29 68 70 00,,,Yes,,48.1794318,6.4541012
+320,20320,Centre Hospitalier Émile Roux,nan nan,Espaly-Saint-Marcel,Haute-Loire,43000,,+33 4 71 04 32 10,,,Yes,,45.050816,3.8757935
+344,20344,Centre Médico Chirurgical du Mans,nan nan,Le Mans,Pays de la Loire,72100,,+33 2 43 78 38 38,,,Yes,,47.9651921,0.2257117
+349,20349,Centre Médico-Chirurgical de l'Europe,nan nan,Le Port-Marly,Yvelines,78560,,+33 1 39 17 22 22,,,Yes,,48.880691,2.10698
+433,20433,Centre hopitalier de Chaumont,nan nan,Chaumont,Grand Est,52000,,+33 3 25 30 70 30,,,Yes,,48.1212756,5.1379222
+434,20434,Centre hospitaier de Saint-Tropez,Rond-Point du Général Diego Brosset nan,Gassin,Var,83580,,+33 4 98 12 50 00,,,Yes,,43.2493068,6.5722169
+435,20435,Centre hospitalier,nan nan,Verneuil d'Avre et d'Iton,Normandie,27130,,+33 2 32 23 60 00,,,Yes,,48.7400746,0.9208392
+436,20436,Centre hospitalier,nan nan,Châteauroux,Centre-Val de Loire,36000,,+33 2 54 29 60 00,,,Yes,,46.7988082,1.6925839
+438,20438,Centre hospitalier Alphonse Guérin,Rue du Roi Arthur nan,Ploërmel,Bretagne,56800,,+33 2 97 73 26 26,,,Yes,,47.9365644,-2.3970238
+439,20439,Centre hospitalier Alès-Cévennes,nan nan,Alès,Occitanie,30100,,+33 4 66 78 33 33,,,Yes,,44.144635,4.0931699
+440,20440,Centre hospitalier Annecy-Genevois,nan nan,Saint-Julien-en-Genevois,Haute-Savoie,74160,,+33 4 50 49 65 65,,,Yes,,46.1471833,6.0790072
+441,20441,Centre hospitalier Ariège Couserans,nan nan,Saint-Lizier,Occitanie,09190,,+33 5 61 96 20 20,,,Yes,,43.0014401,1.1291401
+442,20442,Centre hospitalier Auban-Moët,nan nan,Épernay,Grand Est,51200,,+33 3 26 58 70 00,,,Yes,,49.031018,3.956321
+444,20444,Centre hospitalier Comminges Pyrénées,nan nan,Saint-Gaudens,Occitanie,31800,,+33 5 62 00 40 00,,,Yes,,43.112755,0.7137674
+448,20448,Centre hospitalier Eure-Seine,Rue Louis Gillain nan,Évreux,Normandie,27000,,+33 2 32 33 80 00,,,Yes,,49.0327971,1.11126
+449,20449,Centre hospitalier Eure-Seine,Rue du Docteur Burnet 5,Vernon,Normandie,27200,,+33 2 32 71 66 00,,,Yes,,49.0908332,1.4889871
+451,20451,Centre hospitalier François Quesnay,nan nan,Mantes-la-Jolie,Yvelines,78200,,+33 1 34 97 40 00,,,Yes,,48.9997244,1.6720779
+453,20453,Centre hospitalier Geneviève de Gaulle Anthonioz,nan nan,Bettancourt-la-Ferrée,Grand Est,52100,,+33 3 25 56 84 84,,,Yes,,48.6561502,4.9617003
+456,20456,Centre hospitalier Henri Mondor,nan nan,Aurillac,Cantal,15000,,+33 4 71 46 56 56,,,Yes,,44.9274367,2.4335189
+457,20457,Centre hospitalier Henri laborit,nan nan,Mignaloux-Beauvoir,Nouvelle-Aquitaine,86550,,,,,Yes,,46.551616,0.3877224
+459,20459,Centre hospitalier Hôtel Dieu,nan nan,Mont-Saint-Martin,Grand Est,54350,,+33 3 82 44 70 00,,,Yes,,49.5361613,5.7809966
+461,20461,Centre hospitalier Jacques Boutard,nan nan,Saint-Yrieix-la-Perche,Nouvelle-Aquitaine,87500,,+33 5 55 75 75 75,,,Yes,,45.5158334,1.2028489
+462,20462,Centre hospitalier Jacques Cœur,nan nan,Bourges,Centre-Val de Loire,18000,,+33 2 48 48 48 48,,,Yes,,47.0838142,2.4400431
+463,20463,Centre hospitalier Jacques Lacarin,Boulevard Denière 1,Vichy,Allier,03200,,+33 4 70 97 33 33,,,Yes,,46.1240941,3.4327423
+465,20465,Centre hospitalier Le Cateau,nan nan,Le Cateau-Cambrésis,Hauts-de-France,59360,,+33 3 27 84 66 66,,,Yes,,50.1041776,3.5360532
+468,20468,Centre hospitalier Louis Constant Fleming,Spring Concordia nan,Marigot,,,,+33 5 90 52 25 25,,,Yes,,18.0654981,-63.0740235
+469,20469,Centre hospitalier Louis Jaillon,Montée de l'Hôpital 2,Saint-Claude,Jura,39200,,+33 3 84 41 33 33,,,Yes,,46.3845328,5.8670067
+470,20470,Centre hospitalier Lucien Hussel,nan nan,Vienne,Isère,38200,,+33 4 74 31 33 33,,,Yes,,45.5363487,4.8785738
+471,20471,Centre hospitalier Manchester,nan nan,Charleville-Mézières,Grand Est,08000,,+33 3 24 58 70 70,,,Yes,,49.7613444,4.6946447
+472,20472,Centre hospitalier Max Querrien,Chemin de Kerpuns 36,Paimpol,Bretagne,22500,,,,,Yes,,48.7724685,-3.0362123
+473,20473,Centre hospitalier Michel Mazéas,nan nan,Douarnenez,Bretagne,29100,,+33 2 98 75 10 10,,,Yes,,48.0842056,-4.318538
+474,20474,Centre hospitalier Notre-Dame de la Miséricorde,nan nan,Ajaccio,Corse,20000,,+33 4 95 29 90 90,,,Yes,,41.923073,8.7308335
+475,20475,Centre hospitalier Ouest Réunion,nan nan,Saint-Paul,Réunion,97460,,02 62 45 30 30,,,Yes,,-20.9776191,55.3004867
+476,20476,Centre hospitalier Paul Martinais,nan nan,Loches,Centre-Val de Loire,37600,,+33 2 47 91 33 33,,,Yes,,47.1287167,1.0015743
+477,20477,Centre hospitalier Pierre Dezarnaulds,nan nan,Gien,Centre-Val de Loire,45500,,+33 2 38 29 38 29,,,Yes,,47.6902613,2.6369145
+478,20478,Centre hospitalier René Dubos,nan nan,Pontoise,Val-d'Oise,95300,,+33 1 30 75 40 40,,,Yes,,49.0607915,2.0939121
+479,20479,Centre hospitalier Rives de Seine - Neuilly-sur-Seine,nan nan,Neuilly-sur-Seine,Hauts-de-Seine,92200,,+33 1 40 88 60 00,,,Yes,,48.8903736,2.2613266
+480,20480,Centre hospitalier Robert Bisson,nan nan,Lisieux,Normandie,14100,,+33 2 31 61 31 31,,,Yes,,49.143406,0.2318713
+481,20481,Centre hospitalier Robert Morlevat,nan nan,Semur-en-Auxois,Côte-d'Or,21140,,+33 3 80 89 64 64,,,Yes,,47.4957892,4.3424166
+482,20482,Centre hospitalier Saint-Esprit,nan nan,Agen,Nouvelle-Aquitaine,47000,,+33 5 53 69 70 71,,,Yes,,44.2148783,0.6334881
+483,20483,Centre hospitalier Saint-Nazaire,Boulevard Georges Charpak 11,Saint-Nazaire,Pays de la Loire,44600,,+33 2 72 27 80 00,,,Yes,,47.2644084,-2.2600696
+485,20485,Centre hospitalier Sainte-Marie,nan nan,Grand-Bourg,Guadeloupe,97112,,+33 5 90 97 65 00,,,Yes,,15.8897434,-61.3073906
+486,20486,Centre hospitalier Simone Veil,nan nan,Vitré,Bretagne,35500,,+33 2 99 74 14 14,,,Yes,,48.1236345,-1.2267729
+487,20487,Centre hospitalier Universitaire de Nantes,nan nan,Nantes,Pays de la Loire,44000,,+33 2 40 08 33 33,,,Yes,,47.2093415,-1.5551253
+488,20488,Centre hospitalier William Morey,nan nan,Chalon-sur-Saône,Saône-et-Loire,71100,,+33 3 85 44 66 88,,,Yes,,46.7771133,4.8392774
+489,20489,Centre hospitalier Yves Le Foll,nan nan,Saint-Brieuc,Bretagne,22000,,+33 2 96 01 71 23,,,Yes,,48.494007,-2.753637
+490,20490,Centre hospitalier d'Albertville-Moûtiers,nan nan,Albertville,Savoie,73200,,+33 4 79 89 55 55,,,Yes,,45.6697133,6.3699983
+491,20491,Centre hospitalier d'Albertville-Moûtiers,nan nan,Moûtiers,Savoie,73600,,+33 4 79 09 60 60,,,Yes,,45.4835066,6.5339946
+492,20492,Centre hospitalier d'Albi,nan nan,Albi,Occitanie,81000,,+33 5 63 47 47 47,,,Yes,,43.9250095,2.1439634
+493,20493,Centre hospitalier d'Alençon,Rue de Fresnay 25,Alençon,Normandie,61000,,+33 2 33 32 30 30,,,Yes,,48.426406,0.0865764
+495,20495,Centre hospitalier d'Amboise,nan nan,Amboise,Centre-Val de Loire,37400,,+33 2 47 23 33 33,,,Yes,,47.4092098,0.9804845
+496,20496,Centre hospitalier d'Angoulême,nan nan,Saint-Michel,Nouvelle-Aquitaine,16470,,+33 5 45 24 40 40,,,Yes,,45.6366171,0.1183945
+497,20497,Centre hospitalier d'Antibes - Juan-les-Pins,Avenue de Nice 107,Antibes,Alpes-Maritimes,06600,,,,,Yes,,43.602543,7.116229
+498,20498,Centre hospitalier d'Argentan,Rue Aristide Briand 47,Argentan,Normandie,61200,,+33 2 33 12 33 12,,,Yes,,48.7465864,-0.02026
+499,20499,Centre hospitalier d'Argenteuil,nan nan,Argenteuil,Val-d'Oise,95100,,+33 1 34 23 24 25,,,Yes,,48.9423763,2.2357211
+500,20500,Centre hospitalier d'Arles,nan nan,Arles,Bouches-du-Rhône,13200,,+33 4 90 49 29 29,,,Yes,,43.6590211,4.6355366
+501,20501,Centre hospitalier d'Arpajon,nan nan,Arpajon,Essonne,91290,,+33 1 64 92 92 92,,,Yes,,48.5844717,2.2390163
+502,20502,Centre hospitalier d'Aubagne,nan nan,Aubagne,Bouches-du-Rhône,13400,,+33 4 42 84 70 00,,,Yes,,43.2917123,5.5628146
+503,20503,Centre hospitalier d'Avallon,nan nan,Avallon,Yonne,89200,,+33 3 86 34 66 00,,,Yes,,47.4897034,3.9052601
+504,20504,Centre hospitalier d'Avignon,nan nan,Avignon,Vaucluse,84000,,+33 4 32 75 33 33,,,Yes,,43.9195164,4.7965552
+505,20505,Centre hospitalier d'Elbeuf,Rue du Docteur Villiers nan,Saint-Aubin-lès-Elbeuf,Normandie,76410,,+33 2 32 96 35 35,,,Yes,,49.3065768,1.0396532
+506,20506,Centre hospitalier d'Embrun,nan nan,Embrun,Hautes-Alpes,05200,,+33 4 92 43 73 00,,,Yes,,44.5618383,6.4927456
+508,20508,Centre hospitalier d'Oloron,nan nan,Oloron-Sainte-Marie,Nouvelle-Aquitaine,64400,,,,,Yes,,43.1966977,-0.6154097
+509,20509,Centre hospitalier d'Orange,nan nan,Orange,Vaucluse,84100,,+33 4 90 11 22 22,,,Yes,,44.1479406,4.8216058
+510,20510,Centre hospitalier d'Orsay,nan nan,Orsay,Essonne,91400,,+33 1 69 29 75 75,,,Yes,,48.6999579,2.1868766
+511,20511,Centre hospitalier d'Ortez,nan nan,Orthez,Nouvelle-Aquitaine,64300,,+33 5 59 69 70 70,,,Yes,,43.4862888,-0.77277
+512,20512,Centre hospitalier d'Étampes,nan nan,Étampes,Essonne,91150,,+33 1 60 80 76 76,,,Yes,,48.4200853,2.1509242
+513,20513,Centre hospitalier de Bagnols-sur-Cèze,nan nan,Bagnols-sur-Cèze,Occitanie,30200,,+33 4 66 79 10 11,,,Yes,,44.1582699,4.6153648
+514,20514,Centre hospitalier de Bagnères-de-Bigorre,nan nan,Bagnères-de-Bigorre,Occitanie,65200,,+33 5 62 91 41 11,,,Yes,,43.066465,0.1466433
+516,20516,Centre hospitalier de Basse-Terre,Avenue Gaston Feuillard nan,Basse-Terre,Guadeloupe,97100,,+33 590 80 54 54,,,Yes,,16.0046534,-61.7298013
+517,20517,Centre hospitalier de Bastia,nan nan,Bastia,Corse,20200,,+33 4 95 59 11 11,,,Yes,,42.6803543,9.4277025
+518,20518,Centre hospitalier de Bergerac,nan nan,Bergerac,Nouvelle-Aquitaine,24100,,+33 5 53 63 88 88,,,Yes,,44.8515028,0.4991762
+519,20519,Centre hospitalier de Bernay,Rue Anne de Ticheville 5,Bernay,Normandie,27300,,+33 2 32 45 63 00,,,Yes,,49.0897148,0.5910711
+520,20520,Centre hospitalier de Bigorre - La Gespe,nan nan,Tarbes,Occitanie,65000,,+33 5 62 51 51 51,,,Yes,,43.2190551,0.056632
+522,20522,Centre hospitalier de Blaye,nan nan,Blaye,Nouvelle-Aquitaine,33390,,+33 5 57 33 40 00,,,Yes,,45.13393,-0.659974
+524,20524,Centre hospitalier de Blois,nan nan,La Chaussée-Saint-Victor,Centre-Val de Loire,41260,,+33 2 54 55 66 33,,,Yes,,47.6065446,1.3433668
+528,20528,Centre hospitalier de Bourg-Saint-Maurice,nan nan,Bourg-Saint-Maurice,Savoie,73700,,+33 4 79 41 79 79,,,Yes,,45.6170992,6.7634515
+529,20529,Centre hospitalier de Brignoles,nan nan,Brignoles,Var,83170,,+33 4 94 72 66 00,,,Yes,,43.404717,6.066261
+530,20530,Centre hospitalier de Brive-la-Gaillarde,nan nan,Brive-la-Gaillarde,Nouvelle-Aquitaine,19100,,,,,Yes,,45.1677815,1.5315587
+531,20531,Centre hospitalier de Béziers,Rue Valentin Haüy 2,Béziers,Occitanie,34500,,+33 4 67 35 70 35,,,Yes,,43.3423214,3.2536523
+532,20532,Centre hospitalier de Cahors,nan nan,Cahors,Occitanie,46000,,+33 5 65 20 50 50,,,Yes,,44.4448503,1.437638
+533,20533,Centre hospitalier de Calvi-Balagne,nan nan,Calvi,Corse,20260,,+33 9 74 56 57 38,,,Yes,,42.5491318,8.7655602
+536,20536,Centre hospitalier de Carcassonne,nan nan,Carcassonne,Occitanie,11000,,+33 4 68 24 24 24,,,Yes,,43.222308,2.3935785
+537,20537,Centre hospitalier de Carhaix,nan nan,Carhaix-Plouguer,Bretagne,29270,,+33 2 98 99 20 20,,,Yes,,48.2738275,-3.5806077
+538,20538,Centre hospitalier de Carpentras,Rond-Point de l'Amitié Vevey Seesen nan,Carpentras,Vaucluse,84200,,+33 4 32 85 88 88,,,Yes,,44.0477911,5.0269223
+539,20539,Centre hospitalier de Castelnaudary,nan nan,Castelnaudary,Occitanie,11400,,+33 4 68 94 57 52,,,Yes,,43.3172265,1.9611186
+542,20542,Centre hospitalier de Champagnole,Rue de Franche Comté 1,Cize,Jura,39300,,+33 3 84 53 02 02,,,Yes,,46.737379,5.9095529
+545,20545,Centre hospitalier de Chatellerault,nan nan,Châtellerault,Nouvelle-Aquitaine,86100,,+33 5 49 02 90 90,,,Yes,,46.8292684,0.5550704
+546,20546,Centre hospitalier de Cholet,nan nan,Cholet,Pays de la Loire,49300,,+33 2 41 49 60 00,,,Yes,,47.0408295,-0.9005742
+547,20547,Centre hospitalier de Châlons-en-Champagne,nan nan,Châlons-en-Champagne,Grand Est,51000,,+33 3 26 69 60 60,,,Yes,,48.9730152,4.372341
+549,20549,Centre hospitalier de Châteaubriant,nan nan,Châteaubriant,Pays de la Loire,44110,,+33 2 40 55 88 00,,,Yes,,47.7271373,-1.3797967
+550,20550,Centre hospitalier de Châteaudun,nan nan,Châteaudun,Centre-Val de Loire,28200,,+33 2 37 44 40 40,,,Yes,,48.0753371,1.3561809
+551,20551,Centre hospitalier de Châtillon-sur-Seine,nan nan,Sainte-Colombe-sur-Seine,Côte-d'Or,21400,,+33 3 80 91 21 21,,,Yes,,47.863412,4.5575898
+552,20552,Centre hospitalier de Clamecy,nan nan,Clamecy,Nièvre,58500,,+33 3 86 27 60 00,,,Yes,,47.4542017,3.5105506
+553,20553,Centre hospitalier de Clermont de l'Oise,nan nan,Clermont,Hauts-de-France,60600,,+33 3 44 77 33 00,,,Yes,,49.3789518,2.4104261
+555,20555,Centre hospitalier de Cornouaille,Avenue Yves Thépot 14,Quimper,Bretagne,29000,,+33 2 98 52 60 60,,,Yes,,47.9875037,-4.0975146
+556,20556,Centre hospitalier de Coulommiers,nan nan,Coulommiers,Seine-et-Marne,77120,,+33 1 64 77 64 77,,,Yes,,48.8265658,3.0934875
+559,20559,Centre hospitalier de Coutances,Rue de la Gare 2,Coutances,Normandie,50200,,+33 2 33 47 40 00,,,Yes,,49.0427387,-1.4421312
+560,20560,Centre hospitalier de Dax-Côte d'Argent,Boulevard Yves Du Manoir 51,Dax,Nouvelle-Aquitaine,40100,,+33 5 58 91 48 48,,,Yes,,43.7098295,-1.0394178
+561,20561,Centre hospitalier de Decazeville,nan nan,Decazeville,Occitanie,12300,,+33 5 65 43 71 71,,,Yes,,44.5693952,2.2520522
+562,20562,Centre hospitalier de Decize,nan nan,Decize,Nièvre,58300,,+33 3 86 77 78 79,,,Yes,,46.8213067,3.4524614
+563,20563,Centre hospitalier de Denain,nan nan,Denain,Hauts-de-France,59220,,+33 3 27 24 30 00,,,Yes,,50.329632,3.393933
+564,20564,Centre hospitalier de Die,nan nan,Die,Drôme,26150,,+33 4 75 22 55 00,,,Yes,,44.755526,5.3704681
+565,20565,Centre hospitalier de Dieppe,Avenue Pasteur nan,Dieppe,Normandie,76200,,+33 2 32 14 76 76,,,Yes,,49.9194795,1.0771974
+567,20567,Centre hospitalier de Digne-les-Bains,Quartier Saint-Christophe BP 213,Digne-les-Bains,Alpes-de-Haute-Provence,04000,,+33 4 92 30 15 15,,,Yes,,44.0707516,6.1769046
+568,20568,Centre hospitalier de Dourdan,nan nan,Dourdan,Essonne,91410,,+33 1 60 81 58 58,,,Yes,,48.5345483,1.997779
+569,20569,Centre hospitalier de Dreux,nan nan,Dreux,Centre-Val de Loire,28100,,+33 2 37 51 52 53,,,Yes,,48.7261332,1.3872653
+570,20570,Centre hospitalier de Eu,nan nan,Eu,Normandie,76260,,+33 2 27 28 22 22,,,Yes,,50.0499578,1.4226932
+571,20571,Centre hospitalier de Faye L'Abbesse,nan nan,Faye-l'Abbesse,Nouvelle-Aquitaine,79350,,+33 5 49 68 49 68,,,Yes,,46.8335069,-0.3896718
+572,20572,Centre hospitalier de Figeac,nan nan,Figeac,Occitanie,46100,,+33 5 65 50 65 50,,,Yes,,44.6093046,2.0278657
+575,20575,Centre hospitalier de Fontainebleau,nan nan,Fontainebleau,Seine-et-Marne,77300,,+33 1 60 74 10 10,,,Yes,,48.4112175,2.6946995
+576,20576,Centre hospitalier de Fougères,nan nan,Fougères,Bretagne,35300,,+33 2 99 17 70 00,,,Yes,,48.3578794,-1.1941369
+577,20577,Centre hospitalier de Fourmies,nan nan,Fourmies,Hauts-de-France,59610,,+33 3 27 56 47 47,,,Yes,,50.009485,4.0579079
+580,20580,Centre hospitalier de Gonesse,nan nan,Gonesse,Val-d'Oise,95500,,+33 1 34 53 21 21,,,Yes,,48.9943659,2.4487735
+581,20581,Centre hospitalier de Gourdon,nan nan,Gourdon,Occitanie,46300,,+33 5 65 27 65 27,,,Yes,,44.7330844,1.3752571
+583,20583,Centre hospitalier de Gray,nan nan,Gray-la-Ville,Haute-Saône,70100,,+33 3 84 64 61 61,,,Yes,,47.4461597,5.5845454
+585,20585,Centre hospitalier de Guingamp,nan nan,Pabu,Bretagne,22200,,+33 2 96 44 56 56,,,Yes,,48.5692474,-3.1449932
+587,20587,Centre hospitalier de Guéret,nan nan,Guéret,Nouvelle-Aquitaine,23000,,+33 5 55 51 70 00,,,Yes,,46.1638026,1.8717686
+588,20588,Centre hospitalier de Haute-Corrèze,nan nan,Ussel,Nouvelle-Aquitaine,19200,,+33 5 55 96 40 00,,,Yes,,45.541932,2.3104897
+589,20589,Centre hospitalier de Hyères,Boulevard du Maréchal Juin 579,Hyères,Var,83400,,+33 4 94 00 24 00,,,Yes,,43.1205798,6.1122804
+590,20590,Centre hospitalier de Joigny,nan nan,Joigny,Yonne,89300,,+33 3 86 92 33 33,,,Yes,,47.9802587,3.3956987
+591,20591,Centre hospitalier de Jonzac,nan nan,Jonzac,Nouvelle-Aquitaine,17500,,+33 5 46 48 75 75,,,Yes,,45.4398001,-0.4351518
+593,20593,Centre hospitalier de Juvisy-sur-Orge,nan nan,Juvisy-sur-Orge,Essonne,91260,,+33 1 69 54 27 27,,,Yes,,48.6926097,2.3733352
+594,20594,Centre hospitalier de Kourou,nan nan,Kourou,Guyane,97310,,+594 594 32 76 76,,,Yes,,5.1648238,-52.6444701
+595,20595,Centre hospitalier de La Ferté-Bernard,nan nan,La Ferté-Bernard,Pays de la Loire,72400,,+33 2 43 71 61 51,,,Yes,,48.1883514,0.6612088
+596,20596,Centre hospitalier de La Rochelle,nan nan,La Rochelle,Nouvelle-Aquitaine,17000,,+33 5 46 45 50 50,,,Yes,,46.1593637,-1.1461599
+599,20599,Centre hospitalier de Langon,nan nan,Langon,Nouvelle-Aquitaine,33210,,+33 5 56 76 57 57,,,Yes,,44.5433695,-0.2438557
+600,20600,Centre hospitalier de Langres,nan nan,Langres,Grand Est,52200,,+33 3 25 87 88 88,,,Yes,,47.866054,5.3366377
+601,20601,Centre hospitalier de Lannion,nan nan,Lannion,Bretagne,22300,,+33 2 96 05 71 11,,,Yes,,48.7230333,-3.4657743
+602,20602,Centre hospitalier de Lavaur,nan nan,Lavaur,Occitanie,81500,,+33 5 63 58 81 81,,,Yes,,43.7018648,1.8177522
+603,20603,Centre hospitalier de Libourne,nan nan,Libourne,Nouvelle-Aquitaine,33500,,+33 5 57 55 34 34,,,Yes,,44.9169576,-0.2307435
+605,20605,Centre hospitalier de Longjumeau,nan nan,Longjumeau,Essonne,91160,,+33 1 64 54 33 33,,,Yes,,48.6915411,2.2900378
+606,20606,Centre hospitalier de Lons-le-Saunier,Rue du Docteur Jean Michel 55,Lons-le-Saunier,Jura,39000,,+33 3 84 35 60 00,,,Yes,,46.6779145,5.5524735
+607,20607,Centre hospitalier de Loudun,nan nan,Loudun,Nouvelle-Aquitaine,86200,,+33 5 49 98 45 42,,,Yes,,47.010425,0.0766629
+608,20608,Centre hospitalier de Lourdes,nan nan,Lourdes,Occitanie,65100,,+33 5 62 42 42 42,,,Yes,,43.0993656,-0.0462977
+609,20609,Centre hospitalier de Lure,nan nan,Lure,Haute-Saône,70200,,+33384624306,,,Yes,,47.6812758,6.4992981
+610,20610,Centre hospitalier de Luxeuil-les-Bains,nan nan,Luxeuil-les-Bains,Haute-Saône,70300,,+33 3 84 93 35 50,,,Yes,,47.8229501,6.3818838
+612,20612,Centre hospitalier de Martigues,nan nan,Martigues,Bouches-du-Rhône,13500,,+33 4 42 43 22 22,,,Yes,,43.4141334,5.0383472
+613,20613,Centre hospitalier de Mauriac,nan nan,Mauriac,Cantal,15200,,+33 4 71 67 33 33,,,Yes,,45.2168015,2.34003
+615,20615,Centre hospitalier de Mayotte,Rue de l'Hôpital nan,Mamoudzou,Mayotte,97600,,+262 2 69 61 80 00,,,Yes,,-12.7772767,45.2278125
+616,20616,Centre hospitalier de Meaux,nan nan,Meaux,Seine-et-Marne,77100,,+33 1 64 77 64 77,,,Yes,,48.9655917,2.8876817
+617,20617,Centre hospitalier de Melun,nan nan,Melun,Seine-et-Marne,77000,,+33 1 64 71 60 00,,,Yes,,48.5561925,2.6425633
+618,20618,Centre hospitalier de Menton,nan nan,Menton,Alpes-Maritimes,06500,,+33 4 93 28 77 77,,,Yes,,43.7666641,7.4843448
+619,20619,Centre hospitalier de Meulan-en-Yvelines,nan nan,Meulan-en-Yvelines,Yvelines,78250,,+33 1 30 91 85 00,,,Yes,,49.0032469,1.9104445
+620,20620,Centre hospitalier de Millau,Boulevard Achille Souques 265,Millau,Occitanie,12100,,+33 5 65 59 30 00,,,Yes,,44.0944698,3.0497531
+622,20622,Centre hospitalier de Mont-de-Marsan,Avenue Pierre de Coubertin nan,Mont-de-Marsan,Nouvelle-Aquitaine,40000,,+33 5 58 05 10 10,,,Yes,,43.8947398,-0.4878132
+623,20623,Centre hospitalier de Montauban,Rue Léon Cladel nan,Montauban,Occitanie,82000,,+33 5 63 92 82 82,,,Yes,,44.0241838,1.3490608
+624,20624,Centre hospitalier de Montereau,nan nan,Montereau-Fault-Yonne,Seine-et-Marne,77130,,+33 1 64 31 64 31,,,Yes,,48.3841738,2.9540162
+625,20625,Centre hospitalier de Montmorillon,nan nan,Montmorillon,Nouvelle-Aquitaine,86500,,,,,Yes,,46.4301254,0.8661526
+627,20627,Centre hospitalier de Mâcon,nan nan,Mâcon,Saône-et-Loire,71000,,+33 3 85 20 30 40,,,Yes,,46.3178643,4.8136811
+628,20628,Centre hospitalier de Nemours,nan nan,Nemours,Seine-et-Marne,77140,,+33 1 64 45 19 00,,,Yes,,48.2613753,2.7025589
+630,20630,Centre hospitalier de Nogent-le-Rotrou,nan nan,Nogent-le-Rotrou,Centre-Val de Loire,28400,,+33 2 37 53 75 75,,,Yes,,48.3167531,0.8372317
+632,20632,Centre hospitalier de Pau,nan nan,Pau,Nouvelle-Aquitaine,64000,,+33 5 59 92 48 48,,,Yes,,43.3286417,-0.3513231
+633,20633,Centre hospitalier de Perpignan,nan nan,Perpignan,Occitanie,66000,,+33 4 68 61 66 33,,,Yes,,42.7225002,2.8866527
+634,20634,Centre hospitalier de Pertuis,nan nan,Pertuis,Vaucluse,84120,,+33 4 42 33 50 00,,,Yes,,43.6949602,5.4985367
+635,20635,Centre hospitalier de Pithiviers,nan nan,Pithiviers,Centre-Val de Loire,45300,,+33 2 38 32 31 31,,,Yes,,48.1701477,2.2505397
+638,20638,Centre hospitalier de Pont-à-Mousson,nan nan,Pont-à-Mousson,Grand Est,54700,,+33 3 83 80 20 00,,,Yes,,48.906003,6.0511471
+639,20639,Centre hospitalier de Pontarlier,nan nan,Pontarlier,Doubs,25300,,+33 3 81 38 54 54,,,Yes,,46.9002053,6.3609191
+640,20640,Centre hospitalier de Provins,nan nan,Provins,Seine-et-Marne,77160,,+33 1 64 60 40 00,,,Yes,,48.5463066,3.3016196
+641,20641,Centre hospitalier de Périgueux,nan nan,Trélissac,Nouvelle-Aquitaine,24750,,+33 5 53 45 25 25,,,Yes,,45.1945529,0.7313351
+643,20643,Centre hospitalier de Quimperlé,nan nan,Quimperlé,Bretagne,29300,,+33 2 98 96 60 00,,,Yes,,47.8689242,-3.5576552
+644,20644,Centre hospitalier de Rochefort,nan nan,Rochefort,Nouvelle-Aquitaine,17300,,+33 5 46 88 50 50,,,Yes,,45.9683527,-0.966709
+645,20645,Centre hospitalier de Rodez,nan nan,Rodez,Occitanie,12000,,+33 5 65 55 12 12,,,Yes,,44.3619279,2.5493632
+646,20646,Centre hospitalier de Romorantin-Lanthenay,Rue des Capucins 96,Romorantin-Lanthenay,Centre-Val de Loire,41200,,+33 2 54 88 33 00,,,Yes,,47.3560874,1.7340662
+647,20647,Centre hospitalier de Roubaix,nan nan,Roubaix,Hauts-de-France,59100,,+33 3 20 99 31 31,,,Yes,,50.6779121,3.1745263
+648,20648,Centre hospitalier de Royan,nan nan,Vaux-sur-Mer,Nouvelle-Aquitaine,17640,,+33 5 46 39 52 52,,,Yes,,45.633994,-1.0616358
+649,20649,Centre hospitalier de Saint-Affrique,nan nan,Saint-Affrique,Occitanie,12400,,+33 5 65 49 70 22,,,Yes,,43.9593114,2.8745982
+650,20650,Centre hospitalier de Saint-Amand-Montrond,Avenue Jean Jaurès 44,Saint-Amand-Montrond,Centre-Val de Loire,18200,,+33 2 48 63 25 25,,,Yes,,46.7256937,2.4943766
+651,20651,Centre hospitalier de Saint-Calais,nan nan,Saint-Calais,Pays de la Loire,72120,,+33 2 43 63 64 65,,,Yes,,47.9180707,0.743417
+652,20652,Centre hospitalier de Saint-Céré,nan nan,Saint-Céré,Occitanie,46400,,+33 5 65 10 40 00,,,Yes,,44.8624221,1.8866084
+653,20653,Centre hospitalier de Saint-Jean-d'Angely,nan nan,Saint-Jean-d'Angély,Nouvelle-Aquitaine,17400,,+33 5 46 59 50 50,,,Yes,,45.9460458,-0.5307636
+654,20654,Centre hospitalier de Saint-Jean-de-Maurienne,nan nan,Saint-Jean-de-Maurienne,Savoie,73300,,+33 4 79 20 60 20,,,Yes,,45.2770438,6.3422884
+655,20655,Centre hospitalier de Saint-Junien,nan nan,Saint-Junien,Nouvelle-Aquitaine,87200,,+33 5 55 43 50 00,,,Yes,,45.888154,0.897854
+656,20656,Centre hospitalier de Saint-Malo,Rue de la Marne 1,Saint-Malo,Bretagne,35400,,+33 2 99 21 21 21,,,Yes,,48.6399287,-2.0072371
+658,20658,Centre hospitalier de Saint-Palais,nan nan,Saint-Palais,Nouvelle-Aquitaine,64120,,+33 5 59 65 45 35,,,Yes,,43.3263326,-1.0266192
+659,20659,Centre hospitalier de Saint-Quentin,nan nan,Saint-Quentin,Hauts-de-France,02100,,+33 3 23 06 71 71,,,Yes,,49.8618238,3.270086
+660,20660,Centre hospitalier de Sainte-Foy-la-Grande,nan nan,Sainte-Foy-la-Grande,Nouvelle-Aquitaine,33220,,+33 5 57 41 96 96,,,Yes,,44.8425134,0.2214481
+661,20661,Centre hospitalier de Saintonge,nan nan,Saintes,Nouvelle-Aquitaine,17100,,+33 5 46 95 15 15,,,Yes,,45.7456996,-0.6572275
+662,20662,Centre hospitalier de Salon-de-Provence,nan nan,Salon-de-Provence,Bouches-du-Rhône,13300,,+33 4 90 44 91 44,,,Yes,,43.6408028,5.1030138
+663,20663,Centre hospitalier de Sarlat,nan nan,Sarlat-la-Canéda,Nouvelle-Aquitaine,24200,,+33 5 53 31 75 75,,,Yes,,44.9004235,1.2217288
+665,20665,Centre hospitalier de Sedan,nan nan,Sedan,Grand Est,08200,,+33 3 24 22 80 00,,,Yes,,49.705814,4.939293
+666,20666,Centre hospitalier de Senlis,nan nan,Senlis,Hauts-de-France,60300,,+33 3 44 21 70 00,,,Yes,,49.197882,2.5744427
+667,20667,Centre hospitalier de Sens,nan nan,Sens,Yonne,89100,,+33 3 86 86 15 15,,,Yes,,48.1921619,3.2964747
+671,20671,Centre hospitalier de Troyes,nan nan,Troyes,Grand Est,10000,,+33 3 25 49 49 49,,,Yes,,48.2799096,4.0684557
+672,20672,Centre hospitalier de Tulle,Place Docteur Maschat 3,Tulle,Nouvelle-Aquitaine,19000,,+33 5 55 29 79 00,,,Yes,,45.2725395,1.771253
+673,20673,Centre hospitalier de Vaison-la-Romaine,nan nan,Vaison-la-Romaine,Vaucluse,84110,,+33 4 90 36 04 58,,,Yes,,44.2399022,5.0750226
+674,20674,Centre hospitalier de Valréas,nan nan,Valréas,Vaucluse,84600,,+33 4 90 28 51 51,,,Yes,,44.3827739,4.9908099
+676,20676,Centre hospitalier de Versailles,nan nan,Le Chesnay-Rocquencourt,Yvelines,78150,,+33 1 39 63 91 33,,,Yes,,48.8299463,2.122778
+677,20677,Centre hospitalier de Vesoul,nan nan,Vesoul,Haute-Saône,70000,,+33 3 84 96 60 60,,,Yes,,47.6351127,6.1371884
+678,20678,Centre hospitalier de Vierzon,nan nan,Vierzon,Centre-Val de Loire,18100,,+33 2 48 52 33 33,,,Yes,,47.2283008,2.0514432
+682,20682,Centre hospitalier de Villefranche-de-Rouergue - Site de la Chartreuse,nan nan,Villefranche-de-Rouergue,Occitanie,12200,,+33 5 65 65 30 00,,,Yes,,44.3437638,2.0317108
+683,20683,Centre hospitalier de Vire,nan nan,Vire Normandie,Normandie,14500,,+33 2 31 67 47 47,,,Yes,,48.8372723,-0.8857157
+684,20684,Centre hospitalier de Voiron,nan nan,Voiron,Isère,38500,,+33 4 76 67 14 91,,,Yes,,45.3681573,5.5955191
+686,20686,Centre hospitalier de l'Ouest Guyanais,nan nan,Saint-Laurent-du-Maroni,Guyane,97320,,+594 594 34 88 88,,,Yes,,5.4873487,-54.0219364
+687,20687,Centre hospitalier de l'agglomération montargoise,nan nan,Amilly,Centre-Val de Loire,45200,,+33 2 38 95 91 11,,,Yes,,47.9945485,2.7749607
+688,20688,Centre hospitalier de la Ciotat,nan nan,La Ciotat,Bouches-du-Rhône,13600,,+33 4 42 08 76 00,,,Yes,,43.1791292,5.6086769
+689,20689,Centre hospitalier de la Côte Basque - Site de Saint-Leon,Avenue Interne Jacques Loëb 13,Bayonne,Nouvelle-Aquitaine,64100,,+33 5 59 44 35 35,,,Yes,,43.4824909,-1.4786213
+690,20690,Centre hospitalier de la Dracénie,Route de Montferrat nan,Draguignan,Var,83300,,+33 4 94 60 50 00,,,Yes,,43.5483285,6.4457772
+692,20692,Centre hospitalier de la Risle,Route de Lisieux 64,Pont-Audemer,Normandie,27500,,+33 2 32 41 64 64,,,Yes,,49.3478111,0.5130262
+693,20693,Centre hospitalier de la Région de Saint-Omer,nan nan,Helfaut,Hauts-de-France,62570,,+33 3 21 88 70 00,,,Yes,,50.7025571,2.2479368
+696,20696,Centre hospitalier de l’Ouest Vosgien - Site de Neufchâteau,nan nan,Neufchâteau,Grand Est,88300,,+33 3 29 94 80 00,,,Yes,,48.3676161,5.7089794
+697,20697,Centre hospitalier des Charmes,nan nan,Paray-le-Monial,Saône-et-Loire,71600,,+33 3 85 81 80 00,,,Yes,,46.4656786,4.1069354
+698,20698,Centre hospitalier des Escartons,nan nan,Briançon,Hautes-Alpes,05100,,+33 4 92 25 25 25,,,Yes,,44.9065737,6.6319471
+700,20700,Centre hospitalier des Pays de Morlaix,nan nan,Morlaix,Bretagne,29600,,+33 2 98 62 61 60,,,Yes,,48.5742219,-3.8290998
+701,20701,Centre hospitalier des Quinze-Vingts,nan nan,Paris,Paris,75012,,+33 1 40 02 15 20,,,Yes,,48.8514645,2.3714152
+703,20703,Centre hospitalier des vallées de l’Ariège - Site de Foix,nan nan,Saint-Jean-de-Verges,Occitanie,09000,,+33 5 61 03 30 30,,,Yes,,43.0272398,1.619345
+704,20704,Centre hospitalier du Bassin de Thau,nan nan,Sète,Occitanie,34200,,+33 4 67 46 57 57,,,Yes,,43.4064895,3.6670303
+706,20706,Centre hospitalier du Blanc,nan nan,Le Blanc,Centre-Val de Loire,36300,,+33 2 54 28 28 28,,,Yes,,46.633678,1.05919
+709,20709,Centre hospitalier du Centre-Bretagne,nan nan,Noyal-Pontivy,Bretagne,56920,,+33 2 97 79 00 00,,,Yes,,48.0862938,-2.9157514
+710,20710,Centre hospitalier du Chinonais,nan nan,Saint-Benoît-la-Forêt,Centre-Val de Loire,37500,,+33 2 47 93 75 15,,,Yes,,47.1889177,0.291422
+711,20711,Centre hospitalier du Forez,nan nan,Feurs,Loire,42110,,+33 4 77 27 54 54,,,Yes,,45.7469109,4.2205215
+714,20714,Centre hospitalier du Pays d'Aix,Avenue des Tamarys nan,Aix-en-Provence,Bouches-du-Rhône,13100,,+33 4 42 33 50 00,,,Yes,,43.5349583,5.4417897
+715,20715,Centre hospitalier du Pays d'Apt,nan nan,Apt,Vaucluse,84400,,+33 4 90 04 33 00,,,Yes,,43.875441,5.3840108
+717,20717,Centre hospitalier du Sud-Charente,nan nan,Barbezieux-Saint-Hilaire,Nouvelle-Aquitaine,16300,,+33 5 45 78 78 00,,,Yes,,45.4742261,-0.1408333
+718,20718,Centre hospitalier du Tonnerrois,nan nan,Tonnerre,Yonne,89700,,+33 3 86 54 33 00,,,Yes,,47.8575734,3.9782188
+719,20719,Centre hospitalier d’Auxerre,nan nan,Auxerre,Yonne,89000,,+33 3 86 48 48 48,,,Yes,,47.8063897,3.5572565
+720,20720,Centre hospitalier en Pays d'Olmes,nan nan,Lavelanet,Occitanie,09300,,+33 5 61 65 78 78,,,Yes,,42.9282234,1.8602077
+721,20721,Centre hospitalier intercommunal André Grégoire,nan nan,Romainville,Seine-Saint-Denis,93230,,+33 1 49 20 30 40,,,Yes,,48.8784526,2.4517257
+722,20722,Centre hospitalier intercommunal Caux-Vallée de Seine,nan nan,Lillebonne,Normandie,76170,,+33 2 35 39 36 36,,,Yes,,49.5190136,0.5418606
+723,20723,Centre hospitalier intercommunal Fréjus Saint-Raphaël,nan nan,Fréjus,Var,83600,,+33 4 94 40 21 21,,,Yes,,43.4379084,6.7548481
+725,20725,Centre hospitalier intercommunal Redon-Carentoir,Avenue Étienne Gascon 8,Redon,Bretagne,35600,,+33 2 99 71 71 71,,,Yes,,47.6530269,-2.0807345
+726,20726,Centre hospitalier intercommunal Robert Ballanger,nan nan,Villepinte,Seine-Saint-Denis,93420,,+33 1 49 36 71 23,,,Yes,,48.9557125,2.518623
+727,20727,Centre hospitalier intercommunal de Cavaillon-Lauris,nan nan,Cavaillon,Vaucluse,84300,,+33 4 90 78 85 00,,,Yes,,43.8413849,5.0373259
+728,20728,Centre hospitalier intercommunal de Créteil,nan nan,Créteil,Val-de-Marne,94000,,+33 1 45 17 50 00,,,Yes,,48.7961978,2.4637099
+729,20729,Centre hospitalier intercommunal de Poissy,nan nan,Poissy,Yvelines,78300,,+33 1 39 27 40 50,,,Yes,,48.9205947,2.0213849
+730,20730,Centre hospitalier intercommunal de Saint-Germain-en-Laye,Rue Armagis 20,Saint-Germain-en-Laye,Yvelines,78100,,+33 1 39 27 40 50,,,Yes,,48.8979273,2.0827192
+731,20731,Centre hospitalier intercommunal de la Lauter,nan nan,Wissembourg,Grand Est,67160,,+33 3 88 54 11 11,,,Yes,,49.040552,7.9301052
+732,20732,Centre hospitalier intercommunal du Pays de Cognac,nan nan,Châteaubernard,Nouvelle-Aquitaine,16100,,+33 5 45 80 15 15,,,Yes,,45.6838914,-0.2991059
+733,20733,Centre hospitalier privé du Montgardé,nan nan,Aubergenville,Yvelines,78410,,+33 1 30 95 52 00,,,Yes,,48.9561824,1.8464289
+734,20734,Centre hospitalier régional universitaire Jean Minjoz,nan nan,Besançon,Doubs,25000,,+33 3 81 66 81 66,,,Yes,,47.2276931,5.9631062
+741,20741,Centre hospitalier universitaire de Limoges,Avenue Martin Luther King 2,Limoges,Nouvelle-Aquitaine,87000,,+33 5 55 05 55 55,,,Yes,,45.8142021,1.2323441
+742,20742,Centre hospitalier universitaire de Nice,nan nan,Nice,Alpes-Maritimes,06000,,+33 4 92 03 77 77,,,Yes,,43.7249415,7.2800804
+758,20758,Centre médico-chirurgical Floréal,nan nan,Bagnolet,Seine-Saint-Denis,93170,,+33 1 48 97 72 00,,,Yes,,48.8781898,2.4311202
+773,20773,Clinique Aguiléra,Rue de l'Estagnas 2,Biarritz,Nouvelle-Aquitaine,64200,,+33 8 25 13 50 64,,,Yes,,43.4850145,-1.5401687
+775,20775,Clinique Ambroise Paré,nan nan,Toulouse,Occitanie,31100,,+33 8 26 30 19 19,,,Yes,,43.5901482,1.4137634
+779,20779,Clinique Anne d'Artois,Rue Émile Basly 100,Béthune,Hauts-de-France,62400,,+33 826 200 110,,,Yes,,50.5400381,2.631676
+782,20782,Clinique Beau Soleil,Avenue de Lodève 119,Montpellier,Occitanie,34070,,+33 4 67 75 99 99,,,Yes,,43.6103812,3.849778
+783,20783,Clinique Belharra,nan nan,Bayonne,Nouvelle-Aquitaine,64100,,+33 8 26 96 64 64,,,Yes,,43.4781522,-1.4528963
+788,20788,Clinique Bonnefon,Avenue Carnot 45,Alès,Occitanie,30100,,+33 8 26 20 73 30,,,Yes,,44.121468,4.0879053
+792,20792,Clinique Capio La Croix du Sud,Chemin de Ribaute 52,Quint-Fonsegrives,Occitanie,31130,,+33 8 06 23 32 33,,,Yes,,43.5836399,1.5080489
+800,20800,Clinique Claude Bernard,nan nan,Albi,Occitanie,81000,,+33 5 63 77 77 63,,,Yes,,43.9306544,2.1633243
+801,20801,Clinique Claude Bernard,Avenue Louis Armand 9,Ermont,Val-d'Oise,95120,,+33 1 30 72 34 34,,,Yes,,48.9807205,2.2630427
+802,20802,Clinique Claude Bernard,nan nan,Metz,Grand Est,57070,,+33 8 26 30 66 66,,,Yes,,49.1141956,6.2117602
+804,20804,Clinique Convert,nan nan,Bourg-en-Bresse,Ain,01000,,+33 4 74 45 64 45,,,Yes,,46.210928,5.252698
+809,20809,Clinique Esquirol Saint-Hilaire,nan nan,Agen,Nouvelle-Aquitaine,47000,,+33 5 53 47 47 47,,,Yes,,44.1854228,0.6279259
+811,20811,Clinique François Chénieux,nan nan,Limoges,Nouvelle-Aquitaine,87000,,+33 8 25 56 45 00,,,Yes,,45.8138888,1.284284
+815,20815,Clinique Générale,nan nan,Annecy,Haute-Savoie,74000,,+33 8 26 88 88 88,,,Yes,,45.8960217,6.1259622
+816,20816,Clinique Générale de Marignane,Avenue Général Raoul Salan nan,Marignane,Bouches-du-Rhône,13700,,+33 4 42 78 45 00,,,Yes,,43.4095262,5.2141965
+844,20844,Clinique Les Fontaines,nan nan,Melun,Seine-et-Marne,77000,,+33 1 60 56 40 00,,,Yes,,48.5437401,2.651771
+850,20850,Clinique Malartic,Chemin de Faveyrolles 203,Ollioules,Var,83190,,+33 4 94 89 89 89,,,Yes,,43.1301902,5.8747789
+860,20860,Clinique Mutualiste Chirurgicale,nan nan,Saint-Étienne,Loire,42100,,+33 4 77 12 12 12,,,Yes,,45.4145085,4.3936153
+876,20876,Clinique Pasteur,nan nan,Évreux,Normandie,27000,,+33 2 32 38 95 00,,,Yes,,49.0279803,1.160597
+893,20893,Clinique Saint-Amé,nan nan,Lambres-lez-Douai,Hauts-de-France,59552,,+33 3 74 82 17 17,,,Yes,,50.3575013,3.0575077
+907,20907,Clinique Saint-Jean,nan nan,Cagnes-sur-Mer,Alpes-Maritimes,06800,,+33 4 92 13 53 13,,,Yes,,43.6609816,7.1358562
+913,20913,Clinique Saint-Louis,nan nan,Ganges,Occitanie,34190,,+33 4 67 81 68 00,,,Yes,,43.9328248,3.701803
+919,20919,Clinique Saint-Michel,nan nan,Prades,Occitanie,66500,,+33 8 26 30 03 16,,,Yes,,42.617115,2.417528
+922,20922,Clinique Saint-Pierre,nan nan,Perpignan,Occitanie,66000,,+33 8 26 30 26 26,,,Yes,,42.6951534,2.865243
+923,20923,Clinique Saint-Privat,nan nan,Boujan-sur-Libron,Occitanie,34760,,+33 4 67 35 46 00,,,Yes,,43.3665165,3.2562979
+936,20936,Clinique Sainte-Marie,nan nan,Osny,Val-d'Oise,95520,,+33 8 26 30 95 95,,,Yes,,49.0740478,2.0746822
+957,20957,Clinique d'Occitanie,Avenue Bernard IV 20,Muret,Occitanie,31600,,+33 8 26 30 88 88,,,Yes,,43.4650052,1.3368925
+960,20960,Clinique de Bruay-la-Buissière,nan nan,Bruay-la-Buissière,Hauts-de-France,62700,,,,,Yes,,50.4785021,2.5507198
+977,20977,Clinique de Tournan,nan nan,Tournan-en-Brie,Seine-et-Marne,77220,,+33 8 25 16 42 42,,,Yes,,48.742273,2.758603
+978,20978,Clinique de l'Anjou,Rue de l'Hirondelle 9,Angers,Pays de la Loire,49100,,+33 2 41 44 71 71,,,Yes,,47.4440883,-0.5400762
+983,20983,Clinique de l'Estrée,nan nan,Stains,Seine-Saint-Denis,93240,,+33 1 49 71 71 71,,,Yes,,48.955338,2.3678719
+984,20984,Clinique de l'Europe,Boulevard de l'Europe 73,Rouen,Normandie,76100,,+33 2 32 18 10 00,,,Yes,,49.4251636,1.0845292
+987,20987,Clinique de l'Union,nan nan,Saint-Jean,Occitanie,31240,,+33 5 61 37 81 81,,,Yes,,43.6505316,1.5127256
+989,20989,Clinique de l'Étang de l'Olivier,Rue Roger Carpentier 4,Istres,Bouches-du-Rhône,13800,,+33 4 42 47 60 00,,,Yes,,43.5087833,4.9914354
+1004,21004,Clinique de la Sauvegarde,Avenue David Ben Gourion 40,Lyon,Rhône,69009,,+33 4 72 17 26 26,,,Yes,,45.7886253,4.7882807
+1014,21014,Clinique des Cèdres,nan nan,Échirolles,Isère,38130,,+33 8 25 56 56 38,,,Yes,,45.148252,5.7229772
+1015,21015,Clinique des Cèdres,nan nan,Cornebarrieu,Occitanie,31700,,+33 8 26 96 31 31,,,Yes,,43.6605064,1.3087452
+1017,21017,Clinique des Côtes du Rhône,Rue Fernand Léger 12,Roussillon,Isère,38150,,+33 4 74 29 28 28,,,Yes,,45.3712944,4.8124446
+1018,21018,Clinique des Franciscaines,nan nan,Versailles,Yvelines,78000,,+33 1 30 97 33 33,,,Yes,,48.794019,2.1407267
+1020,21020,Clinique des Ormeaux,nan nan,Le Havre,Normandie,76600,,+33 2 32 74 32 74,,,Yes,,49.4872493,0.1371272
+1030,21030,Clinique du Cèdre,Rue de la Haie 950,Bois-Guillaume,Normandie,76230,,+33 2 35 59 59 59,,,Yes,,49.4641566,1.1112002
+1032,21032,Clinique du Diaconat-Fonderie,nan nan,Mulhouse,Grand Est,68100,,+33 8 25 12 75 75,,,Yes,,47.7413274,7.3313546
+1033,21033,Clinique du Diaconat-Roosevelt,nan nan,Mulhouse,Grand Est,68100,,+33 3 89 32 55 00,,,Yes,,47.7488003,7.330952
+1039,21039,Clinique du Grand Large,nan nan,Décines-Charpieu,Rhône,69150,,+33 4 78 49 05 60,,,Yes,,45.771074,4.9706617
+1047,21047,Clinique du Millénaire,Boulevard Pénélope 220,Montpellier,Occitanie,34080,,+33 8 26 88 88 83,,,Yes,,43.6011589,3.913514
+1049,21049,Clinique du Mousseau,nan nan,Évry-Courcouronnes,Essonne,91000,,+33 1 60 90 10 10,,,Yes,,48.6302598,2.4496662
+1053,21053,Clinique du Parc,nan nan,Saint-Priest-en-Jarez,Loire,42270,,+33 4 77 92 22 22,,,Yes,,45.4774615,4.3685641
+1054,21054,Clinique du Parc,nan nan,Castelnau-le-Lez,Occitanie,34170,,+33 4 67 33 13 31,,,Yes,,43.6361613,3.8923603
+1056,21056,Clinique du Parc Impérial,nan nan,Nice,Alpes-Maritimes,06000,,+33 4 92 07 75 75,,,Yes,,43.703349,7.251581
+1064,21064,Clinique du Pont de Chaume,Avenue Marcel Unal nan,Montauban,Occitanie,82000,,+33 5 63 92 82 82,,,Yes,,44.0076711,1.3786079
+1069,21069,Clinique du Renaison,nan nan,Roanne,Loire,42300,,+33 8 26 46 45 00,,,Yes,,46.0331547,4.0511434
+1073,21073,Clinique du Val d'Ouest,nan nan,Écully,Rhône,69130,,,,,Yes,,45.7693183,4.7815874
+1075,21075,Clinique du Vallespir,nan 8,Céret,Occitanie,66400,,+33 4 68 87 12 55,,,Yes,,42.4909118,2.7538273
+1081,21081,Clinique les Eaux Claires,nan nan,Baie-Mahault,Guadeloupe,97122,,+33 5 90 97 62 62,,,Yes,,16.2414858,-61.5872835
+1084,21084,Clinique mutualiste Arnaud Duben,Avenue du Docteur Schweitzer 46,Pessac,Nouvelle-Aquitaine,33600,,+33 5 56 46 56 46,,,Yes,,44.8065519,-0.612368
+1086,21086,Clinique mutualiste du Médoc,nan nan,Lesparre-Médoc,Nouvelle-Aquitaine,33340,,+33 5 56 73 10 00,,,Yes,,45.3035741,-0.937342
+1143,21143,Fondation Lenval - Hôpital pour Enfants,Avenue de la Californie 57,Nice,Alpes-Maritimes,06000,,+33 4 92 03 03 92,,,Yes,,43.689431,7.241303
+1146,21146,Fondation ophtalmologique Adolphe de Rothschild,nan nan,Paris,Paris,75019,,+33 1 48 03 65 65,,,Yes,,48.878527,2.3781441
+1152,21152,Grand Hôpital de l'Est Francilien - Site de Marne-la-Vallée,nan nan,Montévrain,Seine-et-Marne,77144,,+33 1 64 77 64 77,,,Yes,,48.8514727,2.7708885
+1154,21154,Groupe Hospitalier Mutualiste de Grenoble,nan nan,Grenoble,Isère,38000,,+33 4 76 70 70 00,,,Yes,,45.182613,5.7098282
+1156,21156,Groupe Hospitalier Sud Ardennes,nan nan,Rethel,Grand Est,08300,,+33 3 24 38 66 66,,,Yes,,49.5117786,4.36084
+1159,21159,Groupe hospitalier Carnelle Porte de l'Oise - Site de Beaumont,nan nan,Beaumont-sur-Oise,Val-d'Oise,95260,,+33 1 39 37 15 20,,,Yes,,49.145303,2.289071
+1160,21160,Groupe hospitalier Les Portes du Sud,nan nan,Vénissieux,Rhône,69200,,+33 4 72 89 80 00,,,Yes,,45.6886124,4.8654574
+1161,21161,Groupe hospitalier Pellegrin,nan nan,Bordeaux,Nouvelle-Aquitaine,33000,,+33 5 56 79 56 79,,,Yes,,44.8300528,-0.6040555
+1162,21162,Groupe hospitalier Sud Ardennes - Site de Vouziers,nan nan,Vouziers,Grand Est,08400,,+33 3 24 30 71 00,,,Yes,,49.3954206,4.7010643
+1163,21163,Groupe hospitalier intercommunal Le Raincy-Montfermeil,nan nan,Montfermeil,Seine-Saint-Denis,93370,,+33 1 41 70 80 00,,,Yes,,48.8993586,2.5702375
+1165,21165,Groupement Hospitalier Intercommunal du Vexin - Site de Magny,nan nan,Magny-en-Vexin,Val-d'Oise,95420,,+33 1 34 79 44 44,,,Yes,,49.1544428,1.7845902
+1171,21171,Hopital Beaujon,Boulevard du Général Leclerc 100,Clichy,Hauts-de-Seine,92110,,+33 1 40 87 50 00,,,Yes,,48.9072632,2.3119859
+1201,21201,Hospices de Beaune,nan nan,Beaune,Côte-d'Or,21200,,+33 3 80 24 44 44,,,Yes,,47.0315858,4.8340501
+1202,21202,Hôpial privé du Vert-Galant,nan nan,Tremblay-en-France,Seine-Saint-Denis,93290,,+33 1 86 86 93 00,,,Yes,,48.9403431,2.5719987
+1209,21209,Hôpital Ambroise Paré,nan nan,Boulogne-Billancourt,Hauts-de-Seine,92100,,+33 1 49 09 50 00,,,Yes,,48.8475878,2.2335323
+1212,21212,Hôpital Antoine Béclère,nan nan,Clamart,Hauts-de-Seine,92140,,+33 1 45 37 44 44,,,Yes,,48.7867164,2.2542076
+1213,21213,Hôpital Armand-Trousseau,nan nan,Paris,Paris,75012,,+33 1 44 73 74 75,,,Yes,,48.8429413,2.4053966
+1216,21216,Hôpital Avicenne,nan nan,Bobigny,Seine-Saint-Denis,93000,,+33 1 48 95 55 55,,,Yes,,48.9129616,2.4255185
+1217,21217,Hôpital Beauregard Vert Coteau,nan nan,Marseille,Bouches-du-Rhône,13004,,+33 4 91 12 34 56,,,Yes,,43.3147728,5.4102679
+1218,21218,Hôpital Bel-Air,nan nan,Thionville,Grand Est,57100,,+33 3 82 55 82 55,,,Yes,,49.3741655,6.1476614
+1222,21222,Hôpital Bichat-Claude Bernard,nan nan,Paris,Paris,75018,,+33 1 40 25 80 80,,,Yes,,48.899219,2.3309037
+1223,21223,Hôpital Bicêtre,nan nan,Le Kremlin-Bicêtre,Val-de-Marne,94270,,+33 1 45 21 21 21,,,Yes,,48.8097787,2.3496348
+1225,21225,Hôpital Bretonneau,nan nan,Tours,Centre-Val de Loire,37000,,+33 2 47 47 47 47,,,Yes,,47.3899874,0.6700471
+1230,21230,Hôpital Central,nan nan,Nancy,Grand Est,54000,,,,,Yes,,48.6835554,6.1916791
+1231,21231,Hôpital Charles Haby,nan nan,Guebwiller,Grand Est,68500,,+33 3 89 74 78 00,,,Yes,,47.9076029,7.2165705
+1232,21232,Hôpital Charles Nicolle,Rue de Germont 1,Rouen,Normandie,76000,,+33 2 32 88 89 90,,,Yes,,49.4413736,1.1124594
+1239,21239,Hôpital Clocheville,Boulevard Béranger nan,Tours,Centre-Val de Loire,37000,,+33 2 47 47 60 99,,,Yes,,47.3893152,0.6809897
+1241,21241,Hôpital Cochin,Rue du Faubourg Saint-Jacques 27,Paris,Paris,75014,,+33 1 58 41 41 41,,,Yes,,48.8381314,2.3418004
+1245,21245,Hôpital Croix Saint-Simon,nan nan,Paris,Paris,75020,,+33 1 44 64 16 00,,,Yes,,48.8532034,2.4084733
+1246,21246,Hôpital Delafontaine,nan nan,Saint-Denis,Seine-Saint-Denis,93200,,+33 1 42 35 61 40,,,Yes,,48.9364324,2.37672
+1254,21254,Hôpital Européen Georges Pompidou,nan nan,Paris,Paris,75015,,+33 1 56 09 20 00,,,Yes,,48.8395572,2.2720487
+1255,21255,Hôpital Européen de Paris,nan nan,Aubervilliers,Seine-Saint-Denis,93300,,+33 1 48 39 45 00,,,Yes,,48.9058469,2.388314
+1256,21256,Hôpital Fauquet,Rue Lechaptois 365,Bolbec,Normandie,76210,,+33 2 35 39 36 36,,,Yes,,49.5676339,0.4670689
+1257,21257,Hôpital Femme-Mère-Enfant,nan nan,Bron,Rhône,69500,,+33 8 25 08 25 69,,,Yes,,45.746647,4.900663
+1258,21258,Hôpital Femme-Mère-Enfant,nan nan,Brunstatt-Didenheim,Grand Est,68350,,,,,Yes,,47.7234942,7.3398922
+1262,21262,Hôpital Foch,nan nan,Suresnes,Hauts-de-Seine,92150,,+33 8 26 20 72 20,,,Yes,,48.8717384,2.2215922
+1263,21263,Hôpital François Mitterrand,nan nan,Dijon,Côte-d'Or,21000,,+33 3 80 29 30 31,,,Yes,,47.3187996,5.0732932
+1268,21268,Hôpital George Sand,nan nan,La Seyne-sur-Mer,Var,83500,,+33 4 94 11 30 00,,,Yes,,43.1097248,5.8707645
+1271,21271,Hôpital Haut-Lévêque,nan nan,Pessac,Nouvelle-Aquitaine,33600,,+33 5 56 79 56 79,,,Yes,,44.7866831,-0.6638722
+1279,21279,Hôpital Jacques Monod,nan nan,Harfleur,Normandie,76700,,+33 2 32 73 32 32,,,Yes,,49.5240586,0.187069
+1280,21280,Hôpital Jean Bouveri,nan nan,Saint-Vallier,Saône-et-Loire,71230,,+33 3 85 67 60 60,,,Yes,,46.6472573,4.3307069
+1285,21285,Hôpital Jean Verdier,nan nan,Bondy,Seine-Saint-Denis,93140,,+33 1 48 02 66 66,,,Yes,,48.9089367,2.4869095
+1286,21286,Hôpital Joseph Ducuing,nan nan,Toulouse,Occitanie,31300,,+33 5 61 77 34 00,,,Yes,,43.5959376,1.4287955
+1290,21290,Hôpital Lapeyronie,Avenue du Doyen Gaston Giraud 371,Montpellier,Occitanie,34090,,+33 4 67 33 67 33,,,Yes,,43.6288087,3.8506566
+1291,21291,Hôpital Lariboisière,nan nan,Paris,Paris,75010,,+33 1 49 95 65 65,,,Yes,,48.8836808,2.3513857
+1296,21296,Hôpital Le Pratel,Rue du Pratel 2,Auray,Bretagne,56400,,+33 2 97 56 41 41,,,Yes,,47.6703728,-2.9810555
+1306,21306,Hôpital Louis Domergue,nan nan,La Trinité,Martinique,97220,,+33 5 96 66 46 00,,,Yes,,14.7359256,-60.9665801
+1307,21307,Hôpital Louis Mourier,Rue des Renouillers 178,Colombes,Hauts-de-Seine,92700,,+33 1 47 60 61 62,,,Yes,,48.9228793,2.2341363
+1308,21308,Hôpital Lozère,nan nan,Mende,Occitanie,48000,,+33 4 66 49 49 49,,,Yes,,44.522745,3.4885982
+1311,21311,Hôpital Maillot,nan nan,Val de Briey,Grand Est,54150,,+33 3 82 47 50 00,,,Yes,,49.2595812,5.9335356
+1316,21316,Hôpital Max Fourestier,nan nan,Nanterre,Hauts-de-Seine,92000,,+33 1 47 69 65 65,,,Yes,,48.9121004,2.2232153
+1319,21319,Hôpital Morvan,nan nan,Brest,Bretagne,29200,,+33 2 98 22 33 33,,,Yes,,48.3921105,-4.486941
+1322,21322,Hôpital Necker Enfants Malades,nan nan,Paris,Paris,75015,,+33 1 44 49 40 00,,,Yes,,48.8453521,2.3171962
+1323,21323,Hôpital Nord,Avenue Albert Raimond nan,L'Étrat,Loire,42580,,+33 4 77 82 80 00,,,Yes,,45.4818466,4.3586523
+1324,21324,Hôpital Nord,Chemin des Bourrely nan,Marseille,Bouches-du-Rhône,13015,,+33 4 91 38 00 00,,,Yes,,43.3774753,5.3632479
+1326,21326,Hôpital Nord Franche-Comté,Route de Moval 100,Trévenans,Territoire de Belfort,90400,,+33 3 84 98 20 20,,,Yes,,47.5770309,6.8705718
+1330,21330,Hôpital Pasteur,nan nan,Colmar,Grand Est,68000,,+33 3 89 12 40 00,,,Yes,,48.0777161,7.3346617
+1331,21331,Hôpital Pasteur,nan nan,Cherbourg-en-Cotentin,Normandie,50100,,+33 2 33 20 70 70,,,Yes,,49.6386482,-1.6142956
+1334,21334,Hôpital Paule de Viguier,nan nan,Toulouse,Occitanie,31300,,,,,Yes,,43.607883,1.40309
+1336,21336,Hôpital Pierre Bérégovoy,Avenue Patrick Guillot 1,Nevers,Nièvre,58000,,+33 3 86 93 70 00,,,Yes,,46.9760748,3.1237136
+1341,21341,Hôpital Pitié-Salpêtrière,nan nan,Paris,Paris,75013,,+33 1 42 16 00 00,,,Yes,,48.8358526,2.3690661
+1342,21342,Hôpital Pontchaillou,Rue Henri Le Guilloux 2,Rennes,Bretagne,35000,,+33 2 99 28 43 21,,,Yes,,48.121012,-1.6992917
+1343,21343,Hôpital Privé Armand Brillard,nan nan,Nogent-sur-Marne,Val-de-Marne,94130,,+33 1 86 86 12 12,,,Yes,,48.8328582,2.4725762
+1346,21346,Hôpital Privé Pays de Savoie,Avenue Pierre Mendès France 19,Annemasse,Haute-Savoie,74100,,,,,Yes,,46.1877616,6.2232712
+1353,21353,Hôpital Privé de la Loire,nan nan,Saint-Étienne,Loire,42100,,+33 8 26 30 42 42,,,Yes,,45.4286656,4.4176585
+1356,21356,Hôpital Privé d’Ambérieu,nan nan,Ambérieu-en-Bugey,Ain,01500,,+33 4 74 38 95 95,,,Yes,,45.9803924,5.3520757
+1357,21357,Hôpital Prosper Chubert,Boulevard du Général Guillaudot 20,Vannes,Bretagne,56000,,+33 2 97 01 41 41,,,Yes,,47.6637964,-2.7458378
+1363,21363,Hôpital Psychiatrique Philippe Pinel,Route de Paris 74410,Dury,Hauts-de-France,80480,,+33 3 22 53 46 46,,,Yes,,49.8679814,2.2780983
+1368,21368,Hôpital Purpan,nan nan,Toulouse,Occitanie,31300,,+33 5 61 77 22 33,,,Yes,,43.6056499,1.4033805
+1369,21369,Hôpital Rangueil,nan nan,Toulouse,Occitanie,31400,,+33 5 61 77 22 33,,,Yes,,43.5626602,1.4533313
+1374,21374,Hôpital Robert Debré,nan nan,Paris,Paris,75019,,+33 1 40 03 20 00,,,Yes,,48.8786021,2.4027525
+1375,21375,Hôpital Robert Pax,nan nan,Sarreguemines,Grand Est,57200,,+33 3 87 27 33 10,,,Yes,,49.1004407,7.0964915
+1379,21379,Hôpital Saint-André,nan nan,Bordeaux,Nouvelle-Aquitaine,33000,,+33 5 56 79 56 79,,,Yes,,44.832981,-0.578968
+1382,21382,Hôpital Saint-Antoine,nan nan,Paris,Paris,75012,,+33 1 49 28 20 00,,,Yes,,48.8469807,2.3817305
+1383,21383,Hôpital Saint-Camille,nan nan,Bry-sur-Marne,Val-de-Marne,94360,,+33 1 49 83 10 10,,,Yes,,48.8327226,2.5277132
+1392,21392,Hôpital Saint-Joseph,Rue Raymond Losserand 185,Paris,Paris,75014,,+33 1 44 12 33 33,,,Yes,,48.8292274,2.3088214
+1393,21393,Hôpital Saint-Joseph,nan nan,Bitche,Grand Est,57230,,+33 3 87 98 76 00,,,Yes,,49.0460962,7.4224501
+1394,21394,Hôpital Saint-Joseph,nan nan,Marseille,Bouches-du-Rhône,13008,,+33 4 91 80 65 00,,,Yes,,43.276256,5.392191
+1397,21397,Hôpital Saint-Julien,Rue Guillaume Lecointe nan,Le Petit-Quevilly,Normandie,76140,,+33 2 32 88 64 00,,,Yes,,49.4206819,1.0580186
+1398,21398,Hôpital Saint-Louis,nan nan,Paris,Paris,75010,,+33 1 42 49 49 49,,,Yes,,48.8758244,2.3682379
+1403,21403,Hôpital Saint-Nicolas,nan nan,Sarrebourg,Grand Est,57400,,+33 3 87 23 24 25,,,Yes,,48.7280299,7.0520907
+1406,21406,Hôpital Saint-Philibert,nan nan,Lille,Hauts-de-France,59160,,+33 3 20 22 50 50,,,Yes,,50.6504396,2.972467
+1409,21409,Hôpital Saint-Vincent de Paul,nan nan,Lille,Hauts-de-France,59000,,+33 3 20 87 48 48,,,Yes,,50.6210387,3.0774672
+1417,21417,Hôpital Sainte-Musse,nan nan,Toulon,Var,83000,,+33 4 94 14 50 00,,,Yes,,43.1248111,5.9751209
+1421,21421,Hôpital Simone Veil,nan nan,Eaubonne,Val-d'Oise,95600,,+33 1 34 06 60 00,,,Yes,,48.9992125,2.2707674
+1425,21425,Hôpital Sud,nan nan,Échirolles,Isère,38130,,+33 4 76 76 75 75,,,Yes,,45.148762,5.7294185
+1426,21426,Hôpital Sud,Boulevard de Bulgarie 16,Rennes,Bretagne,35200,,+33 2 99 28 43 21,,,Yes,,48.0836164,-1.6548053
+1429,21429,Hôpital Tenon,nan nan,Paris,Paris,75020,,+33 1 56 01 70 00,,,Yes,,48.8674441,2.4008345
+1431,21431,Hôpital Trousseau,nan nan,Chambray-lès-Tours,Centre-Val de Loire,37170,,+33 2 47 47 47 47,,,Yes,,47.3460862,0.7095139
+1437,21437,Hôpital clinique du Pays des Hautes Falaises,nan nan,Fécamp,Normandie,76400,,+33 2 35 10 90 00,,,Yes,,49.7452603,0.3852023
+1439,21439,Hôpital d'Instruction des Armées Clermont-Tonnerre,nan nan,Brest,Bretagne,29200,,+33 2 98 43 70 00,,,Yes,,48.3921809,-4.4930977
+1440,21440,Hôpital d'Instruction des Armées Percy,nan nan,Clamart,Hauts-de-Seine,92140,,+33 1 41 46 60 00,,,Yes,,48.8152635,2.2535473
+1442,21442,Hôpital d'instruction des armées Desgenettes,nan nan,Lyon,Rhône,69003,,+33 4 72 36 60 00,,,Yes,,45.7417469,4.8886294
+1443,21443,Hôpital d'instruction des armées Laveran,nan nan,Marseille,Bouches-du-Rhône,13013,,+33 4 91 61 70 00,,,Yes,,43.3262881,5.4137368
+1444,21444,Hôpital d'instruction des armées Legouest,nan nan,Metz,Grand Est,57070,,+33 3 87 56 46 46,,,Yes,,49.1137725,6.1869794
+1445,21445,Hôpital d'instruction des armées Sainte-Anne,nan nan,Toulon,Var,83000,,+33 4 83 16 20 10,,,Yes,,43.1335565,5.9280379
+1448,21448,Hôpital de Beaujeu,nan nan,Beaujeu,Rhône,69430,,,,,Yes,,46.153011,4.59001
+1456,21456,Hôpital de Fleyriat,nan nan,Viriat,Ain,01440,,+33 4 74 45 46 47,,,Yes,,46.2220408,5.2133945
+1457,21457,Hôpital de Hautepierre,nan nan,Strasbourg,Grand Est,67200,,+33 3 88 11 67 68,,,Yes,,48.5933409,7.7032993
+1485,21485,Hôpital de Saint-Avold,Rue Ambroise Paré nan,Saint-Avold,Grand Est,57500,,+33 3 87 91 14 44,,,Yes,,49.1123397,6.7237857
+1493,21493,Hôpital de Taravao,nan nan,Taiarapu Est,,,,,,,Yes,,-17.7318386,-149.3040893
+1505,21505,Hôpital de l'Est Parisien,nan nan,Aulnay-sous-Bois,Seine-Saint-Denis,93600,,+33 1 86 86 35 35,,,Yes,,48.929156,2.4961133
+1506,21506,Hôpital de la Cavale Blanche,Boulevard Tanguy Prigent nan,Brest,Bretagne,29200,,+33 2 98 22 33 33,,,Yes,,48.4020409,-4.5324114
+1509,21509,Hôpital de la Croix-Rousse,nan nan,Caluire-et-Cuire,Rhône,69300,,+33 8 25 08 25 69,,,Yes,,45.7834488,4.8329035
+1515,21515,Hôpital de la Timone,nan nan,Marseille,Bouches-du-Rhône,13005,,+33 4 91 38 00 00,,,Yes,,43.2900718,5.4065421
+1523,21523,Hôpital du Creusot - Site Foch,nan nan,Le Creusot,Saône-et-Loire,71200,,+33 3 85 77 20 00,,,Yes,,46.8052968,4.4471589
+1529,21529,Hôpital du Haut-Anjou,nan nan,Château-Gontier-sur-Mayenne,Pays de la Loire,53200,,+33 2 43 09 33 33,,,Yes,,47.8260156,-0.7013011
+1533,21533,Hôpital du Pays Dunois,Rue de l'Hôpital 19,La Clayette,Saône-et-Loire,71800,,+33 3 85 28 91 10,,,Yes,,46.2890007,4.3064786
+1534,21534,Hôpital du Pays d’Autan,Avenue de la Montagne Noire 6,Castres,Occitanie,81100,,+33 5 63 71 63 71,,,Yes,,43.5651518,2.2590315
+1536,21536,Hôpital du Porzou,nan nan,Concarneau,Bretagne,29900,,+33 2 98 50 30 30,,,Yes,,47.8660322,-3.9026004
+1537,21537,Hôpital du Scorff,Avenue de Choiseul nan,Lorient,Bretagne,56100,,+33 2 97 06 90 90,,,Yes,,47.7538225,-3.3586316
+1538,21538,Hôpital du Taaone,nan nan,Pirae,,,,,,,Yes,,-17.5282736,-149.5471724
+1577,21577,Hôpital privé Claude Galien,nan nan,Quincy-sous-Sénart,Essonne,91480,,+33 1 69 39 90 00,,,Yes,,48.6813731,2.5392053
+1578,21578,Hôpital privé Dijon Bourgogne,nan nan,Dijon,Côte-d'Or,21000,,+33 3 74 82 21 21,,,Yes,,47.3635567,5.051372
+1579,21579,Hôpital privé Jacques Cartier,nan nan,Massy,Essonne,91300,,+33 1 60 13 60 60,,,Yes,,48.7311506,2.292132
+1581,21581,Hôpital privé La Casamance,nan nan,Aubagne,Bouches-du-Rhône,13400,,+33 4 91 88 40 00,,,Yes,,43.276357,5.530522
+1582,21582,Hôpital privé Paul d'Égine,nan nan,Champigny-sur-Marne,Val-de-Marne,94500,,+33 1 86 86 66 00,,,Yes,,48.8112376,2.5158742
+1583,21583,Hôpital privé Saint-Claude,nan nan,Saint-Quentin,Hauts-de-France,02100,,+33 8 26 20 71 02,,,Yes,,49.859543,3.308895
+1584,21584,Hôpital privé Saint-François,nan nan,Montluçon,Allier,03100,,+33 8 26 39 99 29,,,Yes,,46.3450363,2.6178065
+1585,21585,Hôpital privé Saint-Martin,nan nan,Caen,Normandie,14000,,+33 8 26 46 14 00,,,Yes,,49.198441,-0.380842
+1586,21586,Hôpital privé d'Eure-et-Loir,Rue Roland Buthier 2,Mainvilliers,Centre-Val de Loire,28300,,+33 2 37 18 41 00,,,Yes,,48.4567104,1.4512883
+1587,21587,Hôpital privé de Marne-Chantereine,nan nan,Brou-sur-Chantereine,Seine-et-Marne,77177,,+33 1 64 72 74 00,,,Yes,,48.8861692,2.6307724
+1588,21588,Hôpital privé de Parly 2 Le Chesnay,nan nan,Le Chesnay-Rocquencourt,Yvelines,78150,,+33 1 39 63 70 00,,,Yes,,48.8304045,2.1195547
+1589,21589,Hôpital privé de Provence,nan nan,Aix-en-Provence,Bouches-du-Rhône,13100,,+33 4 42 33 88 00,,,Yes,,43.5037184,5.4368005
+1590,21590,Hôpital privé de Thiais,nan nan,Thiais,Val-de-Marne,94320,,+33 1 45 60 28 28,,,Yes,,48.7686056,2.3697774
+1591,21591,Hôpital privé de Vitry - Site Pasteur,Rue de la Petite Saussaie 22,Vitry-sur-Seine,Val-de-Marne,94400,,+33 1 45 73 35 35,,,Yes,,48.7856296,2.389518
+1592,21592,Hôpital privé de l'Est Lyonnais,nan nan,Saint-Priest,Rhône,69800,,+33 8 26 96 99 99,,,Yes,,45.7167536,4.9253367
+1593,21593,Hôpital privé de l'Estuaire,Rue Irène Joliot-Curie 505,Le Havre,Normandie,76600,,+33 8 25 74 75 76,,,Yes,,49.5281375,0.1014063
+1594,21594,Hôpital privé de l'Ouest Parisien,nan nan,Trappes,Yvelines,78190,,+33 1 86 86 78 78,,,Yes,,48.7776026,1.9884342
+1595,21595,Hôpital privé du Confluent,nan nan,Rezé,Pays de la Loire,44400,,+33 2 28 25 50 00,,,Yes,,47.195599,-1.5488154
+1596,21596,Hôpital privé du Val d'Yerres,Avenue de l'Abbaye 31,Yerres,Essonne,91330,,+33 8 26 30 04 00,,,Yes,,48.712334,2.495501
+1598,21598,Hôpital Édouard Herriot,nan nan,Lyon,Rhône,69003,,,,,Yes,,45.7433595,4.8799898
+1599,21599,Hôpital Émile Muller,nan nan,Mulhouse,Grand Est,68100,,+33 3 89 64 64 64,,,Yes,,47.7255601,7.3389713
+1602,21602,Hôpitaux Drôme-Nord,nan nan,Romans-sur-Isère,Drôme,26100,,+33 4 75 05 75 05,,,Yes,,45.0400386,5.0208874
+1603,21603,Hôpitaux Drôme-Nord - Site de Saint-Vallier,nan nan,Saint-Vallier,Drôme,26240,,+33 4 75 23 80 00,,,Yes,,45.1703073,4.8214078
+1605,21605,Hôpitaux de Lannemezan,nan nan,Lannemezan,Occitanie,65300,,+33 5 62 99 55 55,,,Yes,,43.1187207,0.4119516
+1607,21607,Hôpitaux du Léman,Avenue de la Dame 3,Thonon-les-Bains,Haute-Savoie,74200,,,,,Yes,,46.3596027,6.4783033
+1608,21608,Hôpitaux du Mont-Blanc - Site de Sallanches,nan nan,Sallanches,Haute-Savoie,74700,,+33 4 50 47 30 30,,,Yes,,45.934597,6.641451
+1611,21611,Hôtel-Dieu,nan nan,Paris,Paris,75004,,+33 1 42 34 82 34,,,Yes,,48.8539673,2.3481897
+1612,21612,Hôtel-Dieu,nan nan,Pont-l'Abbé,Bretagne,29120,,+33 2 98 82 40 40,,,Yes,,47.863773,-4.222757
+1614,21614,Hôtel-Dieu,nan nan,Narbonne,Occitanie,11100,,+33 4 68 42 60 00,,,Yes,,43.181001,2.99916
+1620,21620,Institut Arnault Tzanck,nan nan,Saint-Laurent-du-Var,Alpes-Maritimes,06700,,+33 4 92 27 33 33,,,Yes,,43.660774,7.1875101
+1664,21664,L’Hôpital Nord-Ouest Tarare,Boulevard Garibaldi 6,Tarare,Rhône,69170,,+33 4 74 05 46 46,,,Yes,,45.8888465,4.440686
+1706,21706,Médipôle Lyon-Villeurbanne,Rue Léon Blum 158,Villeurbanne,Rhône,69100,,,,,Yes,,45.760464,4.9058032
+1707,21707,Médipôle de Savoie,nan nan,Challes-les-Eaux,Savoie,73190,,+33 4 79 26 80 80,,,Yes,,45.545363,5.968805
+1710,21710,Nouvel Hôpital d'Épinal,Avenue Robert Schuman nan,Épinal,Grand Est,88000,,,,,Yes,,48.1800112,6.4518097
+1712,21712,Nouvelle Clinique de Tours Plus,Boulevard Alfred Nobel 1,Saint-Cyr-sur-Loire,Centre-Val de Loire,37540,,+33 2 47 88 37 37,,,Yes,,47.434398,0.6667304
+1725,21725,Polyclinique Bordeaux Nord Aquitaine,Rue du Docteur Finlay 33,Bordeaux,Nouvelle-Aquitaine,33000,,+33 5 56 43 71 11,,,Yes,,44.8641984,-0.5790093
+1726,21726,Polyclinique Bordeaux Rive-Droite,Rue des Cavailles 24,Lormont,Nouvelle-Aquitaine,33310,,+33 8 26 30 04 84,,,Yes,,44.8652669,-0.5230774
+1728,21728,Polyclinique Courlancy,Rue de Courlancy nan,Reims,Grand Est,51100,,+33 3 26 77 26 77,,,Yes,,49.2446991,4.0189922
+1729,21729,Polyclinique Côte Basque Sud,nan nan,Saint-Jean-de-Luz,Nouvelle-Aquitaine,64500,,+33 5 59 51 63 63,,,Yes,,43.3978643,-1.639169
+1731,21731,Polyclinique Grande-Synthe,nan nan,Grande-Synthe,Hauts-de-France,59760,,+33 3 28 58 60 00,,,Yes,,51.0080841,2.2883806
+1732,21732,Polyclinique Inkermann,nan nan,Niort,Nouvelle-Aquitaine,79000,,+33 8 26 30 28 28,,,Yes,,46.3160382,-0.4527858
+1733,21733,Polyclinique Keraudren,nan nan,Brest,Bretagne,29200,,+33 2 98 34 29 29,,,Yes,,48.430413,-4.4736827
+1738,21738,Polyclinique Lyon-Nord Rillieux,nan nan,Rillieux-la-Pape,Rhône,69140,,+33 8 26 28 29 30,,,Yes,,45.8200516,4.8870778
+1740,21740,Polyclinique Marzet,nan nan,Pau,Nouvelle-Aquitaine,64000,,+33 5 59 92 72 72,,,Yes,,43.3045811,-0.366094
+1742,21742,Polyclinique Montréal,nan nan,Carcassonne,Occitanie,11000,,+33 8 26 30 53 53,,,Yes,,43.2139799,2.3284216
+1743,21743,Polyclinique Médipôle Saint-Roch,nan nan,Cabestany,Occitanie,66330,,+33 4 28 63 10 10,,,Yes,,42.68964,2.9348617
+1746,21746,Polyclinique Saint-Côme,nan nan,Compiègne,Hauts-de-France,60200,,+33 3 44 92 43 43,,,Yes,,49.4042629,2.8101984
+1747,21747,Polyclinique Saint-François,nan nan,Nice,Alpes-Maritimes,06000,,,,,Yes,,43.7225956,7.2818863
+1748,21748,Polyclinique Saint-George,nan nan,Nice,Alpes-Maritimes,06100,,+33 4 93 81 71 50,,,Yes,,43.7340188,7.2783123
+1749,21749,Polyclinique Saint-Georges,nan nan,Saint-Georges-de-Didonne,Nouvelle-Aquitaine,17110,,+33 5 46 05 07 94,,,Yes,,45.6033025,-1.0043741
+1750,21750,Polyclinique Saint-Jean,nan nan,Montpellier,Occitanie,34090,,+33 8 26 30 20 66,,,Yes,,43.6196756,3.8715412
+1752,21752,Polyclinique Saint-Roch,Avenue du Colonel Pavelet 560,Montpellier,Occitanie,34070,,+33 8 26 88 88 82,,,Yes,,43.5831969,3.8607864
+1755,21755,Polyclinique Vauban,nan nan,Valenciennes,Hauts-de-France,59300,,+33 8 26 20 42 52,,,Yes,,50.3606359,3.5117348
+1756,21756,Polyclinique d'Arès,nan nan,Arès,Nouvelle-Aquitaine,33740,,+33 5 56 03 87 00,,,Yes,,44.753486,-1.1279024
+1759,21759,Polyclinique de Gentilly,nan nan,Nancy,Grand Est,54100,,+33 8 25 12 18 25,,,Yes,,48.7021515,6.1405063
+1760,21760,Polyclinique de Maisons-Laffitte,nan nan,Maisons-Laffitte,Yvelines,78600,,+33 1 30 86 36 36,,,Yes,,48.9505257,2.1531476
+1763,21763,Polyclinique de Poitiers,nan nan,Poitiers,Nouvelle-Aquitaine,86000,,+33 5 49 61 70 00,,,Yes,,46.564296,0.366417
+1764,21764,Polyclinique de Riaumont,nan nan,Liévin,Hauts-de-France,62800,,+33 3 21 44 80 80,,,Yes,,50.4151347,2.7841011
+1766,21766,Polyclinique de l'Adour,nan nan,Aire-sur-l'Adour,Nouvelle-Aquitaine,40800,,+33 5 58 06 64 64,,,Yes,,43.712743,-0.2437538
+1767,21767,Polyclinique de l'Ormeau,nan nan,Tarbes,Occitanie,65000,,+33 5 62 56 99 14,,,Yes,,43.2256287,0.0770492
+1768,21768,Polyclinique de la Clarence,nan nan,Divion,Hauts-de-France,62460,,+33 3 21 54 90 00,,,Yes,,50.4784196,2.4891501
+1770,21770,Polyclinique des 3 Frontières,nan nan,Saint-Louis,Grand Est,68300,,+33 8 26 30 37 37,,,Yes,,47.5817857,7.5510281
+1772,21772,Polyclinique des Trois Vallées,Route de Saint-Pons 4,Bédarieux,Occitanie,34600,,+33 4 67 95 56 56,,,Yes,,43.6081938,3.1503692
+1773,21773,Polyclinique du Beaujolais,nan nan,Arnas,Rhône,69400,,+33 8 26 96 90 00,,,Yes,,46.0104401,4.7064744
+1775,21775,Polyclinique du Grand Sud,nan nan,Nîmes,Occitanie,30000,,+33 4 66 04 33 04,,,Yes,,43.8169683,4.3543552
+1778,21778,Polyclinique du Parc,nan 20,Caen,Normandie,14000,,+33 8 25 27 82 82,,,Yes,,49.167155,-0.3461004
+1782,21782,Polyclinique du Sidobre,nan nan,Castres,Occitanie,81100,,+33 8 26 39 99 38,,,Yes,,43.5973172,2.2690985
+1783,21783,Polyclinique du Sud de la Corse,nan nan,Porto-Vecchio,Corse,20137,,+33 4 95 73 80 00,,,Yes,,41.5982012,9.2762268
+1795,21795,Pôle Santé Léonard de Vinci,nan nan,Chambray-lès-Tours,Centre-Val de Loire,37170,,+33 2 47 22 21 11,,,Yes,,47.3365205,0.6889329
+1796,21796,Pôle Santé Oréliance,Avenue Jacqueline Auriol 555,Saran,Centre-Val de Loire,45770,,+33 2 38 79 60 00,,,Yes,,47.9397328,1.8816974
+1797,21797,Pôle Santé Professeur Louis Serre,nan nan,Lunel,Occitanie,34400,,,,,Yes,,43.6643151,4.1246796
+1798,21798,Pôle Santé République,nan nan,Clermont-Ferrand,Puy-de-Dôme,63000,,+33 8 26 30 44 99,,,Yes,,45.7869585,3.1045367
+1799,21799,Pôle Santé Sarthe et Loir,La Chasse du Point du Jour nan,Le Bailleul,Pays de la Loire,72200,,+33 2 44 71 30 00,,,Yes,,47.7742335,-0.2100708
+1801,21801,Pôle de Santé du Plateau,Avenue de Villacoublay 3,Meudon,Hauts-de-Seine,92360,,+33 1 41 28 10 00,,,Yes,,48.7844313,2.232304
+1802,21802,Pôle de Santé du Villeneuvois,nan nan,Villeneuve-sur-Lot,Nouvelle-Aquitaine,47300,,+33 5 53 72 23 23,,,Yes,,44.4081629,0.7448665
+1834,21834,Urgences - Cardiologie,nan nan,Tulle,Nouvelle-Aquitaine,19000,,,,,Yes,,45.270927,1.771331

@@ -1,0 +1,176 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+10,20010,Airedale General Hospital,Skipton Road nan,Keighley,West Yorkshire,BD20 8,,,,,Yes,,53.8960764,-1.9616604
+22,20022,Altnagelvin Hospital,Glenshane Road nan,Londonderry,County Londonderry,BT48 6,,028 7134 5171,,,Yes,,54.9883505,-7.289858
+29,20029,Antrim Area Hospital,nan nan,Antrim,County Antrim,BT41 4,,,,,Yes,,54.7356661,-6.1879101
+52,20052,Ayr & Ailsa Hospitals,nan nan,,,,,,,,Yes,,55.4326331,-4.6052528
+69,20069,Balfour Hospital,New Scapa Road nan,Kirkwall,Orkney,KW15 1,,+44 1856 888000,,,Yes,,58.9764352,-2.9642087
+74,20074,Basildon University Hospital,Nether Mayne nan,Basildon,Essex,SS15 5,,+44 1268 524900,,,Yes,,51.5580635,0.4474004
+75,20075,Basingstoke and North Hampshire Hospital,nan nan,Basingstoke,Hampshire,RG21 4,,,,,Yes,,51.2801535,-1.1107708
+78,20078,Bassetlaw Hospital,Blyth Road nan,Worksop,Nottinghamshire,S80 1,,+44 1909 500990,,,Yes,,53.3145579,-1.11172
+83,20083,Bedford Hospital South Wing,Kempston Road nan,Bedford,Bedfordshire,MK42 7,,,,,Yes,,52.1283178,-0.475065
+86,20086,Belfast City Hospital,nan nan,Belfast,County Antrim,BT2 7,,,,,Yes,,54.5880997,-5.9391059
+111,20111,Blackpool Victoria Hospital,nan nan,Blackpool,Lancashire,FY1 5,,,,,Yes,,53.8212575,-3.0133145
+117,20117,Bodmin Hospital,nan nan,Bodmin,Cornwall,PL31 2,,,,,Yes,,50.4666436,-4.7414876
+121,20121,Borders General Hospital,nan nan,Melrose,Roxburghshire,TD6 9,,,,,Yes,,55.5930707,-2.7451407
+126,20126,Bradford Royal Infirmary,Duckworth Lane nan,Bradford,West Yorkshire,BD9 6,,,,,Yes,,53.8081143,-1.8016737
+132,20132,Brecon War Memorial Hospital,nan nan,Brecon,Powys,LD3 7,,,,,Yes,,51.9490893,-3.3851715
+140,20140,Bristol Royal Infirmary,nan nan,Bristol,Avon,BS2 8,,,,,Yes,,51.4594058,-2.5984938
+152,20152,Broomfield Hospital,Court Road nan,Chelmsford,Essex,CM1 7,,+44 1245 443673,,,Yes,,51.7777333,0.460072
+158,20158,Burnley General Hospital,Casterton Avenue nan,Burnley,Lancashire,BB11 1,,,,,Yes,,53.8073299,-2.2301368
+162,20162,Calderdale Royal Hospital,nan nan,Halifax,West Yorkshire,HX3 0,,,,,Yes,,53.7036721,-1.858874
+171,20171,Campbeltown Hospital,nan nan,Campbeltown,Argyll,PA28 6,,,,,Yes,,55.4205534,-5.6057015
+185,20185,Causeway Hospital,Newbridge Road 4,Coleraine,County Londonderry,BT51 3,,028 7032 7032,,,Yes,,55.1223652,-6.6493423
+193,20193,Charing Cross Hospital,nan nan,London,London,W6 0,,,,,Yes,,51.4877233,-0.2214698
+217,20217,City Hospital,Dudley Road nan,Birmingham,West Midlands,B18 5,,,,,Yes,,52.4901662,-1.9269033
+237,20237,Coggeshall Surgery,nan nan,Colchester,Essex,CO6 1,,,,,Yes,,51.8724122,0.6840484
+238,20238,Colchester General Hospital,nan nan,Colchester,Essex,CO4 5,,,,,Yes,,51.9075839,0.8972589
+240,20240,Community Paramedic Service,nan nan,Morpeth,Northumberland,NE65 7,,,,,Yes,,55.3067837,-1.9141343
+248,20248,Countess of Chester Hospital,Liverpool Road nan,Chester,Cheshire,CH1 2,,,,,Yes,,53.2134922,-2.8989961
+265,20265,Croydon University Hospital,London Road 530,Thornton Heath,Surrey,CR7 7,,,,,Yes,,51.3887237,-0.1075482
+267,20267,Cumberland Infirmary,nan nan,Carlisle,Cumbria,CA2 7,,,,,Yes,,54.8943119,-2.9560547
+276,20276,Daisy Hill Hospital,Hospital Road 5,Newry,County Down,BT35 6,,028 3083 5000 ext 2347,,,Yes,,54.1783742,-6.3489169
+278,20278,Darent Valley Hospital,nan nan,Dartford,Kent,DA1 1,,,,,Yes,,51.4374945,0.2549568
+285,20285,Derriford Hospital,Derriford Road nan,Plymouth,Devon,PL6 8,,+44 1752 202082,,,Yes,,50.4181976,-4.1165136
+288,20288,Dewsbury & District Hospital,nan nan,Dewsbury,West Yorkshire,WF13 4,,,,,Yes,,53.7031771,-1.648966
+291,20291,Dilke Memorial Hospital,Speech House Road nan,,,,,,,,Yes,,51.8104157,-2.5213529
+295,20295,Doncaster Royal Infirmary,nan nan,Doncaster,South Yorkshire,DN2 5,,,,,Yes,,53.5300033,-1.1145481
+299,20299,Downe Hospital,Struell Wells Road 2,Downpatrick,County Down,BT30 6,,028 4483 8191,,,Yes,,54.3208267,-5.6936323
+300,20300,Dr Gray's Hospital,nan nan,Elgin,Morayshire,IV30 1,,,,,Yes,,57.6446563,-3.3305247
+305,20305,Dumfries and Galloway Royal Infirmary,Cargenbridge nan,,,,,,,,Yes,,55.0608846,-3.6617144
+316,20316,East Riding Community Hospital,Swinemoor Lane nan,Beverley,North Humberside,HU17 8,,,,,Yes,,53.8527846,-0.4147281
+330,20330,Epsom General Hospital,Dorking Road nan,Epsom,Surrey,KT18 7,,,,,Yes,,51.3263599,-0.2742125
+339,20339,Fairfield Hospital,Rochdale Old Road nan,Bury,Lancashire,BL9 7,,,,,Yes,,53.5996586,-2.2594232
+352,20352,Fermoy Unit,Gayton Road nan,King's Lynn,Norfolk,PE30 2,,,,,Yes,,52.7560038,0.4446888
+368,20368,Forth Valley Royal Hospital,Stirling Road nan,,,,,+44 1324 566 000,,,Yes,,56.0265148,-3.8560956
+372,20372,Friarage Hospital,nan nan,Northallerton,North Yorkshire,DL6 1,,,,,Yes,,54.341339,-1.4315756
+373,20373,Frimley Park Hospital,nan nan,Camberley,Surrey,GU15 2,,,,,Yes,,51.3194053,-0.7400125
+382,20382,Gilbert Bain Hospital,nan nan,Lerwick,Shetland Islands,ZE1 0,,,,,Yes,,60.1512611,-1.1579258
+386,20386,Glasgow Royal Infirmary,nan nan,Glasgow,Lanarkshire,G31 2,,,,,Yes,,55.8653113,-4.2301118
+390,20390,Gloucestershire Royal Hospital,nan nan,Gloucester,Gloucestershire,GL1 2,,,,,Yes,,51.8663768,-2.2381746
+399,20399,Gosport War Memorial Minor Injuries Unit,Bury Road nan,Gosport,Hampshire,PO12 1,,+442392794753;+442392794754,,,Yes,,50.7932592,-1.1476621
+404,20404,Great Western Hospital,nan nan,Swindon,Wiltshire,SN3 6,,,,,Yes,,51.536592,-1.7237599
+417,20417,Hairmyres Hospital,nan nan,Glasgow,Lanarkshire,G74 4,,,,,Yes,,55.7591582,-4.2251772
+443,20443,Hereford County Hospital,nan nan,Hereford,Herefordshire,HR4 0,,,,,Yes,,52.057877,-2.7051529
+447,20447,Hexham General Hospital,Corbridge Road nan,Hexham,Northumberland,NE46 1,,,,,Yes,,54.9695343,-2.0959652
+451,20451,Highgate Mental Health Centre,Dartmouth Park Hill nan,London,London,N19 3,,,,,Yes,,51.5674869,-0.1416863
+454,20454,Hillingdon Hospital,Pield Heath Road nan,Uxbridge,Middlesex,UB8 1,,,,,Yes,,51.5273101,-0.4627759
+462,20462,Homerton University Hospital,nan nan,London,London,E9 7,,,,,Yes,,51.5493567,-0.0468395
+476,20476,Huddersfield Royal Infirmary,nan nan,Huddersfield,West Yorkshire,HD3 3,,,,,Yes,,53.6566158,-1.8150224
+483,20483,Hythe Hospital,nan nan,Southampton,Hampshire,SO45 5,,,,,Yes,,50.8583721,-1.4037304
+488,20488,Insch War Memorial Hospital,nan nan,Insch,Aberdeenshire,AB52 6,,,,,Yes,,57.3405427,-2.6143097
+489,20489,Inverclyde Royal Hospital,nan nan,Gourock,Renfrewshire,PA19 1,,,,,Yes,,55.9452764,-4.8083628
+492,20492,Ipswich Hospital,Heath Road nan,Ipswich,Suffolk,IP1 2,,,,,Yes,,52.0599444,1.1951678
+500,20500,John Radcliffe Hospital,nan nan,Oxford,Oxfordshire,OX3 7,,,,,Yes,,51.7615504,-1.2187884
+508,20508,Kelso Hospital (Inch Hosp.),nan nan,Kelso,Roxburghshire,TD5 7,,,,,Yes,,55.6028762,-2.4352209
+510,20510,Kent and Canterbury Hospital,Ethelbert Road nan,Canterbury,Kent,CT1 2,,,,,Yes,,51.2668892,1.0854941
+512,20512,Kettering General Hospital,nan nan,Kettering,Northamptonshire,NN16 8,,,,,Yes,,52.40225,-0.7372807
+523,20523,King's College Hospital,Denmark Hill nan,London,London,SE5 7,,,,,Yes,,51.4675702,-0.0957779
+526,20526,Kings Mill Hospital,Mansfield Road nan,Sutton in Ashfield,Nottinghamshire,NG17 1,,,,,Yes,,53.1331636,-1.2333662
+528,20528,Kingston Hospital,Galsworthy Road nan,Kingston upon Thames,Surrey,KT2 6,,,,,Yes,,51.4128886,-0.2830849
+543,20543,Lagan Valley Hospital,Hillsborough Road 39,Lisburn,County Antrim,BT28 1,,028 9260 4643,,,Yes,,54.5047144,-6.0477059
+553,20553,Leeds General Infirmary,nan nan,Leeds,West Yorkshire,LS1 5,,,,,Yes,,53.8016262,-1.5555853
+558,20558,Leicester Royal Infirmary,nan nan,Leicester,Leicestershire,LE1 4,,,,,Yes,,52.6271924,-1.1380936
+568,20568,Lincoln County Hospital,nan nan,Lincoln,Lincolnshire,LN5 7,,,,,Yes,,53.2350648,-0.5240883
+569,20569,Liskeard Community Hospital,Clemo Road nan,Liskeard,Cornwall,PL14 4,,,,,Yes,,50.4617787,-4.4509258
+591,20591,Lorn and Islands Hospital,nan nan,Oban,Argyll,PA34 4,,,,,Yes,,56.4012256,-5.4765056
+596,20596,Luton and Dunstable,nan nan,Luton,Bedfordshire,LU1 2,,,,,Yes,,51.8970119,-0.4745677
+597,20597,Luton and Dunstable Hospital,nan nan,Luton,Bedfordshire,LU1 2,,,,,Yes,,51.8958979,-0.4733898
+598,20598,Luton and Dunstable Hospital,nan nan,Luton,Bedfordshire,LU1 2,,,,,Yes,,51.897439,-0.4753562
+601,20601,Lymington New Forest Hospital,nan nan,Lymington,Hampshire,SO41 9,,,,,Yes,,50.7697016,-1.5472941
+611,20611,Manchester Royal Infirmary,nan nan,Manchester,Lancashire,M3 3,,,,,Yes,,53.4631559,-2.2266928
+612,20612,Manchester University Hospitals (central site),nan nan,Manchester,Lancashire,M3 3,,,,,Yes,,53.4624106,-2.2293728
+613,20613,Manor Hospital,nan nan,Walsall,West Midlands,WS1 2,,,,,Yes,,52.5816506,-1.9970418
+623,20623,Mater Infirmorum Hospital,Crumlin Road 45-54,Belfast,County Antrim,BT2 7,,028 9074 1211,,,Yes,,54.6085503,-5.940979
+630,20630,Medway Maritime Hospital,Windmill Road nan,Gillingham,Kent,ME7 4,,+44 1634 830000,,,Yes,,51.381811,0.5398967
+644,20644,Milton Keynes Hospital,Standing Way nan,Milton Keynes,Buckinghamshire,MK6 5,,,,,Yes,,52.0286161,-0.7399241
+646,20646,Minor Injury and Illness Unit,nan nan,Sunderland,Tyne and Wear,SR1 3,,,,,Yes,,54.888917,-1.431412
+653,20653,Moorfields Eye Hospital (City Road campus),nan nan,London,London,EC1V 7,,,,,Yes,,51.5267767,-0.091096
+668,20668,Mull & Iona Community Hospital,nan nan,,,,,,,,Yes,,56.4798286,-5.7160547
+672,20672,Musgrove Park Hospital,Parkfield Drive nan,Taunton,Somerset,TA1 5,,+44 1823 333444,,,Yes,,51.0119176,-3.1239407
+678,20678,Nairn Town and County Hospital,Cawdor Road nan,Nairn,Nairnshire,IV12 4,,,,,Yes,,57.5784327,-3.8716243
+687,20687,New Cross Hospital,nan nan,Wolverhampton,West Midlands,WV1 1,,,,,Yes,,52.5996337,-2.092256
+700,20700,Ninewells Hospital,nan nan,Dundee,Angus,DD1 3,,,,,Yes,,56.463356,-3.0436136
+705,20705,North Devon District Hospital,nan nan,Barnstaple,Devon,EX32 8,,,,,Yes,,51.0923865,-4.0519548
+708,20708,North Manchester General Hospital,nan nan,Manchester,Lancashire,M8 4,,,,,Yes,,53.518875,-2.2319204
+709,20709,North Middlesex University Hospital,nan nan,London,London,N18 2,,,,,Yes,,51.6145069,-0.0724599
+716,20716,Northampton General Hospital,Cliftonville Road nan,Northampton,Northamptonshire,NN1 5,,,,,Yes,,52.2346424,-0.8789896
+721,20721,Northumbria Specialist Emergency Care Hospital,Northumbria Way nan,Cramlington,Northumberland,NE23 6,,,,,Yes,,55.0778941,-1.5666298
+722,20722,Northwick Park Hospital,Watford Road nan,Harrow,Middlesex,HA1 3,,+44 20 8864 3232,,,Yes,,51.5763945,-0.3216656
+755,20755,Ospadal Naomh Brianain,nan nan,Castlebay,Isle of Barra,HS9 5,,,,,Yes,,56.9516611,-7.4973131
+782,20782,Perth Royal Infirmary,nan nan,Perth,Perthshire,PH1 5,,,,,Yes,,56.3983917,-3.4557482
+783,20783,Peterborough City Hospital,Bretton Gate nan,Peterborough,Cambridgeshire,PE3 7,,,,,Yes,,52.5875775,-0.2784728
+787,20787,Pilgrim Hospital,nan nan,Boston,Lincolnshire,PE21 8,,,,,Yes,,52.993533,-0.0128345
+788,20788,Pinderfields Hospital,nan nan,Wakefield,West Yorkshire,WF1 4,,,,,Yes,,53.6923593,-1.4854531
+794,20794,Poole General Hospital,Longfleet Road nan,Poole,Dorset,BH15 1,,,,,Yes,,50.7224936,-1.9722287
+804,20804,Prince Philip Hospital,nan nan,Llanelli,Dyfed,SA14 8,,,,,Yes,,51.6931734,-4.1355748
+807,20807,Princess Alexandra Hospital,nan nan,Harlow,Essex,CM20 2,,,,,Yes,,51.7696283,0.0834007
+811,20811,Princess Royal Hospital,nan nan,Telford,Shropshire,TF3 2,,,,,Yes,,52.7139294,-2.5145602
+812,20812,Princess Royal University Hospital,Farnborough Common nan,Orpington,Kent,BR6 0,,+44 1689 863000,,,Yes,,51.3666812,0.0605045
+823,20823,Queen Alexandra Hospital,nan nan,Portsmouth,Hampshire,PO1 4,,,,,Yes,,50.8525718,-1.0711767
+826,20826,Queen Elizabeth Hospital,nan nan,Gateshead,Tyne and Wear,NE10 9,,,,,Yes,,54.9404627,-1.580839
+827,20827,Queen Elizabeth II Hospital,nan nan,Welwyn Garden City,Hertfordshire,AL8 6,,,,,Yes,,51.7826293,-0.1871682
+828,20828,Queen Elizabeth The Queen Mother Hospital,nan nan,Margate,Kent,CT9 1,,,,,Yes,,51.3773664,1.3920788
+836,20836,Queens Hospital,nan nan,Romford,Essex,RM1 3,,,,,Yes,,51.5697914,0.1772675
+837,20837,Queens Medical Centre,Derby Road nan,Nottingham,Nottinghamshire,NG7 2,,,,,Yes,,52.9450197,-1.1873897
+842,20842,Raigmore Hospital,nan nan,Inverness,Inverness-Shire,IV3 5,,,,,Yes,,57.4739888,-4.1974909
+868,20868,Ross Memorial Hospital,Ferry Road nan,Dingwall,Ross-Shire,IV15 9,,,,,Yes,,57.5942792,-4.4189823
+870,20870,Rotherham General Hospital,nan nan,Rotherham,South Yorkshire,S60 2,,+44 1709 820000,,,Yes,,53.4165361,-1.3433016
+875,20875,Royal Aberdeen Childrens' Hospital,nan nan,Aberdeen,Aberdeenshire,AB11 6,,,,,Yes,,57.1540127,-2.1360865
+879,20879,Royal Berkshire Hospital,nan nan,Reading,Berkshire,RG1 4,,,,,Yes,,51.4512636,-0.9603579
+882,20882,Royal Bournemouth Hospital,Castle Lane East nan,Bournemouth,Dorset,BH2 5,,+44 1202 303626,,,Yes,,50.7490355,-1.8226467
+886,20886,Royal Cornwall Hospital,nan nan,Truro,Cornwall,TR1 1,,,,,Yes,,50.2665494,-5.0948077
+887,20887,Royal Derby Hospital,Uttoxeter Road nan,Derby,Derbyshire,DE1 1,,,,,Yes,,52.910815,-1.5175535
+889,20889,Royal Devon & Exeter Hospital (Wonford),nan nan,Exeter,Devon,EX1 1,,,,,Yes,,50.7154363,-3.5083266
+891,20891,Royal Eye Unit,nan nan,Kingston upon Thames,Surrey,KT2 6,,,,,Yes,,51.4146443,-0.2815802
+894,20894,Royal Gwent Hospital,nan nan,Newport,Gwent,NP19 8,,,,,Yes,,51.5784099,-2.9984642
+899,20899,Royal Infirmary of Edinburgh (Little France),nan nan,Edinburgh,Midlothian,EH16 4,,,,,Yes,,55.9245325,-3.1374028
+900,20900,Royal Lancaster Infirmary,nan nan,Lancaster,Lancashire,LA1 1,,,,,Yes,,54.0411286,-2.798539
+902,20902,Royal Liverpool University Hospital,nan nan,Liverpool,Merseyside,L69 7,,,,,Yes,,53.4107138,-2.9625854
+903,20903,Royal London Hospital,nan nan,London,London,E1 4,,,,,Yes,,51.5168488,-0.0584203
+911,20911,Royal Shrewsbury Hospital,Mytton Oak Road nan,Shrewsbury,Shropshire,SY3 5,,,,,Yes,,52.7090367,-2.7973799
+913,20913,Royal Stoke University Hospital,Newcastle Road nan,Newcastle,Staffordshire,ST5 2,,+44 1782 715444,,,Yes,,53.0047269,-2.216797
+918,20918,Royal Victoria Infirmary,Queen Victoria Road nan,Newcastle upon Tyne,Tyne and Wear,NE1 4,,+44 191 233 6161,,,Yes,,54.9793142,-1.6216169
+923,20923,Russells Hall Hospital,nan nan,Dudley,West Midlands,DY2 8,,,,,Yes,,52.5021955,-2.1228932
+929,20929,Saint John's Hospital,nan nan,Livingston,West Lothian,EH54 6,,,,,Yes,,55.8944352,-3.5209921
+939,20939,Salisbury District Hospital,nan nan,,,,,,,,Yes,,51.0433179,-1.7904897
+941,20941,Sandwell General Hospital,nan nan,West Bromwich,West Midlands,B70 7,,,,,Yes,,52.5292088,-1.9896382
+944,20944,Scarborough Hospital,Woodlands Drive nan,Scarborough,North Yorkshire,YO12 5,,+44 1723 368111,,,Yes,,54.2830844,-0.4389059
+946,20946,Scunthorpe General Hospital,Cliff Gardens nan,Scunthorpe,South Humberside,DN15 6,,,,,Yes,,53.5859046,-0.6695071
+967,20967,Solihull Hospital,nan nan,Solihull,West Midlands,B91 3,,,,,Yes,,52.4192901,-1.7744336
+974,20974,South Tyneside District Hospital,Harton Lane nan,South Shields,Tyne and Wear,NE33 1,,+44 191 404 1000,,,Yes,,54.9692711,-1.4283639
+976,20976,South West Acute Hospital,Irvinestown Road 124,,,,,028 6638 2000,,,Yes,,54.3663052,-7.641402
+978,20978,Southampton General Hospital,Tremona Road nan,Southampton,Hampshire,SO15 2,,,,,Yes,,50.9346335,-1.4344882
+981,20981,Southmead Hospital,Southmead Road nan,Bristol,Avon,BS10 5,,+44 117 9505050,,,Yes,,51.4992178,-2.5946593
+982,20982,Southport and Formby District General Hospital,nan nan,Southport,Merseyside,PR8 1,,,,,Yes,,53.6321327,-2.980438
+1025,21025,St George's Hospital,Blackshaw Road nan,London,London,SW17 7,,,,,Yes,,51.428741,-0.1740975
+1045,21045,St Mary's Hospital,nan nan,London,London,W2 6,,,,,Yes,,51.5171138,-0.1761803
+1048,21048,St Mary’s NHS Treatment Centre,Milton Road nan,Portsmouth,Hampshire,PO1 4,,,,,Yes,,50.7993335,-1.0623378
+1050,21050,St Michael's Hospital,nan nan,Bristol,Avon,BS2 8,,,,,Yes,,51.4596705,-2.5985628
+1057,21057,St Peter's Hospital A&E,nan nan,Addlestone,Surrey,KT15 1,,,,,Yes,,51.3772448,-0.5268394
+1062,21062,St Thomas' Hospital,Westminster Bridge Road nan,London,London,SE11 6,,+44 20 7188 7188,,,Yes,,51.4975622,-0.1204921
+1069,21069,St. Helier Hospital,Wrythe Lane nan,Carshalton,Surrey,SM5 3,,+44 20 8296 2000,,,Yes,,51.3822109,-0.18652
+1070,21070,St. James's University Hospital,nan nan,Leeds,West Yorkshire,LS1 5,,,,,Yes,,53.8054927,-1.5213762
+1084,21084,Stoke Mandeville Hospital,nan nan,Aylesbury,Buckinghamshire,HP20 2,,,,,Yes,,51.7982138,-0.8052179
+1135,21135,The Duchy Hospital,nan nan,,,,,,,,Yes,,50.2691512,-5.0929713
+1147,21147,The Maidstone Hospital,nan nan,Maidstone,Kent,ME14 1,,,,,Yes,,51.2768036,0.4815095
+1170,21170,The Queen Elizabeth University Hospital Campus,nan nan,Glasgow,Lanarkshire,G51 4,,,,,Yes,,55.8656765,-4.3393687
+1173,21173,The Royal Hospitals,Grosvenor Road 274,Belfast,County Antrim,BT2 7,,028 9063 2250,,,Yes,,54.5900432,-5.9605027
+1176,21176,The Royal Oldham Hospital,nan nan,Oldham,Lancashire,OL9 0,,,,,Yes,,53.5500186,-2.1226098
+1200,21200,Torbay Hospital,nan nan,Torquay,Devon,TQ2 7,,,,,Yes,,50.4808927,-3.5507389
+1206,21206,Tunbridge Wells Hospital Pembury,Tonbridge Road nan,Tunbridge Wells,Kent,TN1 1,,,,,Yes,,51.1468261,0.3075739
+1211,21211,Tyrone and Fermanagh Hospital,Hospital Road nan,Omagh,County Tyrone,BT79 0,,028 8283 3169,,,Yes,,54.595175,-7.2702417
+1217,21217,Ulster Hospital,Upper Newtownards Road nan,Belfast,County Antrim,BT16 2,,028 9056 4875,,,Yes,,54.5956297,-5.8071648
+1223,21223,University Hospital Coventry,nan nan,Coventry,West Midlands,CV2 2,,,,,Yes,,52.420609,-1.4453585
+1224,21224,University Hospital Lewisham,nan nan,London,London,SE13 6,,,,,Yes,,51.4520112,-0.017482
+1225,21225,University Hospital Monklands,Monkscourt Avenue nan,Airdrie,Lanarkshire,ML6 6,,,,,Yes,,55.8669999,-4.0037255
+1226,21226,University Hospital Wishaw,nan nan,Wishaw,Lanarkshire,ML2 7,,,,,Yes,,55.7720473,-3.9436948
+1230,21230,Vale of Leven District General Hospital,nan nan,Alexandria,Dunbartonshire,G83 0,,,,,Yes,,55.9933252,-4.5933446
+1232,21232,Victoria Hospital,Hayfield Road nan,Kirkcaldy,Fife,KY1 1,,+441592 643355,,,Yes,,56.1231055,-3.1612815
+1252,21252,Warwick Hospital,nan nan,Warwick,Warwickshire,CV34 4,,,,,Yes,,52.2908248,-1.5861706
+1257,21257,Watford General,nan nan,Watford,Hertfordshire,WD17 2,,,,,Yes,,51.6483281,-0.4062271
+1299,21299,William Harvey Hospital,nan nan,Ashford,Kent,TN23 1,,,,,Yes,,51.1411326,0.9113421
+1323,21323,Worthing Hospital,Lyndhurst Road nan,Worthing,West Sussex,BN11 1,,,,,Yes,,50.8173744,-0.3659406
+1337,21337,Ysbyty Bronglais / Bronglais Hospital,nan nan,Aberystwyth,Dyfed,SY23 2,,,,,Yes,,52.4158406,-4.0734191
+1341,21341,Ysbyty Glan Clwyd,Rhuddlan Road nan,Rhyl,Clwyd,LL18 5,,,,,Yes,,53.2687934,-3.4960972
+1342,21342,Ysbyty Gwynedd,nan nan,Bangor,Gwynedd,LL57 2,,,,,Yes,,53.2080387,-4.1658869
+1346,21346,Ysbyty Ystrad Fawr,nan nan,Hengoed,Mid Glamorgan,CF82 8,,,,,Yes,,51.6346409,-3.2335317

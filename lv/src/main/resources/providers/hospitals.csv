@@ -1,0 +1,57 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,10000,"""Sociālās aprūpes centrs Baldone"", SIA",Iecavas iela 4,Baldone,,2125,,,,,,,56.7415269,24.3898382
+1,10001,"""Veselības centrs 4"" diagnostikas centrs",Grebenščikova iela 1,Rīga,,1003,,,,,,,56.9387533,24.1378422
+2,10002,Alsungas doktorāts,nan nan,Alsunga,,3306,,,,,,,56.9798564,21.5695965
+3,10003,Alūksnes poliklīnika,Vidus iela 1,Alūksne,,4301,,,,,,,57.4238827,27.0483628
+4,10004,Alūksnes slimnīca,Pils iela 1A,Alūksne,,4301,,,,,,,57.4374993,27.0396445
+5,10005,Bauskas poliklīnika,nan nan,Bauska,,3901,,,,,,,56.408451,24.1924727
+6,10006,Bauskas slimnīca,nan nan,Bauska,,3901,,,,,,,56.4085785,24.1929338
+7,10007,Bikur Holim slimnīca,nan nan,Rīga,,1003,,,,,,,56.9382371,24.1418098
+8,10008,Bulduru Slimnīca,nan nan,Jūrmala,,2008,,,,,,,56.9814252,23.8589925
+9,10009,"Bērnu psihoneiroloģiskā slimnīca ""Ainaži""",Krišjāņa Valdemāra iela 46,Ainaži,,4035,,,,,,,57.863505,24.3572414
+10,10010,Daugavpils psihoneiroloģiskā slimnīca,Lielā Dārza iela 60/62,Daugavpils,,5421,,+371 65402240,,,,,55.8743534,26.5565473
+11,10011,Dobeles slimnīca,Ādama iela 2,Dobele,,3701,,,,,,,56.6224678,23.2679793
+12,10012,Doktorāts,nan nan,Talsi,,3201,,,,,,,57.2452692,22.5931703
+13,10013,Dr. Vidža Zobārstniecība,nan nan,Jēkabpils,,5202,,,,,,,56.5054779,25.8647911
+14,10014,Gaiļezers,nan nan,Rīga,,1079,,,,,Yes,,56.9652262,24.2410987
+15,10015,Jēkabpils Reģionālā slimnīca,nan nan,Jēkabpils,,5202,,65237816,,,Yes,,56.496602,25.8415631
+16,10016,Jēkabpils poliklīnika,nan nan,Jēkabpils,,5202,,,,,,,56.4978359,25.8398261
+17,10017,Kuldīgas slimnīca,Aizputes  iela 22,Kuldīga,,3301,,,,,,,56.9617892,21.9547235
+18,10018,LJMC Centrāla slimnīca,Patversmes iela 27,Rīga,,1005,,,,,,,56.9893247,24.1361873
+19,10019,LJMC Vecmīlgrāvja slimnīca un Ziemeļu diagnostikas centrs,Vecmīlgrāvja 5. līnija 26,Rīga,,1015,,+371 67098433,,,,,57.0327383,24.1113101
+20,10020,Latvijas Infektoloģijas centrs,nan nan,Rīga,,1079,,,,,,,56.9779973,24.2034261
+21,10021,Liepājas Reģionālā Slimnīca,Slimnīcas iela 25,Liepāja,,3401,,,,,Yes,,56.5541824,21.0982055
+22,10022,Ludzas poliklīnika,nan nan,Ludza,,5701,,,,,,,56.5422632,27.7122159
+23,10023,Ludzas slimnīca,nan nan,Ludza,,5701,,,,,Yes,,56.543121,27.714591
+24,10024,Ludzas slimnīca,nan nan,Ludza,,5701,,,,,Yes,,56.5424689,27.7135486
+25,10025,Ogres poliklīnika,nan nan,Ogre,,5001,,,,,,,56.8194569,24.6195935
+26,10026,Ogres rajona slimnīca,nan nan,Ogre,,5001,,,,,Yes,,56.8195375,24.6196125
+27,10027,Paula Stradiņa Klīniskā universitātes slimnīca,nan nan,Rīga,,1002,,,,,,,56.9334353,24.0679341
+28,10028,Poliklīnika,nan nan,Jelgava,,3004,,,,,No,,56.6467259,23.724577
+29,10029,"Rehabilitācijas centrs ""Tērvete""",nan nan,Tērvete,,3730,,,,,,,56.4849332,23.39198
+30,10030,Rīdzenes FVP,nan nan,Vaive,,4136,,,,,,,57.2620514,25.4311786
+31,10031,Rīgas 1. slimnīca,nan nan,Rīga,,1011,,,,,,,56.9627022,24.1246718
+32,10032,Rīgas dzemdību nams,nan nan,Rīga,,1013,,,,,,,56.9661305,24.1332566
+33,10033,"Rīgas psihiatrijas un narkoloģijas centrs, Tiesu psihiatrisko ekspertīžu un piespiedu ārstēšanas centrs",Laktas iela 6,Rīga,,1013,,+371 67080201,,,No,,56.9795471,24.1420749
+34,10034,Rīgas psihoneiroloģiskā slimnīca,Tvaika iela 2,Rīga,,1005,,67080112,,,,,56.9960982,24.1202586
+35,10035,Saldus slimnīca,nan nan,Saldus,,3801,,,,,,,56.6706797,22.4928361
+36,10036,Sarkanā Krusta Smiltenes slimnīca,nan nan,Smiltene,,4729,,,,,,,57.4254289,25.9147033
+37,10037,Saulkrastu slimnīca,Ainažu iela 34,Saulkrasti,,2160,,,,,Yes,,57.273906,24.4165137
+38,10038,Sedas ambulance,nan nan,Seda,,4728,,,,,,,57.6522951,25.7536033
+39,10039,Siguldas slimnīca,nan nan,Sigulda,,2150,,,,,,,57.1559852,24.8434995
+40,10040,Skrundas veselības un sociālās aprūpes centrs,nan nan,Skrunda,,3326,,,,,,,56.6765332,22.016948
+41,10041,"Slimnīca ""Ģintermuiža""",nan nan,Jelgava,,3004,,,,,,,56.6389883,23.6941062
+42,10042,Smiltenes poliklīnika,nan nan,Smiltene,,4729,,,,,,,57.4247085,25.9129699
+43,10043,Soicālās palīdz. dienests,nan nan,Valka,,4701,,,,,,,57.7865052,26.0118706
+44,10044,Talsu poliklīnika,nan nan,Talsi,,3201,,,,,,,57.2434087,22.6000677
+45,10045,Traumatoloģijas un ortopēdijas slimnīca,nan nan,Rīga,,1005,,,,,,,56.9839023,24.1370389
+46,10046,Tuberkulozes un plaušu slimību klīnika,nan nan,Stopiņu novads,,2130,,,,,,,56.9279304,24.3693126
+47,10047,"VCA ""Olvi""",Arhitektu iela 12,Daugavpils,,5421,,,,,,,55.8932079,26.5632623
+48,10048,Valmieras slimnīca,nan nan,Valmiera,,4201,,,,,,,57.5173056,25.3858325
+49,10049,Valmieras veselības centrs,Bastiona iela 24,Valmiera,,4201,,,,,,,57.5393108,25.4223052
+50,10050,Veselības un sociālās aprūpes centrs - Sloka,nan nan,Jūrmala,,2008,,,,,,,56.9434325,23.6233644
+51,10051,Viļakas SAC,Parka iela 2,Viļaka,,4583,,,,,,,57.1783187,27.6823575
+52,10052,Ziemeļkurzemes reģionālā Slimnīca,Inženieru iela 60 k7,Ventspils,,3601,,,,,,,57.3880225,21.54444
+53,10053,Ādažu slimnīca,Gaujas iela 13/15,Ādaži,,2164,,,,,,,57.0776085,24.3249813
+54,10054,Ērgļu slimnīca,nan nan,Ērgļi,,4840,,,,,,,56.893657,25.6412694
+55,10055,Ūdra K. traumatologa-ortopēda privātprakse,nan nan,Smiltene,,4729,,,,,,,57.4251363,25.9135765

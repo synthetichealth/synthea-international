@@ -1,0 +1,2 @@
+,id,name,address,city,state_headquartered,zip,phone,states_covered,services_covered,deductible,default_coinsurance,default_copay,monthly_premium,ownership
+0,10001,National Health Service,,,,,,*,*,0,0.0,0,0,Government

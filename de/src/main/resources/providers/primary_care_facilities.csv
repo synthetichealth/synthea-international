@@ -1,0 +1,496 @@
+,name,address,city,state,zip,phone,LAT,LON,hasSpecialties,ADDICTION MEDICINE,ADVANCED HEART FAILURE AND TRANSPLANT CARDIOLOGY,ALLERGY/IMMUNOLOGY,ANESTHESIOLOGY,ANESTHESIOLOGY ASSISTANT,AUDIOLOGIST,CARDIAC ELECTROPHYSIOLOGY,CARDIAC SURGERY,CARDIOVASCULAR DISEASE (CARDIOLOGY),CERTIFIED NURSE MIDWIFE,CERTIFIED REGISTERED NURSE ANESTHETIST,CHIROPRACTIC,CLINICAL NURSE SPECIALIST,CLINICAL PSYCHOLOGIST,CLINICAL SOCIAL WORKER,COLORECTAL SURGERY (PROCTOLOGY),CRITICAL CARE (INTENSIVISTS),DENTIST,DERMATOLOGY,DIAGNOSTIC RADIOLOGY,EMERGENCY MEDICINE,ENDOCRINOLOGY,FAMILY PRACTICE,GASTROENTEROLOGY,GENERAL PRACTICE,GENERAL SURGERY,GERIATRIC MEDICINE,GERIATRIC PSYCHIATRY,GYNECOLOGICAL ONCOLOGY,HAND SURGERY,HEMATOLOGY,HEMATOLOGY/ONCOLOGY,HEMATOPOIETIC CELL TRANSPLANTATION AND CELLULAR TH,HOSPICE/PALLIATIVE CARE,HOSPITALIST,INFECTIOUS DISEASE,INTERNAL MEDICINE,INTERVENTIONAL CARDIOLOGY,INTERVENTIONAL PAIN MANAGEMENT,INTERVENTIONAL RADIOLOGY,MAXILLOFACIAL SURGERY,MEDICAL ONCOLOGY,NEPHROLOGY,NEUROLOGY,NEUROPSYCHIATRY,NEUROSURGERY,NUCLEAR MEDICINE,NURSE PRACTITIONER,OBSTETRICS/GYNECOLOGY,OCCUPATIONAL THERAPY,OPHTHALMOLOGY,OPTOMETRY,ORAL SURGERY,ORTHOPEDIC SURGERY,OSTEOPATHIC MANIPULATIVE MEDICINE,OTOLARYNGOLOGY,PAIN MANAGEMENT,PATHOLOGY,PEDIATRIC MEDICINE,PERIPHERAL VASCULAR DISEASE,PHYSICAL MEDICINE AND REHABILITATION,PHYSICAL THERAPY,PHYSICIAN ASSISTANT,PLASTIC AND RECONSTRUCTIVE SURGERY,PODIATRY,PREVENTATIVE MEDICINE,PSYCHIATRY,PULMONARY DISEASE,RADIATION ONCOLOGY,REGISTERED DIETITIAN OR NUTRITION PROFESSIONAL,"RHEUMATOLOGY,",SLEEP MEDICINE,SPEECH LANGUAGE PATHOLOGIST,SPORTS MEDICINE,SURGICAL ONCOLOGY,THORACIC SURGERY,UNDEFINED PHYSICIAN TYPE (SPECIFY),"UROLOGY,",VASCULAR SURGERY,id
+0,24: Erste-Hilfe-Station,nan nan,Günzburg,Bayern,89312,,48.4251144,10.2999466,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000
+1,ACQUA Klinik,Käthe-Kollwitz-Straße 64,Leipzig,Sachsen,04109,,51.3353931,12.3549173,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10001
+2,ACURA Rheuma-Akutzentrum,Kaiser-Wilhelm-Straße 9-11,Bad Kreuznach,Rheinland-Pfalz,55543,+49 671 93-0,49.8402259,7.8551106,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10002
+3,ADV Fachklinik Briese,nan nan,Birkenwerder,Brandenburg,16547,,52.7050935,13.2990887,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10003
+4,AHG Klinik Münchwies,nan nan,Neunkirchen,Saarland,66538,,49.3982282,7.2532638,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10004
+5,AHG Klinik Schweriner See,Am See 4,Lübstorf,Mecklenburg-Vorpommern,19069,,53.7234377,11.4237753,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10005
+6,AHG Klinik Waren,Am Kurpark 1,Waren (Müritz),Mecklenburg-Vorpommern,17192,,53.5046408,12.6954265,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10006
+7,AWO Gerontopsychologische Tagesstätte,Kiesseestraße 63a,Göttingen,Niedersachsen,37073,,51.5124052,9.9449411,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10007
+8,AWO Psychiatriezentrum ggmbh Tagesklinik Wolfsburg,Laagbergstraße 24,Wolfsburg,Niedersachsen,38440,,52.4208612,10.7704255,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10008
+9,AWO Tagesklinik Burg,Kirchhofstraße 5,Burg,Sachsen-Anhalt,39288,+49 3921 944616,52.273816,11.8462335,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10009
+10,Admedia Plauen GmbH,nan nan,Plauen,Sachsen,08523,+49 3741 2895 100,50.5025601,12.1223378,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10010
+11,Ahrtal-Klinik Bad Bodendorf,Hauptstraße 166,Sinzig,Rheinland-Pfalz,53489,+49 2642 407-0,50.5579276,7.2125663,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10011
+12,Alexianer Khs Tagesklinik,Kammerbruchstraße 8,Simmerath,Nordrhein-Westfalen,52152,+49 2473 689895,50.6050623,6.3011113,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10012
+13,Alexianer-Klinik Meerbusch,Am Eisenbrand 20b,Meerbusch,Nordrhein-Westfalen,40667,,51.2484017,6.6753751,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10013
+14,Alexianer-Klinik Meerbusch GmbH,Am Eisenbrand 20c,Meerbusch,Nordrhein-Westfalen,40667,,51.2484292,6.6755453,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10014
+15,AlphaMed Orthopädisch-unfallchirurgische Praxisklinik,Kärntenstraße 2,Bamberg,Bayern,96047,,49.909691,10.9044231,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10015
+16,Ambulante Beatmungs- und Intensivpflege,Mehringer Straße 45,Burghausen,Bayern,84489,,48.1700384,12.8269097,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10016
+17,Ambulantes Zentrum Albertus Magnus,nan nan,Siegen,Nordrhein-Westfalen,57072,,50.8807496,8.0274565,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10017
+18,Ambulatorium Schillingstraße 12,Schillingstraße 12,Berlin,Berlin,10178,,52.5186986,13.4218568,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10018
+19,ArthroKlinik Augsburg,Halderstraße 23,Augsburg,Bayern,86150,+49 821 50282-0,48.3646051,10.8903116,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10019
+20,Asklepios Fachklinikum Tagesklinik,Werner-Petzold-Straße 17,Gera,Gera,07545,,50.8374233,12.0639901,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10020
+21,AugenZentrumBauer,Leher Heerstraße 66,Bremen,Bremen,28357,+49 421 24684 0,53.1016455,8.8742976,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10021
+22,Augenarzt Frau Dr. med. Elisabeth Lorens-Glowania,Mittelstraße 21,Schermbeck,Nordrhein-Westfalen,46514,,51.6926901,6.8700549,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10022
+23,Augenklinik,nan nan,Ulm,Ulm,89073,,48.4100029,9.9929249,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10023
+24,Augenklinik,Elfriede-Aulhorn-Straße 7,Tübingen,Tübingen,72070,+49 7071 29-88088,48.5313034,9.0346606,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10024
+25,Augenklinik Stadthagen,Brunnenstraße 12,Stadthagen,Niedersachsen,31655,,52.3177315,9.2064906,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10025
+26,Augentagesklinik,nan nan,Fulda,Hessen,36037,+49 661 6791240,50.5517674,9.6803367,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10026
+27,Augenzentrum Jülich,Kurfürstenstraße 15,Jülich,Nordrhein-Westfalen,52428,,50.9277714,6.3631892,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10027
+28,Augenzentrum Michelfeld,Daimlerstraße 60,Michelfeld,Schwäbisch Hall,74545,,49.1024679,9.6967191,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10028
+29,Awo Tagesklinik Gifhorn,Campus 7,Gifhorn,Niedersachsen,38518,,52.4973558,10.5455445,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10029
+30,BG Klinik für Berufskrankheiten Falkenstein,Lauterbacher Straße 16,Falkenstein/Vogtl.,Sachsen,08223,,50.4916645,12.3435383,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10030
+31,Betty Ford Klinik,Heinrich-von-Bibra-Straße 35,Bad Brückenau,Bayern,97769,,50.3019971,9.7425881,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10031
+32,Bezirksklinik Rehau,nan nan,Rehau,Bayern,95111,,50.2384407,12.037472,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10032
+33,BioMed,nan nan,Bad Bergzabern,Rheinland-Pfalz,76887,,49.0952935,7.9874894,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10033
+34,BioMed,Tischbergerstraße 5,Bad Bergzabern,Rheinland-Pfalz,76887,,49.0949861,7.9887082,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10034
+35,Burgenlandklinik,nan nan,Naumburg (Saale),Sachsen-Anhalt,06628,,51.135971,11.7245374,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10035
+36,Celenus Fachklinik Bromerhof,Oberisnyberg 2,Argenbühl,Ravensburg,88260,+4975669450,47.6747826,9.9861829,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10036
+37,Celenus Klinik Bad Herrenalb,Kurpromenade 42,Bad Herrenalb,Calw,76332,+49 7083 509-0,48.8006962,8.4415739,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10037
+38,Celenus Klinik Bad Herrenalb,Lindenweg 21,Bad Herrenalb,Calw,76332,+49 7083 509-0,48.8011179,8.4424358,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10038
+39,Celenus Klinik Carolabad,Riedstraße 32,Chemnitz,Sachsen,09111,,50.8202309,12.817121,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10039
+40,Celenus Parkklinik Bad Bergzabern,nan nan,Bad Bergzabern,Rheinland-Pfalz,76887,+49 6343 942-0,49.1027368,7.9726517,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10040
+41,Centrum für Integrierte Onkologie,nan nan,Köln,Nordrhein-Westfalen,50931,,50.9243131,6.9186899,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10041
+42,Chirurgische Innenstadtklinik Minden,Brühlstraße 33,Minden,Nordrhein-Westfalen,32423,,52.2970339,8.9173197,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10042
+43,CityClinic Erfurt,nan nan,Erfurt,Erfurt,99085,,50.9820524,11.043129,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10043
+44,Curschmann Klink,nan nan,Timmendorfer Strand,Schleswig-Holstein,23669,,53.9981531,10.7834297,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10044
+45,Cusanus-Krankenhaus Bernkastel-Kues - Abteilung Psychiatrie und Psychotherapie,Karl-Binz-Weg 11,Bernkastel-Kues,Rheinland-Pfalz,54470,,49.9158853,7.0637771,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10045
+46,DLRG / Wasserwacht,nan nan,Mitterteich,Bayern,95666,,49.9515251,12.2248376,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10046
+47,DRK Klinik Mettlach für Geriatrie und Rehabilitation,Saaruferstraße 10,Mettlach,Saarland,66693,,49.4962001,6.5971337,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10047
+48,DRK Tagesklinik Worms,Maximilianstraße 10,Worms,Rheinland-Pfalz,67547,,49.6349623,8.3684575,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10048
+49,Dekimed,Prof.-Paul-Köhler-Straße 3,Bad Elster,Sachsen,08645,,50.2839865,12.2344598,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10049
+50,Dermatologie für berufsbedingte Hautkrankheiten,Am Finkenhügel 7A,Osnabrück,Niedersachsen,49074,,52.2797892,8.0030076,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10050
+51,Deutsche Klinik Bad Münder - Zentrum für IVF und Reproduktionsmedizin,Hannoversche Straße 24,Bad Münder am Deister,Niedersachsen,31848,+49 5042 940360,52.1978596,9.4732244,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10051
+52,Diagnostikzentrum Wolfsburg,Heßlinger Straße 17–19,Wolfsburg,Niedersachsen,38440,,52.4279852,10.7949898,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10052
+53,Diakonissenanstalt Emmaus,Bautzener Straße 21,Niesky,Sachsen,02906,,51.294219,14.8157833,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10053
+54,Dialyse Zentrum,Albert-Schweitzer-Straße 33,Aue-Bad Schlema,Sachsen,08280,,50.591451,12.7197874,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10054
+55,Die Torburg,Burgstraße 53,Bornheim,Nordrhein-Westfalen,53332,,50.7651943,6.9939345,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10055
+56,Dietrich-Bonhoeffer-Klinik,nan nan,Großenkneten,Niedersachsen,26197,+49 4435 9314 0,52.8948834,8.2121769,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10056
+57,Dr. Becker Brunnen-Klinik,Blomberger Straße 9,Horn-Bad Meinberg,Nordrhein-Westfalen,32805,+49 5234 9060,51.8984283,8.9849648,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10057
+58,Dr. Loges + Co. GmbH,Schützenstraße 5,Winsen (Luhe),Niedersachsen,21423,+4941717070,53.3528138,10.2081754,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10058
+59,Dr. Soeder,Bahnhofstraße 43,Herbertingen,Sigmaringen,88518,,48.0623284,9.4340581,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10059
+60,"Dres. Dahlke, Kornder, Pschaick, Pfau Chirurgisches Zentrum",Austraße 66,Herborn,Hessen,35745,,50.6700612,8.3042956,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10060
+61,Edith-Stein-Fachklinik,Wiesenstraße 25,Bad Bergzabern,Rheinland-Pfalz,76887,+49 6343 949-0,49.0977883,7.9862684,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10061
+62,Elfenmaar Klinik,Auf der Sees nan,Bad Bertrich,Rheinland-Pfalz,56864,+49 2674 181 0,50.0718591,7.0235779,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10062
+63,Epilepsieklinik für Erwachsene,Landstraße 1,Kehl,Ortenaukreis,77694,,48.5656093,7.8657721,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10063
+64,Epilepsieklinik für Kinder und Jugendliche,Landstraße 2e,Kehl,Ortenaukreis,77694,,48.5660664,7.865336,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10064
+65,Ernst Bergmann Klinik Standort Ahornstraße,Ahornstraße 18,Potsdam,Brandenburg,14482,,52.3801536,13.1150461,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10065
+66,Ev. Stiftung Tannenhof Psychiatrische Klinik Wuppertal,Sanderstraße 161,Wuppertal,Nordrhein-Westfalen,42275,,51.2737128,7.1709241,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10066
+67,Evangelisches Klinikum Bethel (EvKB) - Fachbereich Pniel der Klinik für Psychiatrie und Psychotherapie,Hoffnungstaler Weg 10,Bielefeld,Nordrhein-Westfalen,33604,+49 521 772-78771,52.0099146,8.5206015,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10067
+68,Evangelisches Klinikum Bethel (EvKB) - Klinik für Psychotherapeutische und Psychosomatische Medizin,Schildescher Straße 103p,Bielefeld,Nordrhein-Westfalen,33604,+49 521 772 75901,52.0426252,8.5381186,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10068
+69,Evangelisches Zentrum für Altersmedizin,nan nan,Potsdam,Brandenburg,14469,+49 331 27770,52.4035192,13.0464081,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10069
+70,Facharztzentrum,nan nan,Bad Nauheim,Hessen,61231,,50.3568028,8.7284636,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10070
+71,Facharztzentrum,Myslowitzer Straße 49,Berlin,Berlin,12621,,52.5072619,13.5920539,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10071
+72,Facharztzentrum Promedi,Elsa-Brändström-Straße 1 A,Frankenthal (Pfalz),Rheinland-Pfalz,67227,,49.5420532,8.330727,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10072
+73,Facheinrichtung für Intensivpflege Klinik Bavaria,Teichweg 3,Kreischa,Sachsen,01731,,50.9527156,13.7792605,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10073
+74,Fachklinik Bad Bentheim - Kardiologie,nan nan,Bad Bentheim,Niedersachsen,48455,,52.318145,7.1615355,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10074
+75,Fachklinik Baumholder,Krankenhausweg 22,Baumholder,Rheinland-Pfalz,55774,+49 6783 18-0,49.6216757,7.3357423,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10075
+76,Fachklinik Eußerthal,Klinikstraße 1,Eußerthal,Rheinland-Pfalz,76857,,49.2519178,7.9908254,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10076
+77,Fachklinik Ghersburg,Ghersburgstraße 9,Bad Aibling,Bayern,83043,+49 8061 494 0,47.8526965,12.021752,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10077
+78,Fachklinik Hirtenstein,Hirtenstein 1,Bolsterlang,Bayern,87538,+49 8326311101,47.4589564,10.2418695,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10078
+79,Fachklinik Hochsauerland,Zu den drei Buchen 2,Schmallenberg,Nordrhein-Westfalen,57392,,51.1981858,8.3148707,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10079
+80,Fachklinik Landau,Franz-Schubert-Straße 2,Landau in der Pfalz,Rheinland-Pfalz,76829,+49 6341 14120,49.1941923,8.1236225,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10080
+81,Fachklinik Ludwigsmühle,Waldstraße nan,Lustadt,Rheinland-Pfalz,67363,+49 6347 7009-0,49.223416,8.2804124,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10081
+82,Fachklinik Osterhofen,Plattlinger Straße 29,Osterhofen,Bayern,94486,,48.7044851,13.0117955,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10082
+83,Fachklinik Prinzregent Luitpold,nan 1,Scheidegg,Bayern,88175,,47.5652165,9.832482,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10083
+84,Fachklinik Schloss Eichelsdorf,Schlossstraße 1,Hofheim in Unterfranken,Bayern,97461,,50.1600186,10.5302355,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10084
+85,Fachklinik Sonnenhöhe,Georg-Leißner-Straße 1,Bad Elster,Sachsen,08645,,50.284837,12.2361846,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10085
+86,Fachklinik Thomas Morus,Benekestraße 44,Norderney,Niedersachsen,26548,,53.7103899,7.1498248,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10086
+87,Fachklinik Weinböhla,Heidehof 1,Weinböhla,Sachsen,01689,,51.1836638,13.6308073,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10087
+88,Fachklinik für Geriatrie,Rudolf-Breitscheid-Platz 1,Ronneburg,Greiz,07580,,50.867393,12.1870875,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10088
+89,Fachklinik für Orthopädie,Heilstättenweg 1,Ganderkesee,Niedersachsen,27777,+49 4223 71-0,53.0791191,8.5547771,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10089
+90,Fachklinikum Brandis,Am Wald nan,Brandis,Sachsen,04821,,51.3214103,12.6077428,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10090
+91,Fachklinikum Sachsenhof,Badstraße 21,Bad Elster,Sachsen,08645,,50.2824064,12.238644,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10091
+92,Fachklink Fredeburg,Zu den drei Buchen 1,Schmallenberg,Nordrhein-Westfalen,57392,,51.1980787,8.3172469,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10092
+93,Fachkrankenhaus Hubertusburg,nan nan,Wermsdorf,Sachsen,04779,,51.2752598,12.9433063,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10093
+94,Fachärztezentrum,Krankenhausstraße 16 A,Sulzbach-Rosenberg,Bayern,92237,,49.5045167,11.7299561,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10094
+95,Fides Klinik,Gassenäckerstraße 3,Ketsch,Rhein-Neckar-Kreis,68775,,49.3697058,8.5318841,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10095
+96,Franz-Alexander-Klinik,Im Dorf 44,Nordrach,Ortenaukreis,77787,+49 7838 1077,48.3994067,8.0818969,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10096
+97,Frauen- und Kinderklinik,nan nan,Chemnitz,Sachsen,09116,,50.8440683,12.8856222,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10097
+98,Freiburger Institut für Musikermedizin,Elsässer Straße 2m,Freiburg im Breisgau,Freiburg im Breisgau,79110,,48.0087963,7.8317322,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10098
+99,GOC Park-Klinik,Am Kurpark 2,Bonn,Nordrhein-Westfalen,53177,,50.6832886,7.1550454,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10099
+100,Galenus Klinik,Hohenheimer Straße 91,Stuttgart,Stuttgart,70173,,48.7678987,9.1843292,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10100
+101,Geriatrische Fachklinik Rheinhessen-Nahe,Berliner Straße 63-65,Bad Kreuznach,Rheinland-Pfalz,55583,,49.8111446,7.8459381,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10101
+102,Geriatrische Rehabilitationsklinik,Butzstraße 27,Augsburg,Bayern,86199,,48.3403251,10.8638043,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10102
+103,Geriatrische Rehabilitationsklinik Dresden-Löbtau,Altonaer Straße 2a,Dresden,Sachsen,01067,,51.0490531,13.7129948,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10103
+104,Gertrudis Klinik,Karl-Ferdinand-Broll-Straße 4-6,Leun,Hessen,35638,,50.5335032,8.3079245,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10104
+105,Gesichtschirugie/Röntgeninstitut,nan nan,Gotha,Gotha,99867,,50.9487681,10.708358,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10105
+106,Gesundheitsforum Köpenick,nan nan,Berlin,Berlin,12559,,52.4599467,13.5804706,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10106
+107,Gesundheitszentrum,Am Damm 17,Alzey,Rheinland-Pfalz,55232,,49.7459407,8.1061952,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10107
+108,Gesundheitszentrum Am Stadtgarten,Am Stadtgarten 28,Achern,Ortenaukreis,77855,,48.6297469,8.0741833,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10108
+109,Gesundheitszentrum Bitterfeld-Wolfen,nan nan,Bitterfeld-Wolfen,Sachsen-Anhalt,06766,,51.6622059,12.2744931,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10109
+110,Gesundheitszentrum Falkensee,Dallgower Straße 9,Falkensee,Brandenburg,14612,,52.5580576,13.0915307,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10110
+111,Gesundheitszentrum Giesing,nan nan,München,Bayern,81539,,48.1109742,11.5948215,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10111
+112,Gesundheitszentrum Giesing Süd,Giesinger Bahnhofplatz 2,München,Bayern,81539,,48.1103151,11.5950963,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10112
+113,Gesundheitszentrum Ludwigstraße,Ludwigstraße 6,Oer-Erkenschwick,Nordrhein-Westfalen,45739,,51.6393019,7.2656174,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10113
+114,Gesundheitszentrum Neuerburg,Bitburger Straße 17,Neuerburg,Rheinland-Pfalz,54673,,50.0073594,6.2988288,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10114
+115,Gesundheitszentrum am Josef-Hospital Delmenhorst,Westerstraße 2,Delmenhorst,Niedersachsen,27749,,53.0515035,8.6298319,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10115
+116,Gesundheitszentrum am ukb,Warener Straße 1,Berlin,Berlin,12683,,52.519081,13.5645864,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10116
+117,Gezeiten Haus Schloss Eichholz,Urfelder Straße 221,Wesseling,Nordrhein-Westfalen,50389,+49 2236 707-0,50.8014287,6.9882523,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10117
+118,Gezeitenhaus Klinikum AG,Venner Straße 55,Bonn,Nordrhein-Westfalen,53113,,50.6799412,7.1311574,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10118
+119,Gräfin-Heininger-Haus,Martha-von-Opel-Weg 34a,Bad Schwalbach,Hessen,65307,,50.1358304,8.0608516,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10119
+120,Gräfliche Kliniken - Ambulantes Reha Zentrum,Ebereschenstraße 1 + 3,Jena,Jena,07747,+49 3641 - 48 24 0,50.884765,11.6178835,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10120
+121,Gusanum,nan nan,Schwerin,Mecklenburg-Vorpommern,19053,,53.6303069,11.4099953,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10121
+122,Günztalklinik Allgäu,Hagenmoos 2,Obergünzburg,Bayern,87634,,47.8471281,10.4076746,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10122
+123,Haftkrankenhaus,nan nan,Leipzig,Sachsen,04289,,51.2873685,12.4276806,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10123
+124,Hals-Nasen-Ohren-Klinik,Elfriede-Aulhorn-Straße 5,Tübingen,Tübingen,72070,+49 7071 29-88044,48.53184,9.0358174,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10124
+125,Haranni-Clinic,Schulstraße 30-32,Herne,Nordrhein-Westfalen,44623,,51.540324,7.225899,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10125
+126,Haus der Gesundheit Tagesklinik,nan nan,Neutraubling,Bayern,93073,,48.9941966,12.1945376,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10126
+127,Hautklinik,Liebermeisterstraße 25,Tübingen,Tübingen,72070,+49 7071 29-84555,48.5259875,9.052931,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10127
+128,"Hautklinik Haus ""B9""",Heinrich-Meibom-Straße B9,Lübeck,Schleswig-Holstein,23562,,53.8369823,10.7056656,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10128
+129,Havelklinik,Gatower Straße 191,Berlin,Berlin,13595,+49 30 362060,52.502884,13.1802756,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10129
+130,Heinrich-Heine-Klinik,nan nan,Potsdam,Brandenburg,14476,,52.4461632,13.0526765,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10130
+131,Helios Aukamm-Klinik,Leibnizstraße 21,Wiesbaden,Hessen,65183,+49 611 565-0,50.0911923,8.2658216,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10131
+132,Helios ENDO-Klinik Hamburg,Holstenstraße 2,Hamburg,Hamburg,22767,+49 40 3197-0,53.551232,9.9548062,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10132
+133,Helios Klinik,nan nan,Geesthacht,Schleswig-Holstein,21502,,53.427443,10.3854241,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10133
+134,Helios Klinik Schloss Pulsnitz,Wittgensteiner Straße 1,Pulsnitz,Sachsen,01896,,51.1791432,14.0136956,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10134
+135,Helios Klinik Schwedenstein,Obersteinaer Weg 1,Pulsnitz,Sachsen,01896,,51.1892726,14.0274663,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10135
+136,Hephata Fachklinik Weibersbrunn,Hauptstraße 280,Weibersbrunn,Bayern,63879,,49.9397468,9.3485019,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10136
+137,Herzklinik Ulm,Magirusstraße 49,Ulm,Ulm,89073,,48.3919056,9.964918,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10137
+138,Herzzentrum Coswig,Lerchenfeld 1,Coswig (Anhalt),Sachsen-Anhalt,06869,+49 34903 490,51.8787198,12.4769651,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10138
+139,Herzzentrum Leipzig,Strümpellstraße 39,Leipzig,Sachsen,04289,,51.3071261,12.4345118,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10139
+140,Hochfrankenklinik Münchberg,Hofer Straße 40,Münchberg,Bayern,95213,,50.1951271,11.7932317,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10140
+141,Hochkreuz Augenklinik und Laserzentrum,Godesberger Allee 90,Bonn,Nordrhein-Westfalen,53175,,50.6967941,7.1418708,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10141
+142,Hohwaldklinik,Hohwaldstraße 40,Neustadt in Sachsen,Sachsen,01844,,51.0469774,14.2906782,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10142
+143,Höhenklinik Bischofsgrün,Fröbershammer 12,Bischofsgrün,Bayern,95493,,50.0564638,11.8254409,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10143
+144,Institut für Pathologie,Altvaterstraße 5/1,Lahr/Schwarzwald,Ortenaukreis,77933,,48.3437781,7.8876926,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10144
+145,Johannesbad Klinik Königshof,Hochbergle 1A,Lechbruck am See,Bayern,86983,+49 8862 900-0,47.7109654,10.806219,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10145
+146,Johanniter Krankenhaus Psychiatrische Tagesklinik Schwarzenbek,Körnerplatz 6,Schwarzenbek,Schleswig-Holstein,21493,,53.5058135,10.4784946,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10146
+147,Johanniter-Klinik am Rombergpark,Am Rombergpark 42,Dortmund,Nordrhein-Westfalen,44225,,51.4839243,7.465624,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10147
+148,Johanniter-Zentrum für Kinder- und Jugendpsychiatrie,nan nan,Neuwied,Rheinland-Pfalz,56564,,50.4249087,7.4649551,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10148
+149,Jungbrunnenklinik,Schlegelstraße 12,Bonn,Nordrhein-Westfalen,53113,,50.7169057,7.1217341,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10149
+150,KVB-Notfallpraxis,Franziskanergasse 12,Augsburg,Bayern,86150,+49 116 117,48.3742462,10.905717,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10150
+151,KfH Kuratorium für Dialyse und Nierentransplantation,Hertzstraße 26,Bamberg,Bayern,96047,+49 951 91768 0,49.892488,10.9257376,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10151
+152,KfH Nierenzentrum,nan nan,Berlin,Berlin,12043,,52.478962,13.4286372,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10152
+153,KfH Nierenzentrum,Falkensteiner Straße 44,Roding,Bayern,93426,,49.1893256,12.5203453,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10153
+154,KfH Straubing,Sankt-Elisabeth-Straße 23,Straubing,Bayern,94315,,48.8858078,12.5919259,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10154
+155,KfH-Nierenzentrum,Seybothstraße 75,München,Bayern,80331,+49 89 64246 0,48.0868989,11.5562464,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10155
+156,KfH-Nierenzentrum,Theresienstraße 24,Aschaffenburg,Bayern,63739,,49.9825276,9.1367433,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10156
+157,KfH-Nierenzentrum,Koburger Straße 31,Markkleeberg,Sachsen,04416,,51.2899204,12.3694414,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10157
+158,KfH-Nierenzentrum,Am Finkenhügel 7,Osnabrück,Niedersachsen,49074,,52.2803032,8.0043952,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10158
+159,KfH-Nierenzentrum Fürstenzell,Gruberfeld 2,Fürstenzell,Bayern,94081,,48.5270448,13.3274624,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10159
+160,KfH-Nierenzentrum Regensburg,Plato-Wild-Straße 12,Regensburg,Bayern,93053,+49 941 788720,49.0075608,12.1196949,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10160
+161,KfH-Nierenzentrum Wesel,Aaper Weg 10,Wesel,Nordrhein-Westfalen,46483,,51.659378,6.6565675,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10161
+162,Kinder- & Jugend-Psychiatrie,nan nan,Merseburg,Sachsen-Anhalt,06217,,51.364945,11.9957104,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10162
+163,Kinderklinik,Hoppe-Seyler-Straße 1,Tübingen,Tübingen,72070,+49 7071 29-83781,48.5304282,9.0391694,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10163
+164,Kinderklinik,nan nan,Ulm,Ulm,89073,,48.4104638,9.9921935,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10164
+165,Kinderklinik,nan nan,Herford,Nordrhein-Westfalen,32052,,52.1260924,8.6990704,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10165
+166,Kinderklinik am Nicolausholz Bad Kösen,Elly-Kutscher-Straße 16,Naumburg (Saale),Sachsen-Anhalt,06618,,51.1322556,11.7438131,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10166
+167,"Kinderwunsch Praxisklinik Trier, Dr. med. Satari",Max-Planck-Straße 15,Trier,Rheinland-Pfalz,54295,,49.7564112,6.6693439,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10167
+168,Kleinwachau - Sächsisches Epilepsiezentrum Radeberg,Wachauer Straße 30,Radeberg,Sachsen,01454,,51.1410872,13.9011425,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10168
+169,"Klinik ""Am Schillergarten""",Martin-Andersen-Nexö-Straße 10,Bad Elster,Sachsen,08645,,50.2785298,12.2410617,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10169
+170,Klinik Alpenland,Zenostraße 9,Bad Reichenhall,Bayern,83435,+49 8651 603503,47.7325552,12.8846413,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10170
+171,Klinik Bad Brambach,Christian-Schüller-Straße 14,Bad Brambach,Sachsen,08648,,50.2245254,12.2987433,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10171
+172,Klinik Bad Oexen,Oexen 27,Bad Oeynhausen,Nordrhein-Westfalen,32545,+49 5731 537 0,52.2419683,8.8074826,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10172
+173,Klinik Bad Sebastiansweiler,Hechinger Straße 26,Mössingen,Tübingen,72116,+49 7473 37830,48.4023956,9.012733,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10173
+174,Klinik Bavaria Kreischa,An der Wolfsschlucht 1-2,Kreischa,Sachsen,01731,,50.946276,13.7717644,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10174
+175,Klinik Bergfried,nan nan,Saalfeld/Saale,Saalfeld-Rudolstadt,07318,,50.6325506,11.3708256,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10175
+176,Klinik Bergfried,nan nan,Saalfeld/Saale,Saalfeld-Rudolstadt,07318,,50.6319757,11.370437,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10176
+177,Klinik Bergfried,nan nan,Saalfeld/Saale,Saalfeld-Rudolstadt,07318,,50.6326202,11.3711034,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10177
+178,Klinik Bosse Wittenberg,Hans-Lufft-Straße 5,"Wittenberg, Lutherstadt",Sachsen-Anhalt,06886,,51.871086,12.633687,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10178
+179,Klinik Brilon-Wald,Friedrich-Köster-Weg 2,Brilon,Nordrhein-Westfalen,59929,,51.3357426,8.5830523,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10179
+180,Klinik Charlottenhaus,Gerokstraße 31,Stuttgart,Stuttgart,70188,+49711210870,48.7754679,9.1925433,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10180
+181,Klinik Dr. Beger,Achenfeldstraße 19/21,Garmisch-Partenkirchen,Bayern,82467,,47.4923931,11.0923164,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10181
+182,Klinik Dr. Hanken,Harsefelder Straße 8,Stade,Niedersachsen,21682,+49 4141 604-0,53.5955925,9.4721105,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10182
+183,Klinik Dr. Schlemmer,Stefanie-von-Strechine-Straße 16,Bad Tölz,Bayern,83646,,47.758309,11.5436586,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10183
+184,Klinik Dr. Winkler,Brinckmannstraße 6,Husum,Schleswig-Holstein,25813,+49 4841 69110,54.4801773,9.05557,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10184
+185,Klinik Dr. Witwity,Neubourgstraße 4,Stade,Niedersachsen,21682,,53.5983913,9.4741099,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10185
+186,Klinik Eschenburg,Am Berg 1,Eschenburg,Hessen,35713,,50.7904811,8.3302201,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10186
+187,Klinik Hartwald,Schlüchterner Straße 4,Bad Brückenau,Bayern,97769,,50.3067016,9.7507767,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10187
+188,"Klinik Helleberg, Klinik für Herz-Kreislauf-Erkrankungen, Haus 12",nan nan,Bad Gottleuba-Berggießhübel,Sachsen,01816,,50.8521912,13.9392334,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10188
+189,"Klinik Helleberg, Klinik für Herz-Kreislauf-Erkrankungen, Haus 12",nan nan,Bad Gottleuba-Berggießhübel,Sachsen,01816,,50.8521437,13.9391665,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10189
+190,Klinik Herzoghöhe,Kulmbacher Straße 103,Bayreuth,Bayern,95444,+49 921 4020,49.9529967,11.5553557,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10190
+191,Klinik Inntaler Hof,nan nan,Neuburg am Inn,Bayern,94127,,48.4986477,13.4407858,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10191
+192,Klinik Jesuitenschlößl,Kapuzinerstraße 34,Passau,Bayern,94032,,48.5707579,13.4769978,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10192
+193,Klinik Niederrhein,Hochstraße 13-19,Bad Neuenahr-Ahrweiler,Rheinland-Pfalz,53474,+49 2641 751-0,50.5404433,7.1329397,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10193
+194,Klinik Nikolassee,Von-Luck-Straße 3,Berlin,Berlin,14129,,52.4332844,13.2025931,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10194
+195,Klinik Norderney,Kaiserstraße 26,Norderney,Niedersachsen,26548,,53.7101486,7.1466459,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10195
+196,Klinik Pniel im Evangelischen Klinikum Bethel (EvKB),Hoffnungstaler Weg 10,Bielefeld,Nordrhein-Westfalen,33604,+49-521-77278771,52.0100382,8.5207322,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10196
+197,Klinik Reinhardshöhe,Quellenstraße 8-12,Bad Wildungen,Hessen,34537,,51.1122702,9.0830751,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10197
+198,Klinik Rothenburg,Mühlgasse 3a,Rothenburg/O.L.,Sachsen,02929,,51.3368711,14.9733541,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10198
+199,Klinik Saale der Deutschen Rentenversicherung,Pfaffstraße 10,Bad Kissingen,Bayern,97688,+49 971 8501,50.1971636,10.0830439,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10199
+200,Klinik Schloss Waldleiningen,nan nan,Mudau,Neckar-Odenwald-Kreis,69427,,49.5668383,9.1151538,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10200
+201,Klinik Sonnenberg,Auf der Sees nan,Bad Bertrich,Rheinland-Pfalz,56864,+49 2674 181 613,50.0714218,7.0238223,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10201
+202,Klinik Sonnenbichl Mutter- Kind Kurklinik,Am Sonnenbichl 1,Aschau i. Chiemgau,Bayern,83229,,47.7715167,12.3148893,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10202
+203,Klinik St. Martin,Sternenstraße 1,Euskirchen,Nordrhein-Westfalen,53881,,50.6279656,6.8086901,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10203
+204,Klinik Veerßen,Celler Straße 26,Uelzen,Niedersachsen,29525,,52.9532593,10.5469315,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10204
+205,Klinik Wirsberg,Adlerhütte 2,Wirsberg,Bayern,95339,+49 9227 9340,50.1184055,11.6130549,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10205
+206,Klinik am Park - Hauptgebäude,Parkstraße 7,Bad Schwalbach,Hessen,65307,+49 6124 517 - 0,50.1365366,8.0646327,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10206
+207,Klinik am Sonnenberg,Leibnizstraße 19,Wiesbaden,Hessen,65183,+49 611 1858-0,50.0909542,8.2648493,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10207
+208,Klinik am Ziegelberg (Frauenklinik),Ziegelbergstraße 5,Aschaffenburg,Bayern,63739,,49.9785877,9.1329988,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10208
+209,Klinik an der Therme,Kurpromenade 2,Bayreuth,Bayern,95444,+49 921 507374-112,49.9425623,11.6331965,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10209
+210,Klinik für Forensische Psychiatrie,Gorbitzer Straße 11,Leipzig,Sachsen,04289,,51.2935554,12.4265499,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10210
+211,Klinik für Geriatrie,Senftenberger Ring 51,Berlin,Berlin,13439,,52.6050827,13.3564848,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10211
+212,Klinik für Hautkrankheiten,Erfurter Straße 35,Jena,Jena,07743,,50.9347904,11.5645646,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10212
+213,Klinik für Innere Medizin Zwenkau,Pestalozzistraße 9,Zwenkau,Sachsen,04442,,51.2207016,12.3300266,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10213
+214,Klinik für Kinder- und Jugendpsychiatrie und Psychotherapie,Verdener Straße 200,Rotenburg (Wümme),Niedersachsen,27356,,53.0903216,9.3634604,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10214
+215,Klinik für Klauentiere,An den Tierkliniken 11a,Leipzig,Sachsen,04109,,51.3204363,12.391672,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10215
+216,"Klinik für Pferde, Abteilung Chirurgie und Orthopädie",An den Tierkliniken 21a,Leipzig,Sachsen,04109,,51.3194684,12.3925641,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10216
+217,"Klinik für Pferde, Abteilung Innere Medizin und Reproduktionsmedizin",An den Tierkliniken 11a,Leipzig,Sachsen,04109,,51.3202897,12.391805,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10217
+218,Klinik für Psychiatrie und Psychotherapie,nan nan,Röbel/Müritz,Mecklenburg-Vorpommern,17207,,53.3707161,12.6023143,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10218
+219,"Klinik für Psychiatrie, Psychosomatik und Psychotherapie",Albert-Schweitzer-Straße 64,Kaiserslautern,Rheinland-Pfalz,67655,,49.4390045,7.7533561,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10219
+220,"Klinik für Psychiatrie, Psychotherapie und Psychosomatik",Zeitzer Straße 28,Altenburg,Altenburger Land,04600,+49 3447 5620,50.9889784,12.4263647,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10220
+221,"Klinik für Psychiatrie, Psychotherapie und Psychosomatik",nan nan,Kaarst,Nordrhein-Westfalen,41564,,51.2202414,6.6240462,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10221
+222,Klinik für Psychosomatische Medizin und Psychotherapie,An der Hössen 23,Westerstede,Niedersachsen,26655,+49 441 9615-1611,53.2563581,7.9158506,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10222
+223,Klinik für Psychosomatische Medizin und Psychotherapie,nan nan,Lahr/Schwarzwald,Ortenaukreis,77933,,48.3428033,7.8858298,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10223
+224,Klinik für Pädiatrie,nan nan,Mönchengladbach,Nordrhein-Westfalen,41239,,51.1575602,6.4202167,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10224
+225,Klinik für Strahlentherapie,Ismaninger Straße 15,München,Bayern,81667,,48.1378241,11.5982381,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10225
+226,Klinik und Gesundheitszentrum Helenenquelle,Dr.-Born-Straße 7,Bad Wildungen,Hessen,34537,+49 5621 707-0,51.1129516,9.1086249,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10226
+227,Kliniken Wied,nan nan,Wied,Rheinland-Pfalz,57629,,50.6312864,7.7664596,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10227
+228,Klinikum Dresdner Straße,Dresdner Straße 178,Chemnitz,Sachsen,09131,,50.8488749,12.9548369,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10228
+229,"Klinikum Konstanz, Haus 1 / Vincentius Krankenhaus",Mainaustraße 35,Konstanz,Konstanz,78462,,47.6723968,9.1888575,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10229
+230,Klinikum Lippe Tagesklinik Herford,Johann-Wichern-Weg 8,Hiddenhausen,Nordrhein-Westfalen,32120,+49 5221 187 9980,52.1541914,8.6755954,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10230
+231,Klinikum Mittleres Erzgebirge gGmbH Haus Olbernhau,Krankenhausstraße 1,Olbernhau,Sachsen,09526,+49 37360 100,50.654115,13.348175,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10231
+232,Klinikzentrum Lindenallee,nan nan,Bad Schwalbach,Hessen,65307,,50.1329164,8.0575577,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10232
+233,Klink Bad Reichenhall,Salzburger Straße 8-11,Bad Reichenhall,Bayern,83435,+49 8651 709676,47.7283654,12.8833575,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10233
+234,Knappschaft Klinik,Georg-Kreuzberg-Straße 2-6,Bad Neuenahr-Ahrweiler,Rheinland-Pfalz,53474,,50.5434066,7.1355042,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10234
+235,Knappschafts-Klinik Warmbad,Am Kurpark 10,Wolkenstein,Sachsen,09429,,50.6656339,13.080092,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10235
+236,Kuratorium für Dialyse und Nierentransplantation,Oskar-von-Miller-Straße 2a,Neusäß,Bayern,86356,+49 821 480449-0,48.3894377,10.8311871,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10236
+237,Kurklinik Der Jägerwinkel,nan nan,Bad Wiessee,Bayern,83707,,47.7197338,11.7110012,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10237
+238,Kurmittelhaus,Immanuel-Kant-Straße 45,Bad Urach,Reutlingen,72574,,48.5063409,9.3758827,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10238
+239,Kurpark-Klinik Überlingen,Gällerstraße 10,Überlingen,Bodenseekreis,88662,,47.7706269,9.1528589,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10239
+240,Kurzentrum Waren (Müritz),Am Kurpark 2,Waren (Müritz),Mecklenburg-Vorpommern,17192,+49 3991 1824-0,53.508089,12.6971464,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10240
+241,LVR-Bonn Tagesklinik und Ambulanz,Bonner Straße 86,Wesseling,Nordrhein-Westfalen,50389,+4922364903440; +4922364903420,50.820962,6.9855183,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10241
+242,LWL-Maßregelvollzugsklinik Rheine,nan nan,Rheine,Nordrhein-Westfalen,48431,,52.300726,7.3839176,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10242
+243,Landgrafenklinik,nan nan,Bad Nenndorf,Niedersachsen,31542,,52.3358459,9.3722912,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10243
+244,Landgrafenklinik,Bahnhofstraße 9,Bad Nenndorf,Niedersachsen,31542,+49 5723 702100,52.3358618,9.3728185,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10244
+245,Landgrafenklinik,Bahnhofstraße 11,Bad Nenndorf,Niedersachsen,31542,,52.3359346,9.3728223,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10245
+246,Lutrina Klinik,Brüsseler Straße 7,Kaiserslautern,Rheinland-Pfalz,67655,,49.4546369,7.8036123,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10246
+247,MEDIAN Klinik,Kastanienallee 1,Bad Sülze,Mecklenburg-Vorpommern,18334,,54.1128762,12.6524021,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10247
+248,MEDIAN Klinik Bad Tennstedt,Kurstraße 2,Bad Tennstedt,Unstrut-Hainich-Kreis,99955,,51.1558475,10.8410369,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10248
+249,MEDIAN Klinik Sonnenwende Bad Dürkheim,Sonnenwendstraße 86,Bad Dürkheim,Rheinland-Pfalz,67098,+49 63227940,49.4593936,8.1559445,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10249
+250,MEDIAN Klinik für Psychosomatik Bad Dürkheim,Kurbrunnenstraße 12,Bad Dürkheim,Rheinland-Pfalz,67098,,49.4642634,8.1699308,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10250
+251,MEDIGREIF Inselklinik Heringsdorf Haus Gothensee,Setheweg 11,Heringsdorf,Mecklenburg-Vorpommern,17424,,53.9532564,14.1585815,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10251
+252,MVKK,nan nan,Wiefelstede,Niedersachsen,26215,,53.2614404,8.1075424,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10252
+253,MVKK,nan nan,Wiefelstede,Niedersachsen,26215,,53.2607952,8.1077255,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10253
+254,MVKK,nan nan,Wiefelstede,Niedersachsen,26215,,53.2606306,8.1072786,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10254
+255,MVZ Diaverum Stralsund,Jungfernstieg 4c,Stralsund,Mecklenburg-Vorpommern,18439,+4938317035 93,54.3120943,13.0787066,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10255
+256,MVZ Polymed - Ambulantes Praxiszentrum,Yorckstraße 35,Chemnitz,Sachsen,09130,,50.8348516,12.9547992,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10256
+257,MVZ Stadtmitte,Lange Reihe 89a,Greifswald,Mecklenburg-Vorpommern,17489,,54.0940288,13.387002,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10257
+258,MVZ am Fernsehturm,Hamburger Allee 130,Schwerin,Mecklenburg-Vorpommern,19063,,53.5929347,11.4636211,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10258
+259,MVZ Ärztehaus Altenkirchen,Leuzbacher Weg 31,Altenkirchen (Westerwald),Rheinland-Pfalz,57610,,50.6836619,7.6297499,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10259
+260,Malteser Gesundheitszentrum Rheinbach,Gerbergasse 1-3,Rheinbach,Nordrhein-Westfalen,53359,,50.6268788,6.9511418,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10260
+261,Marcolini Praxisklinik,Bautzner Straße 96,Dresden,Sachsen,01099,,51.0656069,13.7694852,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10261
+262,"Marienborn, Fachklinik für Psychiatrie und Psychotherapie",nan nan,Zülpich,Nordrhein-Westfalen,53909,,50.6835791,6.6447317,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10262
+263,Marienhaus Klinikum St. Antonius Waldbreitbach,Margaretha-Flesch-Straße nan,Waldbreitbach,Rheinland-Pfalz,56588,+49 2638 923-9,50.5394488,7.4231385,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10263
+264,Marienhaus Klinikum St. Josef Bendorf,Margaretha-Flesch-Platz 1,Bendorf,Rheinland-Pfalz,56170,,50.4211796,7.5774671,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10264
+265,Max-Grundig-Klinik,Schwarzwaldhochstraße 1,Bühl,Rastatt,77815,+49 7226 54 0,48.6719158,8.2310421,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10265
+266,MediClin Bliestal Kliniken,Am Spitzenberg nan,Blieskastel,Saarland,66440,,49.2620619,7.2465709,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10266
+267,"MediClin Klinik ""Am Brunnenberg""",Endersstraße 5,Bad Elster,Sachsen,08645,,50.2782865,12.2459098,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10267
+268,MediClin Reha-Zentrum Bad Orb,Spessartstraße 20,Bad Orb,Hessen,63619,,50.2168763,9.3540524,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10268
+269,MediClin Reha-Zentrum Neurologie,nan nan,Gernsbach,Rastatt,76593,+49722462010,48.7651217,8.3252281,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10269
+270,MediClin Reha-Zentrum Spreewald,Zur Spreewaldklinik 14,Burg (Spreewald),Brandenburg,03096,+49 35603 63 0,51.8336576,14.1409212,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10270
+271,Median Klinik Tönisstein,Hochstraße 25,Bad Neuenahr-Ahrweiler,Rheinland-Pfalz,53474,,50.5407138,7.1322626,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10271
+272,Median Kliniken Daun - Thommener Höhe,nan nan,Utzerath,Rheinland-Pfalz,54552,+49 6592 201699,50.2176969,6.9168793,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10272
+273,Median Park-Klinik Bad Dürkheim,nan nan,Bad Dürkheim,Rheinland-Pfalz,67098,,49.4650866,8.1771858,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10273
+274,Medical Park Berlin Humboldtmühle,nan nan,Berlin,Berlin,13507,,52.5925726,13.2789956,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10274
+275,Medical Well Clinic Dresden,Gautschweg 1a,Dresden,Sachsen,01309,,51.0540244,13.8056915,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10275
+276,Medicum,nan nan,Marktoberdorf,Bayern,87616,,47.7829969,10.6150345,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10276
+277,Medicum,Langenbeckplatz 2,Wiesbaden,Hessen,65183,,50.075562,8.2539242,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10277
+278,Medizentrum Olpe,Kurfürst-Heinrich-Straße 7,Olpe,Nordrhein-Westfalen,57462,,51.0276152,7.8452977,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10278
+279,Medizinisches Versorgungszentrum,Robert-Koch-Straße 95,Schmölln,Altenburger Land,04626,,50.9047155,12.3604734,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10279
+280,Medizinisches Versorgungszentrum Bad Schwalbach,Emser Straße 29,Bad Schwalbach,Hessen,65307,+49 6124 501-0,50.1414645,8.0637254,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10280
+281,"Medizinisches Versorgungszentrum Flöha der Landkreis Mittweida Krankenhaus gGmbH, Nebenbetriebsstätte Frankenberg",Humboldtstraße 30,Frankenberg/Sa.,Sachsen,09669,,50.91152,13.03947,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10281
+282,Medizinisches Versorgungszentrum St. Cosmas,nan nan,München,Bayern,81739,+49 89 680984-0,48.0790038,11.6620007,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10282
+283,Medizinisches Versorgungszentrum Stiftland,Stegwiesenstraße 5,Waldsassen,Bayern,95652,,50.007044,12.3095103,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10283
+284,Medizinisches Versorgungszentrum Themar,nan nan,Themar,Hildburghausen,98660,,50.5027558,10.6158017,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10284
+285,Medizinisches Zentrum Altenholz,nan nan,Altenholz,Schleswig-Holstein,24161,,54.3852571,10.1373548,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10285
+286,Medizinisches Zentrum Lahnhöhe,Am Kurpark nan,Lahnstein,Rheinland-Pfalz,56112,+49 2621 915-0,50.3018375,7.6410316,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10286
+287,Medizinisches Zentrum Lübbenau,Robert-Koch-Straße 42,Lübbenau/Spreewald,Brandenburg,03222,,51.8574633,13.9603831,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10287
+288,Montanus-Klinik,nan nan,Bad Schwalbach,Hessen,65307,+49 6124 580,50.135725,8.0554823,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10288
+289,Mutter-Kind Kurhaus,Kurstraße 25,Scheidegg,Bayern,88175,,47.5763689,9.8596887,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10289
+290,Mutter-Kind-Klinik Saarwald,nan nan,Nohfelden,Saarland,66625,,49.5754247,7.1388981,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10290
+291,N26 Klinik und Poliklinik für Anästhesiologie,nan nan,Hamburg,Hamburg,20251,,53.5932402,9.9755347,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10291
+292,Naturana,Bonifatiusstraße 7,Bad Salzschlirf,Hessen,36364,,50.6207749,9.5008414,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10292
+293,Neurologische Klinik,Hubertusstraße 3-7,Braunfels,Hessen,35619,+49 6442-9360,50.5150051,8.3944572,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10293
+294,Nierenzentrum Mannheim,Dornheimer Ring 92,Mannheim,Mannheim,68309,+49 621 727400,49.5181317,8.511049,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10294
+295,Nordsee-Fachklinik Sonneneck,Osterstraße 2,Wyk auf Föhr,Schleswig-Holstein,25938,+49 4681 5001421,54.680579,8.5555491,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10295
+296,Notfallambulanz,nan nan,Bremen,Bremen,28205,,53.0749791,8.8385881,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10296
+297,O25 Poliklinik für Psychosomatik und Psychotherapie,nan nan,Hamburg,Hamburg,20251,,53.5905442,9.9769727,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10297
+298,ORTHOPARC,Aachener Straße 1021b,Köln,Nordrhein-Westfalen,50858,,50.9376493,6.8610403,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10298
+299,Oberbergklinik,Am Glubigsee 46,Wendisch Rietz,Brandenburg,15864,+49 33679 64100,52.192581,14.0074147,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10299
+300,Odenwaldklinik Klinik für Rehabilitation u. Prävention,Waldstraße 7,Bad König,Hessen,64732,,49.7377855,9.0032433,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10300
+301,Orthopädische Fachklinik Kurköln,Landgrafenstraße 32-38,Bad Neuenahr-Ahrweiler,Rheinland-Pfalz,53474,+49 2641 74-0,50.5439744,7.1443092,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10301
+302,Orthopädische Klinik Braunfels,Hasselbornring 5,Braunfels,Hessen,35619,+49 6442/939-0,50.5256461,8.3832812,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10302
+303,Orthopädische Klinik Dr. Dunckelmann,Reepschlägerbahn 34,Flensburg,Schleswig-Holstein,24937,,54.7872034,9.429944,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10303
+304,Orthopädisches Zentrum Rothenburg,Horkaer Straße 21,Rothenburg/O.L.,Sachsen,02929,,51.3288196,14.9647782,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10304
+305,Ostseeklinik Königshörn,Am Königshörn 14,Glowe,Mecklenburg-Vorpommern,18551,+49 38302 730,54.5705955,13.4736392,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10305
+306,PHV-Dialysezentrum Hamburg-Nord,Ochsenweberstraße 12,Hamburg,Hamburg,22415,,53.6700067,10.0117166,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10306
+307,PHV-Dialysezentrum Oranienburg,Lehnitzstraße 31,Oranienburg,Brandenburg,16515,+49 3301 58680,52.7531934,13.2445694,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10307
+308,"Panorama Fachkliniken, Akutkrankenhaus",Kurstraße 22,Scheidegg,Bayern,88175,,47.5739571,9.8586138,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10308
+309,"Panorama Fachkliniken, Privatklinik Hubertus",Kurstraße 16,Scheidegg,Bayern,88175,,47.5753394,9.8579817,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10309
+310,Park-Klinik Bad Hermannsborn,nan nan,Bad Driburg,Nordrhein-Westfalen,33014,,51.7643903,9.0573853,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10310
+311,Parkklinik,Im Schloßpark 1,Bergisch Gladbach,Nordrhein-Westfalen,51429,,50.9671993,7.163935,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10311
+312,Parkklinik Heiligenfeld,Bismarckstraße 40-44,Bad Kissingen,Bayern,97688,+49 971 84 4444,50.1956084,10.0726873,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10312
+313,Parkklinik Schlangenbad,Rheingauer Straße 47,Schlangenbad,Hessen,65388,,50.09344,8.0977626,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10313
+314,Parkland-Klinik,Im Kreuzfeld 6,Bad Wildungen,Hessen,34537,,51.1078706,9.08436,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10314
+315,Parksanatorium Aulendorf,Schussenrieder Straße 5,Aulendorf,Ravensburg,88326,+49 (0) 7525 9310,47.9560502,9.6381673,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10315
+316,Pfalzklinikum Klingenmünster,nan nan,Klingenmünster,Rheinland-Pfalz,76889,+49 6349 900-0,49.1535862,8.0112024,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10316
+317,Poliklinik - Arzt,Kirchhainer Straße 1,Finsterwalde,Brandenburg,03238,,51.6363474,13.7054649,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10317
+318,Poliklinik Reil,Reilstraße 129a,Halle (Saale),Sachsen-Anhalt,06114,,51.4964926,11.9666981,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10318
+319,Poliklinik St. Georg,Schillerstraße 8,Eisenach,Eisenach,99817,,50.9770238,10.3267856,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10319
+320,Polyklinik Südpark,Melchendorfer Straße 1,Erfurt,Erfurt,99099,,50.9648553,11.0425527,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10320
+321,Praxisklinik 2000,Wirthstraße 11a,Freiburg im Breisgau,Freiburg im Breisgau,79110,0761 / 88 85 890,48.0240107,7.8144767,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10321
+322,Praxisklinik Dr. med. Klaus Steinhauser,Ohiostraße 3,Karlsruhe,Karlsruhe (Stadt),76149,+49 721 25 825,49.0303931,8.3937395,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10322
+323,Praxisklinik Hutthurm,Goldener Steig 43,Hutthurm,Bayern,94116,,48.6676455,13.4870429,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10323
+324,Praxisklinik Sudenburg,nan nan,Magdeburg,Sachsen-Anhalt,39112,,52.1105833,11.5940776,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10324
+325,Praxisklinik am Flüßchen,Am Flüßchen 10,Burbach,Nordrhein-Westfalen,57299,+49 2736 5995,50.744079,8.0860468,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10325
+326,Praxisklinik am Johannisplatz,nan nan,Leipzig,Sachsen,04109,,51.3394921,12.3853322,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10326
+327,Praxisklinik am Rothenbaum,Heimhuder Straße 38,Hamburg,Hamburg,20148,,53.5668508,9.993127,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10327
+328,Privatklinik Bad Zwischenahn,Seestraße 2,Bad Zwischenahn,Niedersachsen,26160,+49 4403 9791 0,53.1931063,7.9887725,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10328
+329,Privatkliniken Dr. Gaertner HNO,nan nan,München,Bayern,81675,,48.1438009,11.6059961,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10329
+330,Psychiatriezentrum Halle,Zscherbener Straße 11,Halle (Saale),Sachsen-Anhalt,06122,,51.4736433,11.9166577,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10330
+331,Psychiatrische Institutsambulanz Marienborn,Nideggener Straße 32,Zülpich,Nordrhein-Westfalen,53909,+49 2252 838 780,50.6882433,6.6440544,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10331
+332,Psychiatrische Klinik der MTK-Kliniken,nan nan,Hofheim am Taunus,Hessen,65719,,50.0885043,8.4393216,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10332
+333,Psychiatrische Tagesklinik,Rosentalstraße 3,Minden,Nordrhein-Westfalen,32423,,52.2942816,8.9168147,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10333
+334,Psychiatrische Tagesklinik Lahr,Obere Bergstraße 28,Lahr/Schwarzwald,Ortenaukreis,77933,,48.3431052,7.869816,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10334
+335,Psychiatrische Tagesklinik des Kreises Herford,nan nan,Bünde,Nordrhein-Westfalen,32257,,52.2106838,8.5952488,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10335
+336,Psychosomatische Klinik Bergisch Land,nan nan,Bergisch Gladbach,Nordrhein-Westfalen,51465,+49 2202 206-0,50.9783858,7.0981099,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10336
+337,Psychosomatische Klinik Berus,Orannastraße 55,Überherrn,Saarland,66802,,49.2658758,6.6826963,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10337
+338,Regena,Ernst-Putz-Straße 52,Bad Brückenau,Bayern,97769,,50.3070803,9.7608641,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10338
+339,Regensburger Kinderzentrum St. Martin,Wieshuberstraße 4,Regensburg,Bayern,93059,+49 941 46502 0,49.0315725,12.1064555,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10339
+340,Reha Zentrum Bad Aibling Klinik Wendelstein,Kolbermoorer Straße 56,Bad Aibling,Bayern,83043,+49 8061 27 0,47.8593303,12.0258544,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10340
+341,Reha-Klinik Raupennest,Rehefelder Straße 18,Altenberg,Sachsen,01773,,50.7577786,13.7413368,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10341
+342,Reha-Klinik Reinhardsquelle,Carl-Zeiss-Allee 5,Bad Wildungen,Hessen,34537,,51.1139637,9.0806181,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10342
+343,Reha-Klinik des Orthopädischen Zentrums,nan nan,Rothenburg/O.L.,Sachsen,02929,,51.328039,14.9665839,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10343
+344,Reha-Kliniken Küppelsmühle,Am Orbtal 1,Bad Orb,Hessen,63619,,50.2127119,9.3587803,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10344
+345,Reha-Zentrum Bad Kissingen Klinik Rhön,Kurhausstraße 20,Bad Kissingen,Bayern,97688,+49 971 8502,50.1943756,10.077878,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10345
+346,Reha-Zentrum Roter Hügel,Jakob-Herz-Straße 1,Bayreuth,Bayern,95444,+49 921 3090,49.9427885,11.5280784,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10346
+347,Reha-Zentrum am Regenknie,Eichendorffstraße 21,Nittenau,Bayern,93149,,49.1927153,12.2656854,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10347
+348,Reha-Zentrum am Regenknie,nan nan,Nittenau,Bayern,93149,,49.1924899,12.2672502,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10348
+349,Reha-Zentrum-Bad Nauheim-Taunus-Klinik,Lindenstraße 6,Bad Nauheim,Hessen,61231,,50.3654476,8.7444985,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10349
+350,Rehabilitations- & Präventionszentrum Bad Bocklet,Frankenstraße 36,Bad Bocklet,Bayern,97708,,50.2706285,10.0811724,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10350
+351,Rehabilitations- & Präventionszentrum Bad Bocklet,Frankenstraße 36,Bad Bocklet,Bayern,97708,,50.2705552,10.0809758,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10351
+352,Rehabilitationsfachklinik Alte Ölmühle,Berliner Chaussee 66,Magdeburg,Sachsen-Anhalt,39114,,52.1295243,11.673504,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10352
+353,Rehabilitationsklinik,nan nan,Bielefeld,Nordrhein-Westfalen,33604,,52.0069995,8.5302915,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10353
+354,Rehabilitationsklinik Großenhain,nan nan,Großenhain,Sachsen,01558,+49 3522 530,51.2863966,13.5390152,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10354
+355,Rehaklinik Am Kurpark,Kurhausstraße 9,Bad Kissingen,Bayern,97688,+49 9719190,50.1958796,10.0781845,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10355
+356,Rehaklinik Klausenbach,Klausenbach 1,Nordrach,Ortenaukreis,77787,+497838 820,48.4304737,8.1239433,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10356
+357,Rehaklinik Prinzregent Luitpold Bad Reichenhall,Traunfeldstraße 13,Bad Reichenhall,Bayern,83435,+49 8651 774442,47.7326687,12.8773404,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10357
+358,Reichental-Klinik GmbH,An der Wipper 2,Bad Frankenhausen/Kyffhäuser,Kyffhäuserkreis,06567,,51.3587257,11.0950883,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10358
+359,Rhein-Mosel-Fachklinik Tagesklinik Cochem,Avallonstraße 30,Cochem,Rheinland-Pfalz,56812,+49 2671 914020,50.1547023,7.1784069,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10359
+360,Rheinhessen-Fachklinik Alzey,nan nan,Alzey,Rheinland-Pfalz,55232,,49.7380315,8.1325741,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10360
+361,Rheumazentrum Mittelhessen GmbH & Co KG,Sebastian-Kneipp-Straße 36,Bad Endbach,Hessen,35080,+49 2776 9190,50.752101,8.4845057,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10361
+362,Robert-Janker-Klinik,Villenstraße 8,Bonn,Nordrhein-Westfalen,53129,+49 228 53060,50.7045058,7.1108518,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10362
+363,Rosengarten Klinik Heiligenfeld,Bismarckstraße 16,Bad Kissingen,Bayern,97688,+49 971 840,50.1985754,10.0720382,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10363
+364,Römerwallklinik,Römerwall 51-55,Mainz,Rheinland-Pfalz,55116,+49 6131 2577,49.9965695,8.2582781,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10364
+365,SANIMA Klinik,Alte Dobler Straße 8,Bad Herrenalb,Calw,76332,+49 7083 748-0,48.7980541,8.4395366,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10365
+366,SPZ Sozialpädiatrisches Zentrum (+ Personalrat Uniklinik),Schneebergweg 53,Aachen,Nordrhein-Westfalen,52074,,50.7779427,6.0436348,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10366
+367,Saale Klinik Bad Kösen Klinik I,Am Rechenberg 18,Naumburg (Saale),Sachsen-Anhalt,06628,,51.1325494,11.7245748,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10367
+368,Saale Klinik Bad Kösen Klinik II,Elly-Kutscher-Straße 14,Naumburg (Saale),Sachsen-Anhalt,06618,,51.1309403,11.7362446,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10368
+369,Saale-Klinik Halle,Steg 1,Halle (Saale),Sachsen-Anhalt,06110,+49 345 5125652,51.4785828,11.9657386,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10369
+370,Salus Gesundheitszentrum GmbH & Co. KG,Rinckstraße 7-9,Bad Reichenhall,Bayern,83435,+49 8651 7080,47.7291035,12.8835908,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10370
+371,Sana Klinikum für geriatrische Rehabilitation,nan nan,Biberach an der Riß,Biberach,88400,,48.0951066,9.7747486,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10371
+372,Sana-Herzzentrum Cottbus,Leipziger Straße 50,Cottbus,Brandenburg,03046,+49 355 4800,51.7438212,14.3202056,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10372
+373,Sanatorium Dr. Barner,Dr.-Barner-Straße 1,Braunlage,Niedersachsen,38700,+49 5520 804 0,51.7295812,10.6169962,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10373
+374,Sanitätszentrum OHZ,nan nan,Osterholz-Scharmbeck,Niedersachsen,27711,,53.2697328,8.693815,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10374
+375,Sankt Valentinushaus,Suttonstraße 42,Kiedrich,Hessen,65399,,50.042839,8.0806136,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10375
+376,Schloss Tessin,Dorfstraße 23,Wittendörp,Mecklenburg-Vorpommern,19243,+49 38853 338 0,53.5627297,11.0253039,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10376
+377,"Schlosspark, Isar-Amper-Klinikum",nan nan,Taufkirchen (Vils),Bayern,84416,,48.3464064,12.1341081,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10377
+378,Schönheitsklinik am Rosenthal,Trufanowstraße 10,Leipzig,Sachsen,04109,,51.3541675,12.3692421,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10378
+379,Seeklinik Norderney,Benekestraße 27,Norderney,Niedersachsen,26548,,53.7111673,7.1521859,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10379
+380,Seidel-Klinik,Hebelweg 4,Bad Bellingen,Lörrach,79415,,47.7325638,7.5542511,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10380
+381,Sinntalklinik,Wernarzer Straße 12,Bad Brückenau,Bayern,97769,,50.2986206,9.7436808,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10381
+382,Somnia Klinik Konraderhof/Hürth,nan nan,Hürth,Nordrhein-Westfalen,50354,,50.8669477,6.9137865,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10382
+383,Sophienklinik,nan nan,Bad Sulza,Weimarer Land,99518,,51.0891769,11.6316122,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10383
+384,Sozialpädiatrischen Zentrum Mechernich,Im Schmidtenloch 34,Mechernich,Nordrhein-Westfalen,53894,+49 2443 171670,50.5954414,6.6467109,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10384
+385,Sozialpädiatrisches Zentrum Hannover,Janusz-Korczak-Allee 8,Hannover,Niedersachsen,30173,,52.359866,9.7760242,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10385
+386,Sport-Gesundheitspark,Clayallee 225C,Berlin,Berlin,14195,,52.4499929,13.2683509,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10386
+387,Sportklinik,Weidenplan 17,Halle (Saale),Sachsen-Anhalt,06108,,51.4885967,11.9721286,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10387
+388,Sprachheilzentrum,nan nan,Meisenheim,Rheinland-Pfalz,55590,+49 6753 96463-4502,49.7066219,7.6759298,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10388
+389,St. Anna-Klinik Hedelfingen,Amstetter Straße 54,Stuttgart,Stuttgart,70329,,48.7561883,9.2571279,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10389
+390,St. Franziska-Stift,Franziska-Puricelli-Straße 3,Bad Kreuznach,Rheinland-Pfalz,55543,+49 671 88200,49.832378,7.8570573,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10390
+391,St. Josephs Krankenhaus,Teichstraße 66,Dessau-Roßlau,Sachsen-Anhalt,06844,+49 340 55690,51.8388987,12.246362,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10391
+392,St.-Marien-Krankenhaus Dresden,Selliner Straße 29,Dresden,Sachsen,01109,,51.1213059,13.7837798,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10392
+393,St.Joseph Krankenhaus,Auenweg 36,Dessau-Roßlau,Sachsen-Anhalt,06844,,51.8183459,12.1969928,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10393
+394,Stiftung Bethesda-St. Martin,Hochstraße 29,Bad Neuenahr-Ahrweiler,Rheinland-Pfalz,53474,,50.5408589,7.131685,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10394
+395,Strahlentherapie Augsburg,Hirblinger Straße 79a,Augsburg,Bayern,86154,+49 821 44811 0,48.3890302,10.8708603,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10395
+396,Strahlentherapie Ingolstadt,Levelingstraße 23,Ingolstadt,Bayern,85049,,48.7713095,11.3762133,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10396
+397,Städtisches Klinikum St. Georg - Tagesklinik,Friesenstraße 8,Leipzig,Sachsen,04177,,51.3410628,12.3300586,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10397
+398,Städtisches Klinikum St. Georg - Tagesklinik,Eitingonstraße 5,Leipzig,Sachsen,04109,,51.3487366,12.3510376,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10398
+399,Suchtfachklinik Magdalenenstift,Dresdner Straße 214,Chemnitz,Sachsen,09131,,50.8520324,12.9580177,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10399
+400,Sächsisches Krankenhaus Altscherbitz,nan nan,Schkeuditz,Sachsen,04435,,51.3918154,12.2364887,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10400
+401,Sächsisches Krankenhaus Arnsdorf,nan nan,Arnsdorf,Sachsen,01477,,51.0929107,13.9906888,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10401
+402,Sächsisches Krankenhaus Großschweidnitz,Dr.-Max-Krell-Park 41,Großschweidnitz,Sachsen,02708,,51.0772583,14.6443357,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10402
+403,Tagesklinik,Seilerweg 3,Oschersleben (Bode),Sachsen-Anhalt,39387,+49 3949 5141393,52.0263765,11.2238106,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10403
+404,Tagesklinik,Pferdebachstraße 51,Witten,Nordrhein-Westfalen,58452,,51.4477217,7.3465297,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10404
+405,Tagesklinik,Parkstraße 49,Ahlen,Nordrhein-Westfalen,59227,,51.7698833,7.8837207,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10405
+406,Tagesklinik Esplanade,Esplanade 15,Berlin,Berlin,10405,+49 030 4466790,52.5574724,13.4104767,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10406
+407,Tagesklinik Kinder-und Jugendpsychiatrie,Garnisonsplatz 7,Kamenz,Sachsen,01917,+49 3578 7878830,51.2836675,14.1033651,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10407
+408,Tagesklinik Ostholstein,Rettiner Weg 30,Neustadt in Holstein,Schleswig-Holstein,23730,,54.1053158,10.8231576,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10408
+409,Tagesklinik Rinteln (Blumenwall),Blumenwall 7,Rinteln,Niedersachsen,31737,,52.1862183,9.0767833,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10409
+410,Tagesklinik St. Georg,Goethestraße 49,Eisenach,Eisenach,99817,,50.9775072,10.3262415,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10410
+411,Tagesklinik für Kinder- und Jugendpsychiatrie,Otto-Mayer-Straße 1,Speyer,Rheinland-Pfalz,67346,,49.3160621,8.4179628,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10411
+412,Tagesklinik für Kinder- und Jugendpsychiatrie,Klosterstraße 1a,Pirmasens,Rheinland-Pfalz,66953,,49.2007696,7.6058038,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10412
+413,Tagesklinik für Kinder- und Jugendpsychiatrie und Psychotherapie,nan nan,Rostock,Mecklenburg-Vorpommern,18146,,54.1006849,12.1566067,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10413
+414,Tagesklinik für Psychiatrie,Clara-Zetkin-Straße 16,Rostock,Mecklenburg-Vorpommern,18069,,54.1009233,12.0801744,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10414
+415,Tagesklinik für Psychiatrie,Äußere Bautzener Straße 26,Löbau,Sachsen,02708,,51.0985049,14.6601858,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10415
+416,Tagesklinik für Psychiatrie und Psychotherapie,Beim Umspannwerk 6,Norderstedt,Schleswig-Holstein,22846,,53.7361654,9.9882364,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10416
+417,Tagesklinik für Psychiatrie und Psychotherapie,Sankt-Annen-Straße 15,Twistringen,Niedersachsen,27239,,52.7978311,8.6422272,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10417
+418,Tagesklinik für Psychiatrie und Psychotherapie Bad Frankenhausen,Stiftstraße 2-4,Bad Frankenhausen/Kyffhäuser,Kyffhäuserkreis,06567,,51.3538416,11.1074609,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10418
+419,"Tagesklinik für Psychiatrie, Psychotherapie und Psychosomatik des Kindes- und Jugendalters",nan nan,Itzehoe,Schleswig-Holstein,25524,+49 4821 7722888,53.9414986,9.5065358,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10419
+420,Tagesklinik für Psychiatrie/Psychotherapie,Am Schwarzen Berg 116a,Stade,Niedersachsen,21682,,53.5950042,9.4407277,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10420
+421,Thalmühle,Thalmühle 1,Saarbrücken,Saarland,66111,,49.2165623,7.0903503,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10421
+422,Therapeutisches Zentrum,Volkeningweg 5,Lemgo,Nordrhein-Westfalen,32657,,52.0512319,8.9035535,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10422
+423,Therapiezentrum Maximilianshöhe,Jakob-Herz-Straße 3,Bayreuth,Bayern,95444,,49.9416301,11.5272642,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10423
+424,Therapiezentrum OPEN,Robert-Bosch-Breite 1c,Göttingen,Niedersachsen,37073,,51.5468405,9.9030112,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10424
+425,"Thüringen-Kliniken ""Georgius Agricola"" GmbH",nan nan,Saalfeld/Saale,Saalfeld-Rudolstadt,07318,,50.6436274,11.344697,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10425
+426,"Thüringen-Kliniken ""Georgius Agricola"" GmbH",Rainweg 68,Saalfeld/Saale,Saalfeld-Rudolstadt,07318,,50.6441421,11.3452659,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10426
+427,"Thüringen-Kliniken ""Georgius Agricola"" GmbH - Pathologie",nan nan,Saalfeld/Saale,Saalfeld-Rudolstadt,07318,,50.6454113,11.3429077,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10427
+428,Uniklinik für Psychiatrie und Psychotherapie III,nan nan,Ulm,Ulm,89073,,48.4100458,10.0008322,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10428
+429,Universitätsklinik für Psychiatrie und Psychotherapie,Julius-Kühn-Straße 7,Halle (Saale),Sachsen-Anhalt,06112,,51.4926334,11.9906019,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10429
+430,Universitätsklinikum Leipzig,nan nan,Leipzig,Sachsen,04109,,51.3234499,12.3964431,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10430
+431,Universitätszahnklinik Bonn,Welschnonnenstraße 17,Bonn,Nordrhein-Westfalen,53113,,50.7408021,7.1011238,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10431
+432,Venen-Clinic,Hochstraße 23,Bad Neuenahr-Ahrweiler,Rheinland-Pfalz,53474,,50.5404433,7.1329397,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10432
+433,Villa Karlstal,Karlstal 42,Kiel,Schleswig-Holstein,24143,,54.3102502,10.1451412,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10433
+434,Vincera,Badstraße 31,Bad Waldsee,Ravensburg,88339,,47.9125839,9.762139,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10434
+435,Visiorad GbR,Fahltskamp 74,Pinneberg,Schleswig-Holstein,25421,+49 4101 54420,53.6550778,9.8119227,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10435
+436,Vita Natura Klinik,Altschloßstraße 1,Eppenbrunn,Rheinland-Pfalz,66957,,49.1132297,7.5619435,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10436
+437,VitaHaus Marzahn,Havemannstraße 24,Berlin,Berlin,12679,,52.5677858,13.5717492,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10437
+438,Vitanas Klinik für Geriatrie,Johannes-Ritter-Straße 100,Geesthacht,Schleswig-Holstein,21502,,53.4223601,10.3873565,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10438
+439,Vitos - Kinder- und Jugendpsychiatrie Ambulanz,Ludwigstraße 51,Heppenheim (Bergstraße),Hessen,64646,,49.6359132,8.6407214,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10439
+440,Vitos Klinik Hasselborn,nan nan,Waldsolms,Hessen,35647,,50.4081687,8.4991558,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10440
+441,Volmeklinik,nan nan,Hagen,Nordrhein-Westfalen,58095,,51.3549552,7.4815004,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10441
+442,Werksärztlicher Dienst,nan nan,Immenstaad am Bodensee,Bodenseekreis,88090,,47.669333,9.3875841,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10442
+443,Westerwaldklinik,nan nan,Hausen (Wied),Rheinland-Pfalz,53547,,50.5476905,7.3982697,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10443
+444,Westklinik Dahlem,nan nan,Berlin,Berlin,14195,,52.4658349,13.296918,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10444
+445,Winkelwaldklinik,Winkelwald 3,Nordrach,Ortenaukreis,77787,+49 7838  83 0,48.3972603,8.0732015,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10445
+446,ZAR Regensburg,Doktor-Gessler-Straße 29,Regensburg,Bayern,93051,+49 941 29859 0,49.0041333,12.0663916,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10446
+447,Zahntechnisches Labor,Fleischmannstraße 46,Greifswald,Mecklenburg-Vorpommern,17489,,54.0904657,13.4012772,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10447
+448,Zentralinstitut für Seelische Gesundheit - Tagesklinik,nan 1,Mannheim,Mannheim,68161,,49.4824052,8.4686198,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10448
+449,Zentrum für Geriatrie und Gerontologie (ZGGF),Lehener Straße 88,Freiburg im Breisgau,Freiburg im Breisgau,79106,,48.0039548,7.8310358,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10449
+450,Zentrum für Kinder- und Jugendmedizin,nan nan,Bremen,Bremen,28205,,53.0757528,8.8419838,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10450
+451,Zentrum für Kinderwunschbehandlung,Rheiner Landstraße 93,Osnabrück,Niedersachsen,49074,,52.2745166,8.0101023,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10451
+452,"Zentrum für Nieren-, Hochdruck und Stoffwechselerkrankungen",nan nan,Hannover,Niedersachsen,30627,+49 (0)511 542630,52.3836642,9.8154155,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10452
+453,Zentrum für Seelische Gesundheit,Krankenhausstraße 7,Groß-Umstadt,Hessen,64823,,49.8679194,8.9355483,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10453
+454,gisunt-Klinik für integrative Medizin Tagesklinik für Onkologie,Oldenburger Straße 87,Zetel,Niedersachsen,26340,+49 4453 97820,53.4048517,7.9776218,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10454
+455,m&i Fachklinik Hohenurach 2,Immanuel-Kant-Straße 47,Bad Urach,Reutlingen,72574,,48.506367,9.376371,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10455
+456,medicus Gesundheitszentrum,Fischbacher Straße 100,Quierschied,Saarland,66287,,49.3117095,7.0357668,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10456
+457,rocc Praxis für Strahlentherapie,nan nan,Leonberg,Böblingen,71229,,48.8017526,9.0013722,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10457
+458,sportklinik.ERFURT,Am Urbicher Kreuz 7,Erfurt,Erfurt,99097,,50.9486074,11.08963,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10458
+459,visualeins - MVZ für Augenheilkunde,Am Finkenhügel 7B,Osnabrück,Niedersachsen,49074,,52.2791973,8.003787,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10459
+460,Ärztehaus,Pfingstberggasse 10,Berlin,Berlin,12489,,52.4397962,13.5437676,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10460
+461,Ärztehaus,nan nan,Dippoldiswalde,Sachsen,01744,,50.9010727,13.6677086,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10461
+462,Ärztehaus,Rosa-Luxemburg-Straße 19,Aue-Bad Schlema,Sachsen,08280,,50.5870305,12.6947992,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10462
+463,Ärztehaus,nan nan,Greifswald,Mecklenburg-Vorpommern,17489,,54.087154,13.4159216,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10463
+464,Ärztehaus,Bingener Straße 23,Simmern/Hunsrück,Rheinland-Pfalz,55469,,49.9848607,7.5321204,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10464
+465,Ärztehaus,Katharinenstraße 11,Neubrandenburg,Mecklenburg-Vorpommern,17033,,53.5568791,13.2710362,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10465
+466,Ärztehaus,Friedrichstraße 10a,Thalheim/Erzgeb.,Sachsen,09380,,50.6979854,12.8494236,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10466
+467,Ärztehaus,Juri-Gagarin-Ring 22,Neubrandenburg,Mecklenburg-Vorpommern,17033,,53.5526962,13.2926249,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10467
+468,Ärztehaus,nan nan,Neubrandenburg,Mecklenburg-Vorpommern,17033,,53.5555519,13.2594272,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10468
+469,Ärztehaus,Martha-von-Opel-Weg 34c,Bad Schwalbach,Hessen,65307,,50.1352034,8.0600274,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10469
+470,Ärztehaus,Myslowitzer Straße 59,Berlin,Berlin,12621,,52.5059041,13.5914554,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10470
+471,Ärztehaus - Tagesklinik,nan nan,Bad Oeynhausen,Nordrhein-Westfalen,32545,,52.2232653,8.7963292,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10471
+472,Ärztehaus / Medizinisches Versorgungszentrum (MVZ),Klostenstraße 17/1,Lahr/Schwarzwald,Ortenaukreis,77933,,48.3450225,7.8851067,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10472
+473,Ärztehaus Amtstraße,Amtstraße 13,Forst (Lausitz),Brandenburg,03149,,51.7424438,14.6462486,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10473
+474,Ärztehaus Bensheim,Rodensteinstraße 92,Bensheim,Hessen,64625,,49.6778128,8.6200789,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10474
+475,Ärztehaus Chorweiler,Turkuplatz 1,Köln,Nordrhein-Westfalen,50769,,51.0202857,6.8976275,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10475
+476,Ärztehaus Friedrichplatz,Friedrichplatz 2,Forst (Lausitz),Brandenburg,03149,,51.7428456,14.6453255,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10476
+477,Ärztehaus Gartenstraße,nan nan,Plauen,Sachsen,08523,,50.4919752,12.1293962,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10477
+478,Ärztehaus Gera-Bieblach,Johannes-R.-Becher-Straße 1,Gera,Gera,07545,,50.8943902,12.0816484,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10478
+479,Ärztehaus Gruna,nan nan,Dresden,Sachsen,01309,,51.0332819,13.7869032,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10479
+480,Ärztehaus Lankow,Rahlstedter Straße 29,Schwerin,Mecklenburg-Vorpommern,19057,,53.6482022,11.3653004,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10480
+481,Ärztehaus Marienpark,Eierstraße 46,Stuttgart,Stuttgart,70178,,48.7601111,9.1625343,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10481
+482,Ärztehaus Mitteltrakt,nan nan,Berlin,Berlin,12559,,52.4402681,13.5942792,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10482
+483,Ärztehaus Nordflügel,nan nan,Berlin,Berlin,12559,,52.4402681,13.5942792,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10483
+484,Ärztehaus Pasing,nan nan,München,Bayern,81241,,48.1485808,11.4611608,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10484
+485,Ärztehaus Paulstraße,Paulstraße 48,Rostock,Mecklenburg-Vorpommern,18055,,54.0832447,12.1388015,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10485
+486,Ärztehaus Radebeul Medicum,nan nan,Radebeul,Sachsen,01445,,51.1068779,13.6496702,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10486
+487,Ärztehaus Ruschestraße,nan nan,Berlin,Berlin,10367,,52.5152462,13.4853822,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10487
+488,Ärztehaus Seminarstraße,nan nan,Plauen,Sachsen,08523,,50.4943845,12.1301597,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10488
+489,Ärztehaus Südflügel,nan nan,Berlin,Berlin,12559,,52.4399138,13.5942461,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10489
+490,Ärztehaus Weilheim,Johann-Baur-Straße 5,Weilheim in Oberbayern,Bayern,82362,,47.8382134,11.1441596,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10490
+491,Ärztehaus am HELIOS Klinikum Bad Saarow,nan nan,Bad Saarow,Brandenburg,15526,,52.2842724,14.0645223,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10491
+492,Ärztehaus an den Treptowers,Elsenstraße 1,Berlin,Berlin,12435,,52.4940784,13.4598687,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10492
+493,Ärztezentrum Ruschestraße,nan nan,Berlin,Berlin,10367,,52.5151442,13.4866239,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10493
+494,Ärztezentrum Spandau,nan nan,Berlin,Berlin,13589,,52.5474026,13.1765084,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10494

@@ -1,0 +1,809 @@
+,name,address,city,state,zip,phone,LAT,LON,hasSpecialties,ADDICTION MEDICINE,ADVANCED HEART FAILURE AND TRANSPLANT CARDIOLOGY,ALLERGY/IMMUNOLOGY,ANESTHESIOLOGY,ANESTHESIOLOGY ASSISTANT,AUDIOLOGIST,CARDIAC ELECTROPHYSIOLOGY,CARDIAC SURGERY,CARDIOVASCULAR DISEASE (CARDIOLOGY),CERTIFIED NURSE MIDWIFE,CERTIFIED REGISTERED NURSE ANESTHETIST,CHIROPRACTIC,CLINICAL NURSE SPECIALIST,CLINICAL PSYCHOLOGIST,CLINICAL SOCIAL WORKER,COLORECTAL SURGERY (PROCTOLOGY),CRITICAL CARE (INTENSIVISTS),DENTIST,DERMATOLOGY,DIAGNOSTIC RADIOLOGY,EMERGENCY MEDICINE,ENDOCRINOLOGY,FAMILY PRACTICE,GASTROENTEROLOGY,GENERAL PRACTICE,GENERAL SURGERY,GERIATRIC MEDICINE,GERIATRIC PSYCHIATRY,GYNECOLOGICAL ONCOLOGY,HAND SURGERY,HEMATOLOGY,HEMATOLOGY/ONCOLOGY,HEMATOPOIETIC CELL TRANSPLANTATION AND CELLULAR TH,HOSPICE/PALLIATIVE CARE,HOSPITALIST,INFECTIOUS DISEASE,INTERNAL MEDICINE,INTERVENTIONAL CARDIOLOGY,INTERVENTIONAL PAIN MANAGEMENT,INTERVENTIONAL RADIOLOGY,MAXILLOFACIAL SURGERY,MEDICAL ONCOLOGY,NEPHROLOGY,NEUROLOGY,NEUROPSYCHIATRY,NEUROSURGERY,NUCLEAR MEDICINE,NURSE PRACTITIONER,OBSTETRICS/GYNECOLOGY,OCCUPATIONAL THERAPY,OPHTHALMOLOGY,OPTOMETRY,ORAL SURGERY,ORTHOPEDIC SURGERY,OSTEOPATHIC MANIPULATIVE MEDICINE,OTOLARYNGOLOGY,PAIN MANAGEMENT,PATHOLOGY,PEDIATRIC MEDICINE,PERIPHERAL VASCULAR DISEASE,PHYSICAL MEDICINE AND REHABILITATION,PHYSICAL THERAPY,PHYSICIAN ASSISTANT,PLASTIC AND RECONSTRUCTIVE SURGERY,PODIATRY,PREVENTATIVE MEDICINE,PSYCHIATRY,PULMONARY DISEASE,RADIATION ONCOLOGY,REGISTERED DIETITIAN OR NUTRITION PROFESSIONAL,"RHEUMATOLOGY,",SLEEP MEDICINE,SPEECH LANGUAGE PATHOLOGIST,SPORTS MEDICINE,SURGICAL ONCOLOGY,THORACIC SURGERY,UNDEFINED PHYSICIAN TYPE (SPECIFY),"UROLOGY,",VASCULAR SURGERY,id
+0,150 Harley Street ENT,Harley Street 150,London,London,NW1 4,,51.5230979,-0.1485061,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000
+1,152 Harley Street,Harley Street 152,London,London,NW1 4,,51.523202,-0.1487522,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10001
+2,21st Century Clinic,Whitley Wood Road 5,Reading,Berkshire,RG1 4,+44 118 931 1444,51.426284,-0.9479991,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10002
+3,24hrCardiology,Harley Street 88,London,London,NW1 4,,51.5205111,-0.1475448,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10003
+4,29 Romford Road,Romford Road 29,London,London,E15 4,,51.5429902,0.0067622,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10004
+5,AGIP,nan nan,London,London,N19 3,,51.5643973,-0.1299047,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10005
+6,Abbas Osteopathic Clinic,nan nan,Bolton,Lancashire,BL1 1,,53.5627803,-2.4170524,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10006
+7,Abbots Cross Medical Practice,nan nan,Newtownabbey,County Antrim,BT36 7,,54.669021,-5.9136287,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10007
+8,Aberaeron Integrated Care Centre,Vicarage Hill nan,Aberaeron,Dyfed,SA46 0,+44 1545 900100,52.2379873,-4.2577252,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10008
+9,About Backs & Bones,Duffield Road 506,Derby,Derbyshire,DE22 2,,52.9554157,-1.4786408,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10009
+10,Academy Medical Centre,nan nan,Forfar,Angus,DD8 3,,56.6436147,-2.8830538,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10010
+11,Aconbury East,nan nan,Worcester,Worcestershire,WR1 2,,52.1929929,-2.1825065,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10011
+12,Acorn Hollow Care Home,Manchester Road 419,Northwich,Cheshire,CW9 7,+44 1606 45603,53.2715016,-2.4645193,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10012
+13,Active Body Centre,Tettenhall Road 96,Wolverhampton,West Midlands,WV6 0,,52.5920452,-2.1524821,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10013
+14,Acuherbal,Peckham High Street 86,London,London,SE15 5,,51.4736285,-0.0691937,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10014
+15,AddAction,Newland 26-30,Lincoln,Lincolnshire,LN5 7,+44 1522 305518,53.2295055,-0.5437479,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10015
+16,Addison Road Medical Practice,Ravenswood Road 46,London,London,E17 3,,51.5825043,-0.0101152,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10016
+17,Adipose Clinic,nan nan,Omagh,County Tyrone,BT79 0,,54.6012654,-7.2890871,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10017
+18,Adlington Clinic,Railway Road nan,Chorley,Lancashire,PR6 9,,53.6149836,-2.6017883,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10018
+19,Adran Niwroffisioleg / Neurophysiology,Dolgwili Road nan,Carmarthen,Dyfed,SA31 2,+44 1267 227084,51.8666717,-4.2845172,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10019
+20,Ahoghill Health Centre,nan nan,Ballymena,County Antrim,BT42 1,,54.8507677,-6.3688577,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10020
+21,Airlie Medical Practice,nan nan,Leven,Fife,KY8 3,,56.1879977,-3.0021557,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10021
+22,Akerman Health Centre,nan nan,London,London,SW9 6,,51.4753753,-0.1050821,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10022
+23,Albert Road Chiropractic,Briar Close 32,Evesham,Worcestershire,WR11 4,,52.0962469,-1.9485904,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10023
+24,Alma Vale Centre,Alma Vale Road 30,Bristol,Avon,BS8 3,+44 1173771186,51.4626834,-2.6143007,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10024
+25,Alsager Health Centre,nan nan,Stoke-on-Trent,Staffordshire,ST7 2,,53.0932813,-2.3013505,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10025
+26,Alton Health Centre,Anstey Road nan,Alton,Hampshire,GU34 1,,51.1539119,-0.9669062,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10026
+27,Alva Medical Clinic,nan nan,Alva,Clackmannanshire,FK12 5,,56.1524737,-3.8044962,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10027
+28,Ambulatory Emergency Care,nan nan,Worcester,Worcestershire,WR1 2,,52.1916293,-2.1799523,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10028
+29,Ancoats Primary Care Centre,Old Mill Street nan,Manchester,Lancashire,M4 6,,53.4823244,-2.2229675,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10029
+30,Angel Eye Clinic,Chapel Market 85,London,London,N1 9,,51.5333678,-0.1099768,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10030
+31,Anglia Community Eye Serve,nan nan,Wisbech,Cambridgeshire,PE13 1,,52.6478386,0.1441885,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10031
+32,Angmering Medical Centre,nan nan,Littlehampton,West Sussex,BN17 6,,50.827659,-0.4865903,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10032
+33,April House,Bath Road 9,Southampton,Hampshire,SO15 2,,50.9129523,-1.3538163,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10033
+34,Aquarius,Connaught Road 1,Wolverhampton,West Midlands,WV1 1,,52.5873014,-2.1434473,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10034
+35,Arches Centre,Westminster Avenue North 1,Belfast,County Antrim,BT2 7,,54.5986245,-5.8889731,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10035
+36,Arden House Medical Practice,nan nan,High Peak,Derbyshire,SK22 4,,53.3667385,-2.0025698,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10036
+37,Arthur Levin Centre,nan nan,King's Lynn,Norfolk,PE30 2,,52.7557644,0.44548,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10037
+38,Arthur Webster Clinic,Landguard Manor Road 35,Shanklin,Isle of Wight,PO37 6,,50.6364751,-1.1802535,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10038
+39,Ash Tree Clinic - Harrow CAMHS,Northolt Road 322; 324; 326,Harrow,Middlesex,HA1 3,,51.5628518,-0.3563941,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10039
+40,Ashcombe Center,nan nan,,,,,53.073508,-2.0408312,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10040
+41,Ashford Clinic,nan nan,London,London,SW1A 2,,51.4388137,-0.4704844,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10041
+42,Astley Bridge Chiropody,Blackburn Road 670,Bolton,Lancashire,BL1 1,+44 1204 597779,53.6037651,-2.4320448,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10042
+43,Aurora Medical Practice,Quarry Road nan,Aberdeen,Aberdeenshire,AB11 6,+441224662911,57.1659426,-2.160389,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10043
+44,Avandale Lodge,Manchester Road 420,Northwich,Cheshire,CW9 7,+44 1606 48978,53.2719001,-2.4645553,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10044
+45,BMI Syon Clinic,Great West Road 941,Brentford,Middlesex,TW8 8,+44 20 8322 6000,51.4836201,-0.3244179,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10045
+46,BPAS London East,Romford Road 32-36,London,London,E15 4,,51.5420918,0.0054922,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10046
+47,Back and Body Clinic,nan nan,Northampton,Northamptonshire,NN4 6,,52.2033463,-0.8756579,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10047
+48,Bainbridge Hand Clinic,Duffield Road 357,Derby,Derbyshire,DE22 2,,52.9551532,-1.4793504,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10048
+49,Balanced Life Therapy Centre,Brook Parade 11,Chigwell,Essex,IG7 6,,51.6191231,0.0749773,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10049
+50,Ballymena Specialist Clinic,nan nan,Ballymena,County Antrim,BT43 6,,54.8654156,-6.2790168,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10050
+51,Ballysillan Group Practice,nan nan,Belfast,County Antrim,BT2 7,,54.6250293,-5.9693107,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10051
+52,Banchory Clinic,nan nan,Banchory,Kincardineshire,AB31 5,,57.0508695,-2.5007072,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10052
+53,Bangor Health Centre,Newtownards Road nan,Bangor,County Down,BT20 3,028 9151 5200,54.6552434,-5.6754782,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10053
+54,Bannerdale Osteopaths,Machon Bank Road 5,Sheffield,South Yorkshire,S1 2,+44 114 255 6255,53.3596777,-1.4879075,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10054
+55,Barbourne Health Center,nan nan,Worcester,Worcestershire,WR1 2,,52.2092822,-2.2247345,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10055
+56,Barnard Medical Practice,nan nan,Sidcup,Kent,DA14 6,,51.4281973,0.1054148,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10056
+57,Barnoldswick Clinic,nan nan,Colne,Lancashire,BB18 5,,53.9157162,-2.1906601,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10057
+58,Barnoldswick Medical Centre,nan nan,Colne,Lancashire,BB18 5,,53.9152886,-2.1863193,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10058
+59,Barrhead Health & Care Centre,nan nan,Glasgow,Lanarkshire,G78 1,,55.8025692,-4.3875127,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10059
+60,Bath Fertility,nan nan,Bristol,Avon,BS34 6,,51.5427548,-2.5725063,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10060
+61,Bath Healthcare Clinic,nan nan,Bath,Avon,BA1 2,,51.372771,-2.3667717,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10061
+62,Bath Road Pain Clinic,nan nan,Bristol,Avon,BS4 5,,51.4333672,-2.5468652,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10062
+63,Bath University Medical Centre,nan nan,Bath,Avon,BA1 2,,51.3786992,-2.3337464,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10063
+64,Batheaston Medical Centre,nan nan,Bath,Avon,BA1 7,,51.4061491,-2.3170542,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10064
+65,Bathgate Primary Care Centre,Whitburn Road nan,Bathgate,West Lothian,EH48 1,,55.8979787,-3.6470918,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10065
+66,Beacon Community Cancer and Palliative Care Centre,nan nan,Guildford,Surrey,GU1 4,,51.2406496,-0.6112897,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10066
+67,Bedfont Clinic,nan nan,Feltham,Middlesex,TW13 4,,51.4515121,-0.4301562,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10067
+68,Beech House Surgery,Saint Bridget's Lane nan,Egremont,Cumbria,CA22 2,+44 1946 820203,54.482164,-3.5305398,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10068
+69,Beeches Green Health Centre,nan nan,Stroud,Gloucestershire,GL5 4,,51.7473354,-2.220605,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10069
+70,Beechwood Complementary Medical Centre,Hills Road 41,Cambridge,Cambridgeshire,CB3 9,,52.1963554,0.130528,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10070
+71,Belmont House,nan nan,Bristol,Avon,BS34 6,,51.5299508,-2.5694357,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10071
+72,Benarty Medical Practice,nan nan,Lochgelly,Fife,KY5 8,,56.1560026,-3.3218784,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10072
+73,Bennetts End Surgery,Gatecroft nan,Hemel Hempstead,Hertfordshire,HP1 1,,51.740914,-0.4503358,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10073
+74,Bessbrook Clinic,nan nan,Newry,County Down,BT35 7,,54.1953459,-6.4019797,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10074
+75,Bethesda Medical Centre,nan nan,Margate,Kent,CT9 2,,51.3920597,1.4062366,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10075
+76,Biddulph Primary Care Centre,nan nan,Stoke-on-Trent,Staffordshire,ST8 6,,53.1152681,-2.1775831,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10076
+77,Birch House Osteopathic Clinic,nan nan,Bristol,Avon,BS37 4,,51.5413148,-2.4116434,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10077
+78,Birchwood Clinic,nan nan,Barrow-in-Furness,Cumbria,LA14 1,+44 1229 404464,54.1375095,-3.2061463,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10078
+79,Birdwell Clinic,nan nan,Bristol,Avon,BS41 9,,51.4290976,-2.6643543,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10079
+80,Birnie Child Development Centre,nan nan,Inverness,Inverness-Shire,IV3 5,,57.4774461,-4.1961055,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10080
+81,Blackfield Health Centre,nan nan,Southampton,Hampshire,SO45 1,,50.8212942,-1.3751085,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10081
+82,Blackrod Health Centre,nan nan,Bolton,Lancashire,BL6 5,,53.5943329,-2.5863748,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10082
+83,Blessing Medical Centre,Kilburn Lane 307,London,London,W9 2,,51.5331221,-0.2052448,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10083
+84,Bluebell Lane Medical Practice,nan nan,Liverpool,Merseyside,L36 7,,53.4208267,-2.8428585,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10084
+85,Body Consultancy,nan nan,Ringwood,Hampshire,BH24 1,,50.8472499,-1.7903746,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10085
+86,Bodyfix Sports & Remedial Therapy,Minehead Road 2,Taunton,Somerset,TA4 3,+44 1823 432317,51.0558428,-3.1899323,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10086
+87,Boston Dialysis Centre,nan nan,Boston,Lincolnshire,PE21 8,,52.975601,-0.0344433,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10087
+88,Boston Health Clinic,nan nan,Boston,Lincolnshire,PE21 8,,52.9773616,-0.0281777,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10088
+89,Boston West Hospital,nan nan,Boston,Lincolnshire,PE21 8,,52.9752075,-0.0339938,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10089
+90,Bourne Health Clinic,St Gilbert's Road nan,Bourne,Lincolnshire,PE10 9,,52.771422,-0.3782658,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10090
+91,Bradbury Health and Wellbeing Centre,Lisburn Road 1-17,Belfast,County Antrim,BT2 7,,54.5880453,-5.9382273,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10091
+92,Branksome Clinic,Layton Road 51A,Poole,Dorset,BH15 1,,50.7302597,-1.9313511,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10092
+93,Breightmet Health Centre,Breightmet Fold Lane nan,Bolton,Lancashire,BL1 1,+44 1204 463366,53.5824883,-2.3848062,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10093
+94,Bridgnorth Foot Clinic,Salop Street nan,Bridgnorth,Shropshire,WV16 4,,52.5350946,-2.4244969,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10094
+95,Bristol Centre for Enablement,nan nan,Bristol,Avon,BS34 6,,51.5276461,-2.5917089,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10095
+96,Bristol Chinese Medicine Centre,Kellaway Avenue 10,Bristol,Avon,BS6 7,+44 117 942 9640,51.4809937,-2.6043479,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10096
+97,Bristol Chiropractic,Kellaway Avenue 2,Bristol,Avon,BS6 7,+44 117 962 0100,51.4808305,-2.6048164,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10097
+98,Bristol Chiropractic Clinic,High Street 42,Bristol,Avon,BS15 8,,51.4495241,-2.5182031,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10098
+99,Bristol City Gate NHS walk-in centre,nan nan,Bristol,Avon,BS1 6,,51.4558819,-2.5947724,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10099
+100,Bristol Dyslexia Centre,Upper Belgrave Road 11,Bristol,Avon,BS1 6,,51.4683156,-2.6200812,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10100
+101,Bristol Foot Clinic,nan nan,Bristol,Avon,BS1 6,,51.4892993,-2.6180718,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10101
+102,Bristol Natural Health Service,Gloucester Road 407,Bristol,Avon,BS7 0,,51.4842175,-2.5863892,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10102
+103,Brockway Medical Centre,Brockway 8,Bristol,Avon,BS48 1,,51.4335412,-2.7546243,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10103
+104,Brookland Hall Dementia Wellbeing Centre,nan nan,Bristol,Avon,BS2 9,,51.4668449,-2.5756878,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10104
+105,Brooklands Health Centre,Montague Crescent nan,Milton Keynes,Buckinghamshire,MK10 0,,52.0462894,-0.6766164,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10105
+106,Brookside Family Consultation Clinic,Trumpington Road 18a,Cambridge,Cambridgeshire,CB3 9,,52.1866511,0.1216187,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10106
+107,Broomhill Chiropractic Clinic,nan nan,Sheffield,South Yorkshire,S1 2,,53.3783991,-1.4996242,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10107
+108,Broomhill Health Centre,Hadston Road nan,Morpeth,Northumberland,NE65 9,+44 1670 760 229,55.2933419,-1.6035238,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10108
+109,Broughty Ferry Osteopathic Practice,nan nan,Dundee,Angus,DD5 2,,56.4652056,-2.8702501,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10109
+110,Brunswick Medical Centre,Brunswick Centre 39,London,London,WC1H 9,+44 20 7837 3811,51.5246311,-0.1238361,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10110
+111,Bull Farm Primary Care Centre,nan nan,Mansfield,Nottinghamshire,NG18 5,,53.1597856,-1.2199376,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10111
+112,Bupa Health Centre,nan nan,London,London,EC2M 6,+44 20 7200 2700,51.5153871,-0.0909684,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10112
+113,Burscough Health Centre,nan nan,Ormskirk,Lancashire,L40 5,,53.6030738,-2.8412514,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10113
+114,C1 Health Centre,Victoria Street 25,Bristol,Avon,BS1 6,,51.4527357,-2.5896172,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10114
+115,Cambrian Osteopaths,College Green 8,Tywyn,Gwynedd,LL36 9,,52.5874059,-4.0862167,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10115
+116,Canolfan Diabetes / Diabetes Centre,nan nan,Carmarthen,Dyfed,SA31 2,+44 1267 227869,51.8668491,-4.287058,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10116
+117,Canolfan Feddygol Bae Cinmel / Kinmel Bay Medical Centre,nan nan,Rhyl,Clwyd,LL18 5,,53.3110936,-3.5198026,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10117
+118,Canolfan Gwili / Gwili Centre,Dolgwili Road nan,Carmarthen,Dyfed,SA31 2,+44 1267 674492,51.8664558,-4.2862797,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10118
+119,Canolfan Plant / Children's Centre,Dolgwili Road nan,Carmarthen,Dyfed,SA31 2,,51.8667992,-4.2848663,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10119
+120,Canterbury Way Surgery,nan nan,Stevenage,Hertfordshire,SG1 1,,51.924973,-0.1824539,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10120
+121,Cardigan Integrated Care Centre,Rhodfa'r Felin nan,Cardigan,Dyfed,SA43 1,+44 239 801560,52.0889387,-4.6623935,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10121
+122,Cardnal Centre,nan nan,Feltham,Middlesex,TW13 4,,51.4462299,-0.4066458,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10122
+123,Carlisle Wellbeing and Treatment Centre,Antrim Road 40,Belfast,County Antrim,BT2 7,,54.6090013,-5.9374224,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10123
+124,Carmondean Health Centre,nan nan,Livingston,West Lothian,EH54 8,,55.9023587,-3.5471673,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10124
+125,Carpe Diem Therapy Centre,nan nan,Bristol,Avon,BS16 5,,51.4813121,-2.5049924,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10125
+126,Carrickfergus Health Centre,Taylor's Avenue nan,Carrickfergus,County Antrim,BT38 8,,54.7196724,-5.7990217,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10126
+127,Carronshore Health Clinic,nan nan,Falkirk,Stirlingshire,FK2 8,,56.029846,-3.7824889,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10127
+128,Castlefields Health Centre,nan nan,Runcorn,Cheshire,WA7 1,,53.3389208,-2.6914056,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10128
+129,Causeway Orthodontic Centre,Knocklynn Road nan,Coleraine,County Londonderry,BT51 3,,55.1153369,-6.638965,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10129
+130,Central Clinic,nan nan,Hamilton,Lanarkshire,ML3 6,,55.7733888,-4.041764,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10130
+131,Central Health Clinic,nan nan,Sheffield,South Yorkshire,S1 2,,53.3817349,-1.4665789,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10131
+132,Centre for Sight,Hazelden Place nan,,,,,51.1128338,-0.0368348,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10132
+133,Chancery Lane Surgery,nan nan,Nuneaton,Warwickshire,CV10 0,,52.5367239,-1.5215164,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10133
+134,Chapel Street Clinic.,nan nan,Chichester,West Sussex,PO19 1,,50.8392906,-0.7802042,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10134
+135,Charnley Fold,Cottage Lane nan,Preston,Lancashire,PR5 6,,53.738562,-2.6561669,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10135
+136,Cheltenham Chinese Medic Centre,nan nan,Cheltenham,Gloucestershire,GL50 1,,51.8985275,-2.0720217,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10136
+137,Cheshire Natural Health,Tarporley Road nan,Warrington,Cheshire,WA4 4,,53.3395529,-2.5745252,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10137
+138,Chinese Medical & Skin Centre,nan nan,Bolton,Lancashire,BL1 1,,53.5776249,-2.4154869,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10138
+139,Chinese Medicine Skin Centre,Sandy Park Road 51,Bristol,Avon,BS4 3,,51.4405465,-2.554932,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10139
+140,Chiropdy Podiatry Surgery,Victoria Road 11b,Tamworth,Staffordshire,B79 7,,52.6349862,-1.6902779,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10140
+141,Chiropody Clinic Enfield,nan nan,Enfield,Middlesex,EN2 6,,51.65367,-0.0906825,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10141
+142,Chiropody/Podiatry Surgery,nan nan,Bristol,Avon,BS34 7,,51.5101694,-2.5723336,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10142
+143,Chiropractor,nan nan,Bristol,Avon,BS6 6,,51.4625648,-2.6027266,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10143
+144,Church Lane Health Centre,Church Lane 177,Normanton,West Yorkshire,WF6 1,,53.6945464,-1.4216648,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10144
+145,Church View Primary Care Centre,nan nan,Nantwich,Cheshire,CW5 5,,53.0684115,-2.519026,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10145
+146,Churchwood Medical Practice,nan nan,St Leonards on Sea,East Sussex,TN38 0,,50.8762048,0.5384282,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10146
+147,Cirtek House,nan nan,Stockport,Cheshire,SK4 1,,53.4022963,-2.1551911,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10147
+148,City Wellbeing,Cannon Street Road 129,London,London,E1 4,+442074884240,51.5129687,-0.0615397,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10148
+149,Clermiston Clinic,nan nan,Edinburgh,Midlothian,EH4 7,,55.9550329,-3.2865002,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10149
+150,Clifden Centre,nan nan,London,London,E5 9,,51.5518334,-0.0449837,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10150
+151,Cliff Avenue Surgery,nan nan,Shipley,West Yorkshire,BD17 6,,53.8488374,-1.7687656,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10151
+152,Clifton Park Clinic,Clifton Park Avenue nan,York,North Yorkshire,YO23 1,,53.9756934,-1.1157252,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10152
+153,Clifton Park Medical Consulting Rooms,Clifton Park 2,Bristol,Avon,BS8 3,,51.4582746,-2.6200078,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10153
+154,Clifton Physiotherapy,Hampton Road 118,Bristol,Avon,BS6 7,,51.4683208,-2.6084966,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10154
+155,Clinic,nan nan,Shetland,Shetland Islands,ZE2 9,,60.4226986,-0.7645241,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10155
+156,Clinica Fiore,Endell Street 65,London,London,WC2H 8,+44 20 7240 8600,51.5150899,-0.1256782,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10156
+157,Clionaig Slàinte Bhaile a' Mhanaich,nan nan,Isle of Benbecula,Isle of Benbecula,HS7 5,,57.4731606,-7.3786087,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10157
+158,Colchester Chiropractic Centre,Mersea Road 67,Colchester,Essex,CO2 7,,51.8794581,0.905479,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10158
+159,Colchester Clinic,nan nan,Colchester,Essex,CO4 9,,51.9083282,0.9244649,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10159
+160,Coldstream Health Centre,nan nan,Coldstream,Berwickshire,TD12 4,,55.6473862,-2.2649526,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10160
+161,Coleman Health Centre,nan nan,Derby,Derbyshire,DE1 1,,52.8946011,-1.4446276,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10161
+162,Coleraine Foot Clinic,Knocklynn Road nan,Coleraine,County Londonderry,BT51 3,,55.115634,-6.6387601,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10162
+163,Coley Clinic,Carsdale Close nan,Reading,Berkshire,RG1 4,,51.4464621,-0.983173,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10163
+164,Collingham Child & Family Centre,nan nan,London,London,W8 4,,51.496485,-0.191776,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10164
+165,Collum Lane Doctors Surgery,nan nan,Scunthorpe,South Humberside,DN15 6,,53.5684636,-0.6466353,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10165
+166,Colton Mill Medical Centre,nan nan,Leeds,West Yorkshire,LS15 9,,53.7914282,-1.4315971,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10166
+167,Community CAMHS (Mental Health),Pyle Street nan,Newport,Isle of Wight,PO30 1,,50.6996256,-1.2907077,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10167
+168,Community Mental Health Team (closed),Lordship Lane 20-22,London,London,SE22 0,,51.4598707,-0.0753231,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10168
+169,Community Paediatrics,Albert Terrace Road 55,Sheffield,South Yorkshire,S1 2,+44 1143 053239,53.3895974,-1.484476,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10169
+170,Coppull Clinic,Springfield Road 2,Chorley,Lancashire,PR7 5,,53.6209248,-2.6645539,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10170
+171,Cornerstone Medical Centre,nan nan,Belfast,County Antrim,BT2 7,,54.6040897,-5.9423184,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10171
+172,Cornishway Medical Centre,nan nan,Manchester,Lancashire,M23 0,,53.3794622,-2.2647007,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10172
+173,Coronation Hospital,Springs Lane nan,Ilkley,West Yorkshire,LS29 8,,53.9231197,-1.8131685,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10173
+174,Cosham Health Centre,nan nan,Portsmouth,Hampshire,PO6 3,,50.844042,-1.0688716,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10174
+175,Cosmesis,Whiteladies Road 49a,Bristol,Avon,BS1 6,,51.4618067,-2.6082987,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10175
+176,Cove Bay Medical Centre,nan nan,Aberdeen,Aberdeenshire,AB12 3,,57.1026902,-2.0858954,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10176
+177,Cowbridge Health Centre,The Broad Shoard nan,Cowbridge,South Glamorgan,CF71 7,+44  1446 772383,51.4640331,-3.4484304,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10177
+178,Cowie Health Centre,nan nan,Stirling,Stirlingshire,FK7 7,,56.0798881,-3.8680034,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10178
+179,Cranbrook Health Centre,Jockey Lane nan,Cranbrook,Kent,TN17 3,,51.0981656,0.5357262,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10179
+180,Cranleigh Village Hospital,nan nan,Cranleigh,Surrey,GU6 7,,51.1405661,-0.4866934,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10180
+181,Crawshawbooth Clinic,Burnley Road 593,Rossendale,Lancashire,BB4 8,,53.724213,-2.2869672,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10181
+182,Cregagh Surgery,nan nan,Belfast,County Antrim,BT5 7,,54.5773877,-5.8905716,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10182
+183,Crook Health Centre,nan nan,Crook,County Durham,DL15 9,,54.7170337,-1.7477898,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10183
+184,Crossgates Medical Centre,nan nan,Leeds,West Yorkshire,LS15 7,,53.8038639,-1.4512417,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10184
+185,Crouch Hall Road Surgery,nan nan,London,London,N8 8,+44 2083405952,51.5796043,-0.1264356,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10185
+186,Crown Way Clinic,nan nan,Leamington Spa,Warwickshire,CV32 4,,52.3036733,-1.5209156,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10186
+187,Cullybackey Health Centre,nan nan,Ballymena,County Antrim,BT42 1,,54.8898852,-6.3514899,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10187
+188,Cults Medical Centre,nan nan,Aberdeen,Aberdeenshire,AB15 9,,57.1158988,-2.1809749,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10188
+189,Daly Podiatry & Co.,nan nan,Weston-super-Mare,Avon,BS23 1,,51.350524,-2.9758985,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10189
+190,Darwen Medical Centre,nan nan,Darwen,Lancashire,BB3 1,,53.6961174,-2.4716117,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10190
+191,Dean Street Express,nan nan,London,London,W1D 6,,51.5136152,-0.1323722,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10191
+192,Deane Clinic,nan nan,Bolton,Lancashire,BL1 1,,53.5673505,-2.4650992,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10192
+193,Derby Bowen Therapy,Mill Street nan,Derby,Derbyshire,DE1 1,,52.9254741,-1.4883995,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10193
+194,Derma Laser Clinic,nan nan,London,London,SW19 7,,51.4184499,-0.1930708,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10194
+195,Devizes NHS Treatment Centre,nan nan,Devizes,Wiltshire,SN10 1,,51.3410045,-1.9805915,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10195
+196,Dewsnap Lane Clinic,nan nan,Dukinfield,Cheshire,SK16 4,,53.4698015,-2.0777125,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10196
+197,Docklands Medical Centre,Spindrift Avenue 100,London,London,E14 3,,51.4912822,-0.0210108,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10197
+198,Donemanagh Health Centre,nan nan,Strabane,County Tyrone,BT82 0,,54.8741977,-7.3137424,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10198
+199,Dorset Physiotherpy Centre,nan nan,Dorchester,Dorset,DT1 1,,50.715134,-2.44028,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10199
+200,Dovecot Clinic,nan nan,Glenrothes,Fife,KY7 5,,56.1942568,-3.1633438,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10200
+201,Downend Chiropractic Clinic,Downend Road 24,Bristol,Avon,BS16 3,,51.4824014,-2.521885,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10201
+202,Dowry Chiropractic Clinic,Dowry Place 3,Bristol,Avon,BS8 4,,51.4495185,-2.6212013,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10202
+203,Dr Beijing Limited,High Street 49;51,Bristol,Avon,BS48 1,,51.433918,-2.7550769,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10203
+204,Dromara Surgery,nan nan,Dromore,County Down,BT25 2,,54.3806525,-6.0150177,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10204
+205,Ealing Chiropractic Clinic,The Grove 63,London,London,W5 2,,51.5109643,-0.30188,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10205
+206,East Calder Medical Practice,nan nan,Livingston,West Lothian,EH53 0,,55.8957558,-3.4617663,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10206
+207,East Grinstead Health Clinic,nan nan,East Grinstead,West Sussex,RH19 1,,51.1319391,-0.0130876,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10207
+208,East Leeds Health Centre,Osmondthorpe Lane 78,Leeds,West Yorkshire,LS1 5,+44 113 295 1470,53.7988063,-1.499115,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10208
+209,East Trees Health Centre,nan nan,Bristol,Avon,BS5 6,,51.4706793,-2.5621058,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10209
+210,Eastney Health Centre,nan nan,Portsmouth,Hampshire,PO1 4,,50.786856,-1.0600487,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10210
+211,Eastwood Health Clinic,Nottingham Road nan,Nottingham,Nottinghamshire,NG16 3,,53.0159033,-1.2993178,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10211
+212,Ecclesbourne Surgery,Lea Bridge Road nan,London,London,E10 5,,51.5807864,-0.0010397,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10212
+213,Elgar Unit,nan nan,Worcester,Worcestershire,WR1 2,,52.1929462,-2.1828777,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10213
+214,Elm Park Clinic,Abbs Cross Lane 252,Hornchurch,Essex,RM11 3,,51.5548067,0.2070907,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10214
+215,Eltisley Manor,nan nan,,,,,52.2238928,-0.1999549,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10215
+216,Emberbrook Health Centre,nan nan,Thames Ditton,Surrey,KT7 0,,51.3866403,-0.3352993,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10216
+217,Epsom Clinic,nan nan,Epsom,Surrey,KT18 7,,51.3323457,-0.2625845,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10217
+218,Evesham Natural Health Care,High Street nan,Evesham,Worcestershire,WR11 4,,52.0956692,-1.9465104,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10218
+219,Fairfield Medical Centre,nan nan,Liverpool,Merseyside,L3 8,,53.4185358,-2.9472493,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10219
+220,Fairfield Park Health Centre,nan nan,Bath,Avon,BA1 2,,51.3952493,-2.3525867,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10220
+221,Fareham Health Centre,nan nan,Fareham,Hampshire,PO16 7,,50.853821,-1.1758505,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10221
+222,Feeny Medical Practise,nan nan,Londonderry,County Londonderry,BT47 4,,54.8927398,-7.0249257,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10222
+223,Feet and Co,Melton Road 85,Nottingham,Nottinghamshire,NG2 6,,52.9273454,-1.1295297,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10223
+224,Fell Tower Medical Centre,Durham Road 575-583,Gateshead,Tyne and Wear,NE9 6,+44 191 491 3322,54.9339817,-1.5989692,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10224
+225,Fender Way Health Centre,nan nan,Birkenhead,Merseyside,CH41 4,,53.3891709,-3.0823903,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10225
+226,Ffordd Las Clinic,nan nan,Rhyl,Clwyd,LL18 2,,53.3149184,-3.4880945,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10226
+227,Filton Clinic,nan nan,Bristol,Avon,BS7 0,,51.5041382,-2.5727988,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10227
+228,Firrhill Centre,Colinton Road 257,Edinburgh,Midlothian,EH14 1,,55.9147143,-3.2382524,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10228
+229,Five Lamps Chiropody Clinic,Kedleston Road 8,Derby,Derbyshire,DE1 1,,52.9301501,-1.4842638,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10229
+230,Flamingo,Southmead Road 175,Bristol,Avon,BS1 6,,51.4944165,-2.6021745,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10230
+231,Footworks,Charles Place nan,Bristol,Avon,BS8 4,,51.4499078,-2.6189213,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10231
+232,Ford Physiotherapy Clinic,Old Road nan,Clacton-on-Sea,Essex,CO15 3,,51.7952969,1.1487192,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10232
+233,Forest Road Medical Centre,nan nan,London,London,E17 3,,51.589609,-0.0262428,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10233
+234,Forest Road Primary Care Centre,Hertford Road 308A,London,London,N9 7,,51.6335449,-0.053392,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10234
+235,Forest View Medical Centre,Abergorki Industrial Estate nan,Treorchy,Mid Glamorgan,CF42 6,,51.6646832,-3.5197659,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10235
+236,Formby NHS Clinic,Phillips Lane nan,Liverpool,Merseyside,L37 4,,53.5541082,-3.0584323,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10236
+237,Forres Health & Care Centre GP Practices,Grantown Road nan,Forres,Morayshire,IV36 1,+44 345 337 1120,57.6031978,-3.6213555,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10237
+238,Foundation House,Wellsprings Road nan,Taunton,Somerset,TA1 4,,51.0315728,-3.1024368,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10238
+239,Foundations Complimentary Therapy Centre,Gold Street 68,Wellingborough,Northamptonshire,NN8 4,+44 1933 442793,52.3070595,-0.696179,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10239
+240,Fownhope Medical Centre,Common Hill Lane nan,Hereford,Herefordshire,HR1 4,,52.0071633,-2.6099363,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10240
+241,Francis Grove Surgery,Francis Grove 8,London,London,SW19 7,,51.4198744,-0.209116,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10241
+242,Freshfields CAMHS,nan nan,Solihull,West Midlands,B93 8,,52.3793553,-1.7430716,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10242
+243,Friockheim Health Centre,Westgate nan,Arbroath,Angus,DD11 4,,56.6375295,-2.6640733,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10243
+244,Frodsham Chiropody Surgery,Main Street 103A,Warrington,Cheshire,WA6 7,,53.2955995,-2.7271783,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10244
+245,Frome Valley Medical Centre,nan nan,Bristol,Avon,BS36 2,,51.5343722,-2.496279,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10245
+246,Future Skin,Winchcombe Street 9,Cheltenham,Gloucestershire,GL50 1,+441242 511191,51.900331,-2.0726471,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10246
+247,Garnet Fold Practice,nan nan,Bolton,Lancashire,BL1 1,,53.5595173,-2.4577293,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10247
+248,Garthdee Medical Practice,nan nan,Aberdeen,Aberdeenshire,AB11 6,,57.1196291,-2.1340538,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10248
+249,Garvagh Health Centre,nan nan,Coleraine,County Londonderry,BT51 5,,54.9820445,-6.688317,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10249
+250,Geoff Hale City Osteopaths,Tettenhall Road 197,Wolverhampton,West Midlands,WV6 0,,52.5921008,-2.1532033,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10250
+251,Gilbert House Surgery,nan nan,Ashtead,Surrey,KT21 1,,51.3137928,-0.3033454,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10251
+252,Gilbert Road Medical Group,nan nan,Aberdeen,Aberdeenshire,AB11 6,,57.1777376,-2.1748467,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10252
+253,Gillies Health Centre,nan nan,Basingstoke,Hampshire,RG21 4,,51.2452182,-1.113484,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10253
+254,Goldington Medical Centre,nan nan,Bedford,Bedfordshire,MK40 2,,52.1532538,-0.4274028,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10254
+255,Good Health Centre,nan nan,Bolton,Lancashire,BL1 1,,53.6045514,-2.435087,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10255
+256,Goring & Woodcote Medical Practice,Red Cross Road nan,Reading,Berkshire,RG8 9,,51.5222973,-1.1350322,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10256
+257,Goyt Valley Medical & Dental Practice,Eccles Road nan,High Peak,Derbyshire,SK23 0,+44 1663 735112,53.3233235,-1.9190702,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10257
+258,Grace Swan Health Clinic,nan nan,Spilsby,Lincolnshire,PE23 5,,53.1753622,0.0847189,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10258
+259,Gracemount Medical Centre,Gracemount Drive 24,Edinburgh,Midlothian,EH17 8,,55.9038703,-3.1554566,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10259
+260,Grand Union Village Health Centre,nan nan,Northolt,Middlesex,UB5 5,,51.5316539,-0.3765202,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10260
+261,Grange Health Centre,nan nan,Grange-over-Sands,Cumbria,LA11 7,,54.1875674,-2.9149846,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10261
+262,Grantham Foot Clinic,Castlegate 71,Grantham,Lincolnshire,NG31 6,,52.9116837,-0.6401977,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10262
+263,Gray Hill Surgery,nan nan,Newport,Gwent,NP26 5,,51.5889533,-2.753613,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10263
+264,Grays Health Centre,Brooke Road nan,Grays,Essex,RM17 5,,51.4795088,0.3233902,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10264
+265,Great Oaks Clinic,Great Oaks nan,Basildon,Essex,SS15 5,+44 300 3001515,51.5719612,0.4585425,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10265
+266,Green Banks Centre for Disabled Children,Westfield Road nan,Margate,Kent,CT9 1,+44 300 042 0003,51.3790093,1.3647288,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10266
+267,Green Elms Health Centre,Crossways 32,Clacton-on-Sea,Essex,CO15 2,,51.7813388,1.1171555,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10267
+268,Greenford Green Clinic,nan nan,Greenford,Middlesex,UB6 0,,51.5531834,-0.3398717,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10268
+269,Grove Medical Centre,nan nan,Egham,Surrey,TW20 9,,51.4309068,-0.5454427,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10269
+270,Grove Medical Centre & Pharmacy,nan nan,Felixstowe,Suffolk,IP11 7,,51.9717921,1.350715,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10270
+271,Guardian Medical Centre,nan nan,Warrington,Cheshire,WA5 1,,53.3921713,-2.606054,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10271
+272,HCA Sydney Street,Sydney Street 102,London,London,SW3 4,,51.4879121,-0.1686988,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10272
+273,HCA UK Chiswick Outpatients & Diagnostics Centre,Chiswick High Road 347-352,London,London,W4 4,,51.4927737,-0.2708089,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10273
+274,Hadleigh Health Centre,Market Place nan,Ipswich,Suffolk,IP7 5,,52.0428483,0.9522424,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10274
+275,Halton Medical Practice,Primrose Lane 2A,Leeds,West Yorkshire,LS1 5,,53.7963837,-1.4727968,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10275
+276,Hanford Health Centre,nan nan,Stoke-on-Trent,Staffordshire,ST4 8,,52.9745643,-2.1957312,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10276
+277,Harbour Lily,Whiteladies Road 10a,Bristol,Avon,BS1 6,,51.4591045,-2.6092284,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10277
+278,Harefield GP Surgery,Hill End Road nan,Uxbridge,Middlesex,UB9 6,,51.6055746,-0.4821171,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10278
+279,Harley Grove Medical Centre,Harley Grove 15,London,London,E3 2,,51.5275798,-0.0276601,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10279
+280,Harley Medical Group,Whiteladies Road 2,Bristol,Avon,BS8 1,,51.4585584,-2.609018,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10280
+281,Harpurhey Health Centre,nan nan,Manchester,Lancashire,M9 4,,53.5118857,-2.2132745,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10281
+282,Harrow Road Medical Centre,nan nan,London,London,E11 2,,51.559616,0.0134016,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10282
+283,Haslemere Chiropractic Clinic,nan nan,Haslemere,Surrey,GU27 2,,51.0890755,-0.7105927,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10283
+284,Hawick Health Centre,nan nan,Hawick,Roxburghshire,TD9 9,,55.4224894,-2.7887205,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10284
+285,Hawthorn Medical Centre,nan nan,Manchester,Lancashire,M14 6,,53.4422329,-2.2049782,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10285
+286,Haywards Heath Health Centre,Heath Road nan,Haywards Heath,West Sussex,RH16 4,+44 1444 475 700,51.0008654,-0.1042132,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10286
+287,Head Injuries Rehabilitation Unit,nan nan,Sheffield,South Yorkshire,S1 2,,53.3901452,-1.4857364,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10287
+288,Headingley Health Centre,nan nan,Leeds,West Yorkshire,LS6 3,,53.8209368,-1.5767099,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10288
+289,Health By Design,High Street 14,Ipswich,Suffolk,IP7 5,,52.0421492,0.9551798,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10289
+290,Health Centre,nan nan,Neston,Cheshire,CH64 9,,53.2871537,-3.0539136,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10290
+291,Health Clinic,nan nan,Caernarfon,Gwynedd,LL55 3,,53.1453631,-4.1271292,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10291
+292,Health For Life,nan nan,Kelso,Roxburghshire,TD5 7,,55.5972173,-2.4329333,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10292
+293,Health Sub Center,nan nan,Oxford,Oxfordshire,OX1 5,,51.7177651,-1.2447745,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10293
+294,Health Sub Center,nan nan,Morecambe,Lancashire,LA3 2,,54.0421218,-2.893977,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10294
+295,Health Visitors and School Nurses,nan nan,Blaenau Ffestiniog,Gwynedd,LL41 3,,52.9941667,-3.9424203,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10295
+296,Healthub,Queen Street 1b,Lancaster,Lancashire,LA1 1,,54.0460174,-2.8014523,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10296
+297,Heanor Health Centre,Wilmot Street nan,Heanor,Derbyshire,DE75 7,,53.0110155,-1.3542778,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10297
+298,Hearthwood Medical Practice,Civic Way nan,Swadlincote,Derbyshire,DE11 8,+44 1283818100,52.7749909,-1.5598134,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10298
+299,Heath Cottage Surgery,nan nan,Poole,Dorset,BH16 6,,50.7584495,-2.0800374,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10299
+300,Heathlands Medical Centre,nan nan,Birkenhead,Merseyside,CH41 4,,53.3819939,-3.0894091,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10300
+301,Hedge End Medical Centre,Lower Northam Road 24,Southampton,Hampshire,SO30 4,,50.9141129,-1.3008741,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10301
+302,Henleaze Physiotherapy Clinic,nan nan,Bristol,Avon,BS9 4,,51.491623,-2.6002447,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10302
+303,HerbLand,nan nan,Newbury,Berkshire,RG14 1,,51.4001875,-1.3232986,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10303
+304,Hill Brow Surgery,nan nan,Barnsley,South Yorkshire,S75 6,,53.5867711,-1.5099474,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10304
+305,Hillcrest Medical Centre,nan nan,Wrexham,Clwyd,LL13 7,,53.0493134,-2.983857,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10305
+306,Hoddesdon Health Centre,High Street nan,Hoddesdon,Hertfordshire,EN11 9,,51.7555043,-0.0141522,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10306
+307,Hodge Hill Primary Care Centre,nan nan,Birmingham,West Midlands,B3 3,,52.5031509,-1.8010563,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10307
+308,Holborn Medical Centre,Lamb's Conduit Street 64-66,London,London,WC1A 2,,51.5222315,-0.1186589,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10308
+309,Homeo Hijama Care,nan nan,Bolton,Lancashire,BL1 1,,53.5681362,-2.4421107,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10309
+310,Honicknowle Clinic,nan nan,Plymouth,Devon,PL5 3,,50.4103928,-4.1584987,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10310
+311,Honor Oak Group Practice,nan nan,London,London,SE4 2,+44 3049 2345,51.4582558,-0.041076,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10311
+312,Howard Centre Community Mental Health,nan 6,Morpeth,Northumberland,NE61 1,,55.1707606,-1.6879825,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10312
+313,Hucknall & District Orthopaedic Clinic,Derbyshire Lane nan,Nottingham,Nottinghamshire,NG15 6,,53.0363554,-1.2060285,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10313
+314,Hucknall Health Centre,Curtis Street 54,Nottingham,Nottinghamshire,NG15 6,,53.0352335,-1.2063672,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10314
+315,Hunter Street Health Centre,Hunter Street 8,London,London,WC1H 9,,51.5255854,-0.1231679,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10315
+316,Hurley Clinic,Staplegrove Road 21,Taunton,Somerset,TA1 1,+44 1823 618233,51.0194442,-3.106964,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10316
+317,Hurstwood Park Centre,Lewes Road nan,Haywards Heath,West Sussex,RH16 4,,50.9900564,-0.0889083,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10317
+318,IDASS,nan 592,London,London,N19 3,,51.5609572,-0.1236803,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10318
+319,ITM imaging Centre,nan nan,Birmingham,West Midlands,B15 3,,52.4535098,-1.9376249,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10319
+320,IVI Midland,Ventura Park Road nan,Tamworth,Staffordshire,B79 7,+44 1827 311170,52.626712,-1.7083001,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10320
+321,Integrated Neurological Services,Hampton Road 82,Twickenham,Middlesex,TW1 3,,51.4410065,-0.3463188,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10321
+322,Ionad Slàinte Bàgh a' Chaisteil,nan nan,Castlebay,Isle of Barra,HS9 5,,56.95501,-7.4864941,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10322
+323,Ionad Slàinte Steòrnabhaigh,Rathad nam Buailtean nan,Stornoway,Isle of Lewis,HS1 2,,58.2129946,-6.3728768,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10323
+324,Ipswich Foot Clinic,nan nan,Ipswich,Suffolk,IP1 2,,52.0616126,1.1535302,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10324
+325,Ironstone Centre,nan nan,Scunthorpe,South Humberside,DN15 6,,53.5921014,-0.6524394,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10325
+326,Ise Medical Centre,nan nan,Kettering,Northamptonshire,NN15 6,,52.3935845,-0.7004098,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10326
+327,Island Medical Centre,Roserton Street nan,London,London,E14 3,+442079874231,51.4979591,-0.0098697,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10327
+328,Islip Medical Practice,Bletchingdon Road nan,Kidlington,Oxfordshire,OX5 2,+44 1865 371666,51.8247555,-1.2409278,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10328
+329,Ivybridge Medical Centre,nan nan,Ivybridge,Devon,PL21 9,,50.3918769,-3.9209268,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10329
+330,J.H. Thomson Osteopathic Practice,Oldfield Road 39,Bristol,Avon,BS8 4,,51.4495889,-2.6184608,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10330
+331,James Street Family Resource Centre,nan nan,Newtownards,County Down,BT23 4,,54.5955254,-5.7011228,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10331
+332,John Mitchel Place Health Centre,John Mitchel Place nan,Newry,County Down,BT35 6,,54.1722518,-6.3387513,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10332
+333,Jubilee Gardens Health Centre,nan nan,Southall,Middlesex,UB1 1,,51.5212653,-0.3691329,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10333
+334,Kearsley Medical Centre,nan nan,Bolton,Lancashire,BL4 8,,53.5431139,-2.3830766,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10334
+335,Kemnay Health Clinic,nan nan,Inverurie,Aberdeenshire,AB51 5,,57.2369818,-2.4395445,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10335
+336,Kemnay Medical Centre,nan nan,Inverurie,Aberdeenshire,AB51 5,,57.2344053,-2.4455312,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10336
+337,Kenilworth Chiropractic Clinic,Warwick Road 125,Kenilworth,Warwickshire,CV8 1,,52.3390559,-1.5750693,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10337
+338,Kenworthy Road Health Centre,Kenworthy Road 10,London,London,E9 7,,51.5474872,-0.0375266,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10338
+339,Kettering Dialysis Unit,nan nan,Kettering,Northamptonshire,NN16 0,,52.3996654,-0.7336134,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10339
+340,Kettering Orthotic Clinic,nan nan,Kettering,Northamptonshire,NN16 8,,52.4111501,-0.7369174,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10340
+341,Keyworth Primary Care Centre,Bunny Lane nan,Nottingham,Nottinghamshire,NG12 5,,52.8714882,-1.0911157,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10341
+342,Kidbrooke Village Clinic,nan nan,London,London,SE3 9,,51.4603213,0.0284109,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10342
+343,Kidderminster Medical Centre,nan nan,Kidderminster,Worcestershire,DY11 6,,52.389551,-2.2456354,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10343
+344,Kilburn Osteopathic Clinic,Belsize Road 270b,London,London,NW6 4,,51.5375558,-0.1922567,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10344
+345,Kimberley Health Clinic,Newdigate Street nan,Nottingham,Nottinghamshire,NG16 2,,52.9984918,-1.2552694,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10345
+346,Kincardine Health Centre,nan nan,Alloa,Clackmannanshire,FK10 4,,56.069288,-3.7208646,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10346
+347,Kings Road Clinic,nan nan,Herne Bay,Kent,CT6 5,,51.3685005,1.1321726,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10347
+348,Kingsclere Medical Practice,nan nan,Newbury,Berkshire,RG20 5,,51.3255024,-1.2467252,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10348
+349,Kingshurst Clinic,nan nan,Birmingham,West Midlands,B37 6,,52.4937558,-1.749501,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10349
+350,Kinta House,Helme Close nan,Kendal,Cumbria,LA9 4,,54.3127917,-2.7374852,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10350
+351,Kinta House Annexe,Helme Close nan,Kendal,Cumbria,LA9 4,,54.3129569,-2.7372879,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10351
+352,Kirkburton Health Centre,Shelley Lane 5A,Huddersfield,West Yorkshire,HD8 0,,53.607754,-1.7001624,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10352
+353,Kirkgate Surgery,nan nan,Batley,West Yorkshire,WF17 9,,53.7325216,-1.6693689,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10353
+354,Kirton Medical Centre,nan nan,Boston,Lincolnshire,PE20 1,,52.9338737,-0.0593143,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10354
+355,Lance Burn Health Centre,Churchill Way nan,Salford,Lancashire,M5 4,+44 161 206 1099,53.4859414,-2.2832819,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10355
+356,Laurel Lodge Clinic,nan nan,Uxbridge,Middlesex,UB8 1,,51.5255478,-0.4508237,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10356
+357,Lawrence Weston Clinic,Ridingleaze nan,Bristol,Avon,BS11 0,,51.5006161,-2.659884,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10357
+358,Leasowes Intermediate Care Centre,nan nan,Smethwick,West Midlands,B66 3,,52.5021492,-1.9858248,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10358
+359,Lee on the Solent Health Centre,Manor Way nan,Lee-on-the-Solent,Hampshire,PO13 9,,50.8027987,-1.201855,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10359
+360,Legahory Health Centre,nan nan,Craigavon,County Armagh,BT64 1,,54.4491795,-6.369342,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10360
+361,Leicester Renal Dialysis Centre,Crest Rise 50,Leicester,Leicestershire,LE1 4,,52.6546911,-1.0912455,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10361
+362,Leigh Medical Centre,nan nan,Leigh-on-Sea,Essex,SS9 2,,51.5480752,0.6340514,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10362
+363,Leighton Buzzard Health Centre,nan nan,Leighton Buzzard,Bedfordshire,LU7 1,,51.9188945,-0.6650776,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10363
+364,Levenshulme Health Centre,Dunstable Street nan,Manchester,Lancashire,M19 3,,53.4464235,-2.1888797,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10364
+365,Leyton Green Clinic,Leyton Green Road nan,London,London,E10 5,,51.574817,-0.0079967,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10365
+366,Leyton Green Neighbourhood Health Service,Essex Road 180,London,London,E10 5,,51.5781569,-0.0063018,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10366
+367,Liberton Medical Group,nan nan,Edinburgh,Midlothian,EH16 4,,55.908389,-3.1631534,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10367
+368,Limavady Health Centre,nan nan,Limavady,County Londonderry,BT49 0,,55.0482701,-6.9411625,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10368
+369,Lincoln Laser Skincare,Beaumont Fee 3,Lincoln,Lincolnshire,LN5 7,,53.2308082,-0.5420044,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10369
+370,Lincoln Osteopaths,West Parade 26,Lincoln,Lincolnshire,LN5 7,,53.2313409,-0.5419029,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10370
+371,Litfield House Medical Centre,Litfield Place nan,Bristol,Avon,BS8 3,,51.4576521,-2.623345,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10371
+372,Litherland Town Hall Walk In Centre,Hatton Hill Road nan,Liverpool,Merseyside,L21 9,,53.4708518,-3.0025295,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10372
+373,Llangollen Health Centre,Mill Street nan,Llangollen,Clwyd,LL20 8,,52.9703901,-3.1621908,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10373
+374,Lochfield Road Primary Care Centre,nan nan,Dumfries,Dumfriesshire,DG1 2,,55.0732621,-3.6245947,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10374
+375,Lochgelly Medical Practice,David Street 25,Lochgelly,Fife,KY5 9,+44 1592 780277,56.1290128,-3.311601,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10375
+376,Lochgoilhead Medical Centre,nan nan,Cairndow,Argyll,PA24 8,,56.1744187,-4.900594,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10376
+377,Locking Castle Medical Centre,nan nan,Weston-super-Mare,Avon,BS22 6,,51.3533399,-2.9143235,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10377
+378,London Medical Clinic,Hartlepool Court 9A,London,London,E16 2,+44 20 3203 0240,51.5012431,0.0722328,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10378
+379,Longfield Integrated Care & Physiotherapy Centre,nan nan,Longfield,Kent,DA3 7,,51.3952151,0.3124706,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10379
+380,Longford Primary Care Centre,nan nan,Coventry,West Midlands,CV6 6,,52.4493802,-1.485783,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10380
+381,Loughton Health Centre,nan nan,Loughton,Essex,IG10 1,,51.6488922,0.0546876,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10381
+382,Louise Boshall,North View 22,Bristol,Avon,BS6 7,,51.4794124,-2.613401,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10382
+383,Lowe House HcRc,nan nan,St Helens,Merseyside,WA10 1,,53.4565259,-2.7429316,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10383
+384,Lucy Chinese Herb & Acupuncture,Alma Road 64,Bristol,Avon,BS8 3,,51.4629797,-2.6105301,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10384
+385,Lundwood Health Centre,nan nan,Barnsley,South Yorkshire,S71 5,,53.5570406,-1.4399832,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10385
+386,Lyndon Clinic,nan nan,Solihull,West Midlands,B91 3,,52.4430054,-1.7862501,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10386
+387,Lynton Health Centre,nan nan,Lynton,Devon,EX35 6,,51.2296888,-3.8368048,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10387
+388,MCH House,nan nan,Gillingham,Kent,ME8 0,,51.3686568,0.5741517,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10388
+389,MS Oxygen Therapy Centre,nan 13,Cardigan,Dyfed,SA43 1,+44 1239 613210,52.079481,-4.6572597,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10389
+390,Madeira Medical Centre,Madeira Road 1A,Poole,Dorset,BH15 1,,50.7281755,-1.9349011,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10390
+391,Mancot Clinic,nan nan,Deeside,Clwyd,CH5 2,,53.1978229,-3.0145538,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10391
+392,Manor Brook Medical Centre,Brook Lane 117,London,London,SE3 0,+44 20 8856 5678,51.4692493,0.0249435,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10392
+393,Manor Health Weight Loss & Skin Clinic,Town Street 149,Leeds,West Yorkshire,LS18 4,+44 113 870 0000,53.8407234,-1.6366093,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10393
+394,Maple Tree Clinic,Overslade Close 1,Northampton,Northamptonshire,NN1 1,,52.2152468,-0.9165293,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10394
+395,Marie Stopes,Mattock Lane 87,London,London,W5 2,,51.5104917,-0.3120914,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10395
+396,Marina Healthcare Centre,Haven View 2,Bristol,Avon,BS20 6,,51.4844473,-2.7577989,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10396
+397,Marine Avenue Medical Centre,Marine Avenue nan,Whitley Bay,Tyne and Wear,NE26 1,+44 191 252 5317,55.0432623,-1.4578988,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10397
+398,Maryhill Health & Care Centre,Gairbraid Avenue 51,Glasgow,Lanarkshire,G20 8,,55.8902373,-4.2931008,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10398
+399,Mawsley Medical Centre,nan nan,Kettering,Northamptonshire,NN14 1,,52.3765221,-0.8111691,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10399
+400,Mayfair Medical Centre,Weighhouse Street 3-5,London,London,W1J 8,,51.5135507,-0.1501268,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10400
+401,Med-Pol Medical Centre,Whitechapel High Street 94a,London,London,E1 4,+442072478218,51.5156933,-0.0712036,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10401
+402,Medical Centre,nan nan,Lancaster,Lancashire,LA1 1,,54.0083681,-2.7890537,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10402
+403,Medical Centre,nan nan,York,North Yorkshire,YO26 9,,54.0286519,-1.2918064,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10403
+404,Medical Centre,nan nan,Holyhead,Gwynedd,LL65 3,,53.2596551,-4.5260821,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10404
+405,Medical Cosmetics,nan nan,Nottingham,Nottinghamshire,NG2 6,,52.9185656,-1.1535401,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10405
+406,Medigold Health,nan nan,Bristol,Avon,BS1 6,,51.4559032,-2.5915304,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10406
+407,Medikas,Whiteladies Road 20,Bristol,Avon,BS1 6,,51.460314,-2.6091382,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10407
+408,Medwyn Centre,Reigate Road nan,Dorking,Surrey,RH4 1,,51.234734,-0.3239809,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10408
+409,Melrose Health Centre,nan nan,Melrose,Roxburghshire,TD6 9,,55.5977402,-2.7233846,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10409
+410,Midland Eye,Lode Lane 50,Solihull,West Midlands,B91 3,,52.4196731,-1.7755772,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10410
+411,Millfield Medical Centre,nan nan,Sunderland,Tyne and Wear,SR1 3,,54.9063151,-1.4005699,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10411
+412,Monkseaton Clinic,Chapel Lane 1,Whitley Bay,Tyne and Wear,NE25 8,,55.0402446,-1.4639903,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10412
+413,Monton Medical Centre,nan nan,Manchester,Lancashire,M30 0,+44 844 815 1147,53.4919007,-2.3572868,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10413
+414,Montpelier Health Centre,nan nan,Bristol,Avon,BS1 6,,51.4671209,-2.589856,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10414
+415,Moore Osteopathy,Melton Road 128A,Nottingham,Nottinghamshire,NG2 6,,52.9267362,-1.1292394,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10415
+416,Moorfield Road Health Centre,nan nan,Enfield,Middlesex,EN2 6,,51.6601134,-0.0469891,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10416
+417,Moorgate Primary Care Centre,Derby Way 22,Bury,Lancashire,BL9 0,,53.5954998,-2.2889938,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10417
+418,Moray Coast Health Centre,Muirton Road nan,Lossiemouth,Morayshire,IV31 6,,57.7114313,-3.3066112,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10418
+419,Morpeth NHS Centre,nan nan,Morpeth,Northumberland,NE61 1,,55.1719953,-1.6833937,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10419
+420,Mortimer Market Centre,Capper Street nan,London,London,WC1A 2,,51.5225666,-0.1356775,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10420
+421,Morum House,Bounds Green Road 3-5,London,London,N22 8,,51.5991218,-0.1121063,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10421
+422,Moulsham Lodge Clinic,nan nan,Chelmsford,Essex,CM2 6,,51.7155626,0.4743139,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10422
+423,Moulsham Lodge Surgery,nan nan,Chelmsford,Essex,CM2 6,,51.7166382,0.4750889,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10423
+424,Mourneside Family Practice,Ballycolman Avenue 1A,Strabane,County Tyrone,BT82 8,028 7138 3737,54.8228271,-7.4683068,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10424
+425,Moyle Medical Building,nan nan,Larne,County Antrim,BT40 1,,54.8549422,-5.8163143,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10425
+426,Moyle Medical Centre,nan nan,Larne,County Antrim,BT40 1,,54.8543759,-5.8164627,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10426
+427,Mr Liu Chinese Clinic,nan nan,London,London,W12 0,,51.5029399,-0.2233168,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10427
+428,Multiple Sclerosis Therapy Centre,Barkers Lane 155,Bedford,Bedfordshire,MK40 2,,52.1336587,-0.4385249,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10428
+429,Murton Clinic,nan nan,Swansea,West Glamorgan,SA3 3,,51.5828951,-4.0413813,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10429
+430,Musselburgh Primary Care Centre,nan nan,Musselburgh,Midlothian,EH21 7,,55.9386823,-3.0526815,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10430
+431,My Health Clinic,nan nan,Newcastle upon Tyne,Tyne and Wear,NE1 8,,55.0286224,-1.6233789,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10431
+432,"N. T. Collins, Physiotherapist",Whittingham Road 1a,Nottingham,Nottinghamshire,NG3 5,+44 115 962 1548,52.9831475,-1.1223127,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10432
+433,NHS Health Point,Top Valley Way nan,Nottingham,Nottinghamshire,NG1 7,,53.0020993,-1.1787963,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10433
+434,NHS Highland Occupational Health Service,nan nan,Inverness,Inverness-Shire,IV3 5,,57.4767802,-4.1970301,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10434
+435,NHS Outpatient & Midwifery,nan nan,Bristol,Avon,BS35 1,,51.6082935,-2.5248075,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10435
+436,NHS Walk-In Centre,nan nan,Sheffield,South Yorkshire,S1 2,+44 1142 412700,53.3828839,-1.4774516,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10436
+437,NHS clinic,Castle Road 12,Rayleigh,Essex,SS6 7,,51.5842292,0.6026303,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10437
+438,National Slimming & Cosmetic Clinics,nan nan,Bristol,Avon,BS1 3,,51.4590843,-2.5888082,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10438
+439,Nethertown Surgery,nan nan,Dunfermline,Fife,KY12 0,,56.065701,-3.4526533,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10439
+440,Nevells Road Health Centre,nan nan,Letchworth,Hertfordshire,SG6 2,,51.9812175,-0.2302133,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10440
+441,New Ash Green Clinic,nan nan,Longfield,Kent,DA3 8,,51.3667317,0.3056848,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10441
+442,New Croft Centre,Market Street East nan,Newcastle upon Tyne,Tyne and Wear,NE1 8,+44 191 229 2999,54.9742116,-1.6077324,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10442
+443,New Dyce Medical Practice,Altonrea Gardens 23a,Aberdeen,Aberdeenshire,AB21 7,,57.2063805,-2.1772387,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10443
+444,New Haw Therapy Clinic,nan nan,Addlestone,Surrey,KT15 3,,51.3503584,-0.4961124,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10444
+445,New Park House,North Street nan,Horsham,West Sussex,RH12 1,,51.0643441,-0.323729,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10445
+446,Newbattle Medical Centre,nan nan,Dalkeith,Midlothian,EH22 4,,55.8677727,-3.0496038,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10446
+447,Newcastle Sports Injury Clinic,nan nan,Newcastle upon Tyne,Tyne and Wear,NE2 3,,54.9974413,-1.610922,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10447
+448,Newmarket House Clinic,Newmarket Road 153,Norwich,Norfolk,NR1 3,+44 1603 452226,52.6144898,1.2657265,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10448
+449,Newry Health Village,nan nan,Newry,County Down,BT35 6,,54.1766598,-6.3443802,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10449
+450,Newton Heath Health Centre,nan nan,Manchester,Lancashire,M40 2,,53.5023597,-2.1844055,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10450
+451,North Ayr Health Centre,Glenmuir Place nan,Ayr,Ayrshire,KA7 2,+44 1292 885500,55.4739684,-4.5993895,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10451
+452,North East Clinic - Accident Rehabilitation Specialists,Heaton Road nan,Newcastle upon Tyne,Tyne and Wear,NE6 5,,54.9800038,-1.5802554,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10452
+453,North Reddish Clinic,Longford Road West nan,Stockport,Cheshire,SK5 6,,53.445664,-2.158604,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10453
+454,North Uist Medical Practice,nan nan,Lochmaddy,Isle of North Uist,HS6 5,,57.6045182,-7.1605756,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10454
+455,North Yorkshire Orthopaedic Centre,nan nan,York,North Yorkshire,YO30 6,,53.9769639,-1.1098609,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10455
+456,Northern Health Centre,Holloway Road 580,London,London,N7 6,,51.5608207,-0.1235264,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10456
+457,Northern Ireland Hospice,Somerton Road 74,Belfast,County Antrim,BT2 7,,54.6267887,-5.936092,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10457
+458,Northern Moor Clinic,nan nan,Manchester,Lancashire,M23 0,,53.4094753,-2.2919938,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10458
+459,Northgate Health Clinic,Northgate Northgate Health Clinic,Bridgnorth,Shropshire,WV16 4,,52.5381321,-2.4229785,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10459
+460,Northumberland Heath Medical Centre,nan nan,Erith,Kent,DA8 1,,51.4769698,0.1659578,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10460
+461,Nottinghill Medical Practice,Doagh Road 95,Newtownabbey,County Antrim,BT36 7,+44 28 9080 8200,54.6713054,-5.913104,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10461
+462,Novaderm,Rishworth Street 20,Wakefield,West Yorkshire,WF2 9,,53.6851773,-1.5015507,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10462
+463,Nutgrove Villa Surgery,nan nan,Liverpool,Merseyside,L36 7,,53.410276,-2.8413087,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10463
+464,Oakley Health Centre,nan nan,Dunfermline,Fife,KY12 9,,56.0856258,-3.5677562,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10464
+465,Oaks Park Medical Centre,nan nan,London,London,SE20 7,,51.4131762,-0.0636326,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10465
+466,Old School Surgery,Station Road 54,Carrickfergus,County Antrim,BT38 8,+4428 9086 4455,54.6935387,-5.8654744,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10466
+467,Oldfield Surgery,Upper Oldfield Park 45,Bath,Avon,BA1 2,,51.3764398,-2.3743373,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10467
+468,Olton Foot and Sports Injury Clinic,Warwick Road 153,Solihull,West Midlands,B91 3,,52.4386394,-1.8066717,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10468
+469,One Life Centre,Park Road nan,Hartlepool,Cleveland,TS24 8,,54.6824374,-1.2151451,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10469
+470,One Recovery Buckinghamshire,nan nan,Aylesbury,Buckinghamshire,HP20 2,,51.811315,-0.807763,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10470
+471,One-to-One Centre,Brenkley Avenue nan,Newcastle upon Tyne,Tyne and Wear,NE27 0,+44 191 297 0441,55.0328377,-1.5065293,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10471
+472,Optimax Laser Clinic,nan nan,Bristol,Avon,BS1 6,,51.4538178,-2.5962126,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10472
+473,Optimise Neurotherapy Centre,Main Street nan,Ryton,Tyne and Wear,NE40 4,+44 191 413 4442,54.9670508,-1.7864607,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10473
+474,Orient House Medical Centre,nan nan,Bolton,Lancashire,BL1 1,,53.5689147,-2.4606949,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10474
+475,Osborn Centre,nan nan,Fareham,Hampshire,PO16 7,,50.8543017,-1.1761231,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10475
+476,Osteopaths,Wells Road 253,Bristol,Avon,BS4 2,,51.4375252,-2.5706798,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10476
+477,Outwoods Medical Centre,Beaumont Road 4,Loughborough,Leicestershire,LE11 3,,52.7579521,-1.2052815,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10477
+478,Oxford Road Medical Centre,Oxford Road nan,Burnley,Lancashire,BB11 1,,53.7869141,-2.2352894,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10478
+479,Oxford Street Therapy Cente,Oxford Street 18,Wellingborough,Northamptonshire,NN8 4,+44 1933 224454,52.3004685,-0.6976473,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10479
+480,Oxshott Medical Practice,Holtwood Road nan,Leatherhead,Surrey,KT22 0,+44 1372 844000,51.3322544,-0.3627207,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10480
+481,PAM Clinic,London Road 24,Southampton,Hampshire,SO15 2,,50.911236,-1.4040255,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10481
+482,PJ Care,Sherwood Drive 153,Milton Keynes,Buckinghamshire,MK3 7,,52.0010232,-0.7396876,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10482
+483,PSJ Physiotheraphy & Sports Injury Clinic,Midland Road 86,Wellingborough,Northamptonshire,NN8 4,+44 1933 426188,52.3011497,-0.6843055,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10483
+484,Park House Health and Social Care Centre,Burton Road 61,Nottingham,Nottinghamshire,NG4 1,+44 115 940 4333,52.9687495,-1.0825394,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10484
+485,Park House Medical Centre,nan nan,Prescot,Merseyside,L34 6,,53.4256939,-2.8052521,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10485
+486,Park Medical Centre,nan nan,Leek,Staffordshire,ST13 6,,53.1071748,-2.0206234,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10486
+487,Parkgrove Medical Centre,Parkgrove Terrace 22B,Edinburgh,Midlothian,EH4 7,+44 131 312 6600,55.9597815,-3.2881159,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10487
+488,Parsons Green Health Centre,nan nan,London,London,SW6 5,,51.4743556,-0.2001357,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10488
+489,Parsons Heath Medical Practice,nan nan,Colchester,Essex,CO2 7,,51.8984537,0.9378334,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10489
+490,Patchway Clinic,nan nan,Bristol,Avon,BS34 6,,51.5312807,-2.5761962,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10490
+491,Paul Manning Footcare,Regent Street 58,Rugby,Warwickshire,CV22 5,,52.3748066,-1.2598429,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10491
+492,Penistone Health Centre,nan nan,Sheffield,South Yorkshire,S36 6,,53.5258782,-1.626305,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10492
+493,Penny Porter,Dragonswell Road 18A,Bristol,Avon,BS10 7,,51.5057741,-2.6186312,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10493
+494,Pennywell All Care Centre,nan nan,Edinburgh,Midlothian,EH4 7,,55.9723025,-3.253983,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10494
+495,Penrhyn Surgery,Penrhyn Avenue 2A,London,London,E17 3,,51.5970653,-0.0236479,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10495
+496,Peterculter Medical Practice,Coronation Road nan,Peterculter,Aberdeenshire,AB14 0,+44 1224 733535,57.0987135,-2.2575494,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10496
+497,Petherton Resource Centre,nan nan,Bristol,Avon,BS14 9,,51.4208062,-2.5624012,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10497
+498,Physio-Solutions,Baron Street 23,London,London,N1 9,,51.5331284,-0.1095659,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10498
+499,Physiotherapy Clinic,Crouch Street 97,Colchester,Essex,CO2 7,,51.8878406,0.8910198,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10499
+500,Pike View Medical Centre,nan nan,Bolton,Lancashire,BL6 7,,53.6013392,-2.5478906,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10500
+501,Pill Clinic,nan nan,Bristol,Avon,BS20 0,,51.4806501,-2.6874533,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10501
+502,Pinchin Street Health Centre,Pinchin Street 1a,London,London,E1 4,,51.5115597,-0.0641898,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10502
+503,Pine Clinic,nan nan,Rugby,Warwickshire,CV22 5,,52.3648854,-1.2593599,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10503
+504,Pinn Medical Centre,nan nan,Pinner,Middlesex,HA5 5,,51.5958084,-0.3809569,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10504
+505,Plymstock Clinic,nan nan,Plymouth,Devon,PL9 9,,50.3599753,-4.0878315,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10505
+506,Podiatry Clinic,nan nan,Northampton,Northamptonshire,NN1 5,,52.2357131,-0.8797136,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10506
+507,Podiatry and Osteopathy,nan nan,Wirral,Merseyside,CH46 7,,53.399735,-3.1105536,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10507
+508,Poplars Medical Centre,nan nan,Manchester,Lancashire,M27 4,,53.5108676,-2.3417474,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10508
+509,Portglenone Health Centre,nan nan,Ballymena,County Antrim,BT44 8,,54.8740693,-6.4742542,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10509
+510,Portishead Medical Group,nan nan,Bristol,Avon,BS20 6,,51.4831466,-2.7659516,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10510
+511,Portland Chiropractic Clinic,Portland Road 11,Walsall,West Midlands,WS9 8,,52.6027477,-1.9181953,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10511
+512,Possilpark Health and Care Centre,Saracen Street 99,Glasgow,Lanarkshire,G22 5,,55.881464,-4.254519,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10512
+513,Poundbury Clinic,nan nan,Dorchester,Dorset,DT1 3,,50.7110002,-2.4573923,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10513
+514,Precision Chiropractic,Bartlett Street 3,Caerphilly,Mid Glamorgan,CF83 1,,51.5725267,-3.2195934,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10514
+515,Premiere Physio,Church Street 46,Runcorn,Cheshire,WA7 1,,53.3428263,-2.7333431,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10515
+516,Prestatyn Clinic,nan nan,Prestatyn,Clwyd,LL19 7,,53.3335552,-3.4046041,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10516
+517,Prestbury Medical Centre,Macclesfield Road 5,Macclesfield,Cheshire,SK10 4,+44 1625 827319,53.2881183,-2.1512856,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10517
+518,Prime Endoscopy Bristol,nan nan,Bristol,Avon,BS1 6,,51.4499372,-2.6028963,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10518
+519,Priory Medical Centre,Cape Road nan,Warwick,Warwickshire,CV34 4,,52.285109,-1.5889751,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10519
+520,Proclinics,Byron Place 7,Bristol,Avon,BS1 6,,51.4559559,-2.6076791,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10520
+521,Pure Harmony Clinic,Regent Street 56,Rugby,Warwickshire,CV22 5,,52.3747831,-1.2599187,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10521
+522,Pure Sports Medicine,nan nan,London,London,EC2M 6,,51.5143668,-0.0850596,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10522
+523,Purfleet Care Centre,nan nan,Purfleet,Essex,RM19 1,,51.4862702,0.2353061,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10523
+524,Q Sports Physio,Sandycombe Road 283,Richmond,Surrey,TW9 3,+44 20 8287 1962,51.474427,-0.2864535,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10524
+525,QClinics,Oakfield Road 68,Bristol,Avon,BS8 3,,51.4615442,-2.6093792,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10525
+526,Queens Park Health Centre,Dart Street nan,London,London,W10 5,,51.5305148,-0.2078956,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10526
+527,Raasay Clinic,School Park (Pairce Na Sgoile) 1,Kyle,Ross-Shire,IV40 8,,57.3480934,-6.0716547,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10527
+528,Radcliffe Medical Centre,nan nan,Manchester,Lancashire,M26 1,,53.5606363,-2.323673,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10528
+529,Radiance Wellbeing,New Bond Street Place 2,Bath,Avon,BA1 2,,51.3829135,-2.3602898,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10529
+530,Raj Medical Centre,nan nan,Grimsby,South Humberside,DN34 4,,53.5507952,-0.1135602,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10530
+531,Rathmore Clinic,Main Street 79,Enniskillen,County Fermanagh,BT93 3,,54.480322,-8.0891894,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10531
+532,Reco,Saint Michael's Hill 118,Bristol,Avon,BS2 8,,51.4601496,-2.6010826,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10532
+533,Rectory Lane Health Centre,nan nan,Loughton,Essex,IG10 1,,51.6491847,0.0780704,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10533
+534,Red Cross,North Gyle Terrace 69,Edinburgh,Midlothian,EH12 7,,55.9413985,-3.3128644,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10534
+535,Red Oak Children and Adolescent Mental Health Unit,Piccadilly nan,Lancaster,Lancashire,LA1 1,,54.029057,-2.7995101,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10535
+536,Redburn Clinic,Redburn Heights nan,Ballynahinch,County Down,BT24 8,,54.4079573,-5.8949888,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10536
+537,Redwell Medical Centre,Turner Road 1,Wellingborough,Northamptonshire,NN8 4,,52.3147863,-0.7011983,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10537
+538,Rhuddlan Children's Centre,nan nan,Rhyl,Clwyd,LL18 2,,53.2927818,-3.4668537,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10538
+539,Richmond Borough Mind,Hampton Road 32,Twickenham,Middlesex,TW1 3,,51.4420552,-0.3442145,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10539
+540,Richmond Park Clinic,Deanhill Road 2,London,London,SW14 8,,51.4641417,-0.2745294,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10540
+541,Richmond Physiotherapy,nan nan,Richmond,Surrey,TW9 1,+44 20 8332 1132,51.4592983,-0.3065072,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10541
+542,Ridgeway Practice,Mudge Way nan,Plymouth,Devon,PL7 2,,50.3859911,-4.0527257,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10542
+543,Ringwood Health Clinic,nan nan,Ringwood,Hampshire,BH24 1,,50.846543,-1.7907544,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10543
+544,Riverside Mediclinic,nan nan,Lymington,Hampshire,SO41 9,,50.7590088,-1.5378125,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10544
+545,Riverside Surgery,Balfour 41-42,Tamworth,Staffordshire,B79 7,+44 1827 66676,52.6328949,-1.6994281,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10545
+546,Riverside Wellbeing,Market Street 1,High Peak,Derbyshire,SK23 7,,53.3289245,-1.9837479,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10546
+547,Roath Clinic,nan nan,Cardiff,South Glamorgan,CF24 3,,51.4934267,-3.1615923,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10547
+548,Ronald McDonald House,St Marys Row nan,Birmingham,West Midlands,B3 3,,52.4857162,-1.8965651,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10548
+549,Rosamund Street Medical Centre,Rosamund Street nan,Salford,Lancashire,M50 2,,53.4707464,-2.3029785,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10549
+550,Roseneath Dental Practice,Mount Ararat Road nan,Richmond,Surrey,TW9 1,,51.4604919,-0.3004754,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10550
+551,Rosewell Clinic,nan nan,Lochgelly,Fife,KY5 8,,56.1575602,-3.3226842,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10551
+552,Ross Road Health Centre,nan nan,Hereford,Herefordshire,HR4 0,,52.0467219,-2.7214061,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10552
+553,Rossendale Primary Care Centre,nan nan,Rossendale,Lancashire,BB4 7,,53.7005018,-2.281084,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10553
+554,Rotherham Road Medical Centre,nan nan,Barnsley,South Yorkshire,S70 2,,53.5723158,-1.4682318,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10554
+555,Roundhouse Medical Centre,nan nan,Barnsley,South Yorkshire,S70 2,,53.5791395,-1.481194,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10555
+556,Roundwood,nan nan,Barnsley,South Yorkshire,S70 2,,53.5520266,-1.4945576,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10556
+557,Royal Berkshire Bracknell Clinic,nan nan,Bracknell,Berkshire,RG42 1,,51.4137778,-0.7329064,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10557
+558,Rugby Chiropractic Clinic,Regent Place 44,Rugby,Warwickshire,CV22 5,,52.3756364,-1.2611778,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10558
+559,Rugby Health & Wellbeing Centre,nan nan,Rugby,Warwickshire,CV22 5,,52.3778041,-1.2541097,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10559
+560,Runcorn Chiropody Clinic,Regent Street 14,Runcorn,Cheshire,WA7 1,,53.3424042,-2.7354115,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10560
+561,Ruston Street Clinic,Ruston Street nan,London,London,E3 2,,51.5363969,-0.0267509,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10561
+562,Ryde Health & Wellbeing Centre,Pellhurst Road nan,Ryde,Isle of Wight,PO33 3,,50.7211621,-1.1705284,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10562
+563,Sanatorium,nan nan,Bristol,Avon,BS8 3,,51.4611316,-2.6178168,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10563
+564,Sandwell Adult Services Health,nan nan,Smethwick,West Midlands,B66 3,,52.4924602,-1.9681971,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10564
+565,Sarah Holmes Health,Wellington Hill West 197,Bristol,Avon,BS9 4,,51.4923577,-2.6026823,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10565
+566,Saxonbury House Medical Group,nan nan,Crowborough,East Sussex,TN6 2,,51.056413,0.1615576,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10566
+567,Scorton Medical Centre,nan nan,Richmond,North Yorkshire,DL10 6,,54.398538,-1.6157407,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10567
+568,Scrabo Children's Clinic,nan nan,Newtownards,County Down,BT23 4,,54.593731,-5.7038897,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10568
+569,Seddlescombe Road Surgery,Sedlescombe Road South 8,St Leonards on Sea,East Sussex,TN38 0,+44 1424 720574,50.8674,0.5548371,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10569
+570,Shankill Wellbeing & Treatment Centre,Shankill Road 83,Belfast,County Antrim,BT2 7,,54.60424,-5.9441208,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10570
+571,Sheen Physiotherapy and Sports Injuries Clinic,Sheen Lane 151,London,London,SW14 8,+44 20 8392 9264,51.4639274,-0.266935,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10571
+572,Sheerwater Health Centre,nan nan,Woking,Surrey,GU21 5,,51.3340548,-0.5312027,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10572
+573,Sheffield GP Collaborative (Out of Hours Service),nan nan,Sheffield,South Yorkshire,S1 2,,53.4090801,-1.4565027,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10573
+574,Shieldhill Clinic,nan nan,Falkirk,Stirlingshire,FK1 2,,55.9706303,-3.7748579,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10574
+575,Shipston Therapy Centre,nan nan,Shipston on Stour,Warwickshire,CV36 4,,52.0635,-1.6238784,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10575
+576,Shirley Clinic,nan nan,Solihull,West Midlands,B90 3,,52.4086588,-1.8260915,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10576
+577,Shirley Health Centre,nan nan,Southampton,Hampshire,SO15 2,,50.9167345,-1.4291454,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10577
+578,Shoreham Health Centre,Pond Road nan,Shoreham-by-Sea,West Sussex,BN43 5,,50.8340074,-0.2743532,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10578
+579,Shuropody,Green Street nan,Bath,Avon,BA1 2,,51.3832682,-2.3605949,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10579
+580,Sick Bay,nan nan,,,,,51.0363741,-3.1589811,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10580
+581,Sickle Cell & Thalassaemia Centre,Stapleton Road nan,Bristol,Avon,BS1 6,,51.4660451,-2.56931,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10581
+582,Silsden health centre,nan nan,Keighley,West Yorkshire,BD20 0,,53.9119124,-1.9445269,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10582
+583,Silverthorne Centre,nan nan,London,London,E4 9,,51.6199669,-0.0007332,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10583
+584,Simon Lee,Whiteladies Gate 3,Bristol,Avon,BS6 6,,51.4644766,-2.6094117,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10584
+585,Simon Robinson Osteopath,Nottingham Road 652,Derby,Derbyshire,DE1 1,,52.9201561,-1.4285638,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10585
+586,Sir Ludwig Guttmann Health and Wellbeing Centre,Liberty Bridge Road 40,London,London,E15 4,,51.5489436,-0.0054669,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10586
+587,Sk:n Clinic Mapperley Park,Mansfield Road 395,Nottingham,Nottinghamshire,NG5 2,,52.9749894,-1.1510913,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10587
+588,Skimped Hill Health Centre,nan nan,Bracknell,Berkshire,RG42 1,,51.4173599,-0.7526857,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10588
+589,"Smallwood House, Sexual Health Clinic",nan nan,Redditch,Worcestershire,B97 4,,52.3080111,-1.9411605,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10589
+590,Sneinton Health Centre,nan nan,Nottingham,Nottinghamshire,NG2 4,,52.951446,-1.1343312,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10590
+591,"Social Work Services, Crossmyloof Resource Centre",nan nan,Glasgow,Lanarkshire,G41 4,,55.8343001,-4.2798994,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10591
+592,Sole To Soul,nan nan,Bristol,Avon,BS16 3,,51.4815502,-2.5215468,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10592
+593,South Bristol Dialysis Unit,nan nan,Bristol,Avon,BS1 6,,51.4288636,-2.5945807,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10593
+594,South Ockendon Health Centre/Bluebells Medical Centre,nan nan,South Ockendon,Essex,RM15 5,,51.5083316,0.2825565,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10594
+595,South Westminster Centre for Health,nan nan,London,London,SW1P 3,,51.4941864,-0.1341634,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10595
+596,Southall Medical Centre,nan nan,Southall,Middlesex,UB1 1,,51.5196729,-0.3753702,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10596
+597,Southmead Health Centre,nan nan,Bristol,Avon,BS1 6,,51.5047023,-2.6021585,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10597
+598,Southsea Chiropractic Clinic,Marmion Road 86,Southsea,Hampshire,PO5 2,,50.7853325,-1.0842772,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10598
+599,Southville Clnic,nan nan,Bristol,Avon,BS1 6,,51.4454754,-2.5997778,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10599
+600,Southway Clinic,nan nan,Plymouth,Devon,PL4 8,,50.4294333,-4.1266158,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10600
+601,Southwell Medical Centre,nan nan,Southwell,Nottinghamshire,NG25 0,,53.0808396,-0.9568566,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10601
+602,Sparkhill Dialysis Centre,nan nan,Birmingham,West Midlands,B5 7,,52.4577779,-1.8748722,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10602
+603,Sparkhill Primary Care Centre,Stratford Road nan,Birmingham,West Midlands,B11 4,,52.4445487,-1.8588701,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10603
+604,Spinal Injuries Association,nan nan,Milton Keynes,Buckinghamshire,MK6 2,,52.0326343,-0.7540113,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10604
+605,Spitalfields Health Centre,Brick Lane 9-11,London,London,E1 4,+4420 7247 8251,51.517719,-0.0710942,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10605
+606,Springfield Green Clinic,Springfield Green nan,Chelmsford,Essex,CM2 6,,51.7432831,0.4899962,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10606
+607,Springfield Road Helth Centre,nan nan,Leicester,Leicestershire,LE1 4,,52.6178743,-1.1119705,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10607
+608,St Albans Medical Centre,London Road 11,St Albans,Hertfordshire,AL1 3,+44 1727 812925,51.7507717,-0.3379611,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10608
+609,St Albans Surgery,Urswick Road nan,Dagenham,Essex,RM10 8,,51.5369206,0.1335101,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10609
+610,St Andrew's Medical Centre,nan nan,Manchester,Lancashire,M30 0,,53.4851696,-2.3413273,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10610
+611,St Giles CMHT,nan nan,London,London,SE5 7,,51.4743444,-0.0836412,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10611
+612,St Ives Clinic,nan nan,St Ives,Cambridgeshire,PE27 3,,52.3276183,-0.0774489,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10612
+613,St Luke's Medical Consulting,Burton Road 572,Derby,Derbyshire,DE1 1,,52.905983,-1.5062376,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10613
+614,Standish Medical Practice,High Street 49,Wigan,Lancashire,WN6 0,+44 1257421909,53.5851667,-2.6620188,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10614
+615,Stanhope Parade Medical Centre,Gordon Street nan,South Shields,Tyne and Wear,NE33 1,+44 191 283 2525,54.9853113,-1.4320438,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10615
+616,Stanley Corner Medical Centre,Stanley Close 1-3,Wembley,Middlesex,HA9 7,+44 20 8902 3887,51.5442554,-0.2966922,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10616
+617,Station Medical Centre,nan nan,Lossiemouth,Morayshire,IV31 6,,57.7111561,-3.3070263,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10617
+618,Stockland Green Primary Care Centre,Reservoir Road nan,Birmingham,West Midlands,B23 6,,52.5240609,-1.8577165,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10618
+619,Stokesley Medical Centre,nan nan,Middlesbrough,Cleveland,TS9 5,,54.471214,-1.1949975,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10619
+620,Stonebridge Centre,Carlton Road nan,Nottingham,Nottinghamshire,NG3 2,,52.9578147,-1.1295009,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10620
+621,Stormont Health Clinic,Stormont Road 5-11,London,London,SW11 2,,51.4649632,-0.155982,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10621
+622,Strabane Health Centre,Main Street nan,Strabane,County Tyrone,BT82 8,028 71384114,54.8245295,-7.4613307,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10622
+623,Strand Medical Centre,nan nan,Bootle,Merseyside,L20 3,,53.4539429,-2.99308,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10623
+624,Stratford Village Surgery,Romford Road 50C,London,London,E15 4,,51.542204,0.0069105,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10624
+625,Stroud Green Clinic,Upper Tollington Park 12-14,London,London,N4 2,,51.5690201,-0.1098734,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10625
+626,Sudbury Primary Care Centre,nan nan,Wembley,Middlesex,HA9 7,,51.5587202,-0.3169395,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10626
+627,Summerlee Medical Centre,Summerlee Road nan,Wellingborough,Northamptonshire,NN9 5,,52.3372653,-0.6533827,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10627
+628,Sunbury Health Centre,Green Street nan,Sunbury on Thames,Middlesex,TW16 6,+44 1932 713399,51.4129924,-0.4190315,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10628
+629,Sunnyside Clinic,Burnley Road 542,Rossendale,Lancashire,BB4 8,,53.7234987,-2.2881335,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10629
+630,Sunshine House,nan nan,London,London,SE5 7,,51.4739068,-0.0833908,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10630
+631,Supplefeet,nan nan,Enfield,Middlesex,EN2 6,,51.6516953,-0.0795717,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10631
+632,Sussex Medical Centre,nan nan,Hove,East Sussex,BN3 7,,50.8309484,-0.1940597,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10632
+633,Swanland Physiotherapy Clinic,West End 14a,North Ferriby,North Humberside,HU14 3,,53.738036,-0.4927234,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10633
+634,Swindon Health Centre,Islington Street 1,Swindon,Wiltshire,SN1 1,,51.5620524,-1.7815329,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10634
+635,Talbot Green Clinic,nan nan,Pontyclun,Mid Glamorgan,CF72 8,,51.5363002,-3.3827838,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10635
+636,Tang Hall Clinic,Fifth Avenue nan,York,North Yorkshire,YO23 1,,53.9603523,-1.0495656,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10636
+637,Tebay Surgery,nan nan,Penrith,Cumbria,CA10 3,,54.4344055,-2.5918369,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10637
+638,Teifi Foot Clinic,Priory Street 11,Cardigan,Dyfed,SA43 1,+44 1239 621343,52.0835996,-4.6590375,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10638
+639,Tetbury Osteopaths,nan nan,Tetbury,Gloucestershire,GL8 8,,51.6398263,-2.1616326,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10639
+640,Tettenhall Road Chiropractic Clinic,Tettenhall Road 84,Wolverhampton,West Midlands,WV1 1,,52.5901169,-2.1491791,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10640
+641,Thames View Health Centre,nan nan,Barking,Essex,IG11 8,,51.5280997,0.1038123,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10641
+642,The Arches Therapy Rooms,Cheltenham Road 198,Bristol,Avon,BS6 5,,51.4684898,-2.5919531,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10642
+643,The Avenue Surgery,The Avenue 1,Brighton,East Sussex,BN2 9,+44 1273604220,50.8455848,-0.1137972,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10643
+644,The Barfield Road Clinic,Barfield Road nan,Colchester,Essex,CO5 8,,51.7785534,0.9138459,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10644
+645,The Barkantine,Westferry Road 121,London,London,E14 3,,51.4983383,-0.0257738,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10645
+646,The Beehive,High Street 33a,Bristol,Avon,BS31 1,,51.4163379,-2.4984379,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10646
+647,The Bermuda and Marlowe Practice,Shakespeare Road nan,Basingstoke,Hampshire,RG21 4,,51.2802023,-1.0843119,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10647
+648,The Blakesley Centre,Blakesley Road 102,Birmingham,West Midlands,B25 8,,52.4733346,-1.8111318,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10648
+649,The Bristol Talking Therapy Rooms,Redcliffe Parade East 3,Bristol,Avon,BS1 6,,51.4482313,-2.5915289,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10649
+650,The Brook Health Centre,nan nan,Crowborough,East Sussex,TN6 2,,51.0496763,0.1850511,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10650
+651,The Brundall Clinic,nan nan,Norwich,Norfolk,NR13 5,,52.624393,1.4327018,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10651
+652,The Burngreave Surgery - Cornerstone Building,nan nan,Sheffield,South Yorkshire,S1 2,,53.3926303,-1.4586122,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10652
+653,The Carlton Clinic,Balcombe Road 147,Horley,Surrey,RH6 7,,51.1672825,-0.1543617,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10653
+654,The Chandos Clinic,Chandos Road 21,Bristol,Avon,BS6 7,,51.4679144,-2.6061463,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10654
+655,The Child and Family Practice,Bloomsbury Street 60,London,London,WC1A 2,,51.5189863,-0.1283929,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10655
+656,The Chinese Herbal Shop,nan nan,Weston-super-Mare,Avon,BS23 1,,51.3494596,-2.9759442,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10656
+657,The Chiropractic Centre,Alma Vale Road 33,Bristol,Avon,BS8 3,,51.4624603,-2.6140491,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10657
+658,The Churchill Centre,nan nan,Aylesford,Kent,ME20 6,,51.2957028,0.4805421,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10658
+659,The Clacton Ostopath Clinic,nan nan,Clacton-on-Sea,Essex,CO15 3,,51.7916393,1.1582777,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10659
+660,The Clifton Practice,Whiteladies Road 8-10,Bristol,Avon,BS8 1,,51.458975,-2.6091858,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10660
+661,The Cloisters,Lower Leam Street nan,Leamington Spa,Warwickshire,CV32 4,,52.2866592,-1.5229238,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10661
+662,The Coast Resource Centre,nan nan,Weston-super-Mare,Avon,BS22 6,,51.3565727,-2.9098775,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10662
+663,The David Anderson Building,nan nan,Aberdeen,Aberdeenshire,AB11 6,,57.1551756,-2.1406825,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10663
+664,The Devereux Centre,Barton Road nan,Tewkesbury,Gloucestershire,GL20 5,,51.9924351,-2.1538806,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10664
+665,The Drayton Surgery,nan nan,Portsmouth,Hampshire,PO6 1,,50.8463856,-1.0449031,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10665
+666,The Edinburgh Clinic,nan nan,Edinburgh,Midlothian,EH11 3,,55.929856,-3.2267148,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10666
+667,The Edinburgh Clinic,nan nan,Edinburgh,Midlothian,EH10 4,,55.9297606,-3.2257061,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10667
+668,The Family Practice,Gloucester Road 116,Bristol,Avon,BS7 8,,51.4759922,-2.591091,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10668
+669,The Ferguson Centre,Low Hall Lane 26,London,London,E17 3,,51.577792,-0.0313739,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10669
+670,The Firs Medical Centre,Stephenson Road 26,London,London,E17 3,,51.5801388,-0.0351877,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10670
+671,The Fishponds Practice,Fishponds Road 834,Bristol,Avon,BS16 3,,51.4814873,-2.5265444,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10671
+672,The Fold,Venice Avenue nan,Burnley,Lancashire,BB11 1,,53.7815808,-2.2662874,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10672
+673,The Foot Clinic,nan nan,,,,,51.5107526,-2.4525041,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10673
+674,The Foot Health Centre,Cannon Street 19,Bristol,Avon,BS1 6,,51.4413301,-2.6015208,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10674
+675,The Forest Surgery,Macdonald Road 4,London,London,E17 3,,51.5948084,-0.0051743,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10675
+676,The Forge Clinic,nan nan,Richmond,Surrey,TW9 1,,51.4598979,-0.3040112,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10676
+677,The Freya Centre,Anglesea Road 72-74,Southampton,Hampshire,SO15 2,,50.926168,-1.433831,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10677
+678,The Great Health Clinic,St. Paul's Road Unit 2,London,London,N1 6,,51.5469702,-0.0918867,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10678
+679,The Hampton Clinic,Whiteladies Road 177,Bristol,Avon,BS6 6,,51.4690966,-2.6139807,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10679
+680,The Health Centre,nan nan,Bradford on Avon,Wiltshire,BA15 1,,51.3452001,-2.2528232,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10680
+681,The Health Centre,nan nan,Cinderford,Gloucestershire,GL14 2,+44 1594 598000,51.8245765,-2.4969921,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10681
+682,The Healthy Heart Centre,nan nan,London,London,NW1 1,0800 917 0976,51.5460273,-0.141915,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10682
+683,The Heathcote Street Clinic,Heathcoat Street 31-33,Nottingham,Nottinghamshire,NG1 7,,52.9548826,-1.1433031,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10683
+684,The Holborn Clinic,Gray's Inn Road 97,London,London,WC1N 1,,51.5233116,-0.1149479,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10684
+685,The House Clinics,Redland Road 118,Bristol,Avon,BS6 7,,51.4699379,-2.6037583,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10685
+686,The Joint Back Pain Surgery,Gloucester Road 83,Bristol,Avon,BS34 6,,51.5289626,-2.5706385,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10686
+687,The Junction Health Centre,nan nan,London,London,SW11 2,,51.4649108,-0.1721539,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10687
+688,The Kittywitches Clinic,nan nan,Great Yarmouth,Norfolk,NR29 4,,52.6057837,1.728297,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10688
+689,The Knockbreda Centre,nan nan,Belfast,County Antrim,BT2 7,,54.5631221,-5.9063589,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10689
+690,The Lansdown Clinic,High Street nan,Stroud,Gloucestershire,GL5 4,,51.7458958,-2.2169745,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10690
+691,The Linden Centre,nan nan,Chelmsford,Essex,CM1 7,,51.7772332,0.4609529,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10691
+692,The Linden Centre,nan nan,Chelmsford,Essex,CM1 7,,51.7770101,0.460072,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10692
+693,The Medical,nan nan,Bristol,Avon,BS1 6,,51.450635,-2.5819393,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10693
+694,The Medical,Broad Street 79,Bristol,Avon,BS37 6,,51.5385048,-2.3919188,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10694
+695,The Medical,nan nan,Bristol,Avon,BS3 1,,51.4408709,-2.6038581,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10695
+696,The Midland Road Clinic,Midland Road 56,Wellingborough,Northamptonshire,NN8 4,+44 1933 222418,52.3011729,-0.686569,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10696
+697,The Mill Health Centre (BBC set),nan nan,Birmingham,West Midlands,B29 6,,52.4333951,-1.9480076,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10697
+698,The Milne Clinic,nan nan,Aberdeen,Aberdeenshire,AB11 6,,57.1348082,-2.1175036,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10698
+699,The Nelson Health Centre,Kingston Road nan,London,London,SW20 8,,51.4103866,-0.2104712,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10699
+700,The Nightingale Practice,Kenninghall Road 10,London,London,E5 9,,51.5583024,-0.0618673,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10700
+701,The Orchard Therapy Centre,Town Street 155a,Leeds,West Yorkshire,LS18 4,+44 113 281 9493,53.8409807,-1.6366495,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10701
+702,The Paradise Road Practice,Paradise Road 37,Richmond,Surrey,TW9 1,+44 20 8940 2423,51.4602294,-0.3013636,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10702
+703,The Park Surgery,Tetbury Road nan,Cirencester,Gloucestershire,GL7 1,+44 1285 654733,51.7137178,-1.975502,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10703
+704,The Physical Therapy Clinic,nan nan,Clevedon,Avon,BS21 6,,51.443684,-2.859271,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10704
+705,The Pod,Lamb Street 1A,Coventry,West Midlands,CV1 2,+44 24 76786680,52.4116574,-1.5134936,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10705
+706,The Practice Rooms,High Street 57-59,Bristol,Avon,BS1 6,,51.4944838,-2.6184004,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10706
+707,The Practice Rooms,Cotham Hill 39,Bristol,Avon,BS6 6,,51.4636006,-2.6079326,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10707
+708,The Practice Rooms,Saint Paul's Road 14,Bristol,Avon,BS8 3,,51.4596111,-2.6101199,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10708
+709,The Practice Rooms,nan nan,Bristol,Avon,BS3 1,,51.4410194,-2.6112029,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10709
+710,The Practice Rooms,Regent Street 24,Bristol,Avon,BS1 6,,51.4542436,-2.6183106,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10710
+711,The Private Clinic of Harley Street,Whiteladies Road nan,Bristol,Avon,BS1 6,,51.466588,-2.6117595,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10711
+712,The Pure Practice,St James Parade 20,Bath,Avon,BA1 2,,51.378968,-2.3607956,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10712
+713,The Rosewood Medical Centre,Astra Close 30,Hornchurch,Essex,RM11 3,,51.5426011,0.2018581,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10713
+714,The Rêve Pavilion,Guildford Park Road 2a,Guildford,Surrey,GU1 4,,51.2373529,-0.5826417,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10714
+715,The Sally Varney Clinic,Redland Road 110,Bristol,Avon,BS6 7,,51.4697789,-2.6029302,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10715
+716,The Sides Medical Centre,nan nan,Manchester,Lancashire,M27 4,,53.5048227,-2.354861,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10716
+717,The Source,nan nan,London,London,SE12 0,,51.4473132,0.0266775,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10717
+718,The Speedwell Centre,nan nan,Bristol,Avon,BS5 7,,51.468711,-2.5332735,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10718
+719,The Surgery,nan nan,Hornchurch,Essex,RM11 3,,51.555755,0.2198025,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10719
+720,The Surgery @ Wheatbridge,nan nan,Chesterfield,Derbyshire,S41 7,,53.2348873,-1.440207,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10720
+721,"The Surgery, Dr T Rahman and Dr C Y Tsoi",South End Road 482,Hornchurch,Essex,RM12 5,+441708476036,51.547273,0.204,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10721
+722,The Sussex Beacon,St James's Street 130,Brighton,East Sussex,BN2 9,,50.8210226,-0.1362939,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10722
+723,The Travel Clinic,Hills Road 41,Cambridge,Cambridgeshire,CB3 9,,52.1965648,0.1310411,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10723
+724,The University College Of Osteopathy Clinic,Southwark Bridge Road 98 - 118,London,London,SE1 9,+44 20 70895360,51.5011912,-0.0990681,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10724
+725,The Western Eye Hospital,Marylebone Road 153-173,London,London,NW1 4,,51.5207211,-0.1630181,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10725
+726,The Willows Medical Centre,Osbourne Drive nan,Bradford,West Yorkshire,BD13 2,,53.7691675,-1.849122,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10726
+727,The Willows Surgery,Lords Avenue nan,Salford,Lancashire,M6 5,,53.4855302,-2.3090384,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10727
+728,The Wolfson Centre,Mecklenburgh Square nan,London,London,WC1N 1,,51.5248833,-0.1192132,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10728
+729,The Worcestershire Oncology Centre,nan nan,Worcester,Worcestershire,WR1 2,,52.1911887,-2.1800424,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10729
+730,The foot + body mechanic,Gloucester Road 417,Bristol,Avon,BS7 0,,51.4845572,-2.5862313,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10730
+731,Therapies,nan nan,Northampton,Northamptonshire,NN4 6,,52.2033584,-0.8758451,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10731
+732,Thetford Healthy Living Centre,Croxton Road nan,Thetford,Norfolk,IP24 3,,52.4203934,0.7477043,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10732
+733,Thingwall Health Centre,nan nan,Wirral,Merseyside,CH49 2,,53.3591375,-3.0916099,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10733
+734,Thorn Road Clinic,nan nan,Runcorn,Cheshire,WA7 1,,53.3279772,-2.7183058,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10734
+735,Thurrock Health Centre,High Street 55-57,Grays,Essex,RM17 5,+44 1375 898700,51.4766587,0.3228953,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10735
+736,Tillicoultry Medical Practice,nan nan,Tillicoultry,Clackmannanshire,FK13 6,,56.1531663,-3.7469475,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10736
+737,Total Health Care,nan nan,Bolton,Lancashire,BL4 7,,53.5496766,-2.4057035,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10737
+738,Totton Dialysis Centre,nan nan,Southampton,Hampshire,SO40 3,,50.9208595,-1.488634,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10738
+739,Trehafod Child and Family Clinic,nan nan,Swansea,West Glamorgan,SA1 2,,51.6292878,-3.98534,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10739
+740,Trent Meadows Medical Practice,nan nan,Burton upon Trent,Staffordshire,DE14 3,,52.7868948,-1.6725625,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10740
+741,Trent PTS,Uttoxeter New Road 111,Derby,Derbyshire,DE1 1,,52.9195085,-1.4920653,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10741
+742,Trethomas Clinic,nan nan,Newport,Gwent,CF83 8,,51.5939804,-3.1807401,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10742
+743,Tweedmouth Clinic,nan nan,Berwick-upon-Tweed,Northumberland,TD15 1,,55.7601601,-2.011938,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10743
+744,Twickenham Health Care Podiatry/Chiropody,Heath Road 88,Twickenham,Middlesex,TW1 3,,51.4455292,-0.3341943,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10744
+745,Twinwoods Health Resource Centre,nan nan,Bedford,Bedfordshire,MK41 6,,52.1708309,-0.5060623,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10745
+746,Ulster Independent Clinic,Stranmillis Road 245,Belfast,County Antrim,BT2 7,,54.5705455,-5.9464208,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10746
+747,Ultralase,Maris Lane nan,Cambridge,Cambridgeshire,CB2 9,,52.1728558,0.1113852,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10747
+748,Uned Dydd Cemotherapi / Chemotherapy Day Unit,Dolgwili Road nan,Carmarthen,Dyfed,SA31 2,,51.8672807,-4.2857384,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10748
+749,University Medical Centre,Giles Lane nan,Canterbury,Kent,CT1 2,,51.2961683,1.0618334,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10749
+750,Urban Fringe Dispensary,Colston Street 58,Bristol,Avon,BS1 5,,51.4563532,-2.5974878,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10750
+751,Urmston Clinic,nan nan,Manchester,Lancashire,M41 9,,53.451412,-2.3649371,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10751
+752,Vale Drive Primary Care Centre,nan nan,Barnet,Hertfordshire,EN5 5,,51.6497295,-0.1952165,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10752
+753,Vale House Resource Centre,High Street nan,Winsford,Cheshire,CW7 1,+441606555100,53.1924265,-2.5300152,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10753
+754,Valetine Medical Centre,nan nan,Manchester,Lancashire,M9 4,,53.5158234,-2.2129088,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10754
+755,Valley Medical Centre,nan nan,Sheffield,South Yorkshire,S36 2,,53.4821005,-1.595097,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10755
+756,Vicarage Lane Health Centre,Vicarage Lane 10,London,London,E15 4,,51.542004,0.0093947,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10756
+757,Vittoria Healthcare,nan nan,Birkenhead,Merseyside,CH41 4,,53.3964855,-3.0304547,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10757
+758,Wakefield Chiropractic Clinic,Leeds Road 26,Wakefield,West Yorkshire,WF2 9,,53.6910802,-1.5050262,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10758
+759,Waldegrave Clinic,Waldegrave Road 82,Teddington,Middlesex,TW11 8,,51.4299611,-0.3361098,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10759
+760,Walsall Centre for Sexual Health,nan nan,Walsall,West Midlands,WS1 2,,52.5818943,-1.9945,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10760
+761,Walsall Dialysis Unit,nan nan,Walsall,West Midlands,WS1 2,,52.583142,-2.0017161,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10761
+762,Wantage Health Centre,nan nan,Wantage,Oxfordshire,OX12 7,,51.5986876,-1.4258323,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10762
+763,Warstones Health Centre,Pinfold Grove nan,Wolverhampton,West Midlands,WV1 1,,52.5688464,-2.1665119,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10763
+764,Waterloo Medical Centre,Waterloo Road 178,Blackpool,Lancashire,FY1 5,,53.7998785,-3.0425315,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10764
+765,Waters Green Medical Centre,Sunderland Street nan,Macclesfield,Cheshire,SK11 6,,53.2586452,-2.1234372,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10765
+766,Watling Medical Centre,nan nan,Edgware,Middlesex,HA8 7,,51.6032854,-0.2621996,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10766
+767,Well Life Physiotherapy and Massage,nan nan,Oldbury,West Midlands,B69 4,,52.5060231,-2.03732,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10767
+768,Wellingborough Physiotherapy,nan nan,Wellingborough,Northamptonshire,NN8 4,,52.3046954,-0.678209,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10768
+769,Wembley Centre for Health & Care,nan nan,Wembley,Middlesex,HA9 7,,51.5497426,-0.3064665,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10769
+770,West Byfleet Health Centre,nan nan,Woking,Surrey,GU21 4,,51.3381173,-0.5062955,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10770
+771,West End Medical Practice,Bendall Mews 6,London,London,NW1 4,,51.5218711,-0.165607,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10771
+772,West End Surgery,nan nan,Southampton,Hampshire,SO30 3,,50.9285358,-1.3277133,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10772
+773,West Heaton Residential Home,Buckland Filleigh nan,,,,,50.868597,-4.1609184,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10773
+774,Westbury Chiropractic Clinic,Westbury Mews 3,Bristol,Avon,BS1 6,,51.4910705,-2.6169167,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10774
+775,Wester Hailes Healthy Living Centre,Harvester's Way 30,Edinburgh,Midlothian,EH14 1,,55.9139856,-3.2846303,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10775
+776,Westgate Surgery,nan nan,Westgate on Sea,Kent,CT8 8,,51.3829694,1.3374574,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10776
+777,Westhampnett Clinic (Child Development Centre),nan nan,Chichester,West Sussex,PO19 1,,50.8422885,-0.7604104,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10777
+778,Westlands,Wheeler Street nan,Hull,North Humberside,HU1 2,,53.7421883,-0.3849833,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10778
+779,Westmoor Community Clinic Mayfield Surgery,nan nan,London,London,SW15 5,,51.44849,-0.2374269,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10779
+780,Westvale Clinic,nan nan,Liverpool,Merseyside,L32 1,,53.4813836,-2.9049869,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10780
+781,Whinmoor Surgery,nan nan,Leeds,West Yorkshire,LS14 1,,53.8371004,-1.4561489,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10781
+782,Whitall Street Clinic,nan nan,Birmingham,West Midlands,B3 3,,52.4854392,-1.8970691,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10782
+783,Whitechapel Health Shah Jalal Health Centre,Hessel Street nan,London,London,E1 4,,51.5135424,-0.062809,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10783
+784,Whitwell Health Centre,nan nan,Worksop,Nottinghamshire,S80 4,,53.2841838,-1.2064306,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10784
+785,Wigton Medical Practice,South End nan,Wigton,Cumbria,CA7 9,+44 16973 42254,54.8205019,-3.1588993,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10785
+786,Willesden Green Surgery,High Road 125,London,London,NW2 4,,51.5469068,-0.2304925,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10786
+787,William Budd Health Centre,nan nan,Bristol,Avon,BS1 6,,51.4281353,-2.5969773,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10787
+788,Willow,Bedminster Parade nan,Bristol,Avon,BS1 6,,51.4443471,-2.5936347,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10788
+789,Willow Chiropractic,Whiteladies Road nan,Bristol,Avon,BS1 6,,51.464135,-2.6098291,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10789
+790,Willow House,nan nan,Prescot,Merseyside,L35 2,,53.4156519,-2.7959699,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10790
+791,Wilmslow Health Centre,Chapel Lane nan,Wilmslow,Cheshire,SK9 1,,53.3225558,-2.2380497,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10791
+792,Windmill Hill Health Centre,Norton Hill nan,Runcorn,Cheshire,WA7 6,,53.3382404,-2.6713087,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10792
+793,Window on the Womb,nan nan,Bristol,Avon,BS3 1,,51.4335486,-2.6104488,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10793
+794,Wirral Child and Adolescent Mental Health Service,Pensby Road 281,Wirral,Merseyside,CH60 0,,53.3422905,-3.0943945,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10794
+795,Wongs Acupuncture Clinic,Cheltenham Road 206,Bristol,Avon,BS6 5,,51.4693156,-2.592904,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10795
+796,Wood Lane Medical Centre,Wood Lane 39,Hornchurch,Essex,RM12 5,,51.5445481,0.1963738,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10796
+797,Wood Street Health Centre,Linford Road 6,London,London,E17 3,,51.5879747,-0.0029553,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10797
+798,Worcester Walk-in Health Centre,nan nan,Worcester,Worcestershire,WR1 2,,52.1954413,-2.224059,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10798
+799,Worcestershire Breast Unit,nan nan,Worcester,Worcestershire,WR1 2,,52.1916054,-2.1849569,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10799
+800,Ynyswen Clinic,Ynyswen Road nan,Treorchy,Mid Glamorgan,CF42 6,,51.6662067,-3.5206144,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10800
+801,York House,nan nan,Stourport-on-Severn,Worcestershire,DY13 8,,52.3389778,-2.2797095,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10801
+802,anderson clinic,nan nan,Witney,Oxfordshire,OX28 5,,51.783618,-1.488253,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10802
+803,be-ing Therapy Centre,Vernon Street 15,Derby,Derbyshire,DE1 1,,52.9242532,-1.490242,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10803
+804,eternoclinics,nan nan,Wolverhampton,West Midlands,WV1 1,,52.5858317,-2.1263026,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10804
+805,pHskin Cosmetic Clinic,nan nan,Stoke-on-Trent,Staffordshire,ST1 5,+44 7791 983895,53.0206365,-2.1807586,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10805
+806,sk:n,Compton Road 2,Wolverhampton,West Midlands,WV1 1,,52.5857453,-2.1406957,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10806
+807,sneyd park osteopaths,nan 4,Bristol,Avon,BS9 1,,51.4726279,-2.6290869,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10807

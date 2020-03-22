@@ -1,0 +1,134 @@
+,name,address,city,state,zip,phone,LAT,LON,hasSpecialties,ADDICTION MEDICINE,ADVANCED HEART FAILURE AND TRANSPLANT CARDIOLOGY,ALLERGY/IMMUNOLOGY,ANESTHESIOLOGY,ANESTHESIOLOGY ASSISTANT,AUDIOLOGIST,CARDIAC ELECTROPHYSIOLOGY,CARDIAC SURGERY,CARDIOVASCULAR DISEASE (CARDIOLOGY),CERTIFIED NURSE MIDWIFE,CERTIFIED REGISTERED NURSE ANESTHETIST,CHIROPRACTIC,CLINICAL NURSE SPECIALIST,CLINICAL PSYCHOLOGIST,CLINICAL SOCIAL WORKER,COLORECTAL SURGERY (PROCTOLOGY),CRITICAL CARE (INTENSIVISTS),DENTIST,DERMATOLOGY,DIAGNOSTIC RADIOLOGY,EMERGENCY MEDICINE,ENDOCRINOLOGY,FAMILY PRACTICE,GASTROENTEROLOGY,GENERAL PRACTICE,GENERAL SURGERY,GERIATRIC MEDICINE,GERIATRIC PSYCHIATRY,GYNECOLOGICAL ONCOLOGY,HAND SURGERY,HEMATOLOGY,HEMATOLOGY/ONCOLOGY,HEMATOPOIETIC CELL TRANSPLANTATION AND CELLULAR TH,HOSPICE/PALLIATIVE CARE,HOSPITALIST,INFECTIOUS DISEASE,INTERNAL MEDICINE,INTERVENTIONAL CARDIOLOGY,INTERVENTIONAL PAIN MANAGEMENT,INTERVENTIONAL RADIOLOGY,MAXILLOFACIAL SURGERY,MEDICAL ONCOLOGY,NEPHROLOGY,NEUROLOGY,NEUROPSYCHIATRY,NEUROSURGERY,NUCLEAR MEDICINE,NURSE PRACTITIONER,OBSTETRICS/GYNECOLOGY,OCCUPATIONAL THERAPY,OPHTHALMOLOGY,OPTOMETRY,ORAL SURGERY,ORTHOPEDIC SURGERY,OSTEOPATHIC MANIPULATIVE MEDICINE,OTOLARYNGOLOGY,PAIN MANAGEMENT,PATHOLOGY,PEDIATRIC MEDICINE,PERIPHERAL VASCULAR DISEASE,PHYSICAL MEDICINE AND REHABILITATION,PHYSICAL THERAPY,PHYSICIAN ASSISTANT,PLASTIC AND RECONSTRUCTIVE SURGERY,PODIATRY,PREVENTATIVE MEDICINE,PSYCHIATRY,PULMONARY DISEASE,RADIATION ONCOLOGY,REGISTERED DIETITIAN OR NUTRITION PROFESSIONAL,"RHEUMATOLOGY,",SLEEP MEDICINE,SPEECH LANGUAGE PATHOLOGIST,SPORTS MEDICINE,SURGICAL ONCOLOGY,THORACIC SURGERY,UNDEFINED PHYSICIAN TYPE (SPECIFY),"UROLOGY,",VASCULAR SURGERY,id
+0,Alnö vårdcentral,nan nan,Vi (Alnö),Sundsvall,865 31,,62.4264696,17.4161276,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000
+1,Arjeplogs hälsocentral,nan nan,Arjeplog,Arjeplog,938 31,,66.0500335,17.8907438,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10001
+2,Arlövs vårdcentral,Svenshögsvägen 6,Arlöv,Burlöv,232 34,,55.6353988,13.0864536,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10002
+3,Avonova,Kållandsgatan 4,Lidköping,Lidköping,531 31,,58.5054748,13.1597117,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10003
+4,Axelsbergs vårdcentral,Axelsbergs Torg 2,Stockholm,Stockholm,129 35,,59.3041248,17.9724295,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10004
+5,Bagarmossens vårdcentral,nan nan,Stockholm,Stockholm,128 43,,59.2765113,18.1350441,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10005
+6,Baggängens vårdcentral,nan nan,Karlskoga,Karlskoga,691 31,,59.314889,14.4876985,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10006
+7,Barn- och ungdomshabilitering Gävle,Folkparksvägen 5,Gävle,Gävle,803 20,,60.6867935,17.1330225,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10007
+8,Bjärnums vårdcentral,Algatan 12,Bjärnum,Hässleholm,282 61,,56.2919081,13.7158379,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10008
+9,Björkskatans hälsocentral,Höstvägen 7,Luleå,Luleå,972 31,,65.6155075,22.1681912,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10009
+10,Bollmora vårdcentral,nan nan,Bollmora,Tyresö,135 45,,59.2466421,18.2286159,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10010
+11,Borgholms Hälsocentral,nan nan,Borgholm,Borgholm,387 31,,56.8806947,16.6632357,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10011
+12,Brinkens Vårdcentral,nan nan,Motala,Motala,591 30,,58.5292431,15.050824,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10012
+13,Byle Gård,nan nan,Täby Kyrkby,Täby,187 70,,59.4979099,18.0754806,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10013
+14,Byske Hälsocentral,nan nan,Byske,Skellefteå,934 51,,64.9505427,21.2070707,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10014
+15,BålstaDoktorn,nan nan,Bålsta,Håbo,746 32,,59.5580619,17.5383191,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10015
+16,Capio Citykliniken,Järnvägsgatan 56,Limhamn,Malmö,216 14,,55.5798152,12.9322214,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10016
+17,Capio Vårdcentral Lekeberg,nan nan,Fjugesta,Lekeberg,716 30,,59.175526,14.8649995,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10017
+18,Edsbergs vårdcentral,Edsbergs Torg 1,Edsberg,Sollentuna,192 48,,59.4442381,17.9662137,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10018
+19,Edsbyns Hälsocentral,nan nan,Edsbyn,Ovanåker,828 33,,61.3801479,15.8097975,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10019
+20,Ekensberg vårdcentral,nan nan,Nyköping,Nyköping,611 32,,58.7606093,17.033738,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10020
+21,Ekholmens vårdcentral,Ekholmsvägen 7,Linköping,Linköping,582 23,,58.377188,15.6802911,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10021
+22,Emmaboda hälsocentral,Rådhusgatan 12,Emmaboda,Emmaboda,361 30,,56.6326597,15.5374169,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10022
+23,Erikslunds hälsocentral,nan nan,Boden,Boden,961 34,+46 921-130 45,65.8291367,21.7261541,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10023
+24,Esplanaden vårdcentral,nan nan,Västervik,Västervik,593 30,,57.7534596,16.6396494,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10024
+25,Falu Vårdcentral,Södra Mariegatan 18,Falun,Falun,791 62,,60.6129799,15.6205508,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10025
+26,Familjeläkarna Saltsjöbaden,Byvägen 52,Saltsjöbaden,Nacka,133 35,,59.2856946,18.2809992,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10026
+27,Fellingsbro vårdcentral,Torgvägen 3,Fellingsbro,Lindesberg,732 71,,59.4356826,15.5920019,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10027
+28,Fjärås Vårdcentral,Rajgräsvägen 1,Fjärås,Kungsbacka,439 73,,57.4620154,12.1710638,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10028
+29,Flogsta vårdcentral,Flogstavägen 95,Uppsala,Uppsala,752 63,,59.8506021,17.5824151,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10029
+30,Folktandvården,nan nan,Rimforsa,Kinda,590 43,,58.1357164,15.6862922,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10030
+31,Funäsdalens hälsocentral,Rörosvägen 35,Funäsdalen,Härjedalen,840 95,,62.5490322,12.5263693,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10031
+32,Furunäsets hälsocentral,nan nan,Piteå,Piteå,941 37,,65.2941887,21.4854272,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10032
+33,Gnesta Vårdcentral,Nygatan 29,Gnesta,Gnesta,646 31,,59.0452849,17.3021091,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10033
+34,Gustavsbergs Vårdcentral,nan nan,Gustavsberg,Värmdö,134 31,,59.3226467,18.3811794,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10034
+35,Habo Vårdcentral,Kärrsvägen nan,Habo,Habo,566 31,,57.9090828,14.0906712,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10035
+36,Hallsbergs Vårdcentral,nan nan,Hallsberg,Hallsberg,694 31,,59.0601271,15.1173793,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10036
+37,Haparanda vårdcentral,Lasarettsgatan nan,Haparanda,Haparanda,953 32,+46-922-251-00,65.8392324,24.1329206,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10037
+38,Health Sub Center,nan nan,Fliseryd,Mönsterås,384 73,,57.1251644,16.2680182,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10038
+39,Heby Vårdcentral,nan nan,Heby,Heby,744 31,,59.9425082,16.8615441,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10039
+40,Hedemora vårdcentral,nan nan,Hedemora,Hedemora,776 32,,60.2739319,15.995871,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10040
+41,Hjärtat Vårdcentralen,nan nan,Storå,Lindesberg,711 76,,59.7145828,15.1297136,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10041
+42,Hortlax Hälsocentral,nan nan,Hortlax,Piteå,944 32,,65.2881786,21.4102979,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10042
+43,Husie vårdcentral,nan nan,Malmö,Malmö,211 43,,55.5805147,13.0676818,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10043
+44,Hälsocentralen Centrum,nan nan,Sundsvall,Sundsvall,852 32,,62.395859,17.3108407,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10044
+45,Hälsocentralen Kramfors,nan nan,Kramfors,Kramfors,872 30,,62.9324791,17.7805889,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10045
+46,Hönö Vårdcentral,Minkebergsvägen 3A,Hönö,Öckerö,475 42,,57.6970212,11.6510474,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10046
+47,Iggesunds Hälsocentral,nan nan,Iggesund,Hudiksvall,825 31,,61.6433661,17.0748244,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10047
+48,Ingelstad Vårdcentral,nan nan,Ingelstad,Växjö,355 71,,56.743987,14.9211175,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10048
+49,Järvsö hälsocentral,Stationsgatan 19,Järvsö,Ljusdal,827 50,0651-172 30,61.7126292,16.1697695,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10049
+50,Kallinge Vårdcentral,nan nan,Kallinge,Ronneby,372 50,+46 457 731790,56.2473313,15.2871452,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10050
+51,Karla vårdcentral,nan nan,Örebro,Örebro,702 12,,59.2760475,15.1969377,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10051
+52,Kisa vårdcentral,nan nan,Kisa,Kinda,590 38,,57.9930455,15.6353009,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10052
+53,Kungsgärdets vårdcentral,Sankt Johannesgatan 28A,Uppsala,Uppsala,752 36,,59.8550562,17.6209048,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10053
+54,Kävlinge vårdcentral,nan nan,Kävlinge,Kävlinge,244 30,,55.7905867,13.1124639,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10054
+55,Landstinget Torkelbergsgatan,Sankt Larsgatan 49,Linköping,Linköping,582 23,,58.4064429,15.6263504,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10055
+56,Laröds vårdcentral,nan nan,Laröd,Helsingborg,254 82,,56.0938014,12.6568153,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10056
+57,Lessebo Vårdcentral,Storgatan 67,Lessebo,Lessebo,365 31,,56.7529415,15.2701936,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10057
+58,Likenäs vårdcentral,nan nan,Likenäs,Torsby,680 63,+46-564-47950,60.6122366,13.0441615,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10058
+59,Lomma vårdcentral,nan nan,Lomma,Lomma,234 33,,55.6745469,13.0703927,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10059
+60,Lyckeby Vårdcentral,Källevägen 12,Lyckeby,Karlskrona,371 61,,56.198407,15.6484929,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10060
+61,Läkar Mottagning,nan nan,Tandådalen,Malung-Sälen,780 67,,61.1742726,13.0023914,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10061
+62,Lövnäs vårdcentral,nan nan,Skoghall,Hammarö,663 30,,59.3319718,13.5326752,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10062
+63,Maria Alberts Vårdcentral,Djupebäcksgatan 21C,Trollhättan,Trollhättan,461 34,,58.2835036,12.291778,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10063
+64,Medicinskt centrum,Sankt Larsgatan 42,Linköping,Linköping,582 23,,58.4073949,15.6251412,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10064
+65,Mikaeli vårdcentral,nan nan,Örebro,Örebro,702 12,,59.2882942,15.1987323,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10065
+66,Mitt Hjärta - Varvet Hälsocentral,nan nan,Hudiksvall,Hudiksvall,824 30,,61.7261234,17.1213153,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10066
+67,Mjölkuddens hälsocentral,Mjölkuddsvägen 75,Luleå,Luleå,972 31,,65.6011443,22.1293377,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10067
+68,Moheda Vårdcentral,nan nan,Moheda,Alvesta,342 60,,57.000968,14.5743624,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10068
+69,Norbergs vårdcentral,nan nan,Norberg,Norberg,738 31,,60.0600572,15.928047,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10069
+70,Norra Fäladen Vårdcentral,Fäladstorget 4,Lund,Lund,222 21,,55.7237303,13.204156,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10070
+71,Norrvikens vårdcentral,nan nan,Norrviken,Sollentuna,192 72,,59.4602075,17.9209555,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10071
+72,Närhälsan Oden vårdcentral,Sankt Olofsgatan 8,Falköping,Falköping,521 46,,58.1642619,13.5526598,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10072
+73,Närhälsan Opaltorget vårdcentral,Grevegårdsvägen 198B,Västra Frölunda,Göteborg,426 59,,57.6423437,11.8989037,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10073
+74,Närhälsan Torpavallen vårdcentral,Torpavallsgatan 9,Göteborg,Göteborg,416 76,,57.7244898,12.0333941,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10074
+75,Näsby vårdcentral,nan nan,Kristianstad,Kristianstad,291 31,,56.0600154,14.1635046,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10075
+76,Näsets läkargrupp,nan nan,Höllviken,Vellinge,236 51,,55.418284,12.9509735,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10076
+77,Nättraby vårdcentral,Kyrkvägen 16,Nättraby,Karlskrona,373 30,,56.2018971,15.5366937,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10077
+78,Nöbbelöv vårdcentral,Nöbbelövs torg 1,Lund,Lund,222 21,,55.7280911,13.1766725,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10078
+79,Olaus Petri Vårdcentral,Ribbingsgatan nan,Örebro,Örebro,702 12,,59.2805139,15.2172762,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10079
+80,Pålsboda Vårdcentral,nan nan,Pålsboda,Hallsberg,697 30,,59.0691854,15.3322636,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10080
+81,Ronneby rehabiliteringscenter,nan nan,Ronneby,Ronneby,372 37,+46 457 731490,56.2123169,15.274635,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10081
+82,Ryggkirurgiska Kliniken,nan nan,Löt,Strängnäs,645 94,,59.3513566,17.0754772,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10082
+83,Rättviks vårdcentral,nan nan,Rättvik,Rättvik,795 30,,60.8877929,15.1169306,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10083
+84,Råneå Vardcentral,nan nan,Råneå,Luleå,955 32,,65.8584671,22.2968832,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10084
+85,Sankt Lars vårdcentral,Sankt Lars väg 6,Lund,Lund,222 21,,55.68688,13.1848751,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10085
+86,Skönsmons vårdcentral,nan nan,Sundsvall,Sundsvall,852 32,,62.3796072,17.347349,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10086
+87,Specialisthuset Eslöv,Odengatan 66,Eslöv,Eslöv,241 33,,55.841149,13.2808243,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10087
+88,Spånga Vårdcentral,nan nan,Stockholm,Stockholm,163 51,+46812339300,59.3810003,17.8989307,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10088
+89,Storvretas vårdcentral,nan nan,Storvreta,Uppsala,743 30,,59.9605337,17.7028911,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10089
+90,Strömsunds vårdcentral,nan nan,Strömsund,Strömsund,833 35,,63.85952,15.5634199,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10090
+91,Sundbrolunds Vårdcentral,nan nan,Ullånger,Kramfors,870 32,,63.0136843,18.1859007,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10091
+92,Sunne vårdcentral,nan nan,Sunne,Sunne,686 30,,59.8451683,13.1401387,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10092
+93,Svegs hälsocentral,nan nan,Sveg,Härjedalen,842 32,,62.0410001,14.3520922,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10093
+94,Svärdsjö vårdcentral,nan nan,Svärdsjö,Falun,790 23,,60.7419571,15.907954,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10094
+95,Södervärns Vårdcentral,nan nan,Malmö,Malmö,211 43,,55.5889925,13.0047908,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10095
+96,Sölvesborgs vårdcentral,nan nan,Sölvesborg,Sölvesborg,294 33,,56.0563142,14.5826472,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10096
+97,Tandvårdshuset,Nygatan 19,Vetlanda,Vetlanda,574 32,,57.4269712,15.093383,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10097
+98,Tannefors vårdcentral,Nya Tanneforsvägen 43C,Linköping,Linköping,582 23,,58.4071061,15.6421746,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10098
+99,Tiskens Vårdcentral,nan nan,Falun,Falun,791 62,,60.602727,15.6335549,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10099
+100,Trosa Vårdcentral,nan nan,Trosa,Trosa,619 30,,58.9025204,17.5578777,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10100
+101,Tybble vårdcentral,nan nan,Örebro,Örebro,702 12,,59.2545844,15.2363299,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10101
+102,Tåbelunds Vårdcentral,Solvägen 33,Eslöv,Eslöv,241 33,,55.8337014,13.2879384,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10102
+103,Valbo Hälsocentral,nan nan,Valbo,Gävle,818 30,,60.6438817,17.0067933,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10103
+104,Valla vårdcentral,Westmansgatan 25,Linköping,Linköping,582 23,,58.40297,15.6051778,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10104
+105,Vallatorpsdoktorn,Vallatorpsvägen 10,Erikslund,Täby,187 50,,59.4660053,18.042937,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10105
+106,Vendelsö vårdcentral,nan nan,Handen,Haninge,136 47,,59.1929142,18.1955387,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10106
+107,Vidarkliniken,nan nan,Ytterjärna,Södertälje,153 91,,59.065753,17.615346,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10107
+108,Vilhelmina vårdcentral,nan nan,Vilhelmina,Vilhelmina,912 32,,64.6247158,16.6634941,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10108
+109,Vällingby Läkarhus,Indalsbacken 1,Stockholm,Stockholm,162 61,,59.3640983,17.8710588,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10109
+110,Vårby Vårdcentral,nan nan,Vårby,Huddinge,143 40,,59.2539241,17.8792137,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10110
+111,Vårdcentral Solbrinken,nan nan,Hässleholm,Hässleholm,281 31,,56.1666281,13.7870111,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10111
+112,Vårdcentral och tandläkare,nan nan,Grums,Grums,664 34,,59.3522094,13.1023343,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10112
+113,"Vårdcentral, Tandläkare och Äldreboende",nan nan,Arvidsjaur,Arvidsjaur,933 33,,65.5971195,19.1673334,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10113
+114,Vårdcentralen,nan nan,Vaggeryd,Vaggeryd,567 30,,57.4921585,14.1342053,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10114
+115,Vårdcentralen,Mjölbygatan nan,Skänninge,Mjölby,596 31,,58.3885863,15.0874574,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10115
+116,Vårdcentralen Falkenberg,nan nan,Falkenberg,Falkenberg,311 35,,56.9073029,12.501336,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10116
+117,Vårdcentralen Husum-Trehörningsjö,Bruksvägen 187,Husum,Örnsköldsvik,896 31,,63.3398424,19.1649161,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10117
+118,Vårdcentralen Höör,Storgatan 2,Höör,Höör,243 30,+46 413 35 11 00,55.9314922,13.5470675,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10118
+119,Vårdcentralen Kasernhöjden,nan nan,Karlstad,Karlstad,652 25,,59.3874552,13.4876026,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10119
+120,Vårdcentralen Kil,nan nan,Kil,Kil,665 30,,59.4983055,13.3189663,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10120
+121,Vårdcentralen Mjölby,nan nan,Mjölby,Mjölby,595 30,,58.3244775,15.1241091,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10121
+122,Vårdcentralen Måsen,nan nan,Lund,Lund,222 21,,55.7077198,13.1719616,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10122
+123,Vårdcentralen Ryd,Alsättersgatan 40 A,Linköping,Linköping,582 23,+46 10-105 96 60,58.4093894,15.5611496,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10123
+124,Vårdcentralen Södertull,Helgeandsgatan 16,Lund,Lund,222 21,,55.6982372,13.1914374,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10124
+125,Vårdcentralen Söderåsen,nan nan,Bjuv,Bjuv,267 31,,56.0789782,12.9210713,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10125
+126,Vårdcentralen Åhus,nan nan,Åhus,Kristianstad,296 31,,55.9289944,14.2849378,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10126
+127,Älvdalens vårdcentral,Furuvägen 12,Älvdalen,Älvdalen,796 31,,61.231838,14.0395006,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10127
+128,Älvens Hus,nan nan,Timrå,Timrå,861 31,,62.5199134,17.3905801,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10128
+129,Ålidhems hälsocentral/Primärvårdsjouren,Tvistevägen 2,Umeå,Umeå,903 26,,63.815235,20.3164443,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10129
+130,Örsundsbro vårdcentral,nan nan,Örsundsbro,Enköping,749 60,,59.7319739,17.3085122,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10130
+131,Ösmos Vård,nan nan,Ösmo,Nynäshamn,148 30,,58.9835005,17.8992899,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10131
+132,Östhammars vårdcentral,Lasarettsvägen 1,Östhammar,Östhammar,742 31,+46 173 88000,60.2585283,18.3635168,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10132
