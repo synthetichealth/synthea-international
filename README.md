@@ -27,6 +27,11 @@ Azure pipelines to generate data:
     https://github.com/science-automation/genSyntheaEU
     https://dev.azure.com/shambergerm/SyntheaInternational/_build
 
+Notes:
+Demographic data is fake.  Looking for good source of demographics data.  EU census data is a possibility
+Cost data is still default us
+Only a single payer per country as the National Health Insurance.   Needs more work
+
 # License
 
 Copyright 2020 The MITRE Corporation
