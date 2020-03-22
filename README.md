@@ -12,6 +12,21 @@ Each folder within this repository contains files for one nation or area. To con
 cp -R example/ ../synthea
 ```
 
+# EU
+
+EU data is taken from the following sources:
+
+geonames.org - postal code data is taken from https://download.geonames.org/export/zip/
+    License:  Creative Commons Attribution 3.0 License
+
+openstreetmap.com - health site data is extracted from open street maps.
+    License: Open Database License
+    “© OpenStreetMap contributors”.  https://www.openstreetmap.org/copyright
+
+Azure pipelines to generate data:
+    https://github.com/science-automation/genSyntheaEU
+    https://dev.azure.com/shambergerm/SyntheaInternational/_build
+
 # License
 
 Copyright 2020 The MITRE Corporation
