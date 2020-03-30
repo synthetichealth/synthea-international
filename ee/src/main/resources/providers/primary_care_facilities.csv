@@ -1,14 +1,46 @@
 ,name,address,city,state,zip,phone,LAT,LON,hasSpecialties,ADDICTION MEDICINE,ADVANCED HEART FAILURE AND TRANSPLANT CARDIOLOGY,ALLERGY/IMMUNOLOGY,ANESTHESIOLOGY,ANESTHESIOLOGY ASSISTANT,AUDIOLOGIST,CARDIAC ELECTROPHYSIOLOGY,CARDIAC SURGERY,CARDIOVASCULAR DISEASE (CARDIOLOGY),CERTIFIED NURSE MIDWIFE,CERTIFIED REGISTERED NURSE ANESTHETIST,CHIROPRACTIC,CLINICAL NURSE SPECIALIST,CLINICAL PSYCHOLOGIST,CLINICAL SOCIAL WORKER,COLORECTAL SURGERY (PROCTOLOGY),CRITICAL CARE (INTENSIVISTS),DENTIST,DERMATOLOGY,DIAGNOSTIC RADIOLOGY,EMERGENCY MEDICINE,ENDOCRINOLOGY,FAMILY PRACTICE,GASTROENTEROLOGY,GENERAL PRACTICE,GENERAL SURGERY,GERIATRIC MEDICINE,GERIATRIC PSYCHIATRY,GYNECOLOGICAL ONCOLOGY,HAND SURGERY,HEMATOLOGY,HEMATOLOGY/ONCOLOGY,HEMATOPOIETIC CELL TRANSPLANTATION AND CELLULAR TH,HOSPICE/PALLIATIVE CARE,HOSPITALIST,INFECTIOUS DISEASE,INTERNAL MEDICINE,INTERVENTIONAL CARDIOLOGY,INTERVENTIONAL PAIN MANAGEMENT,INTERVENTIONAL RADIOLOGY,MAXILLOFACIAL SURGERY,MEDICAL ONCOLOGY,NEPHROLOGY,NEUROLOGY,NEUROPSYCHIATRY,NEUROSURGERY,NUCLEAR MEDICINE,NURSE PRACTITIONER,OBSTETRICS/GYNECOLOGY,OCCUPATIONAL THERAPY,OPHTHALMOLOGY,OPTOMETRY,ORAL SURGERY,ORTHOPEDIC SURGERY,OSTEOPATHIC MANIPULATIVE MEDICINE,OTOLARYNGOLOGY,PAIN MANAGEMENT,PATHOLOGY,PEDIATRIC MEDICINE,PERIPHERAL VASCULAR DISEASE,PHYSICAL MEDICINE AND REHABILITATION,PHYSICAL THERAPY,PHYSICIAN ASSISTANT,PLASTIC AND RECONSTRUCTIVE SURGERY,PODIATRY,PREVENTATIVE MEDICINE,PSYCHIATRY,PULMONARY DISEASE,RADIATION ONCOLOGY,REGISTERED DIETITIAN OR NUTRITION PROFESSIONAL,"RHEUMATOLOGY,",SLEEP MEDICINE,SPEECH LANGUAGE PATHOLOGIST,SPORTS MEDICINE,SURGICAL ONCOLOGY,THORACIC SURGERY,UNDEFINED PHYSICIAN TYPE (SPECIFY),"UROLOGY,",VASCULAR SURGERY,id
-0,Haabersti Tervisekeskus,Õismäe tee 179,Tallinn,,13518,+372 6261314,59.419753,24.650482,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000
-1,Hooldusravikliinik,Õismäe tee 179,Tallinn,,13518,,59.4196023,24.6502959,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10001
-2,Kliinilise geneetika keskus,Ludvig Puusepa 2,Tartu,,51003,,58.367478,26.702601,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10002
-3,Kopsukliinik,Riia 167,Tartu,,51003,+372 731 8903,58.362417,26.6869964,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10003
-4,LTK nakkuskliiniku polikliinik,Paldiski mnt 62,Tallinn,,10313,,59.4298645,24.6951853,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10004
-5,Lasnamäe Medicum,Punane 61,Tallinn,,13811,+372 6050601,59.4367515,24.8476183,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10005
-6,Lastekliinik,Nikolai Lunini 6,Tartu,,51003,,58.367126,26.696662,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10006
-7,Mustamäe Polikliiniku Perearstikeskus,Ehitajate tee 27,Tallinn,,12911,,59.4000997,24.6685917,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10007
-8,Nõmme Tervisekeskus,Jaama 11,Tallinn,,11619,+372 667 0679,59.386573,24.686264,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10008
-9,Psühhiaatriakliinik,Raja 31,Tartu,,51003,+372 7318 701,58.3637847,26.6816895,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10009
-10,Põhja-Eesti Regionaalhaigla psühhiaatriapolikliinik,Paldiski mnt 52,Tallinn,,10313,,59.42979,24.702755,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10010
-11,Statsionaarse õendusabi osakond,Ludvig Puusepa 6,Tartu,,51003,,58.3680174,26.7014233,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10011
-12,TÜ Kliinikumi Kõrvakliinik,J. Kuperjanovi 1,Tartu,,51003,,58.377254,26.7151199,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10012
+0,Elite,Sangla 63,Tartu,Tartu Maakond,51003,+372 7409930,58.370081,26.684318,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000
+1,Elva haigla,Supelranna 19,Elva,Tartu Maakond,61507,,58.2300372,26.4091948,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10001
+2,Hiiumaa Haigla,Rahu 2,Hiiumaa vald,Hiiu Maakond,92412,,58.9995925,22.7548126,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10002
+3,Ida-Tallinna Keskhaigla,Ravi 18,Tallinn,Harju Maakond,10118,,59.4280322,24.7552877,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10003
+4,Jämejala Psühhiaatriakliinik,,Viljandi vald,Viljandi Maakond,71024,,58.3889134,25.5828945,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10004
+5,Järve haigla,Energia 8,Tallinn,Harju Maakond,13417,,59.3965488,24.713345,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10005
+6,Jõgeva Haigla,Piiri 2,Jõgeva,Jõgeva Maakond,48307,,58.747149,26.382623,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10006
+7,Kallavere Haigla,Haigla 2,Maardu,Harju Maakond,74117,,59.476097,25.019741,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10007
+8,Kesklinna Lastepolikliinik,Ravi 27,Tallinn,Harju Maakond,10118,,59.428859,24.756893,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10008
+9,Kiviõli polikliinik,Keskpuiestee 36,Lüganuse,Ida-viru Maakond,43125,,59.355389,26.980723,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10009
+10,Kose Haigla,Ravila mnt 29,Kose,Harju Maakond,75101,,59.1857728,25.1856905,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10010
+11,LTK nakkuskliinik,Paldiski mnt 66,Tallinn,Harju Maakond,10313,,59.4302497,24.6950825,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10011
+12,Lääne-Tallinna Keskhaigla,,Tallinn,Harju Maakond,10148,,59.4326859,24.6912499,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10012
+13,Lõuna-Eesti Haigla,,Võru vald,Võru Maakond,65526,,57.8087664,26.9978984,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10013
+14,Narva Haigla,Haigla 1,Narva,Ida-viru Maakond,20104,,59.3626423,28.19309,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10014
+15,Pelgulinna Haigla,,Tallinn,Harju Maakond,10313,,59.436476,24.7113685,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10015
+16,Poliklinnik,Nooruse 3,Jõhvi,Ida-viru Maakond,41536,,59.361836,27.411685,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10016
+17,Pärnu Haigla,Ristiku 1,Pärnu,Pärnu Maakond,80047,,58.3873926,24.5446338,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10017
+18,Pärnu Haigla Õendus-ja hoolduskeskus,Ravi 2,Pärnu,Pärnu Maakond,80011,,58.3726492,24.5340338,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10018
+19,Põhja-Eesti Regionaalhaigla,Juhan Sütiste tee 19,Tallinn,Harju Maakond,12911,+372 617 1300,59.399837,24.702112,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10019
+20,Põhja-Eesti Regionaalhaigla,,Tallinn,Harju Maakond,12911,,59.3971642,24.6975188,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10020
+21,Põhja-Eesti Regionaalhaigla psühhiaatriakliinik,,Tallinn,Harju Maakond,10313,,59.4328923,24.69131,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10021
+22,Rakvere Haigla,Lõuna põik 1,Rakvere,Lääne-viru Maakond,44316,,59.336518,26.3766666,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10022
+23,Rakvere haigla,Lõuna põik 1/2,Rakvere,Lääne-viru Maakond,44308,,59.3354194,26.3764032,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10023
+24,Rakvere haigla,Lõuna põik 1/3,Rakvere,Lääne-viru Maakond,44308,,59.335003,26.3760099,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10024
+25,Rakvere haigla,Lõuna põik 1/1,Rakvere,Lääne-viru Maakond,44308,,59.3352603,26.37747,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10025
+26,Rapla Haigla,Alu tee 1,Rapla,Rapla Maakond,79515,,59.0074186,24.7928732,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10026
+27,Tallinna Lastehaigla,Tervise 28,Tallinn,Harju Maakond,13419,,59.3986599,24.7055012,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10027
+28,Tapa Haigla,,Tapa,Lääne-viru Maakond,45107,,59.2696363,25.9630216,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10028
+29,Tartu Ülikooli Kliinikum,Ludvig Puusepa 8,Tartu,Tartu Maakond,50406,,58.3702668,26.697912,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10029
+30,Viljandi haigla,Pärna tee 3,Viljandi vald,Viljandi Maakond,71024,,58.3831279,25.5763861,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10030
+31,Viljandi haigla,,Viljandi vald,Viljandi Maakond,71024,,58.3815496,25.5755153,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10031
+32,Wismari haigla,Wismari 15,Tallinn,Harju Maakond,10132,,59.432197,24.732725,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10032
+33,Emmaste Kliinik,,Hiiumaa vald,Hiiu Maakond,92412,,58.7069915,22.5866273,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10033
+34,Keila Perearstikeskus,Keskväljak 12a,Keila,Harju Maakond,76607,,59.3094795,24.4225394,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10034
+35,Kostivere perearstikeskus,,Jõelähtme,Harju Maakond,74204,,59.4265434,25.0926739,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10035
+36,Maarjamõisa polikliinik,Ludvig Puusepa 1a,Tartu,Tartu Maakond,51003,,58.367838,26.7039195,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10036
+37,Maramaa Klinik,August Maramaa pst 5,Viljandi,Viljandi Maakond,71014,,58.3698269,25.6009022,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10037
+38,Narva Haigla Polikliinik,Hariduse 15a,Narva,Ida-viru Maakond,20303,,59.3801601,28.1941217,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10038
+39,Narva Kliinik,Aasa 4,Narva,Ida-viru Maakond,20303,,59.3825326,28.1708391,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10039
+40,Põlva tervisekeskus,Uus 2,Põlva,Põlva Maakond,63308,,58.054855,27.046864,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10040
+41,Rakvere polikliinik,Tuleviku 1,Rakvere,Lääne-viru Maakond,44308,,59.3446545,26.3644527,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10041
+42,Rannu perearsti punkt,,Elva,Tartu Maakond,61507,,58.248592,26.1908776,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10042
+43,Suure-Jaani Perearstikeskus,Tallinna 11,Põhja-Sakala vald,Viljandi Maakond,71502,,58.5375375,25.4698067,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10043
+44,Tähe Erakliinik,Tähe 95,Tartu,Tartu Maakond,51003,,58.361985,26.7298731,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10044

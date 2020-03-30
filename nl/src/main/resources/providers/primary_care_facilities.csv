@@ -1,79 +1,238 @@
 ,name,address,city,state,zip,phone,LAT,LON,hasSpecialties,ADDICTION MEDICINE,ADVANCED HEART FAILURE AND TRANSPLANT CARDIOLOGY,ALLERGY/IMMUNOLOGY,ANESTHESIOLOGY,ANESTHESIOLOGY ASSISTANT,AUDIOLOGIST,CARDIAC ELECTROPHYSIOLOGY,CARDIAC SURGERY,CARDIOVASCULAR DISEASE (CARDIOLOGY),CERTIFIED NURSE MIDWIFE,CERTIFIED REGISTERED NURSE ANESTHETIST,CHIROPRACTIC,CLINICAL NURSE SPECIALIST,CLINICAL PSYCHOLOGIST,CLINICAL SOCIAL WORKER,COLORECTAL SURGERY (PROCTOLOGY),CRITICAL CARE (INTENSIVISTS),DENTIST,DERMATOLOGY,DIAGNOSTIC RADIOLOGY,EMERGENCY MEDICINE,ENDOCRINOLOGY,FAMILY PRACTICE,GASTROENTEROLOGY,GENERAL PRACTICE,GENERAL SURGERY,GERIATRIC MEDICINE,GERIATRIC PSYCHIATRY,GYNECOLOGICAL ONCOLOGY,HAND SURGERY,HEMATOLOGY,HEMATOLOGY/ONCOLOGY,HEMATOPOIETIC CELL TRANSPLANTATION AND CELLULAR TH,HOSPICE/PALLIATIVE CARE,HOSPITALIST,INFECTIOUS DISEASE,INTERNAL MEDICINE,INTERVENTIONAL CARDIOLOGY,INTERVENTIONAL PAIN MANAGEMENT,INTERVENTIONAL RADIOLOGY,MAXILLOFACIAL SURGERY,MEDICAL ONCOLOGY,NEPHROLOGY,NEUROLOGY,NEUROPSYCHIATRY,NEUROSURGERY,NUCLEAR MEDICINE,NURSE PRACTITIONER,OBSTETRICS/GYNECOLOGY,OCCUPATIONAL THERAPY,OPHTHALMOLOGY,OPTOMETRY,ORAL SURGERY,ORTHOPEDIC SURGERY,OSTEOPATHIC MANIPULATIVE MEDICINE,OTOLARYNGOLOGY,PAIN MANAGEMENT,PATHOLOGY,PEDIATRIC MEDICINE,PERIPHERAL VASCULAR DISEASE,PHYSICAL MEDICINE AND REHABILITATION,PHYSICAL THERAPY,PHYSICIAN ASSISTANT,PLASTIC AND RECONSTRUCTIVE SURGERY,PODIATRY,PREVENTATIVE MEDICINE,PSYCHIATRY,PULMONARY DISEASE,RADIATION ONCOLOGY,REGISTERED DIETITIAN OR NUTRITION PROFESSIONAL,"RHEUMATOLOGY,",SLEEP MEDICINE,SPEECH LANGUAGE PATHOLOGIST,SPORTS MEDICINE,SURGICAL ONCOLOGY,THORACIC SURGERY,UNDEFINED PHYSICIAN TYPE (SPECIFY),"UROLOGY,",VASCULAR SURGERY,id
-0,'s Heeren Loo,nan nan,Almere-Stad,Flevoland,1315,,52.3817032,5.2482682,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000
-1,'t Bouwhuis,nan nan,,,,,52.2403062,6.9069283,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10001
-2,ADC,nan nan,Curacao,,,,12.1225689,-68.868423,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10002
-3,ATS-kliniek,nan nan,Vlijmen,Noord-Brabant,5251 AC,,51.6955648,5.2114726,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10003
-4,Activiteitencentrum Zuidwester,nan nan,Leiden,Zuid-Holland,2324,,52.1404595,4.4721705,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10004
-5,Acupunctuur Zutphen,Deventerweg 117.0,Zutphen,Gelderland,7201,+31648314388,52.1504599,6.206584,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10005
-6,Adelante,nan nan,,,,,50.9210143,5.9092296,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10006
-7,Alizonne,nan nan,Vlijmen,Noord-Brabant,5251 AC,,51.6947993,5.2101234,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10007
-8,Alternative Health Care,E. Camille Richardson Street nan,Philipsburg,,,721 582 1365,18.0247184,-63.0442496,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10008
-9,Apex 2000,Cumana 92.0,Oranjestad,,,,12.5182382,-70.0105047,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10009
-10,Ariëns Zorgpalet,nan nan,Enschede,Overijssel,7514,,52.2367582,6.9061,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10010
-11,Arts Mediko,Cassandraweg 72.0,Curacao,,,,12.1438123,-68.8877195,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10011
-12,BONLAB,Kaya J E Nicolaas nan,Bonaire,,,717 8055,12.1551072,-68.276461,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10012
-13,Barbara Polikliniek,Elisabethdreef 4.0,Culemborg,Gelderland,4105,0344 - 67 4744,51.9585471,5.2286622,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10013
-14,Beverode,nan nan,Dieren,Gelderland,6952 AK,,52.0546598,6.0915644,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10014
-15,Bonaire Medical Clinic,Kaya Libertador Simon Bolivar nan,Bonaire,,,,12.1509708,-68.2753574,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10015
-16,Boumanhuis,nan nan,Dordrecht,Zuid-Holland,3311 JA,,51.784868,4.6547863,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10016
-17,Capriles Kliniek,Mohikanenweg 8.0,Curacao,,,737-4700,12.1431818,-68.9087268,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10017
-18,Centro Medico Rio Canario,Gosieweg nan,Curacao,,,,12.1452798,-68.9181633,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10018
-19,Clinica Quiropractico Van Putten,Paradijswijk 27.0,Oranjestad,,,,12.5347755,-70.036087,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10019
-20,Curacare Spine and Paramedical Clinic,Fransche Bloemweg nan,Curacao,,,,12.1242922,-68.8993648,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10020
-21,De Voorste Stroom,nan nan,,,,,51.5740268,5.1815492,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10021
-22,De Zorgpraktijk,nan nan,Zoetermeer,Zuid-Holland,2711,,52.0512201,4.5069822,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10022
-23,Elyse,nan nan,Gorinchem,Zuid-Holland,4201 HJ,,51.8381282,4.9506951,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10023
-24,Forensisch Psychiatrisch Centrum De Rooyse Wissel,nan nan,,,,,51.5280559,6.0385358,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10024
-25,Fornhese Boomgaardweg,nan nan,Almere-Stad,Flevoland,1315,,52.3726629,5.2374115,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10025
-26,Gezondheidscentrum De Maten,nan nan,Apeldoorn,Gelderland,7311 LW,,52.1957879,6.0070693,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10026
-27,Gezondheidscentrum De Zorgmolen,nan nan,Papendrecht,Zuid-Holland,3351,,51.8367198,4.6901408,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10027
-28,Gezondheidscentrum Krimpen,nan nan,Krimpen aan den IJssel,Zuid-Holland,2922,,51.9205233,4.6010551,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10028
-29,Gezondheidscentrum Neerbeek,nan nan,Neerbeek,Limburg,6191 GN,,50.9529429,5.816522,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10029
-30,Heart Clinic Aruba,Caya Punta Brabo 5.0,,,,,12.5401757,-70.059381,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10030
-31,Helius Medisch Centrum,nan nan,Middelharnis,Zuid-Holland,3241,,51.757989,4.1569109,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10031
-32,Het Gelders Hof,nan nan,,,,,52.0434484,6.0996985,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10032
-33,Huisartsenpost Bonaire,Kaya Soeur Bartola nan,Bonaire,,,,12.1538443,-68.2757593,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10033
-34,Huygens Centrum,nan nan,Voorburg,Zuid-Holland,2271,,52.0660996,4.3629357,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10034
-35,I.L. Laboratorio Familiar N.V.,Santa Cruz nan,Santa Cruz,,,,12.5092749,-69.9812698,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10035
-36,Instituut Verbeeten,nan nan,'s-Hertogenbosch,Noord-Brabant,5211,,51.6853893,5.2734594,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10036
-37,Kliniek Laurium,nan nan,Zoetermeer,Zuid-Holland,2711,,52.0589306,4.5167578,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10037
-38,Lab de Med,nan nan,Curacao,,,7361030,12.1619591,-68.9456204,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10038
-39,Langeland,nan nan,Zoetermeer,Zuid-Holland,2711,,52.0636945,4.4938936,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10039
-40,Lifeline,Weg naar Fuik nan,Curacao,,,,12.0992284,-68.8517892,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10040
-41,Meander Medisch Centrum De Mulderij,nan nan,Leusden,Utrecht,3831,,52.13144,5.4285883,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10041
-42,Medical Center,nan nan,Sint Nicolaas,,,,12.4415398,-69.9210719,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10042
-43,Medical Clinic,Union Road nan,Diamond,,,,18.0413465,-63.0836432,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10043
-44,Medicentrum Princenhage,nan nan,Breda,Noord-Brabant,4811,,51.5808493,4.7396355,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10044
-45,Mediq,Van de Veen Zeppenfeldstraat nan,Sint Nicolaas,,,,12.4334041,-69.9076272,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10045
-46,Mediq Centro Medico,Bernhardstraat nan,Sint Nicolaas,,,,12.4385102,-69.9157984,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10046
-47,Medisch Centrum Oud Voorburg,nan nan,Voorburg,Zuid-Holland,2271,,52.0675699,4.3650623,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10047
-48,Medisch Hart Bleiswijk,nan nan,Bleiswijk,Zuid-Holland,2665 CB,,52.0085939,4.5301436,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10048
-49,Medisch centrum Stelle,nan nan,Hoogvliet,Zuid-Holland,3191,,51.8642005,4.3681298,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10049
-50,Mercury Medical Clinic,E. Camille Richardson Street nan,Philipsburg,,,,18.024702,-63.0436991,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10050
-51,Meregaard,nan nan,Almere-Stad,Flevoland,1315,,52.3717818,5.2396654,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10051
-52,Mijngebouw,nan nan,Brunssum,Limburg,6444 AT,,50.941692,5.9784585,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10052
-53,Nieuw Buitenzorg,nan nan,Leiderdorp,Zuid-Holland,2351,,52.1635678,4.5272282,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10053
-54,Noord Medical Center,Noord 63.0,Noord,,,,12.5672912,-70.0323526,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10054
-55,Norschoten,nan nan,Barneveld,Gelderland,3771,,52.1397761,5.5984599,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10055
-56,Opnamekliniek Dijk en Duin,nan nan,,,,,52.5581633,4.6448331,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10056
-57,Physical Therapy,Caya Punta Brabo 3.0,,,,,12.5405426,-70.058911,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10057
-58,Polikliniek Nijkerk,Henri Nouwenstraat 18.0,Nijkerk,Gelderland,3861 CA,,52.2101135,5.4665836,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10058
-59,Praktijk Gynecologie Punta Brabo,Caya Punta Brabo 7.0,,,,,12.5406414,-70.0587063,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10059
-60,Pre-Care Clinic,nan nan,Oranjestad,,,,12.5204455,-70.0188791,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10060
-61,PsyQ,nan nan,Maastricht,Limburg,6224 BS,,50.8470594,5.7101078,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10061
-62,Punda Medical Center,Kaya Junior Salas nan,Curacao,,,,12.1041161,-68.9305845,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10062
-63,Punda Medical Centre,Kaya Junior Salas 20.0,Curacao,,,,12.1042921,-68.9305041,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10063
-64,Rehab Center,nan nan,,,,,12.424398,-69.8816957,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10064
-65,RengersState,nan nan,Leeuwarden,Friesland,8911,,53.2068022,5.7953879,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10065
-66,Rudolf Steinerhuis Verpleeghuis,nan nan,Scheveningen,Zuid-Holland,2597,,52.1018912,4.2967323,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10066
-67,Santa Rosa Sports Medicine Institute,Kaminda Rignald S. Recordino nan,Curacao,,,,12.1223579,-68.869387,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10067
-68,Sint Jacobigasthuis,nan nan,Waardenburg,Gelderland,4181,,51.8307503,5.2618704,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10068
-69,Synaeda,nan nan,Leeuwarden,Friesland,8911,+31 58 284 8746,53.1938482,5.7993861,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10069
-70,Therapeuticum Aurum,nan nan,Zoetermeer,Zuid-Holland,2711,,52.0648582,4.4793186,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10070
-71,Triade De Notenkraker,nan nan,Almere-Stad,Flevoland,1315,,52.367836,5.1967593,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10071
-72,Triade Papageno,nan nan,Almere-Stad,Flevoland,1315,,52.367836,5.1967593,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10072
-73,Triade Rondo,nan nan,Almere-Stad,Flevoland,1315,,52.3704131,5.1991737,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10073
-74,Triade Woonzorg,nan nan,Almere-Haven,Flevoland,1357 NN,,52.3415452,5.2249511,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10074
-75,Verslavingszorg Noord Nederland,nan nan,Leeuwarden,Friesland,8911,,53.1891743,5.7991579,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10075
-76,Vijverdal,nan nan,Maastricht,Limburg,6226 WV,,50.8518752,5.7335917,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10076
-77,Zuidwest Radiotherapeutisch Instituut,nan nan,Vlissingen,Zeeland,4381 HR,,51.4516459,3.5650474,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10077
+0,ADRZ,,,Zeeland,,+31 88 1250000,51.4844179,3.9076052,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000
+1,Advent Hospital,Groot Davelaarweg 1,Curacao,Zeeland,,+5999 737 0611,12.120244,-68.9040685,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10001
+2,"Albert Schweitzer Ziekenhuis, loc. Dordwijk",Albert Schweitzerplaats 25,Dordrecht,Dordrecht,3318 AS,(078) 654 11 11,51.7912601,4.6794905,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10002
+3,Alrijne Ziekenhuis,,Leiden,Leiden,2334,,52.1736222,4.4807211,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10003
+4,Alrijne Ziekenhuis,,Leiderdorp,Leiderdorp,2351,,52.1553499,4.5408376,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10004
+5,Amphia Ziekenhuis Locatie Molengracht,Molengracht 21,Breda,Breda,4811,,51.5840617,4.7954843,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10005
+6,"Amphia Ziekenhuis, Locatie Langedijk",Langendijk 75,Breda,Breda,4811,+76 595 5000,51.5753425,4.7640854,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10006
+7,"Amphia Ziekenhuis, Locatie Pasteurlaan",Pasteurlaan 9,Oosterhout,Oosterhout,4901 DH,,51.6476689,4.871152,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10007
+8,Amsterdam UMC - locatie VUMC,De Boelelaan 1117,Amsterdam,Amsterdam,1011 MG,,52.3368182,4.858402,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10008
+9,Amsterdam UMC locatie AMC,Meibergdreef 9,Amsterdam,Amsterdam,1102,,52.2938649,4.9497018,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10009
+10,Basalt Revalidatiecentrum,,Leiden,Leiden,2333,,52.1697278,4.4691982,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10010
+11,Beatrixziekenhuis,,Gorinchem,Gorinchem,4204 AA,,51.8401003,4.9552317,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10011
+12,Bernhoven,,Uden,Uden,5406 PT,,51.6720866,5.6060862,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10012
+13,Bethesda,Dokter G.H. Amshoffweg 1,Hoogeveen,Drenthe,7909 AA,,52.7273353,6.460551,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10013
+14,BovenIJ Ziekenhuis,,Amsterdam,Amsterdam,1034,,52.4050181,4.9208111,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10014
+15,Canisius-Wilhelmina Ziekenhuis,Weg door Jonkerbos 100,Nijmegen,Gelderland,6512,+31243657657,51.8186865,5.8326534,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10015
+16,Catharina Ziekenhuis,Michelangelolaan 2,Eindhoven,Eindhoven,5623 EJ,,51.4644195,5.4694144,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10016
+17,Cruquiushoeve,,,Haarlemmermeer,2132,,52.3302143,4.6482895,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10017
+18,Curaçao Medical Center,J. H. J. Hamelbergweg nan,Curacao,Haarlemmermeer,,+599 9 745 0000,12.110434,-68.9426995,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10018
+19,De Canha Physical Therapy,Dokter W. P. Maalweg nan,Curacao,Haarlemmermeer,,,12.1055343,-68.9041058,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10019
+20,Delta Ziekenhuis,,,Albrandswaard,3161 CA,,51.8464042,4.3917481,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10020
+21,Deventer Ziekenhuis,Nico Bolkesteinlaan 75,,Overijssel,7411 BT,+570 53 53 53,52.2627765,6.189377,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10021
+22,Dijklander Ziekenhuis,Maelsonstraat 3,Hoorn,Hoorn,1624 NP,,52.6471812,5.0552318,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10022
+23,Doornbos Fysio Groep,Abdijstraat 26,Breda,Breda,4811,+31 76 572 00 57,51.5987116,4.7956926,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10023
+24,Dr. Horacio Oduber Hospital,Dr Horacio Oduber Boulevard 1,,Breda,,+297 527 4000,12.5432798,-70.0602569,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10024
+25,EHBO building,,,Rotterdam,3011,,51.8734753,4.2556009,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10025
+26,ETZ Elisabeth ziekenhuis,Hilvarenbeekse Weg 60,Tilburg,Tilburg,5022 GC,,51.540021,5.101123,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10026
+27,ETZ TweeSteden ziekenhuis,Doctor Deelenlaan 5,Tilburg,Tilburg,5018,,51.5789916,5.056798,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10027
+28,Erasmus MC Daniel den Hoed,,Rotterdam,Rotterdam,3074 LS,,51.8861095,4.5034912,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10028
+29,Erasmus Medisch Centrum,Dokter Molewaterplein 40,Rotterdam,Rotterdam,3011,+31 107040704,51.9121723,4.4668569,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10029
+30,Flevoziekenhuis,Hospitaalpromenade 1,Almere-Stad,Flevoland,1315,,52.3681365,5.2228711,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10030
+31,Fundashon Mariadal,Kaya Soeur Bartola nan,Bonaire,Almere,,,12.1546622,-68.2749353,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10031
+32,GGD Den Haag,Westeinde 128,Den Haag,Den Haag,2511 AH,14 070,52.0753913,4.3018915,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10032
+33,GGZ Centraal / Fornhese,Horsterweg 130,,Gelderland,3851 GD,,52.3058205,5.6091141,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10033
+34,GGZ Delfland,,Delft,Delft,2611 RV,,52.0202132,4.3608398,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10034
+35,GGZ Rivierduinen,,,Oegstgeest,2341 GA,,52.1720971,4.4580431,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10035
+36,GGZ Rivierduinen,,,Oegstgeest,2341 GA,,52.1753359,4.4664676,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10036
+37,"Gelre Apeldoorn, Lukas",Albert Schweitzerlaan 31,Apeldoorn,Gelderland,7334 DZ,055 581 81 81,52.1816343,5.9444701,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10037
+38,Gelre Zutphen,,Zutphen,Gelderland,7201,,52.1219588,6.2162075,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10038
+39,Gezondheidscentrum Het Noorderdok,,Almere-Stad,Flevoland,1315,,52.3892951,5.1750391,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10039
+40,HMC Bronovo,Bronovolaan 5,Den Haag,Den Haag,2597 AV,070-3124141,52.1013863,4.3183272,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10040
+41,HMC Westeinde,Lijnbaan 32,Den Haag,Den Haag,2512 VA,,52.0745127,4.2986074,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10041
+42,HagaZiekenhuis locatie Leyweg,Els Borst-Eilersplein 275,Den Haag,Den Haag,2552 PK,070 210 0000,52.0568138,4.2620612,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10042
+43,Hearing Aid Screening,Wageningenstraat nan,Curacao,Den Haag,,,12.1005855,-68.9168534,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10043
+44,Huisartsenpost Reuver,,Reuver,Limburg,5953 AG,,51.2830442,6.0813748,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10044
+45,Huisartsenpost Zevenaar,,Zevenaar,Gelderland,6903,0900-1598,51.9430275,6.0696315,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10045
+46,IJsselland Ziekenhuis,Prins Constantijnweg 2,Capelle aan den IJssel,Capelle Aan Den Ijssel,2906 ZC,,51.9393031,4.5644474,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10046
+47,"IMSAN Dr, Rudy Engelbrecht Medical Center",,,Capelle Aan Den Ijssel,,,12.4401075,-69.9161344,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10047
+48,Ikazia Ziekenhuis,Montessoriweg 1,Rotterdam,Rotterdam,3083 AN,,51.8869302,4.4935193,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10048
+49,Isala,Dokter van Heesweg 2,Zwolle,Overijssel,8025 AB,+3138424500,52.5137535,6.1205668,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10049
+50,Isala Diaconessenhuis,,Meppel,Drenthe,7943,,52.6913555,6.214955,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10050
+51,LUMC Curium,,,Oegstgeest,2341 GA,,52.1728507,4.4577736,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10051
+52,Leids Universitair Medisch Centrum,Albinusdreef 2,Leiden,Leiden,2333 ZA,+31 71 5269111,52.1670801,4.4744932,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10052
+53,Lentis Zuidlaren,,Zuidlaren,Drenthe,9471,,53.0888003,6.6656931,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10053
+54,Liduina,,Hulst,Zeeland,4561,,51.2873154,4.0511734,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10054
+55,MCL Harlingen,Achlumerdijk 2,Harlingen,Friesland,8862 AJ,,53.1622772,5.4279888,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10055
+56,MMC Meander Medisch Centrum,Maatweg 3,,Utrecht,3817 CH,,52.1730851,5.3694539,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10056
+57,MMC Veldhoven,De Run 4600,Veldhoven,Veldhoven,5504 DB,040 888 8000,51.4067898,5.4148429,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10057
+58,Maasstad Ziekenhuis,Maasstadweg 21,Rotterdam,Rotterdam,3011,,51.877952,4.5350041,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10058
+59,Maastricht UMC+,P. Debyelaan 25,Maastricht,Limburg,6229 EG,+31 (0)43-3876543,50.8324448,5.7098035,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10059
+60,Make Me Smile Dentist,Kraayenhofstraat nan,Curacao,Limburg,,,12.1127174,-68.9455486,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10060
+61,Martini Ziekenhuis,Van Swietenplein 1,Groningen,Groningen,9728 NT,+31 050 524 5245,53.191022,6.5486747,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10061
+62,Medisch Centrum Leeuwarden,Henri Dunantweg 2,Leeuwarden,Friesland,8934 AD,+31 58 2866666,53.1902029,5.8004441,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10062
+63,Medisch Centrum Puttershoek,Standerdmolen 101;103,Puttershoek,Hoeksche Waard,3297,,51.80076,4.5638078,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10063
+64,Medisch Spectrum Twente,Koningsplein 1,Enschede,Overijssel,7513 ER,+3153 487 2000,52.2171957,6.8904235,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10064
+65,Máxima Medisch Centrum Eindhoven,,Eindhoven,Eindhoven,5611 CB,,51.4560812,5.4896205,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10065
+66,Nij Smellinghe,,,Friesland,9203 KA,,53.0980406,6.1094675,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10066
+67,Noordwest Ziekenhuisgroep,Stationsplein 49,Heerhugowaard,Heerhugowaard,1703,,52.6693789,4.8226999,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10067
+68,Noordwest Ziekenhuisgroep,Huisduinerweg 5,,Den Helder,1782 EB,,52.9585218,4.7448203,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10068
+69,Noordwest Ziekenhuisgroep locatie Alkmaar,Wilhelminalaan 131,Alkmaar,Alkmaar,1811,,52.6264921,4.7347704,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10069
+70,OLVG Locatie West,Jan Tooropstraat 164,Amsterdam,Amsterdam,1061 AE,,52.3723525,4.8388294,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10070
+71,"OLVG, locatie Oost",Oosterpark 9,Amsterdam,Amsterdam,1091 AC,,52.3590655,4.9165856,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10071
+72,Ommelander Ziekenhuis Groningen,,Scheemda,Groningen,9679,,53.1856664,6.9569542,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10072
+73,Parnassia,,Den Haag,Den Haag,2553 EW,,52.0439209,4.2049534,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10073
+74,Parnassia psycho-medisch centrum,,Den Haag,Den Haag,2551,,52.0610335,4.2470216,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10074
+75,Plexus Medical Center,Rotterdamweg nan,Curacao,Den Haag,,461 7790,12.095957,-68.9076913,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10075
+76,Polikliniek,,Kampen,Overijssel,8261,,52.5517727,5.9191083,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10076
+77,PsyQ,Lijnbaan 32,Den Haag,Den Haag,2512 VA,,52.0742126,4.2987431,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10077
+78,Reade (JBI),Dr. Jan van Breemenstraat 2,Amsterdam,Amsterdam,1057 VN,,52.3702008,4.8444895,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10078
+79,Red Cross,Weg leidende naar Under the Hill 2,Sint Eustatius,Amsterdam,,,17.4936409,-62.9867763,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10079
+80,Rehabilitations,Kaminda Saliña nan,Curacao,Amsterdam,,,12.1070292,-68.909001,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10080
+81,Reinier de Graaf Diaconessenhuis,,Voorburg,Leidschendam-voorburg,2271,,52.0610802,4.3513113,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10081
+82,Reinier de Graaf Gasthuis,Reinier de Graafweg 5,Delft,Delft,2625,+31 15 2603060,51.9983595,4.339429,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10082
+83,Revalidatiecentrum De Vogellanden,,Zwolle,Overijssel,8021 DB,,52.5027312,6.1173666,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10083
+84,Rijnstate Arnhem,Wagnerlaan 55,Arnhem,Gelderland,6815 AD,+3188 055 8888,52.0019291,5.9079105,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10084
+85,Rijnstate Ziekenhuis Zevenaar,Hunneveldweg 14A,Zevenaar,Gelderland,6901 HK,+3188 055 8887,51.9438021,6.0686639,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10085
+86,Rode Kruis Ziekenhuis,,Beverwijk,Beverwijk,1942,,52.478673,4.6517641,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10086
+87,Röpcke-Zweers Ziekenhuis,,Hardenberg,Overijssel,7772 CE,,52.5740127,6.6315538,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10087
+88,Sinai Centrum,,Amstelveen,Amstelveen,1181,,52.2932477,4.8756974,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10088
+89,Sint Antonius Ziekenhuis Nieuwegein,,Nieuwegein,Utrecht,3435,,52.0244236,5.0785922,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10089
+90,Sint Franciscus Gasthuis,Kleiweg 500,Rotterdam,Rotterdam,3054 EA,,51.9441478,4.4659297,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10090
+91,Sophia revalidatie,,Den Haag,Den Haag,2543,,52.0409252,4.2660989,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10091
+92,Spaarne Gasthuis Haarlem-Noord,,Haarlem,Haarlem,2026,,52.4225152,4.6487621,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10092
+93,Spaarne Gasthuis Haarlem-Zuid,Boerhaavelaan 22,Haarlem,Haarlem,2035 RC,+31 23 5453545,52.3674422,4.6488861,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10093
+94,Spaarne Gasthuis Heemstede (Dagziekenhuis),Händellaan 2A,Heemstede,Heemstede,2101,+31 23 8908900,52.3550914,4.6337768,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10094
+95,Spaarne Gasthuis Hoofddorp,Spaarnepoort 1,Hoofddorp,Haarlemmermeer,2132,+31 23 8908900,52.3239227,4.6496544,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10095
+96,St Antonius Ziekenhuis,,Utrecht,Utrecht,3543,088-3203000,52.1045929,5.0558132,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10096
+97,Ter Schorre,,Terneuzen,Zeeland,4531 EB,,51.3197082,3.8472663,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10097
+98,Treant Scheper,Boermarkeweg nan,Emmen,Drenthe,7824 AA,+31591691911,52.787265,6.9106726,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10098
+99,Universitair Medisch Centrum Groningen,Hanzeplein 1,Groningen,Groningen,9711,+315 0361 61 61,53.220414,6.5756466,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10099
+100,Universitair Medisch Centrum Utrecht,Heidelberglaan 100,Utrecht,Utrecht,3584 CX,+31887555555,52.0878653,5.1781958,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10100
+101,Veldwijk,,Ermelo,Gelderland,3851 GD,,52.3058433,5.6064997,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10101
+102,VieCuri,,Venlo,Limburg,5912,,51.3551561,6.1521764,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10102
+103,Windward Island Emergency Medical Services,Welegen Road nan,,Limburg,,,18.0301079,-63.066226,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10103
+104,Ziekenhuis Amstelland,Laan van de Helende Meesters nan,Amstelveen,Amstelveen,1181,,52.2936895,4.8721131,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10104
+105,Ziekenhuis Rijnstate Velp,President Kennedylaan 100,Velp,Gelderland,6881,088-0058888,51.9865349,5.9780226,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10105
+106,Ziekenhuis Rivierenland,,Tiel,Gelderland,4002,,51.8913841,5.4168515,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10106
+107,ZorgSaam Ziekenhuis - De Honte,,Terneuzen,Zeeland,4531 EB,,51.3087402,3.8572841,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10107
+108,Zorgpark Goes,,,Zeeland,,,51.4858319,3.9132467,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10108
+109,Zuyderland,,Geleen,Limburg,6162 BG,,50.9834341,5.8424624,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10109
+110,Zuyderland,Henri Dunantstraat 5,Heerlen,Limburg,6419 PC,,50.8685633,5.9768915,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10110
+111,Arbo Unie,,Gouda,Gouda,2801,,52.0216565,4.6814638,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10111
+112,ArtsEnZorg,,Den Haag,Den Haag,2595 SR,,52.0851435,4.3375891,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10112
+113,Bavo Europoort | PsyQ | Indigo | Lucertis | i-psy | Ster-MDC,,Rotterdam,Rotterdam,3085,,51.8858285,4.4870382,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10113
+114,Behandelcentrum Westland,,,Westland,2692 AS,,51.9904496,4.216362,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10114
+115,Centre Médicale Francophone,,Voorburg,Leidschendam-voorburg,2271,,52.0634596,4.3559138,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10115
+116,Centro Medico Aesculapius,SBN Doormanweg 47,Curacao,Leidschendam-voorburg,,,12.1303164,-68.8983687,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10116
+117,Centro Medico De Savaan,,Curacao,Leidschendam-voorburg,,,12.1465031,-68.9609362,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10117
+118,Clinic,Weg naar Welgelegen 28,Curacao,Leidschendam-voorburg,,,12.1188003,-68.9499803,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10118
+119,Clinic 28,,Den Haag,Den Haag,2585,,52.1020516,4.2870094,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10119
+120,DR. Henriquez,Caracasbaaiweg 193,Curacao,Den Haag,,,12.1055085,-68.891167,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10120
+121,De Compagnie,,Medemblik,Medemblik,1671,,52.7666842,5.1044741,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10121
+122,De Mölle,,,Gelderland,7383,,52.1691085,6.0690781,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10122
+123,Dokterspost,,Nieuwleusen,Overijssel,7711 AG,,52.5839544,6.2868373,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10123
+124,Dokterspost,,Castricum,Castricum,1901,,52.5627458,4.6315586,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10124
+125,Dr. Carrega,Ronde Klipweg 1,Curacao,Castricum,,,12.137523,-68.8853301,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10125
+126,EHBO,Europalaan 1,Kaatsheuvel,Loon Op Zand,5171,,51.6516055,5.0494517,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10126
+127,Fabels,,Eerbeek,Gelderland,6961 CW,,52.0935873,6.0633278,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10127
+128,Fisio centrum,,Groningen,Groningen,9727 EA,,53.2090136,6.5548443,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10128
+129,GGD Midden Holland,,Gouda,Gouda,2801,,52.0217301,4.7097139,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10129
+130,Gezondheidscentrum,,Gouda,Gouda,2801,,52.0108764,4.7423385,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10130
+131,Gezondheidscentrum,,Den Haag,Den Haag,2551,,52.0601978,4.2427507,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10131
+132,Gezondheidscentrum Assen Noord,,Assen,Drenthe,9401,,53.0058038,6.5583656,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10132
+133,Gezondheidscentrum Bonnehûs,,Leeuwarden,Friesland,8911,,53.2119933,5.7875081,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10133
+134,Gezondheidscentrum Buitenwegh,,Zoetermeer,Zoetermeer,2711,,52.0664627,4.4790435,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10134
+135,Gezondheidscentrum Castrovalva,,Almere-Stad,Flevoland,1315,,52.3714649,5.2663807,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10135
+136,Gezondheidscentrum Culemborg,Constantijnlaan 2,Culemborg,Gelderland,4105,,51.9568286,5.2355067,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10136
+137,Gezondheidscentrum De Archipel,,Almere-Stad,Flevoland,1315,,52.3577034,5.1803947,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10137
+138,Gezondheidscentrum De Binder,,Almere-Buiten,Flevoland,1333,,52.3856535,5.2769902,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10138
+139,Gezondheidscentrum De Boog,,Almere-Stad,Flevoland,1315,,52.3823116,5.1974357,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10139
+140,Gezondheidscentrum De Leyens,,Zoetermeer,Zoetermeer,2711,,52.0730946,4.494938,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10140
+141,Gezondheidscentrum De Marne,,Leens,Groningen,9965 PB,,53.3623395,6.3739466,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10141
+142,Gezondheidscentrum De Opmaat,,Almere-Stad,Flevoland,1315,,52.3662795,5.1915207,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10142
+143,Gezondheidscentrum De Schakel,,Almere-Stad,Flevoland,1315,,52.3685756,5.2053637,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10143
+144,Gezondheidscentrum Eygelshoven,,Eygelshoven,Limburg,6471 CA,,50.8937725,6.0591381,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10144
+145,Gezondheidscentrum Filmwijk,,Almere-Stad,Flevoland,1315,,52.3716036,5.2304367,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10145
+146,Gezondheidscentrum Het Stroaten,,Markelo,Overijssel,7475 BB,,52.2339025,6.4954567,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10146
+147,Gezondheidscentrum Hoendiep,,Groningen,Groningen,9718 RG,,53.21494,6.549586,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10147
+148,Gezondheidscentrum Huiswaard,Muiderwaard 500,Alkmaar,Alkmaar,1811,072 5611644,52.645879,4.752281,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10148
+149,Gezondheidscentrum Noordhove,,Zoetermeer,Zoetermeer,2728 MX,,52.0751369,4.5194649,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10149
+150,Gezondheidscentrum Parkwijk,,Almere-Stad,Flevoland,1315,,52.3738116,5.2435684,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10150
+151,Gezondheidscentrum Pijnacker,,Pijnacker,Pijnacker-nootdorp,2641 DT,,52.0200551,4.4313194,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10151
+152,Gezondheidscentrum Prisma,,Almere-Buiten,Flevoland,1333,,52.3978613,5.2906853,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10152
+153,Gezondheidscentrum Rokkeveen Oost,,Zoetermeer,Zoetermeer,2711,,52.0386807,4.4927151,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10153
+154,Gezondheidscentrum Schuytgraaf,,Arnhem,Gelderland,6811 JE,,51.9528195,5.8478349,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10154
+155,Gezondheidscentrum Seghwaert,,Zoetermeer,Zoetermeer,2711,,52.0643228,4.5139466,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10155
+156,Gezondheidscentrum Sta. Maria,Schonegevelstraat 4,Curacao,Zoetermeer,,,12.1594262,-68.9491768,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10156
+157,Gezondheidscentrum Vaillantplein,,Den Haag,Den Haag,2526 RM,,52.0697774,4.3002274,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10157
+158,Gezondheidscentrum Vizier,,Almere-Stad,Flevoland,1315,,52.3470894,5.1507456,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10158
+159,Gezondheidscentrum Voorburg-West,,Voorburg,Leidschendam-voorburg,2271,,52.0613956,4.3518356,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10159
+160,Gezondheidscentrum Wippolder,,Delft,Delft,2611 RV,,52.006934,4.3743257,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10160
+161,Gezondheidscentrum Zaandam Oost,,Zaandam,Zaanstad,1506 JC,075 618686,52.4511479,4.8255025,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10161
+162,Gezondheidscentrum Zielhorst,,Amersfoort,Utrecht,3817 CH,,52.181967,5.4075031,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10162
+163,Gezondheidscentrum de Lindehoeve,Lindepad 1,Voorschoten,Voorschoten,2252,,52.121575,4.4471076,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10163
+164,Gezondheidscentrum de Vroonen,de Helling 11-37,,Langedijk,1721,,52.6631032,4.7784547,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10164
+165,Gezondheidscentrum op 1 lijn,,Dordrecht,Dordrecht,3311 JA,,51.8056984,4.6922809,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10165
+166,Gezondheidscentum,,Ermelo,Gelderland,3851 GD,,52.306492,5.6224622,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10166
+167,Gezondsheidshuis Stadshagen,,Zwolle,Overijssel,8021 DB,,52.533539,6.0578153,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10167
+168,Gouweloos,,'s-Gravendeel,Hoeksche Waard,3295,,51.777032,4.6095745,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10168
+169,Groepspraktijk Schaijk,Bossestraat 2,Schaijk,Landerd,5374 CA,,51.7477323,5.6285527,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10169
+170,H M A Wijmenga,,Metslawier,Friesland,9123,,53.3599882,6.0705161,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10170
+171,HAP Wildemansteeg,Wildemansteeg 1,Wijk bij Duurstede,Utrecht,3961 BC,+31 343-571220,51.9721447,5.3484461,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10171
+172,Het Dok,,Urk,Flevoland,8321,,52.6640707,5.628546,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10172
+173,Het Doktershuis Rijsoord,,Rijsoord,Ridderkerk,2988 BJ,,51.8514591,4.5985406,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10173
+174,Huisarts Bouman,,Eerbeek,Gelderland,6961 CW,,52.1058977,6.0527564,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10174
+175,"Huisarts Dr W.W. de Jonge,/Dra Durand",Cas Coraweg 30,Curacao,Gelderland,,,12.1287524,-68.899249,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10175
+176,Huisartsen praktijk de Gors,,Purmerend,Purmerend,1441,,52.4986668,4.9591762,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10176
+177,Huisartsencentrum Bloemendaal,,Bloemendaal,Bloemendaal,2061,,52.410882,4.6233596,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10177
+178,"Huisartsenpraktijk ""Het Station""",,Aalten,Gelderland,7121,,51.9224943,6.5786254,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10178
+179,Huisartsenpraktijk A.J.A. Barendse,,,Leidschendam-voorburg,2264,,52.1043251,4.4667147,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10179
+180,Huisartsenpraktijk Akkrum,,Akkrum,Friesland,8491,,53.0505959,5.835354,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10180
+181,Huisartsenpraktijk Amaru,,Vlijmen,Heusden,5251 AC,,51.6998318,5.2259869,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10181
+182,Huisartsenpraktijk Bergerhoef,,Alkmaar,Alkmaar,1811,,52.6372067,4.7252806,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10182
+183,Huisartsenpraktijk Berkenhove,,Zwolle,Overijssel,8021 DB,,52.4876454,6.1126843,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10183
+184,Huisartsenpraktijk Berkenhove,,Zwolle,Overijssel,8021 DB,,52.4875158,6.112693,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10184
+185,Huisartsenpraktijk Beusichem,,Beusichem,Gelderland,4112,,51.9517817,5.2913502,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10185
+186,Huisartsenpraktijk Bloemendaal,,Gouda,Gouda,2801,,52.0306303,4.7057764,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10186
+187,Huisartsenpraktijk Buurmalsen-Tricht,Groeneweg 44bis,,Gelderland,4191 SE,,51.8894085,5.2786611,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10187
+188,Huisartsenpraktijk De Teselaar,,Bemmel,Gelderland,6681,,51.8879393,5.8939316,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10188
+189,Huisartsenpraktijk De Woerd,Verdilaan 1-B,Naaldwijk,Westland,2671 JJ,0174-624765,51.9964354,4.2084538,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10189
+190,Huisartsenpraktijk Dr. E.A. Doran,Kaminda Winfrido Hermans 191,Curacao,Westland,,,12.1067933,-68.85309,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10190
+191,Huisartsenpraktijk Het Gildenhuis,,Zeewolde,Flevoland,3891 EA,,52.324652,5.5329218,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10191
+192,Huisartsenpraktijk M.J.M. Valk en L.J. Meijer,Leusderweg 272,Amersfoort,Utrecht,3817 CH,033-4615412,52.1398307,5.3777458,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10192
+193,Huisartsenpraktijk Nieuwehorne,,Nieuwehorne,Friesland,8414 LX,+31513541224,52.9518724,6.0605823,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10193
+194,Huisartsenpraktijk Ophemert,,Ophemert,Gelderland,4061 AC,,51.8465845,5.3898714,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10194
+195,Huisartsenpraktijk Overasselt,,Overasselt,Gelderland,6611 BX,,51.761056,5.7854646,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10195
+196,Huisartsenpraktijk Silvolde,Monseigneur Nolensstraat 8,Silvolde,Gelderland,7064 BC,0315 323 131,51.9128931,6.384593,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10196
+197,Huisartsenpraktijk Stoop,Langbroekseweg 4,,Utrecht,3961 BC,+31 343 571673,51.9870798,5.3426074,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10197
+198,Huisartsenpraktijk Wehl,Isidorusstraat 10,Wehl,Gelderland,7031 BM,,51.9587702,6.2121208,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10198
+199,Huisartsenpraktijk Zonneoord,,Den Haag,Den Haag,2543,,52.0421969,4.2576926,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10199
+200,Huisartspraktijk Gussenhoven,,Sauwerd,Groningen,9771,,53.2935705,6.5320239,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10200
+201,Huisartspraktijk Hiddink,,Bemmel,Gelderland,6681,,51.8925399,5.8911266,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10201
+202,Huisartspraktijk Jacobs BV,,,Friesland,9162 EL,,53.4458641,5.6890513,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10202
+203,Lands Laboratorium,Hospitaalstraat 4,,Friesland,,,12.5206481,-70.0302391,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10203
+204,Medimere,,Almere-Buiten,Flevoland,1333,,52.3888253,5.2740852,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10204
+205,Medisch Cenntrum Kluis,,Geleen,Limburg,6161 ED,,50.9598467,5.8335722,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10205
+206,Medisch Centrum,Hoofdstraat 25,Bovenkarspel,Stede Broec,1611 AL,,52.6977352,5.2364914,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10206
+207,Medisch Centrum Bodegraven,,Bodegraven,Bodegraven-reeuwijk,2411 BE,,52.0877458,4.748795,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10207
+208,Medisch Centrum Bredeweg,,Roermond,Limburg,6041 KZ,,51.1925583,6.0033709,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10208
+209,Medisch Centrum Buitenhove,,Leeuwarden,Friesland,8911,,53.195454,5.8137149,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10209
+210,Medisch Centrum Heeten,,Heeten,Overijssel,8111 PH,,52.3306905,6.2863426,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10210
+211,Medisch Centrum Hofspoor,Hofspoor 4,Houten,Utrecht,3995 EC,,52.0247715,5.1777392,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10211
+212,Medisch Centrum Kerkrade West,,Spekholzerheide,Limburg,6466,,50.8608693,6.0319144,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10212
+213,Medisch Centrum Kruisstraat,,Kerkrade,Limburg,6461 EA,,50.8603675,6.0682586,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10213
+214,Medisch Centrum Lambertus,,Blerick,Limburg,5921 KB,,51.3717623,6.1488538,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10214
+215,Medisch Centrum Nijverdal,,Nijverdal,Overijssel,7443 BR,,52.360295,6.466777,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10215
+216,Medisch Centrum Puth,,Puth,Limburg,6155,,50.9550708,5.8698747,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10216
+217,Medisch Centrum Rijssen,,Rijssen,Overijssel,7461,,52.3019798,6.5185183,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10217
+218,Medisch Centrum de Linie,,Apeldoorn,Gelderland,7311 LW,,52.2162243,6.0056292,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10218
+219,Medisch Centrum de Poort,,Drachten,Friesland,9203 KA,,53.1098647,6.1125463,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10219
+220,Medisch centrum,,Den Ham,Overijssel,7683 BG,,52.4615223,6.4945746,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10220
+221,N.X.M. Rog-Wanner,,Curacao,Overijssel,,,12.1619591,-68.9456204,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10221
+222,PHM Maas,,Eerbeek,Gelderland,6961 CW,,52.0984245,6.0656757,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10222
+223,"Praktijk A.E. Maduro, plastisch chirurg",Schottegatweg Oost 179,Curacao,Gelderland,,0059997371099,12.1163549,-68.9017314,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10223
+224,Praktijk Chiropraktie M.H. den Baars,,Zoetermeer,Zoetermeer,2711,,52.0529469,4.4659232,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10224
+225,Praktijk Nieuwendam,,Zaandam,Zaanstad,1506 JC,,52.4470034,4.8062145,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10225
+226,Praktijkhuis Baarle,Pastoor Van Herdegomstraat 17,Baarle-Nassau,Baarle-nassau,5111,,51.4407999,4.9287829,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10226
+227,R. Korpershoek,,,Gelderland,6971 EN,,52.107829,6.0682706,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10227
+228,Rode Kruis,Strandweg nan,,Den Haag,2514,,52.1154955,4.2827251,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10228
+229,"Sint Maarten Health Care Clinic, Physiotherapy",Welfare Road 15,,Sint Maarten,,,18.0307969,-63.0803971,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10229
+230,Sorsaka,Caracasbaaiweg nan,Curacao,Sint Maarten,,,12.1044775,-68.8824402,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10230
+231,Tandarts v/d Kerkhof,,Eerbeek,Gelderland,6961 CW,,52.1042764,6.0655398,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10231
+232,Therapeuticum de Es,,Apeldoorn,Gelderland,7311 LW,,52.204305,5.9903045,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10232
+233,Vaste Burcht,,Voorburg,Leidschendam-voorburg,2271,,52.0757337,4.3518916,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10233
+234,W.J.Eenink,,Zoetermeer,Zoetermeer,2711,,52.0660281,4.4694746,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10234
+235,Zorggebouw Houten,,Houten,Utrecht,3995 EC,,52.0240754,5.1630095,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10235
+236,huisartsenpraktijk oenkerk,,Oentsjerk,Friesland,9062,,53.2518884,5.8987471,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10236

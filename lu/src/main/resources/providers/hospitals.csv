@@ -1,14 +1,27 @@
 ,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
-0,10000,Centre Hospitalier,nan nan,Luxembourg,Luxembourg,2440,,,,,,,49.6167041,6.1009636
-1,10001,Centre Hospitalier Neuro-Psychiatrique (CHNP),nan nan,Ettelbrück,Diekirch,9064,,,,,,,49.8431353,6.0964532
+0,10000,CHL - Clinique d'Eich,Rue d'Eich 78.0,Luxembourg,Luxembourg,2168,,+352 44 11 12,,,,,49.630763,6.1349911
+1,10001,Centre Hospitalier de Luxembourg,Rue Nicolas-Ernest Barblé 4,Luxembourg,Luxembourg,1210,,,,,,,49.6167041,6.1009636
 2,10002,Centre Hospitalier du Nord,Avenue Lucien Salentiny 120.0,Ettelbrück,Diekirch,9064,,,,,,,49.8532735,6.0946999
-3,10003,Centre de Convalescence,nan nan,Ell,Diekirch,8526,,+352 2755 4300,,,,,49.7592849,5.8250859
-4,10004,Centre hospitalier Émile Mayrisch,nan nan,Esch-sur-Alzette,Luxembourg,4132,,,,,,,49.5029923,5.9806643
-5,10005,Clinique Sainte-Marie,nan nan,Esch-sur-Alzette,Luxembourg,4132,,,,,Yes,,49.5013745,5.986526
-6,10006,Clinique d'Eich,Rue d'Eich 78.0,Luxembourg,Luxembourg,2168,,+352 44 11 12,,,,,49.630763,6.1349911
-7,10007,Clinique saint Joseph Wiltz,Rue Grande-Duchesse Charlotte 10.0,Wiltz,Diekirch,9573,,,,,Yes,,49.9653513,5.9339156
-8,10008,Hôpital Kirchberg,nan nan,Luxembourg,Luxembourg,2220,,+352 2468-1,,,,,49.631793,6.1775012
-9,10009,Hôpital de la ville de Dudelange,Rue de l'Hôpital 98.0,Dudelange,Luxembourg,3590,,,,,,,49.4707005,6.0882564
-10,10010,Maison des Soins Sacré Coeur,nan nan,Diekirch,Diekirch,9254,,,,,,,49.8703995,6.1544587
-11,10011,Rehazenter,nan nan,Luxembourg,Luxembourg,2450,,,,,,,49.6288334,6.1749046
-12,10012,Sénologie,nan nan,Luxembourg,Luxembourg,2168,,,,,,,49.6309966,6.1354292
+3,10003,Centre de Convalescence,,Ell,Diekirch,8526,,+352 2755 4300,,,,,49.7592849,5.8250859
+4,10004,Centre hospitalier Neuro-Psychiatrique (CHNP),,Ettelbrück,Diekirch,9064,,,,,,,49.8427455,6.0965592
+5,10005,Centre hospitalier du Nord - Site d'Ettelbruck,,Ettelbrück,Diekirch,9064,,,,,Yes,,49.8438373,6.0987895
+6,10006,Centre hospitalier Émile Mayrisch,,Esch-sur-Alzette,Luxembourg,4132,,,,,,,49.5029923,5.9806643
+7,10007,Clinique Sainte-Marie,,Esch-sur-Alzette,Luxembourg,4132,,,,,Yes,,49.5013745,5.986526
+8,10008,Clinique saint Joseph Wiltz,Rue Grande-Duchesse Charlotte 10.0,Wiltz,Diekirch,9573,,,,,Yes,,49.9653513,5.9339156
+9,10009,Hôpital Kirchberg,,Luxembourg,Luxembourg,2220,,+352 2468-1,,,,,49.631793,6.1775012
+10,10010,Hôpital de la ville de Dudelange,Rue de l'Hôpital 98.0,Dudelange,Luxembourg,3590,,,,,,,49.4707005,6.0882564
+11,10011,Maison des Soins Sacré Coeur,,Diekirch,Diekirch,9254,,,,,,,49.8703995,6.1544587
+12,10012,Rehazenter,,Luxembourg,Luxembourg,2450,,,,,,,49.62906,6.1754249
+13,10013,Sénologie,,Luxembourg,Luxembourg,2168,,,,,,,49.6309966,6.1354292
+14,10014,Centre Médical Fondation Norbert Metz,Rue d'Eich 76,Luxembourg,Luxembourg,2168,,,,,,,49.6315466,6.1351333
+15,10015,Centre Médical Rédange,Rue de la Piscine 18,Redange,Diekirch,8509,,+352 23 62421,,,,,49.7677798,5.8955079
+16,10016,Centre de Pédiatrie du Val Sainte-Croix,Allée Léopold Goebel 4,Luxembourg,Luxembourg,2551,,,,,,,49.6128888,6.1127836
+17,10017,Centre médical,,Mersch,Luxembourg,7520,,,,,,,49.7459274,6.1033788
+18,10018,Dr Lech,Rue de Differdange 51,Sanem,Luxembourg,4463,,,,,,,49.5228814,5.9331622
+19,10019,Flamion,,Käerjeng,Luxembourg,4963,,,,,,,49.597464,5.8750132
+20,10020,Hoffelt-Defobis Martine,Rue des Fleurs 13A,Kehlen,Luxembourg,8391,,+352 30 81 31,,,,,49.6738456,6.0106475
+21,10021,Maison Médicale du Centre,Rue Michel Welter 59,Luxembourg,Luxembourg,1616,,,,,,,49.6028877,6.1269927
+22,10022,Maison Médicale du Nord,Avenue Lucien Salentiny 110,Ettelbrück,Diekirch,9064,,,,,,,49.8522297,6.0964589
+23,10023,Maison Médicale du Sud,Rue Émile Mayrisch 70,Esch-sur-Alzette,Luxembourg,4132,,,,,,,49.5021647,5.9826903
+24,10024,Martine Zeyen,Rue Théodore Eberhard 16,Luxembourg,Luxembourg,2551,,,,,,,49.609136,6.1065434
+25,10025,Welter,Rue du Bois 38,Käerjeng,Luxembourg,4930,,+352 26 50 09 47,,,,,49.5620653,5.9095464

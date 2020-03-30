@@ -1,20 +1,248 @@
 ,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
-8,20008,Beaumont Hospital,nan nan,Dublin,,,,,,,Yes,,53.3923659,-6.222199
-17,20017,Cavan General Hospital,Golf Links Road nan,Cavan,,,,+353-49-4376000,,,Yes,,54.000921,-7.3746693
-26,20026,Connolly Hospital,Navan Road nan,Dublin,,,,+353-1-6465000,,,Yes,,53.3867253,-6.3689484
-28,20028,Cork University Hospital,Bishopstown Road nan,Cork,,,,,,,Yes,,51.8854888,-8.5075272
-54,20054,Mater Misericordiae University Hospital,North Circular Road nan,Dublin,,,,,,,Yes,,53.3584846,-6.2669005
-58,20058,Mayo University Hospital,John Moore Road nan,Castlebar,,,,+353-94-9021733,,,Yes,,53.8495789,-9.3018946
-62,20062,Midland Regional Hospital Mullingar,Longford Road nan,Mullingar,,,,,,,Yes,,53.5343723,-7.3508528
-73,20073,Our Lady of Lourdes Hospital,nan nan,Drogheda,,,,,,,Yes,,53.7227981,-6.3527367
-74,20074,Our Lady's Children's Hospital Crumlin,Cooley Road nan,Dublin,,,,,,,Yes,,53.3271596,-6.3192423
-78,20078,Portiuncula Hospital,nan nan,Ballinasloe,,,,+353-90-964-8200,,,Yes,,53.325815,-8.2353485
-103,20103,St Joseph's Community Hospital,nan nan,Bantry,,,,,,,Yes,,51.6525431,-9.9004154
-110,20110,St Vincent's University Hospital,Merrion Road nan,Dublin,,,,+353-1-2214000,,,Yes,,53.3181377,-6.2142474
-117,20117,St. James's Hospital,James's Street nan,Dublin,,,,+353-1-4103000,,,Yes,,53.3384095,-6.2994208
-121,20121,St. Luke's General Hospital,Freshford Road nan,Kilkenny,,,,,,,Yes,,52.6663849,-7.2650639
-123,20123,St. Michael's Hospital,Georges Street Lower nan,Dun Laoghaire,,,,+353 1 280 6901,,,Yes,,53.2945252,-6.1387525
-128,20128,Tallaght University Hospital,Belgard Square North nan,Dublin,,,,+353-1-4142000,,,Yes,,53.2892594,-6.3761378
-135,20135,University Hospital Kerry,nan nan,Tralee,,,,,,,Yes,,52.2640542,-9.6883661
-137,20137,University Hospital Waterford,nan nan,Waterford,,,,,,,Yes,,52.2476166,-7.0836076
-139,20139,Wexford General Hospital,nan nan,Wexford,,,,+353 53 9142233,,,Yes,,52.341674,-6.4821267
+0,20000,Abbeyleix District Hospital,,Portlaoise,County Laois,,,,,,,,52.9125186,-7.3437598
+1,20001,Aut Even Hospital,Freshford Road nan,Kilkenny,County Kilkenny,,,+353 56 777 5275,,,No,,52.6759357,-7.2719856
+2,20002,Baggot Street Community Hospital,Baggot Street Upper nan,Dublin,County Dublin,,,,,,No,,53.3340261,-6.2434451
+3,20003,Ballina District Hospital,,Ballina,County Mayo,,,,,,,,54.1155684,-9.1658476
+4,20004,Ballinamore Community Nursing Unit & Primary Care Centre,nan Tully,Carrick-on-Shannon,County Leitrim,,,,,,,,54.0506213,-7.8032363
+5,20005,Bandon Community Hospital,,Bandon,County Cork,,,+353 23 884 1403,,,,,51.7446378,-8.7253211
+6,20006,Bantry General Hospital,,Bantry,County Cork,,,,,,,,51.6770362,-9.4492159
+7,20007,Barretstown Gang Camp,,Naas,County Kildare,,,,,,No,,53.1538336,-6.5998605
+8,20008,Beaumont Hospital,,Dublin,County Dublin,,,,,,Yes,,53.3923659,-6.222199
+9,20009,Birr Community Hospital and Nursing Home,,Birr,County Offaly,,,,,,,,53.0971271,-7.9003438
+10,20010,Blackrock Clinic,,Blackrock,County Dublin,,,,,,,,53.3049726,-6.1879273
+11,20011,Bloomfield Health Services & Quaker House,Stocking Lane nan,Dublin,County Dublin,,,+353-1-4950021,,,No,,53.2729512,-6.3062087
+12,20012,Bon Secours Hospital,Glasnevin Hill nan,Dublin,County Dublin,,,,,,No,,53.3764215,-6.2678802
+13,20013,Bon Secours Hospital,,Tralee,County Kerry,,,,,,,,52.26918,-9.7128287
+14,20014,Bon Secours Hospital,College Road nan,Cork,County Cork,,,+353 21 454 2807,,,,,51.8909605,-8.4984717
+15,20015,Bon Secours Hospital Galway,,Gaillimh,County Galway,,,,,,,,53.2767467,-9.0201572
+16,20016,Cappagh National Orthopaedic Hospital,,Dublin,County Dublin,,,,,,No,,53.3923766,-6.3249131
+17,20017,Cavan General Hospital,Golf Links Road nan,Cavan,County Cavan,,,+353-49-4376000,,,Yes,,54.000921,-7.3746693
+18,20018,Central Mental Hospital,Dundrum Road nan,Dublin,County Dublin,,,,,,No,,53.2994618,-6.2438793
+19,20019,Central Remedial Clinic,,Dublin,County Dublin,,,+353-1-8542200,,,No,,53.3701396,-6.2016274
+20,20020,Cherry Orchard Hospital,,Dublin,County Dublin,,,,,,,,53.3436337,-6.3723067
+21,20021,Clonakilty Community Hospital,,Clonakilty,County Cork,,,,,,,,51.6315015,-8.8770657
+22,20022,Clonmethan Health Centre,,Oldtown,County Dublin,,,,,,,,53.518519,-6.3169378
+23,20023,Clonskeagh Hospital,Clonskeagh Road nan,Dublin,County Dublin,,,,,,,,53.316797,-6.2393273
+24,20024,Cloonamahon Learning Disability Services,,,County Sligo,,,,,,,,54.1559377,-8.4880176
+25,20025,Cluain Lir Care Centre,Longford Road nan,Mullingar,County Westmeath,,,,,,,,53.5366752,-7.3527681
+26,20026,Connolly Hospital,Navan Road nan,Dublin,County Dublin,,,+353-1-6465000,,,Yes,,53.3867253,-6.3689484
+27,20027,Coombe Women & Infants University Hospital,Cork Street nan,Dublin,County Dublin,,,+353 1 408 5200,,,maternity,,53.3355303,-6.289229
+28,20028,Cork University Hospital,Bishopstown Road nan,Cork,County Cork,,,,,,Yes,,51.8854888,-8.5075272
+29,20029,Donegal District Hospital,,Donegal,County Donegal,,,,,,,,54.6560999,-8.0982437
+30,20030,Dublin Dental University Hospital,Lincoln Place nan,Dublin,County Dublin,D02,,+353-1-6127391,,,dental only,,53.3420051,-6.2522252
+31,20031,Ely Hospital,,Wexford,County Wexford,,,,,,,,52.3448519,-6.4547554
+32,20032,Ennis Hospital,,Ennis,County Clare,,,,,,,,52.8506072,-8.9846649
+33,20033,Fairview Community Unit (Mater Hospital),,Dublin,County Dublin,,,,,,,,53.3684454,-6.2437129
+34,20034,Falcarragh Medical Centre,,Letterkenny,County Donegal,,,,,,No,,55.1369737,-8.1004214
+35,20035,Fermoy Community Hospital,,Fermoy,County Cork,,,,,,,,52.1371766,-8.2582157
+36,20036,Galway Clinic,,Galway,County Galway,,,,,,,,53.2831508,-8.9742758
+37,20037,Gheel Autism Services,,Dublin,County Dublin,,,,,,,,53.3681588,-6.2422495
+38,20038,Gorey District Hospital,,Gorey,County Wexford,,,,,,,,52.6741591,-6.300593
+39,20039,Hermitage Medical Clinic,,Lucan,County Dublin,K78,,,,,,,53.3590732,-6.4095432
+40,20040,Highfield Healthcare,Swords Road nan,Dublin,County Dublin,,,,,,,,53.3784425,-6.2473548
+41,20041,Hospital Grounds New Ross,Hospital Road nan,New Ross,County Wexford,,,,,,No,,52.3888629,-6.9409868
+42,20042,Incorporated Orthopaedic Hospital of Ireland,Blackheath Park nan,Dublin,County Dublin,,,+353-1-8332521,,,No,,53.3666636,-6.2025272
+43,20043,Irish Wheelchair Association and Respite Centre,,Dublin,County Dublin,,,,,,,,53.3685328,-6.2007396
+44,20044,Kanturk Community Hospital,,Mallow,County Cork,,,,,,,,52.1753847,-8.9165506
+45,20045,Kenmare Public Hospital,,Killarney,County Kerry,,,,,,,,51.8894033,-9.5825884
+46,20046,Kilcreene Hospital,,,County Kilkenny,,,,,,No,,52.6514167,-7.2764397
+47,20047,Killarney Community Hospital,,Killarney,County Kerry,,,,,,,,52.0653143,-9.5168748
+48,20048,Kilrock House,Kilrock Road nan,Howth,County Dublin,,,,,,No,,53.385786,-6.0602629
+49,20049,Kinsale Community Hospital,,Kinsale,County Cork,,,+353 21 4772 202,,,No,,51.7123349,-8.5276754
+50,20050,Leopardstown Park Hospital,,Dublin,County Dublin,,,,,,No,,53.269656,-6.2032602
+51,20051,Lucena Clinic & St Peter's School,Orwell Road 59,Dublin,County Dublin,,,+353-1-4923596,,,No,,53.3102029,-6.2735209
+52,20052,Macroom Community Hospital,,Macroom,County Cork,,,,,,,,51.9074717,-8.9681484
+53,20053,Mallow General Hospital,,Mallow,County Cork,,,,,,,,52.1512763,-8.6618732
+54,20054,Mater Misericordiae University Hospital,North Circular Road nan,Dublin,County Dublin,D07,,,,,Yes,,53.3584846,-6.2669005
+55,20055,Mater Private Cork,City Gate nan,Cork,County Cork,,,,,,,,51.8863704,-8.4064969
+56,20056,Mater Private Hospital,Dorset Street Upper 81-84,Dublin,County Dublin,,,,,,No,,53.3570097,-6.2651215
+57,20057,Mater Private Hospital,Eccles Street nan,Dublin,County Dublin,D07,,,,,No,,53.3585759,-6.2649245
+58,20058,Mayo University Hospital,John Moore Road nan,Castlebar,County Mayo,,,+353-94-9021733,,,Yes,,53.8495789,-9.3018946
+59,20059,Mercy University Hospital,,Cork,County Cork,T12,,,,,,,51.8980916,-8.4825851
+60,20060,Merlin Park Hospital,,Gaillimh,County Galway,,,,,,,,53.2761351,-9.003131
+61,20061,Mid-Western Regional Orthopaedic Hospital,,Kilmallock,County Limerick,,,,,,,,52.5257371,-8.7126936
+62,20062,Midland Regional Hospital Mullingar,Longford Road nan,Mullingar,County Westmeath,N91,,,,,Yes,,53.5343723,-7.3508528
+63,20063,Midland Regional Hospital Portlaoise,,Portlaoise,County Laois,,,,,,,,53.0368195,-7.276417
+64,20064,Midland Regional Hospital Tullamore,,Tullamore,County Offaly,,,,,,,,53.284292,-7.4914347
+65,20065,Midleton Community Hospital,,Midleton,County Cork,,,,,,,,51.917882,-8.1737102
+66,20066,Milford Care Centre,,Limerick,County Limerick,,,,,,,,52.6690514,-8.5736179
+67,20067,Monaghan General Hospital,High Street nan,Monaghan,County Monaghan,,,,,,,,54.2490878,-6.9727318
+68,20068,Mount Carmel Community Hospital,Braemor Park nan,Dublin,County Dublin,,,,,,No,,53.3036823,-6.2668347
+69,20069,Naas General Hospital,,Naas,County Kildare,,,,,,,,53.2130204,-6.6624959
+70,20070,National Rehabilitation Hospital,Rochestown Avenue nan,Dun Laoghaire,County Dublin,,,,,,,,53.2768721,-6.1528699
+71,20071,Nenagh General Hospital,Thurles Road nan,Nenagh,County Tipperary,,,+353 67 31491,,,,,52.8576879,-8.188917
+72,20072,Newcastle Hospital,,Greystones,County Wicklow,,,,,,,,53.0800851,-6.1014167
+73,20073,Our Lady of Lourdes Hospital,,Drogheda,County Louth,,,,,,Yes,,53.7227981,-6.3527367
+74,20074,Our Lady's Children's Hospital Crumlin,Cooley Road nan,Dublin,County Dublin,D12,,,,,Yes,,53.3271596,-6.3192423
+75,20075,Our Lady's Children's Hospital Crumlin,,Dublin,County Dublin,,,+353 1 409 6100,,,,,53.3246568,-6.3221557
+76,20076,Our Lady’s Hospital,,Navan,County Meath,C15,,,,,,,53.6511184,-6.7000687
+77,20077,Phoenix Care Centre,North Circular Road nan,Dublin,County Dublin,,,+353-76-6958700,,,No,,53.3578101,-6.2855998
+78,20078,Portiuncula Hospital,,Ballinasloe,County Galway,,,+353-90-964-8200,,,Yes,,53.325815,-8.2353485
+79,20079,Roscommon Hospital,,Roscommon,County Roscommon,,,,,,,,53.6257011,-8.1768621
+80,20080,Rotunda Hospital,Parnell Square West nan,Dublin,County Dublin,D01,,+353 1 8171700,,,No,,53.3519933,-6.2629718
+81,20081,Royal Hospital Donnybrook,Bloomfield Avenue nan,Dublin,County Dublin,D04,,,,,No,,53.3253155,-6.2465583
+82,20082,Royal Victoria Eye and Ear Hospital,Adelaide Road nan,Dublin,County Dublin,D02,,+353-1-6644600,,,"Eye, Ear, Nose, Throat, Head and Neck",,53.3332957,-6.2566483
+83,20083,Sacred Heart Hospital,,Carlow,County Carlow,,,,,,,,52.8419589,-6.9246635
+84,20084,Saint Brigid's hospital,,Ballinasloe,County Galway,,,,,,No,,53.3295592,-8.2081459
+85,20085,Saint Camillus Hospital,Shelbourne Road nan,Limerick,County Limerick,,,+353 61 326677,,,,,52.6694935,-8.640283
+86,20086,Saint Canice's Psychiatric Hospital,,Kilkenny,County Kilkenny,,,,,,No,,52.6501335,-7.2322848
+87,20087,Saint Finbarr's Hospital,Douglas Road nan,Cork,County Cork,,,+353 21 496 6555,,,,,51.8851082,-8.4612195
+88,20088,Saint Fintan's Hospital,,Portlaoise,County Laois,,,,,,,,53.036553,-7.2873858
+89,20089,Saint Ita's Community Hospital,,Limerick,County Limerick,,,,,,,,52.4544154,-9.0540508
+90,20090,Saint Ita's Psychiatric Hospital,,Malahide,County Dublin,,,,,,,,53.4845506,-6.1123216
+91,20091,Saint John of God Hospital,,Blackrock,County Dublin,,,,,,,,53.285975,-6.1935955
+92,20092,Saint John's Community Hospital and Community Service,Munster Hill nan,Enniscorthy,County Wexford,,,,,,,,52.4967349,-6.5708044
+93,20093,Saint Joseph's Hospital,,Dublin,County Dublin,,,,,,,,53.3875918,-6.4341079
+94,20094,Saint Loman's Hospital,,Mullingar,County Westmeath,,,,,,,,53.5301246,-7.3242592
+95,20095,Saint Mary's Health Campus,Bakers Road nan,Cork,County Cork,,,,,,No,,51.9038302,-8.4969637
+96,20096,Saint Mary's Hospital,Phoenix Park nan,Dublin,County Dublin,D01,,,,,No,,53.349534,-6.3341347
+97,20097,Saint Patrick’s University Hospital,Steeven's Lane nan,Dublin,County Dublin,,,,,,No,,53.3449986,-6.2927843
+98,20098,Saint Vincent's Hospital,,Athy,County Kildare,,,,,,,,52.9982242,-6.9976353
+99,20099,Saint Vincent's Hospital,,Dublin,County Dublin,,,,,,,,53.367241,-6.2428094
+100,20100,Sarsfield's Court,,,County Cork,,,,,,No,,51.9552622,-8.4098412
+101,20101,South Infirmary-Victoria University Hospital,Old Blackrock Road nan,Cork,County Cork,,,+353 21 4926100,,,"Ear, Nose and Throat;Sexual Assault Treatment Unit only",,51.8933199,-8.4656549
+102,20102,South Tipperary General Hospital,,Clonmel,County Tipperary,E91,,,,,,,52.3558965,-7.7111173
+103,20103,St Joseph's Community Hospital,,Bantry,County Cork,,,,,,Yes,,51.6525431,-9.9004154
+104,20104,St Joseph's Hospital,,Dublin,County Dublin,,,,,,,,53.3826704,-6.1816763
+105,20105,St Joseph's Hospital,Springfield nan,Dungarvan,County Waterford,,,+353-58-20900,,,,,52.0867197,-7.6386083
+106,20106,St Luke's Hospital,,Dublin,County Dublin,,,,,,No,,53.3112764,-6.2694644
+107,20107,St Mary's Hospital,,Mullingar,County Westmeath,,,,,,,,53.6123933,-7.0683505
+108,20108,St Peter's,,Mullingar,County Westmeath,,,,,,No,,53.6769561,-7.2984324
+109,20109,St Vincent's Hospital,Coosan Point Road nan,Athlone,County Westmeath,,,,,,,,53.4274586,-7.9409713
+110,20110,St Vincent's University Hospital,Merrion Road nan,Dublin,County Dublin,D04,,+353-1-2214000,,,Yes,,53.3181377,-6.2142474
+111,20111,St. Columba's Hospital,,Kilkenny,County Kilkenny,,,,,,No,,52.5302692,-7.1326821
+112,20112,St. Columcille's Hospital,Bray Road nan,Loughlinstown,County Dublin,,,+353-1-2825800,,,No,,53.2436132,-6.1327649
+113,20113,St. Edmundsbury Hospital,,Lucan,County Dublin,,,,,,,,53.3631771,-6.4369582
+114,20114,St. Felim's Hospital,,,County Cavan,,,,,,No,,54.0054098,-7.3600629
+115,20115,St. Finan's Hospital,,Killarney,County Kerry,,,,,,,,52.0677747,-9.5131632
+116,20116,St. Francis Private Hospital,,Mullingar,County Westmeath,,,+353-44-9385300,,,No,,53.514872,-7.3357664
+117,20117,St. James's Hospital,James's Street nan,Dublin,County Dublin,D08,,+353-1-4103000,,,Yes,,53.3384095,-6.2994208
+118,20118,St. John's Hospital Limerick,New Road nan,Limerick,County Limerick,,,,,,,,52.6635791,-8.617538
+119,20119,St. Joseph's Hospital,,Limerick,County Limerick,,,,,,No,,52.6575166,-8.6111731
+120,20120,St. Loman's Hospital,Lucan Road nan,Lucan,County Dublin,,,+353-1-6207400,,,No,,53.3572285,-6.4065645
+121,20121,St. Luke's General Hospital,Freshford Road nan,Kilkenny,County Kilkenny,R95,,,,,Yes,,52.6663849,-7.2650639
+122,20122,St. Mary's Hospital,,Mullingar,County Westmeath,,,,,,No,,53.5359152,-7.3492272
+123,20123,St. Michael's Hospital,Georges Street Lower nan,Dun Laoghaire,County Dublin,,,+353 1 280 6901,,,Yes,,53.2945252,-6.1387525
+124,20124,St. Patrick's Hospital,,Waterford,County Waterford,,,,,,,,52.2510868,-7.10345
+125,20125,St. Stephen's Psychiatric Hospital,,Cork,County Cork,,,,,,,,51.9526218,-8.4013896
+126,20126,St. Vincent's Private Hospital,,Dublin,County Dublin,D04,,,,,No,,53.3149433,-6.2096944
+127,20127,Summerhill Community Mental Health Centre,,Wexford,County Wexford,,,,,,,,52.3345099,-6.4684961
+128,20128,Tallaght University Hospital,Belgard Square North nan,Dublin,County Dublin,D24,,+353-1-4142000,,,Yes,,53.2892594,-6.3761378
+129,20129,Tara Winthrop Clinic,,Swords,County Dublin,,,,,,,,53.4445156,-6.2271122
+130,20130,Temple Street Childrens University Hospital,,Dublin,County Dublin,D01,,,,,,,53.3571803,-6.2605579
+131,20131,The Lee Clinic,,Cork,County Cork,,,,,,,,51.8973532,-8.5256904
+132,20132,The Meath Primary Care Centre (Former Meath Hospital),Heytesbury Street nan,Dublin,County Dublin,,,,,,No,,53.3355972,-6.2689203
+133,20133,The National Maternity Hospital,Holles Street nan,Dublin,County Dublin,,,,,,No,,53.3407047,-6.2456518
+134,20134,University Hospital Galway,,Galway,County Galway,H91,,,,,,,53.2785311,-9.0696201
+135,20135,University Hospital Kerry,,Tralee,County Kerry,,,,,,Yes,,52.2640542,-9.6883661
+136,20136,University Hospital Limerick,,Limerick,County Limerick,,,+353-61-301111,,,,,52.6363492,-8.6534072
+137,20137,University Hospital Waterford,,Waterford,County Waterford,X91,,,,,Yes,,52.2476166,-7.0836076
+138,20138,"University Maternity Hospital, Limerick",Ennis Road nan,Limerick,County Limerick,,,+353-61-32745,,,No,,52.6669817,-8.6329502
+139,20139,Wexford General Hospital,,Wexford,County Wexford,,,+353 53 9142233,,,Yes,,52.341674,-6.4821267
+140,20140,Youghal Community Hospital,,Youghal,County Cork,,,,,,,,51.9577949,-7.8604116
+141,20141,Adamstown Health Centre,,Enniscorthy,County Wexford,,,+353-53-9240623,,,,,52.3924745,-6.7159571
+142,20142,Atlantic Medical Centre,,Ballina,County Mayo,,,+353 96 93706,,,,,54.1143749,-9.1511774
+143,20143,Ayrfield Medical Practice,,Kilkenny,County Kilkenny,,,,,,,,52.6578871,-7.2623496
+144,20144,Ballyfermot Health Centre,,Dublin,County Dublin,,,,,,,,53.3433844,-6.3609794
+145,20145,Ballynanty Health Centre,,Limerick,County Limerick,,,,,,,,52.6747309,-8.6402442
+146,20146,Barrowview Medical Practice,,Athy,County Kildare,,,,,,,,52.985481,-6.9796072
+147,20147,Beechlawn Medical Centre,Carrickbrennan Road nan,Blackrock,County Dublin,,,+353-1-271-3300,,,,,53.2917984,-6.1517457
+148,20148,Beechwood Medical,Beechwood Avenue Lower 9,Dublin,County Dublin,,,+353-1-4961150,,,,,53.3215263,-6.2543251
+149,20149,Blackrock Health Centre,George's Avenue nan,Blackrock,County Dublin,,,+353-1-2882980;+353-1-2888423;+353-1-2885406,,,,,53.3012436,-6.1791172
+150,20150,Bon Secours Consultants Clinic,Glasnevin Hill nan,Dublin,County Dublin,,,,,,,,53.3749148,-6.2676392
+151,20151,Bonnavalley Medical Centre,,Athlone,County Westmeath,,,,,,,,53.4185484,-7.913772
+152,20152,Borris In Ossory Health Centre,,Portlaoise,County Laois,,,,,,,,52.9401644,-7.6156408
+153,20153,Cape Clear Health Centre,,Skibbereen,County Cork,,,,,,,,51.4360556,-9.5046093
+154,20154,Care Doc,,Kilkenny,County Kilkenny,,,+0353 1850334999,,,,,52.6405821,-7.2489208
+155,20155,Charleville Family Practice,,Charleville,County Cork,,,,,,,,52.3603168,-8.6899993
+156,20156,Cherry Orchard Health Centre,,Dublin,County Dublin,,,,,,,,53.3368386,-6.3732785
+157,20157,Churchfields Clinic and Medical Centre,Lower Salthill Road nan,Gaillimh,County Galway,,,,,,,,53.266755,-9.0691907
+158,20158,Clane GP,,Naas,County Kildare,,,,,,,,53.2949317,-6.6872845
+159,20159,Clareen House Medical Centre,,Nenagh,County Tipperary,,,,,,,,52.8585254,-8.1941398
+160,20160,Clonakilty Family Health Clinic,Faxbridge Shopping Complex nan,Clonakilty,County Cork,,,+353 23 885 8774,,,,,51.6239478,-8.881663
+161,20161,Clonard Medical,Sandyford Road nan,Dublin,County Dublin,,,012955010,,,,,53.277657,-6.231308
+162,20162,Clonea Health Centre,,Carrick-on-Suir,County Waterford,,,,,,,,52.2818838,-7.4457814
+163,20163,Clonminch Medical Centre,,Tullamore,County Offaly,,,+353579352868,,,,,53.2633878,-7.4847746
+164,20164,Cormac Street Medical Centre,,Tullamore,County Offaly,,,+353579321060,,,,,53.2713226,-7.4955237
+165,20165,Dame Street Medical Centre,Dame Street 16,Dublin,County Dublin,,,+353-1-6790754,,,,,53.3440671,-6.2652662
+166,20166,Deel Medical Centre,,Ballina,County Mayo,,,,,,,,54.1006168,-9.3184372
+167,20167,Doctor Michael Hayes,Navan Road 104,Dublin,County Dublin,,,,,,,,53.3640368,-6.3062082
+168,20168,Doctor Richard Casey,Mount Merrion Avenue 126,Blackrock,County Dublin,,,012889838,,,,,53.2974097,-6.1999372
+169,20169,Doctors Surgery,Lucan Road nan,Dublin,County Dublin,,,,,,,,53.3507081,-6.3507583
+170,20170,Donabate Clinic,Main Street nan,Donabate,County Dublin,,,,,,,,53.4867194,-6.148425
+171,20171,Dr Ciaran Bent,Pembroke Cottages 17,Dublin,County Dublin,,,+353 1 298 0226,,,,,53.2895428,-6.2436151
+172,20172,Dr Collins,,Westport,County Mayo,,,,,,,,53.7983918,-9.511824
+173,20173,Dr Deirdre O'Brien,South Abbey 2,Youghal,County Cork,,,,,,,,51.9488445,-7.8429523
+174,20174,Dr Fahey,,Tullamore,County Offaly,,,,,,,,53.2746297,-7.4917856
+175,20175,Dr Garry,,Tullamore,County Offaly,,,,,,,,53.2751069,-7.489518
+176,20176,Dr Glaveys Surgery,Chapel Street nan,Claremorris,County Mayo,,,,,,,,53.9415734,-8.9520954
+177,20177,Dr Margaret Callaghan,Ballinacurra Gardens 138D,Limerick,County Limerick,,,+353 61 228093,,,,,52.6460284,-8.6370519
+178,20178,Dr Mc Loughlans Surgery,Circular Road nan,Claremorris,County Mayo,,,,,,,,53.9441199,-8.9540051
+179,20179,Dr Rowley Surgery,Dublin Road nan,Claremorris,County Mayo,,,,,,,,53.944202,-8.9452102
+180,20180,Dr Twomey,,Tullamore,County Offaly,,,+353579321181,,,,,53.2755329,-7.4874676
+181,20181,Dr. Harte,Haddington Road 63,Dublin,County Dublin,,,,,,,,53.3347356,-6.2417387
+182,20182,Dr. Sharkey,,Longford,County Longford,,,,,,,,53.6934295,-7.6093788
+183,20183,Drs C Corcoran/P Costello,,Roscrea,County Tipperary,,,,,,,,52.9410703,-8.0341874
+184,20184,Drummartin Clinic,Drummartin Road 3,Blackrock,County Dublin,,,,,,,,53.2887586,-6.222534
+185,20185,Dublin 9 Health Centre,,Dublin,County Dublin,,,,,,,,53.369891,-6.2585905
+186,20186,Dundanion Medical Centre,,Cork,County Cork,,,,,,,,51.8943016,-8.4199331
+187,20187,Dunmanway Primary Care Centre,,Bandon,County Cork,,,+353 23 8855500,,,,,51.7217345,-9.1088186
+188,20188,Easkey House Primary Care and Day Care Centre,,Ballina,County Sligo,,,,,,,,54.2861417,-8.954947
+189,20189,Emmet Place Family Practice,Emmet Place 1,Youghal,County Cork,,,,,,,,51.955234,-7.8522157
+190,20190,Ennistymon Medical Centre,,Ennis,County Clare,,,,,,,,52.9407851,-9.2932168
+191,20191,Fairview Medical Centre,Fairview Strand 37-39,Dublin,County Dublin,,,+353 1 8339856,,,,,53.3628107,-6.2388413
+192,20192,Fingerpost Medical Centre,,Cork,County Cork,,,,,,,,51.8757975,-8.4324031
+193,20193,Frenchpark Medical Practice,,Castlerea,County Roscommon,,,,,,,,53.8739317,-8.4023808
+194,20194,Glasnevin Orthodontics,Drumcondra Road Upper 64,Dublin,County Dublin,,,+353 1 834 0577,,,,,53.370789,-6.2534585
+195,20195,Grange Medical,Grange Road nan,Dublin,County Dublin,,,,,,,,53.3945342,-6.1646966
+196,20196,Greystones Medical Centre,,Greystones,County Wicklow,,,,,,True,,53.1397546,-6.0600402
+197,20197,HSE,,Mullingar,County Westmeath,,,,,,,,53.4902063,-7.6802347
+198,20198,HSE Dún Laoghaire Health Centre,York Road 35,Dun Laoghaire,County Dublin,,,+353-1-2808471,,,,,53.2898526,-6.1442591
+199,20199,Holmpatrick Surgery,Shenick Road 5,Skerries,County Dublin,,,,,,,,53.5706176,-6.1058008
+200,20200,Johnstown Medical Centre,Johnstown Road nan,Glenageary,County Dublin,,,+353 1 285 5800,,,,,53.2689955,-6.1454127
+201,20201,Kilkenny Ostheopathic Clinic,,Kilkenny,County Kilkenny,,,+00353 567788222,,,,,52.63776,-7.2496347
+202,20202,Kilmcud Medical Centre,Kilmacud Road Lower 26,Blackrock,County Dublin,,,+353-1-288-1550;+353-1-283-6058,,,,,53.2887761,-6.2077098
+203,20203,Kilmeague Health Centre,,Naas,County Kildare,,,,,,,,53.2502932,-6.8410774
+204,20204,Kinsealy Medical Centre,The Rise 20,Swords,County Dublin,,,,,,,,53.4459318,-6.2020428
+205,20205,Leixlip Health Centre,,Naas,County Kildare,,,,,,,,53.3636538,-6.4899087
+206,20206,Loughboy Medical Centre,,Kilkenny,County Kilkenny,,,+353 56 7770020,,,,,52.6415602,-7.2418035
+207,20207,Manor Road Surgery,,Lucan,County Dublin,,,,,,,,53.3509976,-6.3686143
+208,20208,Medicentre,,Tullamore,County Offaly,,,,,,,,53.2770995,-7.4949533
+209,20209,Newbridge Medical & Dental,,Newbridge,County Kildare,,,,,,,,53.1821813,-6.8019665
+210,20210,Newpark Medical and Dental Clinic,Lintown Avenue nan,Kilkenny,County Kilkenny,,,,,,,,52.6604408,-7.2399136
+211,20211,Northgate Surgery,Pearse Park 226,Drogheda,County Louth,,,0419839444,,,,,53.7199135,-6.3495184
+212,20212,O'Driscoll Clinic,,Dublin,County Dublin,,,,,,,,53.3594573,-6.1968585
+213,20213,Orwell Surgery,,Dublin,County Dublin,,,,,,,,53.2988355,-6.3213394
+214,20214,Owenabue Medical Centre,Ballea Road nan,Cork,County Cork,,,+353 21  437 4997,,,,,51.8171637,-8.3948118
+215,20215,PW Medical,Gardiner Street Lower 66,Dublin,County Dublin,,,,,,,,53.3504065,-6.2540115
+216,20216,Primrose Gate Medical Centre,Willow Court nan,Naas,County Kildare,,,01-6012903,,,,,53.3363207,-6.5305711
+217,20217,Ringsend Medical Centre,Thorncastle Street 14,Dublin,County Dublin,,,,,,,,53.3421557,-6.2275511
+218,20218,Roscommon Medical Centre,,Roscommon,County Roscommon,,,,,,,,53.6312214,-8.193503
+219,20219,Rossfield Surgery,Brookfield Road nan,Dublin,County Dublin,,,,,,,,53.2883454,-6.4046196
+220,20220,Saggart Medical Centre,Church Road nan,Saggart,County Dublin,,,,,,,,53.280488,-6.4434838
+221,20221,Scholarstown Family Practice,Templeroan Lodge 10a,Dublin,County Dublin,,,+35314936711,,,,,53.2797856,-6.3075523
+222,20222,Shannon Doc,,Limerick,County Limerick,,,,,,,,52.6368151,-8.6554939
+223,20223,South Doc,,Fermoy,County Cork,,,,,,,,52.1389009,-8.2570129
+224,20224,SouthDoc Kanturk,,Mallow,County Cork,,,,,,,,52.1762266,-8.9144937
+225,20225,St. Jude Family Practice,,Dublin,County Dublin,,,,,,,,53.2996147,-6.3236886
+226,20226,Stamullen Surgery,,,County Meath,,,,,,,,53.6213974,-6.2708384
+227,20227,Summerhill Primary Care Centre,,Navan,County Meath,,,,,,,,53.4826626,-6.7399467
+228,20228,Sunnyside Medical Centre,Waterloo Road nan,Wexford,County Wexford,,,,,,,,52.3373271,-6.4656866
+229,20229,Swiftbrook Medical Saggart,,Saggart,County Dublin,,,,,,,,53.286391,-6.432207
+230,20230,Taghmon Health Centre,,Wexford,County Wexford,,,+353 913 44 92,,,,,52.3224405,-6.6510921
+231,20231,Tallow Health Centre,,Mallow,County Waterford,,,,,,,,52.0958811,-8.0074753
+232,20232,The Parks Medical Centre,,Dublin,County Dublin,,,,,,,,53.3724976,-6.3897742
+233,20233,The Red House,Shortcastle Street nan,Mallow,County Cork,,,,,,,,52.1390666,-8.6478945
+234,20234,The Red House Family Practice,,Mallow,County Cork,,,,,,,,52.1314154,-8.6463485
+235,20235,The Rise Family Practice,,Dublin,County Dublin,,,,,,,,53.3889594,-6.3800499
+236,20236,The Springhill Clinic,,Kilkenny,County Kilkenny,,,,,,,,52.6366618,-7.2503004
+237,20237,The Surgery Clane,,Naas,County Kildare,,,+353 45 868433,,,,,53.2906135,-6.6870878
+238,20238,Tower Medical Centre,,Cork,County Cork,,,,,,,,51.9259201,-8.6086947
+239,20239,Tubbercurry health centre,Teeling Street nan,Sligo,County Sligo,,,,,,,,54.0527675,-8.7323236
+240,20240,Tullamore Medical Centre,Ardan Road nan,Tullamore,County Offaly,,,+353579351225,,,,,53.2828272,-7.4925384
+241,20241,Vernon Medical Clinic,Vernon Avenue 67a,Dublin,County Dublin,,,+353 1 8532070,,,,,53.3691047,-6.1943593
+242,20242,Walkinstown Medical Centre,Walkinstown Road 133,Dublin,County Dublin,,,,,,,,53.3190084,-6.3317156
+243,20243,WestDoc,,Castlerea,County Galway,,,,,,,,53.6053011,-8.5602366
+244,20244,Wexford Osteopathic Centre,,Wexford,County Wexford,,,,,,,,52.3248624,-6.4879502
+245,20245,Whitehall Health Centre,Larkhill Road nan,Dublin,County Dublin,,,,,,,,53.3851018,-6.2501123
+246,20246,Women's Health Group,nan 2,Kilkenny,County Kilkenny,,,,,,,,52.6553189,-7.2571238

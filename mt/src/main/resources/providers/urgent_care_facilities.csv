@@ -1,3 +1,7 @@
 ,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
-2,20002,Saint James Hospital,George Borg Olivier Street nan,Sliema,,SLM,,35623291000.0,,,Yes,,35.913199,14.5029905
-3,20003,Saint James Hospital,Tal-Hotba 3.0,Żejtun,,ZTN,,35623291000.0,,,Yes,,35.8601481,14.5200336
+0,20000,Craig,,,Għawdex,,,,,,,,36.0385153,14.2461914
+1,20001,Mt Carmel,,,Għawdex,,,,,,,,35.8858465,14.4308754
+2,20002,Saint James Hospital,George Borg Olivier Street nan,,Għawdex,,,35623291000.0,,,Yes,,35.913199,14.5029905
+3,20003,Saint James Hospital,Tal-Hotba 3.0,,Għawdex,,,35623291000.0,,,Yes,,35.8601481,14.5200336
+4,20004,Sptar Mater Dei,,,Għawdex,,,,,,,,35.9016662,14.4736227
+5,20005,Sptar San Luqa,,,Għawdex,,,,,,No,,35.8937369,14.4928538

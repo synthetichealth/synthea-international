@@ -1,74 +1,248 @@
 ,name,address,city,state,zip,phone,LAT,LON,hasSpecialties,ADDICTION MEDICINE,ADVANCED HEART FAILURE AND TRANSPLANT CARDIOLOGY,ALLERGY/IMMUNOLOGY,ANESTHESIOLOGY,ANESTHESIOLOGY ASSISTANT,AUDIOLOGIST,CARDIAC ELECTROPHYSIOLOGY,CARDIAC SURGERY,CARDIOVASCULAR DISEASE (CARDIOLOGY),CERTIFIED NURSE MIDWIFE,CERTIFIED REGISTERED NURSE ANESTHETIST,CHIROPRACTIC,CLINICAL NURSE SPECIALIST,CLINICAL PSYCHOLOGIST,CLINICAL SOCIAL WORKER,COLORECTAL SURGERY (PROCTOLOGY),CRITICAL CARE (INTENSIVISTS),DENTIST,DERMATOLOGY,DIAGNOSTIC RADIOLOGY,EMERGENCY MEDICINE,ENDOCRINOLOGY,FAMILY PRACTICE,GASTROENTEROLOGY,GENERAL PRACTICE,GENERAL SURGERY,GERIATRIC MEDICINE,GERIATRIC PSYCHIATRY,GYNECOLOGICAL ONCOLOGY,HAND SURGERY,HEMATOLOGY,HEMATOLOGY/ONCOLOGY,HEMATOPOIETIC CELL TRANSPLANTATION AND CELLULAR TH,HOSPICE/PALLIATIVE CARE,HOSPITALIST,INFECTIOUS DISEASE,INTERNAL MEDICINE,INTERVENTIONAL CARDIOLOGY,INTERVENTIONAL PAIN MANAGEMENT,INTERVENTIONAL RADIOLOGY,MAXILLOFACIAL SURGERY,MEDICAL ONCOLOGY,NEPHROLOGY,NEUROLOGY,NEUROPSYCHIATRY,NEUROSURGERY,NUCLEAR MEDICINE,NURSE PRACTITIONER,OBSTETRICS/GYNECOLOGY,OCCUPATIONAL THERAPY,OPHTHALMOLOGY,OPTOMETRY,ORAL SURGERY,ORTHOPEDIC SURGERY,OSTEOPATHIC MANIPULATIVE MEDICINE,OTOLARYNGOLOGY,PAIN MANAGEMENT,PATHOLOGY,PEDIATRIC MEDICINE,PERIPHERAL VASCULAR DISEASE,PHYSICAL MEDICINE AND REHABILITATION,PHYSICAL THERAPY,PHYSICIAN ASSISTANT,PLASTIC AND RECONSTRUCTIVE SURGERY,PODIATRY,PREVENTATIVE MEDICINE,PSYCHIATRY,PULMONARY DISEASE,RADIATION ONCOLOGY,REGISTERED DIETITIAN OR NUTRITION PROFESSIONAL,"RHEUMATOLOGY,",SLEEP MEDICINE,SPEECH LANGUAGE PATHOLOGIST,SPORTS MEDICINE,SURGICAL ONCOLOGY,THORACIC SURGERY,UNDEFINED PHYSICIAN TYPE (SPECIFY),"UROLOGY,",VASCULAR SURGERY,id
-0,An Coillín,nan nan,Castlebar,,,,53.8491306,-9.3071503,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000
-1,Athenry Primary Care Centre,Raheen Woods Road nan,Athenry,,,+353-91-844489,53.2996773,-8.7558231,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10001
-2,Athy Health Centre,nan nan,Athy,,,,52.9949225,-6.9910013,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10002
-3,Atrium,nan nan,Mullingar,,,,53.533572,-7.3491108,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10003
-4,Bagenalstown Health Centre,nan nan,Muine Bheag,,,,52.7015948,-6.9593342,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10004
-5,Ballinderry Clinic,nan nan,Mullingar,,,+353-44-9329900,53.514482,-7.3358716,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10005
-6,Ballyfermot & Palmerstown Primary Care and Mental Health Centre,nan nan,Dublin,,,,53.3429779,-6.3720754,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10006
-7,Breast Check Southern Unit,Infirmary Road nan,Cork,,,,51.8937622,-8.4654642,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10007
-8,Brú Chaoimhín Campus,Cork Street nan,Dublin,,,,53.3372381,-6.2860386,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10008
-9,CADS Clinic (OLD FEVER HOSPITAL),nan nan,Mullingar,,,,53.5366753,-7.3506295,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10009
-10,Cara Medical Centre,nan nan,Limerick,,,+353-69-72040,52.4546319,-9.0524026,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10010
-11,Castleknock Health Facility,nan nan,Dublin,,,,53.3712146,-6.358365,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10011
-12,Celbridge Health Centre,Shackleton Road nan,Naas,,,,53.3446479,-6.5450907,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10012
-13,Cill Dara Primary Care Centre,nan nan,Kildare,,,,53.1541955,-6.9013399,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10013
-14,City General Hospital,Infirmary Road nan,Cork,,,,51.8933242,-8.4656528,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10014
-15,Clonbrusk Primary Care Centre,nan nan,Athlone,,,,53.4331091,-7.9428249,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10015
-16,Crumlin Mental Health Centre,Armagh Road nan,Dublin,,,,53.3199747,-6.3093513,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10016
-17,Cuisle Cancer Support Centre,nan nan,Portlaoise,,,,53.0356321,-7.2758065,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10017
-18,Delvin Health Centre,nan nan,Mullingar,,,,53.6135201,-7.0915221,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10018
-19,Dunshaughlin Health Centre Unit,nan nan,Dunshaughlin,,,,53.5080547,-6.5436364,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10019
-20,East Galway Cancer Support,nan nan,Ballinasloe,,,,53.3239212,-8.2405501,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10020
-21,Elmwood Medical Centre,nan nan,Cork,,,+353 21 489 3255,51.8670434,-8.4581089,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10021
-22,Enniscrone Primary Care and Community Resource Centre,nan nan,Ballina,,,,54.215566,-9.0823867,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10022
-23,Everyman Centre,Mount Street Lower 4,Dublin,,,,53.3393151,-6.2458998,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10023
-24,Glasnevin Health Centre,Botanic Avenue nan,Dublin,,,,53.3723945,-6.2676111,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10024
-25,Graiguenamanagh Health Centre,nan nan,Kilkenny,,,,52.5419864,-6.9543223,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10025
-26,Grove Medical Centre,Sean Purcell Road nan,Tuam,,,,53.51169,-8.852714,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10026
-27,HSE Health Centre,nan nan,Naas,,,,53.0213842,-6.6128294,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10027
-28,HSE Health Clinic,nan nan,Blackrock,,,,53.2706297,-6.1557053,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10028
-29,HSE Our Lady's Clinic,Patrick Street nan,Dun Laoghaire,,,,53.2914317,-6.1371863,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10029
-30,HSE Primary Care Centre,nan nan,Lifford,,,,54.8050288,-7.7664364,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10030
-31,"HSE, The Derg Centre",nan nan,Nenagh,,,,52.8719816,-8.2194838,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10031
-32,Health Centre,nan nan,Castlebar,,,,53.8527525,-9.3028959,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10032
-33,Health Centre,nan nan,Athy,,,,52.9423387,-7.0431644,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10033
-34,Inchicore Primary Care and Mental Health Centre,St Michael's Estate nan,Dublin,,,,53.3378493,-6.3147542,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10034
-35,Ionad Sláinte,nan nan,Tory Island,,,,55.2644589,-8.2242985,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10035
-36,Kingdom Clinic,"New Street 43,44",Killarney,,,,52.0586086,-9.5145456,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10036
-37,Lisdoonvarna Health Centre,nan nan,Ennis,,,,53.0292672,-9.286835,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10037
-38,Louisburgh Medical Practice,nan nan,Westport,,,,53.7631755,-9.8064937,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10038
-39,Marian House ASD Services,nan nan,Cork,,,+353 21 434 7087,51.8588902,-8.4932752,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10039
-40,McGreals Primary Care Centre,Blessington Business Park nan,Naas,,,,53.1765033,-6.529605,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10040
-41,Millbrook Lawns Health Centre,nan nan,Dublin,,,,53.2845061,-6.3554102,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10041
-42,Mohill Primary Care Centre,nan nan,Mohill,,,,53.9234678,-7.8654143,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10042
-43,Mullingar Primary Care Centre,nan nan,Mullingar,,,,53.5326851,-7.3455377,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10043
-44,Northbrook Clinic,Northbrook Road nan,Dublin,,,,53.3285908,-6.2561453,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10044
-45,Old County Road Health Centre,Crumlin Road nan,Dublin,,,+353 1 4154700,53.3289558,-6.3026502,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10045
-46,Palace Medical Centre,nan nan,Tuam,,,,53.5228586,-8.8524384,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10046
-47,Park Medical & Dental Centre,Park Road nan,Killarney,,,,52.0606536,-9.4894407,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10047
-48,Primary Care Centre,Armagh Road nan,Dublin,,,,53.3194176,-6.3060069,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10048
-49,Primary Care Centre,Grangegorman Upper nan,Dublin,,,,53.3569212,-6.2823827,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10049
-50,Primary Care Centre Sligo,Barrack Street nan,Sligo,,,,54.2768244,-8.4747158,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10050
-51,Primary Care Medical Centre,nan nan,Galway,,,,53.1142297,-9.1500886,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10051
-52,Priority Medical,Pembroke Cottages 6,Dublin,,,+353 1 291 6153,53.2898266,-6.2439189,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10052
-53,Rathangan Medical Center,nan nan,Kildare,,,,53.2208388,-6.992609,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10053
-54,Rathcormac Clinic,nan nan,Fermoy,,,,52.0785389,-8.2810167,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10054
-55,Rathmullan Health Centre,nan nan,Letterkenny,,,,55.0956526,-7.5339952,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10055
-56,Reflections,nan nan,Mohill,,,,53.9219172,-7.865241,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10056
-57,Roselawn Health Centre,nan nan,Dublin,,,,53.3844999,-6.3828729,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10057
-58,Slievemore Clinic,Old Dublin Road nan,Blackrock,,,+353-1-200-0501,53.292638,-6.2009724,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10058
-59,South Doc Youghal,nan nan,Youghal,,,1850 335 999,51.971019,-7.8626907,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10059
-60,Swords Health Centre,nan nan,Swords,,,+353 1 890 2200,53.4595885,-6.2215601,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10060
-61,The Cork Clinic,Western Road nan,Cork,,,,51.8936248,-8.497602,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10061
-62,The Mayo Clinic,nan nan,Castlebar,,,,53.8556081,-9.2879402,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10062
-63,Thomas Court Primary Care Clinic,Hanbury Lane nan,Dublin,,,,53.3424219,-6.2808994,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10063
-64,Tuam Health Centre,nan nan,Tuam,,,,53.5119146,-8.8533571,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10064
-65,Tullow Health Centre,nan nan,Carlow,,,,52.8037328,-6.7306141,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10065
-66,Turloughmore Clinic,nan nan,Athenry,,,,53.369021,-8.8935277,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10066
-67,Virginia Community Health Centre,nan nan,Kells,,,,53.830926,-7.0683527,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10067
-68,Walmer College and Holistic Centre,nan nan,Dublin,,,,53.3843386,-6.1748913,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10068
-69,Wexford Community Services,Upper Georges Street nan,Wexford,,,,52.339868,-6.4658331,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10069
-70,Wexford Primary Care Centre,Grogans Road nan,Wexford,,,,52.335137,-6.4659669,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10070
-71,Whitfield Clinic,nan nan,Waterford,,,,52.2403224,-7.1738185,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10071
-72,health centre,nan nan,Castlerea,,,,53.8997838,-8.5792816,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10072
+0,Abbeyleix District Hospital,,Portlaoise,County Laois,,,52.9125186,-7.3437598,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000
+1,Aut Even Hospital,Freshford Road nan,Kilkenny,County Kilkenny,,+353 56 777 5275,52.6759357,-7.2719856,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10001
+2,Baggot Street Community Hospital,Baggot Street Upper nan,Dublin,County Dublin,,,53.3340261,-6.2434451,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10002
+3,Ballina District Hospital,,Ballina,County Mayo,,,54.1155684,-9.1658476,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10003
+4,Ballinamore Community Nursing Unit & Primary Care Centre,nan Tully,Carrick-on-Shannon,County Leitrim,,,54.0506213,-7.8032363,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10004
+5,Bandon Community Hospital,,Bandon,County Cork,,+353 23 884 1403,51.7446378,-8.7253211,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10005
+6,Bantry General Hospital,,Bantry,County Cork,,,51.6770362,-9.4492159,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10006
+7,Barretstown Gang Camp,,Naas,County Kildare,,,53.1538336,-6.5998605,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10007
+8,Beaumont Hospital,,Dublin,County Dublin,,,53.3923659,-6.222199,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10008
+9,Birr Community Hospital and Nursing Home,,Birr,County Offaly,,,53.0971271,-7.9003438,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10009
+10,Blackrock Clinic,,Blackrock,County Dublin,,,53.3049726,-6.1879273,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10010
+11,Bloomfield Health Services & Quaker House,Stocking Lane nan,Dublin,County Dublin,,+353-1-4950021,53.2729512,-6.3062087,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10011
+12,Bon Secours Hospital,Glasnevin Hill nan,Dublin,County Dublin,,,53.3764215,-6.2678802,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10012
+13,Bon Secours Hospital,,Tralee,County Kerry,,,52.26918,-9.7128287,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10013
+14,Bon Secours Hospital,College Road nan,Cork,County Cork,,+353 21 454 2807,51.8909605,-8.4984717,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10014
+15,Bon Secours Hospital Galway,,Gaillimh,County Galway,,,53.2767467,-9.0201572,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10015
+16,Cappagh National Orthopaedic Hospital,,Dublin,County Dublin,,,53.3923766,-6.3249131,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10016
+17,Cavan General Hospital,Golf Links Road nan,Cavan,County Cavan,,+353-49-4376000,54.000921,-7.3746693,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10017
+18,Central Mental Hospital,Dundrum Road nan,Dublin,County Dublin,,,53.2994618,-6.2438793,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10018
+19,Central Remedial Clinic,,Dublin,County Dublin,,+353-1-8542200,53.3701396,-6.2016274,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10019
+20,Cherry Orchard Hospital,,Dublin,County Dublin,,,53.3436337,-6.3723067,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10020
+21,Clonakilty Community Hospital,,Clonakilty,County Cork,,,51.6315015,-8.8770657,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10021
+22,Clonmethan Health Centre,,Oldtown,County Dublin,,,53.518519,-6.3169378,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10022
+23,Clonskeagh Hospital,Clonskeagh Road nan,Dublin,County Dublin,,,53.316797,-6.2393273,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10023
+24,Cloonamahon Learning Disability Services,,,County Sligo,,,54.1559377,-8.4880176,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10024
+25,Cluain Lir Care Centre,Longford Road nan,Mullingar,County Westmeath,,,53.5366752,-7.3527681,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10025
+26,Connolly Hospital,Navan Road nan,Dublin,County Dublin,,+353-1-6465000,53.3867253,-6.3689484,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10026
+27,Coombe Women & Infants University Hospital,Cork Street nan,Dublin,County Dublin,,+353 1 408 5200,53.3355303,-6.289229,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10027
+28,Cork University Hospital,Bishopstown Road nan,Cork,County Cork,,,51.8854888,-8.5075272,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10028
+29,Donegal District Hospital,,Donegal,County Donegal,,,54.6560999,-8.0982437,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10029
+30,Dublin Dental University Hospital,Lincoln Place nan,Dublin,County Dublin,D02,+353-1-6127391,53.3420051,-6.2522252,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10030
+31,Ely Hospital,,Wexford,County Wexford,,,52.3448519,-6.4547554,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10031
+32,Ennis Hospital,,Ennis,County Clare,,,52.8506072,-8.9846649,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10032
+33,Fairview Community Unit (Mater Hospital),,Dublin,County Dublin,,,53.3684454,-6.2437129,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10033
+34,Falcarragh Medical Centre,,Letterkenny,County Donegal,,,55.1369737,-8.1004214,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10034
+35,Fermoy Community Hospital,,Fermoy,County Cork,,,52.1371766,-8.2582157,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10035
+36,Galway Clinic,,Galway,County Galway,,,53.2831508,-8.9742758,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10036
+37,Gheel Autism Services,,Dublin,County Dublin,,,53.3681588,-6.2422495,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10037
+38,Gorey District Hospital,,Gorey,County Wexford,,,52.6741591,-6.300593,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10038
+39,Hermitage Medical Clinic,,Lucan,County Dublin,K78,,53.3590732,-6.4095432,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10039
+40,Highfield Healthcare,Swords Road nan,Dublin,County Dublin,,,53.3784425,-6.2473548,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10040
+41,Hospital Grounds New Ross,Hospital Road nan,New Ross,County Wexford,,,52.3888629,-6.9409868,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10041
+42,Incorporated Orthopaedic Hospital of Ireland,Blackheath Park nan,Dublin,County Dublin,,+353-1-8332521,53.3666636,-6.2025272,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10042
+43,Irish Wheelchair Association and Respite Centre,,Dublin,County Dublin,,,53.3685328,-6.2007396,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10043
+44,Kanturk Community Hospital,,Mallow,County Cork,,,52.1753847,-8.9165506,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10044
+45,Kenmare Public Hospital,,Killarney,County Kerry,,,51.8894033,-9.5825884,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10045
+46,Kilcreene Hospital,,,County Kilkenny,,,52.6514167,-7.2764397,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10046
+47,Killarney Community Hospital,,Killarney,County Kerry,,,52.0653143,-9.5168748,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10047
+48,Kilrock House,Kilrock Road nan,Howth,County Dublin,,,53.385786,-6.0602629,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10048
+49,Kinsale Community Hospital,,Kinsale,County Cork,,+353 21 4772 202,51.7123349,-8.5276754,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10049
+50,Leopardstown Park Hospital,,Dublin,County Dublin,,,53.269656,-6.2032602,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10050
+51,Lucena Clinic & St Peter's School,Orwell Road 59,Dublin,County Dublin,,+353-1-4923596,53.3102029,-6.2735209,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10051
+52,Macroom Community Hospital,,Macroom,County Cork,,,51.9074717,-8.9681484,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10052
+53,Mallow General Hospital,,Mallow,County Cork,,,52.1512763,-8.6618732,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10053
+54,Mater Misericordiae University Hospital,North Circular Road nan,Dublin,County Dublin,D07,,53.3584846,-6.2669005,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10054
+55,Mater Private Cork,City Gate nan,Cork,County Cork,,,51.8863704,-8.4064969,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10055
+56,Mater Private Hospital,Dorset Street Upper 81-84,Dublin,County Dublin,,,53.3570097,-6.2651215,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10056
+57,Mater Private Hospital,Eccles Street nan,Dublin,County Dublin,D07,,53.3585759,-6.2649245,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10057
+58,Mayo University Hospital,John Moore Road nan,Castlebar,County Mayo,,+353-94-9021733,53.8495789,-9.3018946,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10058
+59,Mercy University Hospital,,Cork,County Cork,T12,,51.8980916,-8.4825851,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10059
+60,Merlin Park Hospital,,Gaillimh,County Galway,,,53.2761351,-9.003131,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10060
+61,Mid-Western Regional Orthopaedic Hospital,,Kilmallock,County Limerick,,,52.5257371,-8.7126936,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10061
+62,Midland Regional Hospital Mullingar,Longford Road nan,Mullingar,County Westmeath,N91,,53.5343723,-7.3508528,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10062
+63,Midland Regional Hospital Portlaoise,,Portlaoise,County Laois,,,53.0368195,-7.276417,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10063
+64,Midland Regional Hospital Tullamore,,Tullamore,County Offaly,,,53.284292,-7.4914347,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10064
+65,Midleton Community Hospital,,Midleton,County Cork,,,51.917882,-8.1737102,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10065
+66,Milford Care Centre,,Limerick,County Limerick,,,52.6690514,-8.5736179,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10066
+67,Monaghan General Hospital,High Street nan,Monaghan,County Monaghan,,,54.2490878,-6.9727318,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10067
+68,Mount Carmel Community Hospital,Braemor Park nan,Dublin,County Dublin,,,53.3036823,-6.2668347,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10068
+69,Naas General Hospital,,Naas,County Kildare,,,53.2130204,-6.6624959,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10069
+70,National Rehabilitation Hospital,Rochestown Avenue nan,Dun Laoghaire,County Dublin,,,53.2768721,-6.1528699,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10070
+71,Nenagh General Hospital,Thurles Road nan,Nenagh,County Tipperary,,+353 67 31491,52.8576879,-8.188917,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10071
+72,Newcastle Hospital,,Greystones,County Wicklow,,,53.0800851,-6.1014167,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10072
+73,Our Lady of Lourdes Hospital,,Drogheda,County Louth,,,53.7227981,-6.3527367,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10073
+74,Our Lady's Children's Hospital Crumlin,Cooley Road nan,Dublin,County Dublin,D12,,53.3271596,-6.3192423,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10074
+75,Our Lady's Children's Hospital Crumlin,,Dublin,County Dublin,,+353 1 409 6100,53.3246568,-6.3221557,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10075
+76,Our Lady’s Hospital,,Navan,County Meath,C15,,53.6511184,-6.7000687,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10076
+77,Phoenix Care Centre,North Circular Road nan,Dublin,County Dublin,,+353-76-6958700,53.3578101,-6.2855998,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10077
+78,Portiuncula Hospital,,Ballinasloe,County Galway,,+353-90-964-8200,53.325815,-8.2353485,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10078
+79,Roscommon Hospital,,Roscommon,County Roscommon,,,53.6257011,-8.1768621,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10079
+80,Rotunda Hospital,Parnell Square West nan,Dublin,County Dublin,D01,+353 1 8171700,53.3519933,-6.2629718,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10080
+81,Royal Hospital Donnybrook,Bloomfield Avenue nan,Dublin,County Dublin,D04,,53.3253155,-6.2465583,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10081
+82,Royal Victoria Eye and Ear Hospital,Adelaide Road nan,Dublin,County Dublin,D02,+353-1-6644600,53.3332957,-6.2566483,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10082
+83,Sacred Heart Hospital,,Carlow,County Carlow,,,52.8419589,-6.9246635,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10083
+84,Saint Brigid's hospital,,Ballinasloe,County Galway,,,53.3295592,-8.2081459,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10084
+85,Saint Camillus Hospital,Shelbourne Road nan,Limerick,County Limerick,,+353 61 326677,52.6694935,-8.640283,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10085
+86,Saint Canice's Psychiatric Hospital,,Kilkenny,County Kilkenny,,,52.6501335,-7.2322848,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10086
+87,Saint Finbarr's Hospital,Douglas Road nan,Cork,County Cork,,+353 21 496 6555,51.8851082,-8.4612195,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10087
+88,Saint Fintan's Hospital,,Portlaoise,County Laois,,,53.036553,-7.2873858,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10088
+89,Saint Ita's Community Hospital,,Limerick,County Limerick,,,52.4544154,-9.0540508,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10089
+90,Saint Ita's Psychiatric Hospital,,Malahide,County Dublin,,,53.4845506,-6.1123216,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10090
+91,Saint John of God Hospital,,Blackrock,County Dublin,,,53.285975,-6.1935955,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10091
+92,Saint John's Community Hospital and Community Service,Munster Hill nan,Enniscorthy,County Wexford,,,52.4967349,-6.5708044,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10092
+93,Saint Joseph's Hospital,,Dublin,County Dublin,,,53.3875918,-6.4341079,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10093
+94,Saint Loman's Hospital,,Mullingar,County Westmeath,,,53.5301246,-7.3242592,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10094
+95,Saint Mary's Health Campus,Bakers Road nan,Cork,County Cork,,,51.9038302,-8.4969637,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10095
+96,Saint Mary's Hospital,Phoenix Park nan,Dublin,County Dublin,D01,,53.349534,-6.3341347,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10096
+97,Saint Patrick’s University Hospital,Steeven's Lane nan,Dublin,County Dublin,,,53.3449986,-6.2927843,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10097
+98,Saint Vincent's Hospital,,Athy,County Kildare,,,52.9982242,-6.9976353,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10098
+99,Saint Vincent's Hospital,,Dublin,County Dublin,,,53.367241,-6.2428094,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10099
+100,Sarsfield's Court,,,County Cork,,,51.9552622,-8.4098412,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10100
+101,South Infirmary-Victoria University Hospital,Old Blackrock Road nan,Cork,County Cork,,+353 21 4926100,51.8933199,-8.4656549,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10101
+102,South Tipperary General Hospital,,Clonmel,County Tipperary,E91,,52.3558965,-7.7111173,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10102
+103,St Joseph's Community Hospital,,Bantry,County Cork,,,51.6525431,-9.9004154,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10103
+104,St Joseph's Hospital,,Dublin,County Dublin,,,53.3826704,-6.1816763,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10104
+105,St Joseph's Hospital,Springfield nan,Dungarvan,County Waterford,,+353-58-20900,52.0867197,-7.6386083,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10105
+106,St Luke's Hospital,,Dublin,County Dublin,,,53.3112764,-6.2694644,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10106
+107,St Mary's Hospital,,Mullingar,County Westmeath,,,53.6123933,-7.0683505,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10107
+108,St Peter's,,Mullingar,County Westmeath,,,53.6769561,-7.2984324,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10108
+109,St Vincent's Hospital,Coosan Point Road nan,Athlone,County Westmeath,,,53.4274586,-7.9409713,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10109
+110,St Vincent's University Hospital,Merrion Road nan,Dublin,County Dublin,D04,+353-1-2214000,53.3181377,-6.2142474,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10110
+111,St. Columba's Hospital,,Kilkenny,County Kilkenny,,,52.5302692,-7.1326821,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10111
+112,St. Columcille's Hospital,Bray Road nan,Loughlinstown,County Dublin,,+353-1-2825800,53.2436132,-6.1327649,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10112
+113,St. Edmundsbury Hospital,,Lucan,County Dublin,,,53.3631771,-6.4369582,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10113
+114,St. Felim's Hospital,,,County Cavan,,,54.0054098,-7.3600629,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10114
+115,St. Finan's Hospital,,Killarney,County Kerry,,,52.0677747,-9.5131632,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10115
+116,St. Francis Private Hospital,,Mullingar,County Westmeath,,+353-44-9385300,53.514872,-7.3357664,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10116
+117,St. James's Hospital,James's Street nan,Dublin,County Dublin,D08,+353-1-4103000,53.3384095,-6.2994208,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10117
+118,St. John's Hospital Limerick,New Road nan,Limerick,County Limerick,,,52.6635791,-8.617538,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10118
+119,St. Joseph's Hospital,,Limerick,County Limerick,,,52.6575166,-8.6111731,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10119
+120,St. Loman's Hospital,Lucan Road nan,Lucan,County Dublin,,+353-1-6207400,53.3572285,-6.4065645,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10120
+121,St. Luke's General Hospital,Freshford Road nan,Kilkenny,County Kilkenny,R95,,52.6663849,-7.2650639,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10121
+122,St. Mary's Hospital,,Mullingar,County Westmeath,,,53.5359152,-7.3492272,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10122
+123,St. Michael's Hospital,Georges Street Lower nan,Dun Laoghaire,County Dublin,,+353 1 280 6901,53.2945252,-6.1387525,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10123
+124,St. Patrick's Hospital,,Waterford,County Waterford,,,52.2510868,-7.10345,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10124
+125,St. Stephen's Psychiatric Hospital,,Cork,County Cork,,,51.9526218,-8.4013896,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10125
+126,St. Vincent's Private Hospital,,Dublin,County Dublin,D04,,53.3149433,-6.2096944,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10126
+127,Summerhill Community Mental Health Centre,,Wexford,County Wexford,,,52.3345099,-6.4684961,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10127
+128,Tallaght University Hospital,Belgard Square North nan,Dublin,County Dublin,D24,+353-1-4142000,53.2892594,-6.3761378,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10128
+129,Tara Winthrop Clinic,,Swords,County Dublin,,,53.4445156,-6.2271122,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10129
+130,Temple Street Childrens University Hospital,,Dublin,County Dublin,D01,,53.3571803,-6.2605579,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10130
+131,The Lee Clinic,,Cork,County Cork,,,51.8973532,-8.5256904,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10131
+132,The Meath Primary Care Centre (Former Meath Hospital),Heytesbury Street nan,Dublin,County Dublin,,,53.3355972,-6.2689203,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10132
+133,The National Maternity Hospital,Holles Street nan,Dublin,County Dublin,,,53.3407047,-6.2456518,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10133
+134,University Hospital Galway,,Galway,County Galway,H91,,53.2785311,-9.0696201,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10134
+135,University Hospital Kerry,,Tralee,County Kerry,,,52.2640542,-9.6883661,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10135
+136,University Hospital Limerick,,Limerick,County Limerick,,+353-61-301111,52.6363492,-8.6534072,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10136
+137,University Hospital Waterford,,Waterford,County Waterford,X91,,52.2476166,-7.0836076,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10137
+138,"University Maternity Hospital, Limerick",Ennis Road nan,Limerick,County Limerick,,+353-61-32745,52.6669817,-8.6329502,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10138
+139,Wexford General Hospital,,Wexford,County Wexford,,+353 53 9142233,52.341674,-6.4821267,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10139
+140,Youghal Community Hospital,,Youghal,County Cork,,,51.9577949,-7.8604116,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10140
+141,Adamstown Health Centre,,Enniscorthy,County Wexford,,+353-53-9240623,52.3924745,-6.7159571,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10141
+142,Atlantic Medical Centre,,Ballina,County Mayo,,+353 96 93706,54.1143749,-9.1511774,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10142
+143,Ayrfield Medical Practice,,Kilkenny,County Kilkenny,,,52.6578871,-7.2623496,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10143
+144,Ballyfermot Health Centre,,Dublin,County Dublin,,,53.3433844,-6.3609794,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10144
+145,Ballynanty Health Centre,,Limerick,County Limerick,,,52.6747309,-8.6402442,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10145
+146,Barrowview Medical Practice,,Athy,County Kildare,,,52.985481,-6.9796072,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10146
+147,Beechlawn Medical Centre,Carrickbrennan Road nan,Blackrock,County Dublin,,+353-1-271-3300,53.2917984,-6.1517457,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10147
+148,Beechwood Medical,Beechwood Avenue Lower 9,Dublin,County Dublin,,+353-1-4961150,53.3215263,-6.2543251,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10148
+149,Blackrock Health Centre,George's Avenue nan,Blackrock,County Dublin,,+353-1-2882980;+353-1-2888423;+353-1-2885406,53.3012436,-6.1791172,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10149
+150,Bon Secours Consultants Clinic,Glasnevin Hill nan,Dublin,County Dublin,,,53.3749148,-6.2676392,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10150
+151,Bonnavalley Medical Centre,,Athlone,County Westmeath,,,53.4185484,-7.913772,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10151
+152,Borris In Ossory Health Centre,,Portlaoise,County Laois,,,52.9401644,-7.6156408,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10152
+153,Cape Clear Health Centre,,Skibbereen,County Cork,,,51.4360556,-9.5046093,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10153
+154,Care Doc,,Kilkenny,County Kilkenny,,+0353 1850334999,52.6405821,-7.2489208,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10154
+155,Charleville Family Practice,,Charleville,County Cork,,,52.3603168,-8.6899993,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10155
+156,Cherry Orchard Health Centre,,Dublin,County Dublin,,,53.3368386,-6.3732785,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10156
+157,Churchfields Clinic and Medical Centre,Lower Salthill Road nan,Gaillimh,County Galway,,,53.266755,-9.0691907,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10157
+158,Clane GP,,Naas,County Kildare,,,53.2949317,-6.6872845,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10158
+159,Clareen House Medical Centre,,Nenagh,County Tipperary,,,52.8585254,-8.1941398,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10159
+160,Clonakilty Family Health Clinic,Faxbridge Shopping Complex nan,Clonakilty,County Cork,,+353 23 885 8774,51.6239478,-8.881663,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10160
+161,Clonard Medical,Sandyford Road nan,Dublin,County Dublin,,012955010,53.277657,-6.231308,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10161
+162,Clonea Health Centre,,Carrick-on-Suir,County Waterford,,,52.2818838,-7.4457814,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10162
+163,Clonminch Medical Centre,,Tullamore,County Offaly,,+353579352868,53.2633878,-7.4847746,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10163
+164,Cormac Street Medical Centre,,Tullamore,County Offaly,,+353579321060,53.2713226,-7.4955237,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10164
+165,Dame Street Medical Centre,Dame Street 16,Dublin,County Dublin,,+353-1-6790754,53.3440671,-6.2652662,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10165
+166,Deel Medical Centre,,Ballina,County Mayo,,,54.1006168,-9.3184372,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10166
+167,Doctor Michael Hayes,Navan Road 104,Dublin,County Dublin,,,53.3640368,-6.3062082,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10167
+168,Doctor Richard Casey,Mount Merrion Avenue 126,Blackrock,County Dublin,,012889838,53.2974097,-6.1999372,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10168
+169,Doctors Surgery,Lucan Road nan,Dublin,County Dublin,,,53.3507081,-6.3507583,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10169
+170,Donabate Clinic,Main Street nan,Donabate,County Dublin,,,53.4867194,-6.148425,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10170
+171,Dr Ciaran Bent,Pembroke Cottages 17,Dublin,County Dublin,,+353 1 298 0226,53.2895428,-6.2436151,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10171
+172,Dr Collins,,Westport,County Mayo,,,53.7983918,-9.511824,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10172
+173,Dr Deirdre O'Brien,South Abbey 2,Youghal,County Cork,,,51.9488445,-7.8429523,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10173
+174,Dr Fahey,,Tullamore,County Offaly,,,53.2746297,-7.4917856,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10174
+175,Dr Garry,,Tullamore,County Offaly,,,53.2751069,-7.489518,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10175
+176,Dr Glaveys Surgery,Chapel Street nan,Claremorris,County Mayo,,,53.9415734,-8.9520954,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10176
+177,Dr Margaret Callaghan,Ballinacurra Gardens 138D,Limerick,County Limerick,,+353 61 228093,52.6460284,-8.6370519,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10177
+178,Dr Mc Loughlans Surgery,Circular Road nan,Claremorris,County Mayo,,,53.9441199,-8.9540051,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10178
+179,Dr Rowley Surgery,Dublin Road nan,Claremorris,County Mayo,,,53.944202,-8.9452102,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10179
+180,Dr Twomey,,Tullamore,County Offaly,,+353579321181,53.2755329,-7.4874676,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10180
+181,Dr. Harte,Haddington Road 63,Dublin,County Dublin,,,53.3347356,-6.2417387,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10181
+182,Dr. Sharkey,,Longford,County Longford,,,53.6934295,-7.6093788,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10182
+183,Drs C Corcoran/P Costello,,Roscrea,County Tipperary,,,52.9410703,-8.0341874,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10183
+184,Drummartin Clinic,Drummartin Road 3,Blackrock,County Dublin,,,53.2887586,-6.222534,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10184
+185,Dublin 9 Health Centre,,Dublin,County Dublin,,,53.369891,-6.2585905,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10185
+186,Dundanion Medical Centre,,Cork,County Cork,,,51.8943016,-8.4199331,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10186
+187,Dunmanway Primary Care Centre,,Bandon,County Cork,,+353 23 8855500,51.7217345,-9.1088186,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10187
+188,Easkey House Primary Care and Day Care Centre,,Ballina,County Sligo,,,54.2861417,-8.954947,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10188
+189,Emmet Place Family Practice,Emmet Place 1,Youghal,County Cork,,,51.955234,-7.8522157,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10189
+190,Ennistymon Medical Centre,,Ennis,County Clare,,,52.9407851,-9.2932168,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10190
+191,Fairview Medical Centre,Fairview Strand 37-39,Dublin,County Dublin,,+353 1 8339856,53.3628107,-6.2388413,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10191
+192,Fingerpost Medical Centre,,Cork,County Cork,,,51.8757975,-8.4324031,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10192
+193,Frenchpark Medical Practice,,Castlerea,County Roscommon,,,53.8739317,-8.4023808,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10193
+194,Glasnevin Orthodontics,Drumcondra Road Upper 64,Dublin,County Dublin,,+353 1 834 0577,53.370789,-6.2534585,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10194
+195,Grange Medical,Grange Road nan,Dublin,County Dublin,,,53.3945342,-6.1646966,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10195
+196,Greystones Medical Centre,,Greystones,County Wicklow,,,53.1397546,-6.0600402,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10196
+197,HSE,,Mullingar,County Westmeath,,,53.4902063,-7.6802347,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10197
+198,HSE Dún Laoghaire Health Centre,York Road 35,Dun Laoghaire,County Dublin,,+353-1-2808471,53.2898526,-6.1442591,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10198
+199,Holmpatrick Surgery,Shenick Road 5,Skerries,County Dublin,,,53.5706176,-6.1058008,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10199
+200,Johnstown Medical Centre,Johnstown Road nan,Glenageary,County Dublin,,+353 1 285 5800,53.2689955,-6.1454127,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10200
+201,Kilkenny Ostheopathic Clinic,,Kilkenny,County Kilkenny,,+00353 567788222,52.63776,-7.2496347,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10201
+202,Kilmcud Medical Centre,Kilmacud Road Lower 26,Blackrock,County Dublin,,+353-1-288-1550;+353-1-283-6058,53.2887761,-6.2077098,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10202
+203,Kilmeague Health Centre,,Naas,County Kildare,,,53.2502932,-6.8410774,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10203
+204,Kinsealy Medical Centre,The Rise 20,Swords,County Dublin,,,53.4459318,-6.2020428,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10204
+205,Leixlip Health Centre,,Naas,County Kildare,,,53.3636538,-6.4899087,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10205
+206,Loughboy Medical Centre,,Kilkenny,County Kilkenny,,+353 56 7770020,52.6415602,-7.2418035,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10206
+207,Manor Road Surgery,,Lucan,County Dublin,,,53.3509976,-6.3686143,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10207
+208,Medicentre,,Tullamore,County Offaly,,,53.2770995,-7.4949533,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10208
+209,Newbridge Medical & Dental,,Newbridge,County Kildare,,,53.1821813,-6.8019665,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10209
+210,Newpark Medical and Dental Clinic,Lintown Avenue nan,Kilkenny,County Kilkenny,,,52.6604408,-7.2399136,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10210
+211,Northgate Surgery,Pearse Park 226,Drogheda,County Louth,,0419839444,53.7199135,-6.3495184,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10211
+212,O'Driscoll Clinic,,Dublin,County Dublin,,,53.3594573,-6.1968585,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10212
+213,Orwell Surgery,,Dublin,County Dublin,,,53.2988355,-6.3213394,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10213
+214,Owenabue Medical Centre,Ballea Road nan,Cork,County Cork,,+353 21  437 4997,51.8171637,-8.3948118,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10214
+215,PW Medical,Gardiner Street Lower 66,Dublin,County Dublin,,,53.3504065,-6.2540115,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10215
+216,Primrose Gate Medical Centre,Willow Court nan,Naas,County Kildare,,01-6012903,53.3363207,-6.5305711,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10216
+217,Ringsend Medical Centre,Thorncastle Street 14,Dublin,County Dublin,,,53.3421557,-6.2275511,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10217
+218,Roscommon Medical Centre,,Roscommon,County Roscommon,,,53.6312214,-8.193503,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10218
+219,Rossfield Surgery,Brookfield Road nan,Dublin,County Dublin,,,53.2883454,-6.4046196,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10219
+220,Saggart Medical Centre,Church Road nan,Saggart,County Dublin,,,53.280488,-6.4434838,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10220
+221,Scholarstown Family Practice,Templeroan Lodge 10a,Dublin,County Dublin,,+35314936711,53.2797856,-6.3075523,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10221
+222,Shannon Doc,,Limerick,County Limerick,,,52.6368151,-8.6554939,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10222
+223,South Doc,,Fermoy,County Cork,,,52.1389009,-8.2570129,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10223
+224,SouthDoc Kanturk,,Mallow,County Cork,,,52.1762266,-8.9144937,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10224
+225,St. Jude Family Practice,,Dublin,County Dublin,,,53.2996147,-6.3236886,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10225
+226,Stamullen Surgery,,,County Meath,,,53.6213974,-6.2708384,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10226
+227,Summerhill Primary Care Centre,,Navan,County Meath,,,53.4826626,-6.7399467,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10227
+228,Sunnyside Medical Centre,Waterloo Road nan,Wexford,County Wexford,,,52.3373271,-6.4656866,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10228
+229,Swiftbrook Medical Saggart,,Saggart,County Dublin,,,53.286391,-6.432207,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10229
+230,Taghmon Health Centre,,Wexford,County Wexford,,+353 913 44 92,52.3224405,-6.6510921,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10230
+231,Tallow Health Centre,,Mallow,County Waterford,,,52.0958811,-8.0074753,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10231
+232,The Parks Medical Centre,,Dublin,County Dublin,,,53.3724976,-6.3897742,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10232
+233,The Red House,Shortcastle Street nan,Mallow,County Cork,,,52.1390666,-8.6478945,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10233
+234,The Red House Family Practice,,Mallow,County Cork,,,52.1314154,-8.6463485,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10234
+235,The Rise Family Practice,,Dublin,County Dublin,,,53.3889594,-6.3800499,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10235
+236,The Springhill Clinic,,Kilkenny,County Kilkenny,,,52.6366618,-7.2503004,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10236
+237,The Surgery Clane,,Naas,County Kildare,,+353 45 868433,53.2906135,-6.6870878,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10237
+238,Tower Medical Centre,,Cork,County Cork,,,51.9259201,-8.6086947,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10238
+239,Tubbercurry health centre,Teeling Street nan,Sligo,County Sligo,,,54.0527675,-8.7323236,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10239
+240,Tullamore Medical Centre,Ardan Road nan,Tullamore,County Offaly,,+353579351225,53.2828272,-7.4925384,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10240
+241,Vernon Medical Clinic,Vernon Avenue 67a,Dublin,County Dublin,,+353 1 8532070,53.3691047,-6.1943593,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10241
+242,Walkinstown Medical Centre,Walkinstown Road 133,Dublin,County Dublin,,,53.3190084,-6.3317156,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10242
+243,WestDoc,,Castlerea,County Galway,,,53.6053011,-8.5602366,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10243
+244,Wexford Osteopathic Centre,,Wexford,County Wexford,,,52.3248624,-6.4879502,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10244
+245,Whitehall Health Centre,Larkhill Road nan,Dublin,County Dublin,,,53.3851018,-6.2501123,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10245
+246,Women's Health Group,nan 2,Kilkenny,County Kilkenny,,,52.6553189,-7.2571238,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10246

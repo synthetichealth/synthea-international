@@ -1,25 +1,253 @@
 ,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
-1,010001,Aurora Hospital,Nordenskiöldinkatu 20,Helsinki,18,00250,Helsinki,+358931065605,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.192440,24.928110
-2,010002,Department of Oncology,Paciuksenkatu 3,Helsinki,18,00330,Helsinki,+358947173197,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.190180,24.902180
-3,010003,Eye and Ear Hospital,Haartmaninkatu 4C-4E,Helsinki,18,00290,Helsinki,+35894711,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.189160,24.909080
-4,010004,Haartman hospital,Haartmaninkatu 4,Helsinki,18,00290,Helsinki,+35894711,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,Yes,,60.189159,24.909081
-5,010005,Herttoniemi Hospital,Kettutie 8,Helsinki,18,00800,Helsinki,+358947178247,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.471520,22.693710
-6,010006,Laakso Hospital,Lääkärinkatu 8,Helsinki,18,00250,Helsinki,+35893104701,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.471520,22.693710
-7,010007,Malmi Hospital,Talvelantie 6,Helsinki,18,00700,Helsinki,+35894711,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.471520,22.693710
-8,010008,Meilahti Tower Hospital,Haartmaninkatu 4,Helsinki,18,00290,Helsinki,+358947172432,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,,Yes,60.471520,22.693710
-9,010009,Meilahti Triangle Hospital,Haartmaninkatu 4,18,00290,Helsinki,+35894711,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.471520,22.693710
-10,010010,New Children's Hospital,Stenbäckinkatu 9,Helsinki,18,00290,Helsinki,+35894711,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.18715,24.91061
-11,010011,Psychiatrycenter,Välskärinkatu 12,Helsinki,18,00260,Helsinki,+35894711,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.17998,24.91999	
-12,010012,Skin and Allergy Hospital,Meilahdentie 2,Helsinki,18,00250,Helsinki,+358947186355,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.19263,24.89436
-13,010013,Surgical Hospital,Kasarmikatu 11-13,Helsinki,18,00130,Helsinki,+358947188310,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.16102,24.94834
-14,010014,Töölö Hospital,Topeliuksenkatu 5,Helsinki,18,00260,Helsinki,+35894711,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.18152,24.92049
-15,010015,Women's Hospital,Haartmaninkatu 2,Helsinki,18,00290,Helsinki,+35894711,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,No,,60.18876,24.90976
-16,010016,Jorvi Hospital,Turuntie 150,Espoo,18,02740,Espoo,+35894711,Public,Helsingin ja Uudenmaan sairaanhoitopiiri,Yes,,60.22589,24.77581
-17,010017,Espoo Hospital,Karvasmäentie 6,Espoo,18,02740,Espoo,+35894711,Public,Espoon Kaupunki,Yes,,60.22011,24.6848
-18,010018,Peijas Hospital,Sairaalakatu 1,Vantaa,18,01400,Vantaa,+358947167371,Public,Helsinki University Hospital,Yes,,60.3299,25.0608
-19,010019,Hyvinkää Hospital,Sairaalankatu 1,Hyvinkää,18,05830,Hyvinkää,+3581945871,Public,Hyvinkää Kaupunki,Yes,,60.612,24.82486
-20,010020,Kellokoski Hospital,Ohkolantie 10,Kellokoski,18,04500,Kellokoski,+35894711,Public,Espoon Kaupunki,Yes,,60.53054,25.10548
-21,010021,Lohja Hospital,Sairaalatie 8,Lohja,18,08200,Lohja,+3581938011,Public,Lohja Kaupunki,Yes,,60.2247,24.01885
-22,010022,Raasepori Hospital,Itäinen Rantakatu 9,Tammisaari,18,10600,Tammisaari,+358192241,Public,Raasepori Kaupunki,Yes,,61.14787,22.73317
-23,010023,Porvoo Hospital,Sairaalantie 1,Porvoo,18,06200,Porvoo,+3581954821,Public,Porvoon Kaupunki,Yes,,60.37911,25.69576
-24,010024,Oulu University Hospital,Kajaanintie 50,Oulu,18,90220,Oulu,+35883152655,Public,Oulu Kaupunki,Yes,,65.00854,25.5285	
+0,10000,Alahärmän terveysasema,Kanttorintie,,,,,,,,no,,63.2452453,22.850988600000004
+1,10001,Alajärven terveyskeskus,,,,,,,,,yes,,62.996398899999996,23.826904199999998
+2,10002,Alavan sairaala,,,,,,,,,yes,,62.8867831,27.666443
+3,10003,Alavuden pääterveysasema,Salmentie,,,,,,,,yes,,62.5865728,23.6258106
+4,10004,Auroran sairaala,,,,,,,,,,,60.19535079999999,24.9276243
+5,10005,Bottenhavets sjukhus,,,,,,,,,,,62.2711631,21.4013514
+6,10006,Docrates Syöpäsairaala,Saukonpaadenranta,,,,,+358107732000,,,,,60.1600741,24.9102208
+7,10007,Eiran sairaala,Laivurinkatu,,,,,+35891620570,,,,,60.1578506,24.942142899999997
+8,10008,Enon terveysasema,,,,,,,,,,,62.80135260000001,30.1550859
+9,10009,Ensiapu,,,,,,,,,,,64.7955369,25.927746300000003
+10,10010,Espoon sairaala,Karvasmäentie,,,,,,,,,,60.22168610000001,24.6854098
+11,10011,Espoonlahden terveysasema,,,,,,,,,,,60.1492004,24.6608261
+12,10012,Evijärven terveyskeskus,,,,,,,,,,,63.36683620000001,23.470999300000003
+13,10013,Forssan sairaala,,,,,,,,,yes,,60.8206204,23.6357557
+14,10014,HYKS Vanhuspsykiatrian osasto P4,Paimenentie,,,,,,,,,,60.32152979999999,25.069955399999998
+15,10015,Haagan terveysasema,Huovitie,,,,,09 3104 9270,,,,,60.22258370000001,24.904401
+16,10016,Haapaveden terveyskeskus,,,,,,,,,,,64.1370895,25.3731547
+17,10017,Halikon sairaala,,,,,,,,,,,60.436177799999996,23.0372037
+18,10018,Haminan terveyskeskus,,,,,,,,,,,60.577565299999996,27.1778124
+19,10019,Hangon terveyskeskus,,,,,,,,,,,59.82930940000001,22.9731601
+20,10020,Harjavallan Terveyskeskus,,,,,,,,,,,61.3109359,22.1496307
+21,10021,Harjavallan sairaala,Sairaalantie,,,,,,,,,,61.303308200000004,22.1462276
+22,10022,Harjulan sairaala,,,,,,,,,,,62.8975937,27.6361734
+23,10023,Hatanpään kantasairaala,,,,,,,,,no,,61.4850073,23.753415
+24,10024,Haukiputaan terveyskeskus,,,,,,,,,no,,65.1713683,25.358798899999996
+25,10025,Heinolan sairaala,,,,,,,,,yes,,61.206993999999995,26.034400100000003
+26,10026,Heinäveden terveyskeskus,,,,,,,,,,,62.423103399999995,28.625690000000002
+27,10027,Herttoniemen sairaala,Kettutie,,,,,,,,,,60.2079877,25.0374586
+28,10028,Himangan terveysasema,,,,,,,,,,,64.0587062,23.6455546
+29,10029,Hirvikosken terveysasema,Kanta-Loimaantie,,,,,02 761 2020,,,,,60.868607499999996,22.9849259
+30,10030,Hyrylän terveyskeskus,Hyryläntie,,,,,,,,,,60.4015382,25.023712300000003
+31,10031,Hyrynsalmen terveyskeskus,,,,,,,,,,,64.6812817,28.490966200000003
+32,10032,Hyvinkään pääterveyskeskus,,,,,,,,,,,60.63603440000001,24.857940799999998
+33,10033,Hyvinkään sairaala,Sairaalankatu,,,,,,,,yes,,60.611699,24.8269413
+34,10034,Hälsovårdscentral,,,,,,,,,,,63.12255450000001,21.697506399999998
+35,10035,Hämeenlinnan terveyskeskus,Viipurintie,,,,,,,,,,60.9984414,24.4741992
+36,10036,Idänpään terveysasema,Anttilankatu,,,,,,,,,,61.005647700000004,24.498186800000003
+37,10037,Iho- ja allergiasairaala,Meilahdentie,,,,,,,,,,60.19227420000001,24.8950001
+38,10038,Iin terveysasema,,,,,,,,,,,65.3202213,25.4005943
+39,10039,Iisalmen aluesairaala,Riistakatu,,,,,,,,,,63.5631676,27.183200899999996
+40,10040,Iitin terveyskeskus,,,,,,,,,,,60.897074399999994,26.3430762
+41,10041,Ikaalisten terveyskeskus,,,,,,,,,yes,,61.76934250000001,23.0718572
+42,10042,Ilmajoen terveyskeskus,,,,,,,,,,,62.7375705,22.569820800000002
+43,10043,Ilomantsin terveyskeskus,,,,,,,,,,,62.66859770000001,30.920956099999998
+44,10044,IsojoenTerveysKeskus,,,,,,,,,yes,,62.1166189,21.955903
+45,10045,Itäinen lähiklinikka,Alasenkatu,,,,,,,,,,60.9999014,25.7568003
+46,10046,Jalasjärven terveyskeskus,,,,,,,,,,,62.491388199999996,22.750711199999998
+47,10047,Jokilaakson sairaala,,,,,,,,,,,61.875844799999996,25.1859147
+48,10048,Joroisten terveysasema,,,,,,,,,no,,62.1820088,27.8257419
+49,10049,Jorvin sairaala,Turuntie,,,,,,,,yes,,60.2229537,24.6911512
+50,10050,Juankosken terveysasema,,,,,,,,,,,63.072084100000005,28.336290100000003
+51,10051,Jukolan terveysasema,Eeronkuja,,,,,,,,,,60.983354500000004,24.4189193
+52,10052,Julkulan sairaala,,,,,,,,,,,62.93401,27.630475399999995
+53,10053,Juvan terveyskeskus,,,,,,,,,yes,,61.893995,27.8647734
+54,10054,Kaarinan pääterveysasema,Voivalantie,,,,,,,,,,60.40715720000001,22.3747343
+55,10055,Kaavin terveysasema,,,,,,,,,,,62.9741423,28.482777600000002
+56,10056,Kaijonharjun terveysasema,,,,,,,,,,,65.0613165,25.4814975
+57,10057,Kainuun Keskussairaala,Sotkamontie,,,,,,,,yes,,64.2127595,27.7249615
+58,10058,Kajaanin pääterveysasema,,,,,,,,,,,64.2284564,27.7186886
+59,10059,Kalajoen terveyskeskus,,,,,,,,,,,64.2617927,23.939541199999997
+60,10060,Kalasataman terveys- ja hyvinvointikeskus,Työpajankatu,,,,,+358 9 310 5015,,,,,60.1882121,24.979825199999997
+61,10061,Kangasniemen terveyskeskus,Sairaalantie,,,,,,,,,,61.9933902,26.635781800000004
+62,10062,Kangasvuoren sairaala,Huhta,,,,,,,,no,,62.2676342,25.8030294
+63,10063,Kankaanpään terveyskeskus,,,,,,,,,,,61.7993239,22.375974399999997
+64,10064,Kanta-Hämeen keskussairaala,Ahvenistontie,,,,,,,,yes,,60.990612,24.4164301
+65,10065,"Kanta-Hämeen keskussairaala, Riihimäen yksikkö",Kontiontie,,,,,,,,yes,,60.74755210000001,24.7450659
+66,10066,Karhulan sairaala,,,,,,,,,,,60.5164277,26.9380728
+67,10067,Karkkilan terveysasema,,,,,,,,,,,60.5403074,24.225391199999997
+68,10068,Kaskenlinnan sairaala,Vähäheikkiläntie,,,,,,,,,,60.43865970000001,22.2783568
+69,10069,Katajaharjun terveysasema,Puhjontie,,,,,,,,yes,,60.87867850000001,26.6595081
+70,10070,Katriinan sairaala,Katriinankuja,,,,,,,,yes,,60.346411100000005,24.873276899999997
+71,10071,Kauhajoen terveyskeskus,,,,,,,,,,,62.425151,22.1706754
+72,10072,Kaunialan sotavammasairaala,,,,,,,,,,,60.220034999999996,24.6980182
+73,10073,Kellokosken sairaala,,,,,,,,,,,60.531808,25.1067637
+74,10074,Keltakankaan terveysasema,Sairaalankaari,,,,,,,,yes,,60.7463458,26.8326846
+75,10075,Keminmaan terveyskeskus,Väylätie,,,,,,,,,,65.79836920000001,24.5419361
+76,10076,Kempeleen terveyskeskuksen laajennus,,,,,,,,,,,64.9145881,25.4885324
+77,10077,Keski-Pohjanmaan keskussairaala,,,,,,,,,yes,,63.84757809999999,23.1126648
+78,10078,Keskustan lähiklinikka,Harjukatu,,,,,,,,,,60.98028670000001,25.6637374
+79,10079,Keuruun Terveyskeskus,,,,,,,,,,,62.2625723,24.7111528
+80,10080,Kihniön terveysasema,Kivinevantie,,,,,,,,,,62.2141316,23.1809736
+81,10081,Kiihtelysvaaran terveysasema,,,,,,,,,,,62.4952324,30.2498179
+82,10082,Kiimingin terveysasema,Terveystie,,,,,,,,,,65.12894849999999,25.7760185
+83,10083,Kirkonkylän terveysasema,,,,,,,,,,,61.3093422,23.612199899999997
+84,10084,Kirurginen sairaala,Kasarmikatu,,,,,,,,,,60.1612568,24.9503878
+85,10085,Kiteen terveyskeskus,Arppentie,,,,,,,,,,62.0969869,30.1276347
+86,10086,Kittilän terveyskeskus,Sairaalantie,,,,,+358 400 356 498,,,yes,,67.6478666,24.923282
+87,10087,Kiuruveden terveyskeskus,,,,,,,,,,,63.659384700000004,26.611710499999997
+88,10088,Kivelän sairaala,,,,,,,,,,,60.177023999999996,24.9195631
+89,10089,Kivenlahden terveysasema,Meriusva,,,,,,,,,,60.15492420000001,24.6358455
+90,10090,Koivukylän Sosiaali-ja terveyskeskus,,,,,,,,,,,60.320426,25.058321300000003
+91,10091,Kuhmoisten terveysasema,,,,,,,,,,,61.558992,25.159314399999996
+92,10092,Kuhmon terveysasema,,,,,,,,,,,64.1279605,29.5117317
+93,10093,Kuokkalan sosiaali- ja terveysasema,,,,,,,,,,,62.22628639999999,25.773533899999997
+94,10094,Kuopion terveyskeskus,,,,,,,,,,,62.894405799999994,27.6845956
+95,10095,Kuopion yliopistollinen sairaala,Puijonlaaksontie,,,,,+358 17 173 311,,,,,62.89697370000001,27.642048600000003
+96,10096,Kuortaneen terveysasema,Keskustie,,,,,,,,no,,62.807277,23.5052931
+97,10097,Kurikan terveyskeskus,,,,,,,,,,,62.6267946,22.3938085
+98,10098,Kurun terveysasema,Kisatie,,,,,,,,,,61.881381000000005,23.7294348
+99,10099,Kuusamon terveyskeskus,Vanttajantie,,,,,,,,yes,,65.9648312,29.192020399999997
+100,10100,Kuusankosken terveyskeskus,Kymenlaaksonkatu,,,,,,,,no,,60.9071541,26.6294544
+101,10101,Kvevlax hälsostation,,,,,,,,,no,,63.161554,21.8377623
+102,10102,Kyllön terveysasema,Keskussairaalantie,,,,,+358 14 266 2011,,,,,62.2332491,25.706564899999996
+103,10103,Kymenlaakson keskussairaala,,,,,,,,,,,60.476532999999996,26.914278600000003
+104,10104,Kyrön terveysasema,Kehityksentie,,,,,,,,,,60.7011578,22.7513959
+105,10105,Kärsämäen terveyskeskus,,,,,,,,,,,63.9797311,25.759019600000002
+106,10106,Laajasalon terveysasema,,,,,,,,,no,,60.1786339,25.054481600000003
+107,10107,Laakson sairaala,,,,,,,,,,,60.1925577,24.915426
+108,10108,Lapin keskussairaala,,,,,,,,,yes,,66.49360779999999,25.768548499999998
+109,10109,Lapinlahden terveyskeskus,,,,,,,,,,,63.364749399999994,27.3959999
+110,10110,Lapuan Terveyskeskus,Sairaalantie,,,,,,,,yes,,62.9682926,23.0424772
+111,10111,Leppävaaran terveysasema,Konstaapelinkatu,,,,,+358 9 81635200,,,,,60.221514299999996,24.813498199999998
+112,10112,Leppävirran terveysasema,Savonkatu,,,,,+35817171307,,,,,62.4880828,27.797999
+113,10113,Lohjan sairaala,Sairaalatie,,,,,,,,yes,,60.222339100000006,24.017635300000002
+114,10114,Loimaan aluesairaala,Seppälänkatu,,,,,+358 2 314 3000,,,yes,,60.852947,23.048512300000002
+115,10115,Lopen terveysasema,Harjutie,,,,,,,,,,60.7182075,24.426741500000002
+116,10116,Luvian Terveyskeskus,Kuivalahdentie,,,,,02 677 3111,,,,,61.361006700000004,21.621858
+117,10117,Länsi-Pohjan keskussairaala,,,,,,,,,yes,,65.7336561,24.5551069
+118,10118,Maikkulan terveysneuvola,,,,,,,,,no,,64.9820934,25.5704831
+119,10119,Malmin sairaala,Talvelantie,,,,,09 310 6611,,,yes,,60.2536171,25.001049
+120,10120,Marjoniemen terveysasema,,,,,,,,,yes,,60.870141000000004,26.692726500000003
+121,10121,Marttilan terveysasema,Kirkkotie,,,,,,,,,,60.585009400000004,22.8991729
+122,10122,Masalan terveysasema,Puolukkamäki,,,,,,,,,,60.1529838,24.5323477
+123,10123,Matinkylän terveysasema,Matinkatu,,,,,,,,yes,,60.160264,24.748300399999998
+124,10124,Meilahden sairaala-alue,,,,,,,,,,,60.185119900000004,24.9103742
+125,10125,Mikkelin keskussairaala,Porrassalmenkatu,,,,,,,,yes,,61.692915799999994,27.2779482
+126,10126,Moision sairaala,,,,,,,,,no,,61.6570625,27.2763772
+127,10127,Muhoksen terveyskeskus,,,,,,,,,yes,,64.81262679999999,26.031110199999997
+128,10128,Muonion terveyskeskus,Ilttitie,,,,,+358 (0)16 534 111,,,,,67.96330920000001,23.681852399999997
+129,10129,Mynämäen terveyskeskus,Kuivelantie,,,,,+35824477600,,,,,60.6745635,21.9790193
+130,10130,Myyrmäen sosiaali- ja terveysasema,Jönsaksentie,,,,,,,,yes,,60.260912899999994,24.8550992
+131,10131,Mäntyharjun terveyskeskus,Sairaalantie,,,,,,,,,,61.419842200000005,26.862253000000003
+132,10132,Mäntän Aluesairaala,,,,,,,,,yes,,62.0088711,24.6347896
+133,10133,Nastolan terveysasema,Pekkalantie,,,,,,,,yes,,60.94614839999999,25.923906600000002
+134,10134,Nilsian Terveysasema,,,,,,,,,,,63.2007071,28.096507199999998
+135,10135,Nokian terveyskeskus,,,,,,,,,,,61.477973,23.501696300000003
+136,10136,Nurmijärven terveyskeskus,,,,,,,,,,,60.468150300000005,24.806241
+137,10137,OYS Psykiatria,,,,,,,,,yes,,65.0163548,25.515969000000002
+138,10138,Ohkolan sairaala,,,,,,,,,,,60.542475399999994,25.110117199999998
+139,10139,Ojoisten terveysasema,Veteraanipolku,,,,,,,,,,61.0119196,24.4374444
+140,10140,Oravais hälsovårdscental,,,,,,,,,,,63.297424899999996,22.3770588
+141,10141,Orimattilan terveysasema,,,,,,,,,,,60.79837320000001,25.7187641
+142,10142,Oulun yliopistollinen sairaala,Kajaanintie,,,,,,,,yes,,65.0083643,25.5147233
+143,10143,Oulunkylän terveysasema,Kylänvanhimmantie,,,,,,,,yes,,60.228162399999995,24.964671
+144,10144,Outokummun terveysasema,Sairaalankatu,,,,,,,,,,62.7334786,29.005073100000004
+145,10145,Padasjoen terveysasema,,,,,,,,,,,61.35691510000001,25.2762525
+146,10146,Paimion pääterveysasema,Terveyskeskuksentie,,,,,,,,,,60.4417127,22.6875897
+147,10147,Palokan terveysasema,Ritopohjantie,,,,,+358 14 3366822,,,no,,62.2880922,25.7453836
+148,10148,Paloniemen sairaala,Paloniementie,,,,,,,,,,60.2658382,24.0157116
+149,10149,Parikkalan terveyskeskus,,,,,,,,,,,61.55995279999999,29.4985985
+150,10150,Parkanon Terveyskeskus,,,,,,,,,,,62.0063424,23.0256932
+151,10151,Peijaksen sairaala,Sairaalakatu,,,,,+358 9 47167371,,,yes,,60.3299322,25.059890300000003
+152,10152,Pelkosenniemen terveyskeskus,,,,,,,,,,,67.1222901,27.486644199999997
+153,10153,Peräseinäjoen terveysasema,,,,,,,,,no,,62.5644817,23.0593861
+154,10154,Pirkkalan terveyskeskus,Lentoasemantie,,,,,+356524000,,,yes,,61.4613517,23.6359253
+155,10155,Pitkäniemen sairaala,,,,,,,,,,,61.480153200000004,23.5738747
+156,10156,Pohjois-Karjalan keskussairaala,Tikkamäentie,,,,,,,,yes,,62.5912666,29.782476799999998
+157,10157,Pohjois-Kymen sairaala,Sairaalankuja,,,,,,,,yes,,60.9121811,26.6245488
+158,10158,Pohjola Sairaala,Puutarhurinkuja,,,,,,,,,,60.2081865,24.8946789
+159,10159,Porvoon sairaala,Sairaalantie,,,,,+358 19 54821,,,yes,,60.37946659999999,25.6928004
+160,10160,Pulkamontien terveysasema,,,,,,,,,yes,,66.5195375,25.756545499999998
+161,10161,Pulkkilan terveyskeskus,,,,,,,,,,,64.2775,25.8683066
+162,10162,Puumalan terveyskeskus,,,,,,,,,,,61.5199946,28.1887853
+163,10163,Pyhäjärven terveyskeskus,Potilaspolku,,,,,,,,,,63.6825929,25.9669049
+164,10164,Pyhäselän terveysasema,Sähkötie,,,,,,,,,,62.4398091,29.971453000000004
+165,10165,Päijät-Hämeen keskussairaala,Keskussairaalankatu,,,,,,,,yes,,60.99270179999999,25.569882500000002
+166,10166,Raahen aluesairaala,,,,,,,,,yes,,64.6963745,24.472372500000002
+167,10167,Raision sairaala,Sairaalakatu,,,,,,,,no,,60.50264839999999,22.140632999999998
+168,10168,Rajakylän sosiaali- ja terveysasema,,,,,,,,,,,65.0667209,25.4210621
+169,10169,Rajamäen terveysasema,Kievarintie,,,,,,,,,,60.5289353,24.7519333
+170,10170,Rantakylän terveysasema,,,,,,,,,,,62.6142407,29.815921600000003
+171,10171,Rantasalmen terveysasema,,,,,,,,,,,62.0626339,28.2988066
+172,10172,Rantatöysän työterveysasema,Annalantie,,,,,,,,no,,62.6383132,23.6308807
+173,10173,Rantsilan terveyskeskus,,,,,,,,,,,64.51111850000001,25.648462
+174,10174,Raseborgs sjukhus,,,,,,,,,yes,,59.9695285,23.4398687
+175,10175,Rauman terveyspalvelut,Steniuksenkatu,,,,,,,,yes,,61.1315395,21.5216729
+176,10176,Riihimäen seudun terveyskeskus,,,,,,,,,,,60.74355260000001,24.7775671
+177,10177,Ruoveden terveysasema,,,,,,,,,,,61.982336,24.0759121
+178,10178,Ruutanan OmaAsema,Leppätie,,,,,+358 3 5655 4011,,,no,,61.528457700000004,24.011065300000002
+179,10179,Rääkkylän terveyskeskus,Kinnulantie,,,,,030 105550,,,,,62.3136872,29.6317901
+180,10180,Sairaala Lapponia Kemijärvi,Sairaalakatu,,,,,,,,yes,,66.7047039,27.442448699999996
+181,10181,Sairaala Orton,Tenholantie,,,,,,,,no,,60.2027005,24.908421899999997
+182,10182,Sallan terveyskeskus,Jungintie,,,,,+358 40 5207 390,,,yes,,66.8248666,28.671326399999998
+183,10183,Salon aluesairaala,,,,,,,,,yes,,60.375251299999995,23.129555899999996
+184,10184,Samarian terveyskeskus,Terveyskuja,,,,,+358 9 816 32600,,,,,60.20222879999999,24.6547687
+185,10185,Santahaminan terveysasema,,,,,,,,,,,60.149860100000005,25.040090600000003
+186,10186,Sauvon terveyskeskus,,,,,,,,,,,60.3446331,22.696919100000002
+187,10187,Savitaipaleen hyvinvointiasema,Maitolantie,,,,,+358 (0)5 352 1200,,,,,61.200581400000004,27.676026699999998
+188,10188,Savonlinnan keskussairaala,Keskussairaalantie,,,,,+358 15 527 2000,,,yes,,61.870732499999995,28.8503828
+189,10189,Savonlinnan pääterveysasema,Pihlajavedentie,,,,,+358 15 527 7112,,,no,,61.8744799,28.8462831
+190,10190,Seinäjoen keskussairaala,,,,,,,,,yes,,62.77278199999999,22.8183402
+191,10191,Siilaisen terveysasema,Noljakantie,,,,,,,,,,62.6151254,29.728619199999997
+192,10192,Sodankylän terveyskeskus,,,,,,,,,,,67.4295027,26.5618147
+193,10193,Soinin Terveysasema,,,,,,,,,yes,,62.8717081,24.207621
+194,10194,Someron terveyskeskus,Turuntie,,,,,,,,,,60.6322811,23.494819600000003
+195,10195,Sonkajärven terveyskeskus,Taivallahdentie,,,,,,,,,,63.6704186,27.5235984
+196,10196,Sotkamon terveyskeskus,Keskuskatu,,,,,,,,yes,,64.1325095,28.390993199999997
+197,10197,Suomussalmi terveyskeskus,,,,,,,,,,,64.8821723,28.8936457
+198,10198,Suonenjoen terveyskeskus,,,,,,,,,,,62.6297647,27.1177298
+199,10199,Suursuon sairaala,Suursuonlaita,,,,,,,,,,60.234330799999995,24.931794699999998
+200,10200,Sädesairaala,,,,,,,,,,,62.231593999999994,25.7125403
+201,10201,Taalintehtaan terveysasema,,,,,,,,,no,,60.019020499999996,22.4983826
+202,10202,Taivalkosken terveyskeskus,,,,,,,,,,,65.56877,28.2309459
+203,10203,Tammelan terveysasema,Einarintie,,,,,,,,,,60.80796089999999,23.7705612
+204,10204,Tampereen yliopistollinen sairaala,Teiskontie,,,,,+358 3 311 611,,,,,61.5058564,23.8104948
+205,10205,Tapiolan terveysasema,Ahertajantie,,,,,09-8163811,,,,,60.17854989999999,24.797578299999998
+206,10206,Tarinan sairaala,,,,,,,,,no,,63.0675068,27.661865000000002
+207,10207,Tervakosken terveysasema,,,,,,,,,,,60.818211399999996,24.620997600000003
+208,10208,Terveysasema,,,,,,,,,no,,66.29876460000001,29.146775899999994
+209,10209,Terveysasema,,,,,,,,,,,65.7556342,24.5538788
+210,10210,Terveyskeskus,,,,,,,,,,,63.24171479999999,26.744923800000002
+211,10211,Terveyskeskus,Charlotta Lönnqvistin tie,,,,,,,,,,60.1359919,24.2320307
+212,10212,Terveyskeskus,,,,,,,,,,,61.458918700000005,24.0834018
+213,10213,Terveyskeskus,Asematie,,,,,,,,,,60.2146561,24.7162997
+214,10214,Terveyskeskus,,,,,,,,,,,62.0361096,24.6108829
+215,10215,Terveyskeskus,,,,,,,,,,,63.4981986,28.2914915
+216,10216,Terveyskeskus,,,,,,,,,,,63.24163829999999,29.2565423
+217,10217,Terveyskeskus,,,,,,,,,,,64.17896230000001,27.0085662
+218,10218,Terveyskeskus,,,,,,,,,,,65.6027505,25.205121600000002
+219,10219,Terveyskeskus,,,,,,,,,,,61.0887264,25.0052815
+220,10220,Terveyskeskus,,,,,,,,,,,61.507808499999996,25.679914899999996
+221,10221,Terveyskeskus,,,,,,,,,,,63.208286,24.4294118
+222,10222,Tervolan Terveyskeskus,Keskustie,,,,,,,,,,66.0855964,24.810528899999998
+223,10223,Tilkka,,,,,,,,,,,60.1995855,24.900311600000002
+224,10224,Toholammin terveyskeskus,,,,,,,,,no,,63.776227500000005,24.2508782
+225,10225,Toijalan terveysasema ja sairaala,Akaantie,,,,,+358 40 335 2702,,,,,61.17506949999999,23.8720599
+226,10226,Turun kaupunginsairaala,,,,,,,,,,,60.440269900000004,22.272152
+227,10227,Turun yliopistollinen keskussairaala,Kiinamyllynkatu,,,,,,,,yes,,60.4516891,22.2967236
+228,10228,Tyks Vakka-Suomen sairaala,,,,,,,,,yes,,60.7969317,21.423537399999997
+229,10229,Törnävän sairaala,,,,,,,,,,,62.7649865,22.8294633
+230,10230,Töölön sairaala,,,,,,,,,,,60.18168860000001,24.9202399
+231,10231,Ulvilan terveysasema,,,,,,,,,,,61.4325172,21.887161499999998
+232,10232,Urjalan terveysasema,Sairaalantie,,,,,+358 40 335 2702,,,yes,,61.0830089,23.5618088
+233,10233,Vaalan terveysasema,,,,,,,,,,,64.5586532,26.829151399999997
+234,10234,Vaasan keskussairaala,,,,,,,,,yes,,63.08556039999999,21.611558499999997
+235,10235,Valkeakosken sairaala,Salonkatu,,,,,,,,yes,,61.271573700000005,24.0293647
+236,10236,Vammalan sairaala,Itsenäisyydentie,,,,,+358 3 311 615,,,yes,,61.337543999999994,22.9238228
+237,10237,Varpaisjärven terveysasema,Mäkitie,,,,,,,,,,63.359702,27.7539489
+238,10238,Varuskuntasairaala,,,,,,,,,,,60.9690728,25.6213385
+239,10239,Vehmaan terveyskeskus,Margaretantie,,,,,,,,,,60.6880711,21.671186300000002
+240,10240,Vekaranjärven terveysasema,,,,,,,,,yes,,61.11359399999999,26.9868892
+241,10241,Viherlaakson terveysasema,Kievarinpolku,,,,,,,,yes,,60.2275522,24.7424014
+242,10242,Viitasaaren terveyskeskus,,,,,,,,,,,63.0708637,25.8510985
+243,10243,Virtain Terveyskeskus,,,,,,,,,yes,,62.2402184,23.7591526
+244,10244,YTHS,Otakaari,,,,,,,,,,60.19105210000001,24.8325033
+245,10245,Yli-Iin terveyskeskus,Kirkkokuja,,,,,,,,,,65.3711144,25.8389529
+246,10246,Ylihärmän terveysasema,,,,,,,,,,,63.1471922,22.804197
+247,10247,Ylitornion terveyskeskus,Rajantie,,,,,,,,,,66.3190524,23.673731699999998
+248,10248,Ylöjärven terveyskeskus,Mikkolantie,,,,,,,,yes,,61.5475787,23.598849800000004
+249,10249,Ähtärin sairaala,Sairaalantie,,,,,,,,yes,,62.5529632,24.0732703
+250,10250,Åbolands sjukhus,Kaskenkatu,,,,,,,,,,60.4444124,22.2753677
+251,10251,Ålands hälso och sjukvård,,,,,,,,,yes,,60.114073499999996,19.9301486

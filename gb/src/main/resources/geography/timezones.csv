@@ -1,9 +1,9 @@
 STATE,ST,TIMEZONE,TZ
-East Riding of Yorkshire,ERY,Greenwich Mean Time,GMT
+East Riding Of Yorkshire,ERY,Greenwich Mean Time,GMT
 Rutland,RUT,Greenwich Mean Time,GMT
 Shropshire,SHR,Greenwich Mean Time,GMT
 Wiltshire,WIL,Greenwich Mean Time,GMT
-Isle of Wight,IOW,Greenwich Mean Time,GMT
+Isle Of Wight,IOW,Greenwich Mean Time,GMT
 Herefordshire,HEF,Greenwich Mean Time,GMT
 Staffordshire,STS,Greenwich Mean Time,GMT
 Suffolk,SFK,Greenwich Mean Time,GMT
@@ -35,11 +35,11 @@ Oxfordshire,OXF,Greenwich Mean Time,GMT
 Somerset,SOM,Greenwich Mean Time,GMT
 Lancashire,LAN,Greenwich Mean Time,GMT
 Durham,DUR,Greenwich Mean Time,GMT
-Dumfries and Galloway,DGY,Greenwich Mean Time,GMT
+Dumfries And Galloway,DGY,Greenwich Mean Time,GMT
 Powys,POW,Greenwich Mean Time,GMT
 Belfast,BFS,Greenwich Mean Time,GMT
 Aberdeenshire,ABD,Greenwich Mean Time,GMT
-Argyll and Bute,AGB,Greenwich Mean Time,GMT
+Argyll And Bute,AGB,Greenwich Mean Time,GMT
 Angus,ANS,Greenwich Mean Time,GMT
 Clackmannanshire,CLK,Greenwich Mean Time,GMT
 East Ayrshire,EAY,Greenwich Mean Time,GMT
@@ -63,7 +63,7 @@ West Lothian,WLN,Greenwich Mean Time,GMT
 Shetland Islands,ZET,Greenwich Mean Time,GMT
 Aberdeen City,ABE,Greenwich Mean Time,GMT
 Dundee City,DND,Greenwich Mean Time,GMT
-Perth and Kinross,PKN,Greenwich Mean Time,GMT
+Perth And Kinross,PKN,Greenwich Mean Time,GMT
 Glasgow City,GLG,Greenwich Mean Time,GMT
 Blaenau Gwent,BGW,Greenwich Mean Time,GMT
 Conwy,CWY,Greenwich Mean Time,GMT

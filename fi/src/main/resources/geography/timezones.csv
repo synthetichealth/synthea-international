@@ -1,19 +1,20 @@
 STATE,ST,TIMEZONE,TZ
+Ahvenanmaan maakunta,01,Eastern European Time,EET
+Etelä-Karjala,02,Eastern European Time,EET
+Etelä-Pohjanmaa,03,Eastern European Time,EET
+Etelä-Savo,04,Eastern European Time,EET
+Kainuu,05,Eastern European Time,EET
+Kanta-Häme,06,Eastern European Time,EET
+Keski-Pohjanmaa,07,Eastern European Time,EET
+Keski-Suomi,08,Eastern European Time,EET
+Kymenlaakso,09,Eastern European Time,EET
+Lappi,10,Eastern European Time,EET
+Pirkanmaa,11,Eastern European Time,EET
+Pohjanmaa,12,Eastern European Time,EET
+Pohjois-Karjala,13,Eastern European Time,EET
+Pohjois-Pohjanmaa,14,Eastern European Time,EET
+Pohjois-Savo,15,Eastern European Time,EET
+Päijät-Häme,16,Eastern European Time,EET
+Satakunta,17,Eastern European Time,EET
 Uusimaa,18,Eastern European Time,EET
 Varsinais-Suomi,19,Eastern European Time,EET
-Satakunta,17,Eastern European Time,EET
-Kanta-Häme,06,Eastern European Time,EET
-Pirkanmaa,11,Eastern European Time,EET
-Päijät-Häme,16,Eastern European Time,EET
-Kymenlaakso,09,Eastern European Time,EET
-South Karelia,02,Eastern European Time,EET
-Etelä-Savo,04,Eastern European Time,EET
-Pohjois-Savo,15,Eastern European Time,EET
-North Karelia,13,Eastern European Time,EET
-Central Finland,08,Eastern European Time,EET
-South Ostrobothnia,03,Eastern European Time,EET
-Ostrobothnia,12,Eastern European Time,EET
-Central Ostrobothnia,07,Eastern European Time,EET
-North Ostrobothnia,14,Eastern European Time,EET
-Kainuu,05,Eastern European Time,EET
-Lapland,10,Eastern European Time,EET

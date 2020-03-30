@@ -1,17 +1,77 @@
 ,name,address,city,state,zip,phone,LAT,LON,hasSpecialties,ADDICTION MEDICINE,ADVANCED HEART FAILURE AND TRANSPLANT CARDIOLOGY,ALLERGY/IMMUNOLOGY,ANESTHESIOLOGY,ANESTHESIOLOGY ASSISTANT,AUDIOLOGIST,CARDIAC ELECTROPHYSIOLOGY,CARDIAC SURGERY,CARDIOVASCULAR DISEASE (CARDIOLOGY),CERTIFIED NURSE MIDWIFE,CERTIFIED REGISTERED NURSE ANESTHETIST,CHIROPRACTIC,CLINICAL NURSE SPECIALIST,CLINICAL PSYCHOLOGIST,CLINICAL SOCIAL WORKER,COLORECTAL SURGERY (PROCTOLOGY),CRITICAL CARE (INTENSIVISTS),DENTIST,DERMATOLOGY,DIAGNOSTIC RADIOLOGY,EMERGENCY MEDICINE,ENDOCRINOLOGY,FAMILY PRACTICE,GASTROENTEROLOGY,GENERAL PRACTICE,GENERAL SURGERY,GERIATRIC MEDICINE,GERIATRIC PSYCHIATRY,GYNECOLOGICAL ONCOLOGY,HAND SURGERY,HEMATOLOGY,HEMATOLOGY/ONCOLOGY,HEMATOPOIETIC CELL TRANSPLANTATION AND CELLULAR TH,HOSPICE/PALLIATIVE CARE,HOSPITALIST,INFECTIOUS DISEASE,INTERNAL MEDICINE,INTERVENTIONAL CARDIOLOGY,INTERVENTIONAL PAIN MANAGEMENT,INTERVENTIONAL RADIOLOGY,MAXILLOFACIAL SURGERY,MEDICAL ONCOLOGY,NEPHROLOGY,NEUROLOGY,NEUROPSYCHIATRY,NEUROSURGERY,NUCLEAR MEDICINE,NURSE PRACTITIONER,OBSTETRICS/GYNECOLOGY,OCCUPATIONAL THERAPY,OPHTHALMOLOGY,OPTOMETRY,ORAL SURGERY,ORTHOPEDIC SURGERY,OSTEOPATHIC MANIPULATIVE MEDICINE,OTOLARYNGOLOGY,PAIN MANAGEMENT,PATHOLOGY,PEDIATRIC MEDICINE,PERIPHERAL VASCULAR DISEASE,PHYSICAL MEDICINE AND REHABILITATION,PHYSICAL THERAPY,PHYSICIAN ASSISTANT,PLASTIC AND RECONSTRUCTIVE SURGERY,PODIATRY,PREVENTATIVE MEDICINE,PSYCHIATRY,PULMONARY DISEASE,RADIATION ONCOLOGY,REGISTERED DIETITIAN OR NUTRITION PROFESSIONAL,"RHEUMATOLOGY,",SLEEP MEDICINE,SPEECH LANGUAGE PATHOLOGIST,SPORTS MEDICINE,SURGICAL ONCOLOGY,THORACIC SURGERY,UNDEFINED PHYSICIAN TYPE (SPECIFY),"UROLOGY,",VASCULAR SURGERY,id
-0,Cēsu rajona poliklīnika,nan nan,Cēsis,,4101,,57.3123332,25.2590661,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000
-1,Iļģuciema poliklīnika,Sēlpils iela 15,Rīga,,1007,,56.9574991,24.0541255,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10001
-2,LJMC Sarkandaugavas ambulatorās veselības aprūpes centrs,Patversmes iela 29,Rīga,,1005,+371 67889000,56.9889156,24.1367549,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10002
-3,LJMC Vecmīlgrāvja primārās veselības aprūpes centrs,Melīdas iela 10,Rīga,,1015,+371 67340442,57.0324691,24.1128297,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10003
-4,Latvijas Amerikas acu centrs,Augusta Deglava iela 12A,Rīga,,1009,+371 672 722 57,56.9529702,24.1500529,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10004
-5,Liepājas pirma poliklinika,nan nan,Liepāja,,3401,,56.5078478,21.0061143,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10005
-6,Medicīnas centrs Elite,Anniņmuižas bulvāris 85,Rīga,,1067,,56.9545942,24.0101522,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10006
-7,Poliklīnika,Vienības gatve 45 k-21,Rīga,,1004,,56.9224403,24.0853197,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10007
-8,"Poliklīnika ""Šarlotes""",nan nan,Rīga,,1011,,56.960431,24.1273616,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10008
-9,"Poliklīnika ""Šarlotes""",nan nan,Rīga,,1011,,56.9605385,24.128136,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10009
-10,Rīgas Stradiņa universitātes Psihosomatiskās medicīnas un psihoterapijas klīnika un katedra,Kristapa iela 30,Rīga,,1002,,56.9462159,24.0698638,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10010
-11,"Rīgas veselības centrs ""Ķengarags""",Kaņiera iela 13,Rīga,,1057,,56.9137724,24.1724363,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10011
-12,"SIA ""Rīgas veselības centrs"" filiāle ""Ziepniekkalns""",Spulgas iela 24,Rīga,,1021,,56.9027252,24.0896202,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10012
-13,VCA poliklīnika Vesels,Zāģeru iela 11,Rīga,,1005,+371 67509640,57.0030988,24.1241465,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10013
-14,"Veselības centrs ""Pļavnieki""",Andreja Saharova iela 16,Rīga,,1021,,56.9379552,24.2043762,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10014
-15,Veselības centrs 4,Brīvības iela 180,Rīga,,1009,,56.9659969,24.1467075,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10015
+0,"""Sociālās aprūpes centrs Baldone"", SIA",Iecavas iela 4,Baldone,Baldones Novads,2125,,56.7415269,24.3898382,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000
+1,"""Veselības centrs 4"" diagnostikas centrs",Grebenščikova iela 1,Rīga,Rīga,1003,,56.9387533,24.1378422,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10001
+2,Alūksnes poliklīnika,Vidus iela 1,Alūksne,Alūksnes Novads,4301,,57.4238827,27.0483628,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10002
+3,Alūksnes slimnīca,Pils iela 1A,Alūksne,Alūksnes Novads,4301,,57.4374993,27.0396445,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10003
+4,Bauskas poliklīnika,,Bauska,Bauskas Novads,3901,,56.408451,24.1924727,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10004
+5,Bauskas slimnīca,,Bauska,Bauskas Novads,3901,,56.4085785,24.1929338,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10005
+6,Bikur Holim slimnīca,,Rīga,Rīga,1003,,56.9382371,24.1418098,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10006
+7,Bulduru Slimnīca,,Jūrmala,Jūrmala,2008,,56.9814252,23.8589925,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10007
+8,"Bērnu psihoneiroloģiskā slimnīca ""Ainaži""",Krišjāņa Valdemāra iela 46,Ainaži,Salacgrīvas Novads,4035,,57.863505,24.3572414,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10008
+9,Daugavpils psihoneiroloģiskā slimnīca,Lielā Dārza iela 60/62,Daugavpils,Daugavpils,5421,+371 65402240,55.8743534,26.5565473,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10009
+10,Dobeles slimnīca,Ādama iela 2,Dobele,Dobeles Novads,3701,,56.6224678,23.2679793,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10010
+11,Doktorāts,,Talsi,Talsu Novads,3201,,57.2452692,22.5931703,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10011
+12,Dr. Vidža Zobārstniecība,,Jēkabpils,Jēkabpils,5202,,56.5054779,25.8647911,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10012
+13,Gaiļezers,,Rīga,Rīga,1038,,56.9652262,24.2410987,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10013
+14,Jēkabpils Reģionālā slimnīca,Andreja Pormaļa iela 125,Jēkabpils,Jēkabpils,5201,65237816,56.496602,25.8415631,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10014
+15,Jēkabpils poliklīnika,,Jēkabpils,Jēkabpils,5202,,56.4978359,25.8398261,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10015
+16,Kuldīgas slimnīca,Aizputes  iela 22,Kuldīga,Kuldīgas Novads,3301,,56.9617892,21.9547235,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10016
+17,LJMC Centrāla slimnīca,Patversmes iela 27,Rīga,Rīga,1005,,56.9893247,24.1361873,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10017
+18,LJMC Vecmīlgrāvja slimnīca un Ziemeļu diagnostikas centrs,Vecmīlgrāvja 5. līnija 26,Rīga,Rīga,1015,+371 67098433,57.0327383,24.1113101,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10018
+19,Latvijas Infektoloģijas centrs,,Rīga,Rīga,1050,,56.9779973,24.2034261,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10019
+20,Liepājas Reģionālā Slimnīca,Slimnīcas iela 25,Liepāja,Liepāja,3401,,56.5541824,21.0982055,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10020
+21,Ludzas poliklīnika,,Ludza,Ludzas Novads,5701,,56.5422632,27.7122159,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10021
+22,Ludzas slimnīca,,Ludza,Ludzas Novads,5701,,56.543121,27.714591,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10022
+23,Ludzas slimnīca,,Ludza,Ludzas Novads,5701,,56.5424689,27.7135486,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10023
+24,Ogres poliklīnika,Slimnīcas iela 2,Ogre,Ogres Novads,5001,,56.8194569,24.6195935,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10024
+25,Ogres rajona slimnīca,Slimnīcas iela 2,Ogre,Ogres Novads,5001,,56.8195375,24.6196125,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10025
+26,Paula Stradiņa Klīniskā universitātes slimnīca,Pilsoņu iela 13,Rīga,Rīga,1002,,56.9334353,24.0679341,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10026
+27,Poliklīnika,,Jelgava,Jelgava,3004,,56.6467259,23.724577,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10027
+28,"Rehabilitācijas centrs ""Tērvete""",,Tērvete,Tērvetes Novads,3730,,56.4849191,23.3919934,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10028
+29,Rīdzenes FVP,,Vaive,Cēsu Novads,4136,,57.2620514,25.4311786,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10029
+30,Rīgas 1. slimnīca,,Rīga,Rīga,1011,,56.9627022,24.1246718,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10030
+31,Rīgas dzemdību nams,,Rīga,Rīga,1013,,56.9661305,24.1332566,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10031
+32,"Rīgas psihiatrijas un narkoloģijas centrs, Tiesu psihiatrisko ekspertīžu un piespiedu ārstēšanas centrs",Laktas iela 6,Rīga,Rīga,1013,+371 67080201,56.9795471,24.1420749,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10032
+33,Rīgas psihoneiroloģiskā slimnīca,Tvaika iela 2,Rīga,Rīga,1005,67080112,56.9960982,24.1202586,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10033
+34,Saldus slimnīca,,Saldus,Saldus Novads,3801,,56.6706797,22.4928361,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10034
+35,Sarkanā Krusta Smiltenes slimnīca,,Smiltene,Smiltenes Novads,4729,,57.4254289,25.9147033,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10035
+36,Saulkrastu slimnīca,Ainažu iela 34,Saulkrasti,Saulkrastu Novads,2160,,57.273906,24.4165137,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10036
+37,Sedas ambulance,,Seda,Strenču Novads,4728,,57.6522951,25.7536033,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10037
+38,Siguldas slimnīca,,Sigulda,Siguldas Novads,2150,,57.1559852,24.8434995,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10038
+39,Skrundas veselības un sociālās aprūpes centrs,,Skrunda,Skrundas Novads,3326,,56.6765332,22.016948,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10039
+40,"Slimnīca ""Ģintermuiža""",,Jelgava,Jelgava,3004,,56.6389883,23.6941062,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10040
+41,Smiltenes poliklīnika,,Smiltene,Smiltenes Novads,4729,,57.4247085,25.9129699,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10041
+42,Soicālās palīdz. dienests,,Valka,Valkas Novads,4701,,57.7865052,26.0118706,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10042
+43,Talsu poliklīnika,,Talsi,Talsu Novads,3201,,57.2434087,22.6000677,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10043
+44,Traumatoloģijas un ortopēdijas slimnīca,,Rīga,Rīga,1005,,56.9839023,24.1370389,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10044
+45,Tuberkulozes un plaušu slimību klīnika,,Stopiņu novads,Stopiņu Novads,2130,,56.9279304,24.3693126,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10045
+46,"VCA ""Olvi""",Arhitektu iela 12,Daugavpils,Daugavpils,5421,,55.8932079,26.5632623,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10046
+47,Valmieras slimnīca,,Valmiera,Valmiera,4201,,57.5173056,25.3858325,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10047
+48,Valmieras veselības centrs,Bastiona iela 24,Valmiera,Valmiera,4201,,57.5393108,25.4223052,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10048
+49,Veselības un sociālās aprūpes centrs - Sloka,,Jūrmala,Jūrmala,2008,,56.9434325,23.6233644,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10049
+50,Viļakas SAC,Parka iela 2,Viļaka,Viļakas Novads,4583,,57.1783187,27.6823575,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10050
+51,Ziemeļkurzemes reģionālā Slimnīca,Inženieru iela 60 k7,Ventspils,Ventspils,3601,,57.3880225,21.54444,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10051
+52,Ādažu slimnīca,Gaujas iela 13/15,Ādaži,Ādažu Novads,2164,,57.0776085,24.3249813,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10052
+53,Ērgļu slimnīca,,Ērgļi,Ērgļu Novads,4840,,56.893657,25.6412694,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10053
+54,Ūdra K. traumatologa-ortopēda privātprakse,,Smiltene,Smiltenes Novads,4729,,57.4251363,25.9135765,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10054
+55,1. doktorāts,,Dobele,Dobeles Novads,3701,,56.6255093,23.279389,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10055
+56,"Amatas Novada Domes Dienas Aprupes Centrs ""Ieriķi""",,Drabeši,Amatas Novads,4139,,57.2032294,25.1678222,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10056
+57,Ambulance,Skolas iela 5,Nīca,Nīcas Novads,3473,,56.3455003,21.0669666,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10057
+58,Daugavpils Bērnu veselības centrs,,Daugavpils,Daugavpils,5421,,55.8669328,26.5240416,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10058
+59,Dubultu poliklīnika,,Jūrmala,Jūrmala,2008,,56.9665019,23.7697098,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10059
+60,Dziedniece Natālija,,Bukaiši,Tērvetes Novads,3714,26421495.0,56.3778775,23.2358053,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10060
+61,Garkalnes doktorāts,Vidzemes šoseja 1D,Garkalne,Garkalnes Novads,2137,,57.0437408,24.408092,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10061
+62,Juglas medicīnas centrs,Juglas iela 2,Rīga,Rīga,1024,,56.9887679,24.2440869,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10062
+63,Kardiodoktorāts,Oskara Kalpaka iela 6,Ogre,Ogres Novads,5001,65022506.0,56.8207697,24.5791495,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10063
+64,Kauguru veselības centrs,,Jūrmala,Jūrmala,2008,67736355.0,56.9574201,23.6106239,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10064
+65,Medicīnas sabiedrība Optima-1,,Jelgava,Jelgava,3004,,56.6462303,23.711761,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10065
+66,"Medicīniskā firma ""Dziedniecība""",Rušonu iela 15,Rīga,Rīga,1057,,56.9126946,24.1815204,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10066
+67,Piltenes ārstu prakse,Lielā iela 2a,Piltenes pagasts,Ventspils Novads,3620,,57.2228323,21.6719679,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10067
+68,Poliklīnika,Klostera iela 6A,Limbaži,Limbažu Novads,4001,,57.5144878,24.7170989,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10068
+69,Veselības centrs 3,,Rīga,Rīga,1003,67333367.0,56.9412377,24.1341639,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10069
+70,Veselības centrs Biķernieki,Biķernieku iela 68 k-1,Rīga,Rīga,1050,,56.9684382,24.1981641,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10070
+71,"Veselības centru apvienības poliklīnika ""Aura""",Nīcgales iela 5,Rīga,Rīga,1084,,56.957993,24.1779253,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10071
+72,Veselības un sociālās aprūpes centrs,Lielupes iela 27,Kalnciems,Jelgavas Novads,3016,,56.8024369,23.6070645,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10072
+73,Ā.Ancānes ģimenes ārsta prakse,Rīgas iela 46a,Baldone,Baldones Novads,2125,,56.7421828,24.3954178,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10073
+74,Ārsta prakse,Brīvības iela 6,Ainaži,Salacgrīvas Novads,4035,,57.8628776,24.3615478,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10074
+75,Čiekuru doktorāts,Čiekuru iela 3A,Daugavpils,Daugavpils,5421,,55.8905664,26.5939166,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10075
