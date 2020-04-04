@@ -19,7 +19,7 @@
 17,10017,Psihiatrična klinika Ljubljana,,Ljubljana,Ljubljana,1000,,,,,,,46.0518964,14.5693615
 18,10018,Specialistični pregledi,Derčeva ulica 35,Ljubljana,Ljubljana,1000,,,,,,,46.0713751,14.4828394
 19,10019,Splošna Ambulanta Poljčane,Bistriška cesta 62,Poljčane,Slovenska Bistrica,2319,,,,,,,46.3130359,15.5780869
-20,10020,Splošna Bolnišnica Izola - Ospedale Generale Isola,Polje 40,Izola,Izola,6310,,+386 5 6606 299,,,Yes,,45.5449708,13.6851455
+20,10020,Splošna Bolnišnica Izola - Ospedale Generale Isola,Polje 40,Izola,,6310,,+386 5 6606 299,,,Yes,,45.5449708,13.6851455
 21,10021,Splošna Bolnišnica Slovenj Gradec,,Slovenj Gradec,Slovenj Gradec,2380,,,,,Yes,,46.5092984,15.0812473
 22,10022,Splošna bolnišnica,,Slovenj Gradec,Slovenj Gradec,2380,,,,,,,46.5084666,15.0821904
 23,10023,Splošna bolnišnica,Šmihelska cesta 1,Novo mesto,Novo Mesto,8000,,,,,,,45.8001691,15.1630882
@@ -51,7 +51,7 @@
 49,10049,Zdravstveni dom Dolsko,,Dol pri Ljubljani,Ljubljana,1262,,,,,,,46.0940015,14.6776918
 50,10050,Zdravstveni dom Domžale,Mestni trg 2,Domžale,Domžale,1230,,,,,Yes,,46.1398576,14.5963693
 51,10051,Zdravstveni dom Fram,,Rače-Fram,Maribor,2313,,,,,,,46.4562998,15.6267712
-52,10052,Zdravstveni dom Izola,Ulica oktobrske revolucije 11,Izola,Izola,6310,,,,,Yes,,45.5345953,13.6604463
+52,10052,Zdravstveni dom Izola,Ulica oktobrske revolucije 11,Izola,,6310,,,,,Yes,,45.5345953,13.6604463
 53,10053,Zdravstveni dom Jesenice,Cesta maršala Tita 78,Jesenice,Jesenice,4270,,,,,,,46.4402939,14.0449418
 54,10054,Zdravstveni dom Kamnik,Novi trg 26,Kamnik,Kamnik,1241,,,,,Yes,,46.2216688,14.6130757
 55,10055,Zdravstveni dom Kobarid,,Kobarid,Tolmin,5222,,,,,,,46.2472883,13.5781474
@@ -82,7 +82,7 @@
 80,10080,Postaja Sprostitve,Ulica Vinka Vodopivca 28,Nova Gorica,Nova Gorica,5000,,,,,,,45.9581313,13.6599219
 81,10081,Psihiatrična ambulanta,Gubčeva cesta 22,Radenci,Gornja Radgona,9252,,,,,,,46.639469,16.0417079
 82,10082,Psihiatrična bolnišnica Ormož,,Ormož,Ormož,2270,,,,,,,46.4072052,16.1429273
-83,10083,"Resona, ambulanta za bioresonanco, Neva Furlan s.p.",,Izola,Izola,6310,,,,,,,45.5042136,13.6375986
+83,10083,"Resona, ambulanta za bioresonanco, Neva Furlan s.p.",,Izola,,6310,,,,,,,45.5042136,13.6375986
 84,10084,Simonič Marta Specialistična internistična in Diabetološka ambulanta,Zgornja Hajdina 127,Hajdina,Ptuj,2288,,02 788 30 40,,,,,46.4084642,15.8389029
 85,10085,Splošna ambulanta Cankova,,Cankova,Murska Sobota,9261,,+3862 540 90 20,,,,,46.7191007,16.0176652
 86,10086,Urgenca,,Lenart,Lenart,2230,,,,,,,46.5769552,15.8284192

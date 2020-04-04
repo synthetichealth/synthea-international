@@ -1,171 +1,171 @@
 ,name,address,city,state,zip,phone,LAT,LON,hasSpecialties,ADDICTION MEDICINE,ADVANCED HEART FAILURE AND TRANSPLANT CARDIOLOGY,ALLERGY/IMMUNOLOGY,ANESTHESIOLOGY,ANESTHESIOLOGY ASSISTANT,AUDIOLOGIST,CARDIAC ELECTROPHYSIOLOGY,CARDIAC SURGERY,CARDIOVASCULAR DISEASE (CARDIOLOGY),CERTIFIED NURSE MIDWIFE,CERTIFIED REGISTERED NURSE ANESTHETIST,CHIROPRACTIC,CLINICAL NURSE SPECIALIST,CLINICAL PSYCHOLOGIST,CLINICAL SOCIAL WORKER,COLORECTAL SURGERY (PROCTOLOGY),CRITICAL CARE (INTENSIVISTS),DENTIST,DERMATOLOGY,DIAGNOSTIC RADIOLOGY,EMERGENCY MEDICINE,ENDOCRINOLOGY,FAMILY PRACTICE,GASTROENTEROLOGY,GENERAL PRACTICE,GENERAL SURGERY,GERIATRIC MEDICINE,GERIATRIC PSYCHIATRY,GYNECOLOGICAL ONCOLOGY,HAND SURGERY,HEMATOLOGY,HEMATOLOGY/ONCOLOGY,HEMATOPOIETIC CELL TRANSPLANTATION AND CELLULAR TH,HOSPICE/PALLIATIVE CARE,HOSPITALIST,INFECTIOUS DISEASE,INTERNAL MEDICINE,INTERVENTIONAL CARDIOLOGY,INTERVENTIONAL PAIN MANAGEMENT,INTERVENTIONAL RADIOLOGY,MAXILLOFACIAL SURGERY,MEDICAL ONCOLOGY,NEPHROLOGY,NEUROLOGY,NEUROPSYCHIATRY,NEUROSURGERY,NUCLEAR MEDICINE,NURSE PRACTITIONER,OBSTETRICS/GYNECOLOGY,OCCUPATIONAL THERAPY,OPHTHALMOLOGY,OPTOMETRY,ORAL SURGERY,ORTHOPEDIC SURGERY,OSTEOPATHIC MANIPULATIVE MEDICINE,OTOLARYNGOLOGY,PAIN MANAGEMENT,PATHOLOGY,PEDIATRIC MEDICINE,PERIPHERAL VASCULAR DISEASE,PHYSICAL MEDICINE AND REHABILITATION,PHYSICAL THERAPY,PHYSICIAN ASSISTANT,PLASTIC AND RECONSTRUCTIVE SURGERY,PODIATRY,PREVENTATIVE MEDICINE,PSYCHIATRY,PULMONARY DISEASE,RADIATION ONCOLOGY,REGISTERED DIETITIAN OR NUTRITION PROFESSIONAL,"RHEUMATOLOGY,",SLEEP MEDICINE,SPEECH LANGUAGE PATHOLOGIST,SPORTS MEDICINE,SURGICAL ONCOLOGY,THORACIC SURGERY,UNDEFINED PHYSICIAN TYPE (SPECIFY),"UROLOGY,",VASCULAR SURGERY,id
-0,Abromiškių reabilitacijos ligoninė,,Elektrėnai,Vilniaus Apskritis,26130,,54.7670843,24.7082329,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10000
-1,Akušerijos skyrius,Smėlynės gatvė 25,Panevėžys,Panevėžio Savivaldybė,35144,,55.7339799,24.3659236,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10001
-2,Alytaus apskrities S. Kudirkos ligoninė,Ligoninės g. 12,Alytus,Alytaus Savivaldybė,62114,,54.3989181,24.0406259,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10002
-3,Alytaus tuberkuliozės ligoninė,,Alytus,Alytaus Savivaldybė,62112,,54.4134506,24.0419898,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10003
-4,Antakalnio poliklinika,Antakalnio g. 59,Vilnius,Vilniaus Apskritis,10102,,54.7107159,25.3172839,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10004
-5,Anykščių rajono savivaldybės ligoninė,,Anykščiai,Anykščių Rajono Savivaldybė,29107,,55.5207958,25.1206266,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10005
-6,Baisogalos ligoninė,,Baisogala,Radviliškio Rajono Savivaldybė,82324,,55.6390219,23.7219127,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10006
-7,Baltijos Amerikos klinika,Nemenčinės pl. 54A,Vilnius,Vilniaus Apskritis,10102,+37052342020,54.7352821,25.3385303,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10007
-8,Birštono pirminės sveikatos priežiūros centras,Jaunimo g. 8,Birštonas,Birštono Savivaldybė,59206,+37031967018,54.6072207,24.0255968,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10008
-9,Biržų ligoninė,Vilniaus g. 115,Biržai,Biržų Rajono Savivaldybė,41115,,56.1883822,24.7585641,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10009
-10,Dienos chirurgijos centras,Puodžių g. 9,Klaipėda,Klaipėdos Savivaldybė,91218,,55.7124957,21.1274057,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10010
-11,Druskininkų ligoninė,Sveikatos g. 30,Druskininkai,Druskininkų Savivaldybė,66251,,54.0166106,24.0083513,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10011
-12,Eržvilko Pirminės Sveikatos Priežiuros Centras,Piliakalnio g. nan,Eržvilkas,Jurbarko Rajono Savivaldybė,74287,,55.2604592,22.7037619,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10012
-13,Grigiškių palaikomojo gydymo ir slaugos ligoninė,Mokyklos g. 10,Vilnius,Vilniaus Apskritis,03113,,54.671906,25.0902703,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10013
-14,I. Kuprijaškino psichoterapinis kabinetas,I. Kanto g. 11,Kaunas,Kauno Savivaldybė,44301,,54.8955359,23.903455,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10014
-15,Infekcinių ligų ir tuberkuliozės ligoninė,Birutės g. 1,Vilnius,Vilniaus Apskritis,08106,,54.6878577,25.2489371,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10015
-16,J. Zikaro g.,,Kačerginė,Kauno Rajono Savivaldybė,53450,,54.9306288,23.7220523,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10016
-17,J. Zikaro g.,,Kačerginė,Kauno Rajono Savivaldybė,53450,,54.9300963,23.7215099,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10017
-18,Jonavos ligoninė,Žeimių g. 19,Jonava,Jonavos Rajono Savivaldybė,55111,,55.0797331,24.2702877,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10018
-19,Joniškėlio ligoninė,Vytauto g. 3,Joniškėlis,Pasvalio Rajono Savivaldybė,39306,,56.0262554,24.1690884,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10019
-20,Jurbarko ligoninė,,Jurbarkas,Jurbarko Rajono Savivaldybė,74133,,55.0854936,22.7486134,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10020
-21,Jurbarko šeimos klinika,,Jurbarkas,Jurbarko Rajono Savivaldybė,74133,,55.0825659,22.7711514,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10021
-22,Jūrininkų ligoninės Palangos skyrius,Klaipėdos pl. 76,Palanga,Palangos Savivaldybė,00148,,55.9366633,21.0862976,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10022
-23,K. Griniaus slaugos ir palaikomojo gydymo ligoninė,,Kaunas,Kauno Savivaldybė,45313,+370 37 346736,54.8855854,23.9792892,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10023
-24,Kaišiadorių ligoninė,Beržyno g. 27,Kaišiadorys,Kaišiadorių Rajono Savivaldybė,56161,,54.8537702,24.4263935,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10024
-25,Kalvarijos ligoninė,Vytauto g. 9,Kalvarija,Kalvarijos Savivaldybė,69217,,54.4145663,23.2223543,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10025
-26,Kardiolita,Laisvės pr. 64A,Vilnius,Vilniaus Apskritis,05248,,54.7171717,25.2303176,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10026
-27,Kauno Kraujo donorystės centras,I. Kanto g. 15,Kaunas,Kauno Savivaldybė,44301,,54.896082,23.9036931,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10027
-28,Kauno Raudonojo Kryžiaus klinikinė ligoninė,Gedimino g. 36,Kaunas,Kauno Savivaldybė,44301,,54.8956665,23.9218516,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10028
-29,Kauno klinikinės ligoninės infekcinių ligų klinika,Baltijos g. 120,Kaunas,Kauno Savivaldybė,47182,,54.9175962,23.860383,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10029
-30,Kelmės ligoninė,Nepriklausomybės g. 2,Kelmė,Kelmės Rajono Savivaldybė,86169,,55.6311415,22.9467744,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10030
-31,Klaipėdos medicininės slaugos ligoninė,K. Donelaičio g. 15,Klaipėda,Klaipėdos Savivaldybė,91218,+370 46 410 071,55.7159903,21.1349302,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10031
-32,Klaipėdos psichikos sveikatos centras,Galinio Pylimo g. 3,Klaipėda,Klaipėdos Savivaldybė,91218,,55.7059487,21.1394533,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10032
-33,Klaipėdos universitetinė ligoninė,,Klaipėda,Klaipėdos Savivaldybė,91218,,55.7513834,21.1284329,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10033
-34,Klaipėdos vaikų ligoninė,K. Donelaičio g. 7,Klaipėda,Klaipėdos Savivaldybė,91218,+37046484144;+37046484120,55.7151376,21.1352706,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10034
-35,Kražių ambulatorija,S. Dariaus ir S. Girėno g. 35,Kražiai,Kelmės Rajono Savivaldybė,86285,,55.6029106,22.6893136,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10035
-36,Krekenavos pirminės sveikatos priežiūros centras,Maironio g. 8,Krekenava,Panevėžio Rajono Savivaldybė,38307,,55.5449124,24.0914712,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10036
-37,Kulautuvos reabilitacijos ligoninė,Akacijų al. 18,Kulautuva,Kauno Rajono Savivaldybė,53489,,54.9422161,23.6452557,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10037
-38,Kuršėnų ligoninė,J. Basanavičiaus g. 10,Kuršėnai,Šiaulių Rajono Savivaldybė,81151,+370 41 582 443,56.0035909,22.9368773,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10038
-39,Kuršėnų palaikomojo gydymo ir slaugos skyrius,J. Basanavičiaus g. 12A,Kuršėnai,Šiaulių Rajono Savivaldybė,81151,+370 41 581 593,56.004334,22.9372104,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10039
-40,Kėdainių ligoninė,,Kėdainiai,Kėdainių Rajono Savivaldybė,57158,,55.3112726,23.9864905,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10040
-41,LSMU Kauno klinikos,Eivenių g. 2,Kaunas,Kauno Savivaldybė,50176,,54.9169258,23.9255411,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10041
-42,LSMUL KK Akių klinika,Eivenių g. 2,Kaunas,Kauno Savivaldybė,50176,+37037326558,54.9196928,23.9236395,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10042
-43,LSMUL KK Endokrinologijos klinika,,Kaunas,Kauno Savivaldybė,50176,+37037326154,54.921545,23.9225937,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10043
-44,LSMUL KK Suaugusiųjų Skubios Pagalbos Centras,,Kaunas,Kauno Savivaldybė,50176,,54.9179021,23.9214829,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10044
-45,LSMUL Kauno Klinikos,Eivenių g. 2,Kaunas,Kauno Savivaldybė,50176,,54.9189294,23.919375,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10045
-46,Likėnų g.,,Pabiržė,Biržų Rajono Savivaldybė,41382,,56.202275,24.6289474,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10046
-47,Likėnų g.,,Pabiržė,Biržų Rajono Savivaldybė,41382,,56.2024571,24.6288718,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10047
-48,Likėnų g.,,Pabiržė,Biržų Rajono Savivaldybė,41382,,56.2018171,24.6292098,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10048
-49,"M. Marcinkevičiaus ligoninė, Subačiaus padalinys",Subačiaus g. 28,Vilnius,Vilniaus Apskritis,01100,,54.6768516,25.2957567,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10049
-50,Mažeikių ligoninė,,Mažeikiai,Mažeikių Rajono Savivaldybė,89139,,56.3177674,22.3446965,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10050
-51,Mažeikių pirminės sveikatos priežiūros centras,Naftininkų g. 9,Mažeikiai,Mažeikių Rajono Savivaldybė,89139,,56.3057222,22.3394643,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10051
-52,Meškuičių ambulatorija,,Meškuičiai,Šiaulių Rajono Savivaldybė,81443,,56.0693645,23.4805586,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10052
-53,Molėtų ligoninė,Graužinių g. 3,Molėtai,Molėtų Rajono Savivaldybė,33125,,55.2264445,25.4116535,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10053
-54,Mykolo Marcinkevičiaus ligoninė,J. Jablonskio g. 4,Vilnius,Vilniaus Apskritis,03214,,54.6730387,25.2764175,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10054
-55,Mykolo Marcinkevičiaus ligoninė,Kauno g. 7,Vilnius,Vilniaus Apskritis,03214,,54.6730642,25.2766752,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10055
-56,Naujosios Akmenės ligoninė,Respublikos g. 32,Naujoji Akmenė,Akmenės Rajono Savivaldybė,85192,,56.3189584,22.8667626,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10056
-57,Neringos pirminės sveikatos priežiūros centras,Taikos g. 11,Neringa,Neringos Savivaldybe,93104,,55.302643,21.0033078,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10057
-58,Onkologijos klinika,,Šiauliai,Šiauliai Savivaldybė,76307,,55.9441072,23.2897285,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10058
-59,Onuškio palaikomojo gydymo ir slaugos ligoninė,K. Petrausko a. 6,Onuškis,Vilniaus Apskritis,21214,,54.4833433,24.5927326,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10059
-60,Pagėgių palaikomojo gydymo ir slaugos ligoninė,,Pagėgiai,Pagėgių Savivaldybė,99290,,55.1327511,21.9147033,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10060
-61,"Pagėgių palaikomojo gydymo, slaugos ir senelių globos ligoninė",Vytauto g. 39,Pagėgiai,Pagėgių Savivaldybė,99290,,55.1450681,21.9087376,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10061
-62,Pakruojo ligoninė,L. Giros g. 3,Pakruojis,Pakruojo Rajono Savivaldybė,83163,,55.9783593,23.8430102,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10062
-63,Panevezio m. greitosios medicinos pagalbos stotis,Sietyno g. 5B,Panevėžys,Panevėžio Savivaldybė,35194,,55.7298298,24.354342,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10063
-64,Panevėžio infekcinė ligoninė,Ramygalos g. 25,Panevėžys,Panevėžio Savivaldybė,35194,,55.7243118,24.3623057,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10064
-65,Panevėžio palaikomojo gydymo ir slaugos ligoninė,M. Tiškevičiaus g. 6,Panevėžys,Panevėžio Savivaldybė,35194,,55.731843,24.3685596,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10065
-66,Panevėžio respublikinė ligoninė,Smėlynės g. 25,Panevėžys,Panevėžio Savivaldybė,35194,,55.7341956,24.3679065,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10066
-67,Pašilaičių šeimos medicinos centras,Žemynos g. 2,Vilnius,Vilniaus Apskritis,06117,,54.7257293,25.2253839,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10067
-68,Plungės ligoninė,J. Tumo-Vaižganto g. 89,Plungė,Plungės Rajono Savivaldybė,90143,,55.8991906,21.8291337,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10068
-69,Prienų ligoninė,Pušyno g. 2,Prienai,Prienų Rajono Savivaldybė,59129,,54.6308532,23.9620815,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10069
-70,Psichiatrijos ligoninė,S. Dariaus ir S. Girėno g. 48,Kaunas,Kauno Savivaldybė,46355,,54.8897116,23.8843373,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10070
-71,Raseinių ligoninė,Ligoninės g. 4,Raseiniai,Raseinių Rajono Savivaldybė,60151,,55.384848,23.1196743,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10071
-72,Raseinių pirminės sveikatos priežiūros centras,Žemaitės g. 2,Raseiniai,Raseinių Rajono Savivaldybė,60151,,55.3839344,23.1192235,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10072
-73,Raudonojo Kryžiaus ligoninė,Laisvės al. 17,Kaunas,Kauno Savivaldybė,44301,,54.8968115,23.9227688,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10073
-74,Raudonojo Kryžiaus ligoninės Traumatologijos punktas,Laisvės al. 19,Kaunas,Kauno Savivaldybė,44301,,54.8968314,23.9221984,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10074
-75,Respublikinė Klaipėdos ligoninė,S. Nėries g. 3,Klaipėda,Klaipėdos Savivaldybė,91218,+370 46 410 688,55.7184174,21.1327333,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10075
-76,Respublikinė Vilniaus psichiatrijos ligoninė,Parko g. 21,Vilnius,Vilniaus Apskritis,11119,,54.6843998,25.4200161,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10076
-77,Respublikinė Vilniaus universitetinė ligoninė,Šiltnamių g. 29,Vilnius,Vilniaus Apskritis,04130,,54.6691438,25.2055004,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10077
-78,"Respublikinė tuberkuliozės ir infekcinių ligų universitetinė ligoninė, Santariškių stacionaras",Santariškių g. 14,Vilnius,Vilniaus Apskritis,08411,,54.7574073,25.2780441,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10078
-79,Respublikinės Kauno ligoninės filialas Krikščioniškieji gimdymo namai,Miško g. 25,Kaunas,Kauno Savivaldybė,44301,,54.8935407,23.918076,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10079
-80,"Respublikinės Kauno ligoninės filialas Krikščioniškieji gimdymo namai, Gimdymo skyrius",Miško g. 25,Kaunas,Kauno Savivaldybė,44301,,54.8936846,23.9180853,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10080
-81,Respublikinės Klaipėdos ligoninės Psichiatrijos filialas,Bangų g. 6A,Klaipėda,Klaipėdos Savivaldybė,91218,,55.7084306,21.1431501,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10081
-82,Rokiškio psichiatrijos ligoninė,Vytauto g. 47,Rokiškio Kaimiškoji seniūnija,Rokiškio Rajono Savivaldybė,42411,,55.9770775,25.5805428,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10082
-83,Rokiškio rajono ligoninė,V. Lašo g. 3,Rokiškis,Rokiškio Rajono Savivaldybė,42106,,55.9709357,25.5809962,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10083
-84,Romainių tuberkuliozės ligoninė,Šilainių pl. 21,Kaunas,Kauno Savivaldybė,44301,+370 37 362625,54.9229539,23.8318566,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10084
-85,Santariškių klinikų vaikų ligoninė,Santariškių g. 7,Vilnius,Vilniaus Apskritis,08406,,54.7554462,25.281913,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10085
-86,Skaidiškių ambulatorija,Rudaminos g. 12A,Nemėžis,Vilniaus Apskritis,13267,,54.6068543,25.3846433,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10086
-87,Skaudvilės slaugos ligoninė,,Skaudvilė,Tauragės Rajono Savivaldybė,73427,,55.4057937,22.5865227,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10087
-88,Slaugos ir palaikomojo gydymo ligoninė,Švenčionių g. 80B,Nemenčinė,Vilniaus Apskritis,15175,,54.8526266,25.4716955,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10088
-89,Tauragės apskrities ligoninė,,Tauragė,Tauragės Rajono Savivaldybė,72253,,55.2544947,22.2824828,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10089
-90,Tauragės pirminės sveikatos priežiūros centras,Jūros g. 5,Tauragė,Tauragės Rajono Savivaldybė,72253,,55.2526872,22.2822013,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10090
-91,Telšių apskrities ligoninė,Kalno g. 40,Telšiai,Telšių Rajono Savivaldybė,87318,,55.9847659,22.2334449,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10091
-92,Trakų ligoninė,Mindaugo g. 13,Trakai,Vilniaus Apskritis,21105,,54.637566,24.9370113,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10092
-93,Trakų pirminės sveikatos priežiūros centras,Mindaugo g. 17,Trakai,Vilniaus Apskritis,21114,,54.6373975,24.938992,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10093
-94,Troškūnų ambulatorija,,Troškūnai,Anykščių Rajono Savivaldybė,29307,,55.5855803,24.8844863,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10094
-95,Troškūnų palaikomojo gydymo ir slaugos ligoninė,Vytauto g. 15,Troškūnai,Anykščių Rajono Savivaldybė,29307,,55.5868403,24.8745692,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10095
-96,Tuberkuliozės ir plaučių ligų ligoninė,V. Kudirkos gatvė 99,Šiauliai,Šiauliai Savivaldybė,76304,,55.9419807,23.2987655,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10096
-97,Tytuvėnų palaikomojo gydymo ir slaugos ligoninė,J. Basanavičiaus g. 6,Tytuvėnai,Kelmės Rajono Savivaldybė,86486,,55.5979903,23.196691,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10097
-98,Utenos ligoninė,,Utena,Utenos Rajono Savivaldybė,28151,,55.5084744,25.5898788,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10098
-99,V. Ivaščenko ambulatorija,Birutės g. 30A,Tauragė,Tauragės Rajono Savivaldybė,72253,,55.2555656,22.2973582,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10099
-100,VUVL filialas Vaiko raidos centras,Vytauto g. 15,Vilnius,Vilniaus Apskritis,08106,,54.6883863,25.256394,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10100
-101,Valakupių reabilitacijos centras,Vaidilutės g. 69,Vilnius,Vilniaus Apskritis,10102,,54.7364456,25.2938543,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10101
-102,Varnių pirminės sveikatos priežiūros centras,,Varniai,Telšių Rajono Savivaldybė,88321,,55.743295,22.366521,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10102
-103,Varnių slaugos ir palaikomojo gydymo ligoninė,,Varniai,Telšių Rajono Savivaldybė,88321,,55.743295,22.366521,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10103
-104,Veisiejų ambulatorija,Vilties g. 22A,Veisiejai,Lazdijų Rajono Savivaldybė,67337,+37031856691,54.0962992,23.7018427,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10104
-105,Ventos ambulatorija,Ventos g. 28,Venta,Akmenės Rajono Savivaldybė,85303,,56.1891178,22.6823843,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10105
-106,Vilkaviškio ligoninė,Maironio g. 25,Vilkaviškis,Vilkaviškio Rajono Savivaldybė,70142,,54.6511654,23.0258955,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10106
-107,Vilniaus Universiteto psichiatrijos klinika,,Vilnius,Vilniaus Apskritis,10102,,54.6913919,25.3075391,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10107
-108,Vilniaus gimdymo namai,Tyzenhauzų g. 18A,Vilnius,Vilniaus Apskritis,02169,,54.6674885,25.2925915,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10108
-109,Vilniaus rajono centrinė poliklinika,Laisvės pr. 79,Vilnius,Vilniaus Apskritis,05248,,54.7223591,25.2366411,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10109
-110,Vilniaus universitetinė slaugos ir ilgalaikio gydymo ligoninė,Tyzenhauzų g. 18,Vilnius,Vilniaus Apskritis,02169,,54.6682392,25.2914674,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10110
-111,"Vilniaus universiteto ligoninės Santariškių klinikos, Fizinės medicinos ir reabilitacijos centras",Jono Kairiūkščio g. 2,Vilnius,Vilniaus Apskritis,08411,,54.7580027,25.2702978,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10111
-112,Vilniaus universiteto ligoninės Santariškių klinikų Centro filialas,Tilto g. 11A,Vilnius,Vilniaus Apskritis,01100,,54.688176,25.2846069,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10112
-113,Visagino poliklinika,Taikos pr. 15,Visaginas,Visagino Savivaldybė,31128,,55.6057044,26.4329673,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10113
-114,VŠĮ Pakaunės PSPC,Lietuvių g. 22,Kaunas,Kauno Savivaldybė,50176,,54.9022854,23.9238254,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10114
-115,VŠĮ Valkininkų sanatorija,,Valkininkai,Varėnos Rajono Savivaldybė,65462,,54.3490793,24.7208661,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10115
-116,VšĮ Kupiškio Pirminės Sveikatos Priežiūros Centras,Krantinės g. 30,Kupiškis,Kupiškio Rajono Savivaldybė,40115,,55.8369856,24.9914702,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10116
-117,VšĮ Radviliškio rajono pirminės sveikatos priežiūros centras,,Radviliškis,Radviliškio Rajono Savivaldybė,82152,,55.8104224,23.5416868,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10117
-118,VšĮ Varėnos ligoninė,,Varėna,Varėnos Rajono Savivaldybė,65156,,54.2184304,24.567535,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10118
-119,VšĮ Vilkpėdės ligoninė,Vilkpėdės g. 3,Vilnius,Vilniaus Apskritis,03151,,54.6656379,25.2436501,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10119
-120,VšĮ Širvintų ligoninė,Vilniaus g. 85,Širvintos,Vilniaus Apskritis,19110,,55.0385761,24.9625724,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10120
-121,VšĮ „Kupiškio ligoninė“,Krantinės g. 28,Kupiškis,Kupiškio Rajono Savivaldybė,40115,,55.8373946,24.9876543,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10121
-122,Všį Radviliškio ligoninė,Gedimino g. 9,Radviliškis,Radviliškio Rajono Savivaldybė,82152,,55.8109888,23.5411589,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10122
-123,Zarasų ligoninė,Vilniaus g. 1B,Zarasai,Zarasų Rajono Savivaldybė,32112,,55.7316816,26.2558229,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10123
-124,Šakių Ligoninė,Bažnyčios g. 37,Šakiai,Šakių Rajono Savivaldybė,71123,,54.955824,23.0330405,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10124
-125,Šalčininkų r. savivaldybės ligoninė,Nepriklausomybės g. 38,Šalčininkai,Vilniaus Apskritis,17115,,54.305751,25.3798854,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10125
-126,Šiaulių ligoninė,V. Kudirkos gatvė 99,Šiauliai,Šiauliai Savivaldybė,76304,,55.944223,23.2999269,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10126
-127,Šiaulių ligoninė 1 korpusas,V. Kudirkos g. 99,Šiauliai,Šiauliai Savivaldybė,76304,,55.9429841,23.3021473,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10127
-128,Šiaulių ligoninė 2 korpusas,V. Kudirkos gatvė 99,Šiauliai,Šiauliai Savivaldybė,76304,,55.9423916,23.3004605,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10128
-129,Šiaulių ligoninė chirurgijos korpusas,,Šiauliai,Šiauliai Savivaldybė,76304,,55.9440662,23.299477,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10129
-130,Šiaulių priklausomybės ligų centras,Daubos g. 3,Šiauliai,Šiauliai Savivaldybė,79214,,55.9062457,23.3088765,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10130
-131,Šiaulių psichiatrijos ligoninė,M. K. Čiurlionio g. 12,Šiauliai,Šiauliai Savivaldybė,76304,,55.9425653,23.2978325,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10131
-132,Šumsko palaikomojo gydymo ir slaugos ligoninė,Vilniaus g. 40,Kalveliai,Vilniaus Apskritis,13168,,54.6039363,25.7284336,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10132
-133,Šv. Roko ligoninė,Klinikų g. 2,Vilnius,Vilniaus Apskritis,10102,,54.7088381,25.3144698,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10133
-134,Švėkšnos psichiatrinė ligoninė,Aušros g. 27,Švėkšna,Šilutės Rajono Savivaldybė,99383,,55.5209661,21.6246244,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10134
-135,Žalgirio klinika,Žalgirio g. 117,Vilnius,Vilniaus Apskritis,08218,,54.7051839,25.2788786,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10135
-136,Žaslių PSPC,Vilniaus g. 1,Žasliai,Kaišiadorių Rajono Savivaldybė,56411,+370 346 44316,54.8650729,24.590121,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10136
-137,A. Viruišio reabilitacijos klinika,S. Šalkauskio g. 4,Šiauliai,Šiauliai Savivaldybė,76288,,55.929326,23.3228736,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10137
-138,Alytaus raj. savivaldybės PSPC,Naujoji g. 48,Alytus,Alytaus Savivaldybė,62112,,54.4033498,24.0243877,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10138
-139,Bokšto klinika,Tilžės g. 11,Šiauliai,Šiauliai Savivaldybė,78233,,55.9110664,23.2691698,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10139
-140,Butrimonių ambulatorija,,Butrimonys,Alytaus Rajono Savivaldybė,64429,,54.5019488,24.2496836,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10140
-141,"Centro poliklinika, Vytenio filialas",Vytenio g. 59,Vilnius,Vilniaus Apskritis,03105,,54.6717706,25.2654363,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10141
-142,Dainų pirminės sveikatos priežiūros centras,Aido g. 18,Šiauliai,Šiauliai Savivaldybė,78242,,55.9123368,23.2708664,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10142
-143,Ginkūnų medicinos punktas,Aušros g. 4,Ginkūnai,Šiaulių Rajono Savivaldybė,81489,,55.954527,23.3531149,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10143
-144,Grožio akademija,Savanorių pr. 4,Vilnius,Vilniaus Apskritis,03105,,54.6792774,25.2593296,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10144
-145,Jūžintų BPG kabinetas,Liepų g. 4,Jūžintai,Rokiškio Rajono Savivaldybė,42263,,55.7754739,25.6752615,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10145
-146,Karsakiškio medicinos punktas,Lėvens g. 8,Karsakiškis,Panevėžio Rajono Savivaldybė,38462,,55.7936824,24.5739812,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10146
-147,Kauno klinikų Šeimos medicinos klinikos padalinys,Vytauto pr. 49,Kaunas,Kauno Savivaldybė,44301,,54.8908239,23.9235902,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10147
-148,Lazdynų poliklinika,Erfurto g. 15,Vilnius,Vilniaus Apskritis,04130,,54.67705,25.207814,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10148
-149,Lentvario ambulatorija,Lauko g. 26,Lentvaris,Vilniaus Apskritis,25117,,54.6399685,25.0439454,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10149
-150,Marijampolės pirminės sveikatos priežiūros centras,P. Kriaučiūno g. 2,Marijampolė,Marijampolės Savivaldybė,68298,,54.5545978,23.3459164,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10150
-151,Medicinos diagnostikos ir gydymo centras,V. Grybo g. 32A,Vilnius,Vilniaus Apskritis,10102,,54.7061612,25.3165221,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10151
-152,Molėtų rajono pirminės sveikatos priežiūros centras,Graužinių g. 2,Molėtai,Molėtų Rajono Savivaldybė,33111,,55.2274245,25.4110811,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10152
-153,Obelių ambulatorija,Stoties g. 65,Obeliai,Rokiškio Rajono Savivaldybė,42213,,55.9425638,25.798771,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10153
-154,Papilio ambulatorija,Rožių g. 8,Papilys,Biržų Rajono Savivaldybė,41224,+370 450 58184,56.1157119,25.0069952,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10154
-155,Pirminės sveikatos priežiūros centras,M. K. Čiurlionio g. 82,Druskininkai,Druskininkų Savivaldybė,66143,+37031353702,54.0130868,23.987271,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10155
-156,R. Burnicko BPG kabinetas,Panevėžio g. 16A,Rokiškis,Rokiškio Rajono Savivaldybė,42162,,55.94654,25.5842953,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10156
-157,Rumšiškių pirminės sveikatos priežiūros centras,S. Nėries g. 13,Rumšiškės,Kaišiadorių Rajono Savivaldybė,56336,,54.8675366,24.2176878,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10157
-158,Rėkyvos ambulatorija,Energetikų g. 18,Šiauliai,Šiauliai Savivaldybė,79243,,55.8539408,23.3268493,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10158
-159,Saldutiškio ambulatorija,Laisvės a. 16,Saldutiškis,Utenos Rajono Savivaldybė,28334,,55.3492807,25.8106315,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10159
-160,Sanatorija „Pušyno kelias“,Pušyno kel. 23,Vilnius,Vilniaus Apskritis,09116,,54.7293695,25.2843602,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10160
-161,Skapiškio Igno Vaitoškos ambulatorija,Varpo a. 5,Skapiškis,Kupiškio Rajono Savivaldybė,40469,,55.8933838,25.2009888,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10161
-162,Sporto medicinos centras,,Šiauliai,Šiauliai Savivaldybė,76232,,55.9409483,23.3056927,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10162
-163,Sugihara,Č. Sugiharos g. 3,Vilnius,Vilniaus Apskritis,05112,,54.7036888,25.2324505,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10163
-164,UPA Medea,Sveikatos g. 34,Druskininkai,Druskininkų Savivaldybė,66143,,54.0178548,24.0098136,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10164
-165,Ąžuolyno šeimos sveikatos centras,A. Merkio g. 7A,Lapės,Kauno Rajono Savivaldybė,54435,+370 37 470017,54.9736016,24.0021262,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10165
-166,Šeimos gydytojų centras,Aušros al. 59,Šiauliai,Šiauliai Savivaldybė,76303,,55.9414275,23.3020123,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10166
-167,Šeškinės poliklinika,Šeškinės g. 24,Vilnius,Vilniaus Apskritis,07175,,54.7162131,25.2493322,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10167
-168,Širvintų rajono pirminės sveikatos priežiūros centras,P. Cvirkos g. 13,Širvintos,Vilniaus Apskritis,19110,,55.0374444,24.9614131,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10168
-169,Šėtos ambulatorija,Turgaus g. 7,Šėta,Kėdainių Rajono Savivaldybė,58128,,55.2823314,24.2492461,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10169
+0,Abromiškių reabilitacijos ligoninė,,Elektrėnai,Vilniaus Apskritis,26130,,54.7670843,24.7082329,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30000
+1,Akušerijos skyrius,Smėlynės gatvė 25,Panevėžys,,35144,,55.7339799,24.3659236,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30001
+2,Alytaus apskrities S. Kudirkos ligoninė,Ligoninės g. 12,Alytus,,62114,,54.3989181,24.0406259,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30002
+3,Alytaus tuberkuliozės ligoninė,,Alytus,,62112,,54.4134506,24.0419898,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30003
+4,Antakalnio poliklinika,Antakalnio g. 59,Vilnius,Vilniaus Apskritis,10102,,54.7107159,25.3172839,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30004
+5,Anykščių rajono savivaldybės ligoninė,,Anykščiai,,29107,,55.5207958,25.1206266,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30005
+6,Baisogalos ligoninė,,Baisogala,,82324,,55.6390219,23.7219127,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30006
+7,Baltijos Amerikos klinika,Nemenčinės pl. 54A,Vilnius,Vilniaus Apskritis,10102,+37052342020,54.7352821,25.3385303,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30007
+8,Birštono pirminės sveikatos priežiūros centras,Jaunimo g. 8,Birštonas,,59206,+37031967018,54.6072207,24.0255968,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30008
+9,Biržų ligoninė,Vilniaus g. 115,Biržai,,41115,,56.1883822,24.7585641,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30009
+10,Dienos chirurgijos centras,Puodžių g. 9,Klaipėda,,91218,,55.7124957,21.1274057,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30010
+11,Druskininkų ligoninė,Sveikatos g. 30,Druskininkai,,66251,,54.0166106,24.0083513,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30011
+12,Eržvilko Pirminės Sveikatos Priežiuros Centras,Piliakalnio g. nan,Eržvilkas,,74287,,55.2604592,22.7037619,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30012
+13,Grigiškių palaikomojo gydymo ir slaugos ligoninė,Mokyklos g. 10,Vilnius,Vilniaus Apskritis,03113,,54.671906,25.0902703,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30013
+14,I. Kuprijaškino psichoterapinis kabinetas,I. Kanto g. 11,Kaunas,,44301,,54.8955359,23.903455,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30014
+15,Infekcinių ligų ir tuberkuliozės ligoninė,Birutės g. 1,Vilnius,Vilniaus Apskritis,08106,,54.6878577,25.2489371,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30015
+16,J. Zikaro g.,,Kačerginė,,53450,,54.9306288,23.7220523,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30016
+17,J. Zikaro g.,,Kačerginė,,53450,,54.9300963,23.7215099,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30017
+18,Jonavos ligoninė,Žeimių g. 19,Jonava,,55111,,55.0797331,24.2702877,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30018
+19,Joniškėlio ligoninė,Vytauto g. 3,Joniškėlis,,39306,,56.0262554,24.1690884,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30019
+20,Jurbarko ligoninė,,Jurbarkas,,74133,,55.0854936,22.7486134,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30020
+21,Jurbarko šeimos klinika,,Jurbarkas,,74133,,55.0825659,22.7711514,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30021
+22,Jūrininkų ligoninės Palangos skyrius,Klaipėdos pl. 76,Palanga,,00148,,55.9366633,21.0862976,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30022
+23,K. Griniaus slaugos ir palaikomojo gydymo ligoninė,,Kaunas,,45313,+370 37 346736,54.8855854,23.9792892,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30023
+24,Kaišiadorių ligoninė,Beržyno g. 27,Kaišiadorys,,56161,,54.8537702,24.4263935,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30024
+25,Kalvarijos ligoninė,Vytauto g. 9,Kalvarija,,69217,,54.4145663,23.2223543,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30025
+26,Kardiolita,Laisvės pr. 64A,Vilnius,Vilniaus Apskritis,05248,,54.7171717,25.2303176,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30026
+27,Kauno Kraujo donorystės centras,I. Kanto g. 15,Kaunas,,44301,,54.896082,23.9036931,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30027
+28,Kauno Raudonojo Kryžiaus klinikinė ligoninė,Gedimino g. 36,Kaunas,,44301,,54.8956665,23.9218516,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30028
+29,Kauno klinikinės ligoninės infekcinių ligų klinika,Baltijos g. 120,Kaunas,,47182,,54.9175962,23.860383,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30029
+30,Kelmės ligoninė,Nepriklausomybės g. 2,Kelmė,,86169,,55.6311415,22.9467744,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30030
+31,Klaipėdos medicininės slaugos ligoninė,K. Donelaičio g. 15,Klaipėda,,91218,+370 46 410 071,55.7159903,21.1349302,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30031
+32,Klaipėdos psichikos sveikatos centras,Galinio Pylimo g. 3,Klaipėda,,91218,,55.7059487,21.1394533,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30032
+33,Klaipėdos universitetinė ligoninė,,Klaipėda,,91218,,55.7513834,21.1284329,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30033
+34,Klaipėdos vaikų ligoninė,K. Donelaičio g. 7,Klaipėda,,91218,+37046484144;+37046484120,55.7151376,21.1352706,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30034
+35,Kražių ambulatorija,S. Dariaus ir S. Girėno g. 35,Kražiai,,86285,,55.6029106,22.6893136,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30035
+36,Krekenavos pirminės sveikatos priežiūros centras,Maironio g. 8,Krekenava,,38307,,55.5449124,24.0914712,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30036
+37,Kulautuvos reabilitacijos ligoninė,Akacijų al. 18,Kulautuva,,53489,,54.9422161,23.6452557,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30037
+38,Kuršėnų ligoninė,J. Basanavičiaus g. 10,Kuršėnai,,81151,+370 41 582 443,56.0035909,22.9368773,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30038
+39,Kuršėnų palaikomojo gydymo ir slaugos skyrius,J. Basanavičiaus g. 12A,Kuršėnai,,81151,+370 41 581 593,56.004334,22.9372104,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30039
+40,Kėdainių ligoninė,,Kėdainiai,,57158,,55.3112726,23.9864905,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30040
+41,LSMU Kauno klinikos,Eivenių g. 2,Kaunas,,50176,,54.9169258,23.9255411,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30041
+42,LSMUL KK Akių klinika,Eivenių g. 2,Kaunas,,50176,+37037326558,54.9196928,23.9236395,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30042
+43,LSMUL KK Endokrinologijos klinika,,Kaunas,,50176,+37037326154,54.921545,23.9225937,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30043
+44,LSMUL KK Suaugusiųjų Skubios Pagalbos Centras,,Kaunas,,50176,,54.9179021,23.9214829,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30044
+45,LSMUL Kauno Klinikos,Eivenių g. 2,Kaunas,,50176,,54.9189294,23.919375,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30045
+46,Likėnų g.,,Pabiržė,,41382,,56.202275,24.6289474,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30046
+47,Likėnų g.,,Pabiržė,,41382,,56.2024571,24.6288718,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30047
+48,Likėnų g.,,Pabiržė,,41382,,56.2018171,24.6292098,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30048
+49,"M. Marcinkevičiaus ligoninė, Subačiaus padalinys",Subačiaus g. 28,Vilnius,Vilniaus Apskritis,01100,,54.6768516,25.2957567,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30049
+50,Mažeikių ligoninė,,Mažeikiai,Telšių Apskritis,89139,,56.3177674,22.3446965,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30050
+51,Mažeikių pirminės sveikatos priežiūros centras,Naftininkų g. 9,Mažeikiai,Telšių Apskritis,89139,,56.3057222,22.3394643,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30051
+52,Meškuičių ambulatorija,,Meškuičiai,,81443,,56.0693645,23.4805586,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30052
+53,Molėtų ligoninė,Graužinių g. 3,Molėtai,,33125,,55.2264445,25.4116535,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30053
+54,Mykolo Marcinkevičiaus ligoninė,J. Jablonskio g. 4,Vilnius,Vilniaus Apskritis,03214,,54.6730387,25.2764175,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30054
+55,Mykolo Marcinkevičiaus ligoninė,Kauno g. 7,Vilnius,Vilniaus Apskritis,03214,,54.6730642,25.2766752,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30055
+56,Naujosios Akmenės ligoninė,Respublikos g. 32,Naujoji Akmenė,,85192,,56.3189584,22.8667626,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30056
+57,Neringos pirminės sveikatos priežiūros centras,Taikos g. 11,Neringa,,93104,,55.302643,21.0033078,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30057
+58,Onkologijos klinika,,Šiauliai,,76307,,55.9441072,23.2897285,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30058
+59,Onuškio palaikomojo gydymo ir slaugos ligoninė,K. Petrausko a. 6,Onuškis,Vilniaus Apskritis,21214,,54.4833433,24.5927326,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30059
+60,Pagėgių palaikomojo gydymo ir slaugos ligoninė,,Pagėgiai,,99290,,55.1327511,21.9147033,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30060
+61,"Pagėgių palaikomojo gydymo, slaugos ir senelių globos ligoninė",Vytauto g. 39,Pagėgiai,,99290,,55.1450681,21.9087376,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30061
+62,Pakruojo ligoninė,L. Giros g. 3,Pakruojis,,83163,,55.9783593,23.8430102,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30062
+63,Panevezio m. greitosios medicinos pagalbos stotis,Sietyno g. 5B,Panevėžys,,35194,,55.7298298,24.354342,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30063
+64,Panevėžio infekcinė ligoninė,Ramygalos g. 25,Panevėžys,,35194,,55.7243118,24.3623057,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30064
+65,Panevėžio palaikomojo gydymo ir slaugos ligoninė,M. Tiškevičiaus g. 6,Panevėžys,,35194,,55.731843,24.3685596,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30065
+66,Panevėžio respublikinė ligoninė,Smėlynės g. 25,Panevėžys,,35194,,55.7341956,24.3679065,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30066
+67,Pašilaičių šeimos medicinos centras,Žemynos g. 2,Vilnius,Vilniaus Apskritis,06117,,54.7257293,25.2253839,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30067
+68,Plungės ligoninė,J. Tumo-Vaižganto g. 89,Plungė,Telšių Apskritis,90143,,55.8991906,21.8291337,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30068
+69,Prienų ligoninė,Pušyno g. 2,Prienai,,59129,,54.6308532,23.9620815,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30069
+70,Psichiatrijos ligoninė,S. Dariaus ir S. Girėno g. 48,Kaunas,,46355,,54.8897116,23.8843373,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30070
+71,Raseinių ligoninė,Ligoninės g. 4,Raseiniai,,60151,,55.384848,23.1196743,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30071
+72,Raseinių pirminės sveikatos priežiūros centras,Žemaitės g. 2,Raseiniai,,60151,,55.3839344,23.1192235,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30072
+73,Raudonojo Kryžiaus ligoninė,Laisvės al. 17,Kaunas,,44301,,54.8968115,23.9227688,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30073
+74,Raudonojo Kryžiaus ligoninės Traumatologijos punktas,Laisvės al. 19,Kaunas,,44301,,54.8968314,23.9221984,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30074
+75,Respublikinė Klaipėdos ligoninė,S. Nėries g. 3,Klaipėda,,91218,+370 46 410 688,55.7184174,21.1327333,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30075
+76,Respublikinė Vilniaus psichiatrijos ligoninė,Parko g. 21,Vilnius,Vilniaus Apskritis,11119,,54.6843998,25.4200161,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30076
+77,Respublikinė Vilniaus universitetinė ligoninė,Šiltnamių g. 29,Vilnius,Vilniaus Apskritis,04130,,54.6691438,25.2055004,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30077
+78,"Respublikinė tuberkuliozės ir infekcinių ligų universitetinė ligoninė, Santariškių stacionaras",Santariškių g. 14,Vilnius,Vilniaus Apskritis,08411,,54.7574073,25.2780441,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30078
+79,Respublikinės Kauno ligoninės filialas Krikščioniškieji gimdymo namai,Miško g. 25,Kaunas,,44301,,54.8935407,23.918076,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30079
+80,"Respublikinės Kauno ligoninės filialas Krikščioniškieji gimdymo namai, Gimdymo skyrius",Miško g. 25,Kaunas,,44301,,54.8936846,23.9180853,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30080
+81,Respublikinės Klaipėdos ligoninės Psichiatrijos filialas,Bangų g. 6A,Klaipėda,,91218,,55.7084306,21.1431501,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30081
+82,Rokiškio psichiatrijos ligoninė,Vytauto g. 47,Rokiškio Kaimiškoji seniūnija,,42411,,55.9770775,25.5805428,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30082
+83,Rokiškio rajono ligoninė,V. Lašo g. 3,Rokiškis,,42106,,55.9709357,25.5809962,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30083
+84,Romainių tuberkuliozės ligoninė,Šilainių pl. 21,Kaunas,,44301,+370 37 362625,54.9229539,23.8318566,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30084
+85,Santariškių klinikų vaikų ligoninė,Santariškių g. 7,Vilnius,Vilniaus Apskritis,08406,,54.7554462,25.281913,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30085
+86,Skaidiškių ambulatorija,Rudaminos g. 12A,Nemėžis,Vilniaus Apskritis,13267,,54.6068543,25.3846433,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30086
+87,Skaudvilės slaugos ligoninė,,Skaudvilė,,73427,,55.4057937,22.5865227,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30087
+88,Slaugos ir palaikomojo gydymo ligoninė,Švenčionių g. 80B,Nemenčinė,Vilniaus Apskritis,15175,,54.8526266,25.4716955,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30088
+89,Tauragės apskrities ligoninė,,Tauragė,,72253,,55.2544947,22.2824828,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30089
+90,Tauragės pirminės sveikatos priežiūros centras,Jūros g. 5,Tauragė,,72253,,55.2526872,22.2822013,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30090
+91,Telšių apskrities ligoninė,Kalno g. 40,Telšiai,Telšių Apskritis,87318,,55.9847659,22.2334449,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30091
+92,Trakų ligoninė,Mindaugo g. 13,Trakai,Vilniaus Apskritis,21105,,54.637566,24.9370113,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30092
+93,Trakų pirminės sveikatos priežiūros centras,Mindaugo g. 17,Trakai,Vilniaus Apskritis,21114,,54.6373975,24.938992,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30093
+94,Troškūnų ambulatorija,,Troškūnai,,29307,,55.5855803,24.8844863,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30094
+95,Troškūnų palaikomojo gydymo ir slaugos ligoninė,Vytauto g. 15,Troškūnai,,29307,,55.5868403,24.8745692,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30095
+96,Tuberkuliozės ir plaučių ligų ligoninė,V. Kudirkos gatvė 99,Šiauliai,,76304,,55.9419807,23.2987655,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30096
+97,Tytuvėnų palaikomojo gydymo ir slaugos ligoninė,J. Basanavičiaus g. 6,Tytuvėnai,,86486,,55.5979903,23.196691,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30097
+98,Utenos ligoninė,,Utena,,28151,,55.5084744,25.5898788,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30098
+99,V. Ivaščenko ambulatorija,Birutės g. 30A,Tauragė,,72253,,55.2555656,22.2973582,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30099
+100,VUVL filialas Vaiko raidos centras,Vytauto g. 15,Vilnius,Vilniaus Apskritis,08106,,54.6883863,25.256394,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30100
+101,Valakupių reabilitacijos centras,Vaidilutės g. 69,Vilnius,Vilniaus Apskritis,10102,,54.7364456,25.2938543,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30101
+102,Varnių pirminės sveikatos priežiūros centras,,Varniai,Telšių Apskritis,88321,,55.743295,22.366521,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30102
+103,Varnių slaugos ir palaikomojo gydymo ligoninė,,Varniai,Telšių Apskritis,88321,,55.743295,22.366521,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30103
+104,Veisiejų ambulatorija,Vilties g. 22A,Veisiejai,,67337,+37031856691,54.0962992,23.7018427,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30104
+105,Ventos ambulatorija,Ventos g. 28,Venta,,85303,,56.1891178,22.6823843,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30105
+106,Vilkaviškio ligoninė,Maironio g. 25,Vilkaviškis,,70142,,54.6511654,23.0258955,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30106
+107,Vilniaus Universiteto psichiatrijos klinika,,Vilnius,Vilniaus Apskritis,10102,,54.6913919,25.3075391,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30107
+108,Vilniaus gimdymo namai,Tyzenhauzų g. 18A,Vilnius,Vilniaus Apskritis,02169,,54.6674885,25.2925915,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30108
+109,Vilniaus rajono centrinė poliklinika,Laisvės pr. 79,Vilnius,Vilniaus Apskritis,05248,,54.7223591,25.2366411,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30109
+110,Vilniaus universitetinė slaugos ir ilgalaikio gydymo ligoninė,Tyzenhauzų g. 18,Vilnius,Vilniaus Apskritis,02169,,54.6682392,25.2914674,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30110
+111,"Vilniaus universiteto ligoninės Santariškių klinikos, Fizinės medicinos ir reabilitacijos centras",Jono Kairiūkščio g. 2,Vilnius,Vilniaus Apskritis,08411,,54.7580027,25.2702978,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30111
+112,Vilniaus universiteto ligoninės Santariškių klinikų Centro filialas,Tilto g. 11A,Vilnius,Vilniaus Apskritis,01100,,54.688176,25.2846069,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30112
+113,Visagino poliklinika,Taikos pr. 15,Visaginas,,31128,,55.6057044,26.4329673,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30113
+114,VŠĮ Pakaunės PSPC,Lietuvių g. 22,Kaunas,,50176,,54.9022854,23.9238254,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30114
+115,VŠĮ Valkininkų sanatorija,,Valkininkai,,65462,,54.3490793,24.7208661,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30115
+116,VšĮ Kupiškio Pirminės Sveikatos Priežiūros Centras,Krantinės g. 30,Kupiškis,,40115,,55.8369856,24.9914702,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30116
+117,VšĮ Radviliškio rajono pirminės sveikatos priežiūros centras,,Radviliškis,,82152,,55.8104224,23.5416868,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30117
+118,VšĮ Varėnos ligoninė,,Varėna,,65156,,54.2184304,24.567535,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30118
+119,VšĮ Vilkpėdės ligoninė,Vilkpėdės g. 3,Vilnius,Vilniaus Apskritis,03151,,54.6656379,25.2436501,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30119
+120,VšĮ Širvintų ligoninė,Vilniaus g. 85,Širvintos,Vilniaus Apskritis,19110,,55.0385761,24.9625724,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30120
+121,VšĮ „Kupiškio ligoninė“,Krantinės g. 28,Kupiškis,,40115,,55.8373946,24.9876543,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30121
+122,Všį Radviliškio ligoninė,Gedimino g. 9,Radviliškis,,82152,,55.8109888,23.5411589,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30122
+123,Zarasų ligoninė,Vilniaus g. 1B,Zarasai,,32112,,55.7316816,26.2558229,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30123
+124,Šakių Ligoninė,Bažnyčios g. 37,Šakiai,,71123,,54.955824,23.0330405,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30124
+125,Šalčininkų r. savivaldybės ligoninė,Nepriklausomybės g. 38,Šalčininkai,Vilniaus Apskritis,17115,,54.305751,25.3798854,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30125
+126,Šiaulių ligoninė,V. Kudirkos gatvė 99,Šiauliai,,76304,,55.944223,23.2999269,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30126
+127,Šiaulių ligoninė 1 korpusas,V. Kudirkos g. 99,Šiauliai,,76304,,55.9429841,23.3021473,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30127
+128,Šiaulių ligoninė 2 korpusas,V. Kudirkos gatvė 99,Šiauliai,,76304,,55.9423916,23.3004605,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30128
+129,Šiaulių ligoninė chirurgijos korpusas,,Šiauliai,,76304,,55.9440662,23.299477,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30129
+130,Šiaulių priklausomybės ligų centras,Daubos g. 3,Šiauliai,,79214,,55.9062457,23.3088765,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30130
+131,Šiaulių psichiatrijos ligoninė,M. K. Čiurlionio g. 12,Šiauliai,,76304,,55.9425653,23.2978325,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30131
+132,Šumsko palaikomojo gydymo ir slaugos ligoninė,Vilniaus g. 40,Kalveliai,Vilniaus Apskritis,13168,,54.6039363,25.7284336,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30132
+133,Šv. Roko ligoninė,Klinikų g. 2,Vilnius,Vilniaus Apskritis,10102,,54.7088381,25.3144698,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30133
+134,Švėkšnos psichiatrinė ligoninė,Aušros g. 27,Švėkšna,,99383,,55.5209661,21.6246244,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30134
+135,Žalgirio klinika,Žalgirio g. 117,Vilnius,Vilniaus Apskritis,08218,,54.7051839,25.2788786,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30135
+136,Žaslių PSPC,Vilniaus g. 1,Žasliai,,56411,+370 346 44316,54.8650729,24.590121,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30136
+137,A. Viruišio reabilitacijos klinika,S. Šalkauskio g. 4,Šiauliai,,76288,,55.929326,23.3228736,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30137
+138,Alytaus raj. savivaldybės PSPC,Naujoji g. 48,Alytus,,62112,,54.4033498,24.0243877,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30138
+139,Bokšto klinika,Tilžės g. 11,Šiauliai,,78233,,55.9110664,23.2691698,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30139
+140,Butrimonių ambulatorija,,Butrimonys,,64429,,54.5019488,24.2496836,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30140
+141,"Centro poliklinika, Vytenio filialas",Vytenio g. 59,Vilnius,Vilniaus Apskritis,03105,,54.6717706,25.2654363,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30141
+142,Dainų pirminės sveikatos priežiūros centras,Aido g. 18,Šiauliai,,78242,,55.9123368,23.2708664,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30142
+143,Ginkūnų medicinos punktas,Aušros g. 4,Ginkūnai,,81489,,55.954527,23.3531149,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30143
+144,Grožio akademija,Savanorių pr. 4,Vilnius,Vilniaus Apskritis,03105,,54.6792774,25.2593296,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30144
+145,Jūžintų BPG kabinetas,Liepų g. 4,Jūžintai,,42263,,55.7754739,25.6752615,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30145
+146,Karsakiškio medicinos punktas,Lėvens g. 8,Karsakiškis,,38462,,55.7936824,24.5739812,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30146
+147,Kauno klinikų Šeimos medicinos klinikos padalinys,Vytauto pr. 49,Kaunas,,44301,,54.8908239,23.9235902,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30147
+148,Lazdynų poliklinika,Erfurto g. 15,Vilnius,Vilniaus Apskritis,04130,,54.67705,25.207814,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30148
+149,Lentvario ambulatorija,Lauko g. 26,Lentvaris,Vilniaus Apskritis,25117,,54.6399685,25.0439454,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30149
+150,Marijampolės pirminės sveikatos priežiūros centras,P. Kriaučiūno g. 2,Marijampolė,,68298,,54.5545978,23.3459164,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30150
+151,Medicinos diagnostikos ir gydymo centras,V. Grybo g. 32A,Vilnius,Vilniaus Apskritis,10102,,54.7061612,25.3165221,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30151
+152,Molėtų rajono pirminės sveikatos priežiūros centras,Graužinių g. 2,Molėtai,,33111,,55.2274245,25.4110811,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30152
+153,Obelių ambulatorija,Stoties g. 65,Obeliai,,42213,,55.9425638,25.798771,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30153
+154,Papilio ambulatorija,Rožių g. 8,Papilys,,41224,+370 450 58184,56.1157119,25.0069952,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30154
+155,Pirminės sveikatos priežiūros centras,M. K. Čiurlionio g. 82,Druskininkai,,66143,+37031353702,54.0130868,23.987271,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30155
+156,R. Burnicko BPG kabinetas,Panevėžio g. 16A,Rokiškis,,42162,,55.94654,25.5842953,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30156
+157,Rumšiškių pirminės sveikatos priežiūros centras,S. Nėries g. 13,Rumšiškės,,56336,,54.8675366,24.2176878,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30157
+158,Rėkyvos ambulatorija,Energetikų g. 18,Šiauliai,,79243,,55.8539408,23.3268493,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30158
+159,Saldutiškio ambulatorija,Laisvės a. 16,Saldutiškis,,28334,,55.3492807,25.8106315,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30159
+160,Sanatorija „Pušyno kelias“,Pušyno kel. 23,Vilnius,Vilniaus Apskritis,09116,,54.7293695,25.2843602,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30160
+161,Skapiškio Igno Vaitoškos ambulatorija,Varpo a. 5,Skapiškis,,40469,,55.8933838,25.2009888,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30161
+162,Sporto medicinos centras,,Šiauliai,,76232,,55.9409483,23.3056927,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30162
+163,Sugihara,Č. Sugiharos g. 3,Vilnius,Vilniaus Apskritis,05112,,54.7036888,25.2324505,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30163
+164,UPA Medea,Sveikatos g. 34,Druskininkai,,66143,,54.0178548,24.0098136,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30164
+165,Ąžuolyno šeimos sveikatos centras,A. Merkio g. 7A,Lapės,,54435,+370 37 470017,54.9736016,24.0021262,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30165
+166,Šeimos gydytojų centras,Aušros al. 59,Šiauliai,,76303,,55.9414275,23.3020123,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30166
+167,Šeškinės poliklinika,Šeškinės g. 24,Vilnius,Vilniaus Apskritis,07175,,54.7162131,25.2493322,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30167
+168,Širvintų rajono pirminės sveikatos priežiūros centras,P. Cvirkos g. 13,Širvintos,Vilniaus Apskritis,19110,,55.0374444,24.9614131,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30168
+169,Šėtos ambulatorija,Turgaus g. 7,Šėta,,58128,,55.2823314,24.2492461,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30169

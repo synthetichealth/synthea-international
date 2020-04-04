@@ -33,7 +33,7 @@
 31,20031,Centro de Reabilitação do Norte,Avenida Infante de Sagres 349,Vila Nova de Gaia,Porto,4405,,,,,No,,41.0902993,-8.6562546
 32,20032,Centro de Saude,,Lousada,Porto,4620-009,,,,,,,41.2804533,-8.2780487
 33,20033,Centro de Saude,,Ponte de Lima,Viana Do Castelo,4990-445,,,,,,,41.6567843,-8.585216
-34,20034,Centro de Saude Camacha,,,Ilha Da Madeira,,,,,,,,32.6794793,-16.844064
+34,20034,Centro de Saude Camacha,,,,,,,,,,,32.6794793,-16.844064
 35,20035,Centro de Saude de Arronches,,Arronches,Portalegre,7340-004,,,,,,,39.1233553,-7.2809712
 36,20036,Centro de Saude do Cartaxo,,Cartaxo,Santarém,2070-116,,,,,No,,39.1655198,-8.7844574
 37,20037,Centro de Saúde,,São João da Pesqueira,Viseu,5130-321,,,,,,,41.1454737,-7.4013958
@@ -53,7 +53,7 @@
 51,20051,Centro de Saúde,,Santarém,Santarém,2005-256,,,,,No,,39.2380844,-8.7009409
 52,20052,Centro de Saúde,,Vila Pouca de Aguiar,Vila Real,5450-011,,,,,,,41.4989481,-7.6445133
 53,20053,Centro de Saúde,,São João da Madeira,Aveiro,3700-008,,,,,No,,40.8951804,-8.496412
-54,20054,Centro de Saúde,,,Ilha Terceira,,,,,,,,38.7289513,-27.065701
+54,20054,Centro de Saúde,,,,,,,,,,,38.7289513,-27.065701
 55,20055,Centro de Saúde,,Arruda dos Vinhos,Lisboa,2630-288,,,,,,,38.9817047,-9.0818805
 56,20056,Centro de Saúde,,Lousã,Coimbra,3200-206,,,,,,,40.1242919,-8.2349624
 57,20057,Centro de Saúde,Avenida 1º de Maio nan,Almada,Setúbal,2825-279,,21 291 85 10,,,,,38.6449465,-9.2370388
@@ -76,8 +76,8 @@
 74,20074,Centro de Saúde da Boa Nova,,Vila Nova de Gaia,Porto,4405-742,,,,,No,,41.0948849,-8.6204879
 75,20075,Centro de Saúde da Figueira da Foz,,Figueira da Foz,Coimbra,3080-016,,,,,,,40.1558441,-8.8541564
 76,20076,Centro de Saúde da Gafanha da Nazaré,,Ílhavo,Aveiro,3830-554,,,,,,,40.6355804,-8.7120291
-77,20077,Centro de Saúde da Lagoa,,,Ilha De São Miguel,,,,,,,,37.7478313,-25.5773545
-78,20078,Centro de Saúde da Madalena,,,Ilha Do Pico,,,,,,,,38.5308728,-28.5238778
+77,20077,Centro de Saúde da Lagoa,,,,,,,,,,,37.7478313,-25.5773545
+78,20078,Centro de Saúde da Madalena,,,,,,,,,,,38.5308728,-28.5238778
 79,20079,Centro de Saúde da Mealhada,,Mealhada,Aveiro,3050-375,,,,,No,,40.3801291,-8.4562682
 80,20080,Centro de Saúde da Moita,,Moita,Setúbal,2860-487,,,,,,,38.6482642,-8.9927929
 81,20081,Centro de Saúde da Quinta do Conde,,Sesimbra,Setúbal,2975,,,,,,,38.557713,-9.0472821
@@ -88,7 +88,7 @@
 86,20086,Centro de Saúde de Alte,,Loulé,Faro,8100-012,,,,,,,37.2359995,-8.1774154
 87,20087,Centro de Saúde de Amares,,Amares,Braga,4720-349,,,,,No,,41.6303396,-8.358863
 88,20088,Centro de Saúde de Anadia,,Anadia,Aveiro,3780-213,,,,,No,,40.4351608,-8.4407012
-89,20089,Centro de Saúde de Angra do Heroísmo,Canada dos Melancólicos 2,,Ilha Terceira,,,+351 295 402900,,,No,,38.661527,-27.2125129
+89,20089,Centro de Saúde de Angra do Heroísmo,Canada dos Melancólicos 2,,,,,+351 295 402900,,,No,,38.661527,-27.2125129
 90,20090,Centro de Saúde de Aradas,,Aveiro,Aveiro,3810-417,,,,,,,40.6057862,-8.6362436
 91,20091,Centro de Saúde de Arcena e Bom Sucesso,,Vila Franca de Xira,Lisboa,2615,,,,,,,38.9063482,-9.0461591
 92,20092,Centro de Saúde de Arouca,,Arouca,Aveiro,4540-102,,,,,,,40.930386,-8.2548963
@@ -111,7 +111,7 @@
 109,20109,Centro de Saúde de Loulé,,Loulé,Faro,8100-663,,,,,,,37.146239,-8.0130823
 110,20110,Centro de Saúde de Maceira,,Leiria,Leiria,2405-028,,,,,,,39.6842149,-8.888439
 111,20111,Centro de Saúde de Murtosa,,Murtosa,Aveiro,3870-211,,,,,,,40.7474419,-8.6486649
-112,20112,Centro de Saúde de Nordeste,Estrada Regional 7F,,Ilha De São Miguel,,,+351 296 480090,,,,,37.8345778,-25.1463295
+112,20112,Centro de Saúde de Nordeste,Estrada Regional 7F,,,,,+351 296 480090,,,,,37.8345778,-25.1463295
 113,20113,Centro de Saúde de Oeiras,,Oeiras,Lisboa,2780-213,,,,,No,,38.6935407,-9.3179834
 114,20114,Centro de Saúde de Oliveira do Bairro,,Oliveira do Bairro,Aveiro,3770-211,,,,,,,40.517015,-8.4934998
 115,20115,Centro de Saúde de Oliveirinha,,Aveiro,Aveiro,3810-861,,,,,,,40.6010842,-8.6049641
@@ -119,19 +119,19 @@
 117,20117,Centro de Saúde de Palmela,,Palmela,Setúbal,2950-216,,,,,,,38.5707076,-8.8971716
 118,20118,Centro de Saúde de Paço de Sousa,,Penafiel,Porto,4560-375,,,,,,,41.1666828,-8.3536051
 119,20119,Centro de Saúde de Penacova,,Penacova,Coimbra,3360-184,,,,,,,40.2671828,-8.2837721
-120,20120,Centro de Saúde de Ponta Delgada,,,Ilha De São Miguel,,,,,,,,37.7534457,-25.676164
+120,20120,Centro de Saúde de Ponta Delgada,,,,,,,,,,,37.7534457,-25.676164
 121,20121,Centro de Saúde de Portimão,,Portimão,Faro,8500-734,,,,,,,37.1385093,-8.5444341
 122,20122,Centro de Saúde de Reguengos de Monsaraz,Rua Doutor Jacinto Fernandes Palma nan,Reguengos de Monsaraz,Évora,7200-363,,,,,,,38.4290857,-7.5399391
 123,20123,Centro de Saúde de Resende,,Resende,Viseu,4660-220,,,,,,,41.1053801,-7.9680962
 124,20124,Centro de Saúde de Ribeira de Pena,,Ribeira de Pena,Vila Real,4870,,,,,,,41.5185643,-7.7952635
-125,20125,Centro de Saúde de Santa Cruz,,,Ilha Da Madeira,,,,,,,,32.6893179,-16.7941839
+125,20125,Centro de Saúde de Santa Cruz,,,,,,,,,,,32.6893179,-16.7941839
 126,20126,Centro de Saúde de Santa Joana,,Aveiro,Aveiro,3810-239,,,,,No,,40.632228,-8.6187422
 127,20127,Centro de Saúde de Sernancelhe,,Sernancelhe,Viseu,3640-211,,,,,,,40.898098,-7.4902535
 128,20128,Centro de Saúde de Sever do Vouga,,Sever do Vouga,Aveiro,3740-255,,,,,,,40.7268763,-8.3641931
 129,20129,Centro de Saúde de Sobreira,Rua Ernesto Silva 67,Paredes,Porto,4585,,,,,,,41.1537917,-8.3971193
 130,20130,Centro de Saúde de Sosa,,Vagos,Aveiro,3840-351,,,,,,,40.5429183,-8.6465863
 131,20131,Centro de Saúde de Soure,,Soure,Coimbra,3130-250,,,,,,,40.0627092,-8.6208654
-132,20132,Centro de Saúde de São Roque do Pico,Avenida António Simas da Costa nan,,Ilha Do Pico,,,+351 292 648070,,,,,38.52972,-28.3334036
+132,20132,Centro de Saúde de São Roque do Pico,Avenida António Simas da Costa nan,,,,,+351 292 648070,,,,,38.52972,-28.3334036
 133,20133,Centro de Saúde de Tarouca,,Tarouca,Viseu,3610-130,,,,,,,41.0222062,-7.7763963
 134,20134,Centro de Saúde de Tavira,Estrada de Santa Luzia nan,Olhão,Faro,8700,,,,,No,,37.1155956,-7.6510442
 135,20135,Centro de Saúde de Tondela,Av. 25 de Abril 102,Tondela,Viseu,3460-575,,,,,,,40.5174347,-8.0842348
@@ -330,7 +330,7 @@
 328,20328,Hospital de Santa Maria Maior,,Barcelos,Braga,4750-275,,,,,Yes,,41.5330744,-8.6164029
 329,20329,Hospital de Santo André,,Leiria,Leiria,2410-196,,,,,Yes,,39.7431706,-8.7928025
 330,20330,Hospital de Santo António dos Capuchos,Alameda de Santo António dos Capuchos nan,Lisboa,Lisboa,1050-115,,,,,,,38.7225043,-9.1414432
-331,20331,Hospital de Santo Espírito da Ilha Terceira,,,Ilha Terceira,,,,,,Yes,,38.6675696,-27.2211206
+331,20331,Hospital de Santo Espírito da Ilha Terceira,,,,,,,,,Yes,,38.6675696,-27.2211206
 332,20332,Hospital de São Camilo,,Portimão,Faro,8500-734,,,,,,,37.1392675,-8.5447884
 333,20333,Hospital de São José,Rua José António Serrano nan,Lisboa,Lisboa,1169-097,,,,,Yes,,38.7198864,-9.1388146
 334,20334,Hospital de São João,,Porto,Porto,4200-450,,,,,Yes,,41.1798938,-8.6034531
@@ -341,7 +341,7 @@
 339,20339,Hospital de Vale de CambraCentro de Saúde,,Vale de Cambra,Aveiro,3730-240,,,,,,,40.8480235,-8.3926173
 340,20340,Hospital de Vila do Conde,Avenida Doutor Artur Cunha Araújo nan,Vila do Conde,Porto,4480-671,,,,,Yes,,41.3549694,-8.7449981
 341,20341,Hospital do Arcebisto João Crisóstomo,,Cantanhede,Coimbra,3060-201,,,,,,,40.3414743,-8.5876475
-342,20342,Hospital do Divino Espirito Santo,,,Ilha De São Miguel,,,,,,,,37.7513931,-25.6780823
+342,20342,Hospital do Divino Espirito Santo,,,,,,,,,,,37.7513931,-25.6780823
 343,20343,"Hospital do Litoral Alentejano, EPE",,Santiago do Cacém,Setúbal,7540,,,,,Yes,,38.0419739,-8.7322481
 344,20344,Hospital do Mar,,Loures,Lisboa,2695-456,,,,,,,38.8026391,-9.0986338
 345,20345,Hospital do Médio Ave,,Santo Tirso,Porto,4780-365,,,,,Yes,,41.341952,-8.4797062
@@ -371,7 +371,7 @@
 369,20369,Posto Médico,,Cinfães,Viseu,4690,,,,,,,41.066871,-8.1545592
 370,20370,Posto Médico de Covão do Lobo,,Vagos,Aveiro,3840-124,,,,,,,40.4407798,-8.6460032
 371,20371,Posto de Saúde da Gafanha da Boa Hora,,Vagos,Aveiro,3840-252,,,,,,,40.540563,-8.7557756
-372,20372,Posto de Saúde do Corvo,,Corvo,Ilha Do Corvo,9980-039,,,,,,,39.6726526,-31.1128005
+372,20372,Posto de Saúde do Corvo,,Corvo,,9980-039,,,,,,,39.6726526,-31.1128005
 373,20373,SAMS,Rua Fialho de Almeida nan,Lisboa,Lisboa,1050-115,,,,,No,,38.7344588,-9.1577538
 374,20374,Santa Casa da Misericordia,,Silves,Faro,8300-152,,,,,,,37.1903769,-8.4396818
 375,20375,Santa Casa da Misericórdia,,Vila Verde,Braga,4730-577,,,,,,,41.6526004,-8.4351106
@@ -396,7 +396,7 @@
 394,20394,Unidade de Saúde Familiar Além D'Ouro (ACES Espinho/Gaia),,Vila Nova de Gaia,Porto,4415-915,,,,,,,41.0335698,-8.5122434
 395,20395,Unidade de Saúde Familiar Descobertas,,Lisboa,Lisboa,1050-115,,,,,No,,38.6952468,-9.2209297
 396,20396,Unidade de Saúde Familiar da Junqueira,,Vila do Conde,Porto,4480-269,,,,,No,,41.3798273,-8.6849876
-397,20397,Unidade de Saúde da Ilha do Faial,Rua da Vista Alegre nan,Horta,Ilha Do Faial,9900-038,,,,,No,,38.5415778,-28.627633
+397,20397,Unidade de Saúde da Ilha do Faial,Rua da Vista Alegre nan,Horta,,9900-038,,,,,No,,38.5415778,-28.627633
 398,20398,Unidade de Saúde do Carandá,,Braga,Braga,4700-442,,,,,,,41.5467352,-8.4146584
 399,20399,Águas de Melgaço,,Melgaço,Viana Do Castelo,4960-330,,,,,,,42.1059377,-8.282017
 400,20400,Centro de Imagiologia Médica de Fafe,,Fafe,Braga,4820-382,,,,,,,41.4496631,-8.1711318
@@ -409,7 +409,7 @@
 407,20407,Centro de Saúde do Turcifal,,Torres Vedras,Lisboa,2565-814,,,,,,,39.0406146,-9.2663356
 408,20408,Clínica Dra. Paula Pereira,Rua Central da Vergada 224.0,Santa Maria da Feira,Aveiro,4535,,+351 227449153,,,,,41.0080589,-8.5534476
 409,20409,Clínica da Saúde,,Braga,Braga,4700-262,,,,,,,41.5596729,-8.446559
-410,20410,Consultório Dr. Pedro Ramos,,,Ilha Da Madeira,,,,,,,,32.7329462,-17.1937624
+410,20410,Consultório Dr. Pedro Ramos,,,,,,,,,,,32.7329462,-17.1937624
 411,20411,Cosporacion Dermostetica,,Braga,Braga,4700-442,,,,,,,41.5479778,-8.422255
 412,20412,Extensão de Saúde Alpedrinha (C. S. Fundão),,Fundão,Castelo Branco,6230-064,,,,,,,40.0991232,-7.4666972
 413,20413,Extensão de Saúde de Fão,,Esposende,Braga,4740-325,,,,,,,41.5098579,-8.7695754

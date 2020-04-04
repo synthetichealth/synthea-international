@@ -1,151 +1,151 @@
 ,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
 0,10000,AFFIDEA,,Petroșani,Hunedoara,332019,,,,,,,45.4082011,23.3754743
-1,10001,Ambulanta,,Călărași,Călărași,910014,,,,,,,44.2035861,27.3179285
+1,10001,Ambulanta,,Călărași,,910014,,,,,,,44.2035861,27.3179285
 2,10002,Ambulanta Alesd,,Aleșd,Bihor,415100,,,,,,,47.05324,22.4020288
-3,10003,Ambulanță Reghin,,Reghin,Mureș,545300,,,,,,,46.7840445,24.6967293
-4,10004,Ambulatorul de Specialitate Sfântul Spiridon,,Iași,Iași,700455,,,,,,,47.1699634,27.5808641
+3,10003,Ambulanță Reghin,,Reghin,,545300,,,,,,,46.7840445,24.6967293
+4,10004,Ambulatorul de Specialitate Sfântul Spiridon,,Iași,,700455,,,,,,,47.1699634,27.5808641
 5,10005,Amethyst,,Otopeni,Ilfov,075101,,,,,,,44.5358518,26.0604644
-6,10006,Arcadia Hospital,Strada Cicoarei 2,Iași,Iași,700620,,+40 232 202002,,,,,47.1578663,27.5612963
+6,10006,Arcadia Hospital,Strada Cicoarei 2,Iași,,700620,,+40 232 202002,,,,,47.1578663,27.5612963
 7,10007,"Bloc materno-infantil, Cardiologie, Radiologie, Laborator analize, Farmacie",Bulevardul Corneliu Coposu 2 - 4,Sibiu,Sibiu,550253,,,,,,,45.7942521,24.1549566
-8,10008,CERMED,Strada Avram Iancu 69,Constanța,Constanța,900184,,,,,,,44.1797112,28.6375993
-9,10009,Cabinet Medico-Sanitar de Frontiera Port Constanța,,Constanța,Constanța,,,,,,,,44.1717148,28.6567463
+8,10008,CERMED,Strada Avram Iancu 69,Constanța,,900184,,,,,,,44.1797112,28.6375993
+9,10009,Cabinet Medico-Sanitar de Frontiera Port Constanța,,Constanța,,,,,,,,,44.1717148,28.6567463
 10,10010,Cabinet medical,,Sâncraiu,Cluj,407515,,,,,,,46.8299443,22.9855479
-11,10011,Cabinet medical,,Miroslava,Iași,707308,,,,,,,47.097048,27.5271536
+11,10011,Cabinet medical,,Miroslava,,707308,,,,,,,47.097048,27.5271536
 12,10012,Cabinet medical,,Sâg,Sălaj,457300,,,,,,,47.0768578,22.781531
-13,10013,Cabinete medicale de familie,Strada Roșiori 33,Galați,Galați,800055,,,,,No,,45.4292631,28.0495669
-14,10014,Cabinete medicale de specialitate,Bulevardul Primăverii 4,Iași,Iași,700171,,,,,,,47.1504762,27.5967041
+13,10013,Cabinete medicale de familie,Strada Roșiori 33,Galați,,800055,,,,,No,,45.4292631,28.0495669
+14,10014,Cabinete medicale de specialitate,Bulevardul Primăverii 4,Iași,,700171,,,,,,,47.1504762,27.5967041
 15,10015,Cabinete medicale.,,Ștei,Bihor,415600,,,,,,,46.5409352,22.4556971
-16,10016,Camera de Gardă - Spitalul Clinic de Psihiatrie “Prof. Dr. Alexandru Obregia”,,București,București,,,,,,Yes,,44.3864853,26.1278255
-17,10017,Camera de Gardă - Spitalul de Urgență Floreasca,,București,București,,,,,,Yes,,44.4538889,26.1008975
-18,10018,Centru De Excelență Clinică Fundația Baylor,Strada Liliacului 10,Constanța,Constanța,900008,,+40 241 691 730,,,No,,44.1497426,28.6235805
-19,10019,Centru Medical,,Târgu Mureș,Mureș,540052,,,,,,,46.5510804,24.5745144
+16,10016,Camera de Gardă - Spitalul Clinic de Psihiatrie “Prof. Dr. Alexandru Obregia”,,București,,,,,,,Yes,,44.3864853,26.1278255
+17,10017,Camera de Gardă - Spitalul de Urgență Floreasca,,București,,,,,,,Yes,,44.4538889,26.1008975
+18,10018,Centru De Excelență Clinică Fundația Baylor,Strada Liliacului 10,Constanța,,900008,,+40 241 691 730,,,No,,44.1497426,28.6235805
+19,10019,Centru Medical,,Târgu Mureș,,540052,,,,,,,46.5510804,24.5745144
 20,10020,Centru de dializă Diaverum,Strada Distribuției 32,Sibiu,Sibiu,550009,,,,,,,45.7960181,24.1333259
-21,10021,Centru de recuperare și reabilitare neuropsihiatrică,,București,București,023571,,,,,,,44.4679599,26.1526137
+21,10021,Centru de recuperare și reabilitare neuropsihiatrică,,București,,023571,,,,,,,44.4679599,26.1526137
 22,10022,Centrul Dializă IHS,,Brăila,Brăila,810015,,,,,,,45.2698958,27.979447
-23,10023,Centrul Medial de Permanență Plătărești,,Plătărești,Călărași,917203,,,,,,,44.3426833,26.3769358
-24,10024,Centrul Medical Academica,nan 20,București,București,010452,,,,,,,44.443379,26.1009529
-25,10025,Centrul Medical Copou,,Iași,Iași,700512,,,,,No,,47.1735798,27.570478
-26,10026,Centrul Medical Galenus,,Târgu Mureș,Mureș,540052,,,,,,,46.5515387,24.5734768
-27,10027,"Centrul Medical de Diagnostic și Tratament ""Dr. Victor Babeș""",,București,București,030171,,,,,,,44.4280686,26.1392145
-28,10028,"Centrul Medico-Social ""Sfântul Andrei""",Șoseaua Berceni nan,București,București,,,,,,,,44.3827382,26.1306613
-29,10029,Centrul Regional de Transfuzie Sanguină Tg-Mureș,Strada Molter Károly 2,Târgu Mureș,Mureș,540052,,,,,,,46.560516,24.5830475
-30,10030,Centrul de Diagnosticare și Tratament Providența,nan 115,Iași,Iași,700220,,,,,,,47.1253657,27.5694266
+23,10023,Centrul Medial de Permanență Plătărești,,Plătărești,,917203,,,,,,,44.3426833,26.3769358
+24,10024,Centrul Medical Academica,nan 20,București,,010452,,,,,,,44.443379,26.1009529
+25,10025,Centrul Medical Copou,,Iași,,700512,,,,,No,,47.1735798,27.570478
+26,10026,Centrul Medical Galenus,,Târgu Mureș,,540052,,,,,,,46.5515387,24.5734768
+27,10027,"Centrul Medical de Diagnostic și Tratament ""Dr. Victor Babeș""",,București,,030171,,,,,,,44.4280686,26.1392145
+28,10028,"Centrul Medico-Social ""Sfântul Andrei""",Șoseaua Berceni nan,București,,,,,,,,,44.3827382,26.1306613
+29,10029,Centrul Regional de Transfuzie Sanguină Tg-Mureș,Strada Molter Károly 2,Târgu Mureș,,540052,,,,,,,46.560516,24.5830475
+30,10030,Centrul de Diagnosticare și Tratament Providența,nan 115,Iași,,700220,,,,,,,47.1253657,27.5694266
 31,10031,Centrul de Permanenta Vascau,Unirii 75,Vașcău,Bihor,415800,,,,,,,46.4702714,22.475333
-32,10032,Centrul de Recuperare pentru Copii dr. Nicolae Robănescu,Strada Soldat Mincă Dumitru 40,București,București,040814,,,,,,,44.3896675,26.1078393
-33,10033,Centrul de Sănătate Ciacova,,Ciacova,Timiș,307110,,,,,,,45.5151925,21.1239431
+32,10032,Centrul de Recuperare pentru Copii dr. Nicolae Robănescu,Strada Soldat Mincă Dumitru 40,București,,040814,,,,,,,44.3896675,26.1078393
+33,10033,Centrul de Sănătate Ciacova,,Ciacova,,307110,,,,,,,45.5151925,21.1239431
 34,10034,Centrul de Sănătate Mintală Copii,,Deva,Hunedoara,330088,,,,,,,45.8706127,22.9063057
-35,10035,Centrul de Transfuzie Sanguină,,Târgoviște,Dâmbovița,130007,,+40245210913,,,,,44.9190963,25.456973
+35,10035,Centrul de Transfuzie Sanguină,,Târgoviște,,130007,,+40245210913,,,,,44.9190963,25.456973
 36,10036,Centrul de Transfuzie Sanguină,Strada Radu S.Campiniu 25,Brăila,Brăila,810003,,,,,,,45.2697522,27.969389
 37,10037,Centrul de Transfuzii Bârlad,,Bârlad,Vaslui,731085,,,,,,,46.2321026,27.6664953
 38,10038,Centrul de dializa Bârlad,,Bârlad,Vaslui,731199,,,,,,,46.215868,27.6583914
-39,10039,Centrul de dializa Fresenius NephrocareCampulung-Muscel,Strada Erou Costel Constantinescu 16,Câmpulung,Argeș,115100,,+40 348 730 162,,,,,45.2732848,25.0526355
+39,10039,Centrul de dializa Fresenius NephrocareCampulung-Muscel,Strada Erou Costel Constantinescu 16,Câmpulung,,115100,,+40 348 730 162,,,,,45.2732848,25.0526355
 40,10040,Centrul de dializă,,Brăila,Brăila,,,,,,,,45.2524122,27.9401579
-41,10041,"Centrul de plasament ""Gulliver""",,Iași,Iași,700615,,,,,,,47.1487844,27.5616238
+41,10041,"Centrul de plasament ""Gulliver""",,Iași,,700615,,,,,,,47.1487844,27.5616238
 42,10042,Centrul de Îngrijiri Paliative „Sfântul Nectarie”,Strada Fabricii de Zahăr 49-51,Cluj-Napoca,Cluj,400636,,+40364733610,,,,,46.7844588,23.6204928
-43,10043,Centrul pentru Persoane cu Handicap Suferinde de Maladia Alzheimer,,Ciacova,Timiș,307110,,,,,,,45.5115012,21.1220389
+43,10043,Centrul pentru Persoane cu Handicap Suferinde de Maladia Alzheimer,,Ciacova,,307110,,,,,,,45.5115012,21.1220389
 44,10044,Clinica Amamed Bărbătești,,Bărbătești,Vâlcea,247025,,,,,,,45.1723226,24.1172807
 45,10045,Clinica Chirurgie I,Strada Clinicilor nan,Cluj-Napoca,Cluj,400006,,,,,,,46.765972,23.5833921
 46,10046,Clinica Dermato-Venerologie,Strada Clinicilor nan,Cluj-Napoca,Cluj,400006,,,,,,,46.7651568,23.5830082
-47,10047,Clinica Dermatologică,,Iași,Iași,700342,,,,,,,47.1577255,27.6160036
-48,10048,Clinica MedLife Turnului,Strada Turnului nan,Brașov,Brașov,500030,,,,,,,45.6651711,25.6126401
+47,10047,Clinica Dermatologică,,Iași,,700342,,,,,,,47.1577255,27.6160036
+48,10048,Clinica MedLife Turnului,Strada Turnului nan,Brașov,,500030,,,,,,,45.6651711,25.6126401
 49,10049,Clinica Medicală I,Strada Clinicilor nan,Cluj-Napoca,Cluj,400006,,,,,Yes,,46.7656738,23.582303
-50,10050,Clinica O.R.L.,Strada Gheorghe Marinescu 34,Târgu Mureș,Mureș,540052,,,,,,,46.5539216,24.5782568
+50,10050,Clinica O.R.L.,Strada Gheorghe Marinescu 34,Târgu Mureș,,540052,,,,,,,46.5539216,24.5782568
 51,10051,Clinica Obstetrică - Ginecologie I,Strada Clinicilor nan,Cluj-Napoca,Cluj,400006,,,,,,,46.7654169,23.5814342
-52,10052,Clinica Universitară de Obstetrică Ginecologie Bega,,Timișoara,Timiș,300002,,,,,,,45.7442869,21.2285704
-53,10053,Clinica de Boli Infecțioase 1,Strada Gheorghe Doja 89,Târgu Mureș,Mureș,540052,,+40-265-250533,,,,,46.5306407,24.5492883
-54,10054,Clinica de Boli Infecțioase 2,Strada Gheorghe Doja 127,Târgu Mureș,Mureș,540052,,+40-365-882605,,,,,46.5287599,24.5463123
-55,10055,Clinica de Chirurgie,,Târgu Mureș,Mureș,540052,,,,,,,46.5532098,24.5751653
-56,10056,Clinica de Chirurgie oro-maxilo-facială,,Târgu Mureș,Mureș,540052,,,,,,,46.5390842,24.5611703
-57,10057,Clinica de Chirurgie și Ortopedie Pediatrică Dr. Trestianu Viorel,,Timișoara,Timiș,300002,,,,,Yes,,45.7544314,21.2214259
-58,10058,Clinica de Dermato-Venerologie,Strada Gheorghe Doja 12,Târgu Mureș,Mureș,540052,,+40-365-882534,,,,,46.5386642,24.5578261
+52,10052,Clinica Universitară de Obstetrică Ginecologie Bega,,Timișoara,,300002,,,,,,,45.7442869,21.2285704
+53,10053,Clinica de Boli Infecțioase 1,Strada Gheorghe Doja 89,Târgu Mureș,,540052,,+40-265-250533,,,,,46.5306407,24.5492883
+54,10054,Clinica de Boli Infecțioase 2,Strada Gheorghe Doja 127,Târgu Mureș,,540052,,+40-365-882605,,,,,46.5287599,24.5463123
+55,10055,Clinica de Chirurgie,,Târgu Mureș,,540052,,,,,,,46.5532098,24.5751653
+56,10056,Clinica de Chirurgie oro-maxilo-facială,,Târgu Mureș,,540052,,,,,,,46.5390842,24.5611703
+57,10057,Clinica de Chirurgie și Ortopedie Pediatrică Dr. Trestianu Viorel,,Timișoara,,300002,,,,,Yes,,45.7544314,21.2214259
+58,10058,Clinica de Dermato-Venerologie,Strada Gheorghe Doja 12,Târgu Mureș,,540052,,+40-365-882534,,,,,46.5386642,24.5578261
 59,10059,Clinica de Nefrologie,Strada Victor Babeș nan,Cluj-Napoca,Cluj,400006,,,,,,,46.7659334,23.5849339
-60,10060,Clinica de Neonatologie-Prematuri,Bulevardul 1848 24,Târgu Mureș,Mureș,540052,,+40-265-237019,,,,,46.5327565,24.5578442
+60,10060,Clinica de Neonatologie-Prematuri,Bulevardul 1848 24,Târgu Mureș,,540052,,+40-265-237019,,,,,46.5327565,24.5578442
 61,10061,Clinica de Neurochirurgie,,Cluj-Napoca,Cluj,400349,,,,,Yes,,46.762083,23.584948
 62,10062,Clinica de Neurologie,,Cluj-Napoca,Cluj,400349,,,,,Yes,,46.7626379,23.5845725
 63,10063,Clinica de Neurologie - Psihiatrie - Neurochirurgie,Strada Profesor Gheorghe Marinescu 43,Cluj-Napoca,Cluj,400349,,,,,Yes,,46.7632148,23.5845951
 64,10064,Clinica de Neuropsihiatrie,Aleea Potelu 24,Craiova,Dolj,200319,,,,,,,44.2959654,23.8053568
-65,10065,Clinica de Neuropsihiatrie Pediatrică,Pasajul Panseluțelor 5,Târgu Mureș,Mureș,540052,,+40-265-264388,,,,,46.5369554,24.5646547
-66,10066,Clinica de Obstetrică-Ginecologie,,Târgu Mureș,Mureș,540052,,,,,,,46.5417803,24.5603316
-67,10067,Clinica de Oftalmologie,,Târgu Mureș,Mureș,540052,,,,,,,46.5412439,24.5610602
+65,10065,Clinica de Neuropsihiatrie Pediatrică,Pasajul Panseluțelor 5,Târgu Mureș,,540052,,+40-265-264388,,,,,46.5369554,24.5646547
+66,10066,Clinica de Obstetrică-Ginecologie,,Târgu Mureș,,540052,,,,,,,46.5417803,24.5603316
+67,10067,Clinica de Oftalmologie,,Târgu Mureș,,540052,,,,,,,46.5412439,24.5610602
 68,10068,Clinica de Oftalmologie,Strada Clinicilor nan,Cluj-Napoca,Cluj,400006,,,,,,,46.7653553,23.5836221
-69,10069,Clinica de Oncologie,,Târgu Mureș,Mureș,540052,,,,,,,46.5531242,24.5769675
+69,10069,Clinica de Oncologie,,Târgu Mureș,,540052,,,,,,,46.5531242,24.5769675
 70,10070,Clinica de Oncologie Medicală - Clinca Radiologică,Strada Clinicilor nan,Cluj-Napoca,Cluj,400006,,,,,,,46.7659234,23.5845597
-71,10071,Clinica de Ortopedie-Traumatologie,,Târgu Mureș,Mureș,540052,,+40-265-213720,,,,,46.5519382,24.5739234
-72,10072,Clinica de Pediatrie,,Târgu Mureș,Mureș,540052,,,,,,,46.5552566,24.5826312
+71,10071,Clinica de Ortopedie-Traumatologie,,Târgu Mureș,,540052,,+40-265-213720,,,,,46.5519382,24.5739234
+72,10072,Clinica de Pediatrie,,Târgu Mureș,,540052,,,,,,,46.5552566,24.5826312
 73,10073,Clinica de Pediatrie,Strada Corneliu Coposu nan,Craiova,Dolj,,,,,,,,44.3033883,23.8027432
 74,10074,Clinica de Pneumoftizologie,,Sfântu Gheorghe,Covasna,520085,,,,,,,45.8634711,25.7828596
-75,10075,Clinica de Pneumologie,,Târgu Mureș,Mureș,540052,,,,,,,46.5536056,24.5774755
-76,10076,Clinica de Psihiatrie,,Târgu Mureș,Mureș,540052,,,,,,,46.5563383,24.5842211
-77,10077,Clinica de oftalmologie,Scuarul Martir Radian Belici nan,Timișoara,Timiș,300002,,,,,,,45.7553133,21.224878
-78,10078,Călărași Hospital,,Călărași,Călărași,910014,,,,,,,44.1925241,27.3270629
+75,10075,Clinica de Pneumologie,,Târgu Mureș,,540052,,,,,,,46.5536056,24.5774755
+76,10076,Clinica de Psihiatrie,,Târgu Mureș,,540052,,,,,,,46.5563383,24.5842211
+77,10077,Clinica de oftalmologie,Scuarul Martir Radian Belici nan,Timișoara,,300002,,,,,,,45.7553133,21.224878
+78,10078,Călărași Hospital,,Călărași,,910014,,,,,,,44.1925241,27.3270629
 79,10079,DentiRAD,,Plopeni,Prahova,105900,,,,,No,,45.0455274,25.9523511
-80,10080,Dentist Iasi,Strada Sfântul Andrei 6C,Iași,Iași,700028,,,,,Yes,,47.1553625,27.5838468
+80,10080,Dentist Iasi,Strada Sfântul Andrei 6C,Iași,,700028,,,,,Yes,,47.1553625,27.5838468
 81,10081,Dermato-Venerice,,Ploiești,Prahova,100028,,,,,,,44.9457654,26.0389381
 82,10082,Dispensar,,Poiana Sibiului,Sibiu,557180,,,,,,,45.8089373,23.7275007
-83,10083,Dispensar,,Țăndărei,Ialomița,925200,,,,,,,44.6401784,27.6610987
+83,10083,Dispensar,,Țăndărei,,925200,,,,,,,44.6401784,27.6610987
 84,10084,Dispensar,,Lazuri de Beiuș,Bihor,417300,,,,,No,,46.5920797,22.3995994
 85,10085,Dispensar,,Căbești,Bihor,417125,,,,,,,46.7660974,22.3673581
 86,10086,Dispensar Baia de Criș,,Baia de Criș,Hunedoara,337005,,,,,No,,46.1748127,22.7157663
 87,10087,Dispensar Gheorghieni,,Cluj-Napoca,Cluj,400438,,,,,No,,46.7663231,23.6239644
 88,10088,Dispensar Hoceni,,Hoceni,Vaslui,737285,,,,,No,,46.5382419,28.0110694
 89,10089,Dispensar Magurele,,Măgurele,Ilfov,077125,,,,,,,44.3503063,26.0296072
-90,10090,Dispensar TBC,Bulevardul Alexandru Lăpușneanu 167,Constanța,Constanța,900412,,,,,,,44.2011891,28.629858
+90,10090,Dispensar TBC,Bulevardul Alexandru Lăpușneanu 167,Constanța,,900412,,,,,,,44.2011891,28.629858
 91,10091,Dispensar medic de familie,,Duda-Epureni,Vaslui,737233,,,,,No,,46.7060853,28.0388752
 92,10092,Dispensarul Brezoi,Strada Panduri nan,Brezoi,Vâlcea,245500,,,,,,,45.343649,24.2396852
 93,10093,Dispensarul Comunal,,Movilița,Vrancea,627210,,,,,,,45.9567713,27.1036214
 94,10094,Dispensarul Uman Malaia,,Malaia,Vâlcea,247335,,,,,,,45.3519346,24.0422213
-95,10095,Dispensarul medical Părău,,Părău,Brașov,507155,,,,,,,45.8488122,25.191747
+95,10095,Dispensarul medical Părău,,Părău,,507155,,,,,,,45.8488122,25.191747
 96,10096,Dispensarul uman Vașcău,,Vașcău,Bihor,415800,,,,,No,,46.4760113,22.4722552
 97,10097,Endocrinologie,,Sibiu,Sibiu,550009,,,,,,,45.7951528,24.1573831
-98,10098,Euromaterna,Strada Ștefăniță Vodă 32,Constanța,Constanța,900508,,,,,,,44.2015852,28.6137831
+98,10098,Euromaterna,Strada Ștefăniță Vodă 32,Constanța,,900508,,,,,,,44.2015852,28.6137831
 99,10099,Farmacia Hoceni,,Hoceni,Vaslui,737285,,,,,No,,46.5371525,28.0114169
 100,10100,Fost spital de copii,,Brăila,Brăila,810003,,,,,,,45.2689105,27.9738573
 101,10101,Fostă Policlinică Petrila,,Petrila,Hunedoara,335800,,,,,,,45.4434508,23.3784077
-102,10102,Hiperdia,,București,București,023571,,,,,,,44.4446511,26.1343187
-103,10103,INHT C.T Nicolau,,București,București,011035,,,,,,,44.45407,26.0796395
+102,10102,Hiperdia,,București,,023571,,,,,,,44.4446511,26.1343187
+103,10103,INHT C.T Nicolau,,București,,011035,,,,,,,44.45407,26.0796395
 104,10104,Infecțioase,,Onești,Bacău,601048,,,,,,,46.2543377,26.7634806
-105,10105,Institutul Clinic Fundeni (Clădirea A),Șoseaua Fundeni 258,București,București,023571,,,,,,,44.4655248,26.1560941
-106,10106,"Institutul Național de Boli Infecțioase ""Profesor Doctor Matei Balș""",,București,București,023571,,,,,,,44.4546577,26.1154528
-107,10107,Institutul Național de Expertiză Medicală și Recuperare a Capacității de Muncă,,București,București,051521,,,,,,,44.4251286,26.0713636
+105,10105,Institutul Clinic Fundeni (Clădirea A),Șoseaua Fundeni 258,București,,023571,,,,,,,44.4655248,26.1560941
+106,10106,"Institutul Național de Boli Infecțioase ""Profesor Doctor Matei Balș""",,București,,023571,,,,,,,44.4546577,26.1154528
+107,10107,Institutul Național de Expertiză Medicală și Recuperare a Capacității de Muncă,,București,,051521,,,,,,,44.4251286,26.0713636
 108,10108,Institutul Național de Gerontologie Ana Aslan - Otopeni,,Otopeni,Ilfov,075100,,,,,,,44.5794066,26.0619604
 109,10109,Institutul Oncologic Prof. Dr. Ion Chiricuță,,Cluj-Napoca,Cluj,400015,,,,,,,46.7630684,23.5882087
-110,10110,Institutul Regional de Oncologie,,Iași,Iași,700107,,,,,,,47.1755234,27.5767317
-111,10111,Institutul de Boli Cardiovasculare,Strada Gheorghe Adam 13 A,Timișoara,Timiș,300002,,,,,Yes,,45.7687422,21.25782
-112,10112,"Institutul de Endocrinologie ""C I Parhon""",,București,București,011883,,,,,,,44.4601264,26.0883119
-113,10113,Institutul de Fonoaudiologie și Chirurgie Funcțională ORL Profesor Doctor Dorin Hociotă,Strada Mihail Cioranu 21,București,București,051521,,,,,,,44.4258643,26.0740922
-114,10114,Institutul de Virusologie „Ștefan S. Nicolau”,,București,București,030171,,,,,,,44.4246341,26.1383162
-115,10115,Institutul de diabet Paulescu,,București,București,011234,,,,,,,44.4561292,26.0765705
-116,10116,Isis Hospital,Strada Mircea cel Bătrân 102,Constanța,Constanța,900663,,"+40341 46 33 44, +40747 474747",,,,,44.1823227,28.6508539
+110,10110,Institutul Regional de Oncologie,,Iași,,700107,,,,,,,47.1755234,27.5767317
+111,10111,Institutul de Boli Cardiovasculare,Strada Gheorghe Adam 13 A,Timișoara,,300002,,,,,Yes,,45.7687422,21.25782
+112,10112,"Institutul de Endocrinologie ""C I Parhon""",,București,,011883,,,,,,,44.4601264,26.0883119
+113,10113,Institutul de Fonoaudiologie și Chirurgie Funcțională ORL Profesor Doctor Dorin Hociotă,Strada Mihail Cioranu 21,București,,051521,,,,,,,44.4258643,26.0740922
+114,10114,Institutul de Virusologie „Ștefan S. Nicolau”,,București,,030171,,,,,,,44.4246341,26.1383162
+115,10115,Institutul de diabet Paulescu,,București,,011234,,,,,,,44.4561292,26.0765705
+116,10116,Isis Hospital,Strada Mircea cel Bătrân 102,Constanța,,900663,,"+40341 46 33 44, +40747 474747",,,,,44.1823227,28.6508539
 117,10117,Laborator de Medicină Nucleară,,Cluj-Napoca,Cluj,400006,,,,,,,46.7657547,23.5844424
-118,10118,Maternitate,,Făgăraș,Brașov,505200,,,,,,,45.8416033,24.9590052
-119,10119,Maternitate,,Drobeta-Turnu Severin,Mehedinti,220146,,,,,,,44.6236049,22.6572318
+118,10118,Maternitate,,Făgăraș,,505200,,,,,,,45.8416033,24.9590052
+119,10119,Maternitate,,Drobeta-Turnu Severin,,220146,,,,,,,44.6236049,22.6572318
 120,10120,Maternitatea,,Beiuș,Bihor,415200,,,,,,,46.6630003,22.3504178
 121,10121,Maternitatea Buzău,Strada Victoriei nan,Buzău,Buzău,120209,,,,,,,45.1490544,26.8270975
 122,10122,Maternitatea Buzău,,Buzău,Buzău,120218,,,,,,,45.1473502,26.8238607
-123,10123,Maternitatea Elena Doamna,,Iași,Iași,700401,,,,,,,47.1611199,27.5981399
+123,10123,Maternitatea Elena Doamna,,Iași,,700401,,,,,,,47.1611199,27.5981399
 124,10124,MediUrg,,Ploiești,Prahova,100028,,,,,,,44.9341378,26.0269401
 125,10125,Medicavol,Bulevardul Dunării nan,Voluntari,Ilfov,077190,,,,,,,44.4946382,26.1868321
 126,10126,Medicină Legală,Strada Clinicilor nan,Cluj-Napoca,Cluj,400006,,,,,No,,46.7648578,23.5819354
-127,10127,Metropolitan Hospital,Calea Șerban Vodă nan,București,București,040204,,,,,,,44.4189089,26.1022529
-128,10128,Muntenia Hospital,Strada Pictor Nicolae Grigorescu 2A,Pitești,Argeș,110117,,,,,Yes,,44.8622335,24.8700998
-129,10129,Nova Vita,Strada Liviu Rebreanu 29A,Târgu Mureș,Mureș,540052,,"+40 265 266 112, +40 365 430 330",,,Yes,,46.5367392,24.5536056
-130,10130,Oftapro,Bulevardul Mărășești 15,București,București,040251,,,,,,,44.4191315,26.0966702
-131,10131,Pavilionul II,Aleea Dealul Spirii 12,Brașov,Brașov,500030,,,,,,,45.6435772,25.5730387
-132,10132,Pavilionul III,Aleea Dealul Spirii 12,Brașov,Brașov,500030,,,,,,,45.6444023,25.5739821
-133,10133,Pavilionul V,Strada Gusztav Kollar 4,Brașov,Brașov,500030,,,,,,,45.6445817,25.5760502
-134,10134,Pavilionul VI,Strada Gusztav Kollar 4,Brașov,Brașov,500030,,,,,,,45.6442395,25.5759018
+127,10127,Metropolitan Hospital,Calea Șerban Vodă nan,București,,040204,,,,,,,44.4189089,26.1022529
+128,10128,Muntenia Hospital,Strada Pictor Nicolae Grigorescu 2A,Pitești,,110117,,,,,Yes,,44.8622335,24.8700998
+129,10129,Nova Vita,Strada Liviu Rebreanu 29A,Târgu Mureș,,540052,,"+40 265 266 112, +40 365 430 330",,,Yes,,46.5367392,24.5536056
+130,10130,Oftapro,Bulevardul Mărășești 15,București,,040251,,,,,,,44.4191315,26.0966702
+131,10131,Pavilionul II,Aleea Dealul Spirii 12,Brașov,,500030,,,,,,,45.6435772,25.5730387
+132,10132,Pavilionul III,Aleea Dealul Spirii 12,Brașov,,500030,,,,,,,45.6444023,25.5739821
+133,10133,Pavilionul V,Strada Gusztav Kollar 4,Brașov,,500030,,,,,,,45.6445817,25.5760502
+134,10134,Pavilionul VI,Strada Gusztav Kollar 4,Brașov,,500030,,,,,,,45.6442395,25.5759018
 135,10135,Pediatrie II + Urgențe,,Cluj-Napoca,Cluj,400029,,,,,,,46.7672098,23.5774111
 136,10136,Pediatrie III,,Cluj-Napoca,Cluj,400217,,,,,,,46.7809275,23.5858886
 137,10137,Policlinic Bethesda,,Suceava,Suceava,,,,,,,,47.6651908,26.2693389
 138,10138,Policlinica,,Gherla,Cluj,405300,,,,,,,47.0250571,23.9034026
 139,10139,Policlinica,,Câmpulung Moldovenesc,Suceava,725100,,,,,,,47.5305474,25.5588068
 140,10140,"Policlinica ""Paltinul""",Strada Luptei 21,Sibiu,Sibiu,550009,,,,,,,45.7810472,24.1594696
-141,10141,Policlinica 1,,Târgoviște,Dâmbovița,130007,,,,,,,44.9269323,25.4563205
-142,10142,Policlinica 2,,Călărași,Călărași,910014,,,,,,,44.2074367,27.3166831
+141,10141,Policlinica 1,,Târgoviște,,130007,,,,,,,44.9269323,25.4563205
+142,10142,Policlinica 2,,Călărași,,910014,,,,,,,44.2074367,27.3166831
 143,10143,Policlinica Aiud,,Aiud,Alba,515200,,,,,,,46.3077152,23.7229194
 144,10144,Policlinica Balș,,Balș,Olt,235100,,,,,,,44.3475093,24.1144311
 145,10145,Policlinica Bethesda,,Suceava,Suceava,,,,,,,,47.6624283,26.2651271
-146,10146,Policlinica C.F.R.,Bulevardul General Dragalina 49,Timișoara,Timiș,300002,,,,,,,45.7502327,21.2074844
+146,10146,Policlinica C.F.R.,Bulevardul General Dragalina 49,Timișoara,,300002,,,,,,,45.7502327,21.2074844
 147,10147,Policlinica CFR,,Sibiu,Sibiu,550009,,,,,,,45.7920592,24.1573282
 148,10148,Policlinica CFR,,Cluj-Napoca,Cluj,400217,,,,,,,46.7806378,23.5854103
 149,10149,Policlinica CINA,Strada Andrei Mureșanu nan,Ploiești,Prahova,100028,,,,,,,44.9526017,26.0113091
@@ -154,73 +154,73 @@
 152,10152,Policlinica Carei,,Carei,Satu Mare,445100,,,,,,,47.6811183,22.4648844
 153,10153,Policlinica Câmpina,Bulevardul Carol I 117,Câmpina,Prahova,105600,,,,,No,,45.1278899,25.7324802
 154,10154,Policlinica Hipodrom,,Brăila,Brăila,810262,,,,,,,45.2602392,27.9528285
-155,10155,Policlinica Mangalia,,Mangalia,Constanța,905500,,,,,No,,43.8090167,28.5819623
+155,10155,Policlinica Mangalia,,Mangalia,,905500,,,,,No,,43.8090167,28.5819623
 156,10156,Policlinica Motru,,Motru,Gorj,215200,,,,,,,44.8026107,22.9731932
-157,10157,Policlinica Municipală,,Drobeta-Turnu Severin,Mehedinti,220006,,,,,,,44.6301271,22.6372053
+157,10157,Policlinica Municipală,,Drobeta-Turnu Severin,,220006,,,,,,,44.6301271,22.6372053
 158,10158,Policlinica PRAGA,Strada Praga nan,Ploiești,Prahova,100028,,,,,,,44.9424042,26.0305604
-159,10159,Policlinica Rahova,Strada Malcoci 4,București,București,051521,,,,,,,44.4094982,26.0710199
-160,10160,Policlinica Reghin,,Reghin,Mureș,545300,,,,,,,46.7832162,24.6952675
+159,10159,Policlinica Rahova,Strada Malcoci 4,București,,051521,,,,,,,44.4094982,26.0710199
+160,10160,Policlinica Reghin,,Reghin,,545300,,,,,,,46.7832162,24.6952675
 161,10161,Policlinica Shuller,,Ploiești,Prahova,100028,,,,,,,44.9306849,26.0206112
 162,10162,Policlinica Spitalului Filantropia,Bulevardul Nicolae Titulescu 40,Craiova,Dolj,200142,,,,,,,44.3254921,23.7888216
 163,10163,Policlinica Stomatologică,,Bârlad,Vaslui,731005,,,,,,,46.2275572,27.6654323
-164,10164,Policlinica Studențească,Strada Memorandului nan,Brașov,Brașov,500030,,,,,,,45.6558034,25.5803102
-165,10165,Policlinica Sănătatea,Strada Ștefan cel Mare 52,Timișoara,Timiș,300002,,,,,,,45.7514433,21.2515634
-166,10166,Policlinica Târgoviște,,Târgoviște,Dâmbovița,130007,,,,,,,44.9222526,25.4509094
-167,10167,Policlinica nr. 2,Bulevardul 1 Decembrie 1918 28,Târgu Mureș,Mureș,540052,,+40-265-263585,,,,,46.5390465,24.5611559
+164,10164,Policlinica Studențească,Strada Memorandului nan,Brașov,,500030,,,,,,,45.6558034,25.5803102
+165,10165,Policlinica Sănătatea,Strada Ștefan cel Mare 52,Timișoara,,300002,,,,,,,45.7514433,21.2515634
+166,10166,Policlinica Târgoviște,,Târgoviște,,130007,,,,,,,44.9222526,25.4509094
+167,10167,Policlinica nr. 2,Bulevardul 1 Decembrie 1918 28,Târgu Mureș,,540052,,+40-265-263585,,,,,46.5390465,24.5611559
 168,10168,Policlinica Ștei,,Ștei,Bihor,415600,,,,,,,46.5407656,22.4562329
 169,10169,Policlinică stomatologică,,Brăila,Brăila,810095,,,,,No,,45.287656,27.9701797
 170,10170,Polimed,Strada Tudor Vladimirescu 94 94,Podu Turcului,Bacău,607450,,0234 289 704,,,Yes,,46.1999657,27.3842543
 171,10171,Polisano,,Sibiu,Sibiu,550009,,,,,,,45.798215,24.1568702
-172,10172,Ponderas,,București,București,030171,,,,,,,44.4147645,26.1336159
-173,10173,Ponderas Regina Maria,Strada Nicolae G. Caramfil 85 A,București,București,014163,,,,,Yes,,44.4835284,26.0910739
-174,10174,ProfDIAGNOSIS,Strada Mihai Eminescu 11,Urziceni,Ialomița,925300,,0243.257755; 0372.920755; 0727.711170; 0731.315407,,,No,,44.7112287,26.6378221
+172,10172,Ponderas,,București,,030171,,,,,,,44.4147645,26.1336159
+173,10173,Ponderas Regina Maria,Strada Nicolae G. Caramfil 85 A,București,,014163,,,,,Yes,,44.4835284,26.0910739
+174,10174,ProfDIAGNOSIS,Strada Mihai Eminescu 11,Urziceni,,925300,,0243.257755; 0372.920755; 0727.711170; 0731.315407,,,No,,44.7112287,26.6378221
 175,10175,Promedica,,Brăila,Brăila,810210,,,,,,,45.2637096,27.9704319
-176,10176,SERVICIUL DE AMBULANTA BUCURESTI-ILFOV,Strada Mihai Eminescu 226,București,București,023571,,,,,,,44.4459059,26.115935
+176,10176,SERVICIUL DE AMBULANTA BUCURESTI-ILFOV,Strada Mihai Eminescu 226,București,,023571,,,,,,,44.4459059,26.115935
 177,10177,SPITALUL DE PEDIATRIE PLOIEȘTI,Strada Mihai Eminescu nan,Ploiești,Prahova,100028,,,,,Yes,,44.9319507,26.0261625
 178,10178,SPITALUL JUDEȚEAN DE URGENȚĂ PLOIEȘTI,,Ploiești,Prahova,100028,,,,,Yes,,44.9637639,26.0099119
 179,10179,Salvamont,,Toplița,Harghita,535700,,,,,Yes,,46.9820012,25.4067522
-180,10180,Sanador - Spital,,București,București,010995,,,,,,,44.4498147,26.0844341
-181,10181,Sanatoriul Agigea,,Agigea,Constanța,907015,,,,,,,44.1057102,28.6370347
-182,10182,Sanatoriul Moroeni,,Moroeni,Dâmbovița,137310,,,,,,,45.255792,25.4319132
-183,10183,Sanatoriul TBC Osteoarticular „Dr. V. Climescu”,,Agigea,Constanța,907015,,,,,,,44.0909785,28.640392
-184,10184,Sanatoriul de Nevroze,Valea Râșnoavei 8,Predeal,Brașov,505300,,,,,,,45.4939429,25.5435761
-185,10185,Sanatoriul de neuropsihiatrie Podriga,,Drăgușeni,Botoșani,717141,,,,,,,48.0037823,26.8283091
+180,10180,Sanador - Spital,,București,,010995,,,,,,,44.4498147,26.0844341
+181,10181,Sanatoriul Agigea,,Agigea,,907015,,,,,,,44.1057102,28.6370347
+182,10182,Sanatoriul Moroeni,,Moroeni,,137310,,,,,,,45.255792,25.4319132
+183,10183,Sanatoriul TBC Osteoarticular „Dr. V. Climescu”,,Agigea,,907015,,,,,,,44.0909785,28.640392
+184,10184,Sanatoriul de Nevroze,Valea Râșnoavei 8,Predeal,,505300,,,,,,,45.4939429,25.5435761
+185,10185,Sanatoriul de neuropsihiatrie Podriga,,Drăgușeni,,717141,,,,,,,48.0037823,26.8283091
 186,10186,Sanepid,Bulevardul Carpați nan,Corabia,Olt,235300,,,,,,,43.7726052,24.4938916
-187,10187,Secția Clinică a II-a de Pneumoftiziologie Pașcanu,,Iași,Iași,700373,,,,,,,47.1684752,27.6028082
+187,10187,Secția Clinică a II-a de Pneumoftiziologie Pașcanu,,Iași,,700373,,,,,,,47.1684752,27.6028082
 188,10188,Secția Nifon,,Măgura,Buzău,127320,,,,,,,45.2640716,26.5536633
 189,10189,Secția Pediatrie,,Deva,Hunedoara,330088,,,,,,,45.8766249,22.9059478
-190,10190,Secția balneo fizioterapie recuperare medicală a Spitalului Județean,,Drobeta-Turnu Severin,Mehedinti,220154,,,,,,,44.6253164,22.6630975
-191,10191,Secția de recuperare pediatrică,,Timișoara,Timiș,300002,,,,,,,45.7618355,21.2163911
+190,10190,Secția balneo fizioterapie recuperare medicală a Spitalului Județean,,Drobeta-Turnu Severin,,220154,,,,,,,44.6253164,22.6630975
+191,10191,Secția de recuperare pediatrică,,Timișoara,,300002,,,,,,,45.7618355,21.2163911
 192,10192,Secția obstetrică ginecologie a spitalului municipal,,Vatra Dornei,Suceava,725700,,,,,,,47.3474109,25.3590689
-193,10193,Secția pneumoftiziologie TBC a Spitalului Județean,,Drobeta-Turnu Severin,Mehedinti,220099,,,,,,,44.6249812,22.6416235
+193,10193,Secția pneumoftiziologie TBC a Spitalului Județean,,Drobeta-Turnu Severin,,220099,,,,,,,44.6249812,22.6416235
 194,10194,Servicii Geriatrie și Asistență Medicală ”Sf. Sava și Teodosie cel Mare”,Strada Cozieni 2,Pantelimon,Ilfov,077145,,,,,,,44.4575559,26.2814878
 195,10195,Serviciul Ambulanță,,Brăila,Brăila,810261,,,,,,,45.259437,27.9507099
 196,10196,Serviciul Județean de Ambulanță Sibiu,,Sibiu,Sibiu,550009,,,,,,,45.7979916,24.1587167
 197,10197,Serviciul Județean de Medicină Legală,,Deva,Hunedoara,330088,,,,,,,45.8704996,22.9058558
 198,10198,Serviciul de Ambulanță al județului Cluj,Strada Horea nan,Cluj-Napoca,Cluj,400217,,,,,No,,46.7809091,23.5866986
-199,10199,Serviciul de ambulanță al județului Iași,,Iași,Iași,700165,,,,,ambulance_station,,47.1529607,27.5997273
-200,10200,Serviciul de urgență SMURD,,Târgu Mureș,Mureș,540052,,,,,Yes,,46.5598487,24.5834937
-201,10201,Spital,Strada Petofi Șandor nan,Sovata,Mureș,545500,,,,,,,46.5936835,25.0710249
+199,10199,Serviciul de ambulanță al județului Iași,,Iași,,700165,,,,,ambulance_station,,47.1529607,27.5997273
+200,10200,Serviciul de urgență SMURD,,Târgu Mureș,,540052,,,,,Yes,,46.5598487,24.5834937
+201,10201,Spital,Strada Petofi Șandor nan,Sovata,,545500,,,,,,,46.5936835,25.0710249
 202,10202,Spital,,Câmpulung Moldovenesc,Suceava,725100,,,,,,,47.5319255,25.5433451
 203,10203,Spital,,Câmpulung Moldovenesc,Suceava,725100,,,,,,,47.5317054,25.5439058
 204,10204,Spital,,Tilișca,Sibiu,557280,,,,,,,45.8013537,23.8412233
 205,10205,Spital Azuga,Strada Victoriei 2,Azuga,Prahova,105100,,+40244322051,,,No,,45.4276826,25.5541617
-206,10206,Spital Beclean,Strada 1 Decembrie 1918 nan,Beclean,Bistrița-năsăud,425100,,,,,,,47.184443,24.1847276
-207,10207,Spital Beclean,Strada 1 Decembrie 1918 nan,Beclean,Bistrița-năsăud,425100,,,,,,,47.1833841,24.1851713
-208,10208,Spital Beclean,Strada 1 Decembrie 1918 nan,Beclean,Bistrița-năsăud,425100,,,,,,,47.1841093,24.1863074
+206,10206,Spital Beclean,Strada 1 Decembrie 1918 nan,Beclean,,425100,,,,,,,47.184443,24.1847276
+207,10207,Spital Beclean,Strada 1 Decembrie 1918 nan,Beclean,,425100,,,,,,,47.1833841,24.1851713
+208,10208,Spital Beclean,Strada 1 Decembrie 1918 nan,Beclean,,425100,,,,,,,47.1841093,24.1863074
 209,10209,Spital Brezoi,,Brezoi,Vâlcea,245500,,,,,,,45.3425876,24.2455709
 210,10210,Spital Budești,,Budești,Vâlcea,247055,,,,,,,45.0643391,24.3877742
-211,10211,Spital CFR,,Constanța,Constanța,900317,,,,,,,44.1673143,28.583522
-212,10212,Spital Ceuașu de Câmpie,,Ceuașu de Câmpie,Mureș,547140,,,,,,,46.640307,24.5158801
-213,10213,Spital Clinic Cai Ferate Constanța-Sediul administrativ,Bulevardul 1 Mai 5-7,Constanța,Constanța,,,,,,,,44.1655614,28.6344771
-214,10214,Spital Mangalia,,Mangalia,Constanța,905500,,,,,Yes,,43.8168307,28.5866894
+211,10211,Spital CFR,,Constanța,,900317,,,,,,,44.1673143,28.583522
+212,10212,Spital Ceuașu de Câmpie,,Ceuașu de Câmpie,,547140,,,,,,,46.640307,24.5158801
+213,10213,Spital Clinic Cai Ferate Constanța-Sediul administrativ,Bulevardul 1 Mai 5-7,Constanța,,,,,,,,,44.1655614,28.6344771
+214,10214,Spital Mangalia,,Mangalia,,905500,,,,,Yes,,43.8168307,28.5866894
 215,10215,Spital Municipal,Strada Fabricii 2A,Târgu Secuiesc,Covasna,525400,,,,,Yes,,45.9979956,26.1397791
-216,10216,Spital Orășenesc Săveni,Strada Avram Iancu nan,Săveni,Botoșani,715300,,,,,,,47.9593409,26.8600017
+216,10216,Spital Orășenesc Săveni,Strada Avram Iancu nan,Săveni,,715300,,,,,,,47.9593409,26.8600017
 217,10217,Spital de bătrâni,,Zimnicea,Teleorman,145400,,,,,,,43.6525823,25.3616866
-218,10218,Spital raducaneni,,Răducăneni,Iași,707400,,,,,,,46.9634578,27.9428919
-219,10219,Spital si azil M-rea Paltin,,Poiana Teiului,Neamț,617340,,,,,,,47.164832,25.9764496
+218,10218,Spital raducaneni,,Răducăneni,,707400,,,,,,,46.9634578,27.9428919
+219,10219,Spital si azil M-rea Paltin,,Poiana Teiului,,617340,,,,,,,47.164832,25.9764496
 220,10220,Spitalul  Județean de Urgență Brăila,Șoseaua Buzăului 2,Brăila,Brăila,,,,,,Yes,,45.2525358,27.9413245
-221,10221,"Spitalul ""Buna Vestire"" obstretică-ginecologie",,Galați,Galați,800153,,,,,,,45.4445555,28.0421077
+221,10221,"Spitalul ""Buna Vestire"" obstretică-ginecologie",,Galați,,800153,,,,,,,45.4445555,28.0421077
 222,10222,"Spitalul ""Carl Wolf"" - Centru pentru Bătrâni",,Sibiu,Sibiu,550009,,,,,,,45.7977333,24.1401341
 223,10223,Spitalul 2,,Râmnicu Vâlcea,Vâlcea,240159,,,,,,,45.1087535,24.3681636
 224,10224,Spitalul Agnita,Strada Spitalului 4,Agnita,Sibiu,555100,,,,,,,45.9788926,24.6224366
@@ -231,124 +231,124 @@
 229,10229,Spitalul Boli Infecțioase,,Satu Mare,Satu Mare,440014,,,,,No,,47.7945099,22.8856886
 230,10230,Spitalul Boli Pulmonare ,,Breaza,Prahova,105401,,,,,No,,45.1791475,25.6762752
 231,10231,Spitalul Buna Vestire,,Ploiești,Prahova,100028,,,,,,,44.9390262,26.030587
-232,10232,Spitalul Băneasa Regina Maria,Strada Constantin Dobrogeanu-Gherea 85,București,București,013744,,,,,Yes,,44.4958919,26.0717694
+232,10232,Spitalul Băneasa Regina Maria,Strada Constantin Dobrogeanu-Gherea 85,București,,013744,,,,,Yes,,44.4958919,26.0717694
 233,10233,Spitalul C.F.R.,,Satu Mare,Satu Mare,440014,,,,,,,47.7895054,22.8816176
-234,10234,Spitalul C.F.R.,,Drobeta-Turnu Severin,Mehedinti,220099,,,,,,,44.6234415,22.6412098
+234,10234,Spitalul C.F.R.,,Drobeta-Turnu Severin,,220099,,,,,,,44.6234415,22.6412098
 235,10235,Spitalul CF Buzău,Bulevardul Republicii 8-12,Buzău,Buzău,120055,,,,,No,,45.1436946,26.8361269
 236,10236,Spitalul CFR,Bulevardul Știrbei Vodă 6,Craiova,Dolj,200413,,,,,,,44.314555,23.7937217
 237,10237,Spitalul CFR,,Ploiești,Prahova,100028,,,,,,,44.926499,25.9965905
 238,10238,Spitalul Calafat - Secția exterioara TBC Pneumologie,Strada 1 Decembrie 1918 nan,Poiana Mare,Dolj,207470,,,,,,,43.9132628,23.0991253
-239,10239,"Spitalul Clinic ""Doctor Ioan Cantacuzino""",Strada Ion Movilă 5-7,București,București,023571,,+40212107100,,,Yes,,44.4449545,26.1093263
-240,10240,Spitalul Clinic C.F. Constanța,,Constanța,Constanța,,,,,,,,44.1738648,28.651106
-241,10241,Spitalul Clinic C.F. Nr. 2,Bulevardul Mărăști 62,București,București,012103,,,,,Yes,,44.473797,26.0691431
-242,10242,Spitalul Clinic Colentina,Șoseaua Ștefan cel Mare 19-21,București,București,023571,,+4 021 3173245,,,No,,44.4546577,26.1154528
+239,10239,"Spitalul Clinic ""Doctor Ioan Cantacuzino""",Strada Ion Movilă 5-7,București,,023571,,+40212107100,,,Yes,,44.4449545,26.1093263
+240,10240,Spitalul Clinic C.F. Constanța,,Constanța,,,,,,,,,44.1738648,28.651106
+241,10241,Spitalul Clinic C.F. Nr. 2,Bulevardul Mărăști 62,București,,012103,,,,,Yes,,44.473797,26.0691431
+242,10242,Spitalul Clinic Colentina,Șoseaua Ștefan cel Mare 19-21,București,,023571,,+4 021 3173245,,,No,,44.4546577,26.1154528
 243,10243,Spitalul Clinic Căi Ferate,,Oradea,Bihor,410065,,,,,,,47.0671585,21.9352689
-244,10244,Spitalul Clinic Căi Ferate,Splaiul Tudor Vladimirescu 13-15,Timișoara,Timiș,300002,,+40 256 493 088,,,,,45.7495125,21.2179142
-245,10245,Spitalul Clinic Dr CI Parhon,,Iași,Iași,700503,,,,,,,47.1800168,27.5681719
+244,10244,Spitalul Clinic Căi Ferate,Splaiul Tudor Vladimirescu 13-15,Timișoara,,300002,,+40 256 493 088,,,,,45.7495125,21.2179142
+245,10245,Spitalul Clinic Dr CI Parhon,,Iași,,700503,,,,,,,47.1800168,27.5681719
 246,10246,Spitalul Clinic Județean - Clinica de Pediatrie,Strada Pompeiu Onofreiu 2 - 4,Sibiu,Sibiu,550009,,,,,,,45.7952233,24.1549511
 247,10247,Spitalul Clinic Județean de Urgentă,,Sibiu,Sibiu,550009,,,,,,,45.7942078,24.1547703
-248,10248,"Spitalul Clinic Județean de Urgențe ""Sf. Spiridon""",Bulevardul Independenței 1,Iași,Iași,700098,,0232-240822,,,Yes,,47.1679519,27.5811326
+248,10248,"Spitalul Clinic Județean de Urgențe ""Sf. Spiridon""",Bulevardul Independenței 1,Iași,,700098,,0232-240822,,,Yes,,47.1679519,27.5811326
 249,10249,Spitalul Clinic Județean de Urgență,Strada Clinicilor nan,Cluj-Napoca,Cluj,400006,,,,,Yes,,46.7658775,23.5830532
 250,10250,Spitalul Clinic Județean de Urgență,,Deva,Hunedoara,330088,,,,,Yes,,45.8772699,22.9044186
 251,10251,Spitalul Clinic Județean de Urgență,Strada Tabaci 1,Craiova,Dolj,200642,,,,,Yes,,44.3066944,23.792401
 252,10252,Spitalul Clinic Județean de Urgență Cluj,,Cluj-Napoca,Cluj,400006,,,,,Yes,,46.7656239,23.5818652
-253,10253,Spitalul Clinic Județean de Urgență Pius Brînzeu,Bulevardul Dr. Iosif Bulbucă (Liviu Rebreanu) 156,Timișoara,Timiș,300002,,,,,Yes,,45.7366392,21.2435394
-254,10254,Spitalul Clinic Județean de Urgență „Sf. Apostol Andrei” Constanța,Bulevardul Tomis 145,Constanța,Constanța,900612,,,,,,,44.1867919,28.6407109
+253,10253,Spitalul Clinic Județean de Urgență Pius Brînzeu,Bulevardul Dr. Iosif Bulbucă (Liviu Rebreanu) 156,Timișoara,,300002,,,,,Yes,,45.7366392,21.2435394
+254,10254,Spitalul Clinic Județean de Urgență „Sf. Apostol Andrei” Constanța,Bulevardul Tomis 145,Constanța,,900612,,,,,,,44.1867919,28.6407109
 255,10255,Spitalul Clinic Municipal,Strada Mihai Viteazul 7-8,Arad,Arad,310182,,,,,,,46.1798407,21.3159401
 256,10256,Spitalul Clinic Municipal Dr. Gavril Curteanu,,Oradea,Bihor,410065,,,,,No,,47.0752818,21.9171303
 257,10257,Spitalul Clinic Municipal Filantropia,,Craiova,Dolj,200136,,,,,,,44.3226986,23.7932327
-258,10258,Spitalul Clinic Nicolae Malaxa,Șoseaua Vergului 12,București,București,030171,,,,,,,44.4384233,26.1783545
+258,10258,Spitalul Clinic Nicolae Malaxa,Șoseaua Vergului 12,București,,030171,,,,,,,44.4384233,26.1783545
 259,10259,Spitalul Clinic Nr.2 Filantropia,Strada Filantropiei 1,Craiova,Dolj,200581,,,,,,,44.3215714,23.7924603
-260,10260,Spitalul Clinic Profesor Doctor Theodor Burghele,,București,București,051521,,,,,,,44.425606,26.0722353
+260,10260,Spitalul Clinic Profesor Doctor Theodor Burghele,,București,,051521,,,,,,,44.425606,26.0722353
 261,10261,"Spitalul Clinic de Adulți Secția Clinică Obstetrica-Ginecologie II ""Dominic Stanca""",Bulevardul 21 Decembrie 1989 53-55,Cluj-Napoca,Cluj,400119,,,,,,,46.7744183,23.5999358
 262,10262,"Spitalul Clinic de Adulți Secția Clinică Obstetrica-Ginecologie II ""Dominic Stanca""",Strada Paris 2,Cluj-Napoca,Cluj,400119,,,,,,,46.7743398,23.5999931
-263,10263,Spitalul Clinic de Boli Infecțioase,Bulevardul Ferdinand 100,Constanța,Constanța,900711,,,,,,,44.1706162,28.6371628
+263,10263,Spitalul Clinic de Boli Infecțioase,Bulevardul Ferdinand 100,Constanța,,900711,,,,,,,44.1706162,28.6371628
 264,10264,Spitalul Clinic de Boli Infecțioase,Strada Iuliu Moldovan 23,Cluj-Napoca,Cluj,400348,,,,,,,46.7606932,23.5830973
-265,10265,Spitalul Clinic de Boli Infecțioase și Pneumoftiziologie Dr. Victor Babeș,Strada Gheorghe Adam 13,Timișoara,Timiș,300002,,,,,Yes,,45.7689955,21.2603163
+265,10265,Spitalul Clinic de Boli Infecțioase și Pneumoftiziologie Dr. Victor Babeș,Strada Gheorghe Adam 13,Timișoara,,300002,,,,,Yes,,45.7689955,21.2603163
 266,10266,Spitalul Clinic de Boli Infecțioase și Pneumoftiziologie Dr. Victor Babeș,Calea București 126,Craiova,Dolj,200515,,,,,,,44.3149227,23.8246033
-267,10267,Spitalul Clinic de Boli Infecțioase “Sfânta Parascheva”,,Iași,Iași,700115,,,,,,,47.1710315,27.5833191
-268,10268,"Spitalul Clinic de Chirurgie Oro-Maxilo-Facială ""Prof. Dr. Dan Theodorescu""",Calea Plevnei 17-21,București,București,010221,,,,,,,44.4358189,26.0852229
-269,10269,Spitalul Clinic de Nefrologie Dr. Carol Davila,,București,București,010731,,,,,,,44.4443743,26.0894303
+267,10267,Spitalul Clinic de Boli Infecțioase “Sfânta Parascheva”,,Iași,,700115,,,,,,,47.1710315,27.5833191
+268,10268,"Spitalul Clinic de Chirurgie Oro-Maxilo-Facială ""Prof. Dr. Dan Theodorescu""",Calea Plevnei 17-21,București,,010221,,,,,,,44.4358189,26.0852229
+269,10269,Spitalul Clinic de Nefrologie Dr. Carol Davila,,București,,010731,,,,,,,44.4443743,26.0894303
 270,10270,Spitalul Clinic de Neurologie și Psihiatrie,,Oradea,Bihor,410065,,,,,,,47.0635438,21.9448908
 271,10271,Spitalul Clinic de Neuropsihiatrie,Calea București 99,Craiova,Dolj,200472,,0251431189,,,,,44.3174294,23.8154514
-272,10272,Spitalul Clinic de Obstetrică-Ginecologie Dr. Dumitru Popescu,Bulevardul 16 Decembrie 1989 22-24,Timișoara,Timiș,300002,,,,,,,45.744701,21.2146799
+272,10272,Spitalul Clinic de Obstetrică-Ginecologie Dr. Dumitru Popescu,Bulevardul 16 Decembrie 1989 22-24,Timișoara,,300002,,,,,,,45.744701,21.2146799
 273,10273,Spitalul Clinic de Ortopedie,Strada General Traian Moșoiu nan,Cluj-Napoca,Cluj,400121,,,,,,,46.7712196,23.6046608
-274,10274,"Spitalul Clinic de Ortopedie ""Foișor"" - Ambulator",Bulevardul Ferdinand I 35,București,București,023571,,,,,,,44.440796,26.1215769
-275,10275,Spitalul Clinic de Pneumoftiziologie Brașov - Pavilionul I,Aleea Dealul Spirii 12,Brașov,Brașov,500030,,0268477011,,,,,45.6429493,25.5736522
-276,10276,Spitalul Clinic de Pneumoftiziologie Constanța,Strada Sentinelei 40,Constanța,Constanța,900002,,,,,,,44.2317851,28.6085487
-277,10277,Spitalul Clinic de Pneumologie,,Iași,Iași,700313,,,,,,,47.1554474,27.6094451
-278,10278,Spitalul Clinic de Psihiatrie Socola,nan 36,Iași,Iași,700280,,,,,,,47.1307568,27.6137204
-279,10279,Spitalul Clinic de Psihiatrie “Prof. Dr. Alexandru Obregia”,,București,București,,,,,,Yes,,44.3863938,26.1281487
+274,10274,"Spitalul Clinic de Ortopedie ""Foișor"" - Ambulator",Bulevardul Ferdinand I 35,București,,023571,,,,,,,44.440796,26.1215769
+275,10275,Spitalul Clinic de Pneumoftiziologie Brașov - Pavilionul I,Aleea Dealul Spirii 12,Brașov,,500030,,0268477011,,,,,45.6429493,25.5736522
+276,10276,Spitalul Clinic de Pneumoftiziologie Constanța,Strada Sentinelei 40,Constanța,,900002,,,,,,,44.2317851,28.6085487
+277,10277,Spitalul Clinic de Pneumologie,,Iași,,700313,,,,,,,47.1554474,27.6094451
+278,10278,Spitalul Clinic de Psihiatrie Socola,nan 36,Iași,,700280,,,,,,,47.1307568,27.6137204
+279,10279,Spitalul Clinic de Psihiatrie “Prof. Dr. Alexandru Obregia”,,București,,,,,,,Yes,,44.3863938,26.1281487
 280,10280,Spitalul Clinic de Urgenta pentru copii Cluj-Napoca Neonatologie-prematuri,Strada Donath 172,Cluj-Napoca,Cluj,400331,,,,,,,46.7674114,23.5464858
-281,10281,Spitalul Clinic de Urgențe Oftalmologice,Piața Lahovari 1,București,București,010465,,,,,Yes,,44.4459748,26.1000622
-282,10282,Spitalul Clinic de Urgențe Tătărași,Strada Ion Creangă 94,Iași,Iași,700321,,,,,,,47.1608815,27.6164654
-283,10283,"Spitalul Clinic de Urgență ""Bagdasar-Arsenie""",,București,București,,,,,,Yes,,44.3851108,26.1293482
-284,10284,"Spitalul Clinic de Urgență ""Bagdasar-Arsenie""",,București,București,,,,,,Yes,,44.385489,26.1276861
-285,10285,"Spitalul Clinic de Urgență ""Prof. Dr. Nicolae Oblu""",Strada Ateneului 2,Iași,Iași,700309,,+40 232 264271;+40 232 473020,,,Yes,,47.1613322,27.6076341
+281,10281,Spitalul Clinic de Urgențe Oftalmologice,Piața Lahovari 1,București,,010465,,,,,Yes,,44.4459748,26.1000622
+282,10282,Spitalul Clinic de Urgențe Tătărași,Strada Ion Creangă 94,Iași,,700321,,,,,,,47.1608815,27.6164654
+283,10283,"Spitalul Clinic de Urgență ""Bagdasar-Arsenie""",,București,,,,,,,Yes,,44.3851108,26.1293482
+284,10284,"Spitalul Clinic de Urgență ""Bagdasar-Arsenie""",,București,,,,,,,Yes,,44.385489,26.1276861
+285,10285,"Spitalul Clinic de Urgență ""Prof. Dr. Nicolae Oblu""",Strada Ateneului 2,Iași,,700309,,+40 232 264271;+40 232 473020,,,Yes,,47.1613322,27.6076341
 286,10286,Spitalul Clinic de Urgență Arad,,Arad,Arad,310182,,,,,,,46.1843755,21.3095887
 287,10287,Spitalul Clinic de Urgență Avram Iancu,,Oradea,Bihor,410065,,,,,,,47.0624146,21.9366007
-288,10288,"Spitalul Clinic de Urgență Chirurgie Plastică, Reparatorie și Arsuri",,București,București,012196,,,,,,,44.4642626,26.0564588
+288,10288,"Spitalul Clinic de Urgență Chirurgie Plastică, Reparatorie și Arsuri",,București,,012196,,,,,,,44.4642626,26.0564588
 289,10289,"Spitalul Clinic de Urgență Militar ""Dr. Ștefan Odobleja""",Strada Caracal 150,Craiova,Dolj,200317,,0251581081,,,,,44.302218,23.8194946
 290,10290,Spitalul Clinic de Urgență Prof. Dr. Agrippa Ionescu,Strada Ion Constantin Brătianu 149,Balotești,Ilfov,077016,,,,,Yes,,44.6460536,26.1192578
-291,10291,Spitalul Clinic de Urgență Sfântul Ioan,Șoseaua Vitan-Bârzești 13,București,București,030171,,+40213345075,,,Yes,,44.3916272,26.1427626
-292,10292,Spitalul Clinic de Urgență pentru Copii Louis Țurcanu,,Timișoara,Timiș,300002,,,,,Yes,,45.7541313,21.2213879
-293,10293,Spitalul Clinic de Urgență pentru Copii „Grigore Alexandrescu”,Bulevardul Iancu de Hunedoara nan,București,București,,,,,,Yes,,44.4522542,26.0904944
-294,10294,Spitalul Clinic nr.1 C.F. Witing,Calea Plevnei 162-164,București,București,060941,,,,,Yes,,44.4423803,26.0716359
+291,10291,Spitalul Clinic de Urgență Sfântul Ioan,Șoseaua Vitan-Bârzești 13,București,,030171,,+40213345075,,,Yes,,44.3916272,26.1427626
+292,10292,Spitalul Clinic de Urgență pentru Copii Louis Țurcanu,,Timișoara,,300002,,,,,Yes,,45.7541313,21.2213879
+293,10293,Spitalul Clinic de Urgență pentru Copii „Grigore Alexandrescu”,Bulevardul Iancu de Hunedoara nan,București,,,,,,,Yes,,44.4522542,26.0904944
+294,10294,Spitalul Clinic nr.1 C.F. Witing,Calea Plevnei 162-164,București,,060941,,,,,Yes,,44.4423803,26.0716359
 295,10295,Spitalul Ecomed - Vintilă Vodă,,Vintilă Vodă,Buzău,127695,,,,,,,45.4586215,26.7425296
 296,10296,Spitalul Elena Beldiman,,Bârlad,Vaslui,731085,,,,,,,46.2352539,27.6715602
-297,10297,Spitalul Filantropia,,București,București,011141,,,,,,,44.4526353,26.082404
-298,10298,Spitalul Fundeni,,București,București,023571,,,,,,,44.4655861,26.1578509
-299,10299,Spitalul Grecescu,,Drobeta-Turnu Severin,Mehedinti,220097,,,,,,,44.6241305,22.6442098
+297,10297,Spitalul Filantropia,,București,,011141,,,,,,,44.4526353,26.082404
+298,10298,Spitalul Fundeni,,București,,023571,,,,,,,44.4655861,26.1578509
+299,10299,Spitalul Grecescu,,Drobeta-Turnu Severin,,220097,,,,,,,44.6241305,22.6442098
 300,10300,Spitalul Huedin,Strada Spitalului 42,Huedin,Cluj,405400,,,,,,,46.8627407,23.0152743
 301,10301,Spitalul Județean,,Suceava,Suceava,720224,,,,,Yes,,47.6393056,26.2406942
-302,10302,Spitalul Județean Dâmbovița,,Târgoviște,Dâmbovița,130007,,,,,,,44.9242085,25.4501612
-303,10303,Spitalul Județean Ialomița,,Slobozia,Ialomița,920014,,,,,Yes,,44.5682022,27.3596604
-304,10304,Spitalul Județean Ilfov,,București,București,023571,,,,,,,44.4349966,26.1560953
+302,10302,Spitalul Județean Dâmbovița,,Târgoviște,,130007,,,,,,,44.9242085,25.4501612
+303,10303,Spitalul Județean Ialomița,,Slobozia,,920014,,,,,Yes,,44.5682022,27.3596604
+304,10304,Spitalul Județean Ilfov,,București,,023571,,,,,,,44.4349966,26.1560953
 305,10305,Spitalul Județean Sălaj,,Zalău,Sălaj,450090,,,,,,,47.1929082,23.0503571
-306,10306,Spitalul Județean de Urgență,,Drobeta-Turnu Severin,Mehedinti,220067,,0252/313751,,,,,44.6437003,22.6512094
+306,10306,Spitalul Județean de Urgență,,Drobeta-Turnu Severin,,220067,,0252/313751,,,,,44.6437003,22.6512094
 307,10307,Spitalul Județean de Urgență - Vâlcea,,Râmnicu Vâlcea,Vâlcea,240749,,,,,,,45.1180125,24.3603645
-308,10308,Spitalul Județean de Urgență Dr. Constantin Opriș,,Baia Mare,Maramureș,430242,,,,,,,47.6558136,23.5523972
-309,10309,Spitalul Județean de Urgență Pitești,Aleea Spitalului 36,Pitești,Argeș,110284,,0248287150,,,Yes,,44.8715527,24.8466626
-310,10310,"Spitalul Județean de Urgență Pitești, Pavilion Secția Oncologie",Bulevardul I. C. Brătianu 62,Pitești,Argeș,110117,,,,,Yes,,44.8618744,24.8700457
-311,10311,"Spitalul Județean de Urgență Pitești, Secția Boli Infecțioase",Bulevardul I. C. Brătianu 56,Pitești,Argeș,110121,,,,,Yes,,44.8611094,24.8695372
-312,10312,"Spitalul Județean de Urgență Pitești, Secțiile Oftalmologie, Psihiatrie și Pneumologie",Strada Negru Vodă 53,Pitești,Argeș,110065,,,,,Yes,,44.866299,24.8590499
-313,10313,Spitalul Județean de Urgență Reșița,,Reșița,Caraș-severin,,,,,,,,45.3253823,21.8803262
+308,10308,Spitalul Județean de Urgență Dr. Constantin Opriș,,Baia Mare,,430242,,,,,,,47.6558136,23.5523972
+309,10309,Spitalul Județean de Urgență Pitești,Aleea Spitalului 36,Pitești,,110284,,0248287150,,,Yes,,44.8715527,24.8466626
+310,10310,"Spitalul Județean de Urgență Pitești, Pavilion Secția Oncologie",Bulevardul I. C. Brătianu 62,Pitești,,110117,,,,,Yes,,44.8618744,24.8700457
+311,10311,"Spitalul Județean de Urgență Pitești, Secția Boli Infecțioase",Bulevardul I. C. Brătianu 56,Pitești,,110121,,,,,Yes,,44.8611094,24.8695372
+312,10312,"Spitalul Județean de Urgență Pitești, Secțiile Oftalmologie, Psihiatrie și Pneumologie",Strada Negru Vodă 53,Pitești,,110065,,,,,Yes,,44.866299,24.8590499
+313,10313,Spitalul Județean de Urgență Reșița,,Reșița,,,,,,,,,45.3253823,21.8803262
 314,10314,Spitalul Județean de Urgență Slatina,,Slatina,Olt,230027,,,,,,,44.432149,24.3681746
 315,10315,Spitalul Județean de urgență Sf. Spiridon,,Brăila,Brăila,810249,,,,,Yes,,45.2578616,27.9529593
-316,10316,Spitalul Maria Sklodowska Curie (de copii) - Budimex,Bulevardul Constantin Brâncoveanu nan,București,București,041406,,,,,Yes,,44.3896324,26.1089945
-317,10317,Spitalul Mavromati,Strada Arhimandrit Marchian 11,Botoșani,Botoșani,710357,,,,,Yes,,47.7422144,26.6615309
+316,10316,Spitalul Maria Sklodowska Curie (de copii) - Budimex,Bulevardul Constantin Brâncoveanu nan,București,,041406,,,,,Yes,,44.3896324,26.1089945
+317,10317,Spitalul Mavromati,Strada Arhimandrit Marchian 11,Botoșani,,710357,,,,,Yes,,47.7422144,26.6615309
 318,10318,Spitalul Militar,,Cluj-Napoca,Cluj,400132,,,,,,,46.7694348,23.6017672
-319,10319,Spitalul Militar,,Iași,Iași,700483,,,,,,,47.1734909,27.5744181
+319,10319,Spitalul Militar,,Iași,,700483,,,,,,,47.1734909,27.5744181
 320,10320,Spitalul Militar,Strada Cezar Bolliac 3-5,Focșani,Vrancea,620077,,,,,,,45.6968576,27.1900319
 321,10321,Spitalul Militar de Urgențe “Dr. Alexandru Augustin” Sibiu,Bulevardul Victoriei 46,Sibiu,Sibiu,550009,,,,,,,45.7842809,24.1390507
-322,10322,"Spitalul Militar de Urgență ""Dr. Aristide Serfioti""",Strada Traian 199,Galați,Galați,800150,,,,,,,45.4509906,28.0430112
-323,10323,Spitalul Militar de Urgență Constanța,Bulevardul Mamaia 96,Constanța,Constanța,900527,,,,,,,44.1898705,28.6515365
-324,10324,Spitalul Militar de Urgență „Dr. Ion Jianu”,Strada Negru Vodă 47,Pitești,Argeș,110069,,,,,Yes,,44.8647656,24.8611518
-325,10325,Spitalul Monza,,București,București,023571,,,,,No,,44.439052,26.1485609
+322,10322,"Spitalul Militar de Urgență ""Dr. Aristide Serfioti""",Strada Traian 199,Galați,,800150,,,,,,,45.4509906,28.0430112
+323,10323,Spitalul Militar de Urgență Constanța,Bulevardul Mamaia 96,Constanța,,900527,,,,,,,44.1898705,28.6515365
+324,10324,Spitalul Militar de Urgență „Dr. Ion Jianu”,Strada Negru Vodă 47,Pitești,,110069,,,,,Yes,,44.8647656,24.8611518
+325,10325,Spitalul Monza,,București,,023571,,,,,No,,44.439052,26.1485609
 326,10326,Spitalul Municipal,Strada Sirenei nan,Câmpulung Moldovenesc,Suceava,725100,,,,,,,47.5324823,25.5432236
 327,10327,Spitalul Municipal,,Gheorgheni,Harghita,535500,,,,,,,46.7234476,25.6015691
-328,10328,Spitalul Municipal,,Târnăveni,Mureș,545600,,,,,,,46.3301232,24.293997
+328,10328,Spitalul Municipal,,Târnăveni,,545600,,,,,,,46.3301232,24.293997
 329,10329,Spitalul Municipal,,Ploiești,Prahova,100028,,,,,,,44.9317692,26.0197179
 330,10330,Spitalul Municipal,,Mediaș,Sibiu,551025,,,,,,,46.1640984,24.3562038
 331,10331,Spitalul Municipal,Strada Sirenei nan,Câmpulung Moldovenesc,Suceava,725100,,,,,,,47.5326974,25.54381
-332,10332,Spitalul Municipal,,Târgoviște,Dâmbovița,130007,,,,,,,44.9196511,25.4577661
-333,10333,Spitalul Municipal,,Lugoj,Timiș,305500,,,,,,,45.6931465,21.8890667
+332,10332,Spitalul Municipal,,Târgoviște,,130007,,,,,,,44.9196511,25.4577661
+333,10333,Spitalul Municipal,,Lugoj,,305500,,,,,,,45.6931465,21.8890667
 334,10334,Spitalul Municipal,,Beiuș,Bihor,415200,,,,,,,46.6694179,22.3492329
-335,10335,Spitalul Municipal,Strada George Emil Palade 5,Mangalia,Constanța,905500,,,,,Yes,,43.8199347,28.5880518
+335,10335,Spitalul Municipal,Strada George Emil Palade 5,Mangalia,,905500,,,,,Yes,,43.8199347,28.5880518
 336,10336,Spitalul Municipal,Strada Nicolae Bălcescu 2,Râmnicu Sărat,Buzău,125300,,,,,,,45.37926,27.0507508
 337,10337,Spitalul Municipal Aiud,,Aiud,Alba,515200,,,,,,,46.3076924,23.7229517
-338,10338,Spitalul Municipal Anghel Saligny Fetesti,,Fetești,Ialomița,925100,,,,,,,44.4085079,27.8272396
+338,10338,Spitalul Municipal Anghel Saligny Fetesti,,Fetești,,925100,,,,,,,44.4085079,27.8272396
 339,10339,Spitalul Municipal Calafat,Strada Traian 5,Calafat,Dolj,205200,,0251230606,,,Yes,,43.9945049,22.9451648
-340,10340,Spitalul Municipal Clinicile Noi,Strada Gheorghe Dima 5,Timișoara,Timiș,300002,,,,,Yes,,45.7600362,21.2267758
-341,10341,Spitalul Municipal Curtea de Argeș,Strada Cuza Vodă 6-8,Curtea de Argeș,Argeș,115300,,,,,Yes,,45.1497909,24.678048
+340,10340,Spitalul Municipal Clinicile Noi,Strada Gheorghe Dima 5,Timișoara,,300002,,,,,Yes,,45.7600362,21.2267758
+341,10341,Spitalul Municipal Curtea de Argeș,Strada Cuza Vodă 6-8,Curtea de Argeș,,115300,,,,,Yes,,45.1497909,24.678048
 342,10342,Spitalul Municipal Câmpina,Bulevardul Carol I 117,Câmpina,Prahova,105600,,,,,Yes,,45.1279657,25.7324997
 343,10343,Spitalul Municipal Dr. Alexandru Simionescu Hunedoara,Strada Victoriei 19,Hunedoara,Hunedoara,331079,,,,,Yes,,45.7505611,22.9051789
-344,10344,Spitalul Municipal Dr. Aurel Tulbure,,Făgăraș,Brașov,505200,,,,,Yes,,45.8404604,24.9586302
-345,10345,Spitalul Municipal Fetesti,,Fetești,Ialomița,925100,,,,,Yes,,44.4087321,27.8275408
+344,10344,Spitalul Municipal Dr. Aurel Tulbure,,Făgăraș,,505200,,,,,Yes,,45.8404604,24.9586302
+345,10345,Spitalul Municipal Fetesti,,Fetești,,925100,,,,,Yes,,44.4087321,27.8275408
 346,10346,Spitalul Municipal Filantropia,Strada Sărarilor 28,Craiova,Dolj,200516,,,,,,,44.3139433,23.8256429
 347,10347,Spitalul Municipal Gherla,,Gherla,Cluj,405300,,,,,Yes,,47.0243802,23.90393
 348,10348,Spitalul Municipal Moinești,,Moinești,Bacău,605400,,,,,Yes,,46.4768969,26.488253
-349,10349,Spitalul Municipal Moreni,,Moreni,Dâmbovița,135300,,,,,Yes,,44.9780458,25.6466378
+349,10349,Spitalul Municipal Moreni,,Moreni,,135300,,,,,Yes,,44.9780458,25.6466378
 350,10350,Spitalul Municipal Motru,,Motru,Gorj,215200,,,,,,,44.8034758,22.97379
 351,10351,Spitalul Municipal Odorheiu Secuiesc,,Odorheiu Secuiesc,Harghita,535600,,,,,Yes,,46.3067846,25.2997939
 352,10352,Spitalul Municipal Onești Sfântul Ierarh Doctor Luca,Strada Perchiului 1,Onești,Bacău,,,+40234323111,,,,,46.2556671,26.7645768
@@ -356,141 +356,141 @@
 354,10354,Spitalul Municipal Salonta,,Salonta,Bihor,415500,,,,,,,46.8040383,21.6687814
 355,10355,Spitalul Municipal Satu Mare,,Satu Mare,Satu Mare,440014,,,,,,,47.7985985,22.8719044
 356,10356,Spitalul Municipal Sebeș,,Sebeș,Alba,515800,,,,,Yes,,45.9510827,23.5684148
-357,10357,Spitalul Municipal Sighetul Marmației,,Sighetu Marmației,Maramureș,435500,,,,,Yes,,47.9270876,23.8776611
+357,10357,Spitalul Municipal Sighetul Marmației,,Sighetu Marmației,,435500,,,,,Yes,,47.9270876,23.8776611
 358,10358,Spitalul Municipal Turda,,Turda,Cluj,401174,,,,,,,46.579649,23.7763439
-359,10359,Spitalul Municipal Târgoviște,,Târgoviște,Dâmbovița,130007,,,,,,,44.9199663,25.4575916
-360,10360,Spitalul Municipal Urziceni,Strada Teilor 3,Urziceni,Ialomița,925300,,,,,,,44.7115072,26.6485576
-361,10361,Spitalul Municipal de Urgență,,Caransebeș,Caraș-severin,325400,,,,,,,45.4121002,22.227349
-362,10362,Spitalul Municipla Codlea,,Codlea,Brașov,505100,,,,,,,45.7024076,25.4469717
-363,10363,Spitalul Mârzescu,,Brașov,Brașov,500030,,,,,,,45.6521855,25.5965809
+359,10359,Spitalul Municipal Târgoviște,,Târgoviște,,130007,,,,,,,44.9199663,25.4575916
+360,10360,Spitalul Municipal Urziceni,Strada Teilor 3,Urziceni,,925300,,,,,,,44.7115072,26.6485576
+361,10361,Spitalul Municipal de Urgență,,Caransebeș,,325400,,,,,,,45.4121002,22.227349
+362,10362,Spitalul Municipla Codlea,,Codlea,,505100,,,,,,,45.7024076,25.4469717
+363,10363,Spitalul Mârzescu,,Brașov,,500030,,,,,,,45.6521855,25.5965809
 364,10364,Spitalul Ocna Mureș,,Ocna Mureș,Alba,515700,,,,,,,46.3794467,23.8604145
 365,10365,Spitalul Orasenesc Covasna,,Covasna,Covasna,525200,,,,,,,45.8439523,26.1623109
-366,10366,Spitalul Orășenesc,nan 35,Târgu Neamț,Neamț,615200,,,,,,,47.2071905,26.3578738
+366,10366,Spitalul Orășenesc,nan 35,Târgu Neamț,,615200,,,,,,,47.2071905,26.3578738
 367,10367,Spitalul Orășenesc,,Drăgășani,Vâlcea,245700,,,,,No,,44.6594166,24.2611988
-368,10368,Spitalul Orășenesc,,Făget,Timiș,305300,,,,,,,45.8451529,22.1689169
-369,10369,Spitalul Orășenesc,Strada Sfânta Varvara 1,Moldova Nouă,Caraș-severin,325550,,,,,,,44.7267676,21.6226628
+368,10368,Spitalul Orășenesc,,Făget,,305300,,,,,,,45.8451529,22.1689169
+369,10369,Spitalul Orășenesc,Strada Sfânta Varvara 1,Moldova Nouă,,325550,,,,,,,44.7267676,21.6226628
 370,10370,Spitalul Orășenesc,Bulevardul Carpați nan,Corabia,Olt,235300,,,,,,,43.7735992,24.5091982
 371,10371,Spitalul Orășenesc Balș,,Balș,Olt,235100,,,,,,,44.3476232,24.1144018
 372,10372,Spitalul Orășenesc Cugir,,Cugir,Alba,515600,,,,,,,45.8368809,23.3625885
 373,10373,Spitalul Orășenesc Gura Humorului,,Gura Humorului,Suceava,725300,,,,,Yes,,47.5550911,25.889265
 374,10374,Spitalul Orășenesc Hațeg,,Hațeg,Hunedoara,335500,,,,,,,45.6107031,22.9505373
-375,10375,Spitalul Orășenesc Hârlău,Strada Bogdan Vodă 15,Hârlău,Iași,705100,,,,,,,47.4313636,26.8966852
+375,10375,Spitalul Orășenesc Hârlău,Strada Bogdan Vodă 15,Hârlău,,705100,,,,,,,47.4313636,26.8966852
 376,10376,Spitalul Orășenesc Măcin,Strada Mircea Vodă 34,Măcin,Tulcea,825300,,,,,,,45.2455121,28.1348757
 377,10377,Spitalul Orășenesc Nehoiu,,Nehoiu,Buzău,125100,,,,,,,45.4196155,26.3003905
 378,10378,Spitalul Orășenesc Segarcea,Strada Unirii 50,Segarcea,Dolj,205400,,,,,,,44.0992131,23.7438444
 379,10379,Spitalul Orășenesc Slănic,Aleea Spitalului nan,Slănic,Prahova,237303,,,,,,,45.2408451,25.9395287
 380,10380,Spitalul Orășenesc Vălenii de Munte,,Vălenii de Munte,Prahova,106400,,,,,,,45.1774868,26.0351795
 381,10381,Spitalul Orășenesc Ștei,,Ștei,Bihor,415600,,,,,,,46.5355893,22.4593181
-382,10382,"Spitalul Panait Sârbu, Maternitate",,București,București,060941,,,,,,,44.449826,26.0599761
+382,10382,"Spitalul Panait Sârbu, Maternitate",,București,,060941,,,,,,,44.449826,26.0599761
 383,10383,Spitalul Pelican,,Oradea,Bihor,410065,,,,,,,47.0762803,21.9161302
-384,10384,Spitalul Polizu,Strada Gheorghe Polizu nan,București,București,011062,,,,,,,44.4473175,26.0807139
-385,10385,Spitalul Prof. Dr. Constantin Angelescu,Aleea Căuzași 49,București,București,030171,,,,,,,44.4278136,26.1127791
-386,10386,Spitalul Reghin,,Reghin,Mureș,545300,,,,,,,46.7820885,24.6948866
-387,10387,Spitalul Sfântul Constantin,,Brașov,Brașov,500030,,,,,,,45.6512104,25.6062565
+384,10384,Spitalul Polizu,Strada Gheorghe Polizu nan,București,,011062,,,,,,,44.4473175,26.0807139
+385,10385,Spitalul Prof. Dr. Constantin Angelescu,Aleea Căuzași 49,București,,030171,,,,,,,44.4278136,26.1127791
+386,10386,Spitalul Reghin,,Reghin,,545300,,,,,,,46.7820885,24.6948866
+387,10387,Spitalul Sfântul Constantin,,Brașov,,500030,,,,,,,45.6512104,25.6062565
 388,10388,Spitalul Sfântul Sava Buzău,Strada Crizantemelor 5,Buzău,Buzău,120194,,0238 712 607,,,,,45.1492302,26.8227071
-389,10389,Spitalul TBC,,Sighișoara,Mureș,545400,,,,,,,46.2231891,24.794438
+389,10389,Spitalul TBC,,Sighișoara,,545400,,,,,,,46.2231891,24.794438
 390,10390,Spitalul TBC,,Bârlad,Vaslui,731147,,,,,,,46.2258245,27.6630412
-391,10391,Spitalul TBC Sf Andrei,,Valea Iașului,Argeș,117795,,,,,,,45.186688,24.6907266
+391,10391,Spitalul TBC Sf Andrei,,Valea Iașului,,117795,,,,,,,45.186688,24.6907266
 392,10392,Spitalul TBC Titu Maiorescu,,Ghimpați,Giurgiu,087095,,,,,,,44.189827,25.7840465
-393,10393,Spitalul Tractorul,Strada Olteț 2,Brașov,Brașov,500030,,,,,,,45.665722,25.6076391
-394,10394,Spitalul Universitar de Urgență Militar Central „Dr. Carol Davila”,Calea Plevnei 134,București,București,060941,,,,,Yes,,44.4420564,26.0718695
+393,10393,Spitalul Tractorul,Strada Olteț 2,Brașov,,500030,,,,,,,45.665722,25.6076391
+394,10394,Spitalul Universitar de Urgență Militar Central „Dr. Carol Davila”,Calea Plevnei 134,București,,060941,,,,,Yes,,44.4420564,26.0718695
 395,10395,Spitalul Vechi,,Suceava,Suceava,720224,,,,,,,47.6374988,26.2420041
 396,10396,Spitalul Vechi,,Suceava,Suceava,720224,,,,,,,47.6379436,26.2414689
 397,10397,Spitalul Vechi,,Suceava,Suceava,720224,,,,,,,47.6380605,26.2416549
-398,10398,Spitalul Vișeu,,Vișeul de Sus,Maramureș,435700,,,,,,,47.7100659,24.4256596
-399,10399,"Spitalul clinic de copii ""dr. Victor Gomoiu""",,București,București,023571,,,,,,,44.4331945,26.1420128
-400,10400,Spitalul clinic de ginecologie Dr. Ioan Aurel Sbârcea - Brașov,Strada George Barițiu 36,Brașov,Brașov,500030,,,,,,,45.6405517,25.5848622
-401,10401,Spitalul clinic de urgență pentru copii „Sfânta Maria”,Strada Vasile Lupu 62,Iași,Iași,700309,,+40 232 264266,,,Yes,,47.1598106,27.606047
-402,10402,Spitalul de Boli Cronice și Geriatrie Sfântul Luca,,București,București,,,,,,,,44.3838258,26.1295504
+398,10398,Spitalul Vișeu,,Vișeul de Sus,,435700,,,,,,,47.7100659,24.4256596
+399,10399,"Spitalul clinic de copii ""dr. Victor Gomoiu""",,București,,023571,,,,,,,44.4331945,26.1420128
+400,10400,Spitalul clinic de ginecologie Dr. Ioan Aurel Sbârcea - Brașov,Strada George Barițiu 36,Brașov,,500030,,,,,,,45.6405517,25.5848622
+401,10401,Spitalul clinic de urgență pentru copii „Sfânta Maria”,Strada Vasile Lupu 62,Iași,,700309,,+40 232 264266,,,Yes,,47.1598106,27.606047
+402,10402,Spitalul de Boli Cronice și Geriatrie Sfântul Luca,,București,,,,,,,,,44.3838258,26.1295504
 403,10403,Spitalul de Boli Infecțioase,,Bârlad,Vaslui,,,,,,,,46.2357028,27.6705988
-404,10404,Spitalul de Boli Infecțioase,,Galați,Galați,800156,,,,,,,45.465173,28.0340118
-405,10405,Spitalul de Boli Infecțioase,,Galați,Galați,800198,,,,,,,45.4660297,28.0351359
-406,10406,Spitalul de Boli Infecțioase,,Brașov,Brașov,500030,,,,,,,45.656734,25.5975999
-407,10407,Spitalul de Boli Infecțioase,,Lugoj,Timiș,305500,,,,,,,45.6904245,21.8873927
+404,10404,Spitalul de Boli Infecțioase,,Galați,,800156,,,,,,,45.465173,28.0340118
+405,10405,Spitalul de Boli Infecțioase,,Galați,,800198,,,,,,,45.4660297,28.0351359
+406,10406,Spitalul de Boli Infecțioase,,Brașov,,500030,,,,,,,45.656734,25.5975999
+407,10407,Spitalul de Boli Infecțioase,,Lugoj,,305500,,,,,,,45.6904245,21.8873927
 408,10408,Spitalul de Boli Psihice Cronice Borșa,,Borșa,Cluj,407110,,,,,,,46.9328793,23.6558411
 409,10409,Spitalul de Boli infecțioase (copii),,Sibiu,Sibiu,550009,,,,,,,45.7907001,24.1396102
-410,10410,Spitalul de Bătrâni,,Teaca,Bistrița-năsăud,427345,,,,,,,46.911615,24.5048595
+410,10410,Spitalul de Bătrâni,,Teaca,,427345,,,,,,,46.911615,24.5048595
 411,10411,Spitalul de Chimilogie,,Muereasca,Vâlcea,247411,,,,,No,,45.2001425,24.2956288
 412,10412,Spitalul de Copii Sfântul Nicolae,,Bârlad,Vaslui,731126,,,,,,,46.2406856,27.6705296
 413,10413,Spitalul de Neurologie și Psihiatrie Carol Davila,FIXME 1-3,Alba Iulia,Alba,510009,,,,,,,46.0694495,23.5693592
 414,10414,Spitalul de Neuropsihiatrie,,Ștei,Bihor,415600,,,,,,,46.5480368,22.4652181
 415,10415,Spitalul de Neuropsihiatrie Săpoca,,Săpoca,Buzău,127540,,,,,,,45.2379591,26.7455858
 416,10416,Spitalul de Obstetrică și Ginecologie,Bulevardul Independenței 296,Brăila,Brăila,810108,,,,,,,45.280282,27.9727262
-417,10417,Spitalul de Obstetrică și Ginecologie,Bulevardul George Enescu 6,Botoșani,Botoșani,710357,,0231 584 017,,,Yes,,47.7406388,26.6544283
-418,10418,Spitalul de Ortopedie MedLife,Bulevardul Ferdinand I 98-100,București,București,023571,,,,,,,44.4429344,26.1279705
+417,10417,Spitalul de Obstetrică și Ginecologie,Bulevardul George Enescu 6,Botoșani,,710357,,0231 584 017,,,Yes,,47.7406388,26.6544283
+418,10418,Spitalul de Ortopedie MedLife,Bulevardul Ferdinand I 98-100,București,,023571,,,,,,,44.4429344,26.1279705
 419,10419,"Spitalul de Pediatrie ""Luther""",,Sibiu,Sibiu,550009,,,,,,,45.7930512,24.1474232
-420,10420,Spitalul de Pediatrie Pitești,Bulevardul Eroilor 1,Pitești,Argeș,110416,,,,,Yes,,44.8503574,24.865557
-421,10421,Spitalul de Pneumoftiziologie,Strada Trandafirilor 24,Botoșani,Botoșani,710357,,0231-584083,,,Yes,,47.7351407,26.6639864
-422,10422,Spitalul de Pneumoftiziologie,,Baia Mare,Maramureș,430242,,,,,,,47.6622537,23.5524573
-423,10423,Spitalul de Pneumoftiziologie,,Brașov,Brașov,500030,,,,,,,45.652347,25.5985618
-424,10424,"Spitalul de Pneumoftiziologie Galați, TBC",Strada Științei 117,Galați,Galați,800170,,,,,,,45.4564206,28.0436175
-425,10425,Spitalul de Pneumoftiziologie Marius Nasta,,București,București,051521,,,,,,,44.4066722,26.0932848
-426,10426,Spitalul de Pneumoftiziologie Sfântul Ștefan,Strada Dinu Vintilă 1,București,București,023571,,,,,,,44.4538434,26.1052969
-427,10427,Spitalul de Psihiatrie,Strada I.C. Brătianu 116,Botoșani,Botoșani,710357,,,,,Yes,,47.7329011,26.6903534
+420,10420,Spitalul de Pediatrie Pitești,Bulevardul Eroilor 1,Pitești,,110416,,,,,Yes,,44.8503574,24.865557
+421,10421,Spitalul de Pneumoftiziologie,Strada Trandafirilor 24,Botoșani,,710357,,0231-584083,,,Yes,,47.7351407,26.6639864
+422,10422,Spitalul de Pneumoftiziologie,,Baia Mare,,430242,,,,,,,47.6622537,23.5524573
+423,10423,Spitalul de Pneumoftiziologie,,Brașov,,500030,,,,,,,45.652347,25.5985618
+424,10424,"Spitalul de Pneumoftiziologie Galați, TBC",Strada Științei 117,Galați,,800170,,,,,,,45.4564206,28.0436175
+425,10425,Spitalul de Pneumoftiziologie Marius Nasta,,București,,051521,,,,,,,44.4066722,26.0932848
+426,10426,Spitalul de Pneumoftiziologie Sfântul Ștefan,Strada Dinu Vintilă 1,București,,023571,,,,,,,44.4538434,26.1052969
+427,10427,Spitalul de Psihiatrie,Strada I.C. Brătianu 116,Botoșani,,710357,,,,,Yes,,47.7329011,26.6903534
 428,10428,Spitalul de Psihiatrie,,Satu Mare,Satu Mare,440014,,,,,,,47.7991135,22.8717807
 429,10429,Spitalul de Psihiatrie,Strada Trandafirilor nan,Câmpulung Moldovenesc,Suceava,725100,,,,,,,47.5275872,25.5601949
 430,10430,"Spitalul de Psihiatrie ""Dr. Gheorghe Preda""",,Sibiu,Sibiu,550009,,,,,,,45.8086656,24.1548904
 431,10431,Spitalul de Psihiatrie Cronici Schitu Greci,Strada Satul Nou 2,Schitu,Olt,237400,,,,,,,44.3195055,24.5454771
-432,10432,Spitalul de Psihiatrie Palazu Mare,Strada Santinelei 27-29,Constanța,Constanța,900002,,,,,,,44.2338519,28.5987839
+432,10432,Spitalul de Psihiatrie Palazu Mare,Strada Santinelei 27-29,Constanța,,900002,,,,,,,44.2338519,28.5987839
 433,10433,Spitalul de Psihiatrie Poiana Mare,Strada Gării 40,Poiana Mare,Dolj,207470,,0251/23.52.99,,,Yes,,43.9324865,23.0670924
 434,10434,Spitalul de Psihiatrie Sapoca,,Măgura,Buzău,127320,,,,,,,45.2622106,26.5543271
-435,10435,Spitalul de Psihiatrie Sânpetru,DJ103 nan,Sânpetru,Brașov,507190,,,,,,,45.7291003,25.6280328
-436,10436,Spitalul de Recuperare Sfântul Gheorghe,Calea Națională 2,Botoșani,Botoșani,710357,,,,,,,47.7538363,26.6364006
-437,10437,Spitalul de Urgenta Prof. Dr. Agrippa Ionescu,,București,București,011358,,,,,,,44.4588319,26.0795122
+435,10435,Spitalul de Psihiatrie Sânpetru,DJ103 nan,Sânpetru,,507190,,,,,,,45.7291003,25.6280328
+436,10436,Spitalul de Recuperare Sfântul Gheorghe,Calea Națională 2,Botoșani,,710357,,,,,,,47.7538363,26.6364006
+437,10437,Spitalul de Urgenta Prof. Dr. Agrippa Ionescu,,București,,011358,,,,,,,44.4588319,26.0795122
 438,10438,Spitalul de Urgență,Strada 1 Decembrie 1918 137 A,Petroșani,Hunedoara,332019,,,,,Yes,,45.4072619,23.3761181
 439,10439,Spitalul de Urgență,Strada 1 Decembrie 1918 137 A,Petroșani,Hunedoara,332019,,,,,,,45.4072619,23.3761181
-440,10440,"Spitalul de Urgență ""Prof. Dr. Dimitrie Gerota""",,București,București,023571,,,,,,,44.4411881,26.123447
+440,10440,"Spitalul de Urgență ""Prof. Dr. Dimitrie Gerota""",,București,,023571,,,,,,,44.4411881,26.123447
 441,10441,Spitalul de Urgență Elena Beldiman,,Bârlad,Vaslui,731128,,,,,,,46.2374112,27.6723089
-442,10442,Spitalul de Urgență Floreasca,,București,București,,,,,,,,44.4537529,26.1021733
+442,10442,Spitalul de Urgență Floreasca,,București,,,,,,,,,44.4537529,26.1021733
 443,10443,Spitalul de copii,,Gherla,Cluj,405300,,,,,,,47.0283363,23.9067
-444,10444,Spitalul de pneumoftiziologie Călărași,,Călărași,Călărași,910014,,,,,,,44.1940451,27.3517285
-445,10445,"Spitalul de psihiatrie ""Elisabeta Doamna""",Strada Traian 290,Galați,Galați,800194,,,,,,,45.4606879,28.038236
+444,10444,Spitalul de pneumoftiziologie Călărași,,Călărași,,910014,,,,,,,44.1940451,27.3517285
+445,10445,"Spitalul de psihiatrie ""Elisabeta Doamna""",Strada Traian 290,Galați,,800194,,,,,,,45.4606879,28.038236
 446,10446,"Spitalul de psihiatrie ""Sf. Pantelimon""",,Brăila,Brăila,810238,,,,,,,45.2608394,27.9650158
-447,10447,Spitalul de urgente Mavromati,Strada Tudor Vladimirescu 2,Darabani,Botoșani,715100,,,,,Yes,,48.1840634,26.5911799
+447,10447,Spitalul de urgente Mavromati,Strada Tudor Vladimirescu 2,Darabani,,715100,,,,,Yes,,48.1840634,26.5911799
 448,10448,Spitalul din Cochirleanca,,Cochirleanca,Buzău,127190,,,,,Yes,,45.210952,27.0353715
 449,10449,Spitalul orășenesc Sinaia,,Sinaia,Prahova,106100,,,,,,,45.3336756,25.5545989
-450,10450,"Spitalul pentru ocrotirea mamei și copilului ""Prof. Dr. Alfred Rusescu""",,București,București,023571,,,,,,,44.4629338,26.1222944
+450,10450,"Spitalul pentru ocrotirea mamei și copilului ""Prof. Dr. Alfred Rusescu""",,București,,023571,,,,,,,44.4629338,26.1222944
 451,10451,Spitalul Întorsura Buzăului,,Întorsura Buzăului,Covasna,525300,,,,,No,,45.6740624,26.0392969
-452,10452,"Spitalul “Dr.Caius Tiberiu Sparchez""",Strada Policlinicii 12,Zărnești,Brașov,505800,,,,,Yes,,45.5703501,25.3362916
+452,10452,"Spitalul “Dr.Caius Tiberiu Sparchez""",Strada Policlinicii 12,Zărnești,,505800,,,,,Yes,,45.5703501,25.3362916
 453,10453,Spitalului Județean de Urgență Bacău,,Bacău,Bacău,600114,,,,,,,46.5556937,26.9095989
-454,10454,Stație Salvare,,Constanța,Constanța,900270,,,,,,,44.1725392,28.6212121
+454,10454,Stație Salvare,,Constanța,,900270,,,,,,,44.1725392,28.6212121
 455,10455,Stomatologie,,Petroșani,Hunedoara,332019,,,,,,,45.4081015,23.3772517
 456,10456,Unitatea Primire Urgențe UPU,Strada Clinicilor nan,Cluj-Napoca,Cluj,400006,,,,,Yes,,46.7657361,23.5831362
-457,10457,Zerlendi,,București,București,040591,,,,,,,44.4101975,26.1013732
-458,10458,farmacie veterinara,Strada Ceferiștilor 29,Pașcani,Iași,705200,,,,,No,,47.2560976,26.7208341
+457,10457,Zerlendi,,București,,040591,,,,,,,44.4101975,26.1013732
+458,10458,farmacie veterinara,Strada Ceferiștilor 29,Pașcani,,705200,,,,,No,,47.2560976,26.7208341
 459,10459,Cabinet Individual de Psihologie Orlandea Laura,Strada Mirăslău 5,Sibiu,Sibiu,550009,,0740 054 004,,,,,45.7855264,24.1576515
 460,10460,Cabinet Medical,,Vernești,Buzău,127682,,,,,,,45.214801,26.6982074
 461,10461,Cabinet Medical Dr. Avgherino Silvia,Strada Principală 46,Traian,Brăila,817178,,,,,,,45.1370176,27.6461962
-462,10462,Cabinet Medical Dr. Stancu Dorina,Strada Martir Constantin Radu 18B,Timișoara,Timiș,300002,,,,,,,45.7264556,21.2677032
-463,10463,Cabinet Medical Dr. Stoian,Calea Buziașului 84,Timișoara,Timiș,300002,,,,,,,45.7284488,21.2708417
+462,10462,Cabinet Medical Dr. Stancu Dorina,Strada Martir Constantin Radu 18B,Timișoara,,300002,,,,,,,45.7264556,21.2677032
+463,10463,Cabinet Medical Dr. Stoian,Calea Buziașului 84,Timișoara,,300002,,,,,,,45.7284488,21.2708417
 464,10464,Cabinet Medical Neurologie Doctor Pereanu Marcel,Strada Patrioților 7,Sibiu,Sibiu,550009,,+40 269 215050,,,,,45.8008397,24.1390502
 465,10465,Cabinet Medical Sânpaul (1966),,Sânpaul,Cluj,407530,,,,,,,46.8752476,23.4166058
-466,10466,Cabinet individual dr. Oae Dora Ioana,,Arefu,Argeș,117040,,,,,,,45.3305226,24.6090215
+466,10466,Cabinet individual dr. Oae Dora Ioana,,Arefu,,117040,,,,,,,45.3305226,24.6090215
 467,10467,Cabinet medical,nan 60,Pir,Satu Mare,447245,,,,,,,47.4625885,22.3702231
-468,10468,Cabinet medical - dermato-venerologie,,Făgăraș,Brașov,505200,,+40268333825,,,,,45.8479038,24.9689772
-469,10469,Cabinet medical medicină generală dr. David Maria,Strada Aluniș 38,Timișoara,Timiș,300002,,,,,,,45.7233641,21.2277498
-470,10470,Cabinete Medicale,,Murfatlar,Constanța,905100,,,,,,,44.1754483,28.4153475
-471,10471,Cabinete medicale individuale,,Iași,Iași,700321,,,,,,,47.1614104,27.6157733
-472,10472,Centrul Medical Cardiomed,,Iași,Iași,700687,,,,,,,47.1359392,27.5714699
-473,10473,Centrul de plasament Iași,,Iași,Iași,700349,,,,,,,47.160078,27.6117546
-474,10474,Centul Medical Sanovil,Strada 1 Decembrie 1918 12,Beclean,Bistrița-năsăud,425100,,,,,,,47.1814964,24.1819892
-475,10475,Clinica Pedilife & Sanoptic,,Iași,Iași,700313,,,,,,,47.1591447,27.6025583
+468,10468,Cabinet medical - dermato-venerologie,,Făgăraș,,505200,,+40268333825,,,,,45.8479038,24.9689772
+469,10469,Cabinet medical medicină generală dr. David Maria,Strada Aluniș 38,Timișoara,,300002,,,,,,,45.7233641,21.2277498
+470,10470,Cabinete Medicale,,Murfatlar,,905100,,,,,,,44.1754483,28.4153475
+471,10471,Cabinete medicale individuale,,Iași,,700321,,,,,,,47.1614104,27.6157733
+472,10472,Centrul Medical Cardiomed,,Iași,,700687,,,,,,,47.1359392,27.5714699
+473,10473,Centrul de plasament Iași,,Iași,,700349,,,,,,,47.160078,27.6117546
+474,10474,Centul Medical Sanovil,Strada 1 Decembrie 1918 12,Beclean,,425100,,,,,,,47.1814964,24.1819892
+475,10475,Clinica Pedilife & Sanoptic,,Iași,,700313,,,,,,,47.1591447,27.6025583
 476,10476,Clinică,,Deva,Hunedoara,330088,,,,,,,45.8748211,22.9111083
 477,10477,Complex Hidroterapeutic Baia Sărată,,Deva,Hunedoara,330088,,,,,,,45.8927698,22.8995401
-478,10478,Dispensar,,Merișani,Argeș,117455,,,,,,,44.9700729,24.7454782
-479,10479,Dispensar,,Iernut,Mureș,545100,,,,,,,46.4512542,24.2319808
-480,10480,Dispensar,,București,București,023571,,,,,,,44.4417337,26.1583385
-481,10481,Dispensar,,Glodeni,Mureș,547275,,,,,,,46.6530876,24.6095627
+478,10478,Dispensar,,Merișani,,117455,,,,,,,44.9700729,24.7454782
+479,10479,Dispensar,,Iernut,,545100,,,,,,,46.4512542,24.2319808
+480,10480,Dispensar,,București,,023571,,,,,,,44.4417337,26.1583385
+481,10481,Dispensar,,Glodeni,,547275,,,,,,,46.6530876,24.6095627
 482,10482,Dispensar,nan 555,Mihai Viteazu,Cluj,407405,,,,,,,46.5408158,23.741757
 483,10483,Dispensar,,Drăgănești-Vlașca,Teleorman,147135,,,,,,,44.1007702,25.5961027
-484,10484,Dispensar,,București,București,023571,,,,,,,44.4604327,26.1294711
+484,10484,Dispensar,,București,,023571,,,,,,,44.4604327,26.1294711
 485,10485,Dispensar,,Feleacu,Cluj,407272,,,,,,,46.7179007,23.6786568
-486,10486,Dispensar,,Manasia,Ialomița,927160,,,,,,,44.7050519,26.6655179
+486,10486,Dispensar,,Manasia,,927160,,,,,,,44.7050519,26.6655179
 487,10487,Dispensar Iclod,,Iclod,Cluj,407335,,,,,,,46.9847161,23.8105293
 488,10488,Dispensar Loamneș,,Loamneș,Sibiu,557124,,,,,,,45.9323116,24.0742223
 489,10489,Dispensar Mila 23,,Nufăru,Tulcea,827171,,,,,,,45.2290043,29.2478511
 490,10490,Dispensar Muereasca,,Muereasca,Vâlcea,247405,,,,,,,45.18695,24.3175237
-491,10491,Dispensar Ohaba-Mâtnic,,Copăcele,Caraș-severin,327101,,,,,,,45.470284,22.0776293
+491,10491,Dispensar Ohaba-Mâtnic,,Copăcele,,327101,,,,,,,45.470284,22.0776293
 492,10492,Dispensar Sânpaul (1963),,Sânpaul,Cluj,407530,,,,,,,46.8699342,23.4120394
 493,10493,Dispensar TBC,,Brăila,Brăila,810022,,,,,,,45.2726398,27.9779736
 494,10494,Dispensar clinic uman,,Noșlac,Alba,517515,,,,,,,46.4050244,23.9330714
@@ -498,22 +498,22 @@
 496,10496,Dispensar medical Galda de Jos,,Galda de Jos,Alba,517285,,,,,,,46.1787346,23.6202858
 497,10497,Dispensar medical Ighiu,,Ighiu,Alba,517360,,,,,,,46.1445594,23.517889
 498,10498,Dispensarul Chirpăr,,Chirpăr,Sibiu,557080,,,,,,,45.893206,24.5980397
-499,10499,Dispensarul Medical Ardeleni,,București,București,023571,,,,,,,44.4455956,26.1195727
+499,10499,Dispensarul Medical Ardeleni,,București,,023571,,,,,,,44.4455956,26.1195727
 500,10500,Dispensarul Medical Roșia Montană,,Roșia Montană,Alba,517615,,,,,,,46.3056743,23.1314427
 501,10501,Dispnesar,,Boița,Sibiu,555701,,,,,,,45.6339179,24.2593701
 502,10502,Dr. Popescu Alexandru,Strada Ciprian Porumbescu 1,Sibiu,Sibiu,550009,,+40 269 232 540,,,,,45.773862,24.1376995
-503,10503,Hipocrat,,Brașov,Brașov,500030,,,,,,,45.652731,25.5996993
-504,10504,Medicotest,Bulevardul Brăilei 136C,Galați,Galați,800365,,,,,,,45.4289714,28.0283938
-505,10505,Medlife,Strada Moldovei 6,Brașov,Brașov,500030,,,,,,,45.656949,25.6073344
+503,10503,Hipocrat,,Brașov,,500030,,,,,,,45.652731,25.5996993
+504,10504,Medicotest,Bulevardul Brăilei 136C,Galați,,800365,,,,,,,45.4289714,28.0283938
+505,10505,Medlife,Strada Moldovei 6,Brașov,,500030,,,,,,,45.656949,25.6073344
 506,10506,Mocanu,,Boroaia,Suceava,727040,,,,,,,47.3498869,26.3359343
-507,10507,Policlinica,nan 35,Târgu Neamț,Neamț,615200,,,,,,,47.2069876,26.3594448
-508,10508,Policlinica Cantemir,,Iași,Iași,700233,,,,,,,47.1497477,27.580214
-509,10509,Policlinica Cetatea Histria,Strada Cetatea Histria nan,București,București,060941,,,,,,,44.4203061,26.0219328
+507,10507,Policlinica,nan 35,Târgu Neamț,,615200,,,,,,,47.2069876,26.3594448
+508,10508,Policlinica Cantemir,,Iași,,700233,,,,,,,47.1497477,27.580214
+509,10509,Policlinica Cetatea Histria,Strada Cetatea Histria nan,București,,060941,,,,,,,44.4203061,26.0219328
 510,10510,Policlinica DIACONIA,,Brăila,Brăila,810022,,,,,,,45.2724515,27.9776231
-511,10511,Policlinica cu Plată,Strada Teodor Codrescu 5,Iași,Iași,,,,,,,,47.1786442,27.5707688
+511,10511,Policlinica cu Plată,Strada Teodor Codrescu 5,Iași,,,,,,,,,47.1786442,27.5707688
 512,10512,Policlinica cu Plată,Strada Paris 2,Arad,Arad,310182,,,,,,,46.1671193,21.3219108
 513,10513,Polimed Center,Strada Bisericii 7,Odorheiu Secuiesc,Harghita,535600,,,,,,,46.3159806,25.2853682
-514,10514,S.M.U.R.D.,,Iernut,Mureș,545100,,,,,ambulance_station,,46.4509385,24.2322992
+514,10514,S.M.U.R.D.,,Iernut,,545100,,,,,ambulance_station,,46.4509385,24.2322992
 515,10515,Salvamont,,Băișoara,Cluj,407065,,,,,Mountain & Cave Rescue,,46.5369908,23.3120226
 516,10516,Salvamont Glăvoi,,Gârda de Sus,Alba,517310,,,,,Mountain & Cave Rescue,,46.5777705,22.7044829
 517,10517,Serviciul de plasament de tip familial,,Râmnicu Vâlcea,Vâlcea,240632,,,,,,,45.1209204,24.36247

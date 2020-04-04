@@ -1,114 +1,114 @@
 ,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
-0,10000,Aalborg Universitetshospital,,Aalborg,Aalborg,9000,,,,,Yes,,57.0360687,9.9091295
-1,10001,Aalborg Universitetshospital Nord,,Aalborg,Aalborg,9000,,,,,,,57.0490521,9.9146357
-2,10002,Aalborg Universitetshospital Thisted,,Thisted,Thisted,7700,,,,,,,56.9566536,8.6952335
-3,10003,"Aalborg Universitetshospital, Farsø",,Farsø,Vesthimmerlands,9640,,,,,Yes,,56.7772698,9.3350686
-4,10004,"Aalborg Universitetshospital, Hobro",,Hobro,Mariagerfjord,9500,,+4597652000,,,Yes,,56.633789,9.7963359
-5,10005,"Aalborg Universitetshospital, Psykiatrien",,Aalborg,Aalborg,9000,,,,,No,,57.0255492,9.9775413
-6,10006,Aarhus Universitetshospital,,Aarhus,Aarhus,8000,,,,,Yes,,56.1859328,10.1703464
-7,10007,Amager Hospital - Hans Bogbinders Allé,,,Aarhus,,,,,,,,55.6541722,12.6071067
-8,10008,Amager Hospital - Italiensvej,,,Aarhus,,,,,,No,,55.6542578,12.6189881
-9,10009,Amtssygehuset Fjorden,,,Aarhus,,,,,,,,55.6513281,12.069753
-10,10010,Arresødal Hospice,,,Aarhus,,,,,,,,55.9768259,12.0311619
-11,10011,Bispebjerg Hospital,,,Aarhus,,,,,,Yes,,55.7153074,12.5369548
-12,10012,Bornholms Hospital,,,Bornholm,3700,,,,,Yes,,55.0896987,14.7077031
-13,10013,Diakonisse-stiftelsen,,,Bornholm,,,,,,,,55.6792541,12.5211849
-14,10014,Frederiksberg Hospital,,,Bornholm,,,,,,Yes,,55.6884734,12.5243674
-15,10015,Gentofte Hospital,,,Bornholm,,,,,,Yes,,55.7379509,12.5444273
-16,10016,Grenaa Sundhedshus,,Grenaa,Norddjurs,8500,,,,,,,56.4175999,10.8652361
-17,10017,Herlev Hospital,,,Norddjurs,,,,,,Yes,,55.7339037,12.4396485
-18,10018,Herning Centralsygehus,,Herning,Herning,7400,,,,,Yes,,56.1412346,8.9723046
-19,10019,Hospice Limfjord,,Skive,Skive,7800,,+45 96148700,,,,,56.5731485,9.0279286
-20,10020,Hospice Sjælland,,,Skive,,,,,,,,55.6608189,12.1314631
-21,10021,Hospice Søndergård,,,Skive,,,,,,No,,55.7438115,12.3223073
-22,10022,Hospice Sønderjylland,,Haderslev,Haderslev,6100,,,,,,,55.2460761,9.4450703
-23,10023,Hvidovre Hospital,,,Haderslev,,,,,,,,55.6467807,12.4625794
-24,10024,Mølholm,,Aarhus,Aarhus,8270,,,,,,,56.118012,10.1906436
-25,10025,Nordsjællands Hospital – Frederikssund,,,Aarhus,,,,,,Yes,,55.8469813,12.0827222
-26,10026,Nordsjællands Hospital – Hillerød,,,Aarhus,,,,,,Yes,,55.9311993,12.3230106
-27,10027,Næstved Sygehus,,,Aarhus,,,,,,,,55.2398539,11.7602795
-28,10028,OUH Svendborg Sygehus,,,Aarhus,,,,,,,,55.0562255,10.6085358
-29,10029,Odense Universitetshospital,,,Aarhus,,,,,,Yes,,55.3891189,10.3622345
-30,10030,Patienthotellet,,Viborg,Viborg,8800,,,,,,,56.4448854,9.4058323
-31,10031,Privathospitalet Mølholm,,Vejle,Vejle,7100,,,,,,,55.6988877,9.5370458
-32,10032,Psykiatri Hospitalet Nykøbing Sjælland,,,Vejle,,,,,,,,55.9087252,11.6592871
-33,10033,"Psykiatricenter Vest, Esbjerg",,Gjesing,Esbjerg,6715,,,,,,,55.4941919,8.4406232
-34,10034,Psykiatrisk Center Ballerup,,,Esbjerg,,,,,,,,55.7234806,12.3564078
-35,10035,Psykiatrisk Center Glostrup (afdeling Hvidovre),,,Esbjerg,,,,,,Yes,,55.6504542,12.4441544
-36,10036,Psykiatrisk Center Nordsjælland - Afdeling Hillerød,,,Esbjerg,,,,,,,,55.9310123,12.3243049
-37,10037,Psykiatrisk Center Sct. Hans,,,Esbjerg,,,,,,,,55.6523149,12.0660418
-38,10038,Regionshospital Nordjylland,,Hjørring,Hjørring,9800,,,,,,,57.4530766,9.9958883
-39,10039,Regionshospitalet Holstebro,,Holstebro,Holstebro,7500,,,,,Yes,,56.3625856,8.6284558
-40,10040,Regionshospitalet Horsens,,Horsens,Horsens,8700,,,,,Yes,,55.864291,9.8713133
-41,10041,Regionshospitalet Randers,,Randers NØ,Randers,8930,,,,,Yes,,56.4694205,10.0462763
-42,10042,Regionshospitalet Silkeborg,,Silkeborg,Silkeborg,8600,,,,,Yes,,56.1710665,9.5580562
-43,10043,Rehabiliteringscentret Hedebo,,,Silkeborg,,,,,,,,55.5938427,12.2485936
-44,10044,Rigshospitalet,,,Silkeborg,,,,,,Yes,,55.6995964,12.5646201
-45,10045,Ringsted Sygehus,,,Silkeborg,,,,,,,,55.4504763,11.789647
-46,10046,Roskilde Sygehus,,,Silkeborg,,,,,,Yes,,55.6358365,12.09477
-47,10047,Samsø Sundheds- og Akuthus,,,Samsø,8305,,,,,Yes,,55.8307263,10.5903912
-48,10048,Sclerosehospitalet Haslev,,,Samsø,,,,,,,,55.3372384,11.9448063
-49,10049,Sct. Maria Hospice Center,,Bredballe,Vejle,7120,,,,,,,55.7257344,9.595887
-50,10050,"Sengeafsnit N7, Frederikshavn",,Frederikshavn,Frederikshavn,9900,,,,,,,57.4454501,10.5343081
-51,10051,Skanderborg Sundhedscenter,,Skanderborg,Skanderborg,8660,,,,,,,56.0339807,9.9282981
-52,10052,Skørping Privat Hospital,,,Skanderborg,,,,,,,,56.8360904,9.8751178
-53,10053,Steno Diabetes Center Copenhagen,,,Skanderborg,,,,,,,,55.7554454,12.5236738
-54,10054,Støttecenter Saxenhøj,,,Skanderborg,,,,,,,,54.8001079,11.6213601
-55,10055,Støttecenter Saxenhøj,,,Skanderborg,,,,,,,,54.8014586,11.6263777
-56,10056,Sundhedsområdet Klostergården,,Kolding,Kolding,6000,,,,,,,55.500752,9.4821491
-57,10057,"Sydvestjydsk Sygehus, Esbjerg",,Esbjerg,Esbjerg,6700,,,,,Yes,,55.4734797,8.455534
-58,10058,Århus Universitetshospital Risskov,,Aarhus,Aarhus,8240,,,,,,,56.1839778,10.2359368
-59,10059,Århus Universitetshospital Århus Sygehus,,Aarhus C,Aarhus,8000,,,,,,,56.1416224,10.1904339
-60,10060,Ærø Sygehus,,,Ærø,5970,,,,,Yes,,54.8924021,10.4062921
-61,10061,Aarup Lægerne,,,Ærø,,,+45 64 43 10 24,,,,,55.374079,10.052747
-62,10062,Behandlerhuset Dokken,,,Thisted,7700,,,,,,,56.9519464,8.694626
-63,10063,FamilieLægerne Espergærde,,,Thisted,,,+45 4848 0260,,,,,55.9948559,12.5066659
-64,10064,Gigtsanatoriet,,,Thisted,,,,,,,,55.2604126,11.282825
-65,10065,Glumsø lægehus,,,Thisted,,,,,,,,55.3544847,11.6907088
-66,10066,Grenaa Sundhedshus,,Grenaa,Norddjurs,8500,,,,,,,56.417988,10.8638854
-67,10067,Karise Lægerne,,,Norddjurs,,,,,,,,55.3055826,12.2078561
-68,10068,Læge Philipp Harbig,,Aarhus,Aarhus,8200,,,,,,,56.1808798,10.202239
-69,10069,Læge Preben Dissing,,Grenaa,Norddjurs,8500,,,,,,,56.4156866,10.8746022
-70,10070,Lægehus,,,Norddjurs,,,,,,,,54.9992243,12.0852978
-71,10071,Lægehus,,Bredsten,Vejle,7182,,,,,,,55.7020271,9.3740525
-72,10072,Lægehus Midtbyen,,Kolding,Kolding,6000,,,,,,,55.492708,9.482462
-73,10073,Lægehuset,,,Kolding,,,+45 59 25 66 00,,,,,55.6587625,11.3971345
-74,10074,Lægehuset,,,Kolding,,,,,,,,55.3007879,10.4000215
-75,10075,Lægehuset,,Løgstør,Vesthimmerlands,9670,,+45 98 671 500,,,,,56.9666453,9.2539881
-76,10076,Lægehuset,,Padborg,Aabenraa,6330,,,,,,,54.826395,9.3616639
-77,10077,Lægehuset,,Ulfborg,Holstebro,6990,,+4596114990,,,,,56.2716708,8.3245466
-78,10078,Lægehuset,,,Holstebro,,,,,,,,55.5772783,12.276442
-79,10079,Lægehuset Korupcentret,,,Holstebro,,,,,,,,55.4194113,10.2735441
-80,10080,Lægehuset Lundby-Præstø,,,Holstebro,,,,,,No,,55.1091284,11.8714933
-81,10081,Lægehuset Regstrup,,,Holstebro,,,+45 59471885,,,,,55.6634682,11.6200777
-82,10082,Lægehuset Ryomgård,,Ryomgård,Syddjurs,8550,,,,,,,56.3803828,10.5017137
-83,10083,Lægehuset Sct. Anne,,,Syddjurs,,,,,,No,,55.3934655,10.3850639
-84,10084,Lægehuset i Hedensted,,,Hedensted,8722,,,,,,,55.7796084,9.6898529
-85,10085,Lægehuset i Smørum,,,Hedensted,,,,,,,,55.733253,12.3037183
-86,10086,Lægehuset Østergade,,Esbjerg,Esbjerg,6700,,+45 82131400,,,,,55.4685688,8.4568152
-87,10087,Lægeklinikken  Saad Whaeb,,Esbjerg,Esbjerg,6700,,+45 75126511,,,,,55.4646832,8.4504226
-88,10088,Lægeklinikken Sulsted,,Aalborg,Aalborg,9381,,,,,,,57.1559609,9.964837
-89,10089,"Lægerne Hoeg, Lind og Østergaard-Nielsen",,Gram,Haderslev,6510,,,,,,,55.2893025,9.0566504
-90,10090,Lægerne Idriss Kise,,Sorring,Silkeborg,8641,,,,,,,56.1763844,9.7795586
-91,10091,Lægerne Kongelundsvej 290,,,Silkeborg,,,,,,,,55.6168139,12.5853842
-92,10092,Lægerne Kongelundsvej 434,,,Silkeborg,,,,,,,,55.6036695,12.5831598
-93,10093,Lægerne Nygårdsvej,,Esbjerg,Esbjerg,6700,,,,,,,55.4712231,8.4446417
-94,10094,Lægerne Skovbrynet,,Skagen,Frederikshavn,9990,,,,,,,57.720126,10.5756157
-95,10095,Lægerne i Brande,,Brande,Ikast-brande,7330,,,,,,,55.9402111,9.1240316
-96,10096,Lægerne i Gørding,,Gørding,Esbjerg,6690,,,,,,,55.4691084,8.8041742
-97,10097,Lægerne i Hirtshals,,Hirtshals,Hjørring,9850,,+4598941177,,,,,57.586726,9.9732903
-98,10098,Lægerne i Nibe,,Aalborg,Aalborg,9240,,,,,,,56.9839492,9.6325306
-99,10099,Lægerne i Solbjerg,,Aarhus,Aarhus,8355,,+4586927433,,,defibrillator,,56.0453327,10.0862651
-100,10100,Lægerne i Svenstrup,,Aalborg,Aalborg,9230,,,,,,,56.9707426,9.8340273
-101,10101,Lægerne i Trige,,Aarhus,Aarhus,8380,,,,,,,56.2531102,10.1412348
-102,10102,Lægernes Hus,,Gråsten,Sønderborg,6300,,,,,,,54.9111359,9.5880134
-103,10103,Maribo Sundhedscenter,,,Sønderborg,,,,,,,,54.7657236,11.5131556
-104,10104,Næstved Lægecenter,,,Sønderborg,,,,,,,,55.2216968,11.7577878
-105,10105,Skødstrup lægehus,,Aarhus,Aarhus,8541,,,,,,,56.2627835,10.3025338
-106,10106,Sundhedens Hus,,Aalborg,Aalborg,9000,,,,,,,57.0436868,9.925578
-107,10107,Sundhedscenter,,,Aalborg,,,,,,,,55.2561779,11.3069048
-108,10108,Sundhedscenter Haderslev,,Haderslev,Haderslev,6100,,,,,,,55.2562875,9.4814372
-109,10109,Sundhedscenter Odsherred,,,Haderslev,,,,,,,,55.9208872,11.6638506
-110,10110,Sundhedshus Hurup,,Hurup,Thisted,7760,,,,,,,56.753163,8.4159337
-111,10111,Ulstrup Lægepraksis,,Ulstrup,Favrskov,8860,,,,,,,56.3926441,9.7947581
-112,10112,Vivild lægehus,,Vivild,Norddjurs,8961,,,,,,,56.4836861,10.4526116
+0,10000,Aalborg Universitetshospital,,Aalborg,,9000,,,,,Yes,,57.0360687,9.9091295
+1,10001,Aalborg Universitetshospital Nord,,Aalborg,,9000,,,,,,,57.0490521,9.9146357
+2,10002,Aalborg Universitetshospital Thisted,,Thisted,,7700,,,,,,,56.9566536,8.6952335
+3,10003,"Aalborg Universitetshospital, Farsø",,Farsø,,9640,,,,,Yes,,56.7772698,9.3350686
+4,10004,"Aalborg Universitetshospital, Hobro",,Hobro,,9500,,+4597652000,,,Yes,,56.633789,9.7963359
+5,10005,"Aalborg Universitetshospital, Psykiatrien",,Aalborg,,9000,,,,,No,,57.0255492,9.9775413
+6,10006,Aarhus Universitetshospital,,Aarhus,,8000,,,,,Yes,,56.1859328,10.1703464
+7,10007,Amager Hospital - Hans Bogbinders Allé,,,,,,,,,,,55.6541722,12.6071067
+8,10008,Amager Hospital - Italiensvej,,,,,,,,,No,,55.6542578,12.6189881
+9,10009,Amtssygehuset Fjorden,,,,,,,,,,,55.6513281,12.069753
+10,10010,Arresødal Hospice,,,,,,,,,,,55.9768259,12.0311619
+11,10011,Bispebjerg Hospital,,,,,,,,,Yes,,55.7153074,12.5369548
+12,10012,Bornholms Hospital,,,,3700,,,,,Yes,,55.0896987,14.7077031
+13,10013,Diakonisse-stiftelsen,,,,,,,,,,,55.6792541,12.5211849
+14,10014,Frederiksberg Hospital,,,,,,,,,Yes,,55.6884734,12.5243674
+15,10015,Gentofte Hospital,,,,,,,,,Yes,,55.7379509,12.5444273
+16,10016,Grenaa Sundhedshus,,Grenaa,,8500,,,,,,,56.4175999,10.8652361
+17,10017,Herlev Hospital,,,,,,,,,Yes,,55.7339037,12.4396485
+18,10018,Herning Centralsygehus,,Herning,,7400,,,,,Yes,,56.1412346,8.9723046
+19,10019,Hospice Limfjord,,Skive,,7800,,+45 96148700,,,,,56.5731485,9.0279286
+20,10020,Hospice Sjælland,,,,,,,,,,,55.6608189,12.1314631
+21,10021,Hospice Søndergård,,,,,,,,,No,,55.7438115,12.3223073
+22,10022,Hospice Sønderjylland,,Haderslev,,6100,,,,,,,55.2460761,9.4450703
+23,10023,Hvidovre Hospital,,,,,,,,,,,55.6467807,12.4625794
+24,10024,Mølholm,,Aarhus,,8270,,,,,,,56.118012,10.1906436
+25,10025,Nordsjællands Hospital – Frederikssund,,,,,,,,,Yes,,55.8469813,12.0827222
+26,10026,Nordsjællands Hospital – Hillerød,,,,,,,,,Yes,,55.9311993,12.3230106
+27,10027,Næstved Sygehus,,,,,,,,,,,55.2398539,11.7602795
+28,10028,OUH Svendborg Sygehus,,,,,,,,,,,55.0562255,10.6085358
+29,10029,Odense Universitetshospital,,,,,,,,,Yes,,55.3891189,10.3622345
+30,10030,Patienthotellet,,Viborg,,8800,,,,,,,56.4448854,9.4058323
+31,10031,Privathospitalet Mølholm,,Vejle,,7100,,,,,,,55.6988877,9.5370458
+32,10032,Psykiatri Hospitalet Nykøbing Sjælland,,,,,,,,,,,55.9087252,11.6592871
+33,10033,"Psykiatricenter Vest, Esbjerg",,Gjesing,,6715,,,,,,,55.4941919,8.4406232
+34,10034,Psykiatrisk Center Ballerup,,,,,,,,,,,55.7234806,12.3564078
+35,10035,Psykiatrisk Center Glostrup (afdeling Hvidovre),,,,,,,,,Yes,,55.6504542,12.4441544
+36,10036,Psykiatrisk Center Nordsjælland - Afdeling Hillerød,,,,,,,,,,,55.9310123,12.3243049
+37,10037,Psykiatrisk Center Sct. Hans,,,,,,,,,,,55.6523149,12.0660418
+38,10038,Regionshospital Nordjylland,,Hjørring,,9800,,,,,,,57.4530766,9.9958883
+39,10039,Regionshospitalet Holstebro,,Holstebro,,7500,,,,,Yes,,56.3625856,8.6284558
+40,10040,Regionshospitalet Horsens,,Horsens,,8700,,,,,Yes,,55.864291,9.8713133
+41,10041,Regionshospitalet Randers,,Randers NØ,,8930,,,,,Yes,,56.4694205,10.0462763
+42,10042,Regionshospitalet Silkeborg,,Silkeborg,,8600,,,,,Yes,,56.1710665,9.5580562
+43,10043,Rehabiliteringscentret Hedebo,,,,,,,,,,,55.5938427,12.2485936
+44,10044,Rigshospitalet,,,,,,,,,Yes,,55.6995964,12.5646201
+45,10045,Ringsted Sygehus,,,,,,,,,,,55.4504763,11.789647
+46,10046,Roskilde Sygehus,,,,,,,,,Yes,,55.6358365,12.09477
+47,10047,Samsø Sundheds- og Akuthus,,,,8305,,,,,Yes,,55.8307263,10.5903912
+48,10048,Sclerosehospitalet Haslev,,,,,,,,,,,55.3372384,11.9448063
+49,10049,Sct. Maria Hospice Center,,Bredballe,,7120,,,,,,,55.7257344,9.595887
+50,10050,"Sengeafsnit N7, Frederikshavn",,Frederikshavn,,9900,,,,,,,57.4454501,10.5343081
+51,10051,Skanderborg Sundhedscenter,,Skanderborg,,8660,,,,,,,56.0339807,9.9282981
+52,10052,Skørping Privat Hospital,,,,,,,,,,,56.8360904,9.8751178
+53,10053,Steno Diabetes Center Copenhagen,,,,,,,,,,,55.7554454,12.5236738
+54,10054,Støttecenter Saxenhøj,,,,,,,,,,,54.8001079,11.6213601
+55,10055,Støttecenter Saxenhøj,,,,,,,,,,,54.8014586,11.6263777
+56,10056,Sundhedsområdet Klostergården,,Kolding,,6000,,,,,,,55.500752,9.4821491
+57,10057,"Sydvestjydsk Sygehus, Esbjerg",,Esbjerg,,6700,,,,,Yes,,55.4734797,8.455534
+58,10058,Århus Universitetshospital Risskov,,Aarhus,,8240,,,,,,,56.1839778,10.2359368
+59,10059,Århus Universitetshospital Århus Sygehus,,Aarhus C,,8000,,,,,,,56.1416224,10.1904339
+60,10060,Ærø Sygehus,,,,5970,,,,,Yes,,54.8924021,10.4062921
+61,10061,Aarup Lægerne,,,,,,+45 64 43 10 24,,,,,55.374079,10.052747
+62,10062,Behandlerhuset Dokken,,,,7700,,,,,,,56.9519464,8.694626
+63,10063,FamilieLægerne Espergærde,,,,,,+45 4848 0260,,,,,55.9948559,12.5066659
+64,10064,Gigtsanatoriet,,,,,,,,,,,55.2604126,11.282825
+65,10065,Glumsø lægehus,,,,,,,,,,,55.3544847,11.6907088
+66,10066,Grenaa Sundhedshus,,Grenaa,,8500,,,,,,,56.417988,10.8638854
+67,10067,Karise Lægerne,,,,,,,,,,,55.3055826,12.2078561
+68,10068,Læge Philipp Harbig,,Aarhus,,8200,,,,,,,56.1808798,10.202239
+69,10069,Læge Preben Dissing,,Grenaa,,8500,,,,,,,56.4156866,10.8746022
+70,10070,Lægehus,,,,,,,,,,,54.9992243,12.0852978
+71,10071,Lægehus,,Bredsten,,7182,,,,,,,55.7020271,9.3740525
+72,10072,Lægehus Midtbyen,,Kolding,,6000,,,,,,,55.492708,9.482462
+73,10073,Lægehuset,,,,,,+45 59 25 66 00,,,,,55.6587625,11.3971345
+74,10074,Lægehuset,,,,,,,,,,,55.3007879,10.4000215
+75,10075,Lægehuset,,Løgstør,,9670,,+45 98 671 500,,,,,56.9666453,9.2539881
+76,10076,Lægehuset,,Padborg,,6330,,,,,,,54.826395,9.3616639
+77,10077,Lægehuset,,Ulfborg,,6990,,+4596114990,,,,,56.2716708,8.3245466
+78,10078,Lægehuset,,,,,,,,,,,55.5772783,12.276442
+79,10079,Lægehuset Korupcentret,,,,,,,,,,,55.4194113,10.2735441
+80,10080,Lægehuset Lundby-Præstø,,,,,,,,,No,,55.1091284,11.8714933
+81,10081,Lægehuset Regstrup,,,,,,+45 59471885,,,,,55.6634682,11.6200777
+82,10082,Lægehuset Ryomgård,,Ryomgård,,8550,,,,,,,56.3803828,10.5017137
+83,10083,Lægehuset Sct. Anne,,,,,,,,,No,,55.3934655,10.3850639
+84,10084,Lægehuset i Hedensted,,,,8722,,,,,,,55.7796084,9.6898529
+85,10085,Lægehuset i Smørum,,,,,,,,,,,55.733253,12.3037183
+86,10086,Lægehuset Østergade,,Esbjerg,,6700,,+45 82131400,,,,,55.4685688,8.4568152
+87,10087,Lægeklinikken  Saad Whaeb,,Esbjerg,,6700,,+45 75126511,,,,,55.4646832,8.4504226
+88,10088,Lægeklinikken Sulsted,,Aalborg,,9381,,,,,,,57.1559609,9.964837
+89,10089,"Lægerne Hoeg, Lind og Østergaard-Nielsen",,Gram,,6510,,,,,,,55.2893025,9.0566504
+90,10090,Lægerne Idriss Kise,,Sorring,,8641,,,,,,,56.1763844,9.7795586
+91,10091,Lægerne Kongelundsvej 290,,,,,,,,,,,55.6168139,12.5853842
+92,10092,Lægerne Kongelundsvej 434,,,,,,,,,,,55.6036695,12.5831598
+93,10093,Lægerne Nygårdsvej,,Esbjerg,,6700,,,,,,,55.4712231,8.4446417
+94,10094,Lægerne Skovbrynet,,Skagen,,9990,,,,,,,57.720126,10.5756157
+95,10095,Lægerne i Brande,,Brande,,7330,,,,,,,55.9402111,9.1240316
+96,10096,Lægerne i Gørding,,Gørding,,6690,,,,,,,55.4691084,8.8041742
+97,10097,Lægerne i Hirtshals,,Hirtshals,,9850,,+4598941177,,,,,57.586726,9.9732903
+98,10098,Lægerne i Nibe,,Aalborg,,9240,,,,,,,56.9839492,9.6325306
+99,10099,Lægerne i Solbjerg,,Aarhus,,8355,,+4586927433,,,defibrillator,,56.0453327,10.0862651
+100,10100,Lægerne i Svenstrup,,Aalborg,,9230,,,,,,,56.9707426,9.8340273
+101,10101,Lægerne i Trige,,Aarhus,,8380,,,,,,,56.2531102,10.1412348
+102,10102,Lægernes Hus,,Gråsten,,6300,,,,,,,54.9111359,9.5880134
+103,10103,Maribo Sundhedscenter,,,,,,,,,,,54.7657236,11.5131556
+104,10104,Næstved Lægecenter,,,,,,,,,,,55.2216968,11.7577878
+105,10105,Skødstrup lægehus,,Aarhus,,8541,,,,,,,56.2627835,10.3025338
+106,10106,Sundhedens Hus,,Aalborg,,9000,,,,,,,57.0436868,9.925578
+107,10107,Sundhedscenter,,,,,,,,,,,55.2561779,11.3069048
+108,10108,Sundhedscenter Haderslev,,Haderslev,,6100,,,,,,,55.2562875,9.4814372
+109,10109,Sundhedscenter Odsherred,,,,,,,,,,,55.9208872,11.6638506
+110,10110,Sundhedshus Hurup,,Hurup,,7760,,,,,,,56.753163,8.4159337
+111,10111,Ulstrup Lægepraksis,,Ulstrup,,8860,,,,,,,56.3926441,9.7947581
+112,10112,Vivild lægehus,,Vivild,,8961,,,,,,,56.4836861,10.4526116

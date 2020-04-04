@@ -1,171 +1,171 @@
 ,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
 0,10000,Abromiškių reabilitacijos ligoninė,,Elektrėnai,Vilniaus Apskritis,26130,,,,,,,54.7670843,24.7082329
-1,10001,Akušerijos skyrius,Smėlynės gatvė 25,Panevėžys,Panevėžio Savivaldybė,35144,,,,,,,55.7339799,24.3659236
-2,10002,Alytaus apskrities S. Kudirkos ligoninė,Ligoninės g. 12,Alytus,Alytaus Savivaldybė,62114,,,,,Yes,,54.3989181,24.0406259
-3,10003,Alytaus tuberkuliozės ligoninė,,Alytus,Alytaus Savivaldybė,62112,,,,,,,54.4134506,24.0419898
+1,10001,Akušerijos skyrius,Smėlynės gatvė 25,Panevėžys,,35144,,,,,,,55.7339799,24.3659236
+2,10002,Alytaus apskrities S. Kudirkos ligoninė,Ligoninės g. 12,Alytus,,62114,,,,,Yes,,54.3989181,24.0406259
+3,10003,Alytaus tuberkuliozės ligoninė,,Alytus,,62112,,,,,,,54.4134506,24.0419898
 4,10004,Antakalnio poliklinika,Antakalnio g. 59,Vilnius,Vilniaus Apskritis,10102,,,,,,,54.7107159,25.3172839
-5,10005,Anykščių rajono savivaldybės ligoninė,,Anykščiai,Anykščių Rajono Savivaldybė,29107,,,,,,,55.5207958,25.1206266
-6,10006,Baisogalos ligoninė,,Baisogala,Radviliškio Rajono Savivaldybė,82324,,,,,,,55.6390219,23.7219127
+5,10005,Anykščių rajono savivaldybės ligoninė,,Anykščiai,,29107,,,,,,,55.5207958,25.1206266
+6,10006,Baisogalos ligoninė,,Baisogala,,82324,,,,,,,55.6390219,23.7219127
 7,10007,Baltijos Amerikos klinika,Nemenčinės pl. 54A,Vilnius,Vilniaus Apskritis,10102,,+37052342020,,,,,54.7352821,25.3385303
-8,10008,Birštono pirminės sveikatos priežiūros centras,Jaunimo g. 8,Birštonas,Birštono Savivaldybė,59206,,+37031967018,,,,,54.6072207,24.0255968
-9,10009,Biržų ligoninė,Vilniaus g. 115,Biržai,Biržų Rajono Savivaldybė,41115,,,,,Yes,,56.1883822,24.7585641
-10,10010,Dienos chirurgijos centras,Puodžių g. 9,Klaipėda,Klaipėdos Savivaldybė,91218,,,,,,,55.7124957,21.1274057
-11,10011,Druskininkų ligoninė,Sveikatos g. 30,Druskininkai,Druskininkų Savivaldybė,66251,,,,,,,54.0166106,24.0083513
-12,10012,Eržvilko Pirminės Sveikatos Priežiuros Centras,Piliakalnio g. nan,Eržvilkas,Jurbarko Rajono Savivaldybė,74287,,,,,,,55.2604592,22.7037619
+8,10008,Birštono pirminės sveikatos priežiūros centras,Jaunimo g. 8,Birštonas,,59206,,+37031967018,,,,,54.6072207,24.0255968
+9,10009,Biržų ligoninė,Vilniaus g. 115,Biržai,,41115,,,,,Yes,,56.1883822,24.7585641
+10,10010,Dienos chirurgijos centras,Puodžių g. 9,Klaipėda,,91218,,,,,,,55.7124957,21.1274057
+11,10011,Druskininkų ligoninė,Sveikatos g. 30,Druskininkai,,66251,,,,,,,54.0166106,24.0083513
+12,10012,Eržvilko Pirminės Sveikatos Priežiuros Centras,Piliakalnio g. nan,Eržvilkas,,74287,,,,,,,55.2604592,22.7037619
 13,10013,Grigiškių palaikomojo gydymo ir slaugos ligoninė,Mokyklos g. 10,Vilnius,Vilniaus Apskritis,03113,,,,,Yes,,54.671906,25.0902703
-14,10014,I. Kuprijaškino psichoterapinis kabinetas,I. Kanto g. 11,Kaunas,Kauno Savivaldybė,44301,,,,,No,,54.8955359,23.903455
+14,10014,I. Kuprijaškino psichoterapinis kabinetas,I. Kanto g. 11,Kaunas,,44301,,,,,No,,54.8955359,23.903455
 15,10015,Infekcinių ligų ir tuberkuliozės ligoninė,Birutės g. 1,Vilnius,Vilniaus Apskritis,08106,,,,,,,54.6878577,25.2489371
-16,10016,J. Zikaro g.,,Kačerginė,Kauno Rajono Savivaldybė,53450,,,,,,,54.9306288,23.7220523
-17,10017,J. Zikaro g.,,Kačerginė,Kauno Rajono Savivaldybė,53450,,,,,,,54.9300963,23.7215099
-18,10018,Jonavos ligoninė,Žeimių g. 19,Jonava,Jonavos Rajono Savivaldybė,55111,,,,,,,55.0797331,24.2702877
-19,10019,Joniškėlio ligoninė,Vytauto g. 3,Joniškėlis,Pasvalio Rajono Savivaldybė,39306,,,,,Yes,,56.0262554,24.1690884
-20,10020,Jurbarko ligoninė,,Jurbarkas,Jurbarko Rajono Savivaldybė,74133,,,,,Yes,,55.0854936,22.7486134
-21,10021,Jurbarko šeimos klinika,,Jurbarkas,Jurbarko Rajono Savivaldybė,74133,,,,,,,55.0825659,22.7711514
-22,10022,Jūrininkų ligoninės Palangos skyrius,Klaipėdos pl. 76,Palanga,Palangos Savivaldybė,00148,,,,,,,55.9366633,21.0862976
-23,10023,K. Griniaus slaugos ir palaikomojo gydymo ligoninė,,Kaunas,Kauno Savivaldybė,45313,,+370 37 346736,,,,,54.8855854,23.9792892
-24,10024,Kaišiadorių ligoninė,Beržyno g. 27,Kaišiadorys,Kaišiadorių Rajono Savivaldybė,56161,,,,,,,54.8537702,24.4263935
-25,10025,Kalvarijos ligoninė,Vytauto g. 9,Kalvarija,Kalvarijos Savivaldybė,69217,,,,,,,54.4145663,23.2223543
+16,10016,J. Zikaro g.,,Kačerginė,,53450,,,,,,,54.9306288,23.7220523
+17,10017,J. Zikaro g.,,Kačerginė,,53450,,,,,,,54.9300963,23.7215099
+18,10018,Jonavos ligoninė,Žeimių g. 19,Jonava,,55111,,,,,,,55.0797331,24.2702877
+19,10019,Joniškėlio ligoninė,Vytauto g. 3,Joniškėlis,,39306,,,,,Yes,,56.0262554,24.1690884
+20,10020,Jurbarko ligoninė,,Jurbarkas,,74133,,,,,Yes,,55.0854936,22.7486134
+21,10021,Jurbarko šeimos klinika,,Jurbarkas,,74133,,,,,,,55.0825659,22.7711514
+22,10022,Jūrininkų ligoninės Palangos skyrius,Klaipėdos pl. 76,Palanga,,00148,,,,,,,55.9366633,21.0862976
+23,10023,K. Griniaus slaugos ir palaikomojo gydymo ligoninė,,Kaunas,,45313,,+370 37 346736,,,,,54.8855854,23.9792892
+24,10024,Kaišiadorių ligoninė,Beržyno g. 27,Kaišiadorys,,56161,,,,,,,54.8537702,24.4263935
+25,10025,Kalvarijos ligoninė,Vytauto g. 9,Kalvarija,,69217,,,,,,,54.4145663,23.2223543
 26,10026,Kardiolita,Laisvės pr. 64A,Vilnius,Vilniaus Apskritis,05248,,,,,,,54.7171717,25.2303176
-27,10027,Kauno Kraujo donorystės centras,I. Kanto g. 15,Kaunas,Kauno Savivaldybė,44301,,,,,No,,54.896082,23.9036931
-28,10028,Kauno Raudonojo Kryžiaus klinikinė ligoninė,Gedimino g. 36,Kaunas,Kauno Savivaldybė,44301,,,,,Yes,,54.8956665,23.9218516
-29,10029,Kauno klinikinės ligoninės infekcinių ligų klinika,Baltijos g. 120,Kaunas,Kauno Savivaldybė,47182,,,,,,,54.9175962,23.860383
-30,10030,Kelmės ligoninė,Nepriklausomybės g. 2,Kelmė,Kelmės Rajono Savivaldybė,86169,,,,,Yes,,55.6311415,22.9467744
-31,10031,Klaipėdos medicininės slaugos ligoninė,K. Donelaičio g. 15,Klaipėda,Klaipėdos Savivaldybė,91218,,+370 46 410 071,,,,,55.7159903,21.1349302
-32,10032,Klaipėdos psichikos sveikatos centras,Galinio Pylimo g. 3,Klaipėda,Klaipėdos Savivaldybė,91218,,,,,,,55.7059487,21.1394533
-33,10033,Klaipėdos universitetinė ligoninė,,Klaipėda,Klaipėdos Savivaldybė,91218,,,,,Yes,,55.7513834,21.1284329
-34,10034,Klaipėdos vaikų ligoninė,K. Donelaičio g. 7,Klaipėda,Klaipėdos Savivaldybė,91218,,+37046484144;+37046484120,,,Yes,,55.7151376,21.1352706
-35,10035,Kražių ambulatorija,S. Dariaus ir S. Girėno g. 35,Kražiai,Kelmės Rajono Savivaldybė,86285,,,,,Yes,,55.6029106,22.6893136
-36,10036,Krekenavos pirminės sveikatos priežiūros centras,Maironio g. 8,Krekenava,Panevėžio Rajono Savivaldybė,38307,,,,,,,55.5449124,24.0914712
-37,10037,Kulautuvos reabilitacijos ligoninė,Akacijų al. 18,Kulautuva,Kauno Rajono Savivaldybė,53489,,,,,,,54.9422161,23.6452557
-38,10038,Kuršėnų ligoninė,J. Basanavičiaus g. 10,Kuršėnai,Šiaulių Rajono Savivaldybė,81151,,+370 41 582 443,,,,,56.0035909,22.9368773
-39,10039,Kuršėnų palaikomojo gydymo ir slaugos skyrius,J. Basanavičiaus g. 12A,Kuršėnai,Šiaulių Rajono Savivaldybė,81151,,+370 41 581 593,,,,,56.004334,22.9372104
-40,10040,Kėdainių ligoninė,,Kėdainiai,Kėdainių Rajono Savivaldybė,57158,,,,,,,55.3112726,23.9864905
-41,10041,LSMU Kauno klinikos,Eivenių g. 2,Kaunas,Kauno Savivaldybė,50176,,,,,,,54.9169258,23.9255411
-42,10042,LSMUL KK Akių klinika,Eivenių g. 2,Kaunas,Kauno Savivaldybė,50176,,+37037326558,,,,,54.9196928,23.9236395
-43,10043,LSMUL KK Endokrinologijos klinika,,Kaunas,Kauno Savivaldybė,50176,,+37037326154,,,,,54.921545,23.9225937
-44,10044,LSMUL KK Suaugusiųjų Skubios Pagalbos Centras,,Kaunas,Kauno Savivaldybė,50176,,,,,,,54.9179021,23.9214829
-45,10045,LSMUL Kauno Klinikos,Eivenių g. 2,Kaunas,Kauno Savivaldybė,50176,,,,,Yes,,54.9189294,23.919375
-46,10046,Likėnų g.,,Pabiržė,Biržų Rajono Savivaldybė,41382,,,,,,,56.202275,24.6289474
-47,10047,Likėnų g.,,Pabiržė,Biržų Rajono Savivaldybė,41382,,,,,,,56.2024571,24.6288718
-48,10048,Likėnų g.,,Pabiržė,Biržų Rajono Savivaldybė,41382,,,,,,,56.2018171,24.6292098
+27,10027,Kauno Kraujo donorystės centras,I. Kanto g. 15,Kaunas,,44301,,,,,No,,54.896082,23.9036931
+28,10028,Kauno Raudonojo Kryžiaus klinikinė ligoninė,Gedimino g. 36,Kaunas,,44301,,,,,Yes,,54.8956665,23.9218516
+29,10029,Kauno klinikinės ligoninės infekcinių ligų klinika,Baltijos g. 120,Kaunas,,47182,,,,,,,54.9175962,23.860383
+30,10030,Kelmės ligoninė,Nepriklausomybės g. 2,Kelmė,,86169,,,,,Yes,,55.6311415,22.9467744
+31,10031,Klaipėdos medicininės slaugos ligoninė,K. Donelaičio g. 15,Klaipėda,,91218,,+370 46 410 071,,,,,55.7159903,21.1349302
+32,10032,Klaipėdos psichikos sveikatos centras,Galinio Pylimo g. 3,Klaipėda,,91218,,,,,,,55.7059487,21.1394533
+33,10033,Klaipėdos universitetinė ligoninė,,Klaipėda,,91218,,,,,Yes,,55.7513834,21.1284329
+34,10034,Klaipėdos vaikų ligoninė,K. Donelaičio g. 7,Klaipėda,,91218,,+37046484144;+37046484120,,,Yes,,55.7151376,21.1352706
+35,10035,Kražių ambulatorija,S. Dariaus ir S. Girėno g. 35,Kražiai,,86285,,,,,Yes,,55.6029106,22.6893136
+36,10036,Krekenavos pirminės sveikatos priežiūros centras,Maironio g. 8,Krekenava,,38307,,,,,,,55.5449124,24.0914712
+37,10037,Kulautuvos reabilitacijos ligoninė,Akacijų al. 18,Kulautuva,,53489,,,,,,,54.9422161,23.6452557
+38,10038,Kuršėnų ligoninė,J. Basanavičiaus g. 10,Kuršėnai,,81151,,+370 41 582 443,,,,,56.0035909,22.9368773
+39,10039,Kuršėnų palaikomojo gydymo ir slaugos skyrius,J. Basanavičiaus g. 12A,Kuršėnai,,81151,,+370 41 581 593,,,,,56.004334,22.9372104
+40,10040,Kėdainių ligoninė,,Kėdainiai,,57158,,,,,,,55.3112726,23.9864905
+41,10041,LSMU Kauno klinikos,Eivenių g. 2,Kaunas,,50176,,,,,,,54.9169258,23.9255411
+42,10042,LSMUL KK Akių klinika,Eivenių g. 2,Kaunas,,50176,,+37037326558,,,,,54.9196928,23.9236395
+43,10043,LSMUL KK Endokrinologijos klinika,,Kaunas,,50176,,+37037326154,,,,,54.921545,23.9225937
+44,10044,LSMUL KK Suaugusiųjų Skubios Pagalbos Centras,,Kaunas,,50176,,,,,,,54.9179021,23.9214829
+45,10045,LSMUL Kauno Klinikos,Eivenių g. 2,Kaunas,,50176,,,,,Yes,,54.9189294,23.919375
+46,10046,Likėnų g.,,Pabiržė,,41382,,,,,,,56.202275,24.6289474
+47,10047,Likėnų g.,,Pabiržė,,41382,,,,,,,56.2024571,24.6288718
+48,10048,Likėnų g.,,Pabiržė,,41382,,,,,,,56.2018171,24.6292098
 49,10049,"M. Marcinkevičiaus ligoninė, Subačiaus padalinys",Subačiaus g. 28,Vilnius,Vilniaus Apskritis,01100,,,,,,,54.6768516,25.2957567
-50,10050,Mažeikių ligoninė,,Mažeikiai,Mažeikių Rajono Savivaldybė,89139,,,,,,,56.3177674,22.3446965
-51,10051,Mažeikių pirminės sveikatos priežiūros centras,Naftininkų g. 9,Mažeikiai,Mažeikių Rajono Savivaldybė,89139,,,,,,,56.3057222,22.3394643
-52,10052,Meškuičių ambulatorija,,Meškuičiai,Šiaulių Rajono Savivaldybė,81443,,,,,,,56.0693645,23.4805586
-53,10053,Molėtų ligoninė,Graužinių g. 3,Molėtai,Molėtų Rajono Savivaldybė,33125,,,,,,,55.2264445,25.4116535
+50,10050,Mažeikių ligoninė,,Mažeikiai,Telšių Apskritis,89139,,,,,,,56.3177674,22.3446965
+51,10051,Mažeikių pirminės sveikatos priežiūros centras,Naftininkų g. 9,Mažeikiai,Telšių Apskritis,89139,,,,,,,56.3057222,22.3394643
+52,10052,Meškuičių ambulatorija,,Meškuičiai,,81443,,,,,,,56.0693645,23.4805586
+53,10053,Molėtų ligoninė,Graužinių g. 3,Molėtai,,33125,,,,,,,55.2264445,25.4116535
 54,10054,Mykolo Marcinkevičiaus ligoninė,J. Jablonskio g. 4,Vilnius,Vilniaus Apskritis,03214,,,,,,,54.6730387,25.2764175
 55,10055,Mykolo Marcinkevičiaus ligoninė,Kauno g. 7,Vilnius,Vilniaus Apskritis,03214,,,,,,,54.6730642,25.2766752
-56,10056,Naujosios Akmenės ligoninė,Respublikos g. 32,Naujoji Akmenė,Akmenės Rajono Savivaldybė,85192,,,,,,,56.3189584,22.8667626
-57,10057,Neringos pirminės sveikatos priežiūros centras,Taikos g. 11,Neringa,Neringos Savivaldybe,93104,,,,,Yes,,55.302643,21.0033078
-58,10058,Onkologijos klinika,,Šiauliai,Šiauliai Savivaldybė,76307,,,,,,,55.9441072,23.2897285
+56,10056,Naujosios Akmenės ligoninė,Respublikos g. 32,Naujoji Akmenė,,85192,,,,,,,56.3189584,22.8667626
+57,10057,Neringos pirminės sveikatos priežiūros centras,Taikos g. 11,Neringa,,93104,,,,,Yes,,55.302643,21.0033078
+58,10058,Onkologijos klinika,,Šiauliai,,76307,,,,,,,55.9441072,23.2897285
 59,10059,Onuškio palaikomojo gydymo ir slaugos ligoninė,K. Petrausko a. 6,Onuškis,Vilniaus Apskritis,21214,,,,,,,54.4833433,24.5927326
-60,10060,Pagėgių palaikomojo gydymo ir slaugos ligoninė,,Pagėgiai,Pagėgių Savivaldybė,99290,,,,,,,55.1327511,21.9147033
-61,10061,"Pagėgių palaikomojo gydymo, slaugos ir senelių globos ligoninė",Vytauto g. 39,Pagėgiai,Pagėgių Savivaldybė,99290,,,,,,,55.1450681,21.9087376
-62,10062,Pakruojo ligoninė,L. Giros g. 3,Pakruojis,Pakruojo Rajono Savivaldybė,83163,,,,,,,55.9783593,23.8430102
-63,10063,Panevezio m. greitosios medicinos pagalbos stotis,Sietyno g. 5B,Panevėžys,Panevėžio Savivaldybė,35194,,,,,,,55.7298298,24.354342
-64,10064,Panevėžio infekcinė ligoninė,Ramygalos g. 25,Panevėžys,Panevėžio Savivaldybė,35194,,,,,No,,55.7243118,24.3623057
-65,10065,Panevėžio palaikomojo gydymo ir slaugos ligoninė,M. Tiškevičiaus g. 6,Panevėžys,Panevėžio Savivaldybė,35194,,,,,,,55.731843,24.3685596
-66,10066,Panevėžio respublikinė ligoninė,Smėlynės g. 25,Panevėžys,Panevėžio Savivaldybė,35194,,,,,,,55.7341956,24.3679065
+60,10060,Pagėgių palaikomojo gydymo ir slaugos ligoninė,,Pagėgiai,,99290,,,,,,,55.1327511,21.9147033
+61,10061,"Pagėgių palaikomojo gydymo, slaugos ir senelių globos ligoninė",Vytauto g. 39,Pagėgiai,,99290,,,,,,,55.1450681,21.9087376
+62,10062,Pakruojo ligoninė,L. Giros g. 3,Pakruojis,,83163,,,,,,,55.9783593,23.8430102
+63,10063,Panevezio m. greitosios medicinos pagalbos stotis,Sietyno g. 5B,Panevėžys,,35194,,,,,,,55.7298298,24.354342
+64,10064,Panevėžio infekcinė ligoninė,Ramygalos g. 25,Panevėžys,,35194,,,,,No,,55.7243118,24.3623057
+65,10065,Panevėžio palaikomojo gydymo ir slaugos ligoninė,M. Tiškevičiaus g. 6,Panevėžys,,35194,,,,,,,55.731843,24.3685596
+66,10066,Panevėžio respublikinė ligoninė,Smėlynės g. 25,Panevėžys,,35194,,,,,,,55.7341956,24.3679065
 67,10067,Pašilaičių šeimos medicinos centras,Žemynos g. 2,Vilnius,Vilniaus Apskritis,06117,,,,,,,54.7257293,25.2253839
-68,10068,Plungės ligoninė,J. Tumo-Vaižganto g. 89,Plungė,Plungės Rajono Savivaldybė,90143,,,,,,,55.8991906,21.8291337
-69,10069,Prienų ligoninė,Pušyno g. 2,Prienai,Prienų Rajono Savivaldybė,59129,,,,,,,54.6308532,23.9620815
-70,10070,Psichiatrijos ligoninė,S. Dariaus ir S. Girėno g. 48,Kaunas,Kauno Savivaldybė,46355,,,,,,,54.8897116,23.8843373
-71,10071,Raseinių ligoninė,Ligoninės g. 4,Raseiniai,Raseinių Rajono Savivaldybė,60151,,,,,,,55.384848,23.1196743
-72,10072,Raseinių pirminės sveikatos priežiūros centras,Žemaitės g. 2,Raseiniai,Raseinių Rajono Savivaldybė,60151,,,,,,,55.3839344,23.1192235
-73,10073,Raudonojo Kryžiaus ligoninė,Laisvės al. 17,Kaunas,Kauno Savivaldybė,44301,,,,,,,54.8968115,23.9227688
-74,10074,Raudonojo Kryžiaus ligoninės Traumatologijos punktas,Laisvės al. 19,Kaunas,Kauno Savivaldybė,44301,,,,,,,54.8968314,23.9221984
-75,10075,Respublikinė Klaipėdos ligoninė,S. Nėries g. 3,Klaipėda,Klaipėdos Savivaldybė,91218,,+370 46 410 688,,,Yes,,55.7184174,21.1327333
+68,10068,Plungės ligoninė,J. Tumo-Vaižganto g. 89,Plungė,Telšių Apskritis,90143,,,,,,,55.8991906,21.8291337
+69,10069,Prienų ligoninė,Pušyno g. 2,Prienai,,59129,,,,,,,54.6308532,23.9620815
+70,10070,Psichiatrijos ligoninė,S. Dariaus ir S. Girėno g. 48,Kaunas,,46355,,,,,,,54.8897116,23.8843373
+71,10071,Raseinių ligoninė,Ligoninės g. 4,Raseiniai,,60151,,,,,,,55.384848,23.1196743
+72,10072,Raseinių pirminės sveikatos priežiūros centras,Žemaitės g. 2,Raseiniai,,60151,,,,,,,55.3839344,23.1192235
+73,10073,Raudonojo Kryžiaus ligoninė,Laisvės al. 17,Kaunas,,44301,,,,,,,54.8968115,23.9227688
+74,10074,Raudonojo Kryžiaus ligoninės Traumatologijos punktas,Laisvės al. 19,Kaunas,,44301,,,,,,,54.8968314,23.9221984
+75,10075,Respublikinė Klaipėdos ligoninė,S. Nėries g. 3,Klaipėda,,91218,,+370 46 410 688,,,Yes,,55.7184174,21.1327333
 76,10076,Respublikinė Vilniaus psichiatrijos ligoninė,Parko g. 21,Vilnius,Vilniaus Apskritis,11119,,,,,,,54.6843998,25.4200161
 77,10077,Respublikinė Vilniaus universitetinė ligoninė,Šiltnamių g. 29,Vilnius,Vilniaus Apskritis,04130,,,,,Yes,,54.6691438,25.2055004
 78,10078,"Respublikinė tuberkuliozės ir infekcinių ligų universitetinė ligoninė, Santariškių stacionaras",Santariškių g. 14,Vilnius,Vilniaus Apskritis,08411,,,,,,,54.7574073,25.2780441
-79,10079,Respublikinės Kauno ligoninės filialas Krikščioniškieji gimdymo namai,Miško g. 25,Kaunas,Kauno Savivaldybė,44301,,,,,,,54.8935407,23.918076
-80,10080,"Respublikinės Kauno ligoninės filialas Krikščioniškieji gimdymo namai, Gimdymo skyrius",Miško g. 25,Kaunas,Kauno Savivaldybė,44301,,,,,,,54.8936846,23.9180853
-81,10081,Respublikinės Klaipėdos ligoninės Psichiatrijos filialas,Bangų g. 6A,Klaipėda,Klaipėdos Savivaldybė,91218,,,,,,,55.7084306,21.1431501
-82,10082,Rokiškio psichiatrijos ligoninė,Vytauto g. 47,Rokiškio Kaimiškoji seniūnija,Rokiškio Rajono Savivaldybė,42411,,,,,,,55.9770775,25.5805428
-83,10083,Rokiškio rajono ligoninė,V. Lašo g. 3,Rokiškis,Rokiškio Rajono Savivaldybė,42106,,,,,,,55.9709357,25.5809962
-84,10084,Romainių tuberkuliozės ligoninė,Šilainių pl. 21,Kaunas,Kauno Savivaldybė,44301,,+370 37 362625,,,,,54.9229539,23.8318566
+79,10079,Respublikinės Kauno ligoninės filialas Krikščioniškieji gimdymo namai,Miško g. 25,Kaunas,,44301,,,,,,,54.8935407,23.918076
+80,10080,"Respublikinės Kauno ligoninės filialas Krikščioniškieji gimdymo namai, Gimdymo skyrius",Miško g. 25,Kaunas,,44301,,,,,,,54.8936846,23.9180853
+81,10081,Respublikinės Klaipėdos ligoninės Psichiatrijos filialas,Bangų g. 6A,Klaipėda,,91218,,,,,,,55.7084306,21.1431501
+82,10082,Rokiškio psichiatrijos ligoninė,Vytauto g. 47,Rokiškio Kaimiškoji seniūnija,,42411,,,,,,,55.9770775,25.5805428
+83,10083,Rokiškio rajono ligoninė,V. Lašo g. 3,Rokiškis,,42106,,,,,,,55.9709357,25.5809962
+84,10084,Romainių tuberkuliozės ligoninė,Šilainių pl. 21,Kaunas,,44301,,+370 37 362625,,,,,54.9229539,23.8318566
 85,10085,Santariškių klinikų vaikų ligoninė,Santariškių g. 7,Vilnius,Vilniaus Apskritis,08406,,,,,Yes,,54.7554462,25.281913
 86,10086,Skaidiškių ambulatorija,Rudaminos g. 12A,Nemėžis,Vilniaus Apskritis,13267,,,,,,,54.6068543,25.3846433
-87,10087,Skaudvilės slaugos ligoninė,,Skaudvilė,Tauragės Rajono Savivaldybė,73427,,,,,,,55.4057937,22.5865227
+87,10087,Skaudvilės slaugos ligoninė,,Skaudvilė,,73427,,,,,,,55.4057937,22.5865227
 88,10088,Slaugos ir palaikomojo gydymo ligoninė,Švenčionių g. 80B,Nemenčinė,Vilniaus Apskritis,15175,,,,,,,54.8526266,25.4716955
-89,10089,Tauragės apskrities ligoninė,,Tauragė,Tauragės Rajono Savivaldybė,72253,,,,,,,55.2544947,22.2824828
-90,10090,Tauragės pirminės sveikatos priežiūros centras,Jūros g. 5,Tauragė,Tauragės Rajono Savivaldybė,72253,,,,,,,55.2526872,22.2822013
-91,10091,Telšių apskrities ligoninė,Kalno g. 40,Telšiai,Telšių Rajono Savivaldybė,87318,,,,,,,55.9847659,22.2334449
+89,10089,Tauragės apskrities ligoninė,,Tauragė,,72253,,,,,,,55.2544947,22.2824828
+90,10090,Tauragės pirminės sveikatos priežiūros centras,Jūros g. 5,Tauragė,,72253,,,,,,,55.2526872,22.2822013
+91,10091,Telšių apskrities ligoninė,Kalno g. 40,Telšiai,Telšių Apskritis,87318,,,,,,,55.9847659,22.2334449
 92,10092,Trakų ligoninė,Mindaugo g. 13,Trakai,Vilniaus Apskritis,21105,,,,,,,54.637566,24.9370113
 93,10093,Trakų pirminės sveikatos priežiūros centras,Mindaugo g. 17,Trakai,Vilniaus Apskritis,21114,,,,,,,54.6373975,24.938992
-94,10094,Troškūnų ambulatorija,,Troškūnai,Anykščių Rajono Savivaldybė,29307,,,,,,,55.5855803,24.8844863
-95,10095,Troškūnų palaikomojo gydymo ir slaugos ligoninė,Vytauto g. 15,Troškūnai,Anykščių Rajono Savivaldybė,29307,,,,,,,55.5868403,24.8745692
-96,10096,Tuberkuliozės ir plaučių ligų ligoninė,V. Kudirkos gatvė 99,Šiauliai,Šiauliai Savivaldybė,76304,,,,,,,55.9419807,23.2987655
-97,10097,Tytuvėnų palaikomojo gydymo ir slaugos ligoninė,J. Basanavičiaus g. 6,Tytuvėnai,Kelmės Rajono Savivaldybė,86486,,,,,,,55.5979903,23.196691
-98,10098,Utenos ligoninė,,Utena,Utenos Rajono Savivaldybė,28151,,,,,,,55.5084744,25.5898788
-99,10099,V. Ivaščenko ambulatorija,Birutės g. 30A,Tauragė,Tauragės Rajono Savivaldybė,72253,,,,,,,55.2555656,22.2973582
+94,10094,Troškūnų ambulatorija,,Troškūnai,,29307,,,,,,,55.5855803,24.8844863
+95,10095,Troškūnų palaikomojo gydymo ir slaugos ligoninė,Vytauto g. 15,Troškūnai,,29307,,,,,,,55.5868403,24.8745692
+96,10096,Tuberkuliozės ir plaučių ligų ligoninė,V. Kudirkos gatvė 99,Šiauliai,,76304,,,,,,,55.9419807,23.2987655
+97,10097,Tytuvėnų palaikomojo gydymo ir slaugos ligoninė,J. Basanavičiaus g. 6,Tytuvėnai,,86486,,,,,,,55.5979903,23.196691
+98,10098,Utenos ligoninė,,Utena,,28151,,,,,,,55.5084744,25.5898788
+99,10099,V. Ivaščenko ambulatorija,Birutės g. 30A,Tauragė,,72253,,,,,,,55.2555656,22.2973582
 100,10100,VUVL filialas Vaiko raidos centras,Vytauto g. 15,Vilnius,Vilniaus Apskritis,08106,,,,,,,54.6883863,25.256394
 101,10101,Valakupių reabilitacijos centras,Vaidilutės g. 69,Vilnius,Vilniaus Apskritis,10102,,,,,,,54.7364456,25.2938543
-102,10102,Varnių pirminės sveikatos priežiūros centras,,Varniai,Telšių Rajono Savivaldybė,88321,,,,,,,55.743295,22.366521
-103,10103,Varnių slaugos ir palaikomojo gydymo ligoninė,,Varniai,Telšių Rajono Savivaldybė,88321,,,,,,,55.743295,22.366521
-104,10104,Veisiejų ambulatorija,Vilties g. 22A,Veisiejai,Lazdijų Rajono Savivaldybė,67337,,+37031856691,,,,,54.0962992,23.7018427
-105,10105,Ventos ambulatorija,Ventos g. 28,Venta,Akmenės Rajono Savivaldybė,85303,,,,,,,56.1891178,22.6823843
-106,10106,Vilkaviškio ligoninė,Maironio g. 25,Vilkaviškis,Vilkaviškio Rajono Savivaldybė,70142,,,,,,,54.6511654,23.0258955
+102,10102,Varnių pirminės sveikatos priežiūros centras,,Varniai,Telšių Apskritis,88321,,,,,,,55.743295,22.366521
+103,10103,Varnių slaugos ir palaikomojo gydymo ligoninė,,Varniai,Telšių Apskritis,88321,,,,,,,55.743295,22.366521
+104,10104,Veisiejų ambulatorija,Vilties g. 22A,Veisiejai,,67337,,+37031856691,,,,,54.0962992,23.7018427
+105,10105,Ventos ambulatorija,Ventos g. 28,Venta,,85303,,,,,,,56.1891178,22.6823843
+106,10106,Vilkaviškio ligoninė,Maironio g. 25,Vilkaviškis,,70142,,,,,,,54.6511654,23.0258955
 107,10107,Vilniaus Universiteto psichiatrijos klinika,,Vilnius,Vilniaus Apskritis,10102,,,,,,,54.6913919,25.3075391
 108,10108,Vilniaus gimdymo namai,Tyzenhauzų g. 18A,Vilnius,Vilniaus Apskritis,02169,,,,,,,54.6674885,25.2925915
 109,10109,Vilniaus rajono centrinė poliklinika,Laisvės pr. 79,Vilnius,Vilniaus Apskritis,05248,,,,,,,54.7223591,25.2366411
 110,10110,Vilniaus universitetinė slaugos ir ilgalaikio gydymo ligoninė,Tyzenhauzų g. 18,Vilnius,Vilniaus Apskritis,02169,,,,,,,54.6682392,25.2914674
 111,10111,"Vilniaus universiteto ligoninės Santariškių klinikos, Fizinės medicinos ir reabilitacijos centras",Jono Kairiūkščio g. 2,Vilnius,Vilniaus Apskritis,08411,,,,,,,54.7580027,25.2702978
 112,10112,Vilniaus universiteto ligoninės Santariškių klinikų Centro filialas,Tilto g. 11A,Vilnius,Vilniaus Apskritis,01100,,,,,,,54.688176,25.2846069
-113,10113,Visagino poliklinika,Taikos pr. 15,Visaginas,Visagino Savivaldybė,31128,,,,,,,55.6057044,26.4329673
-114,10114,VŠĮ Pakaunės PSPC,Lietuvių g. 22,Kaunas,Kauno Savivaldybė,50176,,,,,,,54.9022854,23.9238254
-115,10115,VŠĮ Valkininkų sanatorija,,Valkininkai,Varėnos Rajono Savivaldybė,65462,,,,,,,54.3490793,24.7208661
-116,10116,VšĮ Kupiškio Pirminės Sveikatos Priežiūros Centras,Krantinės g. 30,Kupiškis,Kupiškio Rajono Savivaldybė,40115,,,,,Yes,,55.8369856,24.9914702
-117,10117,VšĮ Radviliškio rajono pirminės sveikatos priežiūros centras,,Radviliškis,Radviliškio Rajono Savivaldybė,82152,,,,,,,55.8104224,23.5416868
-118,10118,VšĮ Varėnos ligoninė,,Varėna,Varėnos Rajono Savivaldybė,65156,,,,,,,54.2184304,24.567535
+113,10113,Visagino poliklinika,Taikos pr. 15,Visaginas,,31128,,,,,,,55.6057044,26.4329673
+114,10114,VŠĮ Pakaunės PSPC,Lietuvių g. 22,Kaunas,,50176,,,,,,,54.9022854,23.9238254
+115,10115,VŠĮ Valkininkų sanatorija,,Valkininkai,,65462,,,,,,,54.3490793,24.7208661
+116,10116,VšĮ Kupiškio Pirminės Sveikatos Priežiūros Centras,Krantinės g. 30,Kupiškis,,40115,,,,,Yes,,55.8369856,24.9914702
+117,10117,VšĮ Radviliškio rajono pirminės sveikatos priežiūros centras,,Radviliškis,,82152,,,,,,,55.8104224,23.5416868
+118,10118,VšĮ Varėnos ligoninė,,Varėna,,65156,,,,,,,54.2184304,24.567535
 119,10119,VšĮ Vilkpėdės ligoninė,Vilkpėdės g. 3,Vilnius,Vilniaus Apskritis,03151,,,,,,,54.6656379,25.2436501
 120,10120,VšĮ Širvintų ligoninė,Vilniaus g. 85,Širvintos,Vilniaus Apskritis,19110,,,,,,,55.0385761,24.9625724
-121,10121,VšĮ „Kupiškio ligoninė“,Krantinės g. 28,Kupiškis,Kupiškio Rajono Savivaldybė,40115,,,,,Yes,,55.8373946,24.9876543
-122,10122,Všį Radviliškio ligoninė,Gedimino g. 9,Radviliškis,Radviliškio Rajono Savivaldybė,82152,,,,,,,55.8109888,23.5411589
-123,10123,Zarasų ligoninė,Vilniaus g. 1B,Zarasai,Zarasų Rajono Savivaldybė,32112,,,,,,,55.7316816,26.2558229
-124,10124,Šakių Ligoninė,Bažnyčios g. 37,Šakiai,Šakių Rajono Savivaldybė,71123,,,,,,,54.955824,23.0330405
+121,10121,VšĮ „Kupiškio ligoninė“,Krantinės g. 28,Kupiškis,,40115,,,,,Yes,,55.8373946,24.9876543
+122,10122,Všį Radviliškio ligoninė,Gedimino g. 9,Radviliškis,,82152,,,,,,,55.8109888,23.5411589
+123,10123,Zarasų ligoninė,Vilniaus g. 1B,Zarasai,,32112,,,,,,,55.7316816,26.2558229
+124,10124,Šakių Ligoninė,Bažnyčios g. 37,Šakiai,,71123,,,,,,,54.955824,23.0330405
 125,10125,Šalčininkų r. savivaldybės ligoninė,Nepriklausomybės g. 38,Šalčininkai,Vilniaus Apskritis,17115,,,,,,,54.305751,25.3798854
-126,10126,Šiaulių ligoninė,V. Kudirkos gatvė 99,Šiauliai,Šiauliai Savivaldybė,76304,,,,,,,55.944223,23.2999269
-127,10127,Šiaulių ligoninė 1 korpusas,V. Kudirkos g. 99,Šiauliai,Šiauliai Savivaldybė,76304,,,,,,,55.9429841,23.3021473
-128,10128,Šiaulių ligoninė 2 korpusas,V. Kudirkos gatvė 99,Šiauliai,Šiauliai Savivaldybė,76304,,,,,,,55.9423916,23.3004605
-129,10129,Šiaulių ligoninė chirurgijos korpusas,,Šiauliai,Šiauliai Savivaldybė,76304,,,,,,,55.9440662,23.299477
-130,10130,Šiaulių priklausomybės ligų centras,Daubos g. 3,Šiauliai,Šiauliai Savivaldybė,79214,,,,,,,55.9062457,23.3088765
-131,10131,Šiaulių psichiatrijos ligoninė,M. K. Čiurlionio g. 12,Šiauliai,Šiauliai Savivaldybė,76304,,,,,,,55.9425653,23.2978325
+126,10126,Šiaulių ligoninė,V. Kudirkos gatvė 99,Šiauliai,,76304,,,,,,,55.944223,23.2999269
+127,10127,Šiaulių ligoninė 1 korpusas,V. Kudirkos g. 99,Šiauliai,,76304,,,,,,,55.9429841,23.3021473
+128,10128,Šiaulių ligoninė 2 korpusas,V. Kudirkos gatvė 99,Šiauliai,,76304,,,,,,,55.9423916,23.3004605
+129,10129,Šiaulių ligoninė chirurgijos korpusas,,Šiauliai,,76304,,,,,,,55.9440662,23.299477
+130,10130,Šiaulių priklausomybės ligų centras,Daubos g. 3,Šiauliai,,79214,,,,,,,55.9062457,23.3088765
+131,10131,Šiaulių psichiatrijos ligoninė,M. K. Čiurlionio g. 12,Šiauliai,,76304,,,,,,,55.9425653,23.2978325
 132,10132,Šumsko palaikomojo gydymo ir slaugos ligoninė,Vilniaus g. 40,Kalveliai,Vilniaus Apskritis,13168,,,,,,,54.6039363,25.7284336
 133,10133,Šv. Roko ligoninė,Klinikų g. 2,Vilnius,Vilniaus Apskritis,10102,,,,,,,54.7088381,25.3144698
-134,10134,Švėkšnos psichiatrinė ligoninė,Aušros g. 27,Švėkšna,Šilutės Rajono Savivaldybė,99383,,,,,,,55.5209661,21.6246244
+134,10134,Švėkšnos psichiatrinė ligoninė,Aušros g. 27,Švėkšna,,99383,,,,,,,55.5209661,21.6246244
 135,10135,Žalgirio klinika,Žalgirio g. 117,Vilnius,Vilniaus Apskritis,08218,,,,,,,54.7051839,25.2788786
-136,10136,Žaslių PSPC,Vilniaus g. 1,Žasliai,Kaišiadorių Rajono Savivaldybė,56411,,+370 346 44316,,,,,54.8650729,24.590121
-137,10137,A. Viruišio reabilitacijos klinika,S. Šalkauskio g. 4,Šiauliai,Šiauliai Savivaldybė,76288,,,,,,,55.929326,23.3228736
-138,10138,Alytaus raj. savivaldybės PSPC,Naujoji g. 48,Alytus,Alytaus Savivaldybė,62112,,,,,,,54.4033498,24.0243877
-139,10139,Bokšto klinika,Tilžės g. 11,Šiauliai,Šiauliai Savivaldybė,78233,,,,,,,55.9110664,23.2691698
-140,10140,Butrimonių ambulatorija,,Butrimonys,Alytaus Rajono Savivaldybė,64429,,,,,,,54.5019488,24.2496836
+136,10136,Žaslių PSPC,Vilniaus g. 1,Žasliai,,56411,,+370 346 44316,,,,,54.8650729,24.590121
+137,10137,A. Viruišio reabilitacijos klinika,S. Šalkauskio g. 4,Šiauliai,,76288,,,,,,,55.929326,23.3228736
+138,10138,Alytaus raj. savivaldybės PSPC,Naujoji g. 48,Alytus,,62112,,,,,,,54.4033498,24.0243877
+139,10139,Bokšto klinika,Tilžės g. 11,Šiauliai,,78233,,,,,,,55.9110664,23.2691698
+140,10140,Butrimonių ambulatorija,,Butrimonys,,64429,,,,,,,54.5019488,24.2496836
 141,10141,"Centro poliklinika, Vytenio filialas",Vytenio g. 59,Vilnius,Vilniaus Apskritis,03105,,,,,,,54.6717706,25.2654363
-142,10142,Dainų pirminės sveikatos priežiūros centras,Aido g. 18,Šiauliai,Šiauliai Savivaldybė,78242,,,,,,,55.9123368,23.2708664
-143,10143,Ginkūnų medicinos punktas,Aušros g. 4,Ginkūnai,Šiaulių Rajono Savivaldybė,81489,,,,,,,55.954527,23.3531149
+142,10142,Dainų pirminės sveikatos priežiūros centras,Aido g. 18,Šiauliai,,78242,,,,,,,55.9123368,23.2708664
+143,10143,Ginkūnų medicinos punktas,Aušros g. 4,Ginkūnai,,81489,,,,,,,55.954527,23.3531149
 144,10144,Grožio akademija,Savanorių pr. 4,Vilnius,Vilniaus Apskritis,03105,,,,,,,54.6792774,25.2593296
-145,10145,Jūžintų BPG kabinetas,Liepų g. 4,Jūžintai,Rokiškio Rajono Savivaldybė,42263,,,,,,,55.7754739,25.6752615
-146,10146,Karsakiškio medicinos punktas,Lėvens g. 8,Karsakiškis,Panevėžio Rajono Savivaldybė,38462,,,,,,,55.7936824,24.5739812
-147,10147,Kauno klinikų Šeimos medicinos klinikos padalinys,Vytauto pr. 49,Kaunas,Kauno Savivaldybė,44301,,,,,,,54.8908239,23.9235902
+145,10145,Jūžintų BPG kabinetas,Liepų g. 4,Jūžintai,,42263,,,,,,,55.7754739,25.6752615
+146,10146,Karsakiškio medicinos punktas,Lėvens g. 8,Karsakiškis,,38462,,,,,,,55.7936824,24.5739812
+147,10147,Kauno klinikų Šeimos medicinos klinikos padalinys,Vytauto pr. 49,Kaunas,,44301,,,,,,,54.8908239,23.9235902
 148,10148,Lazdynų poliklinika,Erfurto g. 15,Vilnius,Vilniaus Apskritis,04130,,,,,,,54.67705,25.207814
 149,10149,Lentvario ambulatorija,Lauko g. 26,Lentvaris,Vilniaus Apskritis,25117,,,,,,,54.6399685,25.0439454
-150,10150,Marijampolės pirminės sveikatos priežiūros centras,P. Kriaučiūno g. 2,Marijampolė,Marijampolės Savivaldybė,68298,,,,,,,54.5545978,23.3459164
+150,10150,Marijampolės pirminės sveikatos priežiūros centras,P. Kriaučiūno g. 2,Marijampolė,,68298,,,,,,,54.5545978,23.3459164
 151,10151,Medicinos diagnostikos ir gydymo centras,V. Grybo g. 32A,Vilnius,Vilniaus Apskritis,10102,,,,,,,54.7061612,25.3165221
-152,10152,Molėtų rajono pirminės sveikatos priežiūros centras,Graužinių g. 2,Molėtai,Molėtų Rajono Savivaldybė,33111,,,,,,,55.2274245,25.4110811
-153,10153,Obelių ambulatorija,Stoties g. 65,Obeliai,Rokiškio Rajono Savivaldybė,42213,,,,,,,55.9425638,25.798771
-154,10154,Papilio ambulatorija,Rožių g. 8,Papilys,Biržų Rajono Savivaldybė,41224,,+370 450 58184,,,,,56.1157119,25.0069952
-155,10155,Pirminės sveikatos priežiūros centras,M. K. Čiurlionio g. 82,Druskininkai,Druskininkų Savivaldybė,66143,,+37031353702,,,,,54.0130868,23.987271
-156,10156,R. Burnicko BPG kabinetas,Panevėžio g. 16A,Rokiškis,Rokiškio Rajono Savivaldybė,42162,,,,,,,55.94654,25.5842953
-157,10157,Rumšiškių pirminės sveikatos priežiūros centras,S. Nėries g. 13,Rumšiškės,Kaišiadorių Rajono Savivaldybė,56336,,,,,,,54.8675366,24.2176878
-158,10158,Rėkyvos ambulatorija,Energetikų g. 18,Šiauliai,Šiauliai Savivaldybė,79243,,,,,,,55.8539408,23.3268493
-159,10159,Saldutiškio ambulatorija,Laisvės a. 16,Saldutiškis,Utenos Rajono Savivaldybė,28334,,,,,,,55.3492807,25.8106315
+152,10152,Molėtų rajono pirminės sveikatos priežiūros centras,Graužinių g. 2,Molėtai,,33111,,,,,,,55.2274245,25.4110811
+153,10153,Obelių ambulatorija,Stoties g. 65,Obeliai,,42213,,,,,,,55.9425638,25.798771
+154,10154,Papilio ambulatorija,Rožių g. 8,Papilys,,41224,,+370 450 58184,,,,,56.1157119,25.0069952
+155,10155,Pirminės sveikatos priežiūros centras,M. K. Čiurlionio g. 82,Druskininkai,,66143,,+37031353702,,,,,54.0130868,23.987271
+156,10156,R. Burnicko BPG kabinetas,Panevėžio g. 16A,Rokiškis,,42162,,,,,,,55.94654,25.5842953
+157,10157,Rumšiškių pirminės sveikatos priežiūros centras,S. Nėries g. 13,Rumšiškės,,56336,,,,,,,54.8675366,24.2176878
+158,10158,Rėkyvos ambulatorija,Energetikų g. 18,Šiauliai,,79243,,,,,,,55.8539408,23.3268493
+159,10159,Saldutiškio ambulatorija,Laisvės a. 16,Saldutiškis,,28334,,,,,,,55.3492807,25.8106315
 160,10160,Sanatorija „Pušyno kelias“,Pušyno kel. 23,Vilnius,Vilniaus Apskritis,09116,,,,,,,54.7293695,25.2843602
-161,10161,Skapiškio Igno Vaitoškos ambulatorija,Varpo a. 5,Skapiškis,Kupiškio Rajono Savivaldybė,40469,,,,,,,55.8933838,25.2009888
-162,10162,Sporto medicinos centras,,Šiauliai,Šiauliai Savivaldybė,76232,,,,,,,55.9409483,23.3056927
+161,10161,Skapiškio Igno Vaitoškos ambulatorija,Varpo a. 5,Skapiškis,,40469,,,,,,,55.8933838,25.2009888
+162,10162,Sporto medicinos centras,,Šiauliai,,76232,,,,,,,55.9409483,23.3056927
 163,10163,Sugihara,Č. Sugiharos g. 3,Vilnius,Vilniaus Apskritis,05112,,,,,,,54.7036888,25.2324505
-164,10164,UPA Medea,Sveikatos g. 34,Druskininkai,Druskininkų Savivaldybė,66143,,,,,,,54.0178548,24.0098136
-165,10165,Ąžuolyno šeimos sveikatos centras,A. Merkio g. 7A,Lapės,Kauno Rajono Savivaldybė,54435,,+370 37 470017,,,,,54.9736016,24.0021262
-166,10166,Šeimos gydytojų centras,Aušros al. 59,Šiauliai,Šiauliai Savivaldybė,76303,,,,,,,55.9414275,23.3020123
+164,10164,UPA Medea,Sveikatos g. 34,Druskininkai,,66143,,,,,,,54.0178548,24.0098136
+165,10165,Ąžuolyno šeimos sveikatos centras,A. Merkio g. 7A,Lapės,,54435,,+370 37 470017,,,,,54.9736016,24.0021262
+166,10166,Šeimos gydytojų centras,Aušros al. 59,Šiauliai,,76303,,,,,,,55.9414275,23.3020123
 167,10167,Šeškinės poliklinika,Šeškinės g. 24,Vilnius,Vilniaus Apskritis,07175,,,,,,,54.7162131,25.2493322
 168,10168,Širvintų rajono pirminės sveikatos priežiūros centras,P. Cvirkos g. 13,Širvintos,Vilniaus Apskritis,19110,,,,,,,55.0374444,24.9614131
-169,10169,Šėtos ambulatorija,Turgaus g. 7,Šėta,Kėdainių Rajono Savivaldybė,58128,,,,,,,55.2823314,24.2492461
+169,10169,Šėtos ambulatorija,Turgaus g. 7,Šėta,,58128,,,,,,,55.2823314,24.2492461
