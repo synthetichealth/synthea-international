@@ -1,15 +1,15 @@
 ,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
-0,10000,Aker universitetssykehus,,Oslo,,0589,,,,,,,59.9385162,10.7970604
+0,10000,Aker universitetssykehus,,Oslo,Oslo,0589,,,,,,,59.9385162,10.7970604
 1,10001,Akershus universitetssykehus (AHUS),Sykehuseveien 25.0,Nordbyhagen,Viken,1474,,+47 91502900,,,Yes,,59.9326763,10.9918113
 2,10002,Alta helsesenter,,Alta,Troms Og Finnmark,9510,,+47 78 48 39 00,,,,,69.968598,23.2736104
 3,10003,Ambulansesentral Stavanger,Frida Hansens vei nan,Stavanger,Rogaland,4006,,,,,ambulance_station,,58.9502967,5.7413033
 4,10004,Betanien hospital,,Skien,Vestfold Og Telemark,3717,,,,,,,59.2088591,9.596578
 5,10005,Bjønnessåsen sykehjem,,,Vestfold Og Telemark,,,,,,,,59.2153583,10.4258819
 6,10006,Bærum sykehus,,Gjettum,Viken,1346,,,,,Yes,,59.8985754,10.5088813
-7,10007,Diakonhjemmet sykehus,,Oslo,,0756,,,,,,,59.9384833,10.7040525
-8,10008,Diakonhjemmet sykehus Vinderen,Forskningsveien 7.0,Oslo,,0756,,,,,,,59.9424202,10.7114431
+7,10007,Diakonhjemmet sykehus,,Oslo,Oslo,0756,,,,,,,59.9384833,10.7040525
+8,10008,Diakonhjemmet sykehus Vinderen,Forskningsveien 7.0,Oslo,Oslo,0756,,,,,,,59.9424202,10.7114431
 9,10009,Drammen sykehus,,Drammen,Viken,3018,,,,,Yes,,59.7479714,10.1959677
-10,10010,Gaustad sykehus,,Oslo,,0155,,,,,,,59.9524183,10.717898
+10,10010,Gaustad sykehus,,Oslo,Oslo,0155,,,,,,,59.9524183,10.717898
 11,10011,Hammerfest sykehus,,,Troms Og Finnmark,9600,,,,,Yes,,70.6730658,23.6695155
 12,10012,Harstad sykehus,,,Troms Og Finnmark,,,,,,Yes,,68.7965621,16.5246577
 13,10013,Haugesund sykehus,,Haugesund,Rogaland,5527,,,,,Yes,,59.4095895,5.276797
@@ -33,9 +33,9 @@
 31,10031,Nordfjord sjukehus,,Nordfjordeid,Vestland,6770,,,,,,,61.9163312,5.9779942
 32,10032,Nordlandsykehuset,,Bodø,Nordland,8006,,,,,Yes,,67.2840314,14.3964231
 33,10033,Nøtterøy helsesenter,,,Vestfold Og Telemark,,,,,,,,59.240504,10.3962931
-34,10034,Oslo universitetssykehus (Rikshospitalet),,Oslo,,0155,,02770,,,Yes,,59.9473315,10.7176906
-35,10035,Oslo universitetssykehus (Ullevål),,Oslo,,0155,,,,,Yes,,59.9397043,10.7462623
-36,10036,Radiumhospitalet,,Oslo,,0284,,,,,,,59.9314134,10.6652211
+34,10034,Oslo universitetssykehus (Rikshospitalet),,Oslo,Oslo,0155,,02770,,,Yes,,59.9473315,10.7176906
+35,10035,Oslo universitetssykehus (Ullevål),,Oslo,Oslo,0155,,,,,Yes,,59.9397043,10.7462623
+36,10036,Radiumhospitalet,,Oslo,Oslo,0284,,,,,,,59.9314134,10.6652211
 37,10037,Reinsvoll sykehus,,Reinsvoll,Innlandet,2840,,,,,,,60.6829305,10.6466351
 38,10038,Ringerike Sykehus,,Hønefoss,Viken,3510,,,,,,,60.1472542,10.2572052
 39,10039,Ringerike Sykehus HF,Arnold Dybsjords vei 1.0,Hønefoss,Viken,3511,,,,,Yes,,60.1494536,10.25321

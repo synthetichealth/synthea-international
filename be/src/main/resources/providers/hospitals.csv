@@ -104,7 +104,7 @@
 102,10102,Clinique Sainte-Elisabeth,Rue du Naimeux 17,Verviers,Wallonie,4802,,,,,,,50.5784147,5.8625602
 103,10103,Clinique Sainte-Rosalie (C.H.R. de la Citadelle),,Liège,Wallonie,4000,,,,,No,,50.6297658,5.55633
 104,10104,Clinique Sainte-Élisabeth,,Namur,Wallonie,5000,,,,,Yes,,50.4607992,4.8454964
-105,10105,Clinique Sainte-Élisabeth - Sint-Elisabeth Ziekenhuis,Avenue De Fré - De Frélaan 206,Uccle,,1180,,+32 2 614 20 00,,,Yes,,50.8051388,4.3674079
+105,10105,Clinique Sainte-Élisabeth - Sint-Elisabeth Ziekenhuis,Avenue De Fré - De Frélaan 206,Uccle,Bruxelles,1180,,+32 2 614 20 00,,,Yes,,50.8051388,4.3674079
 106,10106,Clinique de l'Espérance,Rue Saint-Nicolas 447,Saint-Nicolas,Wallonie,4420,,,,,,,50.640897,5.5335492
 107,10107,Clinique de l'IPAL : Site du Péri,,Liège,Wallonie,4000,,,,,,,50.6493027,5.5697851
 108,10108,Clinique des Houx,,Engis,Wallonie,4480,,,,,,,50.5510922,5.4081578
@@ -144,7 +144,7 @@
 142,10142,Jessa,,Herk-de-Stad,Vlaanderen,3540,,,,,,,50.9385043,5.1633259
 143,10143,"Jessa Ziekenhuis, campus Salvator",Salvatorstraat 20,Hasselt,Vlaanderen,3500,,,,,No,,50.9107885,5.3428991
 144,10144,"Jessa ziekenhuis, campus Virga Jesse",Stadsomvaart 11,Hasselt,Vlaanderen,3500,,,,,Yes,,50.9263446,5.3404338
-145,10145,Joseph Bracops,Rue Docteur Huet - Dokter Huetstraat 79,Anderlecht,,1070,,,,,Yes,,50.8345398,4.2919724
+145,10145,Joseph Bracops,Rue Docteur Huet - Dokter Huetstraat 79,Anderlecht,Bruxelles,1070,,,,,Yes,,50.8345398,4.2919724
 146,10146,KARUS,Beukenlaan 21,Gent,Vlaanderen,9051,,,,,,,51.0261239,3.6761414
 147,10147,Kliniek Sint Jozef,,Pittem,Vlaanderen,8740,,,,,,,50.9852377,3.2502484
 148,10148,Klinik St Josef,Klosterstraße 9,Sankt-Vith,,4780,,,,,Yes,,50.2779515,6.1269273
@@ -203,7 +203,7 @@
 201,10201,Sint-Maria Halle,Ziekenhuislaan 100,Halle,Vlaanderen,1500,,+32 2 363 12 11,,,,,50.7363334,4.2283433
 202,10202,Sint-Vincentius (GZA),Sint-Vincentiusstraat 20,Antwerpen,Vlaanderen,2018,,,,,Yes,,51.205158,4.4133844
 203,10203,Ter Duinen,Louisweg 46,Nieuwpoort,Vlaanderen,8620,,,,,No,,51.1387428,2.7153148
-204,10204,UCLouvain Saint-Luc University Hospital,Avenue Hippocrate - Hippokrateslaan 10,Woluwé-Saint-Lambert,,1200,,+32 2 764 11 11,,,Yes,,50.852123,4.4510836
+204,10204,UCLouvain Saint-Luc University Hospital,Avenue Hippocrate - Hippokrateslaan 10,Woluwé-Saint-Lambert,Bruxelles,1200,,+32 2 764 11 11,,,Yes,,50.852123,4.4510836
 205,10205,UPC Sint-Kamillus,Krijkelberg 1,Bierbeek,Vlaanderen,3360,,,,,,,50.8558625,4.7469044
 206,10206,UZ Leuven - Campus Lubbeek,nan 2,Lubbeek,Vlaanderen,3210,,,,,,,50.8816068,4.8442506
 207,10207,UZ Pellenberg,,Lubbeek,Vlaanderen,3210,,,,,,,50.8608593,4.7984576

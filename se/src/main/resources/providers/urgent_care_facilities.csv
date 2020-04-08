@@ -1,134 +1,134 @@
 ,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
 0,20000,Akademiska sjukhuset,,Uppsala,Uppsala,753 09,,,,,Yes,,59.8533066,17.6390728
-1,20001,Alingsås lasarett,,Alingsås,,441 30,,,,,Yes,,57.9281109,12.5193569
-2,20002,Ambulansstation (under construction),,Råda,,683 93,,,,,,,60.0271769,13.5858201
-3,20003,Berga Sjukhus,,,,136 40,,,,,,,59.0824202,18.1343519
-4,20004,Blackebergs sjukhus,,Stockholm,Stockholm,168 48,,,,,,,59.3409085,17.8814962
+1,20001,Alingsås lasarett,,Alingsås,Västra Götalands Län,441 30,,,,,Yes,,57.9281109,12.5193569
+2,20002,Ambulansstation (under construction),,Råda,Värmlands Län,683 93,,,,,,,60.0271769,13.5858201
+3,20003,Berga Sjukhus,,,Stockholms Län,136 40,,,,,,,59.0824202,18.1343519
+4,20004,Blackebergs sjukhus,,Stockholm,Stockholms Län,168 48,,,,,,,59.3409085,17.8814962
 5,20005,Blekingesjukhuset Karlskrona,,Karlskrona,,371 31,,,,,Yes,,56.1808907,15.6024515
-6,20006,Bollnäs sjukhus,,Bollnäs,,821 42,,,,,Yes,,61.3540388,16.3592098
-7,20007,Borlänge Sjukhus,,Borlänge,,784 34,,,,,,,60.5046902,15.4645268
-8,20008,Brinkåsen,,,,462 30,,,,,,,58.3464421,12.3631637
-9,20009,Bromma sjukhus,Follingbogatan 32,Stockholm,Stockholm,168 62,,+4686875000,,,,,59.3596217,17.8993198
-10,20010,Carlanderska sjukhus,Carlandersplatsen nan,Göteborg,,412 65,,,,,,,57.6929234,11.9889492
-11,20011,Centrallasarettet Växjö,Strandvägen 8,Växjö,,352 29,,,,,Yes,,56.8754926,14.8053606
+6,20006,Bollnäs sjukhus,,Bollnäs,Gävleborgs Län,821 42,,,,,Yes,,61.3540388,16.3592098
+7,20007,Borlänge Sjukhus,,Borlänge,Dalarnas Län,784 34,,,,,,,60.5046902,15.4645268
+8,20008,Brinkåsen,,,Västra Götalands Län,462 30,,,,,,,58.3464421,12.3631637
+9,20009,Bromma sjukhus,Follingbogatan 32,Stockholm,Stockholms Län,168 62,,+4686875000,,,,,59.3596217,17.8993198
+10,20010,Carlanderska sjukhus,Carlandersplatsen nan,Göteborg,Västra Götalands Län,412 65,,,,,,,57.6929234,11.9889492
+11,20011,Centrallasarettet Växjö,Strandvägen 8,Växjö,Kronobergs Län,352 29,,,,,Yes,,56.8754926,14.8053606
 12,20012,Centralsjukhuset Kristianstad,J A Hedlunds väg 5,Kristianstad,,291 33,,+46 44 3091000,,,Yes,,56.0279604,14.1719418
-13,20013,Centralsjukhuset i Karlstad,,Karlstad,,652 30,,,,,Yes,,59.3784825,13.4808361
-14,20014,Dalens Närsjukhus,,Stockholm,Stockholm,122 62,,,,,,,59.2885986,18.0969141
-15,20015,Dalslands Sjukhus,,Bäckefors,,668 40,,,,,Yes,,58.7995545,12.159657
-16,20016,Danderyds sjukhus,,Danderyd,,182 33,,,,,Yes,,59.3929656,18.0347549
-17,20017,Ekbacken,,Lammhult,,363 44,,,,,,,57.1690534,14.5918323
+13,20013,Centralsjukhuset i Karlstad,,Karlstad,Värmlands Län,652 30,,,,,Yes,,59.3784825,13.4808361
+14,20014,Dalens Närsjukhus,,Stockholm,Stockholms Län,122 62,,,,,,,59.2885986,18.0969141
+15,20015,Dalslands Sjukhus,,Bäckefors,Västra Götalands Län,668 40,,,,,Yes,,58.7995545,12.159657
+16,20016,Danderyds sjukhus,,Danderyd,Stockholms Län,182 33,,,,,Yes,,59.3929656,18.0347549
+17,20017,Ekbacken,,Lammhult,Kronobergs Län,363 44,,,,,,,57.1690534,14.5918323
 18,20018,Elisabethsjukhuset,Geijersgatan 20,Uppsala,Uppsala,752 29,,+46 18 188800,,,,,59.8628355,17.620063
 19,20019,Enköpings Lasarett,,Enköping,,745 38,,,,,Yes,,59.6290458,17.0668262
-20,20020,Ersta sjukhus,,Stockholm,Stockholm,116 21,,,,,,,59.315916,18.0886925
-21,20021,Falu Lasarett,,Falun,,791 31,,,,,Yes,,60.6087947,15.6408404
-22,20022,Filipstad vårdcentral,,Filipstad,,682 30,,,,,,,59.7128413,14.1781752
-23,20023,Finspångs Lasarett,,Finspång,,612 30,,,,,,,58.7095469,15.7602316
-24,20024,Frölunda specialistsjukhus,,Göteborg,,421 44,,,,,,,57.6507178,11.9120228
-25,20025,Gällivare sjukhus,Källgatan 14,,,982 31,,,,,Yes,,67.1301719,20.6803771
-26,20026,Gävle Sjukhus ingång 25,,Gävle,,803 24,,,,,,,60.6793361,17.11901
-27,20027,Habiliteringsmottagning Sundsvall,Kungsvägen 30,Sundsvall,,852 32,,060-18 29 00,,,No,,62.3996292,17.3138881
-28,20028,Hallands sjukhus Varberg,Träslövsvägen 68,Varberg,,432 37,,,,,Yes,,57.0963362,12.2762308
-29,20029,Helix,,,,141 47,,,,,,,59.2146337,17.9302963
+20,20020,Ersta sjukhus,,Stockholm,Stockholms Län,116 21,,,,,,,59.315916,18.0886925
+21,20021,Falu Lasarett,,Falun,Dalarnas Län,791 31,,,,,Yes,,60.6087947,15.6408404
+22,20022,Filipstad vårdcentral,,Filipstad,Värmlands Län,682 30,,,,,,,59.7128413,14.1781752
+23,20023,Finspångs Lasarett,,Finspång,Östergötlands Län,612 30,,,,,,,58.7095469,15.7602316
+24,20024,Frölunda specialistsjukhus,,Göteborg,Västra Götalands Län,421 44,,,,,,,57.6507178,11.9120228
+25,20025,Gällivare sjukhus,Källgatan 14,,Norrbottens Län,982 31,,,,,Yes,,67.1301719,20.6803771
+26,20026,Gävle Sjukhus ingång 25,,Gävle,Gävleborgs Län,803 24,,,,,,,60.6793361,17.11901
+27,20027,Habiliteringsmottagning Sundsvall,Kungsvägen 30,Sundsvall,Västernorrlands Län,852 32,,060-18 29 00,,,No,,62.3996292,17.3138881
+28,20028,Hallands sjukhus Varberg,Träslövsvägen 68,Varberg,Hallands Län,432 37,,,,,Yes,,57.0963362,12.2762308
+29,20029,Helix,,,Stockholms Län,141 47,,,,,,,59.2146337,17.9302963
 30,20030,Helsingborgs lasarett,,Helsingborg,,254 37,,,,,Yes,,56.0446526,12.7036352
-31,20031,Hudiksvalls sjukhus,Kungsgatan 33,Hudiksvall,,824 30,,,,,Yes,,61.7284921,17.0966634
+31,20031,Hudiksvalls sjukhus,Kungsgatan 33,Hudiksvall,Gävleborgs Län,824 30,,,,,Yes,,61.7284921,17.0966634
 32,20032,Hässleholms Sjukhus,,Hässleholm,,281 31,,,,,Yes,,56.1599371,13.7763263
-33,20033,Höglandssjukhuset Eksjö,,Eksjö,,575 31,,,,,Yes,,57.6654478,14.9693386
-34,20034,Höglandssjukhuset Eksjö-Nässjö,,Nässjö,,571 31,,,,,,,57.6542264,14.7132043
-35,20035,Högsbo sjukhus,,Göteborg,,421 44,,,,,,,57.6675791,11.9305844
-36,20036,Jakobsbergs sjukhus,,Jakobsberg,,177 50,,,,,,,59.4229976,17.8472524
-37,20037,Kalix sjukhus,,Kalix,,952 33,,,,,Yes,,65.8542689,23.1542119
+33,20033,Höglandssjukhuset Eksjö,,Eksjö,Jönköpings Län,575 31,,,,,Yes,,57.6654478,14.9693386
+34,20034,Höglandssjukhuset Eksjö-Nässjö,,Nässjö,Jönköpings Län,571 31,,,,,,,57.6542264,14.7132043
+35,20035,Högsbo sjukhus,,Göteborg,Västra Götalands Län,421 44,,,,,,,57.6675791,11.9305844
+36,20036,Jakobsbergs sjukhus,,Jakobsberg,Stockholms Län,177 50,,,,,,,59.4229976,17.8472524
+37,20037,Kalix sjukhus,,Kalix,Norrbottens Län,952 33,,,,,Yes,,65.8542689,23.1542119
 38,20038,Karlskoga Lasarett,,Karlskoga,,691 31,,,,,Yes,,59.3169402,14.5034747
-39,20039,Karolinska universitetssjukhuset,,Haga,,171 64,,,,,Yes,,59.3536241,18.0313548
-40,20040,Karolinska universitetssjukhuset Huddinge,,Flemingsberg,,141 49,,,,,Yes,,59.2248589,17.9313539
-41,20041,Karsuddens sjukhus,,Katrineholm,,641 96,,,,,,,59.0164861,16.2074635
-42,20042,Karsuddens sjukhus,,,,641 31,,,,,,,59.0177208,16.2047468
-43,20043,Knäred Vårdcentral,,,,312 30,,,,,Yes,,56.5209357,13.3160174
-44,20044,Kungälvs sjukhus,,Kungälv,,442 41,,,,,Yes,,57.8791847,11.9700739
+39,20039,Karolinska universitetssjukhuset,,Haga,Stockholms Län,171 64,,,,,Yes,,59.3536241,18.0313548
+40,20040,Karolinska universitetssjukhuset Huddinge,,Flemingsberg,Stockholms Län,141 49,,,,,Yes,,59.2248589,17.9313539
+41,20041,Karsuddens sjukhus,,Katrineholm,Södermanlands Län,641 96,,,,,,,59.0164861,16.2074635
+42,20042,Karsuddens sjukhus,,,Södermanlands Län,641 31,,,,,,,59.0177208,16.2047468
+43,20043,Knäred Vårdcentral,,,Hallands Län,312 30,,,,,Yes,,56.5209357,13.3160174
+44,20044,Kungälvs sjukhus,,Kungälv,Västra Götalands Län,442 41,,,,,Yes,,57.8791847,11.9700739
 45,20045,Landskrona lasarett,,Landskrona,,261 32,,,,,,,55.8782693,12.8431768
 46,20046,Lasarettet Trelleborg,,Trelleborg,,231 64,,,,,Yes,,55.3820195,13.1638935
-47,20047,Lasarettet i Motala,Lasarettsgatan 37,Motala,,591 35,,,,,Yes,,58.5455429,15.0271397
+47,20047,Lasarettet i Motala,Lasarettsgatan 37,Motala,Östergötlands Län,591 35,,,,,Yes,,58.5455429,15.0271397
 48,20048,Lasarettet i Ystad,,Ystad,,271 32,,,,,Yes,,55.4362111,13.8191683
-49,20049,Lidingö Sjukhus,Högsätravägen 2,Lidingö,,181 32,,,,,,,59.3509691,18.1495998
-50,20050,Lycksele lasarett,,Lycksele,,921 31,,,,,Yes,,64.5837282,18.6816453
-51,20051,Lysekils sjukhus,,Lysekil,,453 31,,,,,,,58.2802561,11.4398025
-52,20052,Länssjukhuset Sundsvall-Härnösand,,Sundsvall,,852 32,,,,,Yes,,62.4059761,17.3034485
+49,20049,Lidingö Sjukhus,Högsätravägen 2,Lidingö,Stockholms Län,181 32,,,,,,,59.3509691,18.1495998
+50,20050,Lycksele lasarett,,Lycksele,Västerbottens Län,921 31,,,,,Yes,,64.5837282,18.6816453
+51,20051,Lysekils sjukhus,,Lysekil,Västra Götalands Län,453 31,,,,,,,58.2802561,11.4398025
+52,20052,Länssjukhuset Sundsvall-Härnösand,,Sundsvall,Västernorrlands Län,852 32,,,,,Yes,,62.4059761,17.3034485
 53,20053,Länssjukhuset i Kalmar,,Kalmar,Kalmar,392 44,,,,,Yes,,56.6579411,16.334527
-54,20054,Löwenströmska sjukhuset,,,,194 74,,,,,,,59.5463619,17.9054802
-55,20055,Mora lasarett,,Mora,,792 51,,,,,Yes,,61.0173353,14.5841803
-56,20056,Mälarsjukhuset,,Eskilstuna,,633 49,,,,,Yes,,59.3639683,16.5349165
-57,20057,Mölndals Sjukhus,,Mölndal,,431 30,,,,,Yes,,57.6620168,12.0092939
-58,20058,Nacka sjukhus,,Nacka,,131 53,,,,,Yes,,59.3114132,18.1988271
+54,20054,Löwenströmska sjukhuset,,,Stockholms Län,194 74,,,,,,,59.5463619,17.9054802
+55,20055,Mora lasarett,,Mora,Dalarnas Län,792 51,,,,,Yes,,61.0173353,14.5841803
+56,20056,Mälarsjukhuset,,Eskilstuna,Södermanlands Län,633 49,,,,,Yes,,59.3639683,16.5349165
+57,20057,Mölndals Sjukhus,,Mölndal,Västra Götalands Län,431 30,,,,,Yes,,57.6620168,12.0092939
+58,20058,Nacka sjukhus,,Nacka,Stockholms Län,131 53,,,,,Yes,,59.3114132,18.1988271
 59,20059,Norra sjukhusområdet,,Ängelholm,,262 37,,,,,,,56.2370107,12.859611
-60,20060,Norra Älvsborgs Länssjukhus,,,,461 34,,,,,Yes,,58.3169157,12.259693
-61,20061,Norrlands universitetssjukhus,,Umeå,,907 37,,,,,Yes,,63.8155225,20.3032206
-62,20062,Norrtälje Sjukhus,,Norrtälje,,761 30,,,,,Yes,,59.7571271,18.6860666
-63,20063,Nyköpings lasarett,,Nyköping,,611 39,,,,,Yes,,58.7585969,16.9963229
+60,20060,Norra Älvsborgs Länssjukhus,,,Västra Götalands Län,461 34,,,,,Yes,,58.3169157,12.259693
+61,20061,Norrlands universitetssjukhus,,Umeå,Västerbottens Län,907 37,,,,,Yes,,63.8155225,20.3032206
+62,20062,Norrtälje Sjukhus,,Norrtälje,Stockholms Län,761 30,,,,,Yes,,59.7571271,18.6860666
+63,20063,Nyköpings lasarett,,Nyköping,Södermanlands Län,611 39,,,,,Yes,,58.7585969,16.9963229
 64,20064,Oskarshamns Sjukhus,Rösvägen 1,Oskarshamn,,572 51,,,,,Yes,,57.262836,16.4231328
-65,20065,Piteå Älvdals Sjukhus,,,,941 37,,,,,Yes,,65.3136389,21.4927767
-66,20066,Praktikertjänst Närsjukhus Strömstad,Västra Hamngatan 10-12,Strömstad,,452 30,,,,,,,58.9411553,11.1693155
-67,20067,Rosenlunds sjukhus,,Stockholm,Stockholm,116 21,,,,,,,59.3114232,18.0631818
-68,20068,Roslagens Sjukhus,,Norrtälje,,761 30,,,,,,,59.7633105,18.7141001
-69,20069,Rättspsykiatri Västmanland,,,,733 31,,,,,No,,59.9346278,16.6037722
-70,20070,Rättspsykiatriska regionkliniken i Sundsvall,,Sundsvall,,852 32,,,,,No,,62.3929648,17.2418457
-71,20071,Sahlgrenska Universitetssjukhuset,,Göteborg,,413 46,,,,,Yes,,57.6830636,11.9554892
-72,20072,Saltsjöbadens sjukhus,Rösundavägen 2,Saltsjöbaden,,133 35,,,,,,,59.2739158,18.3057641
-73,20073,Sankt Eriks ögonsjukhus,,,,,,,,,,,59.3347154,18.0389373
-74,20074,Sankt Görans sjukhus,,,,,,,,,Yes,,59.3336847,18.0244994
+65,20065,Piteå Älvdals Sjukhus,,,Norrbottens Län,941 37,,,,,Yes,,65.3136389,21.4927767
+66,20066,Praktikertjänst Närsjukhus Strömstad,Västra Hamngatan 10-12,Strömstad,Västra Götalands Län,452 30,,,,,,,58.9411553,11.1693155
+67,20067,Rosenlunds sjukhus,,Stockholm,Stockholms Län,116 21,,,,,,,59.3114232,18.0631818
+68,20068,Roslagens Sjukhus,,Norrtälje,Stockholms Län,761 30,,,,,,,59.7633105,18.7141001
+69,20069,Rättspsykiatri Västmanland,,,Västmanlands Län,733 31,,,,,No,,59.9346278,16.6037722
+70,20070,Rättspsykiatriska regionkliniken i Sundsvall,,Sundsvall,Västernorrlands Län,852 32,,,,,No,,62.3929648,17.2418457
+71,20071,Sahlgrenska Universitetssjukhuset,,Göteborg,Västra Götalands Län,413 46,,,,,Yes,,57.6830636,11.9554892
+72,20072,Saltsjöbadens sjukhus,Rösundavägen 2,Saltsjöbaden,Stockholms Län,133 35,,,,,,,59.2739158,18.3057641
+73,20073,Sankt Eriks ögonsjukhus,,,Stockholms Län,,,,,,,,59.3347154,18.0389373
+74,20074,Sankt Görans sjukhus,,,Stockholms Län,,,,,,Yes,,59.3336847,18.0244994
 75,20075,Simrishamns Sjukhus,,Simrishamn,,272 31,,,,,,,55.5527252,14.3378546
-76,20076,Sjukhuset Arvika,,Arvika,,671 31,,,,,Yes,,59.6663965,12.6133587
-77,20077,Skaraborgs Sjukhus Falköping,,,,521 46,,+46-515-87000,,,,,58.1916925,13.5550599
-78,20078,Skellefteå Lasarett,,Skellefteå,,931 41,,,,,Yes,,64.7547546,20.9460903
+76,20076,Sjukhuset Arvika,,Arvika,Värmlands Län,671 31,,,,,Yes,,59.6663965,12.6133587
+77,20077,Skaraborgs Sjukhus Falköping,,,Västra Götalands Län,521 46,,+46-515-87000,,,,,58.1916925,13.5550599
+78,20078,Skellefteå Lasarett,,Skellefteå,Västerbottens Län,931 41,,,,,Yes,,64.7547546,20.9460903
 79,20079,Skånes Universitetsjukhus Malmö,,Malmö,,214 28,,,,,Yes,,55.5920053,12.9982011
-80,20080,Sollefteå sjukhus,Lassarettsgatan 6,Sollefteå,,881 60,,,,,Yes,,63.1762201,17.2339234
-81,20081,Sophiahemmet,,Stockholm,Stockholm,114 47,,,,,No,,59.344677,18.0762261
-82,20082,Sophiahemmet,,Stockholm,Stockholm,114 33,,,,,,,59.3486208,18.0793182
-83,20083,Stockholms sjukhem,,,Stockholm,,,,,,,,59.3322001,18.0267361
-84,20084,Stortorpskliniken,Stortorpsvägen 41A,Trångsund,,142 63,,,,,No,,59.2410914,18.1287109
-85,20085,Sunderby sjukhus,,Södra Sunderbyn,,954 42,,,,,Yes,,65.6720577,21.9215732
-86,20086,Södersjukhuset,,Stockholm,Stockholm,116 21,,,,,Yes,,59.3108115,18.0527941
-87,20087,Södertälje sjukhus,,Södertälje,,152 40,,,,,Yes,,59.1999784,17.6335201
+80,20080,Sollefteå sjukhus,Lassarettsgatan 6,Sollefteå,Västernorrlands Län,881 60,,,,,Yes,,63.1762201,17.2339234
+81,20081,Sophiahemmet,,Stockholm,Stockholms Län,114 47,,,,,No,,59.344677,18.0762261
+82,20082,Sophiahemmet,,Stockholm,Stockholms Län,114 33,,,,,,,59.3486208,18.0793182
+83,20083,Stockholms sjukhem,,,Stockholms Län,,,,,,,,59.3322001,18.0267361
+84,20084,Stortorpskliniken,Stortorpsvägen 41A,Trångsund,Stockholms Län,142 63,,,,,No,,59.2410914,18.1287109
+85,20085,Sunderby sjukhus,,Södra Sunderbyn,Norrbottens Län,954 42,,,,,Yes,,65.6720577,21.9215732
+86,20086,Södersjukhuset,,Stockholm,Stockholms Län,116 21,,,,,Yes,,59.3108115,18.0527941
+87,20087,Södertälje sjukhus,,Södertälje,Stockholms Län,152 40,,,,,Yes,,59.1999784,17.6335201
 88,20088,Södra sjukhusområdet,,Ängelholm,,262 37,,,,,,,56.2373297,12.8497664
-89,20089,Torsby sjukhus,,Torsby,,685 30,,,,,Yes,,60.1372025,13.0013835
-90,20090,Uddevalla sjukhus,,Uddevalla,,451 31,,,,,,,58.3564508,11.9264746
-91,20091,Universitetssjukhuset i Linköping,,Linköping,,582 23,,,,,Yes,,58.4002105,15.6245181
+89,20089,Torsby sjukhus,,Torsby,Värmlands Län,685 30,,,,,Yes,,60.1372025,13.0013835
+90,20090,Uddevalla sjukhus,,Uddevalla,Västra Götalands Län,451 31,,,,,,,58.3564508,11.9264746
+91,20091,Universitetssjukhuset i Linköping,,Linköping,Östergötlands Län,582 23,,,,,Yes,,58.4002105,15.6245181
 92,20092,Universitetssjukhuset Örebro,Södra Grev Rosengatan nan,Örebro,Örebro,703 62,,+46 19-6021000,,,Yes,,59.2754291,15.2216943
-93,20093,Visby Lasarett,S:t Göransgatan 5,,Gotland,621 45,,+46 498 269000,,,Yes,,57.6502119,18.3009211
-94,20094,Värnamo sjukhus,,Värnamo,,331 56,,,,,Yes,,57.1757549,14.0314829
+93,20093,Visby Lasarett,S:t Göransgatan 5,,Gotlands Län,621 45,,+46 498 269000,,,Yes,,57.6502119,18.3009211
+94,20094,Värnamo sjukhus,,Värnamo,Jönköpings Län,331 56,,,,,Yes,,57.1757549,14.0314829
 95,20095,Västerviks sjukhus,Östra Kyrkogatan 48,Västervik,,593 33,,,,,Yes,,57.7546007,16.6321999
-96,20096,Västerås Centrallasarett,,Västerås,,722 12,,,,,Yes,,59.6149082,16.5884702
-97,20097,Västmanlands sjukhus Fagersta,Floravägen 1,Fagersta,,737 40,,,,,,,59.9958624,15.8094664
-98,20098,Västmanlands sjukhus Sala,,Sala,,733 31,,,,,,,59.9244286,16.6025209
-99,20099,Vårdhem,,Valla,,641 62,,,,,No,,58.9884607,16.4606078
-100,20100,Älvgården,Älvgården 4,,,776 32,,+46 10 453 70 00,,,No,,60.3486055,16.0454828
-101,20101,Örnsköldsviks sjukhus,,Örnsköldsvik,,891 62,,,,,Yes,,63.3005306,18.7075338
-102,20102,Östersunds sjukhus,,Östersund,,831 50,,,,,Yes,,63.1835873,14.6328219
-103,20103,BVC Hjortens Vårdcentral,Lasarettsvägen 2,Trollhättan,,461 34,,,,,,,58.2739325,12.2899345
-104,20104,Bräcke Hälsocentral,Norrlandsgatan 19,Bräcke,,843 31,,,,,,,62.7484867,15.4265693
+96,20096,Västerås Centrallasarett,,Västerås,Västmanlands Län,722 12,,,,,Yes,,59.6149082,16.5884702
+97,20097,Västmanlands sjukhus Fagersta,Floravägen 1,Fagersta,Västmanlands Län,737 40,,,,,,,59.9958624,15.8094664
+98,20098,Västmanlands sjukhus Sala,,Sala,Västmanlands Län,733 31,,,,,,,59.9244286,16.6025209
+99,20099,Vårdhem,,Valla,Södermanlands Län,641 62,,,,,No,,58.9884607,16.4606078
+100,20100,Älvgården,Älvgården 4,,Dalarnas Län,776 32,,+46 10 453 70 00,,,No,,60.3486055,16.0454828
+101,20101,Örnsköldsviks sjukhus,,Örnsköldsvik,Västernorrlands Län,891 62,,,,,Yes,,63.3005306,18.7075338
+102,20102,Östersunds sjukhus,,Östersund,Jämtlands Län,831 50,,,,,Yes,,63.1835873,14.6328219
+103,20103,BVC Hjortens Vårdcentral,Lasarettsvägen 2,Trollhättan,Västra Götalands Län,461 34,,,,,,,58.2739325,12.2899345
+104,20104,Bräcke Hälsocentral,Norrlandsgatan 19,Bräcke,Jämtlands Län,843 31,,,,,,,62.7484867,15.4265693
 105,20105,Degeberga Vårdcentral,,Degeberga,,297 31,,,,,,,55.8377181,14.0916823
 106,20106,Eriksbergs Vårdcentral,Granitvägen 5,Uppsala,Uppsala,752 40,,+46 18 6117900,,,,,59.8409114,17.5995972
-107,20107,Finspång rehab,Ekkällevägen 7,Finspång,,612 30,,,,,,,58.7050075,15.7972191
-108,20108,Harmånger hälsocentral,Backvägen 3,Harmånger,,829 95,,,,,,,61.9267845,17.2191621
-109,20109,Hede Hälsocentral,,Hede,,840 93,,,,,,,62.4170499,13.5187607
-110,20110,Huskvarna Vårdcentrum,,Huskvarna,Jönköping,561 31,,,,,,,57.7897825,14.2718708
-111,20111,Hälsa,,Älmhult,,343 30,,,,,,,56.5547575,14.1342039
-112,20112,Hälsans hus,Skogsbovägen 5,Gustavsberg,,134 31,,,,,,,59.3233417,18.3981573
-113,20113,Kilafors hälsocentral,Stationsgatan 2,Kilafors,,823 30,,,,,,,61.2305578,16.5681228
-114,20114,Kneippens vårdcentral,Kneippgatan 4,Norrköping,,602 31,,,,,,,58.5854693,16.16275
-115,20115,Kolmårdens Vårdcentral,,Krokek,,618 30,,,,,,,58.6688911,16.3635993
+107,20107,Finspång rehab,Ekkällevägen 7,Finspång,Östergötlands Län,612 30,,,,,,,58.7050075,15.7972191
+108,20108,Harmånger hälsocentral,Backvägen 3,Harmånger,Gävleborgs Län,829 95,,,,,,,61.9267845,17.2191621
+109,20109,Hede Hälsocentral,,Hede,Jämtlands Län,840 93,,,,,,,62.4170499,13.5187607
+110,20110,Huskvarna Vårdcentrum,,Huskvarna,Jönköpings Län,561 31,,,,,,,57.7897825,14.2718708
+111,20111,Hälsa,,Älmhult,Kronobergs Län,343 30,,,,,,,56.5547575,14.1342039
+112,20112,Hälsans hus,Skogsbovägen 5,Gustavsberg,Stockholms Län,134 31,,,,,,,59.3233417,18.3981573
+113,20113,Kilafors hälsocentral,Stationsgatan 2,Kilafors,Gävleborgs Län,823 30,,,,,,,61.2305578,16.5681228
+114,20114,Kneippens vårdcentral,Kneippgatan 4,Norrköping,Östergötlands Län,602 31,,,,,,,58.5854693,16.16275
+115,20115,Kolmårdens Vårdcentral,,Krokek,Östergötlands Län,618 30,,,,,,,58.6688911,16.3635993
 116,20116,Lillåns Vårdcentral,,Örebro,Örebro,702 12,,,,,,,59.319492,15.2234386
-117,20117,Lisebergs vårdcentral,Annebodavägen 4-6,Stockholm,Stockholm,125 71,,,,,,,59.284674,18.0300151
-118,20118,Läkarmottagning,Lyckans väg 4,Göteborg,,411 36,,,,,,,57.6951043,11.9813956
-119,20119,Orsa Vårdcentral,,Orsa,,794 30,,+46 250 49 88 00,,,,,61.1193555,14.6136581
-120,20120,Råsunda vårdcentral,,Råsunda,,169 35,,,,,,,59.3637384,17.9933148
-121,20121,Selmas Läkarhus,,,,,,,,,,,57.7496216,11.9873106
-122,20122,Skarptorps vårdcentral,Dalviksgatan 69,Norrköping,,602 31,,,,,,,58.5732643,16.1469345
-123,20123,Stenbergska,,Lycksele,,921 31,,,,,,,64.599649,18.6732211
+117,20117,Lisebergs vårdcentral,Annebodavägen 4-6,Stockholm,Stockholms Län,125 71,,,,,,,59.284674,18.0300151
+118,20118,Läkarmottagning,Lyckans väg 4,Göteborg,Västra Götalands Län,411 36,,,,,,,57.6951043,11.9813956
+119,20119,Orsa Vårdcentral,,Orsa,Dalarnas Län,794 30,,+46 250 49 88 00,,,,,61.1193555,14.6136581
+120,20120,Råsunda vårdcentral,,Råsunda,Stockholms Län,169 35,,,,,,,59.3637384,17.9933148
+121,20121,Selmas Läkarhus,,,Västra Götalands Län,,,,,,,,57.7496216,11.9873106
+122,20122,Skarptorps vårdcentral,Dalviksgatan 69,Norrköping,Östergötlands Län,602 31,,,,,,,58.5732643,16.1469345
+123,20123,Stenbergska,,Lycksele,Västerbottens Län,921 31,,,,,,,64.599649,18.6732211
 124,20124,Stensö Vårdcentral,,,Kalmar,392 31,,,,,,,56.6593617,16.324063
-125,20125,Stureby Vårdcentral,Tussmötevägen 181,Stockholm,Stockholm,122 42,,,,,,,59.2779362,18.0662254
-126,20126,Såpkullens vårdcentral,Gamla Lasarettsgatan 18,Norrköping,,602 31,,,,,,,58.5830995,16.1776739
-127,20127,Södra vårdcentral,Kaserngatan 10,Norrtälje,,761 30,,,,,,,59.7519686,18.6746973
-128,20128,Torvalla Hälsocentral,,Östersund,,831 35,,,,,,,63.1576946,14.7432566
-129,20129,Turistläkare,,Loffens Fjällby norra,,840 85,,,,,,,62.1145612,13.2940533
+125,20125,Stureby Vårdcentral,Tussmötevägen 181,Stockholm,Stockholms Län,122 42,,,,,,,59.2779362,18.0662254
+126,20126,Såpkullens vårdcentral,Gamla Lasarettsgatan 18,Norrköping,Östergötlands Län,602 31,,,,,,,58.5830995,16.1776739
+127,20127,Södra vårdcentral,Kaserngatan 10,Norrtälje,Stockholms Län,761 30,,,,,,,59.7519686,18.6746973
+128,20128,Torvalla Hälsocentral,,Östersund,Jämtlands Län,831 35,,,,,,,63.1576946,14.7432566
+129,20129,Turistläkare,,Loffens Fjällby norra,Jämtlands Län,840 85,,,,,,,62.1145612,13.2940533
 130,20130,Vårdcentral Fylstamottagningen,Sörbyvägen 8,Kumla,,692 31,,,,,,,59.1285251,15.1228676
 131,20131,Vårdcentral Kungsvägsmottagningen,Norra Kungsvägen 10,Kumla,,692 31,,,,,No,,59.131649,15.1467981
-132,20132,Vårdcentralen Hageby,Grundläggaregatan 2,Norrköping,,602 31,,,,,,,58.5747923,16.2030738
+132,20132,Vårdcentralen Hageby,Grundläggaregatan 2,Norrköping,Östergötlands Län,602 31,,,,,,,58.5747923,16.2030738
