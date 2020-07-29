@@ -9,10 +9,10 @@ import ModelData
 import unicodedata
 import sys
 
-if len(sys.argv) <2:
-    print("BASEDIR should be set")
-    sys.exit()
-basedir = sys.argv[1]
+#if len(sys.argv) <2:
+#    print("BASEDIR should be set")
+#    sys.exit()
+#basedir = sys.argv[1]
 
 # ------------------------
 # load env
@@ -27,7 +27,7 @@ BASE_INPUT_DIRECTORY    = os.environ['BASE_INPUT_DIRECTORY']
 model_synthea = ModelSyntheaPandas.ModelSyntheaPandas()
 
 # list of countries to be processed.
-countries= ["BE", "BG", "CY", "CZ", "DK", "DE", "EE", "GR", "IE", "ES", "FR", "HR", "IT", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "SE", "NO", "GB"]
+countries= ["BE", "BG", "CZ", "DK", "DE", "EE", "IE", "ES", "FR", "HR", "IT", "LV", "LT", "LU", "HU", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "SE", "NO", "GB"]
 
 # output file in utf-8
 columns = ['country','region','demographics','zipcodes','hospitals','urgent','primary']
