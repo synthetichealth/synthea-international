@@ -180,137 +180,6 @@
 0,IT,Umbria,True,True,True,True,True
 0,IT,Valle D'aosta,True,True,True,True,True
 0,IT,Veneto,True,True,True,True,True
-0,LV,Aizkraukles Novads,False,True,False,False,False
-0,LV,Alūksnes Novads,False,True,True,True,True
-0,LV,Balvu Novads,False,True,False,False,False
-0,LV,Bauskas Novads,False,True,True,True,True
-0,LV,Cēsu Novads,False,True,True,True,True
-0,LV,Daugavpils Novads,False,True,False,False,False
-0,LV,Dobeles Novads,False,True,True,True,True
-0,LV,Gulbenes Novads,False,True,False,False,False
-0,LV,Jēkabpils Novads,False,True,False,False,False
-0,LV,Jelgavas Novads,False,True,True,True,True
-0,LV,Krāslavas Novads,False,True,False,False,False
-0,LV,Kuldīgas Novads,False,True,True,True,True
-0,LV,Limbažu Novads,False,True,True,True,True
-0,LV,Ludzas Novads,False,True,True,True,True
-0,LV,Madonas Novads,False,True,False,False,False
-0,LV,Ogres Novads,False,True,True,True,True
-0,LV,Preiļu Novads,False,True,False,False,False
-0,LV,Rēzeknes Novads,False,True,False,False,False
-0,LV,Saldus Novads,False,True,True,True,True
-0,LV,Talsu Novads,False,True,True,True,True
-0,LV,Tukuma Novads,False,True,False,False,False
-0,LV,Valkas Novads,False,True,True,True,True
-0,LV,Ventspils Novads,False,True,True,True,True
-0,LV,Ādažu Novads,True,True,True,True,True
-0,LV,Aglonas Novads,True,True,False,False,False
-0,LV,Aizputes Novads,False,True,False,False,False
-0,LV,Aknīstes Novads,False,True,False,False,False
-0,LV,Alojas Novads,False,True,False,False,False
-0,LV,Alsungas Novads,True,True,False,False,False
-0,LV,Amatas Novads,True,True,True,True,True
-0,LV,Apes Novads,False,True,False,False,False
-0,LV,Auces Novads,False,True,False,False,False
-0,LV,Babītes Novads,True,True,False,False,False
-0,LV,Baldones Novads,False,True,True,True,True
-0,LV,Baltinavas Novads,True,True,False,False,False
-0,LV,Beverīnas Novads,True,True,False,False,False
-0,LV,Brocēnu Novads,False,True,False,False,False
-0,LV,Burtnieku Novads,True,True,False,False,False
-0,LV,Carnikavas Novads,True,True,False,False,False
-0,LV,Cesvaines Novads,False,True,False,False,False
-0,LV,Ciblas Novads,True,True,False,False,False
-0,LV,Dagdas Novads,True,True,False,False,False
-0,LV,Dundagas Novads,True,True,False,False,False
-0,LV,Durbes Novads,True,True,False,False,False
-0,LV,Engures Novads,True,True,False,False,False
-0,LV,Ērgļu Novads,True,True,True,True,True
-0,LV,Garkalnes Novads,True,True,True,True,True
-0,LV,Grobiņas Novads,True,True,False,False,False
-0,LV,Iecavas Novads,True,True,False,False,False
-0,LV,Ikšķiles Novads,False,True,False,False,False
-0,LV,Ilūkstes Novads,False,True,False,False,False
-0,LV,Inčukalna Novads,True,True,False,False,False
-0,LV,Jaunjelgavas Novads,False,True,False,False,False
-0,LV,Jaunpiebalgas Novads,True,True,False,False,False
-0,LV,Jaunpils Novads,True,True,False,False,False
-0,LV,Kandavas Novads,False,True,False,False,False
-0,LV,Kārsavas Novads,True,True,False,False,False
-0,LV,Ķeguma Novads,False,True,False,False,False
-0,LV,Ķekavas Novads,True,True,False,False,False
-0,LV,Kocēnu Novads,True,True,False,False,False
-0,LV,Kokneses Novads,True,True,False,False,False
-0,LV,Krimuldas Novads,True,True,False,False,False
-0,LV,Krustpils Novads,False,True,False,False,False
-0,LV,Lielvārdes Novads,False,True,False,False,False
-0,LV,Līgatnes Novads,False,True,False,False,False
-0,LV,Līvānu Novads,False,True,False,False,False
-0,LV,Lubānas Novads,False,True,False,False,False
-0,LV,Mālpils Novads,True,True,False,False,False
-0,LV,Mārupes Novads,True,True,False,False,False
-0,LV,Mazsalacas Novads,False,True,False,False,False
-0,LV,Naukšēnu Novads,True,True,False,False,False
-0,LV,Neretas Novads,True,True,False,False,False
-0,LV,Nīcas Novads,True,True,True,True,True
-0,LV,Olaines Novads,False,True,False,False,False
-0,LV,Ozolnieku Novads,True,True,False,False,False
-0,LV,Pārgaujas Novads,True,True,False,False,False
-0,LV,Pāvilostas Novads,False,True,False,False,False
-0,LV,Pļaviņu Novads,True,True,False,False,False
-0,LV,Priekules Novads,False,True,False,False,False
-0,LV,Priekuļu Novads,True,True,False,False,False
-0,LV,Raunas Novads,True,True,False,False,False
-0,LV,Riebiņu Novads,True,True,False,False,False
-0,LV,Rojas Novads,True,True,False,False,False
-0,LV,Ropažu Novads,True,True,False,False,False
-0,LV,Rucavas Novads,True,True,False,False,False
-0,LV,Rugāju Novads,True,True,False,False,False
-0,LV,Rūjienas Novads,False,True,False,False,False
-0,LV,Rundāles Novads,True,True,False,False,False
-0,LV,Salas Novads,True,True,False,False,False
-0,LV,Salaspils Novads,False,True,False,False,False
-0,LV,Saulkrastu Novads,True,True,True,True,True
-0,LV,Sējas Novads,True,True,False,False,False
-0,LV,Siguldas Novads,False,True,True,True,True
-0,LV,Skrīveru Novads,True,True,False,False,False
-0,LV,Skrundas Novads,False,True,True,True,True
-0,LV,Smiltenes Novads,True,True,True,True,True
-0,LV,Stopiņu Novads,True,True,True,True,True
-0,LV,Strenču Novads,False,True,True,True,True
-0,LV,Tērvetes Novads,True,True,True,True,True
-0,LV,Vaiņodes Novads,True,True,False,False,False
-0,LV,Varakļānu Novads,False,True,False,False,False
-0,LV,Vārkavas Novads,True,True,False,False,False
-0,LV,Vecpiebalgas Novads,True,True,False,False,False
-0,LV,Vecumnieku Novads,True,True,False,False,False
-0,LV,Viesītes Novads,False,True,False,False,False
-0,LV,Viļakas Novads,False,True,True,True,True
-0,LV,Viļānu Novads,False,True,False,False,False
-0,LV,Zilupes Novads,False,True,False,False,False
-0,LV,Mērsraga Novads,True,True,False,False,False
-0,LT,Alytus,True,True,False,False,False
-0,LT,Kaunas,True,True,False,False,False
-0,LT,Klaipėda,True,True,False,False,False
-0,LT,Marijampolė,True,True,False,False,False
-0,LT,Panevėžys,True,True,False,False,False
-0,LT,Šiauliai,True,True,False,False,False
-0,LT,Tauragė,True,True,False,False,False
-0,LT,Telšių Apskritis,True,True,True,True,True
-0,LT,Utena,True,True,False,False,False
-0,LT,Vilniaus Apskritis,True,True,True,True,True
-0,LU,Capellen,False,True,False,False,False
-0,LU,Clervaux,False,True,False,False,False
-0,LU,Diekirch,False,True,True,True,True
-0,LU,Echternach,False,True,False,False,False
-0,LU,Esch-sur-alzette,False,True,False,False,False
-0,LU,Grevenmacher,False,True,False,False,False
-0,LU,Luxembourg,False,True,True,True,True
-0,LU,Mersch,False,True,False,False,False
-0,LU,Redange,False,True,False,False,False
-0,LU,Remich,False,True,False,False,False
-0,LU,Vianden,False,True,False,False,False
-0,LU,Wiltz,False,True,False,False,False
 0,HU,Baranya,True,True,True,True,True
 0,HU,Békés,True,True,True,True,True
 0,HU,Bács-kiskun,True,True,True,True,True
@@ -352,22 +221,22 @@
 0,AT,Tirol,True,True,True,True,True
 0,AT,Vorarlberg,True,True,True,True,True
 0,AT,Wien,True,True,True,True,True
-0,PL,Lower Silesia,False,True,False,False,False
-0,PL,Kujawsko-pomorskie,True,True,False,False,False
-0,PL,Łódź Voivodeship,False,True,False,False,False
-0,PL,Lublin,False,True,True,True,True
-0,PL,Lubusz,False,True,False,False,False
-0,PL,Lesser Poland,False,True,False,False,False
-0,PL,Mazovia,False,True,False,False,False
-0,PL,Opole Voivodeship,False,True,False,False,False
-0,PL,Subcarpathia,False,True,False,False,False
-0,PL,Podlasie,False,True,False,False,False
-0,PL,Pomerania,False,True,False,False,False
-0,PL,Silesia,False,True,False,False,False
-0,PL,Świętokrzyskie,False,True,False,False,False
-0,PL,Warmia-masuria,False,True,False,False,False
-0,PL,Greater Poland,False,True,False,False,False
-0,PL,West Pomerania,False,True,False,False,False
+0,PL,Dolnośląskie,True,True,True,True,True
+0,PL,Kujawsko-pomorskie,True,True,True,True,True
+0,PL,Łódzkie,True,True,True,True,True
+0,PL,Lubelskie,True,True,True,True,True
+0,PL,Lubuskie,True,True,True,True,True
+0,PL,Małopolskie,True,True,True,True,True
+0,PL,Mazowieckie,True,True,True,True,True
+0,PL,Opolskie,True,True,True,True,True
+0,PL,Podkarpackie,True,True,True,True,True
+0,PL,Podlaskie,True,True,True,True,True
+0,PL,Pomorskie,True,True,True,True,True
+0,PL,Śląskie,True,True,True,True,True
+0,PL,Świętokrzyskie,True,True,True,True,True
+0,PL,Warmińsko-mazurskie,True,True,False,False,False
+0,PL,Wielkopolskie,True,True,False,False,False
+0,PL,Zachodniopomorskie,True,True,True,True,True
 0,PT,Aveiro,True,True,True,True,True
 0,PT,Beja,True,True,True,True,True
 0,PT,Braga,True,True,True,True,True

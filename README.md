@@ -18,7 +18,7 @@ Most regions of the countries provided in this repository are working but some a
 
 This can be due to lack of provider data from a particular region.
 
-This is a report(./status.txt) of the current status.
+This is a [report](./status.txt) of the current status.
 
 # License
 
