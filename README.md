@@ -12,7 +12,7 @@ Each folder within this repository contains files for one nation or area. To con
 cp -R example/ ../synthea
 ```
 
-# internaional region status
+# International region status
 
 Most regions of the countries provided in this repository are working but some are not.  
 
