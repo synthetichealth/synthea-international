@@ -1,0 +1,515 @@
+,country,region,demographics,zipcodes,hospitals,urgent,primary
+0,Init,Init,True,True,True,True,True
+0,BE,Bruxelles,False,True,True,True,True
+0,BE,Vlaanderen,False,True,True,True,True
+0,BE,Wallonie,False,True,True,True,True
+0,BG,Бургас,True,True,True,True,True
+0,BG,Благоевград,True,True,True,True,True
+0,BG,Добрич,True,True,True,True,True
+0,BG,Габрово,True,True,True,True,True
+0,BG,Хасково,True,True,True,True,True
+0,BG,Ямбол,True,True,True,True,True
+0,BG,Кюстендил,True,True,True,True,True
+0,BG,Кърджали,True,True,True,True,True
+0,BG,Ловеч,True,True,True,True,True
+0,BG,Монтана,True,True,True,True,True
+0,BG,Пазарджик,True,True,True,True,True
+0,BG,Пловдив,True,True,True,True,True
+0,BG,Перник,True,True,True,True,True
+0,BG,Плевен,True,True,True,True,True
+0,BG,Разград,True,True,True,True,True
+0,BG,Русе,True,True,True,True,True
+0,BG,София,True,True,True,True,True
+0,BG,Шумен,True,True,True,True,True
+0,BG,Силистра,True,True,True,True,True
+0,BG,Сливен,True,True,True,True,True
+0,BG,Смолян,True,True,True,True,True
+0,BG,София (столица),False,False,False,False,False
+0,BG,Стара Загора,True,True,True,True,True
+0,BG,Търговище,True,True,False,False,False
+0,BG,Варна,True,True,True,True,True
+0,BG,Видин,False,True,False,False,False
+0,BG,Враца,False,True,True,True,True
+0,BG,Велико Търново,True,True,True,True,True
+0,CZ,Hlavní Město Praha,True,True,True,True,True
+0,CZ,Jihomoravský Kraj,True,True,True,True,True
+0,CZ,Jihočeský Kraj,True,True,True,True,True
+0,CZ,Kraj Vysočina,False,True,False,False,False
+0,CZ,Karlovarský Kraj,True,True,True,True,True
+0,CZ,Královéhradecký Kraj,True,True,True,True,True
+0,CZ,Liberecký Kraj,True,True,True,True,True
+0,CZ,Olomoucký Kraj,True,True,True,True,True
+0,CZ,Moravskoslezský Kraj,False,True,True,True,True
+0,CZ,Pardubický Kraj,True,True,True,True,True
+0,CZ,Plzeňský Kraj,False,True,True,True,True
+0,CZ,Středočeský Kraj,True,True,True,True,True
+0,CZ,Ústecký Kraj,True,True,True,True,True
+0,CZ,Zlínský Kraj,True,True,True,True,True
+0,DK,Region Midtjylland,True,True,False,False,False
+0,DK,Region Sjælland,True,True,False,False,False
+0,DK,Region Syddanmark,True,True,False,False,False
+0,DK,Region Nordjylland,True,True,False,False,False
+0,DK,Region Hovedstaden,True,True,False,False,False
+0,DE,Brandenburg,True,True,True,True,True
+0,DE,Berlin,True,True,True,True,True
+0,DE,Baden-württemberg,True,True,True,True,True
+0,DE,Bayern,True,True,True,True,True
+0,DE,Bremen,True,True,True,True,True
+0,DE,Hessen,True,True,True,True,True
+0,DE,Hamburg,True,True,True,True,True
+0,DE,Mecklenburg-vorpommern,True,True,True,True,True
+0,DE,Niedersachsen,True,True,True,True,True
+0,DE,Nordrhein-westfalen,True,True,True,True,True
+0,DE,Rheinland-pfalz,True,True,True,True,True
+0,DE,Schleswig-holstein,True,True,True,True,True
+0,DE,Saarland,True,True,True,True,True
+0,DE,Sachsen,True,True,True,True,True
+0,DE,Sachsen-anhalt,True,True,True,True,True
+0,DE,Thüringen,True,True,True,True,True
+0,EE,Harju Maakond,True,True,True,True,True
+0,EE,Hiiu Maakond,True,True,True,True,True
+0,EE,Ida-viru Maakond,True,True,True,True,True
+0,EE,Järva Maakond,True,True,False,False,False
+0,EE,Jõgeva Maakond,True,True,True,True,True
+0,EE,Lääne Maakond,True,True,False,False,False
+0,EE,Lääne-viru Maakond,True,True,True,True,True
+0,EE,Pärnu Maakond,True,True,True,True,True
+0,EE,Põlva Maakond,True,True,True,True,True
+0,EE,Rapla Maakond,True,True,True,True,True
+0,EE,Saare Maakond,True,True,False,False,False
+0,EE,Tartu Maakond,True,True,True,True,True
+0,EE,Valga Maakond,True,True,False,False,False
+0,EE,Viljandi Maakond,True,True,True,True,True
+0,EE,Võru Maakond,True,True,True,True,True
+0,IE,County Dublin,True,True,True,True,True
+0,IE,County Wicklow,True,True,True,True,True
+0,IE,County Monaghan,True,True,True,True,True
+0,IE,County Meath,True,True,True,True,True
+0,IE,County Louth,True,True,True,True,True
+0,IE,County Tipperary,True,True,True,True,True
+0,IE,County Mayo,True,True,True,True,True
+0,IE,County Roscommon,True,True,True,True,True
+0,IE,County Sligo,True,True,True,True,True
+0,IE,County Donegal,True,True,True,True,True
+0,IE,County Cavan,True,True,True,True,True
+0,IE,County Galway,True,True,True,True,True
+0,IE,County Westmeath,True,True,True,True,True
+0,IE,County Longford,True,True,True,True,True
+0,IE,County Leitrim,False,True,True,True,True
+0,IE,County Cork,True,True,True,True,True
+0,IE,County Kildare,True,True,True,True,True
+0,IE,County Carlow,True,True,True,True,True
+0,IE,County Laois,True,True,True,True,True
+0,IE,County Offaly,True,True,True,True,True
+0,IE,County Kilkenny,True,True,True,True,True
+0,IE,County Clare,True,True,True,True,True
+0,IE,County Kerry,True,True,True,True,True
+0,IE,County Limerick,True,True,True,True,True
+0,IE,County Waterford,True,True,True,True,True
+0,IE,County Wexford,True,True,True,True,True
+0,ES,Andalucia,True,True,True,True,True
+0,ES,Aragon,True,True,True,True,True
+0,ES,Asturias,True,True,True,True,True
+0,ES,Cantabria,True,True,True,True,True
+0,ES,Ceuta,False,True,True,True,True
+0,ES,Castilla - Leon,True,True,False,False,False
+0,ES,Castilla - La Mancha,True,True,False,False,False
+0,ES,Canarias,False,True,False,False,False
+0,ES,Cataluna,False,True,False,False,False
+0,ES,Extremadura,True,True,True,True,True
+0,ES,Galicia,True,True,True,True,True
+0,ES,Baleares,True,True,False,False,False
+0,ES,Murcia,True,True,True,True,True
+0,ES,Madrid,True,True,True,True,True
+0,ES,Melilla,False,True,True,True,True
+0,ES,Navarra,False,True,True,True,True
+0,ES,Pais Vasco,False,True,True,True,True
+0,ES,La Rioja,True,True,True,True,True
+0,ES,Comunidad Valenciana,False,True,True,True,True
+0,FR,Île-de-france,False,True,True,True,True
+0,FR,Centre-val De Loire,False,True,True,True,True
+0,FR,Bourgogne-franche-comté,False,True,True,True,True
+0,FR,Normandie,False,True,True,True,True
+0,FR,Hauts-de-france,False,True,True,True,True
+0,FR,Grand Est,False,True,True,True,True
+0,FR,Pays De La Loire,False,True,True,True,True
+0,FR,Bretagne,False,True,True,True,True
+0,FR,Nouvelle-aquitaine,False,True,True,True,True
+0,FR,Occitanie,False,True,True,True,True
+0,FR,Auvergne-rhône-alpes,False,True,True,True,True
+0,FR,Provence-alpes-côte D'azur,False,True,True,True,True
+0,FR,Corse,False,True,True,True,True
+0,HR,Bjelovarsko-bilogorska,False,True,False,False,False
+0,HR,Brodsko-posavska,False,True,False,False,False
+0,HR,Dubrovačko-neretvanska,False,True,False,False,False
+0,HR,Istarska,False,True,False,False,False
+0,HR,Karlovačka,False,True,False,False,False
+0,HR,Koprivničko-križevačka,False,True,False,False,False
+0,HR,Krapinsko-zagorska,False,True,False,False,False
+0,HR,Ličko-senjska,False,True,False,False,False
+0,HR,Međimurska,False,True,False,False,False
+0,HR,Osječko-baranjska,False,True,False,False,False
+0,HR,Požeško-slavonska,False,True,False,False,False
+0,HR,Primorsko-goranska,False,True,False,False,False
+0,HR,Šibensko-kninska,False,True,False,False,False
+0,HR,Sisačko-moslavačka,False,True,False,False,False
+0,HR,Splitsko-dalmatinska,False,True,False,False,False
+0,HR,Varaždinska,False,True,False,False,False
+0,HR,Virovitičko-podravska,False,True,False,False,False
+0,HR,Vukovarsko-srijemska,False,True,False,False,False
+0,HR,Zadarska,False,True,False,False,False
+0,HR,Zagrebačka,False,True,False,False,False
+0,HR,Grad Zagreb,False,True,True,True,True
+0,IT,Abruzzi,True,True,False,False,False
+0,IT,Basilicata,True,True,True,True,True
+0,IT,Calabria,True,True,True,True,True
+0,IT,Campania,True,True,True,True,True
+0,IT,Emilia-romagna,True,True,False,False,False
+0,IT,Friuli-venezia Giulia,True,True,True,True,True
+0,IT,Lazio,True,True,True,True,True
+0,IT,Liguria,True,True,True,True,True
+0,IT,Lombardia,True,True,True,True,True
+0,IT,Marche,True,True,True,True,True
+0,IT,Molise,True,True,True,True,True
+0,IT,Piemonte,True,True,True,True,True
+0,IT,Puglia,True,True,True,True,True
+0,IT,Sardegna,True,True,True,True,True
+0,IT,Sicilia,True,True,True,True,True
+0,IT,Toscana,True,True,True,True,True
+0,IT,Trentino-alto Adige,True,True,True,True,True
+0,IT,Umbria,True,True,True,True,True
+0,IT,Valle D'aosta,True,True,True,True,True
+0,IT,Veneto,True,True,True,True,True
+0,HU,Baranya,True,True,True,True,True
+0,HU,Békés,True,True,True,True,True
+0,HU,Bács-kiskun,True,True,True,True,True
+0,HU,Budapest,True,True,True,True,True
+0,HU,Borsod-abaúj-zemplén,True,True,True,True,True
+0,HU,Csongrád,True,True,True,True,True
+0,HU,Fejér,True,True,True,True,True
+0,HU,Győr-moson-sopron,True,True,True,True,True
+0,HU,Hajdú-bihar,True,True,True,True,True
+0,HU,Heves,True,True,True,True,True
+0,HU,Jász-nagykun-szolnok,True,True,True,True,True
+0,HU,Komárom-esztergom,True,True,True,True,True
+0,HU,Nógrád,True,True,True,True,True
+0,HU,Pest,True,True,True,True,True
+0,HU,Somogy,True,True,True,True,True
+0,HU,Szabolcs-szatmár-bereg,True,True,True,True,True
+0,HU,Tolna,True,True,True,True,True
+0,HU,Vas,True,True,True,True,True
+0,HU,Veszprém,True,True,True,True,True
+0,HU,Zala,True,True,True,True,True
+0,NL,Drenthe,True,True,True,True,True
+0,NL,Friesland,True,True,True,True,True
+0,NL,Gelderland,True,True,True,True,True
+0,NL,Groningen,True,True,True,True,True
+0,NL,Limburg,True,True,True,True,True
+0,NL,Noord-brabant,True,True,True,True,True
+0,NL,Noord-holland,True,True,True,True,True
+0,NL,Utrecht,True,True,True,True,True
+0,NL,Zeeland,True,True,True,True,True
+0,NL,Zuid-holland,True,True,True,True,True
+0,NL,Overijssel,True,True,True,True,True
+0,NL,Flevoland,True,True,True,True,True
+0,AT,Burgenland,True,True,True,True,True
+0,AT,Kärnten,True,True,True,True,True
+0,AT,Niederösterreich,True,True,True,True,True
+0,AT,Oberösterreich,True,True,True,True,True
+0,AT,Salzburg,True,True,True,True,True
+0,AT,Steiermark,True,True,True,True,True
+0,AT,Tirol,True,True,True,True,True
+0,AT,Vorarlberg,True,True,True,True,True
+0,AT,Wien,True,True,True,True,True
+0,PL,Dolnośląskie,True,True,True,True,True
+0,PL,Kujawsko-pomorskie,True,True,True,True,True
+0,PL,Łódzkie,True,True,True,True,True
+0,PL,Lubelskie,True,True,True,True,True
+0,PL,Lubuskie,True,True,True,True,True
+0,PL,Małopolskie,True,True,True,True,True
+0,PL,Mazowieckie,True,True,True,True,True
+0,PL,Opolskie,True,True,True,True,True
+0,PL,Podkarpackie,True,True,True,True,True
+0,PL,Podlaskie,True,True,True,True,True
+0,PL,Pomorskie,True,True,True,True,True
+0,PL,Śląskie,True,True,True,True,True
+0,PL,Świętokrzyskie,True,True,True,True,True
+0,PL,Warmińsko-mazurskie,True,True,False,False,False
+0,PL,Wielkopolskie,True,True,False,False,False
+0,PL,Zachodniopomorskie,True,True,True,True,True
+0,PT,Aveiro,True,True,True,True,True
+0,PT,Beja,True,True,True,True,True
+0,PT,Braga,True,True,True,True,True
+0,PT,Bragança,True,True,True,True,True
+0,PT,Castelo Branco,True,True,True,True,True
+0,PT,Coimbra,True,True,True,True,True
+0,PT,Évora,False,True,True,True,True
+0,PT,Faro,True,True,True,True,True
+0,PT,Madeira,True,True,False,False,False
+0,PT,Guarda,True,True,True,True,True
+0,PT,Leiria,True,True,True,True,True
+0,PT,Lisboa,True,True,True,True,True
+0,PT,Portalegre,True,True,True,True,True
+0,PT,Porto,True,True,True,True,True
+0,PT,Santarém,True,True,True,True,True
+0,PT,Setúbal,True,True,True,True,True
+0,PT,Viana Do Castelo,True,True,True,True,True
+0,PT,Vila Real,True,True,True,True,True
+0,PT,Viseu,True,True,True,True,True
+0,PT,Azores,True,True,False,False,False
+0,RO,Alba,True,True,True,True,True
+0,RO,Arad,True,True,True,True,True
+0,RO,Argeş,True,True,False,False,False
+0,RO,Bacău,True,True,True,True,True
+0,RO,Bihor,True,True,True,True,True
+0,RO,Bistriţa-năsăud,True,True,False,False,False
+0,RO,Botoşani,True,True,False,False,False
+0,RO,Brăila,True,True,True,True,True
+0,RO,Braşov,False,True,False,False,False
+0,RO,Bucureşti,False,True,False,False,False
+0,RO,Buzău,True,True,True,True,True
+0,RO,Caraş-severin,True,True,False,False,False
+0,RO,Cluj,True,True,True,True,True
+0,RO,Constanţa,False,True,False,False,False
+0,RO,Covasna,True,True,True,True,True
+0,RO,Dâmboviţa,True,True,False,False,False
+0,RO,Dolj,True,True,True,True,True
+0,RO,Galaţi,True,True,False,False,False
+0,RO,Gorj,True,True,True,True,True
+0,RO,Harghita,True,True,True,True,True
+0,RO,Hunedoara,True,True,True,True,True
+0,RO,Ialomiţa,True,True,False,False,False
+0,RO,Iaşi,True,True,False,False,False
+0,RO,Maramureş,True,True,False,False,False
+0,RO,Mehedinţi,True,True,False,False,False
+0,RO,Mureş,True,True,False,False,False
+0,RO,Neamţ,False,True,False,False,False
+0,RO,Olt,True,True,True,True,True
+0,RO,Prahova,True,True,True,True,True
+0,RO,Sălaj,True,True,True,True,True
+0,RO,Satu Mare,True,True,True,True,True
+0,RO,Sibiu,True,True,True,True,True
+0,RO,Suceava,True,True,True,True,True
+0,RO,Teleorman,True,True,True,True,True
+0,RO,Timiş,True,True,False,False,False
+0,RO,Tulcea,True,True,True,True,True
+0,RO,Vaslui,True,True,True,True,True
+0,RO,Vâlcea,True,True,True,True,True
+0,RO,Vrancea,True,True,True,True,True
+0,RO,Călăraşi,True,True,False,False,False
+0,RO,Giurgiu,True,True,True,True,True
+0,RO,Ilfov,True,True,True,True,True
+0,SI,Ljubljana,True,True,True,True,True
+0,SI,Kamnik,True,True,True,True,True
+0,SI,Domžale,True,True,True,True,True
+0,SI,Litija,True,True,False,False,False
+0,SI,Grosuplje,True,True,True,True,True
+0,SI,Ribnica,True,True,True,True,True
+0,SI,Kočevje,True,True,True,True,True
+0,SI,Vrhnika,True,True,True,True,True
+0,SI,Cerknica,True,True,True,True,True
+0,SI,Logatec,True,True,True,True,True
+0,SI,Zagorje Ob Savi,True,True,True,True,True
+0,SI,Trbovlje,True,True,False,False,False
+0,SI,Hrastnik,True,True,True,True,True
+0,SI,Laško,True,True,True,True,True
+0,SI,Sevnica,True,True,False,False,False
+0,SI,Maribor,True,True,True,True,True
+0,SI,Pesnica,True,True,False,False,False
+0,SI,Gornja Radgona,True,True,True,True,True
+0,SI,Lenart,False,True,True,True,True
+0,SI,Ptuj,True,True,True,True,True
+0,SI,Ormož,True,True,True,True,True
+0,SI,Slovenska Bistrica,True,True,True,True,True
+0,SI,Ruše,True,True,False,False,False
+0,SI,Radlje Ob Dravi,True,True,False,False,False
+0,SI,Žalec,True,True,True,True,True
+0,SI,Dravograd,True,True,True,True,True
+0,SI,Slovenj Gradec,True,True,True,True,True
+0,SI,Ravne Na Koroškem,True,True,True,True,True
+0,SI,Ilirska Bistrica,True,True,True,True,True
+0,SI,Celje,True,True,True,True,True
+0,SI,Slovenske Konjice,True,True,True,True,True
+0,SI,Šentjur Pri Celju,False,True,False,False,False
+0,SI,Šmarje Pri Jelšah,True,True,True,True,True
+0,SI,Velenje,True,True,True,True,True
+0,SI,Mozirje,True,True,False,False,False
+0,SI,Kranj,True,True,True,True,True
+0,SI,Škofja Loka,True,True,True,True,True
+0,SI,Radovljica,True,True,True,True,True
+0,SI,Tolmin,True,True,True,True,True
+0,SI,Jesenice,True,True,True,True,True
+0,SI,Tržič,True,True,False,False,False
+0,SI,Nova Gorica,True,True,True,True,True
+0,SI,Ajdovščina,True,True,False,False,False
+0,SI,Idrija,True,True,True,True,True
+0,SI,Koper,True,True,True,True,True
+0,SI,Sežana,True,True,True,True,True
+0,SI,Postojna,True,True,True,True,True
+0,SI,Piran,True,True,True,True,True
+0,SI,Novo Mesto,False,True,True,True,True
+0,SI,Trebnje,True,True,True,True,True
+0,SI,Brežice,True,True,True,True,True
+0,SI,Krško,True,True,True,True,True
+0,SI,Metlika,True,True,False,False,False
+0,SI,Črnomelj,True,True,False,False,False
+0,SI,Murska Sobota,True,True,True,True,True
+0,SI,Lendava,True,True,True,True,True
+0,SI,Ljutomer,True,True,True,True,True
+0,SK,Banskobystrický Kraj,True,True,True,True,True
+0,SK,Bratislavský Kraj,True,True,True,True,True
+0,SK,Košický Kraj,True,True,True,True,True
+0,SK,Nitriansky Kraj,True,True,True,True,True
+0,SK,Prešovský Kraj,True,True,True,True,True
+0,SK,Trnavský Kraj,True,True,True,True,True
+0,SK,Trenčiansky Kraj,True,True,True,True,True
+0,SK,Žilinský Kraj,True,True,True,True,True
+0,SE,Stockholm,True,True,True,True,True
+0,SE,Västerbotten,True,True,True,True,True
+0,SE,Norrbotten,True,True,True,True,True
+0,SE,Uppsala,True,True,True,True,True
+0,SE,Södermanland,True,True,True,True,True
+0,SE,Östergötland,True,True,True,True,True
+0,SE,Jönköping,True,True,True,True,True
+0,SE,Kronoberg,True,True,True,True,True
+0,SE,Kalmar,True,True,True,True,True
+0,SE,Gotland,True,True,True,True,True
+0,SE,Blekinge,True,True,False,False,False
+0,SE,Skåne,True,True,False,False,False
+0,SE,Halland,True,True,True,True,True
+0,SE,Västra Götaland,True,True,True,True,True
+0,SE,Värmland,True,True,True,True,True
+0,SE,Örebro,True,True,True,True,True
+0,SE,Västmanland,True,True,True,True,True
+0,SE,Dalarna,True,True,True,True,True
+0,SE,Gävleborg,True,True,True,True,True
+0,SE,Västernorrland,True,True,True,True,True
+0,SE,Jämtland,True,True,True,True,True
+0,NO,Møre Og Romsdal,True,True,True,True,True
+0,NO,Nordland,True,True,True,True,True
+0,NO,Oslo,True,True,True,True,True
+0,NO,Rogaland,True,True,True,True,True
+0,NO,Trøndelag,True,True,True,True,True
+0,NO,Viken,True,True,True,True,True
+0,NO,Innlandet,True,True,True,True,True
+0,NO,Vestfold Og Telemark,True,True,True,True,True
+0,NO,Agder,True,True,True,True,True
+0,NO,Vestland,True,True,True,True,True
+0,NO,Troms Og Finnmark,True,True,True,True,True
+0,GB,East Riding Of Yorkshire,True,True,False,False,False
+0,GB,Rutland,True,True,False,False,False
+0,GB,Shropshire,True,True,True,True,True
+0,GB,Wiltshire,True,True,True,True,True
+0,GB,Isle Of Wight,True,True,True,True,True
+0,GB,County Of Bristol,True,True,False,False,False
+0,GB,Herefordshire,True,True,True,True,True
+0,GB,Staffordshire,True,True,True,True,True
+0,GB,Suffolk,True,True,True,True,True
+0,GB,Surrey,True,True,True,True,True
+0,GB,Warwickshire,True,True,True,True,True
+0,GB,West Sussex,True,True,True,True,True
+0,GB,Worcestershire,True,True,True,True,True
+0,GB,Greater London,True,True,False,False,False
+0,GB,Devon,True,True,True,True,True
+0,GB,Northumberland,True,True,True,True,True
+0,GB,Cornwall,True,True,True,True,True
+0,GB,Buckinghamshire,True,True,True,True,True
+0,GB,Cambridgeshire,True,True,True,True,True
+0,GB,Cumbria,True,True,True,True,True
+0,GB,Derbyshire,True,True,True,True,True
+0,GB,Dorset,True,True,True,True,True
+0,GB,East Sussex,True,True,True,True,True
+0,GB,Essex,True,True,True,True,True
+0,GB,Gloucestershire,True,True,True,True,True
+0,GB,Hampshire,True,True,True,True,True
+0,GB,Hertfordshire,True,True,True,True,True
+0,GB,Kent,True,True,True,True,True
+0,GB,Leicestershire,True,True,True,True,True
+0,GB,Lincolnshire,True,True,True,True,True
+0,GB,Norfolk,True,True,True,True,True
+0,GB,Northamptonshire,True,True,True,True,True
+0,GB,North Yorkshire,True,True,True,True,True
+0,GB,Nottinghamshire,True,True,True,True,True
+0,GB,Oxfordshire,True,True,True,True,True
+0,GB,Somerset,True,True,True,True,True
+0,GB,Lancashire,True,True,True,True,True
+0,GB,Durham,True,True,False,False,False
+0,GB,West Yorkshire,True,True,True,True,True
+0,GB,West Midlands,True,True,True,True,True
+0,GB,Tyne And Wear,True,True,True,True,True
+0,GB,South Yorkshire,True,True,True,True,True
+0,GB,Merseyside,True,True,True,True,True
+0,GB,Greater Manchester,True,True,False,False,False
+0,GB,Cheshire,True,True,True,True,True
+0,GB,Berkshire,True,True,True,True,True
+0,GB,Bedfordshire,True,True,True,True,True
+0,GB,Denbighshire,True,True,False,False,False
+0,GB,Dumfries And Galloway,True,True,False,False,False
+0,GB,Flintshire,True,True,False,False,False
+0,GB,Monmouthshire,True,True,False,False,False
+0,GB,Powys,True,True,True,True,True
+0,GB,Scottish Borders,True,True,False,False,False
+0,GB,Wrexham,True,True,False,False,False
+0,GB,Guernsey Channel Islands,False,True,False,False,False
+0,GB,Hereford And Worcester,True,True,False,False,False
+0,GB,Belfast,True,True,False,False,False
+0,GB,Belfast Greater,True,True,False,False,False
+0,GB,County Down,True,True,True,True,True
+0,GB,County Antrim,True,True,True,True,True
+0,GB,County Londonderry,True,True,True,True,True
+0,GB,County Armagh,True,True,True,True,True
+0,GB,County Tyrone,True,True,True,True,True
+0,GB,County Fermanagh,True,True,True,True,True
+0,GB,Aberdeenshire,True,True,True,True,True
+0,GB,Argyll And Bute,True,True,False,False,False
+0,GB,Angus,True,True,True,True,True
+0,GB,Clackmannanshire,True,True,True,True,True
+0,GB,East Ayrshire,True,True,False,False,False
+0,GB,East Dunbartonshire,True,True,False,False,False
+0,GB,East Lothian,True,True,True,True,True
+0,GB,East Renfrewshire,True,True,False,False,False
+0,GB,Falkirk,True,True,False,False,False
+0,GB,Fife,True,True,True,True,True
+0,GB,Highland,True,True,False,False,False
+0,GB,Inverclyde,True,True,False,False,False
+0,GB,Midlothian,True,True,True,True,True
+0,GB,Moray,True,True,False,False,False
+0,GB,North Ayrshire,True,True,False,False,False
+0,GB,North Lanarkshire,True,True,False,False,False
+0,GB,Orkney Islands,True,True,False,False,False
+0,GB,Renfrewshire,True,True,True,True,True
+0,GB,South Ayrshire,True,True,False,False,False
+0,GB,South Lanarkshire,True,True,False,False,False
+0,GB,Stirling,True,True,False,False,False
+0,GB,West Lothian,True,True,True,True,True
+0,GB,Shetland Islands,True,True,True,True,True
+0,GB,Aberdeen City,False,True,False,False,False
+0,GB,Dundee City,True,True,False,False,False
+0,GB,Perth And Kinross,True,True,False,False,False
+0,GB,City Of Edinburgh,True,True,False,False,False
+0,GB,Glasgow City,True,True,False,False,False
+0,GB,Dunbartonshire,True,True,True,True,True
+0,GB,West Dunbart,True,True,False,False,False
+0,GB,Western Isles,True,True,False,False,False
+0,GB,Orkney,True,True,True,True,True
+0,GB,Isle Of Barra,False,True,True,True,True
+0,GB,Bridgend,True,True,False,False,False
+0,GB,Blaenau Gwent,True,True,False,False,False
+0,GB,Caerphilly,True,True,False,False,False
+0,GB,Ceredigion,True,True,False,False,False
+0,GB,Carmarthenshire,True,True,False,False,False
+0,GB,Cardiff,True,True,False,False,False
+0,GB,Conwy,True,True,False,False,False
+0,GB,Gwynedd,True,True,True,True,True
+0,GB,Merthyr Tydfil,True,True,False,False,False
+0,GB,Neath Port Talbot,True,True,False,False,False
+0,GB,Newport,True,True,False,False,False
+0,GB,Pembrokeshire,True,True,False,False,False
+0,GB,Swansea,True,True,False,False,False
+0,GB,Torfaen,True,True,False,False,False
+0,GB,Vale Of Glamorgan,True,True,False,False,False
+0,GB,Rhondda Cynon Taff,True,True,False,False,False
+0,GB,Isle Of Anglesey,True,True,False,False,False
+0,GB,Isle Of Man,True,True,False,False,False
+0,GB,Channel Islands,False,True,False,False,False
+0,GB,Jersey Channel Islands,False,True,False,False,False

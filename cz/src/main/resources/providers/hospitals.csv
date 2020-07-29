@@ -1,0 +1,247 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,10000,Biomedicínské centrum,,Plzeň,Plzeňský Kraj,301 00,,,,,,,49.7623657,13.3760559
+1,10001,Bohumínská městská nemocnice,,Bohumín,Moravskoslezský Kraj,735 81,,,,,,,49.917439,18.3349987
+2,10002,Centrum zdravotní péče,,Jirny,Středočeský Kraj,250 90,,,,,,,50.1156539,14.6990382
+3,10003,Dětská léčebna Cvikov,,Cvikov,Liberecký Kraj,471 54,,,,,No,,50.7845254,14.6398659
+4,10004,Dětská léčebna Dr. Filipa,,Poděbrady,Středočeský Kraj,290 01,,,,,,,50.1468174,15.1191849
+5,10005,"Dětské ""D""",Mathonova 1,Prostějov,Olomoucký Kraj,796 01,,,,,,,49.4749904,17.0880731
+6,10006,Emergency / Pohotovost,Purkyňovo náměstí 2,Třebíč,,674 01,,,,,,,49.2129208,15.8893403
+7,10007,FN u sv. Anny,,Brno,Jihomoravský Kraj,602 00,,,,,,,49.1888688,16.601739
+8,10008,FN u sv. Anny - Doléčovací a rehabilitační oddělení,,Brno,Jihomoravský Kraj,634 00,,,,,,,49.1836666,16.5605009
+9,10009,Fakultní nemocnice,,Hradec Králové,Královéhradecký Kraj,500 12,,,,,Yes,,50.2018747,15.8250963
+10,10010,Fakultní nemocnice Bohunice,,Brno,Jihomoravský Kraj,625 00,,,,,,,49.176304,16.5787082
+11,10011,Fakultní nemocnice Královské Vinohrady,,Praha,Hlavní Město Praha,100 00,,,,,Yes,,50.0761686,14.473889
+12,10012,Fakultní nemocnice Motol,V Úvalu 1,Praha,Hlavní Město Praha,150 00,,,,,,,50.0749962,14.3493238
+13,10013,Fakultní nemocnice Olomouc,,Olomouc,Olomoucký Kraj,779 00,,,,,Yes,,49.5818652,17.2401479
+14,10014,Fakultní nemocnice Ostrava,,Ostrava,Moravskoslezský Kraj,708 00,,,,,,,49.8298762,18.1620009
+15,10015,Fakultní nemocnice Plzeň,Edvarda Beneše 13,Plzeň,Plzeňský Kraj,301 00,,,,,Yes,,49.7334454,13.3747185
+16,10016,Fakultní poliklinika Všeobecné fakultní nemocnice v Praze,,Praha,Hlavní Město Praha,120 00,,+420 224 961 111,,,,,50.0760429,14.4213067
+17,10017,Gynekologicko-porodnická klinika,,Praha,Hlavní Město Praha,120 00,,,,,,,50.0706027,14.4281035
+18,10018,Gynekologická klinika,,Praha,Hlavní Město Praha,198 00,,,,,No,,50.1029361,14.5340441
+19,10019,Hamzova dětská léčebna,,Luže,Pardubický Kraj,538 54,,,,,,,49.8894985,16.0309868
+20,10020,Hornická nemocnice s poliklinikou,,Bílina,Ústecký Kraj,418 01,,,,,,,50.5409057,13.7827606
+21,10021,Horní areál Nemocnice České Budějovice,B. Němcové 54,České Budějovice,Jihočeský Kraj,370 01,,,,,,,48.9614081,14.4702966
+22,10022,Hospic,,Olomouc,Olomoucký Kraj,779 00,,,,,,,49.6286189,17.3383759
+23,10023,IKEM,,Praha,Hlavní Město Praha,140 00,,,,,,,50.0234508,14.4661331
+24,10024,IV. Poliklinika,,Plzeň,Plzeňský Kraj,301 00,,,,,,,49.755017,13.4163839
+25,10025,Informace,Mathonova 1,Prostějov,Olomoucký Kraj,796 01,,,,,,,49.4752958,17.0874385
+26,10026,Institut onkologie a rehabilitace Na Pleši,,Nová Ves pod Pleší,Středočeský Kraj,262 04,,,,,,,49.8337334,14.2894049
+27,10027,Interna,,Zábřeh,Olomoucký Kraj,789 01,,,,,,,49.882362,16.8631438
+28,10028,Jesenická nemocnice,,Jeseník,Olomoucký Kraj,790 01,,,,,,,50.2279077,17.1958735
+29,10029,Karlovarská krajská nemocnice a.s.,Bezručova 19,Karlovy Vary,Karlovarský Kraj,360 01,,,,,,,50.2338567,12.8739682
+30,10030,Klaudiánova nemocnice,třída Václava Klementa 23,Mladá Boleslav,Středočeský Kraj,293 01,,,,,Yes,,50.4186549,14.9105213
+31,10031,Krajská nemocnice Liberec,Husova 10,Liberec,Liberecký Kraj,460 01,,,,,,,50.7706674,15.0637477
+32,10032,Krajská nemocnice Tomáše Bati,,Zlín,Zlínský Kraj,760 01,,,,,,,49.2286815,17.6934465
+33,10033,Krankenhaus Varnsdorf,,Varnsdorf,Ústecký Kraj,407 47,,,,,,,50.8936783,14.6100893
+34,10034,LDN,,Mnichovo Hradiště,Středočeský Kraj,295 01,,,,,,,50.5243566,14.981427
+35,10035,LDN,,Zábřeh,Olomoucký Kraj,789 01,,,,,,,49.8821752,16.8627143
+36,10036,LRS Chvaly,,Praha,Hlavní Město Praha,193 00,,,,,,,50.1084629,14.5913942
+37,10037,Lečební ústav Červená Voda,,Červená Voda,Pardubický Kraj,561 61,,+420 465 626 321,,,,,50.0435679,16.7355304
+38,10038,Litomyšlská nemocnice,,Litomyšl,Pardubický Kraj,570 01,,+420 461 655 111,,,,,49.8650749,16.3120361
+39,10039,Lužická nemocnice Rumburk,,Rumburk,Ústecký Kraj,408 01,,,,,,,50.9489183,14.5455313
+40,10040,Léčebna TRN Janov,U léčebny 500,Mirošov,Plzeňský Kraj,338 43,,+420 371 512 111,,,,,49.7048777,13.6644218
+41,10041,Léčebna dlouhodobě nemocných,,Ostrava,Moravskoslezský Kraj,702 00,,,,,,,49.8188843,18.3515394
+42,10042,Léčebna pro dlouhodobě nemocné,,Brno,Jihomoravský Kraj,639 00,,,,,,,49.1814112,16.5858252
+43,10043,Léčebna respiračních chorob pro dospělé,,Cvikov,Liberecký Kraj,471 54,,,,,,,50.7901108,14.6178512
+44,10044,Masarykova městská nemocnice,,Jilemnice,Liberecký Kraj,514 01,,,,,,,50.6130793,15.4992293
+45,10045,Masarykova nemocnice,,Ústí nad Labem,Ústecký Kraj,400 11,,,,,,,50.6782292,14.0264981
+46,10046,Masarykova nemocnice,,Trutnov,Královéhradecký Kraj,541 01,,,,,,,50.5607969,15.9185065
+47,10047,Masarykova nemocnice,,Rakovník,Středočeský Kraj,269 01,,,,,,,50.1090176,13.7146089
+48,10048,Masarykovo sanatorium,,Dobříš,Středočeský Kraj,263 01,,,,,,,49.7898517,14.152698
+49,10049,Mulačova nemocnice,,Plzeň,Plzeňský Kraj,301 00,,,,,,,49.7275102,13.369686
+50,10050,Městská nemocnice Ostrava Fifejdy,,Ostrava,Moravskoslezský Kraj,702 00,,,,,,,49.8347221,18.2728561
+51,10051,"Městská nemocnice s poliklinikou Uh. Brod, s.r.o.",Partyzánů 2174,Uherský Brod,Zlínský Kraj,688 01,,,,,Yes,,49.0289712,17.6533259
+52,10052,Městská nemocnice Čáslav,Jeníkovská 17,Čáslav,Středočeský Kraj,286 01,,,,,Yes,,49.9032537,15.4014539
+53,10053,Městská poliklinika Slovany,Francouzská třída 2080/4,Plzeň,Plzeňský Kraj,301 00,,+420 378 014 111,,,,,49.7310253,13.4007278
+54,10054,Nemocnice,,Příbram,Středočeský Kraj,261 01,,,,,,,49.6918981,14.0090978
+55,10055,Nemocnice,,Český Brod,Středočeský Kraj,282 01,,,,,,,50.0719765,14.8502878
+56,10056,Nemocnice Boskovice,,Boskovice,Jihomoravský Kraj,680 01,,,,,,,49.4916452,16.6433953
+57,10057,Nemocnice Brandýs nad Labem,,Brandýs nad Labem-Stará Boleslav,Středočeský Kraj,250 01,,,,,,,50.1870451,14.6514864
+58,10058,Nemocnice Bílovec,,Bílovec,Moravskoslezský Kraj,743 01,,,,,,,49.7642479,18.0164834
+59,10059,Nemocnice Břeclav p.o.,U Nemocnice 1,Břeclav,Jihomoravský Kraj,691 41,,,,,,,48.7514291,16.8817671
+60,10060,Nemocnice Cheb,K Nemocnici 17,Cheb,Karlovarský Kraj,350 02,,,,,,,50.0692705,12.3631789
+61,10061,Nemocnice Chomutov,,Chomutov,Ústecký Kraj,430 01,,,,,,,50.4537741,13.4064808
+62,10062,Nemocnice Děčín,,Děčín,Ústecký Kraj,405 02,,,,,,,50.782775,14.2249729
+63,10063,Nemocnice Frýdek-Místek,,Frýdek-Místek,Moravskoslezský Kraj,738 01,,,,,,,49.6909182,18.3565468
+64,10064,Nemocnice Hořovice,K Nemocnici 14,Hořovice,Středočeský Kraj,268 01,,,,,,,49.8403843,13.9136748
+65,10065,Nemocnice Hranice,,Hranice,Olomoucký Kraj,753 01,,,,,,,49.5548959,17.7438825
+66,10066,Nemocnice Hustopeče p.o.,,Hustopeče,Jihomoravský Kraj,693 01,,,,,,,48.9456103,16.7301701
+67,10067,Nemocnice Ivančice,Široká 16,Ivančice,Jihomoravský Kraj,664 91,,,,,Yes,,49.1018213,16.3714762
+68,10068,Nemocnice Jihlava,,Jihlava,,586 01,,,,,Yes,,49.3988566,15.5701361
+69,10069,Nemocnice Klatovy,,Klatovy,Plzeňský Kraj,339 01,,,,,,,49.4045239,13.2919049
+70,10070,Nemocnice Kutná Hora,,Kutná Hora,Středočeský Kraj,284 01,,,,,Yes,,49.9469531,15.2511758
+71,10071,Nemocnice Kyjov,,Kyjov,Jihomoravský Kraj,697 01,,,,,Yes,,49.0104209,17.1096008
+72,10072,Nemocnice Mariánské Lázně,,Mariánské Lázně,Karlovarský Kraj,353 01,,,,,,,49.9602198,12.7043505
+73,10073,Nemocnice Milosrdných bratří,,Vizovice,Zlínský Kraj,763 12,,,,,,,49.2191713,17.8502021
+74,10074,Nemocnice Milosrdných bratří,,Brno,Jihomoravský Kraj,639 00,,+420 532 299 111,,,Yes,,49.185039,16.5953946
+75,10075,Nemocnice Milosrdných bratří Letovice,,Letovice,Jihomoravský Kraj,679 61,,,,,,,49.5448366,16.5790725
+76,10076,Nemocnice Most,,Most,Ústecký Kraj,434 01,,,,,Yes,,50.5088243,13.6232669
+77,10077,Nemocnice Mělník,,Mělník,Středočeský Kraj,276 01,,,,,Yes,,50.3476392,14.4831661
+78,10078,Nemocnice Na Bulovce,Budínova 2,Praha,Hlavní Město Praha,180 00,,,,,Yes,,50.1155676,14.4646655
+79,10079,Nemocnice Na Homolce,Roentgenova 2,Praha,Hlavní Město Praha,150 00,,,,,,,50.0736721,14.3527297
+80,10080,Nemocnice Na Strahově,Šermířská 1921/4,Praha,Hlavní Město Praha,160 00,,+420 225 003 111,,,No,,50.0792136,14.3911833
+81,10081,Nemocnice Nový Bydžov,,Nový Bydžov,Královéhradecký Kraj,504 01,,,,,,,50.2441356,15.4804126
+82,10082,Nemocnice Nový Jičín,Purkyňova 16,Nový Jičín,Moravskoslezský Kraj,741 01,,,,,,,49.5886731,18.0073401
+83,10083,Nemocnice Nymburk,,Nymburk,Středočeský Kraj,288 02,,,,,Yes,,50.1876453,15.0363042
+84,10084,Nemocnice Odry,,Odry,Moravskoslezský Kraj,742 35,,,,,,,49.6653837,17.8284277
+85,10085,Nemocnice Pelhřimov,,Pelhřimov,,393 01,,,,,,,49.4330302,15.2285851
+86,10086,"Nemocnice Podlesí, a.s.",,Třinec,Moravskoslezský Kraj,739 61,,,,,,,49.6816749,18.6406928
+87,10087,Nemocnice Prachatice,,Prachatice,Jihočeský Kraj,383 01,,,,,,,49.008426,14.0099671
+88,10088,Nemocnice Prostějov,Mathonova 1,Prostějov,Olomoucký Kraj,796 01,,,,,Yes,,49.4773831,17.0832354
+89,10089,"Nemocnice Písek, a.s.",,Písek,Jihočeský Kraj,397 01,,,,,,,49.3010675,14.1548704
+90,10090,Nemocnice Přerov,,Přerov,Olomoucký Kraj,750 02,,,,,Yes,,49.4576644,17.4764317
+91,10091,Nemocnice Rokycany,,Rokycany,Plzeňský Kraj,337 01,,,,,Yes,,49.7472337,13.6040944
+92,10092,Nemocnice Rudolfa a Stefanie Benešov,,Benešov,Středočeský Kraj,256 01,,,,,Yes,,49.7874858,14.6822282
+93,10093,Nemocnice Sedlčany,Tyršova 161,Sedlčany,Středočeský Kraj,264 01,,,,,,,49.6586197,14.4257929
+94,10094,Nemocnice Semily,,Semily,Liberecký Kraj,513 01,,,,,,,50.5977294,15.351685
+95,10095,Nemocnice Slaný,,Slaný,Středočeský Kraj,274 01,,,,,,,50.2352308,14.0854517
+96,10096,Nemocnice TGM,Purkyňova 11,Hodonín,Jihomoravský Kraj,695 01,,,,,,,48.86416,17.1449975
+97,10097,Nemocnice Tanvald,,Tanvald,Liberecký Kraj,468 41,,,,,Yes,,50.7402699,15.3009296
+98,10098,Nemocnice Teplice,,Teplice,Ústecký Kraj,415 01,,,,,,,50.6358639,13.80842
+99,10099,"Nemocnice Tábor, a.s.",Kapitána Jaroše 10,Tábor,Jihočeský Kraj,390 03,,,,,Yes,,49.4181039,14.6509461
+100,10100,Nemocnice Třebíč,,Třebíč,,674 01,,,,,,,49.2131406,15.8884389
+101,10101,Nemocnice Třinec,,Třinec,Moravskoslezský Kraj,739 61,,,,,,,49.6728078,18.6900448
+102,10102,Nemocnice Valtice,,Valtice,Jihomoravský Kraj,691 42,,,,,,,48.7444524,16.7592693
+103,10103,Nemocnice Vrchlabí,,Vrchlabí,Královéhradecký Kraj,543 01,,,,,,,50.6229274,15.6050718
+104,10104,Nemocnice Vsetín,,Vsetín,Zlínský Kraj,755 01,,,,,,,49.3313526,17.9976375
+105,10105,Nemocnice Vysoké Mýto,,Vysoké Mýto,Pardubický Kraj,566 01,,,,,,,49.9552098,16.1507315
+106,10106,Nemocnice Vyškov,Purkyňova 36,Vyškov,Jihomoravský Kraj,682 01,,,,,Yes,,49.2768252,16.9824803
+107,10107,Nemocnice následné péče,Jana Žižky 1304/1,Most,Ústecký Kraj,434 01,,,,,,,50.5164111,13.6337728
+108,10108,Nemocnice následné péče,,Lomnice nad Popelkou,Liberecký Kraj,512 51,,,,,,,50.5277582,15.3711099
+109,10109,Nemocnice následné péče Moravská Třebová,,Moravská Třebová,Pardubický Kraj,571 01,,,,,,,49.7575601,16.6540855
+110,10110,Nemocnice následné péče Svatá Anna,,Planá,Plzeňský Kraj,348 15,,+420 374 751 911,,,,,49.8797648,12.7214363
+111,10111,Nemocnice s poliklinikou Havířov,,Havířov,Moravskoslezský Kraj,736 01,,,,,,,49.7817511,18.4402209
+112,10112,Nemocnice s poliklinikou Kadaň,,Kadaň,Ústecký Kraj,432 01,,,,,,,50.3903195,13.2688283
+113,10113,Nemocnice s poliklinikou Karviná-Ráj pracoviště Orlová,,Orlová,Moravskoslezský Kraj,735 14,,,,,Yes,,49.8746773,18.4333752
+114,10114,Nemocnice v Podhájí,,Rumburk,Ústecký Kraj,408 01,,,,,,,50.9462416,14.5410669
+115,10115,Nemocnice Česká Lípa,,Česká Lípa,Liberecký Kraj,470 01,,,,,Yes,,50.6850347,14.5465999
+116,10116,Nemocnice Český Krumlov,Na Moráni nan,Český Krumlov,Jihočeský Kraj,381 01,,,,,Yes,,48.8123869,14.3242762
+117,10117,Nemocnice Český Těšín,,Český Těšín,Moravskoslezský Kraj,737 01,,,,,,,49.7449126,18.6088257
+118,10118,Nemocnice Žatec,,Žatec,Ústecký Kraj,438 01,,,,,,,50.3193798,13.5377738
+119,10119,Neurologická klinika 1. lékařské fakulty Univerzity Karlovy a Všeobecné fakultní nemocnice,,Praha,Hlavní Město Praha,120 00,,+420 224 961 111,,,,,50.073681,14.425183
+120,10120,Oblastní nemocnice,,Kladno,Středočeský Kraj,272 01,,,,,Yes,,50.142728,14.0889581
+121,10121,Oblastní nemocnice Náchod,,Náchod,Královéhradecký Kraj,547 01,,,,,,,50.4106109,16.1654248
+122,10122,Oblastní nemocnice Náchod - Nemocnice Jaroměř,,Jaroměř,Královéhradecký Kraj,551 01,,,,,,,50.3586233,15.9054005
+123,10123,Odborný léčebný ústav Jevíčko - Sanatorium,,Jevíčko,Pardubický Kraj,569 43,,,,,No,,49.6339262,16.6731551
+124,10124,Odborný léčebný ústav Paseka o.p.,,Paseka,Olomoucký Kraj,783 97,,,,,No,,49.8086133,17.2265813
+125,10125,Olivova dětská léčebna,,Říčany,Středočeský Kraj,251 01,,,,,,,49.9890298,14.6909582
+126,10126,Orlickoústecká Nemocnice,,Ústí nad Orlicí,Pardubický Kraj,562 01,,+420465710111,,,,,49.970984,16.404499
+127,10127,Oční klinika Gemini,,Zlín,Zlínský Kraj,760 01,,,,,,,49.2207177,17.7065576
+128,10128,Panochova nemocnice Turnov,,Turnov,Liberecký Kraj,511 01,,,,,Yes,,50.5890997,15.1678988
+129,10129,Pardubická krajská nemocnice,Kyjevská nan,Pardubice,Pardubický Kraj,530 03,,,,,Yes,,50.0293531,15.7901868
+130,10130,Plicní oddělení,Mathonova 1,Prostějov,Olomoucký Kraj,796 01,,,,,,,49.4750489,17.0883917
+131,10131,Podhorská nemocnice a.s.,,Rýmařov,Moravskoslezský Kraj,795 01,,,,,,,49.93212,17.2616785
+132,10132,Podřipská nemocnice s poliklinikou,,Roudnice nad Labem,Ústecký Kraj,413 01,,,,,,,50.4233391,14.2473415
+133,10133,Pohotovost,Mathonova 1,Prostějov,Olomoucký Kraj,796 01,,,,,,,49.4753138,17.0866427
+134,10134,Poliklinika Kaplice,,Kaplice,Jihočeský Kraj,382 41,,,,,,,48.739665,14.4875536
+135,10135,Poliklinika Modřany,,Praha,Hlavní Město Praha,143 00,,,,,,,50.0060555,14.4142642
+136,10136,Poliklinika Moravské Budějovice,,Moravské Budějovice,,676 02,,,,,Yes,,49.0529552,15.8070632
+137,10137,Poliklinika Moravské Budějovice - budova 2,,Moravské Budějovice,,676 02,,,,,Yes,,49.0529624,15.8070255
+138,10138,Poliklinika Plzeň,,Plzeň,Plzeňský Kraj,301 00,,,,,,,49.745732,13.3928704
+139,10139,Poliklinika Therapon,,Kopřivnice,Moravskoslezský Kraj,742 21,,,,,,,49.595616,18.1456901
+140,10140,Poliklinika Vltavínská,Vltavínská 1289,Třebíč,,674 01,,,,,No,,49.2038502,15.8786388
+141,10141,Porodnice Náchod,,Náchod,Královéhradecký Kraj,547 01,,,,,,,50.4062794,16.1657876
+142,10142,Porodnice Obilní trh,,Brno,Jihomoravský Kraj,602 00,,,,,,,49.1986284,16.5970307
+143,10143,Psychiatrická klinika,,Praha,Hlavní Město Praha,120 00,,,,,,,50.0717664,14.4255199
+144,10144,Psychiatrická léčebna Petrohrad,,Petrohrad,Ústecký Kraj,439 85,,,,,,,50.1262653,13.4422607
+145,10145,Psychiatrická nemocnice,,Havlíčkův Brod,,580 01,,,,,,,49.6107005,15.5676334
+146,10146,Psychiatrická nemocnice,,Dobřany,Plzeňský Kraj,334 41,,,,,,,49.6468361,13.2834096
+147,10147,Psychiatrická nemocnice Bohnice,,Praha,Hlavní Město Praha,182 00,,,,,No,,50.1355084,14.4160612
+148,10148,Psychiatrická nemocnice Brno,,Brno,Jihomoravský Kraj,618 00,,+420 548 123 111,,,,,49.1821881,16.641981
+149,10149,Psychiatrická nemocnice Jihlava,Brněnská 455/54,Jihlava,,586 01,,567552123,,,,,49.397124,15.6039814
+150,10150,Psychiatrická nemocnice Kosmonosy,,Kosmonosy,Středočeský Kraj,293 06,,,,,,,50.4427059,14.9267844
+151,10151,"Psychiatrická nemocnice Kosmonosy, pracoviště Sadská",Lázeňská 515,Sadská,Středočeský Kraj,289 12,,+420325594473,,,,,50.1524449,14.9821772
+152,10152,RZS Vlčice,nan 66,Blovice,Plzeňský Kraj,336 01,,,,,,,49.5696161,13.5431575
+153,10153,Rehabilitační Nemocnice Beroun,,Beroun,Středočeský Kraj,266 01,,,,,,,49.9638254,14.0957245
+154,10154,Rehabilitační ústav,,Brandýs nad Orlicí,Pardubický Kraj,561 12,,,,,,,50.0040164,16.2803815
+155,10155,Rehabilitační ústav Hrabyně. Pracoviště Chuchelná,Komenského 14,Chuchelná,Moravskoslezský Kraj,747 24,,+420 553 683 300,,,,,49.988984,18.1161453
+156,10156,Sanatorium Jablunkov,,Jablunkov,Moravskoslezský Kraj,739 91,,,,,,,49.5720389,18.7574363
+157,10157,Sanus,,Hradec Králové,Královéhradecký Kraj,500 03,,,,,No,,50.2037354,15.8230611
+158,10158,Senior centrum Přepychy,,Přepychy,Královéhradecký Kraj,517 32,,,,,,,50.2337121,16.1073751
+159,10159,Slezská nemocnice v Opavě,,Opava,Moravskoslezský Kraj,746 01,,,,,Yes,,49.9359221,17.881031
+160,10160,Stará fakultní nemocnice,,Hradec Králové,Královéhradecký Kraj,500 03,,,,,,,50.2080897,15.8410567
+161,10161,"Svitavská nemocnice, a.s.",,Svitavy,Pardubický Kraj,568 02,,,,,,,49.753719,16.4701314
+162,10162,Swiss Medic Clinic,,Planá,Plzeňský Kraj,348 15,,,,,,,49.8697422,12.7492949
+163,10163,Thomayerova nemocnice,,Praha,Hlavní Město Praha,140 00,,,,,,,50.0235183,14.4609048
+164,10164,Trans Hospital (pohotovost),,Řevnice,Středočeský Kraj,252 30,,,,,,,49.9113888,14.2384505
+165,10165,Uherskohradišťská nemocnice a.s.,,Uherské Hradiště,Zlínský Kraj,686 06,,,,,Yes,,49.064686,17.4553953
+166,10166,Uhličité koupele,,Lázně Libverda,Liberecký Kraj,463 62,,,,,,,50.890348,15.189614
+167,10167,Urologická klinika,,Praha,Hlavní Město Praha,120 00,,,,,,,50.071666,14.4281118
+168,10168,V nemocnici,,Strakonice,Jihočeský Kraj,386 01,,,,,,,49.2666462,13.9085007
+169,10169,Vojenská nemocnice,,Brno,Jihomoravský Kraj,602 00,,,,,,,49.2017089,16.6313798
+170,10170,Vojenská nemocnice - chirurgie,,Olomouc,Olomoucký Kraj,779 00,,,,,Yes,,49.5988889,17.2711466
+171,10171,Vysokomýtská nemocnice,,Vysoké Mýto,Pardubický Kraj,566 01,,,,,,,49.955353,16.151838
+172,10172,Vítkovická nemocnice,,Ostrava,Moravskoslezský Kraj,702 00,,,,,,,49.815264,18.2681858
+173,10173,Zdravotní středisko,,Hrušovany u Brna,Jihomoravský Kraj,664 62,,,,,,,49.035554,16.5916893
+174,10174,"Záchranná služba Plzeňského kraje, Výjezdové stanoviště Plzeň sever",,Plzeň,Plzeňský Kraj,301 00,,,,,Yes,,49.7662813,13.3720388
+175,10175,nemocnice Atlas,,Zlín,Zlínský Kraj,760 01,,,,,,,49.2228207,17.6570752
+176,10176,psychiatrická léčebna,,Horní Beřkovice,Ústecký Kraj,411 85,,,,,,,50.3610065,14.3481838
+177,10177,zdravotní středisko,,Zátor,Moravskoslezský Kraj,793 16,,,,,,,50.0439834,17.5893352
+178,10178,Úrazová nemocnice v Brně,,Brno,Jihomoravský Kraj,615 00,,+420 545 538 111,,,,,49.1979708,16.615112
+179,10179,Ústav chirurgie ruky a plastické chirurgie Vysoké nad Jizerou,,Vysoké nad Jizerou,Liberecký Kraj,512 11,,+420481350905,,,Yes,,50.6828414,15.4031923
+180,10180,Ústav hematologie a krevní transfuze,,Praha,Hlavní Město Praha,120 00,,,,,,,50.0753691,14.4207751
+181,10181,Ústav pro péči o matku a dítě Podolí,,Praha,Hlavní Město Praha,140 00,,,,,,,50.0615624,14.4195431
+182,10182,Ústav sociální péče Ráby,,Ráby,Pardubický Kraj,533 52,,,,,,,50.0712578,15.8035883
+183,10183,Územní zdravotnická záchranná služba Karlovarského kraje,Závodní 390/98C,Karlovy Vary,Karlovarský Kraj,360 01,,,,,Yes,,50.2210586,12.825288
+184,10184,Šumperská nemocnice,,Šumperk,Olomoucký Kraj,787 01,,,,,,,49.9571827,16.9621371
+185,10185,Beskydské rehabilitační centrum,,Čeladná,Moravskoslezský Kraj,739 12,,,,,,,49.539716,18.3030871
+186,10186,Dětská ambulance,U Zdravotního střediska 1644,Dubňany,Jihomoravský Kraj,696 03,,,,,,,48.9166089,17.0998021
+187,10187,Dětský lékař,Záhuní 1034,Frenštát pod Radhoštěm,Moravskoslezský Kraj,744 01,,,,,,,49.5458367,18.2100338
+188,10188,Dům zdraví,,Velké Meziříčí,,594 01,,,,,,,49.3560284,16.0152295
+189,10189,Dům zdraví,,Jihlava,,586 01,,,,,,,49.396589,15.5732236
+190,10190,Klinika oční a estetické chirurgie,,Zlín,Zlínský Kraj,760 01,,,,,,,49.2220399,17.6800623
+191,10191,Klášter voršilek,,Liberec,Liberecký Kraj,460 01,,,,,,,50.7685603,15.0664775
+192,10192,Krevní centrum,,Frýdek-Místek,Moravskoslezský Kraj,738 01,,,,,,,49.6835826,18.3554738
+193,10193,"LIMA, spol. s r.o.",,Praha,Hlavní Město Praha,140 00,,+420 241 401 514,,,,,50.0513182,14.4344507
+194,10194,"Logopedická ambulance, s.r.o.",Za Nádražím 223,Český Krumlov,Jihočeský Kraj,381 01,,,,,,,48.8212648,14.3196483
+195,10195,Lékařská péče,Třída Josefa II. 78,Pec pod Sněžkou,Královéhradecký Kraj,542 21,,,,,,,50.6591424,15.8189588
+196,10196,Lékařský dům Hlinky,,Brno,Jihomoravský Kraj,603 00,,,,,,,49.1912044,16.5783408
+197,10197,MUDr. Ivana Šmejcová,,Železnice,Královéhradecký Kraj,507 13,,,,,,,50.4733931,15.3843678
+198,10198,MUDr. Lenka Šepsová,,Nový Bor,Liberecký Kraj,473 01,,,,,,,50.7581245,14.5514388
+199,10199,"Odborný léčebný ústav Metylovice, Moravskoslezské sanatorium",,Metylovice,Moravskoslezský Kraj,739 49,,,,,,,49.6085462,18.3390222
+200,10200,Poliklinika,,Praha,Hlavní Město Praha,149 00,,,,,,,50.0258051,14.5176136
+201,10201,Poliklinika,,Soběslav,Jihočeský Kraj,392 01,,,,,,,49.2581032,14.7210619
+202,10202,Poliklinika,,Zlín,Zlínský Kraj,760 01,,,,,,,49.2209193,17.6548594
+203,10203,Poliklinika Blovice,Palackého 259,Blovice,Plzeňský Kraj,336 01,,,,,,,49.582381,13.5360448
+204,10204,Poliklinika Horníkova,,Brno,Jihomoravský Kraj,628 00,,,,,,,49.2133465,16.6817273
+205,10205,Poliklinika I,,Domažlice,Plzeňský Kraj,344 01,,,,,,,49.4399601,12.9267737
+206,10206,Poliklinika II,,Domažlice,Plzeňský Kraj,344 01,,,,,,,49.4409052,12.9238931
+207,10207,Poliklinika Kralupy nad Vltavou ALTES s.r.o.,Nerudova 686/18,Kralupy nad Vltavou,Středočeský Kraj,278 01,,,,,,,50.2391171,14.3075333
+208,10208,Poliklinika Medivita,,Brno,Jihomoravský Kraj,602 00,,,,,,,49.2360183,16.5833135
+209,10209,Poliklinika Nový Bor,,Nový Bor,Liberecký Kraj,473 01,,,,,,,50.7598337,14.5539342
+210,10210,Poliklinika Planá,,Planá,Plzeňský Kraj,348 15,,,,,,,49.8678315,12.7466733
+211,10211,Poliklinika Týn nad Vltavou,Sakařova 755,Týn nad Vltavou,Jihočeský Kraj,375 01,,,,,,,49.2260341,14.4171935
+212,10212,Poliklinika Zahradníkova,,Brno,Jihomoravský Kraj,602 00,,,,,,,49.2060979,16.594515
+213,10213,Praktický Lékař Sedláková Vlasta MUDr.,,Hrob,Ústecký Kraj,417 04,,,,,,,50.6586071,13.7241565
+214,10214,Praktický lékař,,Mokrá-Horákov,Jihomoravský Kraj,664 04,,,,,,,49.2199934,16.7517069
+215,10215,"ProMedica, spol. s r.o.",,Prostějov,Olomoucký Kraj,796 01,,,,,,,49.4813951,17.1127563
+216,10216,Rehabilitace,,Horní Bříza,Plzeňský Kraj,330 12,,,,,,,49.8492677,13.3731445
+217,10217,Sette medici s.r.o.,,Frýdek-Místek,Moravskoslezský Kraj,738 01,,,,,,,49.6883545,18.3564525
+218,10218,Stomatologická poliklinika,,Nový Jičín,Moravskoslezský Kraj,741 01,,,,,,,49.5973184,18.0119633
+219,10219,UNIMED,,Jeseník,Olomoucký Kraj,790 01,,+420 584 413 101,,,,,50.2289503,17.1985897
+220,10220,Zdavotní středisko Mirošov,náměstí Míru 55,Mirošov,Plzeňský Kraj,338 43,,,,,,,49.6876088,13.6579355
+221,10221,"Zdravotnická společnost na Pražské třídě, spol. s r.o.",,České Budějovice,Jihočeský Kraj,370 01,,,,,,,48.9843134,14.471091
+222,10222,Zdravotnické zařízení Troilova,,Praha,Hlavní Město Praha,101 00,,,,,,,50.0839964,14.5026289
+223,10223,Zdravotní středisko,,Blansko,Jihomoravský Kraj,678 01,,,,,,,49.3713245,16.6452019
+224,10224,Zdravotní středisko,,Velvary,Středočeský Kraj,273 24,,,,,,,50.2791422,14.2389126
+225,10225,Zdravotní středisko,,Dolní Němčí,Zlínský Kraj,687 62,,,,,,,48.9695684,17.5932615
+226,10226,Zdravotní středisko,Brozanská nan,Bohušovice nad Ohří,Ústecký Kraj,411 56,,,,,,,50.4925502,14.1486707
+227,10227,Zdravotní středisko,,Jaroměřice nad Rokytnou,,675 51,,,,,,,49.0948332,15.8912609
+228,10228,Zdravotní středisko,,Černá Hora,Jihomoravský Kraj,679 21,,,,,,,49.4124996,16.5838518
+229,10229,Zdravotní středisko,,Bezdružice,Plzeňský Kraj,349 53,,,,,,,49.9051287,12.9714499
+230,10230,Zdravotní středisko,V Zámku 7,Pozořice,Jihomoravský Kraj,664 07,,,,,,,49.2091682,16.7906487
+231,10231,Zdravotní středisko,,Kunštát,Jihomoravský Kraj,679 72,,,,,,,49.5082592,16.5195131
+232,10232,Zdravotní středisko,Náměstí Dr. Karla Kramáře 58,Vysoké nad Jizerou,Liberecký Kraj,512 11,,,,,,,50.6863447,15.4014856
+233,10233,Zdravotní středisko,Dvořákova 907/10,Jiříkov,Ústecký Kraj,407 53,,,,,,,50.9951084,14.5769171
+234,10234,Zdravotní středisko,Březinova 730/1,Jiříkov,Ústecký Kraj,407 53,,,,,,,50.992649,14.5755589
+235,10235,Zdravotní středisko,,Hlubočky,Olomoucký Kraj,783 65,,,,,,,49.6153284,17.3926897
+236,10236,Zdravotní středisko,,Hradčovice,Zlínský Kraj,687 33,,,,,,,49.048444,17.5822707
+237,10237,Zdravotní středisko,,Napajedla,Zlínský Kraj,763 61,,,,,,,49.1723687,17.5114425
+238,10238,Zdravotní středisko,U Zdravotního střediska 1542,Dubňany,Jihomoravský Kraj,696 03,,,,,,,48.9158426,17.0999577
+239,10239,Zdravotní středisko - Studenec,,Studenec,Liberecký Kraj,512 33,,,,,,,50.5660851,15.5446658
+240,10240,Zdravotní středisko Deštná,,Deštná,Jihočeský Kraj,378 25,,,,,,,49.2658673,14.9220802
+241,10241,Zdravotní středisko Vesec,,Liberec,Liberecký Kraj,460 01,,,,,,,50.7385912,15.0617891
+242,10242,Záchranná služba,,Klatovy,Plzeňský Kraj,339 01,,,,,ambulance_station,,49.4027625,13.2909202
+243,10243,poliklinika Vajgarská,,Praha,Hlavní Město Praha,198 00,,,,,,,50.1014794,14.5529687
+244,10244,soukromý praktický lékař MUDr. Jiří Bartoš,,Moravská Nová Ves,Jihomoravský Kraj,691 55,,,,,No,,48.8031299,17.0156768
+245,10245,zdravotní středisko,,Napajedla,Zlínský Kraj,763 61,,,,,,,49.1720725,17.5109815

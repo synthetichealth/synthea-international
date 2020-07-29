@@ -1,0 +1,134 @@
+,name,address,city,state,zip,phone,LAT,LON,hasSpecialties,ADDICTION MEDICINE,ADVANCED HEART FAILURE AND TRANSPLANT CARDIOLOGY,ALLERGY/IMMUNOLOGY,ANESTHESIOLOGY,ANESTHESIOLOGY ASSISTANT,AUDIOLOGIST,CARDIAC ELECTROPHYSIOLOGY,CARDIAC SURGERY,CARDIOVASCULAR DISEASE (CARDIOLOGY),CERTIFIED NURSE MIDWIFE,CERTIFIED REGISTERED NURSE ANESTHETIST,CHIROPRACTIC,CLINICAL NURSE SPECIALIST,CLINICAL PSYCHOLOGIST,CLINICAL SOCIAL WORKER,COLORECTAL SURGERY (PROCTOLOGY),CRITICAL CARE (INTENSIVISTS),DENTIST,DERMATOLOGY,DIAGNOSTIC RADIOLOGY,EMERGENCY MEDICINE,ENDOCRINOLOGY,FAMILY PRACTICE,GASTROENTEROLOGY,GENERAL PRACTICE,GENERAL SURGERY,GERIATRIC MEDICINE,GERIATRIC PSYCHIATRY,GYNECOLOGICAL ONCOLOGY,HAND SURGERY,HEMATOLOGY,HEMATOLOGY/ONCOLOGY,HEMATOPOIETIC CELL TRANSPLANTATION AND CELLULAR TH,HOSPICE/PALLIATIVE CARE,HOSPITALIST,INFECTIOUS DISEASE,INTERNAL MEDICINE,INTERVENTIONAL CARDIOLOGY,INTERVENTIONAL PAIN MANAGEMENT,INTERVENTIONAL RADIOLOGY,MAXILLOFACIAL SURGERY,MEDICAL ONCOLOGY,NEPHROLOGY,NEUROLOGY,NEUROPSYCHIATRY,NEUROSURGERY,NUCLEAR MEDICINE,NURSE PRACTITIONER,OBSTETRICS/GYNECOLOGY,OCCUPATIONAL THERAPY,OPHTHALMOLOGY,OPTOMETRY,ORAL SURGERY,ORTHOPEDIC SURGERY,OSTEOPATHIC MANIPULATIVE MEDICINE,OTOLARYNGOLOGY,PAIN MANAGEMENT,PATHOLOGY,PEDIATRIC MEDICINE,PERIPHERAL VASCULAR DISEASE,PHYSICAL MEDICINE AND REHABILITATION,PHYSICAL THERAPY,PHYSICIAN ASSISTANT,PLASTIC AND RECONSTRUCTIVE SURGERY,PODIATRY,PREVENTATIVE MEDICINE,PSYCHIATRY,PULMONARY DISEASE,RADIATION ONCOLOGY,REGISTERED DIETITIAN OR NUTRITION PROFESSIONAL,"RHEUMATOLOGY,",SLEEP MEDICINE,SPEECH LANGUAGE PATHOLOGIST,SPORTS MEDICINE,SURGICAL ONCOLOGY,THORACIC SURGERY,UNDEFINED PHYSICIAN TYPE (SPECIFY),"UROLOGY,",VASCULAR SURGERY,id
+0,Bolnica Dr. Petra Držaja,Vodnikova cesta 62,Ljubljana,Ljubljana,1000,,46.067997,14.4868755,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30000
+1,Bolnica za ženske bolezni in porodnišnica,Prečna ulica 4,Postojna,Postojna,6230,,45.7719086,14.2101056,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30001
+2,Bolnišnica Brežice - Ambulante,,Brežice,Brežice,8250,,45.9092976,15.5939863,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30002
+3,Bolnišnica Sežana,Cankarjeva ulica 4,Sežana,Sežana,6210,+386 5 7074000,45.7094772,13.8672205,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30003
+4,Bolnišnica Topolšica,,Šoštanj,Velenje,3326,,46.4049219,15.0202028,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30004
+5,Bolnišnica za ginekologijo in porodništvo Kranj,Kidričeva cesta 38a,Kranj,Kranj,4000,,46.2486785,14.354152,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30005
+6,IATROS,Parmova ulica 51B,Ljubljana,Ljubljana,1000,,46.0645199,14.5023533,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30006
+7,Interni oddelek,Potrčeva cesta 23,Ptuj,Ptuj,2250,,46.4263035,15.876253,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30007
+8,Ivančna Gorica,,Ivančna Gorica,Grosuplje,1295,,45.9376381,14.8054871,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30008
+9,Kirurški oddelek,Potrčeva cesta 21,Ptuj,Ptuj,2250,,46.4260491,15.8760827,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30009
+10,Kirurški sanatorij,Rožna dolina Cesta XV 6,Ljubljana,Ljubljana,1000,,46.0463217,14.4811128,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30010
+11,Klinika za infekcijske bolezni in vročinska stanja,,Ljubljana,Ljubljana,1000,,46.0563373,14.5220905,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30011
+12,Klinični oddelek za gastroenterologijo,,Ljubljana,Ljubljana,1000,,46.0560848,14.5219009,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30012
+13,Leonišče,,Ljubljana,Ljubljana,1000,,46.0532416,14.5233779,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30013
+14,Oddelek za pljučne bolezni,Slivniško Pohorje 7,Hoče-Slivnica,Maribor,2312,,46.4831385,15.576683,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30014
+15,Očesna klinika Ljubljana,Grablovičeva ulica 46,Ljubljana,Ljubljana,1000,,46.0552459,14.529164,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30015
+16,Pivnica Donat,Zdraviliški trg nan,Rogaška Slatina,Šmarje Pri Jelšah,3250,,46.2389391,15.640403,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30016
+17,Psihiatrična klinika Ljubljana,,Ljubljana,Ljubljana,1000,,46.0518964,14.5693615,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30017
+18,Specialistični pregledi,Derčeva ulica 35,Ljubljana,Ljubljana,1000,,46.0713751,14.4828394,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30018
+19,Splošna Ambulanta Poljčane,Bistriška cesta 62,Poljčane,Slovenska Bistrica,2319,,46.3130359,15.5780869,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30019
+20,Splošna Bolnišnica Izola - Ospedale Generale Isola,Polje 40,Izola,,6310,+386 5 6606 299,45.5449708,13.6851455,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30020
+21,Splošna Bolnišnica Slovenj Gradec,,Slovenj Gradec,Slovenj Gradec,2380,,46.5092984,15.0812473,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30021
+22,Splošna bolnišnica,,Slovenj Gradec,Slovenj Gradec,2380,,46.5084666,15.0821904,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30022
+23,Splošna bolnišnica,Šmihelska cesta 1,Novo mesto,Novo Mesto,8000,,45.8001691,15.1630882,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30023
+24,Splošna bolnišnica Brežice,Černelčeva cesta 15,Brežice,Brežice,8250,,45.9089144,15.5937925,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30024
+25,Splošna bolnišnica Celje,Oblakova ulica nan,Celje,Celje,3000,,46.2324647,15.260609,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30025
+26,Splošna bolnišnica Jesenice,,Jesenice,Jesenice,4270,,46.4434432,14.0378893,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30026
+27,Splošna bolnišnica Murska Sobota,Ulica dr. Vrbnjaka 6,Murska Sobota,Murska Sobota,9000,,46.6484582,16.1856969,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30027
+28,Splošna bolnišnica dr. Jožeta Potrča Ptuj,,Ptuj,Ptuj,2250,,46.4279247,15.875755,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30028
+29,Splošna bolnišnica »Dr. Franca Derganca« Nova Gorica,Ulica padlih borcev 13A,Šempeter-Vrtojba,Nova Gorica,5290,,45.933011,13.639599,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30029
+30,Terapija,Zdraviliški trg 9,Rogaška Slatina,Šmarje Pri Jelšah,3250,,46.2388383,15.6408477,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30030
+31,Univerzitetni klinični center Ljubljana,Zaloška cesta 7,Ljubljana,Ljubljana,1000,,46.0548693,14.5202926,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30031
+32,Univerzitetni klinični center Maribor,Ljubljanska ulica 5,Maribor,Maribor,2000,+386 2 321 10 00,46.5510318,15.6492422,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30032
+33,Univerzitetni rehabilitacijski inštitut Republike Slovenije - Soča,Linhartova cesta 51,Ljubljana,Ljubljana,1000,,46.0680333,14.5243584,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30033
+34,Urgenca,,Ptuj,Ptuj,2250,,46.4260436,15.8752805,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30034
+35,Valdoltra Ortopedska Bolnišnica,,Ankaran,Koper,6280,,45.5804744,13.7305527,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30035
+36,ZD Grosuplje,Pod gozdom cesta I 14,Grosuplje,Grosuplje,1290,,45.9597725,14.6528267,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30036
+37,ZD Grosuplje,Pod gozdom cesta I 14,Grosuplje,Grosuplje,1290,,45.9595707,14.6530558,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30037
+38,ZD Ljubljana - MOSTE-POLJE,,Ljubljana,Ljubljana,1000,,46.0562106,14.5315846,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30038
+39,Zavod RS za transfuzijsko medicino,Šlajmerjeva ulica 6,Ljubljana,Ljubljana,1000,,46.0541296,14.524643,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30039
+40,Zdrastveni dom Kranj,Gosposvetska ulica 10,Kranj,Kranj,4000,,46.2487383,14.3531117,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30040
+41,Zdravstveni Dom,,Slovenj Gradec,Slovenj Gradec,2380,,46.5069207,15.0817966,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30041
+42,Zdravstveni Dom Koper,,Koper,Koper,6000,,45.5396937,13.7322074,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30042
+43,Zdravstveni dom,,Novo mesto,Novo Mesto,8000,,45.8014829,15.1622176,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30043
+44,Zdravstveni dom,Kržičeva ulica 10,Ljubljana,Ljubljana,1000,,46.0647107,14.5109652,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30044
+45,Zdravstveni dom,Celjska cesta 10,Rogaška Slatina,Šmarje Pri Jelšah,3250,,46.2393506,15.6340617,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30045
+46,Zdravstveni dom Bled,,Bled,Radovljica,4260,,46.3715951,14.1087336,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30046
+47,Zdravstveni dom Celje,,Celje,Celje,3000,,46.2320416,15.2629202,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30047
+48,Zdravstveni dom Cerknica,Cesta 4. maja 17,Cerknica,Cerknica,1380,,45.7915497,14.3656569,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30048
+49,Zdravstveni dom Dolsko,,Dol pri Ljubljani,Ljubljana,1262,,46.0940015,14.6776918,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30049
+50,Zdravstveni dom Domžale,Mestni trg 2,Domžale,Domžale,1230,,46.1398576,14.5963693,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30050
+51,Zdravstveni dom Fram,,Rače-Fram,Maribor,2313,,46.4562998,15.6267712,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30051
+52,Zdravstveni dom Izola,Ulica oktobrske revolucije 11,Izola,,6310,,45.5345953,13.6604463,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30052
+53,Zdravstveni dom Jesenice,Cesta maršala Tita 78,Jesenice,Jesenice,4270,,46.4402939,14.0449418,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30053
+54,Zdravstveni dom Kamnik,Novi trg 26,Kamnik,Kamnik,1241,,46.2216688,14.6130757,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30054
+55,Zdravstveni dom Kobarid,,Kobarid,Tolmin,5222,,46.2472883,13.5781474,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30055
+56,Zdravstveni dom Kranj,Kidričeva cesta 10a,Kranj,Kranj,4000,,46.2485413,14.353749,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30056
+57,Zdravstveni dom Krško,Cesta Krških žrtev 132c,Krško,Krško,8270,,45.9430913,15.4832334,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30057
+58,"Zdravstveni dom Ljubljana, enota Vič-Rudnik",Šestova ulica 10,Ljubljana,Ljubljana,1000,,46.0464308,14.4872853,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30058
+59,"Zdravstveni dom Ljubljana, enota Vič-Rudnik",Šestova ulica 10,Ljubljana,Ljubljana,1000,,46.046604,14.4869466,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30059
+60,"Zdravstveni dom Ljubljana, enota Vič-Rudnik",Šestova ulica 10,Ljubljana,Ljubljana,1000,,46.0464762,14.486941,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30060
+61,Zdravstveni dom Medvode,,Medvode,Ljubljana,1215,,46.1457838,14.4055907,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30061
+62,Zdravstveni dom Metelkova,Metelkova ulica 9,Ljubljana,Ljubljana,1000,,46.056852,14.5150286,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30062
+63,Zdravstveni dom Moravče,,Moravče,Domžale,1251,,46.1373708,14.7471923,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30063
+64,Zdravstveni dom Videm pri Ptuju,Videm pri Ptuju 51,Videm,Ptuj,2284,,46.3692239,15.9026067,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30064
+65,Zdravstveni dom Vrhnika,,Vrhnika,Vrhnika,1360,,45.9629571,14.2933391,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30065
+66,Zdravstveni dom lenart,,Lenart,Lenart,2230,,46.5773109,15.8284543,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30066
+67,Zdravstveni dom Črnuče,,Ljubljana,Ljubljana,1231,,46.1031662,14.5318629,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30067
+68,Zdravstveni dom Šiška,Derčeva ulica 5,Ljubljana,Ljubljana,1000,,46.0690035,14.487361,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30068
+69,Zdravstveni dom Škofja Loka,,Škofja Loka,Škofja Loka,4220,,46.1662526,14.312689,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30069
+70,Zdravstveni dom Škofljica,Kočevska cesta 25,Škofljica,Ljubljana,1291,,45.9807367,14.5765075,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30070
+71,Šolska in pediatrična ambulanta,Zagrebška cesta 103,Maribor,Maribor,2000,08 205 75 70,46.5235822,15.6715022,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30071
+72,Železniški zdravstveni dom,Pivovarniška ulica 1,Ljubljana,Ljubljana,1000,,46.0608944,14.5007116,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30072
+73,Ambulanta,Zagrebška cesta 84A,Maribor,Maribor,2000,,46.5283858,15.6677249,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30073
+74,Ambulanta Cerkvenjak,Cerkvenjak 30a,Cerkvenjak,Lenart,2236,+386 8 2056340,46.5653323,15.9427518,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30074
+75,Ambulanta Cirkovce,Cirkovce 50,Kidričevo,Ptuj,2326,,46.394582,15.7284403,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30075
+76,Ambulanta Razkrižje,Šafarsko 24A,Razkrižje,Ljutomer,9246,,46.5200713,16.2867838,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30076
+77,Dermis specialistična Dermatološko Alergološka ambulanta d.o.o.,Košenice 13,Novo mesto,Novo Mesto,8000,+386 7 334 71 70,45.7849341,15.1613005,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30077
+78,Medico - Kirurški center,Levstikova ulica 17,Moravske Toplice,Murska Sobota,9226,,46.6858384,16.2165497,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30078
+79,Nacionalni verinarski inštitut MS,Noršinska ulica 35,Murska Sobota,Murska Sobota,9000,+386 2 5211991,46.664549,16.192888,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30079
+80,Postaja Sprostitve,Ulica Vinka Vodopivca 28,Nova Gorica,Nova Gorica,5000,,45.9581313,13.6599219,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30080
+81,Psihiatrična ambulanta,Gubčeva cesta 22,Radenci,Gornja Radgona,9252,,46.639469,16.0417079,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30081
+82,Psihiatrična bolnišnica Ormož,,Ormož,Ormož,2270,,46.4072052,16.1429273,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30082
+83,"Resona, ambulanta za bioresonanco, Neva Furlan s.p.",,Izola,,6310,,45.5042136,13.6375986,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30083
+84,Simonič Marta Specialistična internistična in Diabetološka ambulanta,Zgornja Hajdina 127,Hajdina,Ptuj,2288,02 788 30 40,46.4084642,15.8389029,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30084
+85,Splošna ambulanta Cankova,,Cankova,Murska Sobota,9261,+3862 540 90 20,46.7191007,16.0176652,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30085
+86,Urgenca,,Lenart,Lenart,2230,,46.5769552,15.8284192,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30086
+87,Urgentni Center Celje,,Celje,Celje,3000,,46.2338298,15.2608183,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30087
+88,ZD Pragersko,Ptujska cesta 48,Slovenska Bistrica,Slovenska Bistrica,2331,,46.3923505,15.6672241,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30088
+89,ZD dr. Adolfa Drolca,Bohovska cesta 7,Hoče-Slivnica,Maribor,2311,,46.5009144,15.6480504,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30089
+90,ZD dr. Adolfa Drolca,Nova ulica 5,Rače-Fram,Maribor,2327,,46.4538579,15.6738588,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30090
+91,ZD dr. Janeza Oražma,,Ribnica,Ribnica,1310,,45.7428023,14.7258607,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30091
+92,"Zavod za zdravstveno varstvo Murska Sobota, Mikrobiološki laboratorij",Ulica arhitekta Novaka 2B,Murska Sobota,Murska Sobota,9000,,46.6592857,16.1706947,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30092
+93,Zdrav Splet,,Maribor,Maribor,2000,,46.5393228,15.6107394,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30093
+94,Zdravstvena postaja Beltinci,Cvetno naselje 1,Beltinci,Murska Sobota,9231,,46.609569,16.2339155,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30094
+95,Zdravstvena postaja Grad,nan 186C,Grad,Murska Sobota,9264,,46.8004631,16.091808,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30095
+96,Zdravstvena postaja Turnišče,Ulica Štefana Kovača 95,Turnišče,Lendava,9224,,46.626035,16.3123751,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30096
+97,Zdravstvena postaja Črenšovci,Ulica Juša Kramarja 6,Črenšovci,Lendava,9232,+3862 5789 417,46.5688187,16.2958424,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30097
+98,Zdravstveni Dom Sežana,"Partizanska cesta 24,26",Sežana,Sežana,6210,,45.7084111,13.8711881,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30098
+99,Zdravstveni dom,,Slovenske Konjice,Slovenske Konjice,3210,,46.340157,15.4283278,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30099
+100,Zdravstveni dom,Trata 7,Gorenja vas-Poljane,Škofja Loka,4224,,46.102497,14.1422577,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30100
+101,Zdravstveni dom,Kvedrova cesta 31,Ljubljana,Ljubljana,1000,,46.0718751,14.5441222,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30101
+102,Zdravstveni dom,,Vransko,Žalec,3305,,46.2458763,14.95084,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30102
+103,Zdravstveni dom,Kolodvorska cesta 24,Pivka,Postojna,6257,,45.680474,14.1945567,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30103
+104,Zdravstveni dom Dravograd,Trg 4. julija 4,Dravograd,Dravograd,2370,02 872 34 00,46.5897394,15.0243633,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30104
+105,Zdravstveni dom Gornja Radgona,Partizanska cesta 40,Gornja Radgona,Gornja Radgona,9250,+386 2 5648600,46.6736998,15.9928706,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30105
+106,Zdravstveni dom Hrastnik,Novi dom 11,Hrastnik,Hrastnik,1430,,46.1405824,15.085039,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30106
+107,Zdravstveni dom Idrija,Otona Župančiča 3,Idrija,Idrija,5280,,46.0023428,14.0301472,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30107
+108,Zdravstveni dom Ilirska Bistrica,Knežak 148,Ilirska Bistrica,Ilirska Bistrica,6253,,45.6257123,14.2469876,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30108
+109,Zdravstveni dom Kalohova,Kalohova ulica 20,Maribor,Maribor,2000,,46.5552536,15.6172109,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30109
+110,Zdravstveni dom Kidričevo,Mladinska ulica 9,Kidričevo,Ptuj,2325,+386 (0)2 796 12 21,46.4043345,15.7948249,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30110
+111,Zdravstveni dom Koper,Dellavallejeva ulica 3,Koper,Koper,6000,,45.5489476,13.7309028,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30111
+112,Zdravstveni dom Koper,Dellavallejeva ulica 3,Koper,Koper,6000,,45.5487532,13.7312202,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30112
+113,Zdravstveni dom Kočevje,Roška cesta 18,Kočevje,Kočevje,1330,,45.6397207,14.8660282,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30113
+114,Zdravstveni dom Križevci pri Ljutomeru,Križevci pri Ljutomeru 34A,Križevci,Ljutomer,9242,,46.566752,16.1369473,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30114
+115,Zdravstveni dom Ljutomer,,Ljutomer,Ljutomer,9240,,46.5217748,16.1929291,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30115
+116,Zdravstveni dom Logatec,Notranjska cesta 2,Logatec,Logatec,1370,,45.9169749,14.2277036,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30116
+117,Zdravstveni dom Murska Sobota,"Grajska ulica 20, 22, 24",Murska Sobota,Murska Sobota,9000,,46.6641722,16.1615055,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30117
+118,Zdravstveni dom Nova Gorica,Ulica Gradnikove brigade 7,Nova Gorica,Nova Gorica,5000,,45.958726,13.6462217,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30118
+119,Zdravstveni dom Nova Gorica,Rejčeva ulica 4,Nova Gorica,Nova Gorica,5000,,45.9581475,13.6451512,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30119
+120,Zdravstveni dom Piran,,Piran,Piran,6330,,45.5270161,13.5689377,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30120
+121,Zdravstveni dom Radenci,Radgonska cesta 2,Radenci,Gornja Radgona,9252,,46.6413579,16.0438339,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30121
+122,Zdravstveni dom Radeče,Ulica OF 8,Radeče,Laško,1433,,46.0660021,15.180447,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30122
+123,Zdravstveni dom Rogašovci,nan 14a,Rogašovci,Murska Sobota,9262,,46.8052519,16.0361288,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30123
+124,Zdravstveni dom Tišina,Tišina 30,Tišina,Murska Sobota,9251,,46.6535596,16.0868922,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30124
+125,Zdravstveni dom Trebnje,Goliev trg 3,Trebnje,Trebnje,8210,,45.9085546,15.0064517,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30125
+126,Zdravstveni dom Zagorje,,Zagorje ob Savi,Zagorje Ob Savi,1410,+386 3 5655000,46.1338532,14.9952134,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30126
+127,Zdravstveni dom Zgornja Polskava,Mladinska ulica 12,Slovenska Bistrica,Slovenska Bistrica,2314,,46.4270827,15.610972,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30127
+128,Zdravstveni dom dr. Adolfa Drolca Maribor,,Maribor,Maribor,2000,+386 2 228 6200,46.5599937,15.6524807,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30128
+129,zdravstveni dom,Bistrica ob Sotli 3,Bistrica ob Sotli,Šmarje Pri Jelšah,3256,,46.056571,15.6608759,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30129
+130,zdravstveni dom Dobrovnik,Dobrovnik 297a,Dobrovnik,Lendava,9223,,46.6517755,16.3512932,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30130
+131,zdravstveni dom ravne na koroškem,Ob Suhi 11,Ravne na Koroškem,Ravne Na Koroškem,2390,,46.5431553,14.9678296,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30131
+132,Železniški zdravstveni dom,Celovška cesta 4,Ljubljana,Ljubljana,1000,,46.0572521,14.5015128,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30132

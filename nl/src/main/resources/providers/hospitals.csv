@@ -1,0 +1,238 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,10000,ADRZ,,,Zeeland,,,+31 88 1250000,,,Yes,,51.4844179,3.9076052
+1,10001,Advent Hospital,Groot Davelaarweg 1,Curacao,Zeeland,,,+5999 737 0611,,,,,12.120244,-68.9040685
+2,10002,"Albert Schweitzer Ziekenhuis, loc. Dordwijk",Albert Schweitzerplaats 25,Dordrecht,Zuid-holland,3318 AS,,(078) 654 11 11,,,Yes,,51.7912601,4.6794905
+3,10003,Alrijne Ziekenhuis,,Leiden,Zuid-holland,2334,,,,,,,52.1736222,4.4807211
+4,10004,Alrijne Ziekenhuis,,Leiderdorp,Zuid-holland,2351,,,,,,,52.1553499,4.5408376
+5,10005,Amphia Ziekenhuis Locatie Molengracht,Molengracht 21,Breda,Noord-brabant,4811,,,,,,,51.5840617,4.7954843
+6,10006,"Amphia Ziekenhuis, Locatie Langedijk",Langendijk 75,Breda,Noord-brabant,4811,,+76 595 5000,,,,,51.5753425,4.7640854
+7,10007,"Amphia Ziekenhuis, Locatie Pasteurlaan",Pasteurlaan 9,Oosterhout,Noord-brabant,4901 DH,,,,,,,51.6476689,4.871152
+8,10008,Amsterdam UMC - locatie VUMC,De Boelelaan 1117,Amsterdam,Noord-holland,1011 MG,,,,,,,52.3368182,4.858402
+9,10009,Amsterdam UMC locatie AMC,Meibergdreef 9,Amsterdam,Noord-holland,1102,,,,,Yes,,52.2938649,4.9497018
+10,10010,Basalt Revalidatiecentrum,,Leiden,Zuid-holland,2333,,,,,,,52.1697278,4.4691982
+11,10011,Beatrixziekenhuis,,Gorinchem,Zuid-holland,4204 AA,,,,,,,51.8401003,4.9552317
+12,10012,Bernhoven,,Uden,Noord-brabant,5406 PT,,,,,,,51.6720866,5.6060862
+13,10013,Bethesda,Dokter G.H. Amshoffweg 1,Hoogeveen,Drenthe,7909 AA,,,,,,,52.7273353,6.460551
+14,10014,BovenIJ Ziekenhuis,,Amsterdam,Noord-holland,1034,,,,,,,52.4050181,4.9208111
+15,10015,Canisius-Wilhelmina Ziekenhuis,Weg door Jonkerbos 100,Nijmegen,Gelderland,6512,,+31243657657,,,Yes,,51.8186865,5.8326534
+16,10016,Catharina Ziekenhuis,Michelangelolaan 2,Eindhoven,Noord-brabant,5623 EJ,,,,,Yes,,51.4644195,5.4694144
+17,10017,Cruquiushoeve,,,Noord-holland,2132,,,,,No,,52.3302143,4.6482895
+18,10018,Curaçao Medical Center,J. H. J. Hamelbergweg nan,Curacao,Noord-holland,,,+599 9 745 0000,,,Yes,,12.110434,-68.9426995
+19,10019,De Canha Physical Therapy,Dokter W. P. Maalweg nan,Curacao,Noord-holland,,,,,,,,12.1055343,-68.9041058
+20,10020,Delta Ziekenhuis,,,Zuid-holland,3161 CA,,,,,,,51.8464042,4.3917481
+21,10021,Deventer Ziekenhuis,Nico Bolkesteinlaan 75,,Overijssel,7411 BT,,+570 53 53 53,,,Yes,,52.2627765,6.189377
+22,10022,Dijklander Ziekenhuis,Maelsonstraat 3,Hoorn,Noord-holland,1624 NP,,,,,Yes,,52.6471812,5.0552318
+23,10023,Doornbos Fysio Groep,Abdijstraat 26,Breda,Noord-brabant,4811,,+31 76 572 00 57,,,No,,51.5987116,4.7956926
+24,10024,Dr. Horacio Oduber Hospital,Dr Horacio Oduber Boulevard 1,,Noord-brabant,,,+297 527 4000,,,Yes,,12.5432798,-70.0602569
+25,10025,EHBO building,,,Zuid-holland,3011,,,,,,,51.8734753,4.2556009
+26,10026,ETZ Elisabeth ziekenhuis,Hilvarenbeekse Weg 60,Tilburg,Noord-brabant,5022 GC,,,,,Yes,,51.540021,5.101123
+27,10027,ETZ TweeSteden ziekenhuis,Doctor Deelenlaan 5,Tilburg,Noord-brabant,5018,,,,,,,51.5789916,5.056798
+28,10028,Erasmus MC Daniel den Hoed,,Rotterdam,Zuid-holland,3074 LS,,,,,,,51.8861095,4.5034912
+29,10029,Erasmus Medisch Centrum,Dokter Molewaterplein 40,Rotterdam,Zuid-holland,3011,,+31 107040704,,,Yes,,51.9121723,4.4668569
+30,10030,Flevoziekenhuis,Hospitaalpromenade 1,Almere-Stad,Flevoland,1315,,,,,Yes,,52.3681365,5.2228711
+31,10031,Fundashon Mariadal,Kaya Soeur Bartola nan,Bonaire,,,,,,,Yes,,12.1546622,-68.2749353
+32,10032,GGD Den Haag,Westeinde 128,Den Haag,Zuid-holland,2511 AH,,14 070,,,,,52.0753913,4.3018915
+33,10033,GGZ Centraal / Fornhese,Horsterweg 130,,Gelderland,3851 GD,,,,,No,,52.3058205,5.6091141
+34,10034,GGZ Delfland,,Delft,Zuid-holland,2611 RV,,,,,,,52.0202132,4.3608398
+35,10035,GGZ Rivierduinen,,,Zuid-holland,2341 GA,,,,,,,52.1720971,4.4580431
+36,10036,GGZ Rivierduinen,,,Zuid-holland,2341 GA,,,,,,,52.1753359,4.4664676
+37,10037,"Gelre Apeldoorn, Lukas",Albert Schweitzerlaan 31,Apeldoorn,Gelderland,7334 DZ,,055 581 81 81,,,,,52.1816343,5.9444701
+38,10038,Gelre Zutphen,,Zutphen,Gelderland,7201,,,,,,,52.1219588,6.2162075
+39,10039,Gezondheidscentrum Het Noorderdok,,Almere-Stad,Flevoland,1315,,,,,,,52.3892951,5.1750391
+40,10040,HMC Bronovo,Bronovolaan 5,Den Haag,Zuid-holland,2597 AV,,070-3124141,,,Yes,,52.1013863,4.3183272
+41,10041,HMC Westeinde,Lijnbaan 32,Den Haag,Zuid-holland,2512 VA,,,,,Yes,,52.0745127,4.2986074
+42,10042,HagaZiekenhuis locatie Leyweg,Els Borst-Eilersplein 275,Den Haag,Zuid-holland,2552 PK,,070 210 0000,,,Yes,,52.0568138,4.2620612
+43,10043,Hearing Aid Screening,Wageningenstraat nan,Curacao,Zuid-holland,,,,,,,,12.1005855,-68.9168534
+44,10044,Huisartsenpost Reuver,,Reuver,Limburg,5953 AG,,,,,,,51.2830442,6.0813748
+45,10045,Huisartsenpost Zevenaar,,Zevenaar,Gelderland,6903,,0900-1598,,,Yes,,51.9430275,6.0696315
+46,10046,IJsselland Ziekenhuis,Prins Constantijnweg 2,Capelle aan den IJssel,Zuid-holland,2906 ZC,,,,,,,51.9393031,4.5644474
+47,10047,"IMSAN Dr, Rudy Engelbrecht Medical Center",,,Zuid-holland,,,,,,,,12.4401075,-69.9161344
+48,10048,Ikazia Ziekenhuis,Montessoriweg 1,Rotterdam,Zuid-holland,3083 AN,,,,,,,51.8869302,4.4935193
+49,10049,Isala,Dokter van Heesweg 2,Zwolle,Overijssel,8025 AB,,+3138424500,,,Yes,,52.5137535,6.1205668
+50,10050,Isala Diaconessenhuis,,Meppel,Drenthe,7943,,,,,Yes,,52.6913555,6.214955
+51,10051,LUMC Curium,,,Zuid-holland,2341 GA,,,,,,,52.1728507,4.4577736
+52,10052,Leids Universitair Medisch Centrum,Albinusdreef 2,Leiden,Zuid-holland,2333 ZA,,+31 71 5269111,,,Yes,,52.1670801,4.4744932
+53,10053,Lentis Zuidlaren,,Zuidlaren,Drenthe,9471,,,,,,,53.0888003,6.6656931
+54,10054,Liduina,,Hulst,Zeeland,4561,,,,,,,51.2873154,4.0511734
+55,10055,MCL Harlingen,Achlumerdijk 2,Harlingen,Friesland,8862 AJ,,,,,,,53.1622772,5.4279888
+56,10056,MMC Meander Medisch Centrum,Maatweg 3,,Utrecht,3817 CH,,,,,,,52.1730851,5.3694539
+57,10057,MMC Veldhoven,De Run 4600,Veldhoven,Noord-brabant,5504 DB,,040 888 8000,,,,,51.4067898,5.4148429
+58,10058,Maasstad Ziekenhuis,Maasstadweg 21,Rotterdam,Zuid-holland,3011,,,,,Yes,,51.877952,4.5350041
+59,10059,Maastricht UMC+,P. Debyelaan 25,Maastricht,Limburg,6229 EG,,+31 (0)43-3876543,,,,,50.8324448,5.7098035
+60,10060,Make Me Smile Dentist,Kraayenhofstraat nan,Curacao,Limburg,,,,,,,,12.1127174,-68.9455486
+61,10061,Martini Ziekenhuis,Van Swietenplein 1,Groningen,Groningen,9728 NT,,+31 050 524 5245,,,Yes,,53.191022,6.5486747
+62,10062,Medisch Centrum Leeuwarden,Henri Dunantweg 2,Leeuwarden,Friesland,8934 AD,,+31 58 2866666,,,Yes,,53.1902029,5.8004441
+63,10063,Medisch Centrum Puttershoek,Standerdmolen 101;103,Puttershoek,Zuid-holland,3297,,,,,No,,51.80076,4.5638078
+64,10064,Medisch Spectrum Twente,Koningsplein 1,Enschede,Overijssel,7513 ER,,+3153 487 2000,,,Yes,,52.2171957,6.8904235
+65,10065,Máxima Medisch Centrum Eindhoven,,Eindhoven,Noord-brabant,5611 CB,,,,,No,,51.4560812,5.4896205
+66,10066,Nij Smellinghe,,,Friesland,9203 KA,,,,,Yes,,53.0980406,6.1094675
+67,10067,Noordwest Ziekenhuisgroep,Stationsplein 49,Heerhugowaard,Noord-holland,1703,,,,,,,52.6693789,4.8226999
+68,10068,Noordwest Ziekenhuisgroep,Huisduinerweg 5,,Noord-holland,1782 EB,,,,,Yes,,52.9585218,4.7448203
+69,10069,Noordwest Ziekenhuisgroep locatie Alkmaar,Wilhelminalaan 131,Alkmaar,Noord-holland,1811,,,,,Yes,,52.6264921,4.7347704
+70,10070,OLVG Locatie West,Jan Tooropstraat 164,Amsterdam,Noord-holland,1061 AE,,,,,,,52.3723525,4.8388294
+71,10071,"OLVG, locatie Oost",Oosterpark 9,Amsterdam,Noord-holland,1091 AC,,,,,Yes,,52.3590655,4.9165856
+72,10072,Ommelander Ziekenhuis Groningen,,Scheemda,Groningen,9679,,,,,,,53.1856664,6.9569542
+73,10073,Parnassia,,Den Haag,Zuid-holland,2553 EW,,,,,,,52.0439209,4.2049534
+74,10074,Parnassia psycho-medisch centrum,,Den Haag,Zuid-holland,2551,,,,,,,52.0610335,4.2470216
+75,10075,Plexus Medical Center,Rotterdamweg nan,Curacao,Zuid-holland,,,461 7790,,,,,12.095957,-68.9076913
+76,10076,Polikliniek,,Kampen,Overijssel,8261,,,,,,,52.5517727,5.9191083
+77,10077,PsyQ,Lijnbaan 32,Den Haag,Zuid-holland,2512 VA,,,,,No,,52.0742126,4.2987431
+78,10078,Reade (JBI),Dr. Jan van Breemenstraat 2,Amsterdam,Noord-holland,1057 VN,,,,,,,52.3702008,4.8444895
+79,10079,Red Cross,Weg leidende naar Under the Hill 2,Sint Eustatius,,,,,,,,,17.4936409,-62.9867763
+80,10080,Rehabilitations,Kaminda Saliña nan,Curacao,,,,,,,,,12.1070292,-68.909001
+81,10081,Reinier de Graaf Diaconessenhuis,,Voorburg,Zuid-holland,2271,,,,,,,52.0610802,4.3513113
+82,10082,Reinier de Graaf Gasthuis,Reinier de Graafweg 5,Delft,Zuid-holland,2625,,+31 15 2603060,,,Yes,,51.9983595,4.339429
+83,10083,Revalidatiecentrum De Vogellanden,,Zwolle,Overijssel,8021 DB,,,,,,,52.5027312,6.1173666
+84,10084,Rijnstate Arnhem,Wagnerlaan 55,Arnhem,Gelderland,6815 AD,,+3188 055 8888,,,Yes,,52.0019291,5.9079105
+85,10085,Rijnstate Ziekenhuis Zevenaar,Hunneveldweg 14A,Zevenaar,Gelderland,6901 HK,,+3188 055 8887,,,,,51.9438021,6.0686639
+86,10086,Rode Kruis Ziekenhuis,,Beverwijk,Noord-holland,1942,,,,,Yes,,52.478673,4.6517641
+87,10087,Röpcke-Zweers Ziekenhuis,,Hardenberg,Overijssel,7772 CE,,,,,Yes,,52.5740127,6.6315538
+88,10088,Sinai Centrum,,Amstelveen,Noord-holland,1181,,,,,No,,52.2932477,4.8756974
+89,10089,Sint Antonius Ziekenhuis Nieuwegein,,Nieuwegein,Utrecht,3435,,,,,,,52.0244236,5.0785922
+90,10090,Sint Franciscus Gasthuis,Kleiweg 500,Rotterdam,Zuid-holland,3054 EA,,,,,,,51.9441478,4.4659297
+91,10091,Sophia revalidatie,,Den Haag,Zuid-holland,2543,,,,,,,52.0409252,4.2660989
+92,10092,Spaarne Gasthuis Haarlem-Noord,,Haarlem,Noord-holland,2026,,,,,,,52.4225152,4.6487621
+93,10093,Spaarne Gasthuis Haarlem-Zuid,Boerhaavelaan 22,Haarlem,Noord-holland,2035 RC,,+31 23 5453545,,,Yes,,52.3674422,4.6488861
+94,10094,Spaarne Gasthuis Heemstede (Dagziekenhuis),Händellaan 2A,Heemstede,Noord-holland,2101,,+31 23 8908900,,,,,52.3550914,4.6337768
+95,10095,Spaarne Gasthuis Hoofddorp,Spaarnepoort 1,Hoofddorp,Noord-holland,2132,,+31 23 8908900,,,Yes,,52.3239227,4.6496544
+96,10096,St Antonius Ziekenhuis,,Utrecht,Utrecht,3543,,088-3203000,,,Yes,,52.1045929,5.0558132
+97,10097,Ter Schorre,,Terneuzen,Zeeland,4531 EB,,,,,,,51.3197082,3.8472663
+98,10098,Treant Scheper,Boermarkeweg nan,Emmen,Drenthe,7824 AA,,+31591691911,,,Yes,,52.787265,6.9106726
+99,10099,Universitair Medisch Centrum Groningen,Hanzeplein 1,Groningen,Groningen,9711,,+315 0361 61 61,,,Yes,,53.220414,6.5756466
+100,10100,Universitair Medisch Centrum Utrecht,Heidelberglaan 100,Utrecht,Utrecht,3584 CX,,+31887555555,,,Yes,,52.0878653,5.1781958
+101,10101,Veldwijk,,Ermelo,Gelderland,3851 GD,,,,,,,52.3058433,5.6064997
+102,10102,VieCuri,,Venlo,Limburg,5912,,,,,Yes,,51.3551561,6.1521764
+103,10103,Windward Island Emergency Medical Services,Welegen Road nan,,Limburg,,,,,,,,18.0301079,-63.066226
+104,10104,Ziekenhuis Amstelland,Laan van de Helende Meesters nan,Amstelveen,Noord-holland,1181,,,,,,,52.2936895,4.8721131
+105,10105,Ziekenhuis Rijnstate Velp,President Kennedylaan 100,Velp,Gelderland,6881,,088-0058888,,,No,,51.9865349,5.9780226
+106,10106,Ziekenhuis Rivierenland,,Tiel,Gelderland,4002,,,,,,,51.8913841,5.4168515
+107,10107,ZorgSaam Ziekenhuis - De Honte,,Terneuzen,Zeeland,4531 EB,,,,,Yes,,51.3087402,3.8572841
+108,10108,Zorgpark Goes,,,Zeeland,,,,,,,,51.4858319,3.9132467
+109,10109,Zuyderland,,Geleen,Limburg,6162 BG,,,,,Yes,,50.9834341,5.8424624
+110,10110,Zuyderland,Henri Dunantstraat 5,Heerlen,Limburg,6419 PC,,,,,,,50.8685633,5.9768915
+111,10111,Arbo Unie,,Gouda,Zuid-holland,2801,,,,,,,52.0216565,4.6814638
+112,10112,ArtsEnZorg,,Den Haag,Zuid-holland,2595 SR,,,,,,,52.0851435,4.3375891
+113,10113,Bavo Europoort | PsyQ | Indigo | Lucertis | i-psy | Ster-MDC,,Rotterdam,Zuid-holland,3085,,,,,,,51.8858285,4.4870382
+114,10114,Behandelcentrum Westland,,,Zuid-holland,2692 AS,,,,,,,51.9904496,4.216362
+115,10115,Centre Médicale Francophone,,Voorburg,Zuid-holland,2271,,,,,,,52.0634596,4.3559138
+116,10116,Centro Medico Aesculapius,SBN Doormanweg 47,Curacao,Zuid-holland,,,,,,,,12.1303164,-68.8983687
+117,10117,Centro Medico De Savaan,,Curacao,Zuid-holland,,,,,,,,12.1465031,-68.9609362
+118,10118,Clinic,Weg naar Welgelegen 28,Curacao,Zuid-holland,,,,,,,,12.1188003,-68.9499803
+119,10119,Clinic 28,,Den Haag,Zuid-holland,2585,,,,,,,52.1020516,4.2870094
+120,10120,DR. Henriquez,Caracasbaaiweg 193,Curacao,Zuid-holland,,,,,,,,12.1055085,-68.891167
+121,10121,De Compagnie,,Medemblik,Noord-holland,1671,,,,,,,52.7666842,5.1044741
+122,10122,De Mölle,,,Gelderland,7383,,,,,,,52.1691085,6.0690781
+123,10123,Dokterspost,,Nieuwleusen,Overijssel,7711 AG,,,,,,,52.5839544,6.2868373
+124,10124,Dokterspost,,Castricum,Noord-holland,1901,,,,,,,52.5627458,4.6315586
+125,10125,Dr. Carrega,Ronde Klipweg 1,Curacao,Noord-holland,,,,,,,,12.137523,-68.8853301
+126,10126,EHBO,Europalaan 1,Kaatsheuvel,Noord-brabant,5171,,,,,,,51.6516055,5.0494517
+127,10127,Fabels,,Eerbeek,Gelderland,6961 CW,,,,,,,52.0935873,6.0633278
+128,10128,Fisio centrum,,Groningen,Groningen,9727 EA,,,,,,,53.2090136,6.5548443
+129,10129,GGD Midden Holland,,Gouda,Zuid-holland,2801,,,,,,,52.0217301,4.7097139
+130,10130,Gezondheidscentrum,,Gouda,Zuid-holland,2801,,,,,,,52.0108764,4.7423385
+131,10131,Gezondheidscentrum,,Den Haag,Zuid-holland,2551,,,,,,,52.0601978,4.2427507
+132,10132,Gezondheidscentrum Assen Noord,,Assen,Drenthe,9401,,,,,,,53.0058038,6.5583656
+133,10133,Gezondheidscentrum Bonnehûs,,Leeuwarden,Friesland,8911,,,,,,,53.2119933,5.7875081
+134,10134,Gezondheidscentrum Buitenwegh,,Zoetermeer,Zuid-holland,2711,,,,,,,52.0664627,4.4790435
+135,10135,Gezondheidscentrum Castrovalva,,Almere-Stad,Flevoland,1315,,,,,,,52.3714649,5.2663807
+136,10136,Gezondheidscentrum Culemborg,Constantijnlaan 2,Culemborg,Gelderland,4105,,,,,,,51.9568286,5.2355067
+137,10137,Gezondheidscentrum De Archipel,,Almere-Stad,Flevoland,1315,,,,,,,52.3577034,5.1803947
+138,10138,Gezondheidscentrum De Binder,,Almere-Buiten,Flevoland,1333,,,,,,,52.3856535,5.2769902
+139,10139,Gezondheidscentrum De Boog,,Almere-Stad,Flevoland,1315,,,,,,,52.3823116,5.1974357
+140,10140,Gezondheidscentrum De Leyens,,Zoetermeer,Zuid-holland,2711,,,,,,,52.0730946,4.494938
+141,10141,Gezondheidscentrum De Marne,,Leens,Groningen,9965 PB,,,,,,,53.3623395,6.3739466
+142,10142,Gezondheidscentrum De Opmaat,,Almere-Stad,Flevoland,1315,,,,,,,52.3662795,5.1915207
+143,10143,Gezondheidscentrum De Schakel,,Almere-Stad,Flevoland,1315,,,,,,,52.3685756,5.2053637
+144,10144,Gezondheidscentrum Eygelshoven,,Eygelshoven,Limburg,6471 CA,,,,,,,50.8937725,6.0591381
+145,10145,Gezondheidscentrum Filmwijk,,Almere-Stad,Flevoland,1315,,,,,,,52.3716036,5.2304367
+146,10146,Gezondheidscentrum Het Stroaten,,Markelo,Overijssel,7475 BB,,,,,,,52.2339025,6.4954567
+147,10147,Gezondheidscentrum Hoendiep,,Groningen,Groningen,9718 RG,,,,,,,53.21494,6.549586
+148,10148,Gezondheidscentrum Huiswaard,Muiderwaard 500,Alkmaar,Noord-holland,1811,,072 5611644,,,,,52.645879,4.752281
+149,10149,Gezondheidscentrum Noordhove,,Zoetermeer,Zuid-holland,2728 MX,,,,,,,52.0751369,4.5194649
+150,10150,Gezondheidscentrum Parkwijk,,Almere-Stad,Flevoland,1315,,,,,,,52.3738116,5.2435684
+151,10151,Gezondheidscentrum Pijnacker,,Pijnacker,Zuid-holland,2641 DT,,,,,,,52.0200551,4.4313194
+152,10152,Gezondheidscentrum Prisma,,Almere-Buiten,Flevoland,1333,,,,,,,52.3978613,5.2906853
+153,10153,Gezondheidscentrum Rokkeveen Oost,,Zoetermeer,Zuid-holland,2711,,,,,,,52.0386807,4.4927151
+154,10154,Gezondheidscentrum Schuytgraaf,,Arnhem,Gelderland,6811 JE,,,,,,,51.9528195,5.8478349
+155,10155,Gezondheidscentrum Seghwaert,,Zoetermeer,Zuid-holland,2711,,,,,,,52.0643228,4.5139466
+156,10156,Gezondheidscentrum Sta. Maria,Schonegevelstraat 4,Curacao,Zuid-holland,,,,,,,,12.1594262,-68.9491768
+157,10157,Gezondheidscentrum Vaillantplein,,Den Haag,Zuid-holland,2526 RM,,,,,,,52.0697774,4.3002274
+158,10158,Gezondheidscentrum Vizier,,Almere-Stad,Flevoland,1315,,,,,,,52.3470894,5.1507456
+159,10159,Gezondheidscentrum Voorburg-West,,Voorburg,Zuid-holland,2271,,,,,,,52.0613956,4.3518356
+160,10160,Gezondheidscentrum Wippolder,,Delft,Zuid-holland,2611 RV,,,,,,,52.006934,4.3743257
+161,10161,Gezondheidscentrum Zaandam Oost,,Zaandam,Noord-holland,1506 JC,,075 618686,,,,,52.4511479,4.8255025
+162,10162,Gezondheidscentrum Zielhorst,,Amersfoort,Utrecht,3817 CH,,,,,,,52.181967,5.4075031
+163,10163,Gezondheidscentrum de Lindehoeve,Lindepad 1,Voorschoten,Zuid-holland,2252,,,,,,,52.121575,4.4471076
+164,10164,Gezondheidscentrum de Vroonen,de Helling 11-37,,Noord-holland,1721,,,,,,,52.6631032,4.7784547
+165,10165,Gezondheidscentrum op 1 lijn,,Dordrecht,Zuid-holland,3311 JA,,,,,,,51.8056984,4.6922809
+166,10166,Gezondheidscentum,,Ermelo,Gelderland,3851 GD,,,,,,,52.306492,5.6224622
+167,10167,Gezondsheidshuis Stadshagen,,Zwolle,Overijssel,8021 DB,,,,,,,52.533539,6.0578153
+168,10168,Gouweloos,,'s-Gravendeel,Zuid-holland,3295,,,,,,,51.777032,4.6095745
+169,10169,Groepspraktijk Schaijk,Bossestraat 2,Schaijk,Noord-brabant,5374 CA,,,,,,,51.7477323,5.6285527
+170,10170,H M A Wijmenga,,Metslawier,Friesland,9123,,,,,,,53.3599882,6.0705161
+171,10171,HAP Wildemansteeg,Wildemansteeg 1,Wijk bij Duurstede,Utrecht,3961 BC,,+31 343-571220,,,No,,51.9721447,5.3484461
+172,10172,Het Dok,,Urk,Flevoland,8321,,,,,,,52.6640707,5.628546
+173,10173,Het Doktershuis Rijsoord,,Rijsoord,Zuid-holland,2988 BJ,,,,,,,51.8514591,4.5985406
+174,10174,Huisarts Bouman,,Eerbeek,Gelderland,6961 CW,,,,,,,52.1058977,6.0527564
+175,10175,"Huisarts Dr W.W. de Jonge,/Dra Durand",Cas Coraweg 30,Curacao,Gelderland,,,,,,,,12.1287524,-68.899249
+176,10176,Huisartsen praktijk de Gors,,Purmerend,Noord-holland,1441,,,,,,,52.4986668,4.9591762
+177,10177,Huisartsencentrum Bloemendaal,,Bloemendaal,Noord-holland,2061,,,,,,,52.410882,4.6233596
+178,10178,"Huisartsenpraktijk ""Het Station""",,Aalten,Gelderland,7121,,,,,,,51.9224943,6.5786254
+179,10179,Huisartsenpraktijk A.J.A. Barendse,,,Zuid-holland,2264,,,,,,,52.1043251,4.4667147
+180,10180,Huisartsenpraktijk Akkrum,,Akkrum,Friesland,8491,,,,,,,53.0505959,5.835354
+181,10181,Huisartsenpraktijk Amaru,,Vlijmen,Noord-brabant,5251 AC,,,,,,,51.6998318,5.2259869
+182,10182,Huisartsenpraktijk Bergerhoef,,Alkmaar,Noord-holland,1811,,,,,,,52.6372067,4.7252806
+183,10183,Huisartsenpraktijk Berkenhove,,Zwolle,Overijssel,8021 DB,,,,,,,52.4876454,6.1126843
+184,10184,Huisartsenpraktijk Berkenhove,,Zwolle,Overijssel,8021 DB,,,,,,,52.4875158,6.112693
+185,10185,Huisartsenpraktijk Beusichem,,Beusichem,Gelderland,4112,,,,,,,51.9517817,5.2913502
+186,10186,Huisartsenpraktijk Bloemendaal,,Gouda,Zuid-holland,2801,,,,,,,52.0306303,4.7057764
+187,10187,Huisartsenpraktijk Buurmalsen-Tricht,Groeneweg 44bis,,Gelderland,4191 SE,,,,,,,51.8894085,5.2786611
+188,10188,Huisartsenpraktijk De Teselaar,,Bemmel,Gelderland,6681,,,,,,,51.8879393,5.8939316
+189,10189,Huisartsenpraktijk De Woerd,Verdilaan 1-B,Naaldwijk,Zuid-holland,2671 JJ,,0174-624765,,,,,51.9964354,4.2084538
+190,10190,Huisartsenpraktijk Dr. E.A. Doran,Kaminda Winfrido Hermans 191,Curacao,Zuid-holland,,,,,,,,12.1067933,-68.85309
+191,10191,Huisartsenpraktijk Het Gildenhuis,,Zeewolde,Flevoland,3891 EA,,,,,,,52.324652,5.5329218
+192,10192,Huisartsenpraktijk M.J.M. Valk en L.J. Meijer,Leusderweg 272,Amersfoort,Utrecht,3817 CH,,033-4615412,,,,,52.1398307,5.3777458
+193,10193,Huisartsenpraktijk Nieuwehorne,,Nieuwehorne,Friesland,8414 LX,,+31513541224,,,,,52.9518724,6.0605823
+194,10194,Huisartsenpraktijk Ophemert,,Ophemert,Gelderland,4061 AC,,,,,,,51.8465845,5.3898714
+195,10195,Huisartsenpraktijk Overasselt,,Overasselt,Gelderland,6611 BX,,,,,,,51.761056,5.7854646
+196,10196,Huisartsenpraktijk Silvolde,Monseigneur Nolensstraat 8,Silvolde,Gelderland,7064 BC,,0315 323 131,,,,,51.9128931,6.384593
+197,10197,Huisartsenpraktijk Stoop,Langbroekseweg 4,,Utrecht,3961 BC,,+31 343 571673,,,,,51.9870798,5.3426074
+198,10198,Huisartsenpraktijk Wehl,Isidorusstraat 10,Wehl,Gelderland,7031 BM,,,,,,,51.9587702,6.2121208
+199,10199,Huisartsenpraktijk Zonneoord,,Den Haag,Zuid-holland,2543,,,,,,,52.0421969,4.2576926
+200,10200,Huisartspraktijk Gussenhoven,,Sauwerd,Groningen,9771,,,,,,,53.2935705,6.5320239
+201,10201,Huisartspraktijk Hiddink,,Bemmel,Gelderland,6681,,,,,,,51.8925399,5.8911266
+202,10202,Huisartspraktijk Jacobs BV,,,Friesland,9162 EL,,,,,,,53.4458641,5.6890513
+203,10203,Lands Laboratorium,Hospitaalstraat 4,,Friesland,,,,,,,,12.5206481,-70.0302391
+204,10204,Medimere,,Almere-Buiten,Flevoland,1333,,,,,,,52.3888253,5.2740852
+205,10205,Medisch Cenntrum Kluis,,Geleen,Limburg,6161 ED,,,,,,,50.9598467,5.8335722
+206,10206,Medisch Centrum,Hoofdstraat 25,Bovenkarspel,Noord-holland,1611 AL,,,,,,,52.6977352,5.2364914
+207,10207,Medisch Centrum Bodegraven,,Bodegraven,Zuid-holland,2411 BE,,,,,,,52.0877458,4.748795
+208,10208,Medisch Centrum Bredeweg,,Roermond,Limburg,6041 KZ,,,,,,,51.1925583,6.0033709
+209,10209,Medisch Centrum Buitenhove,,Leeuwarden,Friesland,8911,,,,,,,53.195454,5.8137149
+210,10210,Medisch Centrum Heeten,,Heeten,Overijssel,8111 PH,,,,,,,52.3306905,6.2863426
+211,10211,Medisch Centrum Hofspoor,Hofspoor 4,Houten,Utrecht,3995 EC,,,,,,,52.0247715,5.1777392
+212,10212,Medisch Centrum Kerkrade West,,Spekholzerheide,Limburg,6466,,,,,,,50.8608693,6.0319144
+213,10213,Medisch Centrum Kruisstraat,,Kerkrade,Limburg,6461 EA,,,,,,,50.8603675,6.0682586
+214,10214,Medisch Centrum Lambertus,,Blerick,Limburg,5921 KB,,,,,,,51.3717623,6.1488538
+215,10215,Medisch Centrum Nijverdal,,Nijverdal,Overijssel,7443 BR,,,,,,,52.360295,6.466777
+216,10216,Medisch Centrum Puth,,Puth,Limburg,6155,,,,,,,50.9550708,5.8698747
+217,10217,Medisch Centrum Rijssen,,Rijssen,Overijssel,7461,,,,,,,52.3019798,6.5185183
+218,10218,Medisch Centrum de Linie,,Apeldoorn,Gelderland,7311 LW,,,,,,,52.2162243,6.0056292
+219,10219,Medisch Centrum de Poort,,Drachten,Friesland,9203 KA,,,,,,,53.1098647,6.1125463
+220,10220,Medisch centrum,,Den Ham,Overijssel,7683 BG,,,,,,,52.4615223,6.4945746
+221,10221,N.X.M. Rog-Wanner,,Curacao,Overijssel,,,,,,,,12.1619591,-68.9456204
+222,10222,PHM Maas,,Eerbeek,Gelderland,6961 CW,,,,,,,52.0984245,6.0656757
+223,10223,"Praktijk A.E. Maduro, plastisch chirurg",Schottegatweg Oost 179,Curacao,Gelderland,,,0059997371099,,,,,12.1163549,-68.9017314
+224,10224,Praktijk Chiropraktie M.H. den Baars,,Zoetermeer,Zuid-holland,2711,,,,,,,52.0529469,4.4659232
+225,10225,Praktijk Nieuwendam,,Zaandam,Noord-holland,1506 JC,,,,,,,52.4470034,4.8062145
+226,10226,Praktijkhuis Baarle,Pastoor Van Herdegomstraat 17,Baarle-Nassau,Noord-brabant,5111,,,,,,,51.4407999,4.9287829
+227,10227,R. Korpershoek,,,Gelderland,6971 EN,,,,,,,52.107829,6.0682706
+228,10228,Rode Kruis,Strandweg nan,,Zuid-holland,2514,,,,,official,,52.1154955,4.2827251
+229,10229,"Sint Maarten Health Care Clinic, Physiotherapy",Welfare Road 15,,Zuid-holland,,,,,,,,18.0307969,-63.0803971
+230,10230,Sorsaka,Caracasbaaiweg nan,Curacao,Zuid-holland,,,,,,,,12.1044775,-68.8824402
+231,10231,Tandarts v/d Kerkhof,,Eerbeek,Gelderland,6961 CW,,,,,,,52.1042764,6.0655398
+232,10232,Therapeuticum de Es,,Apeldoorn,Gelderland,7311 LW,,,,,defibrillator,,52.204305,5.9903045
+233,10233,Vaste Burcht,,Voorburg,Zuid-holland,2271,,,,,,,52.0757337,4.3518916
+234,10234,W.J.Eenink,,Zoetermeer,Zuid-holland,2711,,,,,,,52.0660281,4.4694746
+235,10235,Zorggebouw Houten,,Houten,Utrecht,3995 EC,,,,,,,52.0240754,5.1630095
+236,10236,huisartsenpraktijk oenkerk,,Oentsjerk,Friesland,9062,,,,,,,53.2518884,5.8987471

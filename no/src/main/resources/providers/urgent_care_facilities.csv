@@ -1,0 +1,86 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,20000,Aker universitetssykehus,,Oslo,Oslo,0589,,,,,,,59.9385162,10.7970604
+1,20001,Akershus universitetssykehus (AHUS),Sykehuseveien 25.0,Nordbyhagen,Viken,1474,,+47 91502900,,,Yes,,59.9326763,10.9918113
+2,20002,Alta helsesenter,,Alta,Troms Og Finnmark,9510,,+47 78 48 39 00,,,,,69.968598,23.2736104
+3,20003,Ambulansesentral Stavanger,Frida Hansens vei nan,Stavanger,Rogaland,4006,,,,,ambulance_station,,58.9502967,5.7413033
+4,20004,Betanien hospital,,Skien,Vestfold Og Telemark,3717,,,,,,,59.2088591,9.596578
+5,20005,Bjønnessåsen sykehjem,,,Vestfold Og Telemark,,,,,,,,59.2153583,10.4258819
+6,20006,Bærum sykehus,,Gjettum,Viken,1346,,,,,Yes,,59.8985754,10.5088813
+7,20007,Diakonhjemmet sykehus,,Oslo,Oslo,0756,,,,,,,59.9384833,10.7040525
+8,20008,Diakonhjemmet sykehus Vinderen,Forskningsveien 7.0,Oslo,Oslo,0756,,,,,,,59.9424202,10.7114431
+9,20009,Drammen sykehus,,Drammen,Viken,3018,,,,,Yes,,59.7479714,10.1959677
+10,20010,Gaustad sykehus,,Oslo,Oslo,0155,,,,,,,59.9524183,10.717898
+11,20011,Hammerfest sykehus,,,Troms Og Finnmark,9600,,,,,Yes,,70.6730658,23.6695155
+12,20012,Harstad sykehus,,,Troms Og Finnmark,,,,,,Yes,,68.7965621,16.5246577
+13,20013,Haugesund sykehus,,Haugesund,Rogaland,5527,,,,,Yes,,59.4095895,5.276797
+14,20014,Haukeland Universitetssjukehus,,Bergen,Vestland,5021,,,,,Yes,,60.3727048,5.3612387
+15,20015,Helgelandssykehuset Mo i Rana,,Selfors,Nordland,8613,,,,,Yes,,66.3251659,14.1878007
+16,20016,Hjemmetjeneste sentral,,Tønsberg,Vestfold Og Telemark,3126,,,,,,,59.2667009,10.4232623
+17,20017,Hospital - Больница,,,Vestfold Og Telemark,9170,,,,,,,78.0617681,14.2174494
+18,20018,Kjelleparken,,,Vestfold Og Telemark,3126,,,,,,,59.2854874,10.3975786
+19,20019,Kleppheimen,Prestevegen 2.0,Kleppe,Rogaland,4352,,,,,,,58.7716266,5.6285443
+20,20020,Kragerø sykehus,,Kragerø,Vestfold Og Telemark,3772,,,,,,,58.8801408,9.4050493
+21,20021,Kristiansund sykehus,,,Møre Og Romsdal,6509,,,,,Yes,,63.1085295,7.7257795
+22,20022,Kysthospitalet,,Stavern,Vestfold Og Telemark,3290,,,,,No,,58.9883608,10.029376
+23,20023,LHL-sykehuset Gardermoen,,,Viken,2050,,,,,,,60.1655699,11.1628979
+24,20024,Lier sykehus,,Lierbyen,Viken,3403,,,,,,,59.7931374,10.2646422
+25,20025,Longyearbyen sykehus,,,Viken,9170,,,,,Yes,,78.2197781,15.6443373
+26,20026,Lærdal sjukehus,,Lærdalsøyri,Vestland,6887,,+4757640000,,,,,61.1021218,7.5197964
+27,20027,Martina Hansens hospital,Dønskiveien 8.0,Gjettum,Viken,1346,,+47 06780,,,No,,59.8973164,10.5095119
+28,20028,Molde sjukehus,,Molde,Møre Og Romsdal,6415,,+4771120000,,,Yes,,62.7357395,7.1384185
+29,20029,Mosjøen sykehus,,Mosjøen,Nordland,8665,,,,,Yes,,65.8314537,13.2127461
+30,20030,Narvik sykehus,,Narvik,Nordland,8514,,,,,Yes,,68.4416343,17.4116572
+31,20031,Nordfjord sjukehus,,Nordfjordeid,Vestland,6770,,,,,,,61.9163312,5.9779942
+32,20032,Nordlandsykehuset,,Bodø,Nordland,8006,,,,,Yes,,67.2840314,14.3964231
+33,20033,Nøtterøy helsesenter,,,Vestfold Og Telemark,,,,,,,,59.240504,10.3962931
+34,20034,Oslo universitetssykehus (Rikshospitalet),,Oslo,Oslo,0155,,02770,,,Yes,,59.9473315,10.7176906
+35,20035,Oslo universitetssykehus (Ullevål),,Oslo,Oslo,0155,,,,,Yes,,59.9397043,10.7462623
+36,20036,Radiumhospitalet,,Oslo,Oslo,0284,,,,,,,59.9314134,10.6652211
+37,20037,Reinsvoll sykehus,,Reinsvoll,Innlandet,2840,,,,,,,60.6829305,10.6466351
+38,20038,Ringerike Sykehus,,Hønefoss,Viken,3510,,,,,,,60.1472542,10.2572052
+39,20039,Ringerike Sykehus HF,Arnold Dybsjords vei 1.0,Hønefoss,Viken,3511,,,,,Yes,,60.1494536,10.25321
+40,20040,Sanderud sykehus,,Ottestad,Innlandet,2312,,,,,,,60.7800381,11.1583621
+41,20041,Sem bo- og servicesenter,,,Vestfold Og Telemark,3126,,,,,,,59.2839159,10.3273662
+42,20042,Ski sykehus,,Ski,Viken,1400,,,,,,,59.7262433,10.8435081
+43,20043,Smidsrød helsehus,,,Vestfold Og Telemark,,,,,,,,59.2386863,10.4236298
+44,20044,Spesialsykehuset for epilepsi (SSE),,Sandvika,Viken,1337,,,,,No,,59.9046172,10.5331136
+45,20045,"St. Olavs, avdeling Orkdal",,Orkanger,Trøndelag,7300,,,,,,,63.2934849,9.8447053
+46,20046,Stavanger Universitetssjukehus,Gerd-Ragna Bloch Thorsens gate 8,Stavanger,Rogaland,4011,,,,,Yes,,58.9536493,5.7297186
+47,20047,Stokmarknes sykehus,,,Nordland,8445,,,,,Yes,,68.5593337,14.9102092
+48,20048,Stord sjukehus,,,Vestland,,,,,,Yes,,59.7932041,5.5114479
+49,20049,Sunnaas sykehus,,Bjørnemyrdalen,Viken,1453,,,,,,,59.8346439,10.6383239
+50,20050,Sykehuset Innlandet HF Elverum,,Elverum,Innlandet,2413,,,,,Yes,,60.8779128,11.5695765
+51,20051,Sykehuset Innlandet HF Gjøvik,,Gjøvik,Innlandet,2815,,,,,,,60.8039008,10.6778687
+52,20052,Sykehuset Innlandet HF Lillehammer,,Lillehammer,Innlandet,2609,,06200,,,Yes,,61.1111473,10.4730043
+53,20053,Sykehuset Innlandet Tynset,Sjukehusveien 9,Tynset,Innlandet,2500,,,,,,,62.2706896,10.7755758
+54,20054,Sykehuset Namsos,,Namsos,Trøndelag,7800,,,,,Yes,,64.4718134,11.5046675
+55,20055,Sykehuset Telemark - Notodden,Henrik Wergelands gate 9.0,Notodden,Vestfold Og Telemark,3681,,,,,,,59.5663592,9.2541306
+56,20056,"Sykehuset Telemark, Skien",,Skien,Vestfold Og Telemark,3717,,,,,Yes,,59.1923384,9.5886445
+57,20057,"Sykehuset i Vestfold, DPS nord",Ørsnesalleen 14.0,,Vestfold Og Telemark,,,,,,No,,59.2556667,10.4225446
+58,20058,"Sykehuset i Vestfold, DPS sør",,Larvik,Vestfold Og Telemark,3256,,,,,,,59.0513463,10.0409563
+59,20059,"Sykehuset i Vestfold, DPS sør",,Sandefjord,Vestfold Og Telemark,3210,,,,,,,59.1330474,10.2355804
+60,20060,"Sykehuset i Vestfold, Granli",,,Vestfold Og Telemark,3126,,,,,,,59.2910239,10.3030672
+61,20061,"Sykehuset i Vestfold, Larvik",,Larvik,Vestfold Og Telemark,3256,,,,,,,59.0537353,10.0346478
+62,20062,"Sykehuset i Vestfold, Tønsberg",Halfdan Wilhelmsens allé 17.0,Tønsberg,Vestfold Og Telemark,3126,,+47 33342000,,,Yes,,59.272295,10.4157759
+63,20063,Sykehuset Østfold Kalnes,,Grålum,Viken,1712,,,,,Yes,,59.3181672,11.018015
+64,20064,Sørlandet Sykehus Arendal,,Arendal,Agder,4838,,,,,Yes,,58.4674849,8.7519258
+65,20065,Sørlandet sykehus Kristiansand,Egsveien 100.0,Kristiansand,Agder,4610,,+47 906 10 600,,,Yes,,58.1628736,7.9790683
+66,20066,Tretten Sjukeheim,,Tretten,Innlandet,2635,,,,,,,61.3137172,10.3029898
+67,20067,Træleborg sykehjem,,Tønsberg,Vestfold Og Telemark,3126,,,,,,,59.265766,10.4240187
+68,20068,Universitetssykehuset Nord-Norge,,,Troms Og Finnmark,9008,,,,,Yes,,69.6829833,18.9793753
+69,20069,Veum sykehus,,,Viken,1607,,,,,No,,59.2512273,10.9337489
+70,20070,Volda Sjukehus,,Volda,Møre Og Romsdal,6102,,,,,Yes,,62.1504559,6.0910887
+71,20071,Voss sjukehus,,Voss,Vestland,5700,,,,,,,60.633293,6.4203051
+72,20072,Ålesund sjukehus,,Åse,Møre Og Romsdal,6017,,,,,Yes,,62.4640169,6.3113868
+73,20073,Østmarka psykiatriske sykehus,,Trondheim,Trøndelag,7011,,,,,,,63.4514201,10.449336
+74,20074,Betesda Spesialistsenter,Rektor Østbyesgate 4.0,Fredrikstad,Viken,1607,,,,,,,59.209611,10.9508621
+75,20075,Fana Helsestasjon,,Fana,Vestland,5244,,,,,,,60.2633733,5.3432066
+76,20076,Fastleger,,Vear,Vestfold Og Telemark,3173,,,,,,,59.264546,10.3614884
+77,20077,Hatlestrand helsesenter,,Gjermundshamn,Vestland,5635,,,,,,,60.0584951,5.9171744
+78,20078,Heistad legekontor,,Porsgrunn,Vestfold Og Telemark,3915,,,,,,,59.0857464,9.6830831
+79,20079,Kolsås helsestasjon,,Kolsås,Viken,1352,,,,,,,59.9160428,10.5002285
+80,20080,Risøyhamn legekontor,,,Nordland,8480,,,,,,,68.9752687,15.6457614
+81,20081,Tau legesenter,Bergtunvegen 2.0,Tau,Rogaland,4120,,,,,,,59.0651191,5.9130653
+82,20082,Tjølling legekontor,,Tjøllingvollen,Vestfold Og Telemark,3280,,,,,,,59.0536843,10.1205261
+83,20083,Utne legekontor,,Utne,Vestland,5778,,,,,,,60.4232299,6.6206038
+84,20084,Vinstra legevakt,Nordre Byre nan,Vinstra,Innlandet,2640,,,,,,,61.6011348,9.7401189

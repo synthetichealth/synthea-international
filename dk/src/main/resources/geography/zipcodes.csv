@@ -1,0 +1,1472 @@
+,USPS,ST,NAME,ZCTA5,LAT,LON
+0,Region Midtjylland,18,Endelave,8789,55.7573,10.271
+1,Region Midtjylland,18,Tunø,8799,55.9528,10.432
+2,Region Sjælland,20,Orø,4305,55.7718,11.8163
+3,Region Sjælland,20,Agersø,4244,55.2149,11.1854
+4,Region Sjælland,20,Omø,4245,55.162,11.159
+5,Region Sjælland,20,Askø og Lilleø,4942,54.8969,11.495
+6,Region Sjælland,20,Femø,4945,54.9758,11.5352
+7,Region Syddanmark,21,Lyø,5601,55.0439,10.1473
+8,Region Syddanmark,21,Avernakø,5602,55.0187,10.2845
+9,Region Syddanmark,21,Bjørnø,5603,55.0633,10.2482
+10,Region Syddanmark,21,Strynø,5943,54.9008,10.6118
+11,Region Syddanmark,21,Birkholm,5965,54.931,10.503
+12,Region Syddanmark,21,Barsø,6210,55.1216,9.5578
+13,Region Nordjylland,81,Nykøbing M,7900,56.7619,8.6836
+14,Region Nordjylland,81,Erslev,7950,56.8298,8.7501
+15,Region Nordjylland,81,Karby,7960,56.7536,8.5613
+16,Region Nordjylland,81,Redsted M,7970,56.7619,8.6836
+17,Region Nordjylland,81,Vils,7980,56.7631,8.7286
+18,Region Nordjylland,81,Øster Assels,7990,56.7011,8.6946
+19,Region Nordjylland,81,Thisted,7700,56.9552,8.6949
+20,Region Nordjylland,81,Hanstholm,7730,57.1167,8.6167
+21,Region Nordjylland,81,Frøstrup,7741,57.0867,8.9958
+22,Region Nordjylland,81,Vesløs,7742,57.0383,8.9746
+23,Region Nordjylland,81,Snedsted,7752,56.8924,8.5244
+24,Region Nordjylland,81,Bedsted Thy,7755,56.8924,8.5244
+25,Region Nordjylland,81,Hurup Thy,7760,56.7494,8.4195
+26,Region Nordjylland,81,Vestervig,7770,56.7628,8.3194
+27,Region Nordjylland,81,Hjallerup,9320,57.1647,10.1457
+28,Region Nordjylland,81,Dronninglund,9330,57.1604,10.2929
+29,Region Nordjylland,81,Asaa,9340,57.1487,10.4037
+30,Region Nordjylland,81,Dybvad,9352,57.272,10.3595
+31,Region Nordjylland,81,Hals,9370,56.9961,10.3081
+32,Region Nordjylland,81,Tylstrup,9382,57.1947,9.9531
+33,Region Nordjylland,81,Aabybro,9440,57.1584,9.7367
+34,Region Nordjylland,81,Løkken,9480,57.3705,9.7147
+35,Region Nordjylland,81,Brønderslev,9700,57.2702,9.941
+36,Region Nordjylland,81,Jerslev J,9740,57.323,10.0722
+37,Region Nordjylland,81,Østervrå,9750,57.3417,10.2401
+38,Region Nordjylland,81,Vrå,9760,57.3476,9.9515
+39,Region Nordjylland,81,Sæby,9300,57.3319,10.5225
+40,Region Nordjylland,81,Dronninglund,9330,57.1604,10.2929
+41,Region Nordjylland,81,Asaa,9340,57.1487,10.4037
+42,Region Nordjylland,81,Dybvad,9352,57.272,10.3595
+43,Region Nordjylland,81,Østervrå,9750,57.3417,10.2401
+44,Region Nordjylland,81,Tårs,9830,57.3833,10.1167
+45,Region Nordjylland,81,Sindal,9870,57.4712,10.2031
+46,Region Nordjylland,81,Bindslev,9881,57.5521,10.2036
+47,Region Nordjylland,81,Frederikshavn,9900,57.4407,10.5366
+48,Region Nordjylland,81,Strandby,9970,57.4915,10.4961
+49,Region Nordjylland,81,Jerup,9981,57.5343,10.4166
+50,Region Nordjylland,81,Ålbæk,9982,57.5925,10.4046
+51,Region Nordjylland,81,Skagen,9990,57.7209,10.5839
+52,Region Nordjylland,81,Nibe,9240,56.9815,9.6392
+53,Region Nordjylland,81,Suldrup,9541,56.8488,9.7006
+54,Region Nordjylland,81,Aars,9600,56.804,9.5144
+55,Region Nordjylland,81,Nørager,9610,56.7262,9.5971
+56,Region Nordjylland,81,Aalestrup,9620,56.6947,9.4934
+57,Region Nordjylland,81,Gedsted,9631,56.6892,9.3367
+58,Region Nordjylland,81,Farsø,9640,56.7728,9.3393
+59,Region Nordjylland,81,Løgstør,9670,56.9625,9.2583
+60,Region Nordjylland,81,Ranum,9681,56.8973,9.2287
+61,Region Nordjylland,81,Læsø,9940,57.5448,10.4827
+62,Region Nordjylland,81,Svenstrup J,9230,56.9733,9.9233
+63,Region Nordjylland,81,Nibe,9240,56.9815,9.6392
+64,Region Nordjylland,81,Gistrup,9260,56.9943,9.9909
+65,Region Nordjylland,81,Kongerslev,9293,56.9056,10.1267
+66,Region Nordjylland,81,Hobro,9500,56.6431,9.7903
+67,Region Nordjylland,81,Arden,9510,56.769,9.8618
+68,Region Nordjylland,81,Skørping,9520,56.8363,9.8925
+69,Region Nordjylland,81,Støvring,9530,56.8854,9.8384
+70,Region Nordjylland,81,Suldrup,9541,56.8488,9.7006
+71,Region Nordjylland,81,Hadsund,9560,56.7148,10.1168
+72,Region Nordjylland,81,Bælum,9574,56.83,10.1198
+73,Region Nordjylland,81,Terndrup,9575,56.8139,10.0615
+74,Region Nordjylland,81,Aars,9600,56.804,9.5144
+75,Region Nordjylland,81,Nørager,9610,56.7262,9.5971
+76,Region Nordjylland,81,Aalestrup,9620,56.6947,9.4934
+77,Region Nordjylland,81,Havndal,8970,56.6525,10.1967
+78,Region Nordjylland,81,Fårup,8990,56.3667,10.2494
+79,Region Nordjylland,81,Hobro,9500,56.6431,9.7903
+80,Region Nordjylland,81,Arden,9510,56.769,9.8618
+81,Region Nordjylland,81,Mariager,9550,56.6499,9.9751
+82,Region Nordjylland,81,Hadsund,9560,56.7148,10.1168
+83,Region Nordjylland,81,Aalestrup,9620,56.6947,9.4934
+84,Region Nordjylland,81,Møldrup,9632,56.6167,9.5011
+85,Region Nordjylland,81,Sulsted,9381,57.1634,9.9567
+86,Region Nordjylland,81,Tylstrup,9382,57.1947,9.9531
+87,Region Nordjylland,81,Vadum,9430,57.1179,9.857
+88,Region Nordjylland,81,Aabybro,9440,57.1584,9.7367
+89,Region Nordjylland,81,Brovst,9460,57.0956,9.528
+90,Region Nordjylland,81,Løkken,9480,57.3705,9.7147
+91,Region Nordjylland,81,Pandrup,9490,57.2215,9.6757
+92,Region Nordjylland,81,Blokhus,9492,57.248,9.5897
+93,Region Nordjylland,81,Saltum,9493,57.2719,9.698
+94,Region Nordjylland,81,Løgstør,9670,56.9625,9.2583
+95,Region Nordjylland,81,Fjerritslev,9690,57.0813,9.2664
+96,Region Nordjylland,81,Brønderslev,9700,57.2702,9.941
+97,Region Nordjylland,81,Aalborg,9000,57.048,9.9187
+98,Region Nordjylland,81,Aalborg,9100,57.048,9.9187
+99,Region Nordjylland,81,Aalborg SV,9200,56.9733,9.9233
+100,Region Nordjylland,81,Aalborg SØ,9210,56.9733,9.9233
+101,Region Nordjylland,81,Aalborg Øst,9220,56.9733,9.9233
+102,Region Nordjylland,81,Svenstrup J,9230,56.9733,9.9233
+103,Region Nordjylland,81,Nibe,9240,56.9815,9.6392
+104,Region Nordjylland,81,Gistrup,9260,56.9943,9.9909
+105,Region Nordjylland,81,Klarup,9270,57.0119,10.0562
+106,Region Nordjylland,81,Storvorde,9280,57.0039,10.1013
+107,Region Nordjylland,81,Kongerslev,9293,56.9056,10.1267
+108,Region Nordjylland,81,Vodskov,9310,57.1085,10.0222
+109,Region Nordjylland,81,Hjallerup,9320,57.1647,10.1457
+110,Region Nordjylland,81,Gandrup,9362,57.0574,10.1814
+111,Region Nordjylland,81,Hals,9370,56.9961,10.3081
+112,Region Nordjylland,81,Vestbjerg,9380,57.1317,9.9594
+113,Region Nordjylland,81,Sulsted,9381,57.1634,9.9567
+114,Region Nordjylland,81,Tylstrup,9382,57.1947,9.9531
+115,Region Nordjylland,81,Nørresundby,9400,57.0483,9.9352
+116,Region Nordjylland,81,Vadum,9430,57.1179,9.857
+117,Region Nordjylland,81,Aabybro,9440,57.1584,9.7367
+118,Region Nordjylland,81,Støvring,9530,56.8854,9.8384
+119,Region Nordjylland,81,Løkken,9480,57.3705,9.7147
+120,Region Nordjylland,81,Jerslev J,9740,57.323,10.0722
+121,Region Nordjylland,81,Østervrå,9750,57.3417,10.2401
+122,Region Nordjylland,81,Vrå,9760,57.3476,9.9515
+123,Region Nordjylland,81,Hjørring,9800,57.4642,9.9823
+124,Region Nordjylland,81,Tårs,9830,57.3833,10.1167
+125,Region Nordjylland,81,Hirtshals,9850,57.5881,9.9592
+126,Region Nordjylland,81,Sindal,9870,57.4712,10.2031
+127,Region Nordjylland,81,Bindslev,9881,57.5521,10.2036
+128,Region Nordjylland,81,Frederikshavn,9900,57.4407,10.5366
+129,Region Nordjylland,81,Ålbæk,9982,57.5925,10.4046
+130,Region Midtjylland,82,Bryrup,8654,56.0228,9.5183
+131,Region Midtjylland,82,Skanderborg,8660,56.0399,9.9272
+132,Region Midtjylland,82,Ry,8680,56.0904,9.7651
+133,Region Midtjylland,82,Horsens,8700,55.8607,9.8503
+134,Region Midtjylland,82,Hovedgård,8732,55.9417,9.955
+135,Region Midtjylland,82,Brædstrup,8740,55.9715,9.6113
+136,Region Midtjylland,82,Gedved,8751,55.9308,9.846
+137,Region Midtjylland,82,Østbirk,8752,55.9648,9.7556
+138,Region Midtjylland,82,Flemming,8762,55.8687,9.6675
+139,Region Midtjylland,82,Klovborg,8765,55.9319,9.491
+140,Region Midtjylland,82,Stenderup,8781,55.7921,9.8097
+141,Region Midtjylland,82,Hornsyld,8783,55.7526,9.8512
+142,Region Midtjylland,82,Kibæk,6933,56.0317,8.857
+143,Region Midtjylland,82,Ørnhøj,6973,56.1987,8.5645
+144,Region Midtjylland,82,Ulfborg,6990,56.2673,8.3217
+145,Region Midtjylland,82,Sønder Omme,7260,55.8398,8.8972
+146,Region Midtjylland,82,Stakroge,7270,55.8901,8.8473
+147,Region Midtjylland,82,Sønder Felding,7280,55.9376,8.7794
+148,Region Midtjylland,82,Brande,7330,55.9381,9.1218
+149,Region Midtjylland,82,Herning,7400,56.1393,8.9738
+150,Region Midtjylland,82,Sunds,7451,56.2042,9.0127
+151,Region Midtjylland,82,Karup J,7470,56.1757,9.0321
+152,Region Midtjylland,82,Vildbjerg,7480,56.2,8.7667
+153,Region Midtjylland,82,Aulum,7490,56.2654,8.7926
+154,Region Midtjylland,82,Holstebro,7500,56.3601,8.6161
+155,Region Midtjylland,82,Haderup,7540,56.3896,8.9943
+156,Region Midtjylland,82,Sørvad,7550,56.2629,8.6563
+157,Region Midtjylland,82,Vinderup,7830,56.4751,8.7908
+158,Region Midtjylland,82,Ulfborg,6990,56.2673,8.3217
+159,Region Midtjylland,82,Holstebro,7500,56.3601,8.6161
+160,Region Midtjylland,82,Haderup,7540,56.3896,8.9943
+161,Region Midtjylland,82,Hjerm,7560,56.4384,8.6345
+162,Region Midtjylland,82,Vemb,7570,56.3423,8.3375
+163,Region Midtjylland,82,Struer,7600,56.4912,8.5838
+164,Region Midtjylland,82,Skive,7800,56.5638,9.0402
+165,Region Midtjylland,82,Vinderup,7830,56.4751,8.7908
+166,Region Midtjylland,82,Ulfborg,6990,56.2673,8.3217
+167,Region Midtjylland,82,Vemb,7570,56.3423,8.3375
+168,Region Midtjylland,82,Struer,7600,56.4912,8.5838
+169,Region Midtjylland,82,Lemvig,7620,56.5486,8.3102
+170,Region Midtjylland,82,Bøvlingbjerg,7650,56.4353,8.2029
+171,Region Midtjylland,82,Bækmarksbro,7660,56.4153,8.307
+172,Region Midtjylland,82,Harboøre,7673,56.6175,8.1807
+173,Region Midtjylland,82,Thyborøn,7680,56.6985,8.2124
+174,Region Midtjylland,82,Holstebro,7500,56.3601,8.6161
+175,Region Midtjylland,82,Hjerm,7560,56.4384,8.6345
+176,Region Midtjylland,82,Struer,7600,56.4912,8.5838
+177,Region Midtjylland,82,Bækmarksbro,7660,56.4153,8.307
+178,Region Midtjylland,82,Hurup Thy,7760,56.7494,8.4195
+179,Region Midtjylland,82,Thyholm,7790,56.9189,8.6206
+180,Region Midtjylland,82,Vinderup,7830,56.4751,8.7908
+181,Region Midtjylland,82,Ebeltoft,8400,56.1944,10.6821
+182,Region Midtjylland,82,Rønde,8410,56.3015,10.4751
+183,Region Midtjylland,82,Knebel,8420,56.2141,10.4886
+184,Region Midtjylland,82,Balle,8444,56.2963,10.2589
+185,Region Midtjylland,82,Hornslet,8543,56.3155,10.3204
+186,Region Midtjylland,82,Mørke,8544,56.3345,10.3819
+187,Region Midtjylland,82,Ryomgård,8550,56.3843,10.503
+188,Region Midtjylland,82,Kolind,8560,56.3606,10.5836
+189,Region Midtjylland,82,Trustrup,8570,56.3493,10.7739
+190,Region Midtjylland,82,Nimtofte,8581,56.408,10.5686
+191,Region Midtjylland,82,Auning,8963,56.4308,10.3782
+192,Region Midtjylland,82,Balle,8444,56.2963,10.2589
+193,Region Midtjylland,82,Grenaa,8500,56.4158,10.8782
+194,Region Midtjylland,82,Ryomgård,8550,56.3843,10.503
+195,Region Midtjylland,82,Kolind,8560,56.3606,10.5836
+196,Region Midtjylland,82,Trustrup,8570,56.3493,10.7739
+197,Region Midtjylland,82,Nimtofte,8581,56.408,10.5686
+198,Region Midtjylland,82,Glesborg,8585,56.4775,10.7233
+199,Region Midtjylland,82,Ørum Djurs,8586,56.4312,10.6202
+200,Region Midtjylland,82,Anholt,8592,56.7036,11.5455
+201,Region Midtjylland,82,Ørsted,8950,56.502,10.3372
+202,Region Midtjylland,82,Allingåbro,8961,56.4649,10.3341
+203,Region Midtjylland,82,Auning,8963,56.4308,10.3782
+204,Region Midtjylland,82,Hadsten,8370,56.3282,10.0493
+205,Region Midtjylland,82,Trige,8380,56.2529,10.1484
+206,Region Midtjylland,82,Hinnerup,8382,56.2661,10.063
+207,Region Midtjylland,82,Hammel,8450,56.2576,9.8632
+208,Region Midtjylland,82,Sabro,8471,56.2133,10.0344
+209,Region Midtjylland,82,Sporup,8472,56.2133,10.0344
+210,Region Midtjylland,82,Sorring,8641,56.1769,9.7758
+211,Region Midtjylland,82,Bjerringbro,8850,56.378,9.6607
+212,Region Midtjylland,82,Ulstrup,8860,56.3899,9.7935
+213,Region Midtjylland,82,Langå,8870,56.3903,9.8949
+214,Region Midtjylland,82,Thorsø,8881,56.2995,9.7892
+215,Region Midtjylland,82,Fårvang,8882,56.2675,9.7278
+216,Region Midtjylland,82,Randers SV,8940,56.4893,10.262
+217,Region Midtjylland,82,Randers SØ,8960,56.4422,10.3635
+218,Region Midtjylland,82,Odder,8300,55.9731,10.153
+219,Region Midtjylland,82,Malling,8340,56.0363,10.1963
+220,Region Midtjylland,82,Hundslund,8350,55.916,10.0521
+221,Region Midtjylland,82,Skanderborg,8660,56.0399,9.9272
+222,Region Midtjylland,82,Ulstrup,8860,56.3899,9.7935
+223,Region Midtjylland,82,Langå,8870,56.3903,9.8949
+224,Region Midtjylland,82,Randers C,8900,56.4893,10.262
+225,Region Midtjylland,82,Randers NV,8920,56.4893,10.262
+226,Region Midtjylland,82,Randers NØ,8930,56.4893,10.262
+227,Region Midtjylland,82,Randers SV,8940,56.4893,10.262
+228,Region Midtjylland,82,Randers SØ,8960,56.4422,10.3635
+229,Region Midtjylland,82,Havndal,8970,56.6525,10.1967
+230,Region Midtjylland,82,Spentrup,8981,56.537,10.0379
+231,Region Midtjylland,82,Gjerlev J,8983,56.537,10.0379
+232,Region Midtjylland,82,Fårup,8990,56.3667,10.2494
+233,Region Midtjylland,82,Mariager,9550,56.6499,9.9751
+234,Region Midtjylland,82,Hampen,7362,56.019,9.3551
+235,Region Midtjylland,82,Bording,7441,56.1441,9.2765
+236,Region Midtjylland,82,Engesvang,7442,56.1707,9.3495
+237,Region Midtjylland,82,Karup J,7470,56.1757,9.0321
+238,Region Midtjylland,82,Hammel,8450,56.2576,9.8632
+239,Region Midtjylland,82,Sporup,8472,56.2133,10.0344
+240,Region Midtjylland,82,Silkeborg,8600,56.1697,9.5451
+241,Region Midtjylland,82,Kjellerup,8620,56.2858,9.4353
+242,Region Midtjylland,82,Lemming,8632,56.2405,9.5473
+243,Region Midtjylland,82,Sorring,8641,56.1769,9.7758
+244,Region Midtjylland,82,Ans By,8643,56.1769,9.7758
+245,Region Midtjylland,82,Them,8653,56.0943,9.5487
+246,Region Midtjylland,82,Bryrup,8654,56.0228,9.5183
+247,Region Midtjylland,82,Ry,8680,56.0904,9.7651
+248,Region Midtjylland,82,Brædstrup,8740,55.9715,9.6113
+249,Region Midtjylland,82,Viborg,8800,56.4532,9.402
+250,Region Midtjylland,82,Rødkærsbro,8840,56.3531,9.5051
+251,Region Midtjylland,82,Thorsø,8881,56.2995,9.7892
+252,Region Midtjylland,82,Fårvang,8882,56.2675,9.7278
+253,Region Midtjylland,82,Gjern,8883,56.2302,9.7391
+254,Region Midtjylland,82,Samsø,8305,55.8796,10.6076
+255,Region Midtjylland,82,Hørning,8362,56.087,10.0372
+256,Region Midtjylland,82,Galten,8464,56.35,10.05
+257,Region Midtjylland,82,Sabro,8471,56.2133,10.0344
+258,Region Midtjylland,82,Sporup,8472,56.2133,10.0344
+259,Region Midtjylland,82,Silkeborg,8600,56.1697,9.5451
+260,Region Midtjylland,82,Skanderborg,8660,56.0399,9.9272
+261,Region Midtjylland,82,Låsby,8670,56.1502,9.8068
+262,Region Midtjylland,82,Ry,8680,56.0904,9.7651
+263,Region Midtjylland,82,Gedved,8751,55.9308,9.846
+264,Region Midtjylland,82,Aarhus C,8000,56.1567,10.2108
+265,Region Midtjylland,82,Aarhus C,8100,56.1567,10.2108
+266,Region Midtjylland,82,Aarhus N,8200,56.1663,10.1987
+267,Region Midtjylland,82,Aarhus V,8210,56.1663,10.1987
+268,Region Midtjylland,82,Brabrand,8220,56.1531,10.1057
+269,Region Midtjylland,82,Åbyhøj,8230,56.1563,10.1653
+270,Region Midtjylland,82,Risskov,8240,56.1972,10.248
+271,Region Midtjylland,82,Risskov Ø,8245,56.1972,10.248
+272,Region Midtjylland,82,Egå,8250,56.2136,10.2644
+273,Region Midtjylland,82,Viby J,8260,56.1663,10.1987
+274,Region Midtjylland,82,Højbjerg,8270,56.1112,10.2099
+275,Region Midtjylland,82,Odder,8300,55.9731,10.153
+276,Region Midtjylland,82,Tranbjerg J,8310,56.0901,10.1194
+277,Region Midtjylland,82,Mårslet,8320,56.0636,10.1623
+278,Region Midtjylland,82,Beder,8330,56.0602,10.2118
+279,Region Midtjylland,82,Malling,8340,56.0363,10.1963
+280,Region Midtjylland,82,Solbjerg,8355,56.0427,10.0863
+281,Region Midtjylland,82,Hasselager,8361,56.1007,10.1065
+282,Region Midtjylland,82,Hørning,8362,56.087,10.0372
+283,Region Midtjylland,82,Trige,8380,56.2529,10.1484
+284,Region Midtjylland,82,Tilst,8381,56.1938,10.1128
+285,Region Midtjylland,82,Hinnerup,8382,56.2661,10.063
+286,Region Midtjylland,82,Harlev J,8462,56.35,10.05
+287,Region Midtjylland,82,Galten,8464,56.35,10.05
+288,Region Midtjylland,82,Sabro,8471,56.2133,10.0344
+289,Region Midtjylland,82,Lystrup,8520,56.4984,10.4689
+290,Region Midtjylland,82,Hjortshøj,8530,56.2481,10.2653
+291,Region Midtjylland,82,Skødstrup,8541,56.2635,10.3041
+292,Region Midtjylland,82,Hornslet,8543,56.3155,10.3204
+293,Region Midtjylland,82,Skanderborg,8660,56.0399,9.9272
+294,Region Midtjylland,82,Tørring,7160,55.85,9.4833
+295,Region Midtjylland,82,Brande,7330,55.9381,9.1218
+296,Region Midtjylland,82,Ejstrupholm,7361,55.9841,9.2818
+297,Region Midtjylland,82,Hampen,7362,56.019,9.3551
+298,Region Midtjylland,82,Herning,7400,56.1393,8.9738
+299,Region Midtjylland,82,Ikast,7430,56.1388,9.1577
+300,Region Midtjylland,82,Bording,7441,56.1441,9.2765
+301,Region Midtjylland,82,Engesvang,7442,56.1707,9.3495
+302,Region Midtjylland,82,Sunds,7451,56.2042,9.0127
+303,Region Midtjylland,82,Silkeborg,8600,56.1697,9.5451
+304,Region Midtjylland,82,Bryrup,8654,56.0228,9.5183
+305,Region Midtjylland,82,Klovborg,8765,55.9319,9.491
+306,Region Midtjylland,82,Nørre Snede,8766,55.9644,9.3932
+307,Region Midtjylland,82,Nørre Nebel,6830,55.7798,8.2952
+308,Region Midtjylland,82,Ølgod,6870,55.8068,8.6286
+309,Region Midtjylland,82,Tarm,6880,55.9086,8.5304
+310,Region Midtjylland,82,Hemmet,6893,55.8502,8.3756
+311,Region Midtjylland,82,Skjern,6900,55.95,8.5
+312,Region Midtjylland,82,Videbæk,6920,56.0876,8.6285
+313,Region Midtjylland,82,Kibæk,6933,56.0317,8.857
+314,Region Midtjylland,82,Lem St,6940,56.1419,8.4606
+315,Region Midtjylland,82,Ringkøbing,6950,56.0901,8.244
+316,Region Midtjylland,82,Hvide Sande,6960,56.0045,8.1294
+317,Region Midtjylland,82,Spjald,6971,56.1286,8.5084
+318,Region Midtjylland,82,Ørnhøj,6973,56.1987,8.5645
+319,Region Midtjylland,82,Tim,6980,56.1956,8.3079
+320,Region Midtjylland,82,Ulfborg,6990,56.2673,8.3217
+321,Region Midtjylland,82,Stakroge,7270,55.8901,8.8473
+322,Region Midtjylland,82,Sønder Felding,7280,55.9376,8.7794
+323,Region Midtjylland,82,Herning,7400,56.1393,8.9738
+324,Region Midtjylland,82,Vildbjerg,7480,56.2,8.7667
+325,Region Midtjylland,82,Vejle,7100,55.7093,9.5357
+326,Region Midtjylland,82,Vejle Øst,7120,55.758,9.4862
+327,Region Midtjylland,82,Juelsminde,7130,55.7088,10.0167
+328,Region Midtjylland,82,Stouby,7140,55.7025,9.7938
+329,Region Midtjylland,82,Barrit,7150,55.7118,9.8904
+330,Region Midtjylland,82,Tørring,7160,55.85,9.4833
+331,Region Midtjylland,82,Uldum,7171,55.8471,9.5896
+332,Region Midtjylland,82,Give,7323,55.8398,9.25
+333,Region Midtjylland,82,Horsens,8700,55.8607,9.8503
+334,Region Midtjylland,82,Daugård,8721,55.7351,9.703
+335,Region Midtjylland,82,Hedensted,8722,55.7704,9.7011
+336,Region Midtjylland,82,Løsning,8723,55.8024,9.6954
+337,Region Midtjylland,82,Flemming,8762,55.8687,9.6675
+338,Region Midtjylland,82,Rask Mølle,8763,55.8721,9.6135
+339,Region Midtjylland,82,Nørre Snede,8766,55.9644,9.3932
+340,Region Midtjylland,82,Stenderup,8781,55.7921,9.8097
+341,Region Midtjylland,82,Hornsyld,8783,55.7526,9.8512
+342,Region Midtjylland,82,Skive,7800,56.5638,9.0402
+343,Region Midtjylland,82,Vinderup,7830,56.4751,8.7908
+344,Region Midtjylland,82,Højslev,7840,56.5856,9.1364
+345,Region Midtjylland,82,Spøttrup,7860,56.623,8.7447
+346,Region Midtjylland,82,Roslev,7870,56.7039,8.9864
+347,Region Midtjylland,82,Fur,7884,56.5537,8.9353
+348,Region Midtjylland,82,Karup J,7470,56.1757,9.0321
+349,Region Midtjylland,82,Haderup,7540,56.3896,8.9943
+350,Region Midtjylland,82,Skive,7800,56.5638,9.0402
+351,Region Midtjylland,82,Højslev,7840,56.5856,9.1364
+352,Region Midtjylland,82,Stoholm Jyll,7850,56.5537,8.9353
+353,Region Midtjylland,82,Kjellerup,8620,56.2858,9.4353
+354,Region Midtjylland,82,Ans By,8643,56.1769,9.7758
+355,Region Midtjylland,82,Viborg,8800,56.4532,9.402
+356,Region Midtjylland,82,Tjele,8830,56.5118,9.6137
+357,Region Midtjylland,82,Løgstrup,8831,56.5103,9.3354
+358,Region Midtjylland,82,Skals,8832,56.5568,9.4038
+359,Region Midtjylland,82,Rødkærsbro,8840,56.3531,9.5051
+360,Region Midtjylland,82,Bjerringbro,8850,56.378,9.6607
+361,Region Midtjylland,82,Ulstrup,8860,56.3899,9.7935
+362,Region Midtjylland,82,Hobro,9500,56.6431,9.7903
+363,Region Midtjylland,82,Aalestrup,9620,56.6947,9.4934
+364,Region Midtjylland,82,Gedsted,9631,56.6892,9.3367
+365,Region Midtjylland,82,Møldrup,9632,56.6167,9.5011
+366,Region Syddanmark,83,Harndrup,5463,55.4666,10.0216
+367,Region Syddanmark,83,Brenderup Fyn,5464,55.4663,10.0398
+368,Region Syddanmark,83,Asperup,5466,55.4843,9.908
+369,Region Syddanmark,83,Middelfart,5500,55.382,10.2694
+370,Region Syddanmark,83,Aarup,5560,55.3732,10.0413
+371,Region Syddanmark,83,Nørre Aaby,5580,55.4611,9.8794
+372,Region Syddanmark,83,Gelsted,5591,55.3988,9.9731
+373,Region Syddanmark,83,Ejby,5592,55.4301,9.9297
+374,Region Syddanmark,83,Vissenbjerg,5492,55.3848,10.1378
+375,Region Syddanmark,83,Aarup,5560,55.3732,10.0413
+376,Region Syddanmark,83,Assens,5610,55.2702,9.9008
+377,Region Syddanmark,83,Glamsbjerg,5620,55.2724,10.1048
+378,Region Syddanmark,83,Ebberup,5631,55.2433,9.9821
+379,Region Syddanmark,83,Millinge,5642,55.135,10.1994
+380,Region Syddanmark,83,Haarby,5683,55.215,10.1226
+381,Region Syddanmark,83,Tommerup,5690,55.3195,10.2066
+382,Region Syddanmark,83,Langeskov,5550,55.3565,10.5845
+383,Region Syddanmark,83,Faaborg,5600,55.0951,10.2423
+384,Region Syddanmark,83,Millinge,5642,55.135,10.1994
+385,Region Syddanmark,83,Broby,5672,55.2107,10.1198
+386,Region Syddanmark,83,Ringe,5750,55.2451,10.4706
+387,Region Syddanmark,83,Vester Skerninge,5762,55.0732,10.4554
+388,Region Syddanmark,83,Stenstrup,5771,55.1335,10.5047
+389,Region Syddanmark,83,Kværndrup,5772,55.1775,10.5255
+390,Region Syddanmark,83,Årslev,5792,55.3035,10.4643
+391,Region Syddanmark,83,Ørbæk,5853,55.2585,10.6708
+392,Region Syddanmark,83,Gislev,5854,55.2181,10.6022
+393,Region Syddanmark,83,Ryslinge,5856,55.2416,10.5367
+394,Region Syddanmark,83,Ferritslev Fyn,5863,55.2064,10.6852
+395,Region Syddanmark,83,Marslev,5290,55.3902,10.5201
+396,Region Syddanmark,83,Kerteminde,5300,55.449,10.6577
+397,Region Syddanmark,83,Munkebo,5330,55.4618,10.5558
+398,Region Syddanmark,83,Rynkeby,5350,55.4008,10.6137
+399,Region Syddanmark,83,Mesinge,5370,55.4986,10.647
+400,Region Syddanmark,83,Dalby,5380,55.517,10.6592
+401,Region Syddanmark,83,Martofte,5390,55.5464,10.6578
+402,Region Syddanmark,83,Ullerslev,5540,55.3617,10.6519
+403,Region Syddanmark,83,Langeskov,5550,55.3565,10.5845
+404,Region Syddanmark,83,Ferritslev Fyn,5863,55.2064,10.6852
+405,Region Syddanmark,83,Ullerslev,5540,55.3617,10.6519
+406,Region Syddanmark,83,Langeskov,5550,55.3565,10.5845
+407,Region Syddanmark,83,Nyborg,5800,55.3127,10.7896
+408,Region Syddanmark,83,Ørbæk,5853,55.2585,10.6708
+409,Region Syddanmark,83,Frørup,5871,55.2424,10.7156
+410,Region Syddanmark,83,Hesselager,5874,55.1755,10.7452
+411,Region Syddanmark,83,Odense C,5000,55.3959,10.3883
+412,Region Syddanmark,83,Odense C,5100,55.3959,10.3883
+413,Region Syddanmark,83,Odense V,5200,55.3902,10.5201
+414,Region Syddanmark,83,Odense NV,5210,55.3902,10.5201
+415,Region Syddanmark,83,Odense SØ,5220,55.3902,10.5201
+416,Region Syddanmark,83,Odense M,5230,55.3902,10.5201
+417,Region Syddanmark,83,Odense NØ,5240,55.3902,10.5201
+418,Region Syddanmark,83,Odense SV,5250,55.3902,10.5201
+419,Region Syddanmark,83,Odense S,5260,55.3902,10.5201
+420,Region Syddanmark,83,Odense N,5270,55.3902,10.5201
+421,Region Syddanmark,83,Agedrup,5320,55.4324,10.4888
+422,Region Syddanmark,83,Munkebo,5330,55.4618,10.5558
+423,Region Syddanmark,83,Blommenslyst,5491,55.3895,10.2629
+424,Region Syddanmark,83,Vissenbjerg,5492,55.3848,10.1378
+425,Region Syddanmark,83,Svendborg,5700,55.0598,10.6068
+426,Region Syddanmark,83,Vester Skerninge,5762,55.0732,10.4554
+427,Region Syddanmark,83,Stenstrup,5771,55.1335,10.5047
+428,Region Syddanmark,83,Kværndrup,5772,55.1775,10.5255
+429,Region Syddanmark,83,Gislev,5854,55.2181,10.6022
+430,Region Syddanmark,83,Hesselager,5874,55.1755,10.7452
+431,Region Syddanmark,83,Skårup Fyn,5881,55.1251,10.7146
+432,Region Syddanmark,83,Vejstrup,5882,55.1059,10.7124
+433,Region Syddanmark,83,Oure,5883,55.1197,10.7234
+434,Region Syddanmark,83,Gudme,5884,55.1498,10.708
+435,Region Syddanmark,83,Gudbjerg Sydfyn,5892,55.2064,10.6852
+436,Region Syddanmark,83,Odense N,5270,55.3902,10.5201
+437,Region Syddanmark,83,Bogense,5400,55.5669,10.0886
+438,Region Syddanmark,83,Otterup,5450,55.5153,10.3976
+439,Region Syddanmark,83,Morud,5462,55.4481,10.1896
+440,Region Syddanmark,83,Søndersø,5471,55.4853,10.2554
+441,Region Syddanmark,83,Veflinge,5474,55.4755,10.1602
+442,Region Syddanmark,83,Skamby,5485,55.5208,10.2749
+443,Region Syddanmark,83,Blommenslyst,5491,55.3895,10.2629
+444,Region Syddanmark,83,Vissenbjerg,5492,55.3848,10.1378
+445,Region Syddanmark,83,Aarup,5560,55.3732,10.0413
+446,Region Syddanmark,83,Rudkøbing,5900,54.9364,10.7102
+447,Region Syddanmark,83,Humble,5932,54.8297,10.6996
+448,Region Syddanmark,83,Bagenkop,5935,54.7498,10.676
+449,Region Syddanmark,83,Tranekær,5953,54.9976,10.8438
+450,Region Syddanmark,83,Marstal,5960,54.8562,10.5173
+451,Region Syddanmark,83,Ærøskøbing,5970,54.888,10.4112
+452,Region Syddanmark,83,Søby Ærø,5985,54.8763,10.643
+453,Region Syddanmark,83,Christiansfeld,6070,55.3582,9.487
+454,Region Syddanmark,83,Hejls,6094,55.3831,9.5765
+455,Region Syddanmark,83,Haderslev,6100,55.2538,9.4898
+456,Region Syddanmark,83,Vojens,6500,55.2464,9.306
+457,Region Syddanmark,83,Gram,6510,55.2895,9.0491
+458,Region Syddanmark,83,Toftlund,6520,55.1886,9.0693
+459,Region Syddanmark,83,Agerskov,6534,55.1289,9.1355
+460,Region Syddanmark,83,Bevtoft,6541,55.2018,9.2147
+461,Region Syddanmark,83,Sommersted,6560,55.3187,9.2956
+462,Region Syddanmark,83,Rødding,6630,55.3657,9.0632
+463,Region Syddanmark,83,Vorbasse,6623,55.6299,9.0824
+464,Region Syddanmark,83,Hovborg,6682,55.6081,8.9396
+465,Region Syddanmark,83,Ansager,6823,55.7031,8.7586
+466,Region Syddanmark,83,Billund,7190,55.7335,9.1079
+467,Region Syddanmark,83,Grindsted,7200,55.754,8.9123
+468,Region Syddanmark,83,Hejnsvig,7250,55.6953,8.9973
+469,Region Syddanmark,83,Sønder Omme,7260,55.8398,8.8972
+470,Region Syddanmark,83,Stakroge,7270,55.8901,8.8473
+471,Region Syddanmark,83,Gråsten,6300,54.9192,9.5952
+472,Region Syddanmark,83,Broager,6310,54.8874,9.681
+473,Region Syddanmark,83,Egernsund,6320,54.9054,9.6071
+474,Region Syddanmark,83,Sønderborg,6400,54.9093,9.8074
+475,Region Syddanmark,83,Nordborg,6430,55.0573,9.7408
+476,Region Syddanmark,83,Augustenborg,6440,54.952,9.8722
+477,Region Syddanmark,83,Sydals,6470,54.994,9.7903
+478,Region Syddanmark,83,Løgumkloster,6240,55.0594,8.9551
+479,Region Syddanmark,83,Bredebro,6261,55.0548,8.8293
+480,Region Syddanmark,83,Tønder,6270,54.9331,8.8667
+481,Region Syddanmark,83,Højer,6280,54.9634,8.6985
+482,Region Syddanmark,83,Toftlund,6520,55.1886,9.0693
+483,Region Syddanmark,83,Agerskov,6534,55.1289,9.1355
+484,Region Syddanmark,83,Branderup J,6535,55.1289,9.1355
+485,Region Syddanmark,83,Bevtoft,6541,55.2018,9.2147
+486,Region Syddanmark,83,Skærbæk,6780,55.1574,8.769
+487,Region Syddanmark,83,Rømø,6792,55.1132,8.5428
+488,Region Syddanmark,83,Holsted,6670,55.5109,8.9187
+489,Region Syddanmark,83,Føvling,6683,55.4521,8.9396
+490,Region Syddanmark,83,Gørding,6690,55.4746,8.7974
+491,Region Syddanmark,83,Esbjerg,6700,55.4703,8.4519
+492,Region Syddanmark,83,Esbjerg,6701,55.4703,8.4519
+493,Region Syddanmark,83,Esbjerg Ø,6705,55.4703,8.4519
+494,Region Syddanmark,83,Esbjerg V,6710,55.4187,8.6685
+495,Region Syddanmark,83,Esbjerg N,6715,55.4187,8.6685
+496,Region Syddanmark,83,Tjæreborg,6731,55.4646,8.5797
+497,Region Syddanmark,83,Bramming,6740,55.4695,8.7001
+498,Region Syddanmark,83,Ribe,6760,55.3305,8.7697
+499,Region Syddanmark,83,Gredstedbro,6771,55.3983,8.7391
+500,Region Syddanmark,83,Årre,6818,55.5725,8.6675
+501,Region Syddanmark,83,Fanø,6720,55.435,8.3679
+502,Region Syddanmark,83,Hovborg,6682,55.6081,8.9396
+503,Region Syddanmark,83,Agerbæk,6753,55.6,8.8
+504,Region Syddanmark,83,Varde,6800,55.6211,8.4807
+505,Region Syddanmark,83,Årre,6818,55.5725,8.6675
+506,Region Syddanmark,83,Ansager,6823,55.7031,8.7586
+507,Region Syddanmark,83,Nørre Nebel,6830,55.7798,8.2952
+508,Region Syddanmark,83,Oksbøl,6840,55.6268,8.2876
+509,Region Syddanmark,83,Janderup Vestj,6851,55.6336,8.2018
+510,Region Syddanmark,83,Billum,6852,55.6167,8.3333
+511,Region Syddanmark,83,Vejers Strand,6853,55.6333,8.1333
+512,Region Syddanmark,83,Henne,6854,55.7317,8.2209
+513,Region Syddanmark,83,Outrup,6855,55.6336,8.2018
+514,Region Syddanmark,83,Blåvand,6857,55.5529,8.1198
+515,Region Syddanmark,83,Tistrup,6862,55.7172,8.6043
+516,Region Syddanmark,83,Ølgod,6870,55.8068,8.6286
+517,Region Syddanmark,83,Tarm,6880,55.9086,8.5304
+518,Region Syddanmark,83,Grindsted,7200,55.754,8.9123
+519,Region Syddanmark,83,Vejen,6600,55.4812,9.1379
+520,Region Syddanmark,83,Gesten,6621,55.5253,9.2076
+521,Region Syddanmark,83,Bække,6622,55.5703,9.1397
+522,Region Syddanmark,83,Vorbasse,6623,55.6299,9.0824
+523,Region Syddanmark,83,Rødding,6630,55.3657,9.0632
+524,Region Syddanmark,83,Brørup,6650,55.4819,9.0176
+525,Region Syddanmark,83,Lintrup,6660,55.5544,8.9278
+526,Region Syddanmark,83,Holsted,6670,55.5109,8.9187
+527,Region Syddanmark,83,Hovborg,6682,55.6081,8.9396
+528,Region Syddanmark,83,Føvling,6683,55.4521,8.9396
+529,Region Syddanmark,83,Gørding,6690,55.4746,8.7974
+530,Region Syddanmark,83,Glejbjerg,6752,55.5667,8.8333
+531,Region Syddanmark,83,Agerbæk,6753,55.6,8.8
+532,Region Syddanmark,83,Aabenraa,6200,55.0443,9.4174
+533,Region Syddanmark,83,Rødekro,6230,55.0702,9.3164
+534,Region Syddanmark,83,Padborg,6330,54.8266,9.3625
+535,Region Syddanmark,83,Kruså,6340,54.851,9.4013
+536,Region Syddanmark,83,Tinglev,6360,54.931,9.2524
+537,Region Syddanmark,83,Bylderup-Bov,6372,54.9387,9.0857
+538,Region Syddanmark,83,Bolderslev,6392,54.9925,9.284
+539,Region Syddanmark,83,Agerskov,6534,55.1289,9.1355
+540,Region Syddanmark,83,Fredericia,7000,55.5657,9.7526
+541,Region Syddanmark,83,Fredericia,7007,55.5657,9.7526
+542,Region Syddanmark,83,Kolding,6000,55.4904,9.4722
+543,Region Syddanmark,83,Egtved,6040,55.618,9.301
+544,Region Syddanmark,83,Almind,6051,55.5649,9.487
+545,Region Syddanmark,83,Viuf,6052,55.5853,9.4924
+546,Region Syddanmark,83,Jordrup,6064,55.558,9.3122
+547,Region Syddanmark,83,Christiansfeld,6070,55.3582,9.487
+548,Region Syddanmark,83,Bjert,6091,55.4077,9.5738
+549,Region Syddanmark,83,Sønder Stenderup,6092,55.4623,9.6119
+550,Region Syddanmark,83,Sjølund,6093,55.4024,9.5302
+551,Region Syddanmark,83,Hejls,6094,55.3831,9.5765
+552,Region Syddanmark,83,Haderslev,6100,55.2538,9.4898
+553,Region Syddanmark,83,Nordborg,6430,55.0573,9.7408
+554,Region Syddanmark,83,Sommersted,6560,55.3187,9.2956
+555,Region Syddanmark,83,Vamdrup,6580,55.4276,9.2843
+556,Region Syddanmark,83,Lunderskov,6640,55.4838,9.2992
+557,Region Syddanmark,83,Egtved,6040,55.618,9.301
+558,Region Syddanmark,83,Viuf,6052,55.5853,9.4924
+559,Region Syddanmark,83,Vorbasse,6623,55.6299,9.0824
+560,Region Syddanmark,83,Fredericia,7000,55.5657,9.7526
+561,Region Syddanmark,83,Børkop,7080,55.6379,9.6482
+562,Region Syddanmark,83,Vejle,7100,55.7093,9.5357
+563,Region Syddanmark,83,Vejle Øst,7120,55.758,9.4862
+564,Region Syddanmark,83,Tørring,7160,55.85,9.4833
+565,Region Syddanmark,83,Vonge,7173,55.8604,9.4194
+566,Region Syddanmark,83,Bredsten,7182,55.7013,9.385
+567,Region Syddanmark,83,Randbøl,7183,55.6943,9.2475
+568,Region Syddanmark,83,Vandel,7184,55.7085,9.2133
+569,Region Syddanmark,83,Billund,7190,55.7335,9.1079
+570,Region Syddanmark,83,Grindsted,7200,55.754,8.9123
+571,Region Syddanmark,83,Jelling,7300,55.7559,9.4258
+572,Region Syddanmark,83,Gadbjerg,7321,55.7715,9.3248
+573,Region Syddanmark,83,Give,7323,55.8398,9.25
+574,Region Syddanmark,83,Brande,7330,55.9381,9.1218
+575,Region Syddanmark,83,Ejstrupholm,7361,55.9841,9.2818
+576,Region Hovedstaden,84,København C,0900,57.048,9.9187
+577,Region Hovedstaden,84,Udland,0960,56.804,9.5144
+578,Region Hovedstaden,84,København C,0999,57.7209,10.5839
+579,Region Hovedstaden,84,København K,1001,55.6759,12.5655
+580,Region Hovedstaden,84,København K,1002,55.6759,12.5655
+581,Region Hovedstaden,84,København K,1003,55.6759,12.5655
+582,Region Hovedstaden,84,København K,1004,55.6759,12.5655
+583,Region Hovedstaden,84,København K,1005,55.6759,12.5655
+584,Region Hovedstaden,84,København K,1006,55.6759,12.5655
+585,Region Hovedstaden,84,København K,1007,55.6759,12.5655
+586,Region Hovedstaden,84,København K,1008,55.6759,12.5655
+587,Region Hovedstaden,84,København K,1009,55.6759,12.5655
+588,Region Hovedstaden,84,København K,1010,55.6759,12.5655
+589,Region Hovedstaden,84,København K,1011,55.6759,12.5655
+590,Region Hovedstaden,84,København K,1012,55.6759,12.5655
+591,Region Hovedstaden,84,København K,1013,55.6759,12.5655
+592,Region Hovedstaden,84,København K,1014,55.6759,12.5655
+593,Region Hovedstaden,84,København K,1015,55.6759,12.5655
+594,Region Hovedstaden,84,København K,1016,55.6759,12.5655
+595,Region Hovedstaden,84,København K,1017,55.6759,12.5655
+596,Region Hovedstaden,84,København K,1018,55.6759,12.5655
+597,Region Hovedstaden,84,København K,1019,55.6759,12.5655
+598,Region Hovedstaden,84,København K,1020,55.6759,12.5655
+599,Region Hovedstaden,84,København K,1021,55.6759,12.5655
+600,Region Hovedstaden,84,København K,1022,55.6759,12.5655
+601,Region Hovedstaden,84,København K,1023,55.6759,12.5655
+602,Region Hovedstaden,84,København K,1024,55.6759,12.5655
+603,Region Hovedstaden,84,København K,1025,55.6759,12.5655
+604,Region Hovedstaden,84,København K,1026,55.6759,12.5655
+605,Region Hovedstaden,84,København K,1050,55.6759,12.5655
+606,Region Hovedstaden,84,København K,1051,55.6759,12.5655
+607,Region Hovedstaden,84,København K,1052,55.6759,12.5655
+608,Region Hovedstaden,84,København K,1053,55.6759,12.5655
+609,Region Hovedstaden,84,København K,1054,55.6759,12.5655
+610,Region Hovedstaden,84,København K,1055,55.6759,12.5655
+611,Region Hovedstaden,84,København K,1056,55.6759,12.5655
+612,Region Hovedstaden,84,København K,1057,55.6759,12.5655
+613,Region Hovedstaden,84,København K,1058,55.6759,12.5655
+614,Region Hovedstaden,84,København K,1059,55.6759,12.5655
+615,Region Hovedstaden,84,København K,1060,55.6759,12.5655
+616,Region Hovedstaden,84,København K,1061,55.6759,12.5655
+617,Region Hovedstaden,84,København K,1062,55.6759,12.5655
+618,Region Hovedstaden,84,København K,1063,55.6759,12.5655
+619,Region Hovedstaden,84,København K,1064,55.6759,12.5655
+620,Region Hovedstaden,84,København K,1065,55.6759,12.5655
+621,Region Hovedstaden,84,København K,1066,55.6759,12.5655
+622,Region Hovedstaden,84,København K,1067,55.6759,12.5655
+623,Region Hovedstaden,84,København K,1068,55.6759,12.5655
+624,Region Hovedstaden,84,København K,1069,55.6759,12.5655
+625,Region Hovedstaden,84,København K,1070,55.6759,12.5655
+626,Region Hovedstaden,84,København K,1071,55.6759,12.5655
+627,Region Hovedstaden,84,København K,1072,55.6759,12.5655
+628,Region Hovedstaden,84,København K,1073,55.6759,12.5655
+629,Region Hovedstaden,84,København K,1074,55.6759,12.5655
+630,Region Hovedstaden,84,København K,1092,55.6759,12.5655
+631,Region Hovedstaden,84,København K,1093,55.6759,12.5655
+632,Region Hovedstaden,84,København K,1095,55.6759,12.5655
+633,Region Hovedstaden,84,København K,1098,55.6759,12.5655
+634,Region Hovedstaden,84,København K,1100,55.6759,12.5655
+635,Region Hovedstaden,84,København K,1101,55.6759,12.5655
+636,Region Hovedstaden,84,København K,1102,55.6759,12.5655
+637,Region Hovedstaden,84,København K,1103,55.6759,12.5655
+638,Region Hovedstaden,84,København K,1104,55.6759,12.5655
+639,Region Hovedstaden,84,København K,1105,55.6759,12.5655
+640,Region Hovedstaden,84,København K,1106,55.6759,12.5655
+641,Region Hovedstaden,84,København K,1107,55.6759,12.5655
+642,Region Hovedstaden,84,København K,1110,55.6759,12.5655
+643,Region Hovedstaden,84,København K,1111,55.6759,12.5655
+644,Region Hovedstaden,84,København K,1112,55.6759,12.5655
+645,Region Hovedstaden,84,København K,1113,55.6759,12.5655
+646,Region Hovedstaden,84,København K,1114,55.6759,12.5655
+647,Region Hovedstaden,84,København K,1115,55.6759,12.5655
+648,Region Hovedstaden,84,København K,1116,55.6759,12.5655
+649,Region Hovedstaden,84,København K,1117,55.6759,12.5655
+650,Region Hovedstaden,84,København K,1118,55.6759,12.5655
+651,Region Hovedstaden,84,København K,1119,55.6759,12.5655
+652,Region Hovedstaden,84,København K,1120,55.6759,12.5655
+653,Region Hovedstaden,84,København K,1121,55.6759,12.5655
+654,Region Hovedstaden,84,København K,1122,55.6759,12.5655
+655,Region Hovedstaden,84,København K,1123,55.6759,12.5655
+656,Region Hovedstaden,84,København K,1124,55.6759,12.5655
+657,Region Hovedstaden,84,København K,1125,55.6759,12.5655
+658,Region Hovedstaden,84,København K,1126,55.6759,12.5655
+659,Region Hovedstaden,84,København K,1127,55.6759,12.5655
+660,Region Hovedstaden,84,København K,1128,55.6759,12.5655
+661,Region Hovedstaden,84,København K,1129,55.6759,12.5655
+662,Region Hovedstaden,84,København K,1130,55.6759,12.5655
+663,Region Hovedstaden,84,København K,1131,55.6759,12.5655
+664,Region Hovedstaden,84,København K,1140,55.6759,12.5655
+665,Region Hovedstaden,84,København K,1147,55.6759,12.5655
+666,Region Hovedstaden,84,København K,1148,55.6759,12.5655
+667,Region Hovedstaden,84,København K,1150,55.6759,12.5655
+668,Region Hovedstaden,84,København K,1151,55.6759,12.5655
+669,Region Hovedstaden,84,København K,1152,55.6759,12.5655
+670,Region Hovedstaden,84,København K,1153,55.6759,12.5655
+671,Region Hovedstaden,84,København K,1154,55.6759,12.5655
+672,Region Hovedstaden,84,København K,1155,55.6759,12.5655
+673,Region Hovedstaden,84,København K,1156,55.6759,12.5655
+674,Region Hovedstaden,84,København K,1157,55.6759,12.5655
+675,Region Hovedstaden,84,København K,1158,55.6759,12.5655
+676,Region Hovedstaden,84,København K,1159,55.6759,12.5655
+677,Region Hovedstaden,84,København K,1160,55.6759,12.5655
+678,Region Hovedstaden,84,København K,1161,55.6759,12.5655
+679,Region Hovedstaden,84,København K,1162,55.6759,12.5655
+680,Region Hovedstaden,84,København K,1164,55.6759,12.5655
+681,Region Hovedstaden,84,København K,1165,55.6759,12.5655
+682,Region Hovedstaden,84,København K,1166,55.6759,12.5655
+683,Region Hovedstaden,84,København K,1167,55.6759,12.5655
+684,Region Hovedstaden,84,København K,1168,55.6759,12.5655
+685,Region Hovedstaden,84,København K,1169,55.6759,12.5655
+686,Region Hovedstaden,84,København K,1170,55.6759,12.5655
+687,Region Hovedstaden,84,København K,1171,55.6759,12.5655
+688,Region Hovedstaden,84,København K,1172,55.6759,12.5655
+689,Region Hovedstaden,84,København K,1173,55.6759,12.5655
+690,Region Hovedstaden,84,København K,1174,55.6759,12.5655
+691,Region Hovedstaden,84,København K,1175,55.6759,12.5655
+692,Region Hovedstaden,84,København K,1200,55.6759,12.5655
+693,Region Hovedstaden,84,København K,1201,55.6759,12.5655
+694,Region Hovedstaden,84,København K,1202,55.6759,12.5655
+695,Region Hovedstaden,84,København K,1203,55.6759,12.5655
+696,Region Hovedstaden,84,København K,1204,55.6759,12.5655
+697,Region Hovedstaden,84,København K,1205,55.6759,12.5655
+698,Region Hovedstaden,84,København K,1206,55.6759,12.5655
+699,Region Hovedstaden,84,København K,1207,55.6759,12.5655
+700,Region Hovedstaden,84,København K,1208,55.6759,12.5655
+701,Region Hovedstaden,84,København K,1209,55.6759,12.5655
+702,Region Hovedstaden,84,København K,1210,55.6759,12.5655
+703,Region Hovedstaden,84,København K,1211,55.6759,12.5655
+704,Region Hovedstaden,84,København K,1213,55.6759,12.5655
+705,Region Hovedstaden,84,København K,1214,55.6759,12.5655
+706,Region Hovedstaden,84,København K,1215,55.6759,12.5655
+707,Region Hovedstaden,84,København K,1216,55.6759,12.5655
+708,Region Hovedstaden,84,København K,1217,55.6759,12.5655
+709,Region Hovedstaden,84,København K,1218,55.6759,12.5655
+710,Region Hovedstaden,84,København K,1219,55.6759,12.5655
+711,Region Hovedstaden,84,København K,1220,55.6759,12.5655
+712,Region Hovedstaden,84,København K,1221,55.6759,12.5655
+713,Region Hovedstaden,84,København K,1240,55.6759,12.5655
+714,Region Hovedstaden,84,København K,1250,55.6759,12.5655
+715,Region Hovedstaden,84,København K,1251,55.6759,12.5655
+716,Region Hovedstaden,84,København K,1253,55.6759,12.5655
+717,Region Hovedstaden,84,København K,1254,55.6759,12.5655
+718,Region Hovedstaden,84,København K,1255,55.6759,12.5655
+719,Region Hovedstaden,84,København K,1256,55.6759,12.5655
+720,Region Hovedstaden,84,København K,1257,55.6759,12.5655
+721,Region Hovedstaden,84,København K,1259,55.6759,12.5655
+722,Region Hovedstaden,84,København K,1260,55.6759,12.5655
+723,Region Hovedstaden,84,København K,1261,55.6759,12.5655
+724,Region Hovedstaden,84,København K,1263,55.6759,12.5655
+725,Region Hovedstaden,84,København K,1264,55.6759,12.5655
+726,Region Hovedstaden,84,København K,1265,55.6759,12.5655
+727,Region Hovedstaden,84,København K,1266,55.6759,12.5655
+728,Region Hovedstaden,84,København K,1267,55.6759,12.5655
+729,Region Hovedstaden,84,København K,1268,55.6759,12.5655
+730,Region Hovedstaden,84,København K,1270,55.6759,12.5655
+731,Region Hovedstaden,84,København K,1271,55.6759,12.5655
+732,Region Hovedstaden,84,København K,1291,55.6759,12.5655
+733,Region Hovedstaden,84,København K,1300,55.6759,12.5655
+734,Region Hovedstaden,84,København K,1301,55.6759,12.5655
+735,Region Hovedstaden,84,København K,1302,55.6759,12.5655
+736,Region Hovedstaden,84,København K,1303,55.6759,12.5655
+737,Region Hovedstaden,84,København K,1304,55.6759,12.5655
+738,Region Hovedstaden,84,København K,1306,55.6759,12.5655
+739,Region Hovedstaden,84,København K,1307,55.6759,12.5655
+740,Region Hovedstaden,84,København K,1308,55.6759,12.5655
+741,Region Hovedstaden,84,København K,1309,55.6759,12.5655
+742,Region Hovedstaden,84,København K,1310,55.6759,12.5655
+743,Region Hovedstaden,84,København K,1311,55.6759,12.5655
+744,Region Hovedstaden,84,København K,1312,55.6759,12.5655
+745,Region Hovedstaden,84,København K,1313,55.6759,12.5655
+746,Region Hovedstaden,84,København K,1314,55.6759,12.5655
+747,Region Hovedstaden,84,København K,1315,55.6759,12.5655
+748,Region Hovedstaden,84,København K,1316,55.6759,12.5655
+749,Region Hovedstaden,84,København K,1317,55.6759,12.5655
+750,Region Hovedstaden,84,København K,1318,55.6759,12.5655
+751,Region Hovedstaden,84,København K,1319,55.6759,12.5655
+752,Region Hovedstaden,84,København K,1320,55.6759,12.5655
+753,Region Hovedstaden,84,København K,1321,55.6759,12.5655
+754,Region Hovedstaden,84,København K,1322,55.6759,12.5655
+755,Region Hovedstaden,84,København K,1323,55.6759,12.5655
+756,Region Hovedstaden,84,København K,1324,55.6759,12.5655
+757,Region Hovedstaden,84,København K,1325,55.6759,12.5655
+758,Region Hovedstaden,84,København K,1326,55.6759,12.5655
+759,Region Hovedstaden,84,København K,1327,55.6759,12.5655
+760,Region Hovedstaden,84,København K,1328,55.6759,12.5655
+761,Region Hovedstaden,84,København K,1329,55.6759,12.5655
+762,Region Hovedstaden,84,København K,1350,55.6759,12.5655
+763,Region Hovedstaden,84,København K,1352,55.6759,12.5655
+764,Region Hovedstaden,84,København K,1353,55.6759,12.5655
+765,Region Hovedstaden,84,København K,1354,55.6759,12.5655
+766,Region Hovedstaden,84,København K,1355,55.6759,12.5655
+767,Region Hovedstaden,84,København K,1356,55.6759,12.5655
+768,Region Hovedstaden,84,København K,1357,55.6759,12.5655
+769,Region Hovedstaden,84,København K,1358,55.6759,12.5655
+770,Region Hovedstaden,84,København K,1359,55.6759,12.5655
+771,Region Hovedstaden,84,København K,1360,55.6759,12.5655
+772,Region Hovedstaden,84,København K,1361,55.6759,12.5655
+773,Region Hovedstaden,84,København K,1362,55.6759,12.5655
+774,Region Hovedstaden,84,København K,1363,55.6759,12.5655
+775,Region Hovedstaden,84,København K,1364,55.6759,12.5655
+776,Region Hovedstaden,84,København K,1365,55.6759,12.5655
+777,Region Hovedstaden,84,København K,1366,55.6759,12.5655
+778,Region Hovedstaden,84,København K,1367,55.6759,12.5655
+779,Region Hovedstaden,84,København K,1368,55.6759,12.5655
+780,Region Hovedstaden,84,København K,1369,55.6759,12.5655
+781,Region Hovedstaden,84,København K,1370,55.6759,12.5655
+782,Region Hovedstaden,84,København K,1371,55.6759,12.5655
+783,Region Hovedstaden,84,København K,1400,55.6759,12.5655
+784,Region Hovedstaden,84,København K,1401,55.6759,12.5655
+785,Region Hovedstaden,84,København K,1402,55.6759,12.5655
+786,Region Hovedstaden,84,København K,1403,55.6759,12.5655
+787,Region Hovedstaden,84,København K,1406,55.6759,12.5655
+788,Region Hovedstaden,84,København K,1407,55.6759,12.5655
+789,Region Hovedstaden,84,København K,1408,55.6759,12.5655
+790,Region Hovedstaden,84,København K,1409,55.6759,12.5655
+791,Region Hovedstaden,84,København K,1410,55.6759,12.5655
+792,Region Hovedstaden,84,København K,1411,55.6759,12.5655
+793,Region Hovedstaden,84,København K,1412,55.6759,12.5655
+794,Region Hovedstaden,84,København K,1413,55.6759,12.5655
+795,Region Hovedstaden,84,København K,1414,55.6759,12.5655
+796,Region Hovedstaden,84,København K,1415,55.6759,12.5655
+797,Region Hovedstaden,84,København K,1416,55.6759,12.5655
+798,Region Hovedstaden,84,København K,1417,55.6759,12.5655
+799,Region Hovedstaden,84,København K,1418,55.6759,12.5655
+800,Region Hovedstaden,84,København K,1419,55.6759,12.5655
+801,Region Hovedstaden,84,København K,1420,55.6759,12.5655
+802,Region Hovedstaden,84,København K,1421,55.6759,12.5655
+803,Region Hovedstaden,84,København K,1422,55.6759,12.5655
+804,Region Hovedstaden,84,København K,1423,55.6759,12.5655
+805,Region Hovedstaden,84,København K,1424,55.6759,12.5655
+806,Region Hovedstaden,84,København K,1425,55.6759,12.5655
+807,Region Hovedstaden,84,København K,1426,55.6759,12.5655
+808,Region Hovedstaden,84,København K,1427,55.6759,12.5655
+809,Region Hovedstaden,84,København K,1428,55.6759,12.5655
+810,Region Hovedstaden,84,København K,1429,55.6759,12.5655
+811,Region Hovedstaden,84,København K,1430,55.6759,12.5655
+812,Region Hovedstaden,84,København K,1432,55.6759,12.5655
+813,Region Hovedstaden,84,København K,1433,55.6759,12.5655
+814,Region Hovedstaden,84,København K,1434,55.6759,12.5655
+815,Region Hovedstaden,84,København K,1435,55.6759,12.5655
+816,Region Hovedstaden,84,København K,1436,55.6759,12.5655
+817,Region Hovedstaden,84,København K,1437,55.6759,12.5655
+818,Region Hovedstaden,84,København K,1438,55.6759,12.5655
+819,Region Hovedstaden,84,København K,1439,55.6759,12.5655
+820,Region Hovedstaden,84,København K,1440,55.6759,12.5655
+821,Region Hovedstaden,84,København K,1441,55.6759,12.5655
+822,Region Hovedstaden,84,København K,1448,55.6759,12.5655
+823,Region Hovedstaden,84,København K,1450,55.6759,12.5655
+824,Region Hovedstaden,84,København K,1451,55.6759,12.5655
+825,Region Hovedstaden,84,København K,1452,55.6759,12.5655
+826,Region Hovedstaden,84,København K,1453,55.6759,12.5655
+827,Region Hovedstaden,84,København K,1454,55.6759,12.5655
+828,Region Hovedstaden,84,København K,1455,55.6759,12.5655
+829,Region Hovedstaden,84,København K,1456,55.6759,12.5655
+830,Region Hovedstaden,84,København K,1457,55.6759,12.5655
+831,Region Hovedstaden,84,København K,1458,55.6759,12.5655
+832,Region Hovedstaden,84,København K,1459,55.6759,12.5655
+833,Region Hovedstaden,84,København K,1460,55.6759,12.5655
+834,Region Hovedstaden,84,København K,1462,55.6759,12.5655
+835,Region Hovedstaden,84,København K,1463,55.6759,12.5655
+836,Region Hovedstaden,84,København K,1464,55.6759,12.5655
+837,Region Hovedstaden,84,København K,1466,55.6759,12.5655
+838,Region Hovedstaden,84,København K,1467,55.6759,12.5655
+839,Region Hovedstaden,84,København K,1468,55.6759,12.5655
+840,Region Hovedstaden,84,København K,1470,55.6759,12.5655
+841,Region Hovedstaden,84,København K,1471,55.6759,12.5655
+842,Region Hovedstaden,84,København K,1472,55.6759,12.5655
+843,Region Hovedstaden,84,København V,1500,55.6759,12.5655
+844,Region Hovedstaden,84,København V,1501,55.6759,12.5655
+845,Region Hovedstaden,84,København V,1502,55.6759,12.5655
+846,Region Hovedstaden,84,København V,1503,55.6759,12.5655
+847,Region Hovedstaden,84,København V,1504,55.6759,12.5655
+848,Region Hovedstaden,84,København V,1505,55.6759,12.5655
+849,Region Hovedstaden,84,København V,1506,55.6759,12.5655
+850,Region Hovedstaden,84,København V,1507,55.6759,12.5655
+851,Region Hovedstaden,84,København V,1508,55.6759,12.5655
+852,Region Hovedstaden,84,København V,1509,55.6759,12.5655
+853,Region Hovedstaden,84,København V,1510,55.6759,12.5655
+854,Region Hovedstaden,84,Centraltastning,1513,55.6711,12.5653
+855,Region Hovedstaden,84,København V,1550,55.6759,12.5655
+856,Region Hovedstaden,84,København V,1551,55.6759,12.5655
+857,Region Hovedstaden,84,København V,1552,55.6759,12.5655
+858,Region Hovedstaden,84,København V,1553,55.6759,12.5655
+859,Region Hovedstaden,84,København V,1554,55.6759,12.5655
+860,Region Hovedstaden,84,København V,1555,55.6759,12.5655
+861,Region Hovedstaden,84,København V,1556,55.6759,12.5655
+862,Region Hovedstaden,84,København V,1557,55.6759,12.5655
+863,Region Hovedstaden,84,København V,1558,55.6759,12.5655
+864,Region Hovedstaden,84,København V,1559,55.6759,12.5655
+865,Region Hovedstaden,84,København V,1560,55.6759,12.5655
+866,Region Hovedstaden,84,København V,1561,55.6759,12.5655
+867,Region Hovedstaden,84,København V,1562,55.6759,12.5655
+868,Region Hovedstaden,84,København V,1563,55.6759,12.5655
+869,Region Hovedstaden,84,København V,1564,55.6759,12.5655
+870,Region Hovedstaden,84,København V,1567,55.6759,12.5655
+871,Region Hovedstaden,84,København V,1568,55.6759,12.5655
+872,Region Hovedstaden,84,København V,1569,55.6759,12.5655
+873,Region Hovedstaden,84,København V,1570,55.6759,12.5655
+874,Region Hovedstaden,84,København V,1571,55.6759,12.5655
+875,Region Hovedstaden,84,København V,1572,55.6759,12.5655
+876,Region Hovedstaden,84,København V,1573,55.6759,12.5655
+877,Region Hovedstaden,84,København V,1574,55.6759,12.5655
+878,Region Hovedstaden,84,København V,1575,55.6759,12.5655
+879,Region Hovedstaden,84,København V,1576,55.6759,12.5655
+880,Region Hovedstaden,84,København V,1577,55.6759,12.5655
+881,Region Hovedstaden,84,København V,1592,55.6759,12.5655
+882,Region Hovedstaden,84,København V,1599,55.6759,12.5655
+883,Region Hovedstaden,84,København V,1600,55.6759,12.5655
+884,Region Hovedstaden,84,København V,1601,55.6759,12.5655
+885,Region Hovedstaden,84,København V,1602,55.6759,12.5655
+886,Region Hovedstaden,84,København V,1603,55.6759,12.5655
+887,Region Hovedstaden,84,København V,1604,55.6759,12.5655
+888,Region Hovedstaden,84,København V,1606,55.6759,12.5655
+889,Region Hovedstaden,84,København V,1607,55.6759,12.5655
+890,Region Hovedstaden,84,København V,1608,55.6759,12.5655
+891,Region Hovedstaden,84,København V,1609,55.6759,12.5655
+892,Region Hovedstaden,84,København V,1610,55.6759,12.5655
+893,Region Hovedstaden,84,København V,1611,55.6759,12.5655
+894,Region Hovedstaden,84,København V,1612,55.6759,12.5655
+895,Region Hovedstaden,84,København V,1613,55.6759,12.5655
+896,Region Hovedstaden,84,København V,1614,55.6759,12.5655
+897,Region Hovedstaden,84,København V,1615,55.6759,12.5655
+898,Region Hovedstaden,84,København V,1616,55.6759,12.5655
+899,Region Hovedstaden,84,København V,1617,55.6759,12.5655
+900,Region Hovedstaden,84,København V,1618,55.6759,12.5655
+901,Region Hovedstaden,84,København V,1619,55.6759,12.5655
+902,Region Hovedstaden,84,København V,1620,55.6759,12.5655
+903,Region Hovedstaden,84,København V,1621,55.6759,12.5655
+904,Region Hovedstaden,84,København V,1622,55.6759,12.5655
+905,Region Hovedstaden,84,København V,1623,55.6759,12.5655
+906,Region Hovedstaden,84,København V,1624,55.6759,12.5655
+907,Region Hovedstaden,84,København V,1630,55.6759,12.5655
+908,Region Hovedstaden,84,København V,1631,55.6759,12.5655
+909,Region Hovedstaden,84,København V,1632,55.6759,12.5655
+910,Region Hovedstaden,84,København V,1633,55.6759,12.5655
+911,Region Hovedstaden,84,København V,1634,55.6759,12.5655
+912,Region Hovedstaden,84,København V,1635,55.6759,12.5655
+913,Region Hovedstaden,84,København V,1650,55.6759,12.5655
+914,Region Hovedstaden,84,København V,1651,55.6759,12.5655
+915,Region Hovedstaden,84,København V,1652,55.6759,12.5655
+916,Region Hovedstaden,84,København V,1653,55.6759,12.5655
+917,Region Hovedstaden,84,København V,1654,55.6759,12.5655
+918,Region Hovedstaden,84,København V,1655,55.6759,12.5655
+919,Region Hovedstaden,84,København V,1656,55.6759,12.5655
+920,Region Hovedstaden,84,København V,1657,55.6759,12.5655
+921,Region Hovedstaden,84,København V,1658,55.6759,12.5655
+922,Region Hovedstaden,84,København V,1659,55.6759,12.5655
+923,Region Hovedstaden,84,København V,1660,55.6759,12.5655
+924,Region Hovedstaden,84,København V,1661,55.6759,12.5655
+925,Region Hovedstaden,84,København V,1662,55.6759,12.5655
+926,Region Hovedstaden,84,København V,1663,55.6759,12.5655
+927,Region Hovedstaden,84,København V,1664,55.6759,12.5655
+928,Region Hovedstaden,84,København V,1665,55.6759,12.5655
+929,Region Hovedstaden,84,København V,1666,55.6759,12.5655
+930,Region Hovedstaden,84,København V,1667,55.6759,12.5655
+931,Region Hovedstaden,84,København V,1668,55.6759,12.5655
+932,Region Hovedstaden,84,København V,1669,55.6759,12.5655
+933,Region Hovedstaden,84,København V,1670,55.6759,12.5655
+934,Region Hovedstaden,84,København V,1671,55.6759,12.5655
+935,Region Hovedstaden,84,København V,1672,55.6759,12.5655
+936,Region Hovedstaden,84,København V,1673,55.6759,12.5655
+937,Region Hovedstaden,84,København V,1674,55.6759,12.5655
+938,Region Hovedstaden,84,København V,1675,55.6759,12.5655
+939,Region Hovedstaden,84,København V,1676,55.6759,12.5655
+940,Region Hovedstaden,84,København V,1677,55.6759,12.5655
+941,Region Hovedstaden,84,København V,1699,55.6759,12.5655
+942,Region Hovedstaden,84,København V,1700,55.6759,12.5655
+943,Region Hovedstaden,84,København V,1701,55.6759,12.5655
+944,Region Hovedstaden,84,København V,1702,55.6759,12.5655
+945,Region Hovedstaden,84,København V,1703,55.6759,12.5655
+946,Region Hovedstaden,84,København V,1704,55.6759,12.5655
+947,Region Hovedstaden,84,København V,1705,55.6759,12.5655
+948,Region Hovedstaden,84,København V,1706,55.6759,12.5655
+949,Region Hovedstaden,84,København V,1707,55.6759,12.5655
+950,Region Hovedstaden,84,København V,1708,55.6759,12.5655
+951,Region Hovedstaden,84,København V,1709,55.6759,12.5655
+952,Region Hovedstaden,84,København V,1710,55.6759,12.5655
+953,Region Hovedstaden,84,København V,1711,55.6759,12.5655
+954,Region Hovedstaden,84,København V,1712,55.6759,12.5655
+955,Region Hovedstaden,84,København V,1714,55.6759,12.5655
+956,Region Hovedstaden,84,København V,1715,55.6759,12.5655
+957,Region Hovedstaden,84,København V,1716,55.6759,12.5655
+958,Region Hovedstaden,84,København V,1717,55.6759,12.5655
+959,Region Hovedstaden,84,København V,1718,55.6759,12.5655
+960,Region Hovedstaden,84,København V,1719,55.6759,12.5655
+961,Region Hovedstaden,84,København V,1720,55.6759,12.5655
+962,Region Hovedstaden,84,København V,1721,55.6759,12.5655
+963,Region Hovedstaden,84,København V,1722,55.6759,12.5655
+964,Region Hovedstaden,84,København V,1723,55.6759,12.5655
+965,Region Hovedstaden,84,København V,1724,55.6759,12.5655
+966,Region Hovedstaden,84,København V,1725,55.6759,12.5655
+967,Region Hovedstaden,84,København V,1726,55.6759,12.5655
+968,Region Hovedstaden,84,København V,1727,55.6759,12.5655
+969,Region Hovedstaden,84,København V,1728,55.6759,12.5655
+970,Region Hovedstaden,84,København V,1729,55.6759,12.5655
+971,Region Hovedstaden,84,København V,1730,55.6759,12.5655
+972,Region Hovedstaden,84,København V,1731,55.6759,12.5655
+973,Region Hovedstaden,84,København V,1732,55.6759,12.5655
+974,Region Hovedstaden,84,København V,1733,55.6759,12.5655
+975,Region Hovedstaden,84,København V,1734,55.6759,12.5655
+976,Region Hovedstaden,84,København V,1735,55.6759,12.5655
+977,Region Hovedstaden,84,København V,1736,55.6759,12.5655
+978,Region Hovedstaden,84,København V,1737,55.6759,12.5655
+979,Region Hovedstaden,84,København V,1738,55.6759,12.5655
+980,Region Hovedstaden,84,København V,1739,55.6759,12.5655
+981,Region Hovedstaden,84,København V,1749,55.6759,12.5655
+982,Region Hovedstaden,84,København V,1750,55.6759,12.5655
+983,Region Hovedstaden,84,København V,1751,55.6759,12.5655
+984,Region Hovedstaden,84,København V,1752,55.6759,12.5655
+985,Region Hovedstaden,84,København V,1753,55.6759,12.5655
+986,Region Hovedstaden,84,København V,1754,55.6759,12.5655
+987,Region Hovedstaden,84,København V,1755,55.6759,12.5655
+988,Region Hovedstaden,84,København V,1756,55.6759,12.5655
+989,Region Hovedstaden,84,København V,1757,55.6759,12.5655
+990,Region Hovedstaden,84,København V,1758,55.6759,12.5655
+991,Region Hovedstaden,84,København V,1759,55.6759,12.5655
+992,Region Hovedstaden,84,København V,1760,55.6759,12.5655
+993,Region Hovedstaden,84,København V,1761,55.6759,12.5655
+994,Region Hovedstaden,84,København V,1762,55.6759,12.5655
+995,Region Hovedstaden,84,København V,1763,55.6759,12.5655
+996,Region Hovedstaden,84,København V,1764,55.6759,12.5655
+997,Region Hovedstaden,84,København V,1765,55.6759,12.5655
+998,Region Hovedstaden,84,København V,1766,55.6759,12.5655
+999,Region Hovedstaden,84,København V,1770,55.6759,12.5655
+1000,Region Hovedstaden,84,København V,1771,55.6759,12.5655
+1001,Region Hovedstaden,84,København V,1772,55.6759,12.5655
+1002,Region Hovedstaden,84,København V,1773,55.6759,12.5655
+1003,Region Hovedstaden,84,København V,1774,55.6759,12.5655
+1004,Region Hovedstaden,84,København V,1775,55.6759,12.5655
+1005,Region Hovedstaden,84,København V,1777,55.6759,12.5655
+1006,Region Hovedstaden,84,København V,1780,55.6759,12.5655
+1007,Region Hovedstaden,84,København V,1785,55.6759,12.5655
+1008,Region Hovedstaden,84,København V,1786,55.6759,12.5655
+1009,Region Hovedstaden,84,København V,1787,55.6759,12.5655
+1010,Region Hovedstaden,84,København V,1790,55.6759,12.5655
+1011,Region Hovedstaden,84,København V,1799,55.6759,12.5655
+1012,Region Hovedstaden,84,Frederiksberg C,1810,55.6794,12.5346
+1013,Region Hovedstaden,84,Frederiksberg,2000,55.6794,12.5346
+1014,Region Hovedstaden,84,København Ø,2100,55.6759,12.5655
+1015,Region Hovedstaden,84,Nordhavn,2150,55.6759,12.5655
+1016,Region Hovedstaden,84,København N,2200,55.6759,12.5655
+1017,Region Hovedstaden,84,København S,2300,55.6759,12.5655
+1018,Region Hovedstaden,84,København NV,2400,55.6759,12.5655
+1019,Region Hovedstaden,84,København SV,2450,55.6759,12.5655
+1020,Region Hovedstaden,84,Valby,2500,55.6581,12.5241
+1021,Region Hovedstaden,84,Rødovre,2610,55.6806,12.4537
+1022,Region Hovedstaden,84,Brønshøj,2700,55.7057,12.4964
+1023,Region Hovedstaden,84,Vanløse,2720,55.6836,12.4871
+1024,Region Hovedstaden,84,Kastrup,2770,55.6352,12.6489
+1025,Region Hovedstaden,84,Søborg,2860,55.7302,12.5098
+1026,Region Hovedstaden,84,Hellerup,2900,55.732,12.5709
+1027,Region Hovedstaden,84,Vildbjerg,7480,56.2,8.7667
+1028,Region Hovedstaden,84,Frederiksberg C,1800,55.6794,12.5346
+1029,Region Hovedstaden,84,Frederiksberg C,1801,55.6794,12.5346
+1030,Region Hovedstaden,84,Frederiksberg C,1802,55.6794,12.5346
+1031,Region Hovedstaden,84,Frederiksberg C,1803,55.6794,12.5346
+1032,Region Hovedstaden,84,Frederiksberg C,1804,55.6794,12.5346
+1033,Region Hovedstaden,84,Frederiksberg C,1805,55.6794,12.5346
+1034,Region Hovedstaden,84,Frederiksberg C,1806,55.6794,12.5346
+1035,Region Hovedstaden,84,Frederiksberg C,1807,55.6794,12.5346
+1036,Region Hovedstaden,84,Frederiksberg C,1808,55.6794,12.5346
+1037,Region Hovedstaden,84,Frederiksberg C,1809,55.6794,12.5346
+1038,Region Hovedstaden,84,Frederiksberg C,1810,55.6794,12.5346
+1039,Region Hovedstaden,84,Frederiksberg C,1811,55.6794,12.5346
+1040,Region Hovedstaden,84,Frederiksberg C,1812,55.6794,12.5346
+1041,Region Hovedstaden,84,Frederiksberg C,1813,55.6794,12.5346
+1042,Region Hovedstaden,84,Frederiksberg C,1814,55.6794,12.5346
+1043,Region Hovedstaden,84,Frederiksberg C,1815,55.6794,12.5346
+1044,Region Hovedstaden,84,Frederiksberg C,1816,55.6794,12.5346
+1045,Region Hovedstaden,84,Frederiksberg C,1817,55.6794,12.5346
+1046,Region Hovedstaden,84,Frederiksberg C,1818,55.6794,12.5346
+1047,Region Hovedstaden,84,Frederiksberg C,1819,55.6794,12.5346
+1048,Region Hovedstaden,84,Frederiksberg C,1820,55.6794,12.5346
+1049,Region Hovedstaden,84,Frederiksberg C,1822,55.6794,12.5346
+1050,Region Hovedstaden,84,Frederiksberg C,1823,55.6794,12.5346
+1051,Region Hovedstaden,84,Frederiksberg C,1824,55.6794,12.5346
+1052,Region Hovedstaden,84,Frederiksberg C,1825,55.6794,12.5346
+1053,Region Hovedstaden,84,Frederiksberg C,1826,55.6794,12.5346
+1054,Region Hovedstaden,84,Frederiksberg C,1827,55.6794,12.5346
+1055,Region Hovedstaden,84,Frederiksberg C,1828,55.6794,12.5346
+1056,Region Hovedstaden,84,Frederiksberg C,1829,55.6794,12.5346
+1057,Region Hovedstaden,84,Frederiksberg C,1835,55.6794,12.5346
+1058,Region Hovedstaden,84,Frederiksberg C,1850,55.6794,12.5346
+1059,Region Hovedstaden,84,Frederiksberg C,1851,55.6794,12.5346
+1060,Region Hovedstaden,84,Frederiksberg C,1852,55.6794,12.5346
+1061,Region Hovedstaden,84,Frederiksberg C,1853,55.6794,12.5346
+1062,Region Hovedstaden,84,Frederiksberg C,1854,55.6794,12.5346
+1063,Region Hovedstaden,84,Frederiksberg C,1855,55.6794,12.5346
+1064,Region Hovedstaden,84,Frederiksberg C,1856,55.6794,12.5346
+1065,Region Hovedstaden,84,Frederiksberg C,1857,55.6794,12.5346
+1066,Region Hovedstaden,84,Frederiksberg C,1860,55.6794,12.5346
+1067,Region Hovedstaden,84,Frederiksberg C,1861,55.6794,12.5346
+1068,Region Hovedstaden,84,Frederiksberg C,1862,55.6794,12.5346
+1069,Region Hovedstaden,84,Frederiksberg C,1863,55.6794,12.5346
+1070,Region Hovedstaden,84,Frederiksberg C,1864,55.6794,12.5346
+1071,Region Hovedstaden,84,Frederiksberg C,1865,55.6794,12.5346
+1072,Region Hovedstaden,84,Frederiksberg C,1866,55.6794,12.5346
+1073,Region Hovedstaden,84,Frederiksberg C,1867,55.6794,12.5346
+1074,Region Hovedstaden,84,Frederiksberg C,1868,55.6794,12.5346
+1075,Region Hovedstaden,84,Frederiksberg C,1870,55.6794,12.5346
+1076,Region Hovedstaden,84,Frederiksberg C,1871,55.6794,12.5346
+1077,Region Hovedstaden,84,Frederiksberg C,1872,55.6794,12.5346
+1078,Region Hovedstaden,84,Frederiksberg C,1873,55.6794,12.5346
+1079,Region Hovedstaden,84,Frederiksberg C,1874,55.6794,12.5346
+1080,Region Hovedstaden,84,Frederiksberg C,1875,55.6794,12.5346
+1081,Region Hovedstaden,84,Frederiksberg C,1876,55.6794,12.5346
+1082,Region Hovedstaden,84,Frederiksberg C,1877,55.6794,12.5346
+1083,Region Hovedstaden,84,Frederiksberg C,1878,55.6794,12.5346
+1084,Region Hovedstaden,84,Frederiksberg C,1879,55.6794,12.5346
+1085,Region Hovedstaden,84,Frederiksberg C,1900,55.6794,12.5346
+1086,Region Hovedstaden,84,Frederiksberg C,1901,55.6794,12.5346
+1087,Region Hovedstaden,84,Frederiksberg C,1902,55.6794,12.5346
+1088,Region Hovedstaden,84,Frederiksberg C,1903,55.6794,12.5346
+1089,Region Hovedstaden,84,Frederiksberg C,1904,55.6794,12.5346
+1090,Region Hovedstaden,84,Frederiksberg C,1905,55.6794,12.5346
+1091,Region Hovedstaden,84,Frederiksberg C,1906,55.6794,12.5346
+1092,Region Hovedstaden,84,Frederiksberg C,1908,55.6794,12.5346
+1093,Region Hovedstaden,84,Frederiksberg C,1909,55.6794,12.5346
+1094,Region Hovedstaden,84,Frederiksberg C,1910,55.6794,12.5346
+1095,Region Hovedstaden,84,Frederiksberg C,1911,55.6794,12.5346
+1096,Region Hovedstaden,84,Frederiksberg C,1912,55.6794,12.5346
+1097,Region Hovedstaden,84,Frederiksberg C,1913,55.6794,12.5346
+1098,Region Hovedstaden,84,Frederiksberg C,1914,55.6794,12.5346
+1099,Region Hovedstaden,84,Frederiksberg C,1915,55.6794,12.5346
+1100,Region Hovedstaden,84,Frederiksberg C,1916,55.6794,12.5346
+1101,Region Hovedstaden,84,Frederiksberg C,1917,55.6794,12.5346
+1102,Region Hovedstaden,84,Frederiksberg C,1920,55.6794,12.5346
+1103,Region Hovedstaden,84,Frederiksberg C,1921,55.6794,12.5346
+1104,Region Hovedstaden,84,Frederiksberg C,1922,55.6794,12.5346
+1105,Region Hovedstaden,84,Frederiksberg C,1923,55.6794,12.5346
+1106,Region Hovedstaden,84,Frederiksberg C,1924,55.6794,12.5346
+1107,Region Hovedstaden,84,Frederiksberg C,1925,55.6794,12.5346
+1108,Region Hovedstaden,84,Frederiksberg C,1926,55.6794,12.5346
+1109,Region Hovedstaden,84,Frederiksberg C,1927,55.6794,12.5346
+1110,Region Hovedstaden,84,Frederiksberg C,1928,55.6794,12.5346
+1111,Region Hovedstaden,84,Frederiksberg C,1950,55.6794,12.5346
+1112,Region Hovedstaden,84,Frederiksberg C,1951,55.6794,12.5346
+1113,Region Hovedstaden,84,Frederiksberg C,1952,55.6794,12.5346
+1114,Region Hovedstaden,84,Frederiksberg C,1953,55.6794,12.5346
+1115,Region Hovedstaden,84,Frederiksberg C,1954,55.6794,12.5346
+1116,Region Hovedstaden,84,Frederiksberg C,1955,55.6794,12.5346
+1117,Region Hovedstaden,84,Frederiksberg C,1956,55.6794,12.5346
+1118,Region Hovedstaden,84,Frederiksberg C,1957,55.6794,12.5346
+1119,Region Hovedstaden,84,Frederiksberg C,1958,55.6794,12.5346
+1120,Region Hovedstaden,84,Frederiksberg C,1959,55.6794,12.5346
+1121,Region Hovedstaden,84,Frederiksberg C,1960,55.6794,12.5346
+1122,Region Hovedstaden,84,Frederiksberg C,1961,55.6794,12.5346
+1123,Region Hovedstaden,84,Frederiksberg C,1962,55.6794,12.5346
+1124,Region Hovedstaden,84,Frederiksberg C,1963,55.6794,12.5346
+1125,Region Hovedstaden,84,Frederiksberg C,1964,55.6794,12.5346
+1126,Region Hovedstaden,84,Frederiksberg C,1965,55.6794,12.5346
+1127,Region Hovedstaden,84,Frederiksberg C,1966,55.6794,12.5346
+1128,Region Hovedstaden,84,Frederiksberg C,1967,55.6794,12.5346
+1129,Region Hovedstaden,84,Frederiksberg C,1970,55.6794,12.5346
+1130,Region Hovedstaden,84,Frederiksberg C,1971,55.6794,12.5346
+1131,Region Hovedstaden,84,Frederiksberg C,1972,55.6794,12.5346
+1132,Region Hovedstaden,84,Frederiksberg C,1973,55.6794,12.5346
+1133,Region Hovedstaden,84,Frederiksberg C,1974,55.6794,12.5346
+1134,Region Hovedstaden,84,Frederiksberg,2000,55.6794,12.5346
+1135,Region Hovedstaden,84,København N,2200,55.6759,12.5655
+1136,Region Hovedstaden,84,Valby,2500,55.6581,12.5241
+1137,Region Hovedstaden,84,Vanløse,2720,55.6836,12.4871
+1138,Region Hovedstaden,84,Herlev,2730,55.7237,12.44
+1139,Region Hovedstaden,84,Skovlunde,2740,55.7157,12.398
+1140,Region Hovedstaden,84,Ballerup,2750,55.7316,12.3633
+1141,Region Hovedstaden,84,Måløv,2760,55.7553,12.3233
+1142,Region Hovedstaden,84,Værløse,3500,55.7825,12.3686
+1143,Region Hovedstaden,84,Københavns Pakkecent,0917,55.6759,12.5655
+1144,Region Hovedstaden,84,Glostrup,2600,55.6666,12.4038
+1145,Region Hovedstaden,84,Brøndby,2605,55.6503,12.41
+1146,Region Hovedstaden,84,Albertslund,2620,55.6569,12.3638
+1147,Region Hovedstaden,84,Hvidovre,2650,55.6572,12.4736
+1148,Region Hovedstaden,84,Brøndby Strand,2660,55.6167,12.35
+1149,Region Hovedstaden,84,Dragør,2791,55.5945,12.6664
+1150,Region Hovedstaden,84,Kongens Lyngby,2800,55.7704,12.5038
+1151,Region Hovedstaden,84,Gentofte,2820,55.749,12.546
+1152,Region Hovedstaden,84,Dyssegård,2870,55.7728,12.494
+1153,Region Hovedstaden,84,Hellerup,2900,55.732,12.5709
+1154,Region Hovedstaden,84,Charlottenlund,2920,55.7537,12.5918
+1155,Region Hovedstaden,84,Klampenborg,2930,55.7763,12.5901
+1156,Region Hovedstaden,84,Herlev,2730,55.7237,12.44
+1157,Region Hovedstaden,84,Kongens Lyngby,2800,55.7704,12.5038
+1158,Region Hovedstaden,84,Gentofte,2820,55.749,12.546
+1159,Region Hovedstaden,84,Søborg,2860,55.7302,12.5098
+1160,Region Hovedstaden,84,Bagsværd,2880,55.7618,12.4679
+1161,Region Hovedstaden,84,Værløse,3500,55.7825,12.3686
+1162,Region Hovedstaden,84,Glostrup,2600,55.6666,12.4038
+1163,Region Hovedstaden,84,Herlev,2730,55.7237,12.44
+1164,Region Hovedstaden,84,Skovlunde,2740,55.7157,12.398
+1165,Region Hovedstaden,84,Bagsværd,2880,55.7618,12.4679
+1166,Region Hovedstaden,84,Glostrup,2600,55.6666,12.4038
+1167,Region Hovedstaden,84,Albertslund,2620,55.6569,12.3638
+1168,Region Hovedstaden,84,Ballerup,2750,55.7316,12.3633
+1169,Region Hovedstaden,84,Rødovre,2610,55.6806,12.4537
+1170,Region Hovedstaden,84,Hvidovre,2650,55.6572,12.4736
+1171,Region Hovedstaden,84,Brøndby Strand,2660,55.6167,12.35
+1172,Region Hovedstaden,84,Høje Taastrup,0800,55.6471,12.2742
+1173,Region Hovedstaden,84,Taastrup,2630,55.6517,12.2922
+1174,Region Hovedstaden,84,Hedehusene,2640,55.647,12.1936
+1175,Region Hovedstaden,84,Roskilde,4000,55.6415,12.0803
+1176,Region Hovedstaden,84,Kongens Lyngby,2800,55.7704,12.5038
+1177,Region Hovedstaden,84,Virum,2830,55.7949,12.451
+1178,Region Hovedstaden,84,Holte,2840,55.8167,12.4667
+1179,Region Hovedstaden,84,Klampenborg,2930,55.7763,12.5901
+1180,Region Hovedstaden,84,Værløse,3500,55.7825,12.3686
+1181,Region Hovedstaden,84,Rødovre,2610,55.6806,12.4537
+1182,Region Hovedstaden,84,Herlev,2730,55.7237,12.44
+1183,Region Hovedstaden,84,Ishøj,2635,55.6154,12.3518
+1184,Region Hovedstaden,84,Hedehusene,2640,55.647,12.1936
+1185,Region Hovedstaden,84,København V,1532,55.6759,12.5655
+1186,Region Hovedstaden,84,København V,1533,55.6759,12.5655
+1187,Region Hovedstaden,84,København S,2300,55.6759,12.5655
+1188,Region Hovedstaden,84,Kastrup,2770,55.6352,12.6489
+1189,Region Hovedstaden,84,Dragør,2791,55.5945,12.6664
+1190,Region Hovedstaden,84,Vallensbæk,2625,55.6333,12.3667
+1191,Region Hovedstaden,84,Vallensbæk Strand,2665,55.6139,12.3895
+1192,Region Hovedstaden,84,Bagsværd,2880,55.7618,12.4679
+1193,Region Hovedstaden,84,Birkerød,3460,55.8476,12.4279
+1194,Region Hovedstaden,84,Værløse,3500,55.7825,12.3686
+1195,Region Hovedstaden,84,Farum,3520,55.8086,12.3607
+1196,Region Hovedstaden,84,Lynge,3540,55.8394,12.2772
+1197,Region Hovedstaden,84,Hillerød,3400,55.9279,12.3008
+1198,Region Hovedstaden,84,Allerød,3450,55.8703,12.3574
+1199,Region Hovedstaden,84,Birkerød,3460,55.8476,12.4279
+1200,Region Hovedstaden,84,Farum,3520,55.8086,12.3607
+1201,Region Hovedstaden,84,Lynge,3540,55.8394,12.2772
+1202,Region Hovedstaden,84,Slangerup,3550,55.85,12.1833
+1203,Region Hovedstaden,84,Hørsholm,2970,55.881,12.5011
+1204,Region Hovedstaden,84,Kokkedal,2980,55.9118,12.4995
+1205,Region Hovedstaden,84,Nivå,2990,55.9341,12.5048
+1206,Region Hovedstaden,84,Humlebæk,3050,55.9618,12.5341
+1207,Region Hovedstaden,84,Espergærde,3060,56,12.5667
+1208,Region Hovedstaden,84,Hillerød,3400,55.9279,12.3008
+1209,Region Hovedstaden,84,Allerød,3450,55.8703,12.3574
+1210,Region Hovedstaden,84,Fredensborg,3480,55.9756,12.4031
+1211,Region Hovedstaden,84,Kvistgård,3490,55.9935,12.5045
+1212,Region Hovedstaden,84,Helsingør,3000,56.0361,12.6136
+1213,Region Hovedstaden,84,Humlebæk,3050,55.9618,12.5341
+1214,Region Hovedstaden,84,Espergærde,3060,56,12.5667
+1215,Region Hovedstaden,84,Snekkersten,3070,56.009,12.586
+1216,Region Hovedstaden,84,Tikøb,3080,56.0206,12.4531
+1217,Region Hovedstaden,84,Hornbæk,3100,56.0854,12.4505
+1218,Region Hovedstaden,84,Ålsgårde,3140,56.0756,12.5399
+1219,Region Hovedstaden,84,Hellebæk,3150,56.0682,12.5578
+1220,Region Hovedstaden,84,Græsted,3230,56.0656,12.2851
+1221,Region Hovedstaden,84,Fredensborg,3480,55.9756,12.4031
+1222,Region Hovedstaden,84,Kvistgård,3490,55.9935,12.5045
+1223,Region Hovedstaden,84,Helsinge,3200,56.0228,12.1975
+1224,Region Hovedstaden,84,Græsted,3230,56.0656,12.2851
+1225,Region Hovedstaden,84,Ølsted,3310,55.9232,12.0707
+1226,Region Hovedstaden,84,Skævinge,3320,55.9079,12.1504
+1227,Region Hovedstaden,84,Gørløse,3330,55.8852,12.1982
+1228,Region Hovedstaden,84,Hillerød,3400,55.9279,12.3008
+1229,Region Hovedstaden,84,Allerød,3450,55.8703,12.3574
+1230,Region Hovedstaden,84,Fredensborg,3480,55.9756,12.4031
+1231,Region Hovedstaden,84,Lynge,3540,55.8394,12.2772
+1232,Region Hovedstaden,84,Slangerup,3550,55.85,12.1833
+1233,Region Hovedstaden,84,Frederikssund,3600,55.8396,12.069
+1234,Region Hovedstaden,84,Vedbæk,2950,55.8473,12.5689
+1235,Region Hovedstaden,84,Rungsted Kyst,2960,55.8349,12.5451
+1236,Region Hovedstaden,84,Hørsholm,2970,55.881,12.5011
+1237,Region Hovedstaden,84,Kokkedal,2980,55.9118,12.4995
+1238,Region Hovedstaden,84,Kongens Lyngby,2800,55.7704,12.5038
+1239,Region Hovedstaden,84,Virum,2830,55.7949,12.451
+1240,Region Hovedstaden,84,Holte,2840,55.8167,12.4667
+1241,Region Hovedstaden,84,Nærum,2850,55.816,12.5385
+1242,Region Hovedstaden,84,Skodsborg,2942,55.8225,12.5732
+1243,Region Hovedstaden,84,Vedbæk,2950,55.8473,12.5689
+1244,Region Hovedstaden,84,Hørsholm,2970,55.881,12.5011
+1245,Region Hovedstaden,84,Birkerød,3460,55.8476,12.4279
+1246,Region Hovedstaden,84,Ballerup,2750,55.7316,12.3633
+1247,Region Hovedstaden,84,Smørum,2765,55.7423,12.3028
+1248,Region Hovedstaden,84,Værløse,3500,55.7825,12.3686
+1249,Region Hovedstaden,84,Farum,3520,55.8086,12.3607
+1250,Region Hovedstaden,84,Lynge,3540,55.8394,12.2772
+1251,Region Hovedstaden,84,Slangerup,3550,55.85,12.1833
+1252,Region Hovedstaden,84,Ølstykke,3650,55.7916,12.145
+1253,Region Hovedstaden,84,Stenløse,3660,55.7683,12.1972
+1254,Region Hovedstaden,84,Veksø Sjælland,3670,55.8223,12.0862
+1255,Region Hovedstaden,84,Slangerup,3550,55.85,12.1833
+1256,Region Hovedstaden,84,Frederikssund,3600,55.8396,12.069
+1257,Region Hovedstaden,84,Jægerspris,3630,55.8554,11.9679
+1258,Region Hovedstaden,84,Skibby,4050,55.7512,11.9608
+1259,Region Hovedstaden,84,Frederiksværk,3300,55.9707,12.0225
+1260,Region Hovedstaden,84,Ølsted,3310,55.9232,12.0707
+1261,Region Hovedstaden,84,Skævinge,3320,55.9079,12.1504
+1262,Region Hovedstaden,84,Liseleje,3360,56.0053,11.9483
+1263,Region Hovedstaden,84,Melby,3370,55.9962,11.9676
+1264,Region Hovedstaden,84,Hundested,3390,55.9667,11.8667
+1265,Region Hovedstaden,84,Frederikssund,3600,55.8396,12.069
+1266,Region Hovedstaden,84,Hornbæk,3100,56.0854,12.4505
+1267,Region Hovedstaden,84,Dronningmølle,3120,56.0949,12.3852
+1268,Region Hovedstaden,84,Helsinge,3200,56.0228,12.1975
+1269,Region Hovedstaden,84,Vejby,3210,56.0639,12.1419
+1270,Region Hovedstaden,84,Tisvildeleje,3220,56.0598,12.0741
+1271,Region Hovedstaden,84,Græsted,3230,56.0656,12.2851
+1272,Region Hovedstaden,84,Gilleleje,3250,56.122,12.3106
+1273,Region Hovedstaden,84,Frederiksværk,3300,55.9707,12.0225
+1274,Region Hovedstaden,84,Rønne,3700,55.1009,14.7066
+1275,Region Hovedstaden,84,Aakirkeby,3720,55.0708,14.9198
+1276,Region Hovedstaden,84,Nexø,3730,55.0607,15.1306
+1277,Region Hovedstaden,84,Svaneke,3740,55.1357,15.1414
+1278,Region Hovedstaden,84,Østermarie,3751,55.1407,15.0125
+1279,Region Hovedstaden,84,Gudhjem,3760,55.2105,14.9713
+1280,Region Hovedstaden,84,Allinge,3770,55.2759,14.8024
+1281,Region Hovedstaden,84,Klemensker,3782,55.1727,14.8099
+1282,Region Hovedstaden,84,Hasle,3790,55.1821,14.7112
+1283,Region Hovedstaden,84,Gudhjem,3760,55.2105,14.9713
+1284,Region Sjælland,85,Hedehusene,2640,55.647,12.1936
+1285,Region Sjælland,85,Greve,2670,55.5833,12.3
+1286,Region Sjælland,85,Karlslunde,2690,55.5726,12.2258
+1287,Region Sjælland,85,Tune,4030,55.5953,12.1832
+1288,Region Sjælland,85,Ringsted,4100,55.4426,11.7901
+1289,Region Sjælland,85,Viby Sjælland,4130,55.5487,12.0239
+1290,Region Sjælland,85,Borup,4140,55.4947,11.9758
+1291,Region Sjælland,85,Jystrup Midtsj,4174,55.4082,11.6872
+1292,Region Sjælland,85,Lejre,4320,55.6046,11.9748
+1293,Region Sjælland,85,Køge,4600,55.458,12.1821
+1294,Region Sjælland,85,Lille Skensved,4623,55.5098,12.1351
+1295,Region Sjælland,85,Bjæverskov,4632,55.4576,12.0365
+1296,Region Sjælland,85,Herfølge,4681,55.4137,12.1433
+1297,Region Sjælland,85,Tureby,4682,55.373,12.0769
+1298,Region Sjælland,85,Hedehusene,2640,55.647,12.1936
+1299,Region Sjælland,85,Veksø Sjælland,3670,55.8223,12.0862
+1300,Region Sjælland,85,Roskilde,4000,55.6415,12.0803
+1301,Region Sjælland,85,Tune,4030,55.5953,12.1832
+1302,Region Sjælland,85,Jyllinge,4040,55.7584,12.1123
+1303,Region Sjælland,85,Viby Sjælland,4130,55.5487,12.0239
+1304,Region Sjælland,85,Borup,4140,55.4947,11.9758
+1305,Region Sjælland,85,Lejre,4320,55.6046,11.9748
+1306,Region Sjælland,85,Gadstrup,4621,55.5678,12.0891
+1307,Region Sjælland,85,Havdrup,4622,55.5448,12.1239
+1308,Region Sjælland,85,Lille Skensved,4623,55.5098,12.1351
+1309,Region Sjælland,85,Solrød Strand,2680,55.5329,12.2223
+1310,Region Sjælland,85,Karlslunde,2690,55.5726,12.2258
+1311,Region Sjælland,85,Havdrup,4622,55.5448,12.1239
+1312,Region Sjælland,85,Lille Skensved,4623,55.5098,12.1351
+1313,Region Sjælland,85,Nykøbing Sj,4500,55.7951,11.4991
+1314,Region Sjælland,85,Hørve,4534,55.7529,11.453
+1315,Region Sjælland,85,Fårevejle,4540,55.8,11.45
+1316,Region Sjælland,85,Asnæs,4550,55.8123,11.5013
+1317,Region Sjælland,85,Vig,4560,55.8508,11.5856
+1318,Region Sjælland,85,Grevinge,4571,55.8008,11.5516
+1319,Region Sjælland,85,Nørre Asmindrup,4572,55.8872,11.623
+1320,Region Sjælland,85,Højby,4573,55.9115,11.5976
+1321,Region Sjælland,85,Rørvig,4581,55.944,11.7527
+1322,Region Sjælland,85,Sjællands Odde,4583,55.944,11.7527
+1323,Region Sjælland,85,Føllenslev,4591,55.7255,11.3508
+1324,Region Sjælland,85,Ringsted,4100,55.4426,11.7901
+1325,Region Sjælland,85,Stenlille,4295,55.5402,11.5915
+1326,Region Sjælland,85,Nyrup,4296,55.4947,11.3623
+1327,Region Sjælland,85,Holbæk,4300,55.7135,11.7169
+1328,Region Sjælland,85,Hvalsø,4330,55.5917,11.8625
+1329,Region Sjælland,85,Tølløse,4340,55.6125,11.7703
+1330,Region Sjælland,85,Ugerløse,4350,55.5871,11.6541
+1331,Region Sjælland,85,Kirke Eskilstrup,4360,55.5746,11.7672
+1332,Region Sjælland,85,Store Merløse,4370,55.5438,11.713
+1333,Region Sjælland,85,Vipperød,4390,55.6677,11.7397
+1334,Region Sjælland,85,Regstrup,4420,55.6756,11.6157
+1335,Region Sjælland,85,Mørkøv,4440,55.6517,11.5015
+1336,Region Sjælland,85,Jyderup,4450,55.664,11.4203
+1337,Region Sjælland,85,Snertinge,4460,55.7149,11.3833
+1338,Region Sjælland,85,Svebølle,4470,55.6368,11.3172
+1339,Region Sjælland,85,Svinninge,4520,55.7211,11.4655
+1340,Region Sjælland,85,Gislinge,4532,55.7343,11.5484
+1341,Region Sjælland,85,Ringsted,4100,55.4426,11.7901
+1342,Region Sjælland,85,Herlufmagle,4160,55.3132,11.7523
+1343,Region Sjælland,85,Faxe,4640,55.2469,12.1176
+1344,Region Sjælland,85,Hårlev,4652,55.3494,12.2338
+1345,Region Sjælland,85,Karise,4653,55.3028,12.2086
+1346,Region Sjælland,85,Faxe Ladeplads,4654,55.3261,12.2212
+1347,Region Sjælland,85,Tureby,4682,55.373,12.0769
+1348,Region Sjælland,85,Rønnede,4683,55.2571,12.0212
+1349,Region Sjælland,85,Holmegaard,4684,55.3411,12.0694
+1350,Region Sjælland,85,Haslev,4690,55.3235,11.9639
+1351,Region Sjælland,85,Tappernøje,4733,55.165,11.9787
+1352,Region Sjælland,85,Slagelse,4200,55.4028,11.3546
+1353,Region Sjælland,85,Høng,4270,55.5116,11.2903
+1354,Region Sjælland,85,Gørlev,4281,55.5393,11.2271
+1355,Region Sjælland,85,Ruds Vedby,4291,55.5409,11.3796
+1356,Region Sjælland,85,Dianalund,4293,55.5313,11.4925
+1357,Region Sjælland,85,Kalundborg,4400,55.6795,11.0886
+1358,Region Sjælland,85,Jyderup,4450,55.664,11.4203
+1359,Region Sjælland,85,Snertinge,4460,55.7149,11.3833
+1360,Region Sjælland,85,Svebølle,4470,55.6368,11.3172
+1361,Region Sjælland,85,Store Fuglede,4480,55.5852,11.2454
+1362,Region Sjælland,85,Jerslev Sjælland,4490,55.6105,11.2406
+1363,Region Sjælland,85,Hørve,4534,55.7529,11.453
+1364,Region Sjælland,85,Føllenslev,4591,55.7255,11.3508
+1365,Region Sjælland,85,Sejerø,4592,55.7213,11.3354
+1366,Region Sjælland,85,Eskebjerg,4593,55.713,11.3045
+1367,Region Sjælland,85,Ringsted,4100,55.4426,11.7901
+1368,Region Sjælland,85,Borup,4140,55.4947,11.9758
+1369,Region Sjælland,85,Fjenneslev,4173,55.4339,11.688
+1370,Region Sjælland,85,Jystrup Midtsj,4174,55.4082,11.6872
+1371,Region Sjælland,85,Sorø,4180,55.4318,11.5555
+1372,Region Sjælland,85,Hvalsø,4330,55.5917,11.8625
+1373,Region Sjælland,85,Kirke Eskilstrup,4360,55.5746,11.7672
+1374,Region Sjælland,85,Store Merløse,4370,55.5438,11.713
+1375,Region Sjælland,85,Haslev,4690,55.3235,11.9639
+1376,Region Sjælland,85,Sorø,4180,55.4318,11.5555
+1377,Region Sjælland,85,Munke Bjergby,4190,55.5037,11.5317
+1378,Region Sjælland,85,Slagelse,4200,55.4028,11.3546
+1379,Region Sjælland,85,Korsør,4220,55.3299,11.1386
+1380,Region Sjælland,85,Skælskør,4230,55.2506,11.2935
+1381,Region Sjælland,85,Vemmelev,4241,55.3553,11.2471
+1382,Region Sjælland,85,Boeslunde,4242,55.3008,11.2712
+1383,Region Sjælland,85,Rude,4243,55.2307,11.4692
+1384,Region Sjælland,85,Fuglebjerg,4250,55.306,11.5477
+1385,Region Sjælland,85,Dalmose,4261,55.2942,11.4184
+1386,Region Sjælland,85,Sandved,4262,55.263,11.5217
+1387,Region Sjælland,85,Høng,4270,55.5116,11.2903
+1388,Region Sjælland,85,Køge,4600,55.458,12.1821
+1389,Region Sjælland,85,Hårlev,4652,55.3494,12.2338
+1390,Region Sjælland,85,Karise,4653,55.3028,12.2086
+1391,Region Sjælland,85,Store Heddinge,4660,55.3096,12.3888
+1392,Region Sjælland,85,Strøby,4671,55.3834,12.2811
+1393,Region Sjælland,85,Klippinge,4672,55.3482,12.3258
+1394,Region Sjælland,85,Rødvig Stevns,4673,55.2554,12.3794
+1395,Region Sjælland,85,Tureby,4682,55.373,12.0769
+1396,Region Sjælland,85,Ringsted,4100,55.4426,11.7901
+1397,Region Sjælland,85,Fjenneslev,4173,55.4339,11.688
+1398,Region Sjælland,85,Sorø,4180,55.4318,11.5555
+1399,Region Sjælland,85,Munke Bjergby,4190,55.5037,11.5317
+1400,Region Sjælland,85,Slagelse,4200,55.4028,11.3546
+1401,Region Sjælland,85,Ruds Vedby,4291,55.5409,11.3796
+1402,Region Sjælland,85,Dianalund,4293,55.5313,11.4925
+1403,Region Sjælland,85,Stenlille,4295,55.5402,11.5915
+1404,Region Sjælland,85,Nyrup,4296,55.4947,11.3623
+1405,Region Sjælland,85,Store Merløse,4370,55.5438,11.713
+1406,Region Sjælland,85,Roskilde,4000,55.6415,12.0803
+1407,Region Sjælland,85,Kirke Såby,4060,55.6339,11.8712
+1408,Region Sjælland,85,Kirke Hyllinge,4070,55.7067,11.9002
+1409,Region Sjælland,85,Lejre,4320,55.6046,11.9748
+1410,Region Sjælland,85,Hvalsø,4330,55.5917,11.8625
+1411,Region Sjælland,85,Tølløse,4340,55.6125,11.7703
+1412,Region Sjælland,85,Øster Ulslev,4894,54.6984,11.6267
+1413,Region Sjælland,85,Errindlev,4895,54.669,11.4951
+1414,Region Sjælland,85,Nakskov,4900,54.8373,11.1284
+1415,Region Sjælland,85,Harpelunde,4912,54.8865,11.0911
+1416,Region Sjælland,85,Horslunde,4913,54.9118,11.2165
+1417,Region Sjælland,85,Søllested,4920,54.8102,11.2712
+1418,Region Sjælland,85,Maribo,4930,54.7766,11.5002
+1419,Region Sjælland,85,Bandholm,4941,54.8365,11.4831
+1420,Region Sjælland,85,Torrig L,4943,54.8365,11.4831
+1421,Region Sjælland,85,Fejø,4944,54.8365,11.4831
+1422,Region Sjælland,85,Nørreballe,4951,54.8059,11.4304
+1423,Region Sjælland,85,Stokkemarke,4952,54.8381,11.3603
+1424,Region Sjælland,85,Vesterborg,4953,54.8484,11.2796
+1425,Region Sjælland,85,Holeby,4960,54.7115,11.4642
+1426,Region Sjælland,85,Rødby,4970,54.695,11.3888
+1427,Region Sjælland,85,Dannemare,4983,54.7624,11.1873
+1428,Region Sjælland,85,Ringsted,4100,55.4426,11.7901
+1429,Region Sjælland,85,Herlufmagle,4160,55.3132,11.7523
+1430,Region Sjælland,85,Glumsø,4171,55.3568,11.6856
+1431,Region Sjælland,85,Slagelse,4200,55.4028,11.3546
+1432,Region Sjælland,85,Rude,4243,55.2307,11.4692
+1433,Region Sjælland,85,Fuglebjerg,4250,55.306,11.5477
+1434,Region Sjælland,85,Dalmose,4261,55.2942,11.4184
+1435,Region Sjælland,85,Sandved,4262,55.263,11.5217
+1436,Region Sjælland,85,Faxe,4640,55.2469,12.1176
+1437,Region Sjælland,85,Rønnede,4683,55.2571,12.0212
+1438,Region Sjælland,85,Holmegaard,4684,55.3411,12.0694
+1439,Region Sjælland,85,Haslev,4690,55.3235,11.9639
+1440,Region Sjælland,85,Næstved,4700,55.2299,11.7609
+1441,Region Sjælland,85,Tappernøje,4733,55.165,11.9787
+1442,Region Sjælland,85,Karrebæksminde,4736,55.1816,11.647
+1443,Region Sjælland,85,Lundby,4750,55.1089,11.8747
+1444,Region Sjælland,85,Nykøbing F,4800,54.7533,11.8179
+1445,Region Sjælland,85,Nørre Alslev,4840,54.8978,11.8841
+1446,Region Sjælland,85,Stubbekøbing,4850,54.8888,12.041
+1447,Region Sjælland,85,Guldborg,4862,54.8679,11.7392
+1448,Region Sjælland,85,Eskilstrup,4863,54.8557,11.8867
+1449,Region Sjælland,85,Horbelev,4871,54.823,12.0584
+1450,Region Sjælland,85,Idestrup,4872,54.7431,11.9567
+1451,Region Sjælland,85,Væggerløse,4873,54.7124,11.9255
+1452,Region Sjælland,85,Gedser,4874,54.5764,11.93
+1453,Region Sjælland,85,Nysted,4880,54.6651,11.7343
+1454,Region Sjælland,85,Toreby L,4891,54.6906,11.6192
+1455,Region Sjælland,85,Kettinge,4892,54.6967,11.7283
+1456,Region Sjælland,85,Øster Ulslev,4894,54.6984,11.6267
+1457,Region Sjælland,85,Maribo,4930,54.7766,11.5002
+1458,Region Sjælland,85,Sakskøbing,4990,54.7997,11.626
+1459,Region Sjælland,85,Præstø,4720,55.1178,12.0573
+1460,Region Sjælland,85,Tappernøje,4733,55.165,11.9787
+1461,Region Sjælland,85,Mern,4735,55.0482,12.0556
+1462,Region Sjælland,85,Lundby,4750,55.1089,11.8747
+1463,Region Sjælland,85,Vordingborg,4760,55.008,11.9106
+1464,Region Sjælland,85,Kalvehave,4771,54.9973,12.1685
+1465,Region Sjælland,85,Langebæk,4772,54.9965,12.0899
+1466,Region Sjælland,85,Stensved,4773,54.9971,12.0298
+1467,Region Sjælland,85,Stege,4780,54.987,12.2846
+1468,Region Sjælland,85,Borre,4791,54.9959,12.4463
+1469,Region Sjælland,85,Askeby,4792,54.9239,12.1771
+1470,Region Sjælland,85,Bogø By,4793,54.923,12.051

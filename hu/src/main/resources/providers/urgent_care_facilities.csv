@@ -1,0 +1,417 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,20000,400 ágyas klinika,Ifjúság útja 13,Pécs,Baranya,7624,,,,,Yes,,46.0750451,18.2070318
+1,20001,5/2,,Budapest,Budapest,1121,,,,,,,47.4897014,18.9569958
+2,20002,A. épület,Győri út 15,Sopron,Győr-moson-sopron,9400,,,,,,,47.6765585,16.5973818
+3,20003,Albert Schweitzer Kórház,,Hatvan,Heves,3000,,,,,,,47.6712289,19.6815111
+4,20004,Albert Schweitzer Kórház,,Hatvan,Heves,3000,,,,,,,47.6705765,19.6811771
+5,20005,Almási Balogh Pál Kórház,,Ózd,Borsod-abaúj-zemplén,3600,,,,,,,48.2092951,20.290221
+6,20006,Arc- Állcsont- Szájsebészeti és Fogászati Klinika,Mária utca 52,Budapest,Budapest,1082,,,,,,,47.4876344,19.0688216
+7,20007,B. Braun Avitum 4. számú Dialízisközpont,,Kaposvár,Somogy,7400,,,,,,,46.3590587,17.7975935
+8,20008,B. épület,Győri út 15,Sopron,Győr-moson-sopron,9400,,,,,,,47.6756806,16.5997889
+9,20009,Balassa János Kórház,Béri Balogh Ádám utca 5-7,Szekszárd,Tolna,7100,,+3674501500,,,,,46.3452062,18.6974922
+10,20010,Balassa János Kórház,,Szekszárd,Tolna,7100,,,,,,,46.3457124,18.7013515
+11,20011,Baranya Megyei Kórház,Rákóczi út 2,Pécs,Baranya,7624,,,,,,,46.0722988,18.2196927
+12,20012,Bethesda Gyermekkórház,Bethesda utca 3,Budapest,Budapest,1148,,+3613649020,,,,,47.5175802,19.0896899
+13,20013,Budai Gyermekkórház,Bolyai utca 5-9,Budapest,Budapest,1026,,,,,Yes,,47.517915,19.029753
+14,20014,Bugát Pál Kórház,Dózsa György utca 20,Gyöngyös,Heves,3200,,,,,Yes,,47.7889463,19.9297544
+15,20015,Bugát Pál Kórház,,Gyöngyös,Heves,3200,,,,,Yes,,47.7877141,19.9286501
+16,20016,Bácsalmási Egészségügyi Központ,,Bácsalmás,Bács-kiskun,6430,,,,,,,46.125762,19.3331702
+17,20017,"Bőr-, Nemikórtani és Onkodermatológiai Klinika",,Pécs,Baranya,7624,,,,,,,46.0804094,18.2161555
+18,20018,C. épület,Győri út 15,Sopron,Győr-moson-sopron,9400,,,,,,,47.6761066,16.6004936
+19,20019,Csatárka úti rendelő,,Budapest,Budapest,1026,,,,,,,47.5305198,19.0084153
+20,20020,Csolnoky Ferenc Kórház,,Veszprém,Veszprém,8200,,,,,,,47.0893375,17.9099736
+21,20021,D. épület,Győri út 15,Sopron,Győr-moson-sopron,9400,,,,,,,47.6759909,16.6004778
+22,20022,Da Vinci magánklinika,,Pécs,Baranya,7635,,,,,,,46.089855,18.2255847
+23,20023,Debreceni Egyetem Kenézy Gyula Kórház,,Debrecen,Hajdú-bihar,4027,,,,,Yes,,47.5341087,21.6055168
+24,20024,Dentalklinik & Laserklinik Dr. Tóka,,Sopron,Győr-moson-sopron,9400,,,,,No,,47.6963129,16.5817516
+25,20025,Detoxikáló,Lehel utca 59,Budapest,Budapest,1135,,,,,,,47.5278817,19.0813282
+26,20026,Deák Jenő Kórház,Ady Endre utca 1-3,Tapolca,Veszprém,8300,,+36 87 411-655,,,,,46.8845052,17.4414526
+27,20027,Diósgyőri Kórház,,Miskolc,Borsod-abaúj-zemplén,3525,,,,,,,48.0911889,20.7203154
+28,20028,Dorogi Szent Borbála Szakkórház,Kossuth Lajos utca 6,Dorog,Komárom-esztergom,2510,,,,,Yes,,47.7198608,18.7335302
+29,20029,Dr. Bugyi István Kórház,Sima Ferenc utca 44-58,Szentes,Csongrád,6600,,+36 63 313 244,,,Yes,,46.6641205,20.2507897
+30,20030,E. épület,Győri út 15,Sopron,Győr-moson-sopron,9400,,,,,,,47.677564,16.5997498
+31,20031,Egészségház,,Bogyiszló,Tolna,7132,,,,,,,46.3856686,18.8264442
+32,20032,Egészségház és Patika,Kossuth Lajos utca nan,Pap,Szabolcs-szatmár-bereg,4631,,,,,,,48.2183358,22.1407295
+33,20033,"Egészségügyi Központ (CT, MR)",Dr. Guba Sándor utca 40,Kaposvár,Somogy,7400,,,,,,,46.3829002,17.8256612
+34,20034,Egészségügyi központ,,Szakoly,Szabolcs-szatmár-bereg,4234,,,,,Yes,,47.7616914,21.9034194
+35,20035,Erzsébet Kórház,,Sátoraljaújhely,Borsod-abaúj-zemplén,3980,,,,,,,48.3987012,21.6498071
+36,20036,F. épület,Győri út 15,Sopron,Győr-moson-sopron,9400,,,,,,,47.6777035,16.59991
+37,20037,Fehérgyarmati Kórház és Gyógyfürdő,Damjanich utca 1,Fehérgyarmat,Szabolcs-szatmár-bereg,4900,,,,,,,47.9960519,22.5142596
+38,20038,Fejér Megyei Önkormányzat Szent György Kórháza és Rendelőintézete,,Sárbogárd,Fejér,7000,,,,,,,46.8891853,18.6179292
+39,20039,Fogászati és Szájsebészeti Klinika,,Pécs,Baranya,7621,,,,,,,46.0731468,18.2245357
+40,20040,Fül- Orr- Gégészeti és Fej- Nyaksebészeti Klinika,Tisza Lajos körút 111,Szeged,Csongrád,6720,,,,,,,46.2454724,20.1487527
+41,20041,Gottsegen György Országos Kardiológiai Intézet,Haller utca 29,Budapest,Budapest,1093,,+3612151220,,,Yes,,47.476838,19.0849676
+42,20042,Gróf Esterházy Kórház és Rendelőintézeti Szakrendelő,,Pápa,Veszprém,8500,,,,,,,47.3273624,17.4704257
+43,20043,Gróf Tisza István Kórház,,Berettyóújfalu,Hajdú-bihar,4100,,,,,,,47.2266519,21.5432495
+44,20044,"Gyermek és Ifjúság Pszichiátriai Gondozó, Vas megyei",11-es huszár út 130,Szombathely,Vas,9700,,+36 94 311 490,,,,,47.2466479,16.618732
+45,20045,Gyermekklinika,,Pécs,Baranya,7623,,,,,,,46.0696102,18.2224283
+46,20046,Gálfi Béla Szakkórház,,Pomáz,Pest,2013,,,,,,,47.665241,18.9655352
+47,20047,"HM 3. számú Rehabilitációs,. Krónikus Utókezelő osztály",,Budapest,Budapest,1121,,,,,,,47.5222705,18.9302386
+48,20048,Heim Pál Gyermekkórház,Üllői út 86,Budapest,Budapest,1089,,,,,,,47.4799241,19.0926209
+49,20049,Helikopter leszállóhely,Dózsa György út nan,Tatabánya,Komárom-esztergom,2800,,,,,,,47.5809705,18.3951421
+50,20050,Hetényi Géza Kórház,,Szolnok,Jász-nagykun-szolnok,5000,,,,,,,47.1544787,20.1700975
+51,20051,I. Sz. Gyermekgyógyászati Klinika,,Budapest,Budapest,1082,,,,,,,47.4845425,19.0782725
+52,20052,I. épület,Győri út 15,Sopron,Győr-moson-sopron,9400,,,,,,,47.6776296,16.597636
+53,20053,I. épület,Győri út 15,Sopron,Győr-moson-sopron,9400,,,,,,,47.6767703,16.5973462
+54,20054,II. Sz. Gyermekgyógyászati Klinika,,Budapest,Budapest,1093,,,,,,,47.483901,19.070546
+55,20055,II. épület,Győri út 15,Sopron,Győr-moson-sopron,9400,,,,,,,47.6760274,16.5983604
+56,20056,III. épület,Győri út 15,Sopron,Győr-moson-sopron,9400,,,,,Yes,,47.6766734,16.5984195
+57,20057,IV. épület,Győri út 15,Sopron,Győr-moson-sopron,9400,,,,,,,47.6755711,16.5990873
+58,20058,IX./A. épület,Győri út 15,Sopron,Győr-moson-sopron,9400,,,,,,,47.6781076,16.5980515
+59,20059,Ibrány-Nagyhalász Kistérségi Járóbeteg Szakellátó Intézet,,Ibrány,Szabolcs-szatmár-bereg,4484,,,,,,,48.1343871,21.7338982
+60,20060,Irgalmasrendi Kórház,,Budapest,Budapest,1026,,,,,,,47.5162084,19.0381383
+61,20061,Irgalmasrendi kórház,,Vác,Pest,2600,,,,,,,47.7786224,19.1255052
+62,20062,Irgalmasrendiek Kórháza,,Budapest,Budapest,1026,,,,,,,47.5192245,19.0364882
+63,20063,Izsófalvi Pszichiátriai Szakkórház,Mária táró 13,Izsófalva,Borsod-abaúj-zemplén,3741,,,,,,,48.3162931,20.6501421
+64,20064,Jahn Ferenc Dél-Pesti Kórház,,Budapest,Budapest,1202,,,,,,,47.4249336,19.1368276
+65,20065,Jahn Ferenc Dél-pesti Kórház Csepeli Weiss Manfréd Telephelye,Déli utca 11,,Budapest,,,+3612782060,,,,,47.4255591,19.0594773
+66,20066,Jahn Ferenc Rehabilitációs Centrum,Jáhn Ferenc utca 62-66,Budapest,Budapest,1196,,,,,No,,47.449706,19.1507978
+67,20067,Jánoshalmi Kistérségi Egészségügyi Központ,,Jánoshalma,Bács-kiskun,6440,,,,,,,46.2978004,19.3260349
+68,20068,Jávorszky Ödön Városi Kórház,,Vác,Pest,2600,,,,,Yes,,47.7821158,19.1498361
+69,20069,Jósa András Oktató Kórház és Szanatórium,Sóstói út 62,Nyíregyháza,Szabolcs-szatmár-bereg,4400,,,,,,,47.9794114,21.7171179
+70,20070,Jósa András Oktatókórház,Szent István utca 68,Nyíregyháza,Szabolcs-szatmár-bereg,4400,,+36 42 599 700;+36 42 506 800,,,Yes,,47.9522607,21.7298101
+71,20071,Kanizsai Dorottya kórház,Szekeres József utca 2-8,Nagykanizsa,Zala,8800,,+36 93 502 092,,,Yes,,46.4505899,16.9973638
+72,20072,Kaposi Mór Megyei Kórház,,Kaposvár,Somogy,7400,,,,,Yes,,46.3603655,17.7974317
+73,20073,Kaposi Mór Oktató Kórház Mosdósi Telephely,,Mosdós,Somogy,7257,,,,,,,46.355319,17.9921295
+74,20074,Kaposi Mór Oktató Kórház Tüdő és szívkórháza.,,Mosdós,Somogy,7257,,,,,,,46.354961,17.9940832
+75,20075,Kaposvári Egyetem Egészségügyi Központ - Sugárterápia,,Kaposvár,Somogy,7400,,,,,,,46.3818024,17.8252708
+76,20076,Karolina Kórház,,Mosonmagyaróvár,Győr-moson-sopron,9200,,,,,,,47.8739999,17.2693784
+77,20077,Kelen kórház,Than Károly utca 20,Budapest,Budapest,1114,,+3612050205,,,,,47.4614914,19.0260048
+78,20078,Kemenesaljai Egyesített Kórház,,Celldömölk,Vas,9500,,,,,,,47.2556246,17.1575056
+79,20079,Klinikai Központ,,Pécs,Baranya,7635,,,,,,,46.0783203,18.2099522
+80,20080,Koch Róbert Kórház és Rendelőintézet,,Edelény,Borsod-abaúj-zemplén,3780,,,,,,,48.2953779,20.7262414
+81,20081,Komárom-Esztergom Megyei Integrált Szociális Intézmény Pszichiátriai Betegek Otthona,Dr. Niedermann Gyula utca 1,Esztergom,Komárom-esztergom,2500,,,,,,,47.7553694,18.7370769
+82,20082,Korvin Ottó Kórház,,Budapest,Budapest,1077,,,,,,,47.5078535,19.0738347
+83,20083,Károlyi Sándor Kórház,Nyár utca 103,Budapest,Budapest,1042,,+361 369 2111,,,,,47.5585871,19.1043529
+84,20084,Kórház,Majális tér 1,Komló,Baranya,7300,,+36 72 582 340,,,,,46.187546,18.2724032
+85,20085,Körzeti Orvosi Rendelő (felnőtt),Corvin utca 5,Miskolc,Borsod-abaúj-zemplén,3525,,,,,,,48.0994073,20.7878476
+86,20086,Központi Orvosi Ügyelet,,Hajdúhadház,Hajdú-bihar,4242,,,,,,,47.6827709,21.6696619
+87,20087,Kútvölgyi Klinika,Kútvölgyi út 4,Budapest,Budapest,1124,,+3613251100,,,,,47.5117973,19.0041463
+88,20088,MH Egészségügyi Központ Podmaniczky utcai telephely,Podmaniczky utca 109-111,Budapest,Budapest,1067,,+36 1 465 1800,,,,,47.517433,19.0733221
+89,20089,Madarász Utcai Gyermekkórház,,Budapest,Budapest,1138,,,,,,,47.5493204,19.0745502
+90,20090,Magyar Honvédség Balatonfüredi Kardiológiai Rehabilitációs Intézet,,Balatonfüred,Veszprém,8230,,,,,,,46.9568514,17.8984525
+91,20091,Magyar Honvédség Egészségügyi Központ,,Kecskemét,Bács-kiskun,6000,,,,,,,46.9105724,19.678229
+92,20092,Magyar Imre Kórház,,Ajka,Veszprém,8400,,,,,,,47.1115353,17.5648937
+93,20093,Margit Kórház,Soproni út 46,Csorna,Győr-moson-sopron,9300,,,,,,,47.6104158,17.2471805
+94,20094,Markhot Ferenc Oktatókórház és Rendelőintézet,,Eger,Heves,3300,,,,,Yes,,47.9049144,20.3753925
+95,20095,Markusovszky Kórház,,Szombathely,Vas,9700,,,,,Yes,,47.2361436,16.6179525
+96,20096,Merényi Gusztáv Kórház,Gyáli út 17,Budapest,Budapest,1097,,,,,,,47.4681746,19.1008441
+97,20097,Misszió Egészségügyi Központ,,Veresegyház,Pest,2112,,+36-28-389-625,,,,,47.6624144,19.2723772
+98,20098,Művese Állomás,,Debrecen,Hajdú-bihar,4032,,,,,,,47.5569508,21.6244729
+99,20099,N. épület,Győri út 15,Sopron,Győr-moson-sopron,9400,,,,,,,47.6770139,16.6009069
+100,20100,Nagyatádi Kórház,Bajcsy-Zsilinszky Endre utca 1,Nagyatád,Somogy,7500,,+3682 / 504 – 400,,,,,46.232669,17.3612229
+101,20101,Nyírő Gyula Kórház - OPAI - Tüdőszűrő állomás,Dévai utca 15/a,Budapest,Budapest,1137,,,,,,,47.5181659,19.0664477
+102,20102,Orosháza Kórház,Könd utca 59,Orosháza,Békés,5900,,,,,,,46.5597381,20.65757
+103,20103,Országos Gerincgyógyászati Központ,Királyhágó utca 1-3,Budapest,Budapest,1124,,,,,,,47.4962338,19.0234425
+104,20104,Országos Klinikai Idegtudományi Intézet,Amerikai út 57,Budapest,Budapest,1145,,,,,,,47.5189703,19.098039
+105,20105,Országos Onkológiai Intézet,Kék Golyó utca 13,Budapest,Budapest,1124,,,,,,,47.5006716,19.0226009
+106,20106,Országos Traumatológiai Intézet,Fiumei út 17,Budapest,Budapest,1081,,,,,Yes,,47.4965437,19.0803534
+107,20107,Orvosi rendelő,Kossuth Lajos utca nan,Balatonfőkajár,Veszprém,8164,,,,,,,47.0185181,18.2118448
+108,20108,Orvosi Ügyelet,,Komló,Baranya,7300,,+36 72 481 510,,,,,46.1906078,18.2640969
+109,20109,PTE Akác utcai klinikai tömb,,Pécs,Baranya,7632,,,,,,,46.0533374,18.228503
+110,20110,PTE Szülészeti és Nőgyógyászati Klinika,Édesanyák útja 17,Pécs,Baranya,7635,,,,,,,46.0791788,18.2102403
+111,20111,Petri Gábor Klinikai Tömb,Semmelweis utca 8,Szeged,Csongrád,6720,,,,,,,46.2444289,20.1467857
+112,20112,Petz Aladár Megyei Oktató Kórház,Zrínyi utca 13,Győr,Győr-moson-sopron,9021,,,,,,,47.6777378,17.637611
+113,20113,Petz Aladár Megyei Oktató Kórház - Reumatológiai Osztály,,Győr,Győr-moson-sopron,9021,,,,,,,47.6875213,17.6265795
+114,20114,"Petz Aladár Megyei Oktató Kórház Pszichiátriai, Mentálhigiénés és Addiktológiai Osztály",Győri út 10,Tét,Győr-moson-sopron,9100,,+36-96 461-566,,,,,47.5160219,17.5162165
+115,20115,Pető Intézet,Kútvölgyi út 6,Budapest,Budapest,1124,,+3612241510,,,,,47.5124359,19.0022964
+116,20116,Pszichiátria,Lehel utca 59,Budapest,Budapest,1135,,,,,,,47.5290063,19.0814946
+117,20117,Pszichiátriai rehabilitációs intézet Intaháza,Intaháza nan,Mesteri,Vas,9551,,+36-95/445-070,,,No,,47.2539267,17.0845902
+118,20118,Pécsi Irgalmasrendi Kórház,,Pécs,Baranya,7621,,,,,,,46.0749729,18.2289541
+119,20119,Péterfy Sándor Utcai Kórház,,Budapest,Budapest,1077,,,,,,,47.5013619,19.0781538
+120,20120,Péterfy Sándor Utcai Kórház Alsóerdősori Telephelye,,Budapest,Budapest,1077,,,,,,,47.5015142,19.0751283
+121,20121,Rendelőintézet,Rákóczi Ferenc út 30,Sárvár,Vas,9600,,,,,,,47.2491525,16.9418594
+122,20122,Rendelőintézet,Csárda utca 1,Balatonfüred,Veszprém,8230,,+36 87 580 886;+36 87 580 888,,,,,46.9623676,17.8745306
+123,20123,Semmelweis Egyetem Külső Klinikai Tömb,,Budapest,Budapest,1083,,,,,,,47.4837255,19.0801072
+124,20124,Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház,Csabai kapu 9-11,Miskolc,Borsod-abaúj-zemplén,3529,,,,,,,48.0927462,20.7859082
+125,20125,Semmelweis Kórház,,Kiskunhalas,Bács-kiskun,6400,,,,,Yes,,46.4327513,19.4726907
+126,20126,Siófoki Kórház-Rendelőintézet,Semmelweis utca 1,Siófok,Somogy,8600,,+36 84 501 700,,,,,46.9015053,18.0448227
+127,20127,Soproni Erzsébet Oktató Kórház,Győri út 15,Sopron,Győr-moson-sopron,9400,,,,,,,47.677207,16.5966363
+128,20128,Soproni Rehabilitációs Gyógyintézet,Várisi út 2,Sopron,Győr-moson-sopron,9400,,,,,,,47.6685821,16.5796215
+129,20129,Szabolcs-Szatmár-Bereg Megyei Kórházak Mátészalkai Kórház,,Mátészalka,Szabolcs-szatmár-bereg,4700,,,,,,,47.9560447,22.3172563
+130,20130,Szeged MJV Önkormányzatának Kórháza,,Szeged,Csongrád,6720,,,,,,,46.2537604,20.1241866
+131,20131,Szent Borbála Kórház,,Tatabánya,Komárom-esztergom,2800,,,,,,,47.5799131,18.3914258
+132,20132,Szent Borbála Kórház Szanatórium,,Tatabánya,Komárom-esztergom,2800,,,,,,,47.6002821,18.3962884
+133,20133,Szent Ferenc Kórház,Széher út 73,Budapest,Budapest,1021,,,,,,,47.5270252,18.9754859
+134,20134,Szent Györgyi Albert Klinikai Központ,,Szeged,Csongrád,6720,,,,,,,46.2485493,20.151194
+135,20135,Szent Imre Kórház,Tétényi út 12-16,Budapest,Budapest,1116,,+36 1 464-8600,,,,,47.4706967,19.0362299
+136,20136,Szent István Kórház,Nagyvárad tér 1,Budapest,Budapest,1097,,,,,,,47.4787443,19.089022
+137,20137,Szent Kozma és Damján Rehabilitációs Szakkórház,,Visegrád,Pest,2025,,+36 26 801 700,,,,,47.7606707,18.944453
+138,20138,Szent Lukács kórház,,Dombóvár,Tolna,7200,,,,,,,46.3829837,18.1456461
+139,20139,Szent László Kórház,Albert Flórián út 5-7,Budapest,Budapest,1097,,,,,,,47.4761643,19.09186
+140,20140,Szent Lázár Megyei Kórház,,Salgótarján,Nógrád,3100,,,,,,,48.116569,19.8086999
+141,20141,Szent Pantaleon kórház,Korányi Sándor utca 6,Dunaújváros,Fejér,2400,,,,,Yes,,46.9649959,18.9430467
+142,20142,Szent Rókus Kórház,Gyulai Pál utca 2-4,Budapest,Budapest,1082,,,,,,,47.494453,19.0680281
+143,20143,Szigetvári Városi Kórház és Rendelőintézet,,Szigetvár,Baranya,7900,,,,,,,46.0531844,17.7894725
+144,20144,Szociális Otthon,Dózsa György út 65,Gödöllő,Pest,2100,,,,,,,47.6096696,19.3363562
+145,20145,Szociális Otthon,,Veresegyház,Pest,2112,,,,,,,47.6601522,19.2818311
+146,20146,Szt. Erzsébet Kórház,,Jászberény,Jász-nagykun-szolnok,5100,,,,,,,47.4943555,19.9115379
+147,20147,Százhalom Egészségügyi Központ,,Százhalombatta,Pest,2440,,,,,Yes,,47.3220474,18.9093872
+148,20148,Szécsény Kistérségi Rendelőintézet,,Szécsény,Nógrád,3170,,,,,,,48.0819551,19.5145724
+149,20149,Szívgyógyászati Klinika,Ifjúság útja 13,Pécs,Baranya,7622,,,,,,,46.0750509,18.2043677
+150,20150,Szülészet,,Pécs,Baranya,7621,,,,,,,46.0731122,18.2239332
+151,20151,Toldy Ferenc kórház,,Cegléd,Pest,2700,,,,,,,47.1709745,19.8202807
+152,20152,Tüdőkórház,,Sarkad,Békés,5720,,,,,,,46.704437,21.3192464
+153,20153,Uzsoki Utcai Kórház,Uzsoki utca 29-41,Budapest,Budapest,1148,,,,,,,47.5215417,19.1004749
+154,20154,V. épület,Győri út 15,Sopron,Győr-moson-sopron,9400,,,,,,,47.6761376,16.5994479
+155,20155,VI. épület,Győri út 15,Sopron,Győr-moson-sopron,9400,,,,,,,47.676823,16.5991893
+156,20156,Vadaskert Alapítvány,Lipótmezei út 1-5,Budapest,Budapest,1061,,,,,No,,47.5302573,18.9758879
+157,20157,Vas Megyei Rehabilitációs Kórház,Hunyadi János utca 31,Szentgotthárd,Vas,9970,,,,,,,46.9552735,16.2649081
+158,20158,Vaszary Kolos Kórház,Petőfi Sándor utca 26-28,Esztergom,Komárom-esztergom,2500,,,,,Yes,,47.791445,18.7458029
+159,20159,Vasútegészségügyi Rehabilitációs Intézet,,Balatonfüred,Veszprém,8230,,,,,,,46.9591463,17.8971148
+160,20160,Vámospércs Kistérségi Járóbeteg Rendelőintézet,Piac utca nan,Vámospércs,Hajdú-bihar,4287,,,,,,,47.523269,21.9012269
+161,20161,Városi Kórház Keszthely,Ady Endre utca 2,Keszthely,Zala,8360,,+36 83 311 060,,,Yes,,46.7685453,17.2532738
+162,20162,Városi Kórház és Rendelőintézet,Fadrusz János utca 4,Kiskunfélegyháza,Bács-kiskun,6100,,,,,,,46.7110471,19.8379836
+163,20163,Városi Szakorvosi Rendelőintézet,,Mezőkövesd,Borsod-abaúj-zemplén,3400,,,,,,,47.8064794,20.5650725
+164,20164,Vásárosnaményi Kórház,Ady Endre utca 5,Vásárosnamény,Szabolcs-szatmár-bereg,4800,,+36 45 570 770,,,No,,48.1291307,22.3078358
+165,20165,Zala Megyei Kórház,,Zalaegerszeg,Zala,8900,,,,,,,46.8349099,16.8468204
+166,20166,"Zala Megyei Kórház, Pózvai telephely",,Zalaegerszeg,Zala,8900,,,,,,,46.8744944,16.8569427
+167,20167,Zirci Erzsébet Kórház - Rendelőintézet,József Attila utca 17,Zirc,Veszprém,8420,,,,,,,47.2610532,17.8658086
+168,20168,ll. Belgyógyászati Klinika és Nephrológiai Centrum,,Pécs,Baranya,7635,,,,,,,46.0762767,18.205169
+169,20169,orvosi rendelő,Kölcsey Ferenc utca 42/A,Baja,Bács-kiskun,6500,,,,,,,46.1848051,18.9454143
+170,20170,Állatkórház,Alpári Gáspár utca 6,Szigetvár,Baranya,7900,,,,,,,46.0525209,17.8000721
+171,20171,Állatorvosi rendelő,,Gönyű,Győr-moson-sopron,9071,,,,,,,47.7328466,17.8335438
+172,20172,Árpád-házi Szent Erzsébet Szakkórház,Hősök tere 2,Tata,Komárom-esztergom,2890,,,,,,,47.6460463,18.315505
+173,20173,Árpád-házi Szent Erzsébet kórházkápolna,Győri út 15,Sopron,Győr-moson-sopron,9400,,,,,,,47.6772896,16.5968499
+174,20174,Érsebészeti Klinika,,Budapest,Budapest,1124,,,,,,,47.5065058,19.0134749
+175,20175,Újklinika,Semmelweis utca 6,Szeged,Csongrád,6720,,,,,,,46.2451419,20.1471098
+176,20176,Újpesti Szakorvosi Rendelőintézet,Görgey Artúr út 30,Budapest,Budapest,1042,,+3613694777,,,No,,47.5658495,19.1001263
+177,20177,Újszegedi Gyermekkórház,Temesvári körút 35-37,Szeged,Csongrád,6720,,,,,,,46.2448219,20.161918
+178,20178,épülő Egészségközpont,,Tahitótfalu,Pest,2021,,,,,,,47.7534805,19.0762696
+179,20179,3. sz. körzet orvosi rendelő,,Nyíregyháza,Szabolcs-szatmár-bereg,4400,,,,,,,47.9492526,21.6930005
+180,20180,Ady Endre utcai Körzeti Orvosi rendelő,,Celldömölk,Vas,9500,,,,,,,47.2574424,17.1485199
+181,20181,Affidea for men,Sasadi út 184,Budapest,Budapest,1114,,,,,,,47.4808426,18.9990273
+182,20182,Alsósági Orvosi Rendelő,,Celldömölk,Vas,9500,,,,,,,47.2356646,17.1390845
+183,20183,Auróra utcai rendelőintézet,,Budapest,Budapest,1082,,,,,,,47.4926071,19.0770494
+184,20184,Barnag Orvosi rendelő,,Barnag,Veszprém,8291,,,,,,,46.9779021,17.743156
+185,20185,Belgyógyászati szakrendelés,Sáfrány utca 16,Budapest,Budapest,1114,,,,,,,47.4496504,19.0334647
+186,20186,Borostyán Gyógyközpont,Keszüi út 76,Pécs,Baranya,7632,,,,,,,46.0472268,18.2155336
+187,20187,Bőrgyógyász,,Tiszafüred,Jász-nagykun-szolnok,5350,,,,,,,47.6151439,20.7631365
+188,20188,Csabdi orvosi rendelő,,Csabdi,Fejér,2064,,+36 30 444 7755,,,,,47.5190384,18.6132711
+189,20189,Csecsemő és Gyermekorvosi Rendelő,Béla király körtér nan,Tatabánya,Komárom-esztergom,2800,,,,,,,47.5844303,18.4008469
+190,20190,Dr. Romics László Egészségügyi Intézmény,Felső utca 39-41,Érd,Pest,2030,,,,,,,47.3734125,18.9207697
+191,20191,Dr. Szarka Ödön Egyesített Egészségügyi és Szociális Intézmény,Gyöngyvirág utca 5,Csongrád,Csongrád,6640,,,,,,,46.7051945,20.163992
+192,20192,Dr. Szelekovszky Sándor Egészségház,,Mályinka,Borsod-abaúj-zemplén,3645,,,,,,,48.1550061,20.4938237
+193,20193,Dr. Sümegi Sándor rendelője,,Sándorfalva,Csongrád,6762,,,,,,,46.3615049,20.101268
+194,20194,Dr. Ádám EgészségHáz,Ádám utca 4,Érd,Pest,2030,,,,,,,47.3852316,18.9253433
+195,20195,Dél-budai Egészségügyi Szolgálat Nonprofit Kft.,Káldor Adolf utca 5-9,Budapest,Budapest,1222,,,,,,,47.4296809,19.0382418
+196,20196,Egészségház,Fő út 92,Jászalsószentgyörgy,Jász-nagykun-szolnok,5054,,,,,,,47.3746895,20.0891912
+197,20197,Egészségház,II. Rákóczi Ferenc út 53,Felsőtárkány,Heves,3324,,,,,,,47.9728777,20.4142902
+198,20198,Egészségház,Iskola utca 42,Lébény,Győr-moson-sopron,9155,,,,,,,47.7356669,17.390302
+199,20199,Egészségház,,Söjtör,Zala,8897,,,,,,,46.6695501,16.8566019
+200,20200,Egészségház,Dr. Tulassay József tér nan,Lábatlan,Komárom-esztergom,2541,,+3633517567,,,,,47.7495419,18.4868475
+201,20201,Egészségház,,Putnok,Borsod-abaúj-zemplén,3630,,,,,,,48.2943434,20.4370869
+202,20202,Egészségház,,Bakonyszentkirály,Veszprém,8430,,,,,,,47.3623964,17.8867289
+203,20203,Egészségház,,Dunaújváros,Fejér,2400,,,,,,,46.9591961,18.9363373
+204,20204,Egészségház,Béke tér nan,Sárkeresztes,Fejér,8051,,,,,,,47.2497207,18.3516911
+205,20205,Egészségház,,Balatongyörök,Zala,8313,,,,,,,46.7547037,17.3530376
+206,20206,Egészségház,,Ócsa,Pest,2364,,,,,,,47.2932014,19.2269941
+207,20207,Egészségház,,Szentkirályszabadja,Veszprém,8225,,,,,,,47.0574256,17.9699916
+208,20208,Egészségház,Fő utca 26,Újhartyán,Pest,2367,,,,,,,47.2195281,19.3856518
+209,20209,Egészségház,,Csikéria,Bács-kiskun,6424,,,,,,,46.1177651,19.4775388
+210,20210,Egészségház,,Csenger,Szabolcs-szatmár-bereg,4765,,,,,,,47.8367942,22.6788841
+211,20211,Egészségház,Arany János út 46,Terény,Nógrád,2696,,,,,,,47.9463904,19.4401091
+212,20212,Egészségház,,Balkány,Szabolcs-szatmár-bereg,4233,,,,,,,47.7719911,21.8629346
+213,20213,Egészségház,Széchenyi István utca 80,Bácsbokod,Bács-kiskun,6453,,,,,,,46.1246526,19.1582489
+214,20214,Egészségház,Brunszvik utca 21,Martonvásár,Fejér,2462,,,,,,,47.3174225,18.7854216
+215,20215,Egészségház,,Pusztaszentlászló,Zala,8896,,,,,,,46.636197,16.8413522
+216,20216,Egészségház,Ifjúság tér 5,Homorúd,Baranya,7716,,,,,,,45.9832127,18.7925223
+217,20217,Egészségház,,Adony,Fejér,2457,,,,,,,47.1215204,18.8639077
+218,20218,Egészségház,Árpád utca 14,Páty,Pest,2071,,,,,,,47.5154249,18.8257085
+219,20219,"Egészségház, orvosi rendelő",,Nemesvámos,Veszprém,8248,,,,,,,47.0552401,17.870082
+220,20220,Egészségügyi központ,,Borota,Bács-kiskun,6445,,,,,,,46.2635905,19.2228536
+221,20221,Ergonom Kft.,Tartsay Vilmos utca 16,Szekszárd,Tolna,7100,,,,,,,46.3386092,18.7101116
+222,20222,Felnémeti orvosi rendelők,,Eger,Heves,3300,,,,,,,47.9372796,20.3670313
+223,20223,Felnőtt háziorvosi rendelő,,Budapest,Budapest,1137,,,,,,,47.5474864,19.07997
+224,20224,Felnőtt háziorvosi rendelő,Hárslevelű utca 19,Budapest,Budapest,1101,,+3612611446,,,,,47.4848657,19.2038458
+225,20225,Felnőtt háziorvosi rendelő,Centenáriumi sétány 24,Budapest,Budapest,1162,,+36 1 403-37-64,,,,,47.5169562,19.1837328
+226,20226,Felnőtt orvosi rendelő,Bajcsy-Zsilinszky Endre út 4/A,Hatvan,Heves,3000,,,,,,,47.6642954,19.6642603
+227,20227,Felnőtt- és gyermekorvosi ügyelet,,Zalaegerszeg,Zala,8900,,,,,,,46.8381436,16.8435316
+228,20228,Ferihegyi úti háziorvosi rendelő,Ferihegyi út 81,Budapest,Budapest,1173,,,,,,,47.481082,19.2569454
+229,20229,Fogaras utcai gyermekorvosi rendelő,Fogaras utca 6,Szombathely,Vas,9700,,,,,,,47.2175314,16.6257198
+230,20230,Fogászat,,,Vas,,,,,,,,47.3392108,19.0300482
+231,20231,Gyerekorvosi rendelők,,Mátészalka,Szabolcs-szatmár-bereg,4700,,,,,,,47.9539037,22.3189039
+232,20232,Gyermek orvosi rendelő,Bajcsy-Zsilinszky Endre út 11,Hatvan,Heves,3000,,,,,,,47.6639145,19.6636562
+233,20233,Gyermek és nővédelmi szolgálat,Országút utca 73,Győrság,Győr-moson-sopron,9084,,,,,,,47.5812476,17.7544012
+234,20234,Gyermekgyógyász,Torbágyi út 16/A,Páty,Pest,2071,,,,,,,47.5039006,18.8252416
+235,20235,Gyermekorvos,,Balkány,Szabolcs-szatmár-bereg,4233,,,,,,,47.7712735,21.8626953
+236,20236,"Gyermekorvos, gyermekfogászat, védőnő",Csengettyű utca 23,Budapest,Budapest,1093,,,,,,,47.4635998,19.1173254
+237,20237,Gyermekorvosi rendelő,,Érd,Pest,2030,,,,,,,47.4095068,18.8882398
+238,20238,Gyermekorvosi rendelő,Bajcsy-Zsilinszky Endre utca 47,Érd,Pest,2030,,,,,,,47.4002073,18.9024184
+239,20239,Gyermekorvosi rendelő,,Szentendre,Pest,2000,,,,,,,47.6720503,19.072139
+240,20240,Gyermekorvosi rendelő,,Törökbálint,Pest,2045,,,,,,,47.4358433,18.9134483
+241,20241,Gyermekorvosi rendelő,Jankovich Gyula utca 2,Pomáz,Pest,2013,,,,,,,47.6444131,19.0279142
+242,20242,Gyermekorvosi rendelő,,Környe,Komárom-esztergom,2851,,,,,,,47.5475194,18.3280254
+243,20243,Gyermekorvosi rendelő,Deák Ferenc utca 45,Tápiószecső,Pest,2251,,,,,,,47.4498732,19.5989258
+244,20244,Gyermekorvosi rendelő,Vasút utca 18,Herend,Veszprém,8440,,+36 88 260254,,,,,47.1333438,17.7515737
+245,20245,Gyermekorvosi rendelő,,Budapest,Budapest,1182,,,,,,,47.4070523,19.1913289
+246,20246,Gyermekorvosi rendelő,Honvéd utca 2,Bordány,Csongrád,6795,,,,,,,46.3188774,19.913623
+247,20247,Gyermekorvosi rendelő,,Albertirsa,Pest,2730,,,,,,,47.2416404,19.6200279
+248,20248,Gyermekorvosi rendelő,,Hajdúdorog,Hajdú-bihar,4087,,,,,,,47.8167062,21.4981732
+249,20249,Gyermekorvosi rendelő,,Dévaványa,Békés,5510,,,,,,,47.0289838,20.9643992
+250,20250,Gyógyszertár - Orvosi rendelők,,Kazincbarcika,Borsod-abaúj-zemplén,3700,,,,,,,48.2554766,20.6306648
+251,20251,Gyógyítóház,Fő utca 117,Tét,Győr-moson-sopron,9100,,,,,,,47.5149685,17.5128491
+252,20252,Haziorvos es gyógyszertár,Bácska tér 3,Budapest,Budapest,1202,,,,,,,47.435957,19.1254776
+253,20253,Helios Egészségcentrum,Széchenyi István utca 1,Páty,Pest,2071,,,,,,,47.5151538,18.8284736
+254,20254,Házi felnőttorvosi rendelő,525. tér nan,Budapest,Budapest,1173,,,,,,,47.4814421,19.2206129
+255,20255,Házi felnőttorvosi rendelő,Diadal utca 40,Budapest,Budapest,1173,,,,,,,47.4938888,19.2700797
+256,20256,Házi orvosi rendelő,Köztársaság tér 3,Pilismarót,Komárom-esztergom,2028,,,,,,,47.7835501,18.8756787
+257,20257,Házi- és Szakorvosi Rendelő Intézet,Korondi utca 5,Szeged,Csongrád,6720,,,,,,,46.2470093,20.1592254
+258,20258,Háziorvos,Rákóczi út 10,Nyalka,Győr-moson-sopron,9096,,+36 96 470355,,,,,47.5431346,17.8100008
+259,20259,Háziorvos,Száva utca 4,Nagykovácsi,Pest,2094,,,,,,,47.5755276,18.8829936
+260,20260,"Háziorvos, védőnő, fogászat",Markovics út 17,Pápateszér,Veszprém,8556,,,,,,,47.3841243,17.6967182
+261,20261,Háziorvosi Rendelők,,Tápióbicske,Pest,2764,,,,,,,47.3629833,19.6847175
+262,20262,Háziorvosi rendelő,Arany János utca 2,Abony,Pest,2740,,,,,,,47.1865481,20.0062609
+263,20263,Háziorvosi rendelő,,Csopak,Veszprém,8229,,,,,,,46.9771651,17.9269827
+264,20264,Háziorvosi rendelő,Arany János utca 17-19,Kisbajcs,Győr-moson-sopron,9062,,,,,,,47.7495525,17.6818513
+265,20265,Háziorvosi rendelő,Kossuth Lajos utca 42/2,Érd,Pest,2030,,,,,,,47.3841361,18.9126798
+266,20266,Háziorvosi rendelő,,Piliscsév,Komárom-esztergom,2519,,,,,,,47.6768865,18.8199948
+267,20267,Háziorvosi rendelő,,Érd,Pest,2030,,,,,,,47.3566705,18.9354851
+268,20268,Háziorvosi rendelő,Eötvös Loránd út 2,Érsekvadkert,Nógrád,2659,,,,,,,47.998631,19.1970727
+269,20269,Háziorvosi rendelő,Táncsics Mihály utca 4,Mosonszentmiklós,Győr-moson-sopron,9154,,,,,,,47.7318381,17.4232186
+270,20270,Háziorvosi rendelő,Erzsébet utca 4,Gyömrő,Pest,2230,,,,,,,47.4307239,19.3949307
+271,20271,Háziorvosi rendelő,,Érd,Pest,2030,,,,,,,47.37708,18.8933694
+272,20272,Háziorvosi rendelő,Vasút utca 18,Herend,Veszprém,8440,,+36 88 261118,,,,,47.1332775,17.7516887
+273,20273,Háziorvosi rendelő,,Tiszabezdéd,Szabolcs-szatmár-bereg,4624,,,,,,,48.3626191,22.1545581
+274,20274,Háziorvosi rendelő,,Mátraszentimre,Heves,3235,,,,,,,47.9265329,19.8704381
+275,20275,Háziorvosi rendelő,,Pécs,Baranya,7632,,,,,,,46.0444575,18.214153
+276,20276,Háziorvosi rendelő,,Tét,Győr-moson-sopron,9100,,,,,,,47.5210633,17.4988278
+277,20277,Háziorvosi rendelő,,Káld,Vas,9673,,,,,,,47.1654581,17.0446153
+278,20278,Háziorvosi rendelő,Böszörményi út 20-22,Budapest,Budapest,1124,,,,,,,47.4945031,19.0189007
+279,20279,Háziorvosi rendelő,Vágfarkasd utca 6,Budapest,Budapest,1114,,+36 1 466 8257,,,,,47.4760857,19.0265812
+280,20280,Háziorvosi rendelő,Albertfalva utca 3,Budapest,Budapest,1114,,,,,,,47.4486641,19.0365094
+281,20281,Háziorvosi rendelő,,Budapest,Budapest,1196,,,,,,,47.4554361,19.1523505
+282,20282,Háziorvosi rendelő,Honvéd utca 12,Tápiószecső,Pest,2251,,,,,,,47.4519395,19.5980361
+283,20283,Háziorvosi rendelő,Kátai út 73,Tápiószecső,Pest,2251,,,,,,,47.4486811,19.6172007
+284,20284,Háziorvosi rendelő,Kossuth utca 5,Budapest,Budapest,1158,,,,,,,47.5686812,19.1273631
+285,20285,Háziorvosi rendelő,Fő utca 105,Pázmándfalu,Győr-moson-sopron,9085,,,,,,,47.5687087,17.7859096
+286,20286,Háziorvosi rendelő,,Budapest,Budapest,1026,,,,,,,47.5490009,18.95348
+287,20287,Háziorvosi rendelő,Bajcsy-Zsilinszky Endre utca 143,Érd,Pest,2030,,,,,,,47.4095698,18.8883557
+288,20288,Háziorvosi rendelők,Bükkös part 27,Szentendre,Pest,2000,,,,,,,47.6667426,19.074672
+289,20289,I-XII. kerületi Tüdőgondozó Intézet,Pethényi köz 1,Budapest,Budapest,1124,,+3613558322,,,,,47.5080672,19.0100867
+290,20290,I. számú Háziorvosi szolgálat és Védőnői szolgálat,Mátyás király út 2,Szajol,Jász-nagykun-szolnok,5081,,,,,,,47.1747933,20.2948368
+291,20291,Kapás Utcai Szakorvosi Rendelőintézet,Kapás utca 22,Budapest,Budapest,1026,,+3614887500;+36 1 488 7522,,,No,,47.5094198,19.0330938
+292,20292,Kispesti Egészségügyi Intézet,Ady Endre út 122-124,Budapest,Budapest,1196,,+361-347-5900,,,,,47.4528115,19.1437368
+293,20293,Korányi Magánorvosi Rendelő,Csaló köz 6/a,Nyíregyháza,Szabolcs-szatmár-bereg,4400,,,,,,,47.9784186,21.7198908
+294,20294,Körzeti Gyermekorvosi Rendelő,,Budapest,Budapest,1101,,,,,,,47.5040059,19.1459971
+295,20295,Körzeti Orvosi Rendelő,Fő utca 170,Hosszúhetény,Baranya,7694,,,,,,,46.1634643,18.3517882
+296,20296,Körzeti Orvosi Rendelők,Kölcsey utca 10,Győr,Győr-moson-sopron,9021,,,,,,,47.6916596,17.6552084
+297,20297,Körzeti orvos,,Murony,Békés,5672,,,,,,,46.7619001,21.0393537
+298,20298,Körzeti orvosi rendelő,,Csikéria,Bács-kiskun,6424,,,,,,,46.1275152,19.4713387
+299,20299,Körzeti orvosi rendelő,,Budapest,Budapest,1042,,,,,,,47.5630744,19.1021358
+300,20300,Körzeti orvosi rendelő,,Celldömölk,Vas,9500,,,,,,,47.2582246,17.1510626
+301,20301,Központi háziorvosi ügyelet,Rákóczi Ferenc utca 5-7,Szentgotthárd,Vas,9970,,,,,,,46.953679,16.2728604
+302,20302,Községi Rendelőintézet,,Nagyigmánd,Komárom-esztergom,2942,,,,,,,47.6387402,18.0830549
+303,20303,Kőbányai Egészségügyi Szolgálat - Háziorvosi rendelők,,Budapest,Budapest,1101,,,,,No,,47.4703277,19.1629134
+304,20304,Kőbányai Egészségügyi Szolgálat Zsivaj utcai Rendelő,Zsivaj utca 2,Budapest,Budapest,1101,,,,,,,47.4881842,19.135967
+305,20305,Med Klein,,Putnok,Borsod-abaúj-zemplén,3630,,,,,,,48.2940601,20.4297206
+306,20306,Megyei rendelőintézet,Szent Imre út 43,Győr,Győr-moson-sopron,9021,,,,,,,47.670536,17.6466305
+307,20307,Mentők,,Gyöngyös,Heves,3200,,,,,,,47.778319,19.9197085
+308,20308,Mosolymanó Egyesület,Várkonyi Nándor utca 7,Pécs,Baranya,7632,,06204508688,,,,,46.0405869,18.2186176
+309,20309,MÁV Kórház Rendelőintézete,,Budapest,Budapest,1067,,,,,,,47.5160719,19.0707372
+310,20310,Mátyásföld Klinika,Prodám utca 18,Budapest,Budapest,1162,,,,,No,,47.5068961,19.1991877
+311,20311,Nagybácsai Egészségügyi Centrum,,Győr,Győr-moson-sopron,9021,,,,,,,47.7279819,17.6634532
+312,20312,OMSZ Állomás és Egészségügyi Központ,Kossuth Lajos út 167,Recsk,Heves,3245,,,,,,,47.9362482,20.1114017
+313,20313,Orvos,,Hédervár,Győr-moson-sopron,9178,,,,,,,47.8320784,17.4574364
+314,20314,Orvosi Rendelő,,Lipót,Győr-moson-sopron,9233,,,,,,,47.8626047,17.4643081
+315,20315,Orvosi Rendelő,Kiss Ernő utca 9,Miskolc,Borsod-abaúj-zemplén,3525,,,,,,,48.1005918,20.7504177
+316,20316,Orvosi Rendelő (Dr. Kiss József),Kert köz 4,Nyíregyháza,Szabolcs-szatmár-bereg,4400,,+3642461362,,,,,47.9464263,21.7269739
+317,20317,Orvosi rendelő,Csokonai utca 2,Tihany,Veszprém,8237,,,,,,,46.9157804,17.8827698
+318,20318,Orvosi rendelő,Fő tér nan,Csór,Fejér,8041,,,,,,,47.2039664,18.2574858
+319,20319,Orvosi rendelő,,Tiszafüred,Jász-nagykun-szolnok,5350,,,,,No,,47.6251401,20.7526667
+320,20320,Orvosi rendelő,,Zalaegerszeg,Zala,8900,,,,,,,46.8310828,16.8356466
+321,20321,Orvosi rendelő,Kultúrház utca 58,Győr,Győr-moson-sopron,9021,,,,,,,47.7178678,17.6491722
+322,20322,Orvosi rendelő,,Óbarok,Fejér,2060,,,,,,,47.5200212,18.5290008
+323,20323,Orvosi rendelő,Kossuth Lajos utca 2,Marcaltő,Veszprém,8532,,,,,,,47.4342613,17.368007
+324,20324,Orvosi rendelő,Hajnóczy József utca 15,Kaposvár,Somogy,7400,,,,,,,46.3680982,17.7670047
+325,20325,Orvosi rendelő,,Görcsöny,Baranya,7833,,,,,,,45.9704885,18.1366036
+326,20326,Orvosi rendelő,,Mecsér,Győr-moson-sopron,9176,,,,,,,47.7962243,17.4750806
+327,20327,Orvosi rendelő,Malomszög utca 2,Miskolc,Borsod-abaúj-zemplén,3525,,,,,,,48.1031077,20.7692622
+328,20328,Orvosi rendelő,,Cserhátsurány,Nógrád,2676,,,,,,,47.9758067,19.425247
+329,20329,Orvosi rendelő,Fő utca 80,Écs,Győr-moson-sopron,9083,,,,,,,47.5588944,17.717514
+330,20330,Orvosi rendelő,Kossuth Lajos utca 5,Balatonfőkajár,Veszprém,8164,,+36 88 911-031,,,,,47.0187901,18.2118789
+331,20331,Orvosi rendelő,,Baja,Bács-kiskun,6500,,,,,,,46.1857548,18.9412666
+332,20332,Orvosi rendelő,,Nagybárkány,Nógrád,3075,,,,,,,47.997166,19.7005823
+333,20333,Orvosi rendelő,,Erdőkertes,Pest,2113,,,,,,,47.6681855,19.3070663
+334,20334,Orvosi rendelő,,Kecskemét,Bács-kiskun,6000,,,,,,,46.9152772,19.6899653
+335,20335,Orvosi rendelő,Malomkő utca 5,Nagyvázsony,Veszprém,8291,,+36 88 264205,,,,,46.9803585,17.6964708
+336,20336,Orvosi rendelő,,Mélykút,Bács-kiskun,6449,,,,,,,46.2139713,19.378535
+337,20337,Orvosi rendelő,,Dunasziget,Győr-moson-sopron,9226,,,,,,,47.935803,17.3743462
+338,20338,Orvosi rendelő,Hősök tere 7,Bajna,Komárom-esztergom,2525,,,,,,,47.6540448,18.6001457
+339,20339,Orvosi rendelő,,Győr,Győr-moson-sopron,9011,,,,,,,47.698499,17.7385964
+340,20340,Orvosi rendelő,,Gyöngyös,Heves,3200,,,,,,,47.7733881,19.9260622
+341,20341,Orvosi rendelő,,Pécs,Baranya,7632,,,,,,,46.0394251,18.2158327
+342,20342,Orvosi rendelő,,Kazincbarcika,Borsod-abaúj-zemplén,3700,,,,,,,48.2475432,20.6146082
+343,20343,Orvosi rendelő,,Buzsák,Somogy,8695,,,,,,,46.6497829,17.5772037
+344,20344,Orvosi rendelő,,Dévaványa,Békés,5510,,,,,,,47.0291236,20.9648592
+345,20345,Orvosi rendelő,Pázsit utca 6,Pécs,Baranya,7693,,,,,,,46.1144082,18.3358534
+346,20346,Orvosi rendelő,Botond út 4,Piricse,Szabolcs-szatmár-bereg,4375,,,,,,,47.7704004,22.1521015
+347,20347,Orvosi rendelő,,Sopron,Győr-moson-sopron,9400,,,,,,,47.6530597,16.4874201
+348,20348,Orvosi rendelő,Park utca 7,Pápa,Veszprém,8500,,,,,,,47.2797944,17.5236317
+349,20349,Orvosi rendelő,,Hajdúdorog,Hajdú-bihar,4087,,,,,,,47.8168045,21.4980431
+350,20350,Orvosi rendelő,,Balatonakali,Veszprém,8243,,,,,,,46.8808118,17.746245
+351,20351,Orvosi rendelő,,Budapest,Budapest,1148,,,,,,,47.5023882,19.1099993
+352,20352,Orvosi rendelő,Ortutay utca 4,Szeged,Csongrád,6720,,,,,,,46.273354,20.1517457
+353,20353,Orvosi rendelő,,Aszaló,Borsod-abaúj-zemplén,3841,,,,,,,48.2207677,20.9616188
+354,20354,Orvosi rendelő,Tihanyi Árpád út 51,Győr,Győr-moson-sopron,9021,,,,,,,47.6758293,17.6490402
+355,20355,Orvosi rendelő,Iskola utca 2/b,Heréd,Heves,3011,,,,,,,47.7083228,19.6358156
+356,20356,Orvosi rendelő,Mázsaház utca 25,Pécs,Baranya,7691,,,,,,,46.1286779,18.3148511
+357,20357,Orvosi rendelő,,Hernádkak,Borsod-abaúj-zemplén,3563,,,,,,,48.0899532,20.9601989
+358,20358,Orvosi rendelő,,Gesztely,Borsod-abaúj-zemplén,3715,,,,,No,,48.1028658,20.9659079
+359,20359,Orvosi rendelő,B utca 1,Pécs,Baranya,7691,,,,,,,46.1348559,18.326803
+360,20360,Orvosi rendelő,Határ út nan,,Baranya,,,,,,,,47.3390019,19.0301929
+361,20361,Orvosi rendelő,,Gyöngyös,Heves,3200,,,,,,,47.7788185,19.9263758
+362,20362,Orvosi rendelő,József Attila utca 2,Budajenő,Pest,2093,,+3626371074,,,,,47.5560068,18.8042243
+363,20363,Orvosi rendelő,,Ászár,Komárom-esztergom,2881,,,,,,,47.51039,18.0026839
+364,20364,Orvosi rendelő,József Attila utca 3,Dejtár,Nógrád,2649,,,,,,,48.0372509,19.1685327
+365,20365,Orvosi rendelő,Országút utca 74,Győrság,Győr-moson-sopron,9084,,,,,,,47.5812906,17.754463
+366,20366,Orvosi rendelő,,Kecskéd,Komárom-esztergom,2852,,+36 34 578 000;+36 34 361 761;+36 30 640 20 80,,,,,47.5235204,18.3090083
+367,20367,Orvosi rendelő - Dr. Albert Antal,Fő utca nan,Somogysárd,Somogy,7435,,+36 82 715 288,,,,,46.4146018,17.5966362
+368,20368,Orvosi rendelők,,Sándorfalva,Csongrád,6762,,,,,,,46.3607049,20.0956856
+369,20369,Orvosi rendelők,Budapesti körút 23,Szeged,Csongrád,6720,,,,,,,46.2717031,20.1644383
+370,20370,Orvosi rendelők,Kossuth Lajos utca 21,Pomáz,Pest,2013,,,,,,,47.6478731,19.0225765
+371,20371,Orvosi Ügyelet,,Putnok,Borsod-abaúj-zemplén,3630,,,,,,,48.2937818,20.4378668
+372,20372,Orvosi és védőnői rendelő,,Baracs,Fejér,2426,,,,,,,46.8818287,18.9062278
+373,20373,Orvosi ügyelet,,Szeged,Csongrád,6720,,,,,,,46.2572306,20.1464469
+374,20374,Orvosi ügyelet,Rózsa utca nan,Ruzsa,Csongrád,6786,,,,,,,46.28781,19.7477046
+375,20375,Orvosi ügyelet,Seregélyesi út 17,Székesfehérvár,Fejér,8000,,+3622501404,,,,,47.1924775,18.4395632
+376,20376,Orvosi ügyelet,Szent István út 55,Gyömrő,Pest,2230,,,,,,,47.4253238,19.3974288
+377,20377,Orvosi ügyelet,,Budapest,Budapest,1042,,,,,,,47.5651468,19.1028586
+378,20378,Pillangó Egészségcentrum,Pillangó utca 12,Budapest,Budapest,1148,,,,,,,47.5032811,19.1169935
+379,20379,Politzer Ádám egészségügyi központ,Vasút utca 4,Albertirsa,Pest,2730,,,,,,,47.2450298,19.6124052
+380,20380,Pongrác úti orvosi rendelő,Pongrác út 19,Budapest,Budapest,1101,,+3612600236,,,,,47.4838711,19.1249491
+381,20381,Praxis Ház,,Veresegyház,Pest,2112,,,,,,,47.6623016,19.2717943
+382,20382,Pszichiátriai gondozó és szakrendelő,Dobó Katica utca 18,Budapest,Budapest,1196,,,,,,,47.4570542,19.1380662
+383,20383,Rendelő,,Solymár,Pest,2083,,,,,,,47.5922267,18.9272532
+384,20384,Rendelő intézet,Március 15. tér 3,Szombathely,Vas,9700,,,,,,,47.2356684,16.6222185
+385,20385,Rendelőintézet,Hunyadi János utca nan,Lovasberény,Fejér,8093,,,,,No,,47.313763,18.5484897
+386,20386,"Rezek plasztikai sebészet, fül-orr-gégészet",,Budapest,Budapest,1124,,,,,,,47.4972417,19.0107905
+387,20387,Ráskay Lea utcai Gyermekorvosi Rendelő,Ráskay Lea utca 69-73,Budapest,Budapest,1148,,,,,,,47.5286954,19.1062601
+388,20388,Rét utcai rendelő,,Budapest,Budapest,1026,,,,,No,,47.5135548,19.024267
+389,20389,Sirius intézet,,Balatonfüred,Veszprém,8230,,,,,,,46.9610233,17.8776326
+390,20390,Szakorvosi Rendelőintézet,Fő út 75-81,Dunakeszi,Pest,2120,,+36-27/341-600,,,,,47.6353605,19.1296738
+391,20391,Szakorvosi Rendelőintézet,Komakút tér 1,Veszprém,Veszprém,8200,,,,,,,47.0896126,17.9069226
+392,20392,Szakorvosi rendelő,,Budapest,Budapest,1051,,,,,,,47.5020089,19.0527413
+393,20393,Szakorvosi rendelő,,Dorog,Komárom-esztergom,2510,,,,,,,47.7184695,18.7352037
+394,20394,Szakorvosi rendelőintézet,Ferihegyi út 95,Budapest,Budapest,1173,,,,,,,47.4782457,19.2549441
+395,20395,Tamási Rendelő Intézet,,Tamási,Tolna,7090,,,,,,,46.6332072,18.2829736
+396,20396,Tiszaszederkényi Orvosi Rendelő,Ady Endre út 1,Tiszaújváros,Borsod-abaúj-zemplén,3580,,,,,,,47.9335275,21.0710304
+397,20397,Toldy Ferenc Kórház - Tüdőgondozó,,Cegléd,Pest,2700,,,,,,,47.1730648,19.7931872
+398,20398,Tüdőgondozó Intézet,Ady Endre sétány 62,Gödöllő,Pest,2100,,,,,,,47.5919971,19.3566364
+399,20399,Tüdőgondozó és Tüdőszűrő Állomás,Hivatalnok utca 40,Érd,Pest,2030,,,,,,,47.3778743,18.9137292
+400,20400,Virányos Klinika,Virányos út 23/d,Budapest,Budapest,1124,,,,,,,47.5160214,18.9927357
+401,20401,Váci Mihály utcai orvosi rendelő - felnőtt,,Szombathely,Vas,9700,,,,,,,47.2437636,16.6116232
+402,20402,Váci Mihály utcai orvosi rendelő - gyerek,Váci Mihály utca 1,Szombathely,Vas,9700,,,,,,,47.2438472,16.6118715
+403,20403,Városi Egészségügyi Központ,József Attila utca 1,Gyál,Pest,2360,,+3629540880,,,,,47.3826078,19.2143929
+404,20404,Városi Rendelőintézet,,Ajka,Veszprém,8400,,,,,,,47.1059213,17.5595248
+405,20405,Városi Ügyelet,,Gyöngyös,Heves,3200,,,,,,,47.7867089,19.9304208
+406,20406,Védőnői Szolgálat,,Gérce,Vas,9672,,,,,,,47.214394,17.017888
+407,20407,Védőnői Szolgálat,Rákóczi út 79,Tápióbicske,Pest,2764,,+36-29/421-314,,,,,47.3621271,19.6880643
+408,20408,"Védőnői szolgálat, vöröskereszt",,,Pest,,,,,,,,47.2288868,18.9602271
+409,20409,XXI. sz. Felnőtt Háziorvosi Szolgálat,,Nagykanizsa,Zala,8800,,,,,,,46.4490843,17.0229567
+410,20410,Zalaszentgrót Egészségügyi Központ,Dózsa György utca nan,Zalaszentgrót,Zala,8790,,,,,Yes,,46.9447173,17.0788478
+411,20411,orvosi rendelő és gyógyszertár,,Harsány,Borsod-abaúj-zemplén,3555,,,,,,,47.9614011,20.7440027
+412,20412,Állatkórház,,Miskolc,Borsod-abaúj-zemplén,3525,,,,,,,48.1082823,20.767879
+413,20413,Érd Városi Önkormányzat Szakorvosi Rendelőintézet,,Érd,Pest,2030,,,,,,,47.3739792,18.9225458
+414,20414,Új Egészségház,Árpád utca 61,Páty,Pest,2071,,,,,,,47.5192224,18.8235875
+415,20415,Ügyelet,Szabadság tér 9,Érd,Pest,2030,,,,,,,47.3770156,18.9159874

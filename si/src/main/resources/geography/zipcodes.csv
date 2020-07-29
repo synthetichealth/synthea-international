@@ -1,0 +1,557 @@
+,USPS,ST,NAME,ZCTA5,LAT,LON
+0,Ljubljana,061,Ljubljana - dostava,1000,46.0511,14.5051
+1,Ljubljana,061,Ljubljana - poštni predali,1001,46.0511,14.5051
+2,Ljubljana,061,Ljubljana Šentvid,1210,46.0964,14.4697
+3,Ljubljana,061,Ljubljana-Šmartno,1211,46.168,14.5217
+4,Ljubljana,061,Medvode,1215,46.1333,14.4333
+5,Ljubljana,061,Smlednik,1216,46.1642,14.4325
+6,Ljubljana,061,Vodice,1217,46.1899,14.4949
+7,Kamnik,043,Komenda,1218,46.2048,14.5384
+8,Kamnik,043,Laze v Tuhinju,1219,46.2194,14.7611
+9,Kamnik,043,Motnik,1221,46.2153,14.8911
+10,Domžale,,Trojane,1222,46.1883,14.8831
+11,Domžale,,Blagovica,1223,46.1769,14.8072
+12,Domžale,,Lukovica,1225,46.1667,14.7
+13,Domžale,,Domžale,1230,46.1377,14.5937
+14,Domžale,,Ljubljana Črnuče,1231,46.1527,14.5952
+15,Domžale,,Dob,1233,46.1519,14.6286
+16,Domžale,,Mengeš,1234,46.1669,14.575
+17,Domžale,,Radomlje,1235,46.1736,14.6122
+18,Domžale,,Trzin,1236,46.1333,14.5667
+19,Kamnik,043,Kamnik,1241,46.2259,14.6121
+20,Kamnik,043,Stahovica,1242,46.2619,14.6022
+21,Domžale,,Moravče,1251,46.1369,14.745
+22,Litija,060,Vače,1252,46.12,14.8392
+23,Ljubljana,061,Ljubljana Polje,1260,46.0667,14.5833
+24,Ljubljana,061,Ljubljana-Dobrunje,1261,46.0333,14.5833
+25,Ljubljana,061,Dol pri Ljubljani,1262,46.0886,14.6008
+26,Litija,060,Litija,1270,46.0586,14.8225
+27,Litija,060,Polšnik,1272,46.0667,14.95
+28,Litija,060,Dole pri Litiji,1273,46.0353,15.0189
+29,Litija,060,Gabrovka,1274,46.0167,15
+30,Litija,060,Šmartno pri Litiji,1275,46.0444,14.8442
+31,Litija,060,Primskovo,1276,45.9717,14.9104
+32,Litija,060,Kresnice,1281,46.102,14.7858
+33,Litija,060,Sava,1282,46.0898,14.8904
+34,Grosuplje,032,Grosuplje,1290,45.9556,14.6589
+35,Ljubljana,061,Škofljica,1291,45.9833,14.5767
+36,Ljubljana,061,Ig,1292,45.9603,14.5289
+37,Grosuplje,032,Šmarje-Sap,1293,45.9762,14.6118
+38,Grosuplje,032,Višnja Gora,1294,45.9539,14.7453
+39,Grosuplje,032,Ivančna Gorica,1295,45.9383,14.8044
+40,Grosuplje,032,Šentvid pri Stični,1296,45.95,14.8434
+41,Grosuplje,032,Krka,1301,45.8813,14.7781
+42,Grosuplje,032,Zagradec,1303,45.8614,14.8342
+43,Ribnica,104,Ribnica,1310,45.7386,14.7275
+44,Ljubljana,061,Turjak,1311,45.8789,14.6153
+45,Grosuplje,032,Videm-Dobrepolje,1312,45.85,14.6942
+46,Grosuplje,032,Struge,1313,45.7817,14.7747
+47,Ljubljana,061,Rob,1314,45.8486,14.5722
+48,Ljubljana,061,Velike Lašče,1315,45.8322,14.6364
+49,Ribnica,104,Ortnek,1316,45.782,14.6753
+50,Ribnica,104,Sodražica,1317,45.7611,14.6356
+51,Ljubljana,061,Loški Potok,1318,45.8236,14.6531
+52,Ljubljana,061,Draga,1319,45.9395,14.547
+53,Kočevje,,Kočevje,1330,45.6433,14.8633
+54,Ribnica,104,Dolenja vas,1331,45.7061,14.7544
+55,Kočevje,,Stara Cerkev,1332,45.6722,14.8397
+56,Kočevje,,Vas,1336,45.4747,14.8692
+57,Kočevje,,Osilnica,1337,45.5278,14.6944
+58,Kočevje,,Kočevska Reka,1338,45.5764,14.7969
+59,Ljubljana,061,Brezovica pri Ljubljani,1351,46.0333,14.4
+60,Ljubljana,061,Preserje,1352,45.9569,14.4189
+61,Vrhnika,140,Borovnica,1353,45.9158,14.3631
+62,Ljubljana,061,Horjul,1354,46.0236,14.2992
+63,Ljubljana,061,Polhov Gradec,1355,46.0669,14.3161
+64,Ljubljana,061,Dobrova,1356,46.055,14.4172
+65,Ljubljana,061,Notranje Gorice,1357,45.9875,14.3989
+66,Vrhnika,140,Log pri Brezovici,1358,46.0167,14.3667
+67,Cerknica,013,Vrhnika,1360,45.6922,14.5028
+68,Logatec,064,Logatec,1370,45.9144,14.2258
+69,Logatec,064,Logatec,1371,45.9144,14.2258
+70,Logatec,064,Hotedršica,1372,45.9303,14.1422
+71,Logatec,064,Rovte,1373,45.9853,14.1775
+72,Cerknica,013,Cerknica,1380,45.7931,14.3625
+73,Cerknica,013,Rakek,1381,45.8133,14.3111
+74,Cerknica,013,Begunje pri Cerknici,1382,45.8181,14.3822
+75,Cerknica,013,Grahovo,1384,45.7692,14.4222
+76,Cerknica,013,Nova vas,1385,45.7717,14.5058
+77,Cerknica,013,Stari trg pri Ložu,1386,45.7148,14.471
+78,Zagorje Ob Savi,142,Zagorje ob Savi,1410,46.1318,14.9969
+79,Zagorje Ob Savi,142,Izlake,1411,46.15,14.95
+80,Zagorje Ob Savi,142,Kisovec,1412,46.1391,14.9629
+81,Zagorje Ob Savi,142,Čemšenik,1413,46.1792,14.9444
+82,Zagorje Ob Savi,142,Podkum,1414,46.0714,15.0286
+83,Trbovlje,129,Trbovlje,1420,46.155,15.0533
+84,Trbovlje,129,Dobovec,1423,46.1131,15.0572
+85,Hrastnik,034,Hrastnik,1430,46.1461,15.0814
+86,Hrastnik,034,Dol pri Hrastniku,1431,46.1419,15.1128
+87,Laško,057,Zidani Most,1432,46.0882,15.1728
+88,Laško,057,Radeče,1433,46.0681,15.1839
+89,Sevnica,110,Loka pri Zidanem Mostu,1434,46.0575,15.2072
+90,Ljubljana,061,Ljubljana,1500,46.0511,14.5051
+91,Ljubljana,061,Ljubljana,1501,46.0511,14.5051
+92,Ljubljana,061,Ljubljana,1502,46.0511,14.5051
+93,Ljubljana,061,Ljubljana,1503,46.0511,14.5051
+94,Ljubljana,061,Ljubljana,1504,46.0511,14.5051
+95,Ljubljana,061,Ljubljana,1505,46.0511,14.5051
+96,Ljubljana,061,Ljubljana,1506,46.0511,14.5051
+97,Ljubljana,061,Ljubljana,1507,46.0511,14.5051
+98,Ljubljana,061,Ljubljana,1508,46.0511,14.5051
+99,Ljubljana,061,Ljubljana,1509,46.0511,14.5051
+100,Ljubljana,061,Ljubljana,1510,46.0511,14.5051
+101,Ljubljana,061,Ljubljana,1511,46.0511,14.5051
+102,Ljubljana,061,Ljubljana,1512,46.0511,14.5051
+103,Ljubljana,061,Ljubljana,1513,46.0511,14.5051
+104,Ljubljana,061,Ljubljana,1514,46.0511,14.5051
+105,Ljubljana,061,Ljubljana,1516,46.0511,14.5051
+106,Ljubljana,061,Ljubljana,1517,46.0511,14.5051
+107,Ljubljana,061,Ljubljana,1518,46.0511,14.5051
+108,Ljubljana,061,Ljubljana,1519,46.0511,14.5051
+109,Ljubljana,061,Ljubljana,1520,46.0511,14.5051
+110,Ljubljana,061,Ljubljana,1521,46.0511,14.5051
+111,Ljubljana,061,Ljubljana,1522,46.0511,14.5051
+112,Ljubljana,061,Ljubljana,1523,46.0511,14.5051
+113,Ljubljana,061,Ljubljana,1524,46.0511,14.5051
+114,Ljubljana,061,Ljubljana,1525,46.0511,14.5051
+115,Ljubljana,061,Ljubljana,1526,46.0511,14.5051
+116,Ljubljana,061,Ljubljana,1527,46.0511,14.5051
+117,Ljubljana,061,Ljubljana,1528,46.0511,14.5051
+118,Ljubljana,061,Ljubljana,1529,46.0511,14.5051
+119,Ljubljana,061,Ljubljana,1532,46.0511,14.5051
+120,Ljubljana,061,Ljubljana,1533,46.0511,14.5051
+121,Ljubljana,061,Ljubljana,1534,46.0511,14.5051
+122,Ljubljana,061,Ljubljana,1535,46.0511,14.5051
+123,Ljubljana,061,Ljubljana,1536,46.0511,14.5051
+124,Ljubljana,061,Ljubljana,1537,46.0511,14.5051
+125,Ljubljana,061,Ljubljana,1538,46.0511,14.5051
+126,Ljubljana,061,Ljubljana,1540,46.0511,14.5051
+127,Ljubljana,061,Ljubljana,1542,46.0511,14.5051
+128,Ljubljana,061,Ljubljana,1543,46.0511,14.5051
+129,Ljubljana,061,Ljubljana,1544,46.0511,14.5051
+130,Ljubljana,061,Ljubljana,1545,46.0511,14.5051
+131,Ljubljana,061,Ljubljana,1546,46.0511,14.5051
+132,Ljubljana,061,Ljubljana,1547,46.0511,14.5051
+133,Ljubljana,061,Ljubljana,1550,46.0511,14.5051
+134,Ljubljana,061,Ljubljana,1600,46.0511,14.5051
+135,Maribor,070,Maribor - dostava,2000,46.5547,15.6467
+136,Maribor,070,Maribor - poštni predali,2001,46.5547,15.6467
+137,Pesnica,089,Zgornja Kungota,2201,46.6392,15.6156
+138,Maribor,070,Miklavž na Dravskem polju,2204,46.5058,15.6972
+139,Maribor,070,Starše,2205,46.4658,15.7672
+140,Maribor,070,Marjeta na Dravskem polju,2206,46.4525,15.7369
+141,Maribor,070,Pohorje,2208,46.5026,15.573
+142,Pesnica,089,Pesnica pri Mariboru,2211,46.6069,15.6767
+143,Pesnica,089,Šentilj v Slovenskih goricah,2212,46.6792,15.6532
+144,Pesnica,089,Zgornja Velka,2213,46.6753,15.7692
+145,Gornja Radgona,029,Sladki Vrh,2214,46.7075,15.8011
+146,Pesnica,089,Ceršak,2215,46.6992,15.6692
+147,Pesnica,089,Jarenina,2221,46.5803,15.7438
+148,Pesnica,089,Jakobski Dol,2222,46.5803,15.7438
+149,Lenart,058,Jurovski Dol,2223,46.6064,15.7847
+150,Maribor,070,Malečnik,2229,46.5542,15.7028
+151,Lenart,058,Lenart v Slovenskih goricah,2230,46.5761,15.8314
+152,Pesnica,089,Pernica,2231,46.58,15.7278
+153,Lenart,058,Voličina,2232,46.5838,15.8478
+154,Lenart,058,Sv. Ana v Slovenskih goricah,2233,46.5838,15.8478
+155,Lenart,058,Benedikt,2234,46.6086,15.8883
+156,Lenart,058,Sv. Trojica v Slovenskih goricah,2235,46.5838,15.8478
+157,Lenart,058,Cerkvenjak,2236,46.5706,15.9436
+158,Maribor,070,Spodnji Duplek,2241,46.5031,15.7453
+159,Maribor,070,Zgornja Korena,2242,46.524,15.7723
+160,Ptuj,096,Ptuj,2250,46.4201,15.8702
+161,Ptuj,096,Dornava,2252,46.4367,15.9536
+162,Ptuj,096,Destrnik,2253,46.5006,15.875
+163,Ptuj,096,Trnovska vas,2254,46.5202,15.8866
+164,Ptuj,096,Vitomarci,2255,46.5275,15.9394
+165,Ptuj,096,Juršinci,2256,46.4847,15.9714
+166,Ptuj,096,Polenšak,2257,46.4746,16.0031
+167,Ormož,087,Sveti Tomaž,2258,46.4842,16.0836
+168,Ormož,087,Ivanjkovci,2259,46.4622,16.1458
+169,Ormož,087,Ormož,2270,46.4114,16.1544
+170,Ptuj,096,Gorišnica,2272,46.4147,16.0139
+171,Ormož,087,Podgorci,2273,46.4292,16.0636
+172,Ormož,087,Velika Nedelja,2274,46.4178,16.1097
+173,Ormož,087,Miklavž pri Ormožu,2275,46.46,16.2136
+174,Ormož,087,Kog,2276,46.4717,16.2508
+175,Ormož,087,Središče ob Dravi,2277,46.3942,16.2681
+176,Ptuj,096,Markovci,2281,46.3833,15.95
+177,Ptuj,096,Cirkulane,2282,46.3441,15.9947
+178,Ptuj,096,Zavrč,2283,46.3917,16.0497
+179,Ptuj,096,Videm pri Ptuju,2284,46.3686,15.9064
+180,Ptuj,096,Zgornji Leskovec,2285,46.3303,15.9369
+181,Ptuj,096,Podlehnik,2286,46.3353,15.88
+182,Ptuj,096,Žetale,2287,46.275,15.7939
+183,Ptuj,096,Hajdina,2288,46.4089,15.8469
+184,Ptuj,096,Stoperce,2289,46.29,15.7167
+185,Slovenska Bistrica,113,Slovenska Bistrica,2310,46.3928,15.5744
+186,Maribor,070,Hoče,2311,46.4918,15.6231
+187,Maribor,070,Orehova vas,2312,46.4701,15.6686
+188,Maribor,070,Fram,2313,46.4506,15.6322
+189,Slovenska Bistrica,113,Zgornja Polskava,2314,46.4256,15.6122
+190,Slovenska Bistrica,113,Šmartno na Pohorju,2315,46.4442,15.5394
+191,Slovenska Bistrica,113,Zgornja Ložnica,2316,46.3833,15.5167
+192,Slovenska Bistrica,113,Oplotnica,2317,46.3878,15.4467
+193,Slovenska Bistrica,113,Laporje,2318,46.3467,15.5947
+194,Slovenska Bistrica,113,Poljčane,2319,46.3119,15.5792
+195,Slovenska Bistrica,113,Makole,2321,46.3172,15.6672
+196,Ptuj,096,Majšperk,2322,46.3517,15.7336
+197,Ptuj,096,Ptujska Gora,2323,46.355,15.76
+198,Ptuj,096,Lovrenc na Dravskem polju,2324,46.3736,15.7792
+199,Ptuj,096,Kidričevo,2325,46.4036,15.7911
+200,Ptuj,096,Cirkovce,2326,46.3999,15.7312
+201,Maribor,070,Rače,2327,46.4519,15.6814
+202,Slovenska Bistrica,113,Pragersko,2331,46.3967,15.66
+203,Maribor,070,Limbuš,2341,46.5536,15.5836
+204,Ruše,108,Ruše,2342,46.5394,15.5158
+205,Ruše,108,Fala,2343,46.5439,15.4472
+206,Ruše,108,Lovrenc na Pohorju,2344,46.5406,15.3931
+207,Ruše,108,Bistrica ob Dravi,2345,46.5572,15.5144
+208,Maribor,070,Kamnica,2351,46.5744,15.6142
+209,Ruše,108,Selnica ob Dravi,2352,46.55,15.495
+210,Maribor,070,Sv. Duh na Ostrem Vrhu,2353,46.5647,15.5614
+211,Maribor,070,Bresternica,2354,46.5697,15.575
+212,Radlje Ob Dravi,101,Radlje ob Dravi,2360,46.6142,15.2264
+213,Radlje Ob Dravi,101,Ožbalt,2361,46.5869,15.3989
+214,Žalec,190,Kapla,2362,46.2483,15.0094
+215,Radlje Ob Dravi,101,Podvelka,2363,46.5869,15.3306
+216,Radlje Ob Dravi,101,Ribnica na Pohorju,2364,46.535,15.2728
+217,Radlje Ob Dravi,101,Vuhred,2365,46.5947,15.2375
+218,Radlje Ob Dravi,101,Muta,2366,46.6114,15.1661
+219,Radlje Ob Dravi,101,Vuzenica,2367,46.5964,15.1672
+220,Dravograd,025,Dravograd,2370,46.5881,15.0192
+221,Dravograd,025,Trbonje,2371,46.6028,15.1075
+222,Dravograd,025,Libeliče,2372,46.62,14.9497
+223,Dravograd,025,Šentjanž pri Dravogradu,2373,46.5611,15.0389
+224,Slovenj Gradec,112,Slovenj Gradec,2380,46.5103,15.0806
+225,Slovenj Gradec,112,Podgorje pri Slovenj Gradcu,2381,46.4719,15.0836
+226,Slovenj Gradec,112,Mislinja,2382,46.4411,15.1956
+227,Slovenj Gradec,112,Šmartno pri Slovenj Gradcu,2383,46.4894,15.1067
+228,Ravne Na Koroškem,103,Ravne na Koroškem,2390,46.5431,14.9692
+229,Ravne Na Koroškem,103,Prevalje,2391,46.5469,14.9208
+230,Ravne Na Koroškem,103,Mežica,2392,46.5214,14.8544
+231,Ravne Na Koroškem,103,Črna na Koroškem,2393,46.4705,14.8501
+232,Ravne Na Koroškem,103,Kotlje,2394,46.5214,14.9869
+233,Maribor,070,Maribor,2500,46.5547,15.6467
+234,Maribor,070,Maribor,2501,46.5547,15.6467
+235,Maribor,070,Maribor,2502,46.5547,15.6467
+236,Maribor,070,Maribor,2503,46.5547,15.6467
+237,Maribor,070,Maribor,2504,46.5547,15.6467
+238,Maribor,070,Maribor,2505,46.5547,15.6467
+239,Maribor,070,Maribor,2506,46.5547,15.6467
+240,Maribor,070,Maribor,2507,46.5547,15.6467
+241,Maribor,070,Maribor,2509,46.5547,15.6467
+242,Maribor,070,Maribor,2600,46.5547,15.6467
+243,Maribor,070,Maribor,2603,46.5547,15.6467
+244,Maribor,070,Maribor,2609,46.5547,15.6467
+245,Maribor,070,Maribor,2610,46.5547,15.6467
+246,Ilirska Bistrica,038,Celje - dostava,3000,45.5916,14.1546
+247,Ilirska Bistrica,038,Celje - poštni predali,3001,45.5916,14.1546
+248,Celje,011,Šmartno v Rožni dolini,3201,46.2945,15.2431
+249,Celje,011,Ljubečna,3202,46.2417,15.3208
+250,Celje,011,Nova Cerkev,3203,46.3128,15.2856
+251,Celje,011,Dobrna,3204,46.3375,15.2264
+252,Slovenske Konjice,114,Vitanje,3205,46.3817,15.2958
+253,Slovenske Konjice,114,Stranice,3206,46.3636,15.3653
+254,Slovenske Konjice,114,Slovenske Konjice,3210,46.3367,15.4258
+255,Celje,011,Škofja vas,3211,46.2679,15.2912
+256,Celje,011,Vojnik,3212,46.2933,15.3033
+257,Celje,011,Frankolovo,3213,46.3306,15.3144
+258,Slovenske Konjice,114,Zreče,3214,46.3822,15.3792
+259,Celje,011,Loče,3215,46.283,15.258
+260,Celje,011,Štore,3220,46.2208,15.3139
+261,Celje,011,Teharje,3221,46.2303,15.3022
+262,Šentjur Pri Celju,,Dramlje,3222,46.2736,15.3947
+263,Šentjur Pri Celju,,Loka pri Žusmu,3223,46.1575,15.5147
+264,Šentjur Pri Celju,,Dobje pri Planini,3224,46.1367,15.4089
+265,Šentjur Pri Celju,,Planina pri Sevnici,3225,46.1114,15.4094
+266,Šentjur Pri Celju,,Šentjur,3230,46.2172,15.3975
+267,Šmarje Pri Jelšah,124,Grobelno,3231,46.2117,15.4447
+268,Šentjur Pri Celju,,Ponikva,3232,46.241,15.4567
+269,Šentjur Pri Celju,,Kalobje,3233,46.1672,15.3944
+270,Šmarje Pri Jelšah,124,Šmarje pri Jelšah,3240,46.2272,15.5192
+271,Šmarje Pri Jelšah,124,Podplat,3241,46.2461,15.5764
+272,Šmarje Pri Jelšah,124,Rogaška Slatina,3250,46.2375,15.6397
+273,Šmarje Pri Jelšah,124,Rogatec,3252,46.2294,15.7003
+274,Šmarje Pri Jelšah,124,Pristava pri Mestinju,3253,46.1967,15.5961
+275,Šmarje Pri Jelšah,124,Podčetrtek,3254,46.1569,15.5986
+276,Šmarje Pri Jelšah,124,Buče,3255,46.1079,15.5701
+277,Šmarje Pri Jelšah,124,Bistrica ob Sotli,3256,46.0589,15.6642
+278,Šmarje Pri Jelšah,124,Podsreda,3257,46.0414,15.5906
+279,Šmarje Pri Jelšah,124,Kozje,3260,46.075,15.5603
+280,Šmarje Pri Jelšah,124,Lesično,3261,46.1025,15.5142
+281,Šentjur Pri Celju,,Prevorje,3262,46.1255,15.4774
+282,Šentjur Pri Celju,,Gorica pri Slivnici,3263,46.1872,15.4325
+283,Šmarje Pri Jelšah,124,Sveti Štefan,3264,46.1862,15.4933
+284,Laško,057,Laško,3270,46.1546,15.2355
+285,Laško,057,Šentrupert,3271,46.1714,15.3494
+286,Laško,057,Rimske Toplice,3272,46.1226,15.1919
+287,Laško,057,Jurklošter,3273,46.0917,15.3367
+288,Žalec,190,Petrovče,3301,46.2417,15.19
+289,Žalec,190,Griže,3302,46.2294,15.1506
+290,Žalec,190,Gomilsko,3303,46.2528,15.0422
+291,Žalec,190,Tabor,3304,46.2361,15.0183
+292,Žalec,190,Vransko,3305,46.2439,14.9514
+293,Žalec,190,Žalec,3310,46.2515,15.1648
+294,Žalec,190,Šempeter v Savinjski dolini,3311,46.2654,15.0907
+295,Žalec,190,Prebold,3312,46.2369,15.0925
+296,Žalec,190,Polzela,3313,46.2833,15.0667
+297,Žalec,190,Braslovče,3314,46.2897,15.0389
+298,Velenje,133,Velenje - dostava,3320,46.3712,15.0345
+299,Velenje,133,Velenje - poštni predali,3322,46.3712,15.0345
+300,Velenje,133,Šoštanj,3325,46.38,15.0486
+301,Velenje,133,Topolšica,3326,46.4003,15.0216
+302,Velenje,133,Šmartno ob Paki,3327,46.3333,15.0333
+303,Mozirje,079,Mozirje,3330,46.3394,14.9633
+304,Mozirje,079,Nazarje,3331,46.3176,14.9467
+305,Mozirje,079,Rečica ob Savinji,3332,46.3167,14.9167
+306,Mozirje,079,Ljubno ob Savinji,3333,46.3436,14.8338
+307,Mozirje,079,Luče,3334,46.3561,14.7467
+308,Mozirje,079,Solčava,3335,46.4194,14.6936
+309,Mozirje,079,Šmartno ob Dreti,3341,46.2839,14.8903
+310,Mozirje,079,Gornji Grad,3342,46.2953,14.8083
+311,Celje,011,Celje,3502,46.2309,15.2604
+312,Velenje,133,Velenje,3503,46.3592,15.1103
+313,Velenje,133,Velenje,3504,46.3592,15.1103
+314,Celje,011,Celje,3505,46.2309,15.2604
+315,Celje,011,Celje,3600,46.2309,15.2604
+316,Kranj,052,Kranj - dostava,4000,46.2389,14.3556
+317,Kranj,052,Kranj - poštni predali,4001,46.2389,14.3556
+318,Kranj,052,Zgornja Besnica,4201,46.2667,14.2833
+319,Kranj,052,Naklo,4202,46.2728,14.3172
+320,Kranj,052,Duplje,4203,46.2821,14.3831
+321,Kranj,052,Golnik,4204,46.3333,14.3333
+322,Kranj,052,Preddvor,4205,46.3025,14.4231
+323,Kranj,052,Zgornje Jezersko,4206,46.3833,14.4667
+324,Kranj,052,Cerklje na Gorenjskem,4207,46.2542,14.4886
+325,Kranj,052,Šenčur,4208,46.2456,14.4197
+326,Kranj,052,Žabnica,4209,46.1986,14.3331
+327,Kranj,052,Brnik aerodrom,4210,46.2264,14.4064
+328,Kranj,052,Mavčiče,4211,46.1818,14.3948
+329,Kranj,052,Visoko,4212,46.2711,14.4181
+330,Škofja Loka,122,Škofja Loka,4220,46.1655,14.3063
+331,Škofja Loka,122,Poljane nad Škofjo Loko,4223,46.121,14.1862
+332,Škofja Loka,122,Gorenja vas,4224,46.1667,14.15
+333,Škofja Loka,122,Sovodenj,4225,46.0864,14.0436
+334,Škofja Loka,122,Žiri,4226,46.0422,14.1072
+335,Škofja Loka,122,Selca,4227,46.2244,14.2056
+336,Škofja Loka,122,Železniki,4228,46.2333,14.1667
+337,Škofja Loka,122,Sorica,4229,46.2167,14.0333
+338,Radovljica,102,Radovljica,4240,46.3444,14.1744
+339,Radovljica,102,Brezje,4243,46.329,14.2323
+340,Radovljica,102,Podnart,4244,46.2952,14.2557
+341,Radovljica,102,Kropa,4245,46.3,14.2
+342,Radovljica,102,Kamna Gorica,4246,46.3167,14.2
+343,Radovljica,102,Zgornje Gorje,4247,46.3796,14.0694
+344,Radovljica,102,Lesce,4248,46.3611,14.1578
+345,Radovljica,102,Bled,4260,46.3692,14.1136
+346,Radovljica,102,Bohinjska Bela,4263,46.3489,14.0639
+347,Radovljica,102,Bohinjska Bistrica,4264,46.2722,13.9535
+348,Tolmin,128,Bohinjsko jezero,4265,46.3218,14.0141
+349,Radovljica,102,Srednja vas v Bohinju,4267,46.297,13.9256
+350,Jesenice,041,Jesenice,4270,46.4306,14.0669
+351,Tolmin,128,Blejska Dobrava,4273,46.4,14.1
+352,Jesenice,041,Žirovnica,4274,46.4047,14.14
+353,Radovljica,102,Begunje na Gorenjskem,4275,46.3833,14.2167
+354,Jesenice,041,Hrušica,4276,46.445,14.0178
+355,Jesenice,041,Kranjska Gora,4280,46.4839,13.7894
+356,Jesenice,041,Mojstrana,4281,46.4611,13.9369
+357,Jesenice,041,Gozd Martuljek,4282,46.4833,13.8333
+358,Tolmin,128,Rateče-Planica,4283,46.4761,13.8532
+359,Tržič,,Tržič,4290,46.3636,14.3105
+360,Tržič,,Križe,4294,46.3428,14.3014
+361,Kranj,052,Naklo,4501,46.2728,14.3172
+362,Kranj,052,Kranj,4502,46.2389,14.3556
+363,Kranj,052,Kranj,4600,46.2389,14.3556
+364,Nova Gorica,084,Nova Gorica - dostava,5000,45.958,13.6469
+365,Nova Gorica,084,Nova Gorica - poštni predali,5001,45.9431,13.6393
+366,Nova Gorica,084,Deskle,5210,46.0531,13.6138
+367,Nova Gorica,084,Kojsko,5211,46.0092,13.5797
+368,Nova Gorica,084,Dobrovo v Brdih,5212,45.9964,13.5264
+369,Nova Gorica,084,Kanal,5213,46.0886,13.6397
+370,Nova Gorica,084,Kal nad Kanalom,5214,46.0833,13.7403
+371,Nova Gorica,084,Ročinj,5215,46.1128,13.67
+372,Tolmin,128,Most na Soči,5216,46.1469,13.7389
+373,Tolmin,128,Tolmin,5220,46.183,13.7332
+374,Tolmin,128,Kobarid,5222,46.2481,13.5772
+375,Tolmin,128,Breginj,5223,46.2647,13.4278
+376,Tolmin,128,Srpenica,5224,46.2917,13.4988
+377,Tolmin,128,Bovec,5230,46.3375,13.5528
+378,Tolmin,128,Log pod Mangartom,5231,46.4019,13.5969
+379,Tolmin,128,Soča,5232,46.3433,13.6564
+380,Tolmin,128,Grahovo ob Bači,5242,46.1539,13.8619
+381,Tolmin,128,Podbrdo,5243,46.21,13.9644
+382,Nova Gorica,084,Solkan,5250,45.9714,13.6494
+383,Nova Gorica,084,Grgar,5251,45.9986,13.6739
+384,Nova Gorica,084,Trnovo pri Gorici,5252,45.9742,13.7433
+385,Nova Gorica,084,Čepovan,5253,46.0494,13.7969
+386,Nova Gorica,084,Šempas,5261,45.9303,13.7436
+387,Ajdovščina,,Črniče,5262,45.9106,13.7767
+388,Ajdovščina,,Dobravlje,5263,45.8839,13.8453
+389,Ajdovščina,,Ajdovščina,5270,45.886,13.9095
+390,Ajdovščina,,Vipava,5271,45.8467,13.9631
+391,Ajdovščina,,Podnanos,5272,45.7969,13.9714
+392,Ajdovščina,,Col,5273,45.8758,14.005
+393,Ajdovščina,,Črni Vrh nad Idrijo,5274,45.8726,13.9885
+394,Idrija,036,Godovič,5275,45.9578,14.0936
+395,Idrija,036,Idrija,5280,46.0028,14.0306
+396,Idrija,036,Spodnja Idrija,5281,46.0319,14.0272
+397,Idrija,036,Cerkno,5282,46.1256,13.9817
+398,Tolmin,128,Slap ob Idrijci,5283,46.1233,13.8047
+399,Nova Gorica,084,Šempeter pri Gorici,5290,45.9275,13.6411
+400,Nova Gorica,084,Miren,5291,45.8956,13.6075
+401,Nova Gorica,084,Renče,5292,45.89,13.6686
+402,Nova Gorica,084,Volčja Draga,5293,45.9069,13.6775
+403,Nova Gorica,084,Dornberk,5294,45.8897,13.7369
+404,Nova Gorica,084,Branik,5295,45.8572,13.7842
+405,Nova Gorica,084,Kostanjevica na Krasu,5296,45.845,13.6417
+406,Nova Gorica,084,Prvačina,5297,45.89,13.7181
+407,Nova Gorica,084,Nova Gorica,5600,45.956,13.6484
+408,Koper,050,Koper/Capodistria - dostava,6000,45.5538,13.7439
+409,Koper,050,Koper/Capodistria - poštni predali,6001,45.5472,13.7258
+410,Sežana,111,Sežana,6210,45.7092,13.8733
+411,Sežana,111,Divača,6215,45.6847,13.9703
+412,Koper,050,Podgorje,6216,45.5292,13.9528
+413,Sežana,111,Vremski Britof,6217,45.6571,14.0301
+414,Sežana,111,Lokev,6219,45.6611,13.9281
+415,Sežana,111,Dutovlje,6221,45.7581,13.8322
+416,Sežana,111,Štanjel,6222,45.8233,13.8436
+417,Sežana,111,Komen,6223,45.8153,13.7483
+418,Sežana,111,Senožeče,6224,45.7211,14.0411
+419,Postojna,094,Hruševje,6225,45.7606,14.1064
+420,Postojna,094,Postojna,6230,45.7769,14.2167
+421,Postojna,094,Planina,6232,45.8339,14.2561
+422,Sežana,111,Kozina,6240,45.61,13.9356
+423,Sežana,111,Materija,6242,45.5814,13.9967
+424,Sežana,111,Obrov,6243,45.5425,14.0869
+425,Ilirska Bistrica,038,Podgrad,6244,45.5217,14.1461
+426,Ilirska Bistrica,038,Ilirska Bistrica,6250,45.5697,14.2408
+427,Ilirska Bistrica,038,Ilirska Bistrica-Trnovo,6251,45.6192,14.2205
+428,Ilirska Bistrica,038,Knežak,6253,45.6245,14.2448
+429,Ilirska Bistrica,038,Jelšane,6254,45.5028,14.2717
+430,Ilirska Bistrica,038,Prem,6255,45.6048,14.1834
+431,Ilirska Bistrica,038,Košana,6256,45.6192,14.2205
+432,Postojna,094,Pivka,6257,45.6829,14.1959
+433,Postojna,094,Prestranek,6258,45.7303,14.1862
+434,Koper,050,Dekani,6271,45.5497,13.8136
+435,Koper,050,Gračišče,6272,45.505,13.8769
+436,Koper,050,Marezige,6273,45.5097,13.8031
+437,Koper,050,Šmarje,6274,45.5014,13.7178
+438,Koper,050,Črni Kal,6275,45.55,13.88
+439,Koper,050,Pobegi,6276,45.5394,13.7961
+440,Koper,050,Ankaran/Ancarano,6280,45.5664,13.7994
+441,Koper,050,Škofije,6281,45.5664,13.7994
+442,Piran,090,Izola/Isola,6310,45.4955,13.6077
+443,Piran,090,Portorož/Portorose,6320,45.5143,13.5921
+444,Piran,090,Strunjan/Strugnano (sezonska pošta),6323,45.5143,13.5921
+445,Piran,090,Piran/Pirano,6330,45.4767,13.6233
+446,Piran,090,Sečovlje/Sicciole,6333,45.4767,13.6233
+447,Koper,050,Koper,6501,45.5469,13.7294
+448,Koper,050,Koper,6502,45.5469,13.7294
+449,Koper,050,Koper,6503,45.5469,13.7294
+450,Koper,050,Koper,6504,45.5469,13.7294
+451,Koper,050,Koper,6505,45.5469,13.7294
+452,Koper,050,Koper,6600,45.5469,13.7294
+453,Novo Mesto,085,Novo mesto - dostava,8000,45.8363,15.1899
+454,Novo Mesto,085,Novo mesto - poštni predali,8001,45.8296,15.1997
+455,Trebnje,130,Trebnje,8210,45.9042,15.0217
+456,Trebnje,130,Dobrnič,8211,45.875,14.98
+457,Trebnje,130,Velika Loka,8212,45.9289,14.9678
+458,Trebnje,130,Veliki Gaber,8213,45.9338,14.9071
+459,Novo Mesto,085,Mirna Peč,8216,45.8603,15.0833
+460,Novo Mesto,085,Šmarješke Toplice,8220,45.8624,15.2219
+461,Novo Mesto,085,Otočec,8222,45.8675,15.2733
+462,Trebnje,130,Mokronog,8230,45.9342,15.1408
+463,Trebnje,130,Trebelno,8231,45.9167,15.15
+464,Trebnje,130,Šentrupert,8232,45.9778,15.0956
+465,Trebnje,130,Mirna,8233,45.9553,15.0619
+466,Brežice,009,Brežice,8250,45.9033,15.5911
+467,Brežice,009,Čatež ob Savi,8251,45.8894,15.6025
+468,Brežice,009,Artiče,8253,45.9539,15.5878
+469,Brežice,009,Globoko,8254,45.955,15.6286
+470,Brežice,009,Pišece,8255,46.0017,15.6411
+471,Brežice,009,Sromlje,8256,45.9833,15.6
+472,Brežice,009,Dobova,8257,45.8972,15.6637
+473,Brežice,009,Kapele,8258,45.9333,15.6833
+474,Brežice,009,Bizeljsko,8259,46.0133,15.6967
+475,Brežice,009,Jesenice na Dolenjskem,8261,45.8917,15.5397
+476,Brežice,009,Krška vas,8262,45.9,15.5667
+477,Brežice,009,Cerklje ob Krki,8263,45.8834,15.5128
+478,Krško,054,Krško,8270,45.9591,15.4917
+479,Krško,054,Zdole,8272,45.9772,15.5458
+480,Krško,054,Leskovec pri Krškem,8273,45.9357,15.4718
+481,Krško,054,Raka,8274,45.9297,15.3842
+482,Novo Mesto,085,Škocjan,8275,45.9067,15.2914
+483,Novo Mesto,085,Bučka,8276,45.9333,15.3167
+484,Krško,054,Brestanica,8280,45.9953,15.4775
+485,Krško,054,Senovo,8281,46.0236,15.4769
+486,Krško,054,Koprivnica,8282,46.0353,15.5403
+487,Krško,054,Blanca,8283,45.9833,15.4
+488,Sevnica,110,Sevnica,8290,46.0078,15.3156
+489,Sevnica,110,Zabukovje,8292,46.055,15.3675
+490,Sevnica,110,Studenec,8293,45.9667,15.35
+491,Sevnica,110,Boštanj,8294,46.0144,15.2825
+492,Sevnica,110,Tržišče,8295,45.9589,15.1972
+493,Sevnica,110,Krmelj,8296,45.9847,15.1894
+494,Sevnica,110,Šentjanž,8297,46.0114,15.1672
+495,Novo Mesto,085,Šentjernej,8310,45.84,15.3361
+496,Novo Mesto,085,Kostanjevica na Krki,8311,45.8461,15.4222
+497,Krško,054,Podbočje,8312,45.8667,15.4667
+498,Novo Mesto,085,Brusnice,8321,45.7514,15.1715
+499,Novo Mesto,085,Stopiče,8322,45.7694,15.2097
+500,Novo Mesto,085,Uršna sela,8323,45.7333,15.1333
+501,Metlika,073,Metlika,8330,45.6472,15.3142
+502,Kočevje,,Suhor,8331,45.5296,14.8708
+503,Metlika,073,Gradac,8332,45.6167,15.25
+504,Črnomelj,,Semič,8333,45.6461,15.1822
+505,Črnomelj,,Črnomelj,8340,45.5711,15.1889
+506,Črnomelj,,Adlešiči,8341,45.5222,15.3065
+507,Črnomelj,,Stari trg ob Kolpi,8342,45.4936,15.0772
+508,Črnomelj,,Dragatuš,8343,45.5208,15.1756
+509,Črnomelj,,Vinica,8344,45.4601,15.254
+510,Novo Mesto,085,Dolenjske Toplice,8350,45.7566,15.0592
+511,Novo Mesto,085,Straža,8351,45.78,15.0728
+512,Novo Mesto,085,Žužemberk,8360,45.8339,14.9292
+513,Novo Mesto,085,Dvor,8361,45.8139,14.9711
+514,Novo Mesto,085,Hinje,8362,45.7656,14.8822
+515,Novo Mesto,085,Novo mesto,8501,45.804,15.1689
+516,Novo Mesto,085,Novo mesto,8600,45.804,15.1689
+517,Murska Sobota,080,Murska Sobota - dostava,9000,46.6586,16.162
+518,Murska Sobota,080,Murska Sobota - poštni predali,9001,46.6612,16.1651
+519,Murska Sobota,080,Puconci,9201,46.7067,16.1564
+520,Murska Sobota,080,Mačkovci,9202,46.7814,16.1689
+521,Murska Sobota,080,Petrovci,9203,46.8053,16.2225
+522,Murska Sobota,080,Šalovci,9204,46.825,16.2981
+523,Murska Sobota,080,Hodoš/Hodos,9205,46.7688,16.2396
+524,Murska Sobota,080,Križevci,9206,46.7889,16.2469
+525,Murska Sobota,080,Prosenjakovci/Partosfalva,9207,46.7408,16.3175
+526,Murska Sobota,080,Fokovci,9208,46.7333,16.2667
+527,Murska Sobota,080,Lendava/Lendva,9220,46.655,16.2946
+528,Murska Sobota,080,Martjanci,9221,46.6864,16.1978
+529,Murska Sobota,080,Bogojina,9222,46.6761,16.2839
+530,Murska Sobota,080,Dobrovnik/Dobronak,9223,46.655,16.2946
+531,Lendava,059,Turnišče,9224,46.6278,16.3203
+532,Lendava,059,Velika Polana,9225,46.5719,16.3469
+533,Murska Sobota,080,Moravske Toplice,9226,46.6831,16.2208
+534,Lendava,059,Kobilje,9227,46.6847,16.3978
+535,Murska Sobota,080,Beltinci,9231,46.6053,16.2406
+536,Lendava,059,Črenšovci,9232,46.5744,16.2906
+537,Lendava,059,Odranci,9233,46.5867,16.2803
+538,Ljutomer,063,Ljutomer,9240,46.5208,16.1975
+539,Ljutomer,063,Veržej,9241,46.5836,16.1653
+540,Ljutomer,063,Križevci pri Ljutomeru,9242,46.5683,16.1386
+541,Ljutomer,063,Mala Nedelja,9243,46.5289,16.0558
+542,Ljutomer,063,Sv. Jurij ob Ščavnici,9244,46.5594,16.1077
+543,Gornja Radgona,029,Spodnji Ivanjci,9245,46.5956,15.9814
+544,Gornja Radgona,029,Gornja Radgona,9250,46.6733,15.9922
+545,Murska Sobota,080,Tišina,9251,46.6836,16.0525
+546,Gornja Radgona,029,Radenci,9252,46.642,16.0378
+547,Gornja Radgona,029,Apače,9253,46.6972,15.9106
+548,Murska Sobota,080,Cankova,9261,46.7208,16.0225
+549,Murska Sobota,080,Rogašovci,9262,46.8,16.0333
+550,Murska Sobota,080,Kuzma,9263,46.8369,16.0833
+551,Murska Sobota,080,Grad,9264,46.8,16.1
+552,Murska Sobota,080,Bodonci,9265,46.7442,16.0922
+553,Murska Sobota,080,Murska Sobota,9501,46.6625,16.1664
+554,Gornja Radgona,029,Radenci,9502,46.642,16.0378
+555,Murska Sobota,080,Murska Sobota,9600,46.6625,16.1664

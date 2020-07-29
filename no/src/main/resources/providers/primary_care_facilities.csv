@@ -1,0 +1,86 @@
+,name,address,city,state,zip,phone,LAT,LON,hasSpecialties,ADDICTION MEDICINE,ADVANCED HEART FAILURE AND TRANSPLANT CARDIOLOGY,ALLERGY/IMMUNOLOGY,ANESTHESIOLOGY,ANESTHESIOLOGY ASSISTANT,AUDIOLOGIST,CARDIAC ELECTROPHYSIOLOGY,CARDIAC SURGERY,CARDIOVASCULAR DISEASE (CARDIOLOGY),CERTIFIED NURSE MIDWIFE,CERTIFIED REGISTERED NURSE ANESTHETIST,CHIROPRACTIC,CLINICAL NURSE SPECIALIST,CLINICAL PSYCHOLOGIST,CLINICAL SOCIAL WORKER,COLORECTAL SURGERY (PROCTOLOGY),CRITICAL CARE (INTENSIVISTS),DENTIST,DERMATOLOGY,DIAGNOSTIC RADIOLOGY,EMERGENCY MEDICINE,ENDOCRINOLOGY,FAMILY PRACTICE,GASTROENTEROLOGY,GENERAL PRACTICE,GENERAL SURGERY,GERIATRIC MEDICINE,GERIATRIC PSYCHIATRY,GYNECOLOGICAL ONCOLOGY,HAND SURGERY,HEMATOLOGY,HEMATOLOGY/ONCOLOGY,HEMATOPOIETIC CELL TRANSPLANTATION AND CELLULAR TH,HOSPICE/PALLIATIVE CARE,HOSPITALIST,INFECTIOUS DISEASE,INTERNAL MEDICINE,INTERVENTIONAL CARDIOLOGY,INTERVENTIONAL PAIN MANAGEMENT,INTERVENTIONAL RADIOLOGY,MAXILLOFACIAL SURGERY,MEDICAL ONCOLOGY,NEPHROLOGY,NEUROLOGY,NEUROPSYCHIATRY,NEUROSURGERY,NUCLEAR MEDICINE,NURSE PRACTITIONER,OBSTETRICS/GYNECOLOGY,OCCUPATIONAL THERAPY,OPHTHALMOLOGY,OPTOMETRY,ORAL SURGERY,ORTHOPEDIC SURGERY,OSTEOPATHIC MANIPULATIVE MEDICINE,OTOLARYNGOLOGY,PAIN MANAGEMENT,PATHOLOGY,PEDIATRIC MEDICINE,PERIPHERAL VASCULAR DISEASE,PHYSICAL MEDICINE AND REHABILITATION,PHYSICAL THERAPY,PHYSICIAN ASSISTANT,PLASTIC AND RECONSTRUCTIVE SURGERY,PODIATRY,PREVENTATIVE MEDICINE,PSYCHIATRY,PULMONARY DISEASE,RADIATION ONCOLOGY,REGISTERED DIETITIAN OR NUTRITION PROFESSIONAL,"RHEUMATOLOGY,",SLEEP MEDICINE,SPEECH LANGUAGE PATHOLOGIST,SPORTS MEDICINE,SURGICAL ONCOLOGY,THORACIC SURGERY,UNDEFINED PHYSICIAN TYPE (SPECIFY),"UROLOGY,",VASCULAR SURGERY,id
+0,Aker universitetssykehus,,Oslo,Oslo,0589,,59.9385162,10.7970604,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30000
+1,Akershus universitetssykehus (AHUS),Sykehuseveien 25.0,Nordbyhagen,Viken,1474,+47 91502900,59.9326763,10.9918113,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30001
+2,Alta helsesenter,,Alta,Troms Og Finnmark,9510,+47 78 48 39 00,69.968598,23.2736104,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30002
+3,Ambulansesentral Stavanger,Frida Hansens vei nan,Stavanger,Rogaland,4006,,58.9502967,5.7413033,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30003
+4,Betanien hospital,,Skien,Vestfold Og Telemark,3717,,59.2088591,9.596578,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30004
+5,Bjønnessåsen sykehjem,,,Vestfold Og Telemark,,,59.2153583,10.4258819,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30005
+6,Bærum sykehus,,Gjettum,Viken,1346,,59.8985754,10.5088813,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30006
+7,Diakonhjemmet sykehus,,Oslo,Oslo,0756,,59.9384833,10.7040525,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30007
+8,Diakonhjemmet sykehus Vinderen,Forskningsveien 7.0,Oslo,Oslo,0756,,59.9424202,10.7114431,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30008
+9,Drammen sykehus,,Drammen,Viken,3018,,59.7479714,10.1959677,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30009
+10,Gaustad sykehus,,Oslo,Oslo,0155,,59.9524183,10.717898,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30010
+11,Hammerfest sykehus,,,Troms Og Finnmark,9600,,70.6730658,23.6695155,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30011
+12,Harstad sykehus,,,Troms Og Finnmark,,,68.7965621,16.5246577,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30012
+13,Haugesund sykehus,,Haugesund,Rogaland,5527,,59.4095895,5.276797,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30013
+14,Haukeland Universitetssjukehus,,Bergen,Vestland,5021,,60.3727048,5.3612387,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30014
+15,Helgelandssykehuset Mo i Rana,,Selfors,Nordland,8613,,66.3251659,14.1878007,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30015
+16,Hjemmetjeneste sentral,,Tønsberg,Vestfold Og Telemark,3126,,59.2667009,10.4232623,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30016
+17,Hospital - Больница,,,Vestfold Og Telemark,9170,,78.0617681,14.2174494,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30017
+18,Kjelleparken,,,Vestfold Og Telemark,3126,,59.2854874,10.3975786,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30018
+19,Kleppheimen,Prestevegen 2.0,Kleppe,Rogaland,4352,,58.7716266,5.6285443,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30019
+20,Kragerø sykehus,,Kragerø,Vestfold Og Telemark,3772,,58.8801408,9.4050493,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30020
+21,Kristiansund sykehus,,,Møre Og Romsdal,6509,,63.1085295,7.7257795,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30021
+22,Kysthospitalet,,Stavern,Vestfold Og Telemark,3290,,58.9883608,10.029376,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30022
+23,LHL-sykehuset Gardermoen,,,Viken,2050,,60.1655699,11.1628979,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30023
+24,Lier sykehus,,Lierbyen,Viken,3403,,59.7931374,10.2646422,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30024
+25,Longyearbyen sykehus,,,Viken,9170,,78.2197781,15.6443373,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30025
+26,Lærdal sjukehus,,Lærdalsøyri,Vestland,6887,+4757640000,61.1021218,7.5197964,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30026
+27,Martina Hansens hospital,Dønskiveien 8.0,Gjettum,Viken,1346,+47 06780,59.8973164,10.5095119,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30027
+28,Molde sjukehus,,Molde,Møre Og Romsdal,6415,+4771120000,62.7357395,7.1384185,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30028
+29,Mosjøen sykehus,,Mosjøen,Nordland,8665,,65.8314537,13.2127461,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30029
+30,Narvik sykehus,,Narvik,Nordland,8514,,68.4416343,17.4116572,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30030
+31,Nordfjord sjukehus,,Nordfjordeid,Vestland,6770,,61.9163312,5.9779942,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30031
+32,Nordlandsykehuset,,Bodø,Nordland,8006,,67.2840314,14.3964231,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30032
+33,Nøtterøy helsesenter,,,Vestfold Og Telemark,,,59.240504,10.3962931,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30033
+34,Oslo universitetssykehus (Rikshospitalet),,Oslo,Oslo,0155,02770,59.9473315,10.7176906,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30034
+35,Oslo universitetssykehus (Ullevål),,Oslo,Oslo,0155,,59.9397043,10.7462623,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30035
+36,Radiumhospitalet,,Oslo,Oslo,0284,,59.9314134,10.6652211,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30036
+37,Reinsvoll sykehus,,Reinsvoll,Innlandet,2840,,60.6829305,10.6466351,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30037
+38,Ringerike Sykehus,,Hønefoss,Viken,3510,,60.1472542,10.2572052,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30038
+39,Ringerike Sykehus HF,Arnold Dybsjords vei 1.0,Hønefoss,Viken,3511,,60.1494536,10.25321,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30039
+40,Sanderud sykehus,,Ottestad,Innlandet,2312,,60.7800381,11.1583621,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30040
+41,Sem bo- og servicesenter,,,Vestfold Og Telemark,3126,,59.2839159,10.3273662,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30041
+42,Ski sykehus,,Ski,Viken,1400,,59.7262433,10.8435081,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30042
+43,Smidsrød helsehus,,,Vestfold Og Telemark,,,59.2386863,10.4236298,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30043
+44,Spesialsykehuset for epilepsi (SSE),,Sandvika,Viken,1337,,59.9046172,10.5331136,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30044
+45,"St. Olavs, avdeling Orkdal",,Orkanger,Trøndelag,7300,,63.2934849,9.8447053,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30045
+46,Stavanger Universitetssjukehus,Gerd-Ragna Bloch Thorsens gate 8,Stavanger,Rogaland,4011,,58.9536493,5.7297186,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30046
+47,Stokmarknes sykehus,,,Nordland,8445,,68.5593337,14.9102092,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30047
+48,Stord sjukehus,,,Vestland,,,59.7932041,5.5114479,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30048
+49,Sunnaas sykehus,,Bjørnemyrdalen,Viken,1453,,59.8346439,10.6383239,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30049
+50,Sykehuset Innlandet HF Elverum,,Elverum,Innlandet,2413,,60.8779128,11.5695765,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30050
+51,Sykehuset Innlandet HF Gjøvik,,Gjøvik,Innlandet,2815,,60.8039008,10.6778687,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30051
+52,Sykehuset Innlandet HF Lillehammer,,Lillehammer,Innlandet,2609,06200,61.1111473,10.4730043,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30052
+53,Sykehuset Innlandet Tynset,Sjukehusveien 9,Tynset,Innlandet,2500,,62.2706896,10.7755758,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30053
+54,Sykehuset Namsos,,Namsos,Trøndelag,7800,,64.4718134,11.5046675,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30054
+55,Sykehuset Telemark - Notodden,Henrik Wergelands gate 9.0,Notodden,Vestfold Og Telemark,3681,,59.5663592,9.2541306,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30055
+56,"Sykehuset Telemark, Skien",,Skien,Vestfold Og Telemark,3717,,59.1923384,9.5886445,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30056
+57,"Sykehuset i Vestfold, DPS nord",Ørsnesalleen 14.0,,Vestfold Og Telemark,,,59.2556667,10.4225446,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30057
+58,"Sykehuset i Vestfold, DPS sør",,Larvik,Vestfold Og Telemark,3256,,59.0513463,10.0409563,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30058
+59,"Sykehuset i Vestfold, DPS sør",,Sandefjord,Vestfold Og Telemark,3210,,59.1330474,10.2355804,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30059
+60,"Sykehuset i Vestfold, Granli",,,Vestfold Og Telemark,3126,,59.2910239,10.3030672,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30060
+61,"Sykehuset i Vestfold, Larvik",,Larvik,Vestfold Og Telemark,3256,,59.0537353,10.0346478,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30061
+62,"Sykehuset i Vestfold, Tønsberg",Halfdan Wilhelmsens allé 17.0,Tønsberg,Vestfold Og Telemark,3126,+47 33342000,59.272295,10.4157759,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30062
+63,Sykehuset Østfold Kalnes,,Grålum,Viken,1712,,59.3181672,11.018015,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30063
+64,Sørlandet Sykehus Arendal,,Arendal,Agder,4838,,58.4674849,8.7519258,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30064
+65,Sørlandet sykehus Kristiansand,Egsveien 100.0,Kristiansand,Agder,4610,+47 906 10 600,58.1628736,7.9790683,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30065
+66,Tretten Sjukeheim,,Tretten,Innlandet,2635,,61.3137172,10.3029898,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30066
+67,Træleborg sykehjem,,Tønsberg,Vestfold Og Telemark,3126,,59.265766,10.4240187,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30067
+68,Universitetssykehuset Nord-Norge,,,Troms Og Finnmark,9008,,69.6829833,18.9793753,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30068
+69,Veum sykehus,,,Viken,1607,,59.2512273,10.9337489,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30069
+70,Volda Sjukehus,,Volda,Møre Og Romsdal,6102,,62.1504559,6.0910887,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30070
+71,Voss sjukehus,,Voss,Vestland,5700,,60.633293,6.4203051,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30071
+72,Ålesund sjukehus,,Åse,Møre Og Romsdal,6017,,62.4640169,6.3113868,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30072
+73,Østmarka psykiatriske sykehus,,Trondheim,Trøndelag,7011,,63.4514201,10.449336,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30073
+74,Betesda Spesialistsenter,Rektor Østbyesgate 4.0,Fredrikstad,Viken,1607,,59.209611,10.9508621,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30074
+75,Fana Helsestasjon,,Fana,Vestland,5244,,60.2633733,5.3432066,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30075
+76,Fastleger,,Vear,Vestfold Og Telemark,3173,,59.264546,10.3614884,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30076
+77,Hatlestrand helsesenter,,Gjermundshamn,Vestland,5635,,60.0584951,5.9171744,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30077
+78,Heistad legekontor,,Porsgrunn,Vestfold Og Telemark,3915,,59.0857464,9.6830831,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30078
+79,Kolsås helsestasjon,,Kolsås,Viken,1352,,59.9160428,10.5002285,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30079
+80,Risøyhamn legekontor,,,Nordland,8480,,68.9752687,15.6457614,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30080
+81,Tau legesenter,Bergtunvegen 2.0,Tau,Rogaland,4120,,59.0651191,5.9130653,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30081
+82,Tjølling legekontor,,Tjøllingvollen,Vestfold Og Telemark,3280,,59.0536843,10.1205261,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30082
+83,Utne legekontor,,Utne,Vestland,5778,,60.4232299,6.6206038,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30083
+84,Vinstra legevakt,Nordre Byre nan,Vinstra,Innlandet,2640,,61.6011348,9.7401189,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30084

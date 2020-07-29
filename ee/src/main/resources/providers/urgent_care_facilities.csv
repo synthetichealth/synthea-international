@@ -1,0 +1,46 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,20000,Elite,Sangla 63,Tartu,Tartu Maakond,51003,,+372 7409930,,,,,58.370081,26.684318
+1,20001,Elva haigla,Supelranna 19,Elva,Tartu Maakond,61507,,,,,,,58.2300372,26.4091948
+2,20002,Hiiumaa Haigla,Rahu 2,Hiiumaa vald,Hiiu Maakond,92412,,,,,Yes,,58.9995925,22.7548126
+3,20003,Ida-Tallinna Keskhaigla,Ravi 18,Tallinn,Harju Maakond,10118,,,,,Yes,,59.4280322,24.7552877
+4,20004,Jämejala Psühhiaatriakliinik,,Viljandi vald,Viljandi Maakond,71024,,,,,,,58.3889134,25.5828945
+5,20005,Järve haigla,Energia 8,Tallinn,Harju Maakond,13417,,,,,No,,59.3965488,24.713345
+6,20006,Jõgeva Haigla,Piiri 2,Jõgeva,Jõgeva Maakond,48307,,,,,,,58.747149,26.382623
+7,20007,Kallavere Haigla,Haigla 2,Maardu,Harju Maakond,74117,,,,,,,59.476097,25.019741
+8,20008,Kesklinna Lastepolikliinik,Ravi 27,Tallinn,Harju Maakond,10118,,,,,,,59.428859,24.756893
+9,20009,Kiviõli polikliinik,Keskpuiestee 36,Lüganuse,Ida-viru Maakond,43125,,,,,,,59.355389,26.980723
+10,20010,Kose Haigla,Ravila mnt 29,Kose,Harju Maakond,75101,,,,,,,59.1857728,25.1856905
+11,20011,LTK nakkuskliinik,Paldiski mnt 66,Tallinn,Harju Maakond,10313,,,,,,,59.4302497,24.6950825
+12,20012,Lääne-Tallinna Keskhaigla,,Tallinn,Harju Maakond,10148,,,,,,,59.4326859,24.6912499
+13,20013,Lõuna-Eesti Haigla,,Võru vald,Võru Maakond,65526,,,,,,,57.8087664,26.9978984
+14,20014,Narva Haigla,Haigla 1,Narva,Ida-viru Maakond,20104,,,,,,,59.3626423,28.19309
+15,20015,Pelgulinna Haigla,,Tallinn,Harju Maakond,10313,,,,,,,59.436476,24.7113685
+16,20016,Poliklinnik,Nooruse 3,Jõhvi,Ida-viru Maakond,41536,,,,,,,59.361836,27.411685
+17,20017,Pärnu Haigla,Ristiku 1,Pärnu,Pärnu Maakond,80047,,,,,,,58.3873926,24.5446338
+18,20018,Pärnu Haigla Õendus-ja hoolduskeskus,Ravi 2,Pärnu,Pärnu Maakond,80011,,,,,No,,58.3726492,24.5340338
+19,20019,Põhja-Eesti Regionaalhaigla,Juhan Sütiste tee 19,Tallinn,Harju Maakond,12911,,+372 617 1300,,,Yes,,59.399837,24.702112
+20,20020,Põhja-Eesti Regionaalhaigla,,Tallinn,Harju Maakond,12911,,,,,,,59.3971642,24.6975188
+21,20021,Põhja-Eesti Regionaalhaigla psühhiaatriakliinik,,Tallinn,Harju Maakond,10313,,,,,,,59.4328923,24.69131
+22,20022,Rakvere Haigla,Lõuna põik 1,Rakvere,Lääne-viru Maakond,44316,,,,,,,59.336518,26.3766666
+23,20023,Rakvere haigla,Lõuna põik 1/2,Rakvere,Lääne-viru Maakond,44308,,,,,,,59.3354194,26.3764032
+24,20024,Rakvere haigla,Lõuna põik 1/3,Rakvere,Lääne-viru Maakond,44308,,,,,,,59.335003,26.3760099
+25,20025,Rakvere haigla,Lõuna põik 1/1,Rakvere,Lääne-viru Maakond,44308,,,,,,,59.3352603,26.37747
+26,20026,Rapla Haigla,Alu tee 1,Rapla,Rapla Maakond,79515,,,,,Yes,,59.0074186,24.7928732
+27,20027,Tallinna Lastehaigla,Tervise 28,Tallinn,Harju Maakond,13419,,,,,Yes,,59.3986599,24.7055012
+28,20028,Tapa Haigla,,Tapa,Lääne-viru Maakond,45107,,,,,,,59.2696363,25.9630216
+29,20029,Tartu Ülikooli Kliinikum,Ludvig Puusepa 8,Tartu,Tartu Maakond,50406,,,,,Yes,,58.3702668,26.697912
+30,20030,Viljandi haigla,Pärna tee 3,Viljandi vald,Viljandi Maakond,71024,,,,,,,58.3831279,25.5763861
+31,20031,Viljandi haigla,,Viljandi vald,Viljandi Maakond,71024,,,,,,,58.3815496,25.5755153
+32,20032,Wismari haigla,Wismari 15,Tallinn,Harju Maakond,10132,,,,,No,,59.432197,24.732725
+33,20033,Emmaste Kliinik,,Hiiumaa vald,Hiiu Maakond,92412,,,,,,,58.7069915,22.5866273
+34,20034,Keila Perearstikeskus,Keskväljak 12a,Keila,Harju Maakond,76607,,,,,,,59.3094795,24.4225394
+35,20035,Kostivere perearstikeskus,,Jõelähtme,Harju Maakond,74204,,,,,No,,59.4265434,25.0926739
+36,20036,Maarjamõisa polikliinik,Ludvig Puusepa 1a,Tartu,Tartu Maakond,51003,,,,,,,58.367838,26.7039195
+37,20037,Maramaa Klinik,August Maramaa pst 5,Viljandi,Viljandi Maakond,71014,,,,,,,58.3698269,25.6009022
+38,20038,Narva Haigla Polikliinik,Hariduse 15a,Narva,Ida-viru Maakond,20303,,,,,,,59.3801601,28.1941217
+39,20039,Narva Kliinik,Aasa 4,Narva,Ida-viru Maakond,20303,,,,,,,59.3825326,28.1708391
+40,20040,Põlva tervisekeskus,Uus 2,Põlva,Põlva Maakond,63308,,,,,,,58.054855,27.046864
+41,20041,Rakvere polikliinik,Tuleviku 1,Rakvere,Lääne-viru Maakond,44308,,,,,,,59.3446545,26.3644527
+42,20042,Rannu perearsti punkt,,Elva,Tartu Maakond,61507,,,,,,,58.248592,26.1908776
+43,20043,Suure-Jaani Perearstikeskus,Tallinna 11,Põhja-Sakala vald,Viljandi Maakond,71502,,,,,,,58.5375375,25.4698067
+44,20044,Tähe Erakliinik,Tähe 95,Tartu,Tartu Maakond,51003,,,,,,,58.361985,26.7298731
