@@ -12,6 +12,14 @@ Each folder within this repository contains files for one nation or area. To con
 cp -R example/ ../synthea
 ```
 
+# internaional region status
+
+Most regions of the countries provided in this repository are working but some are not.  
+
+This can be due to lack of provider data from a particular region.
+
+This is a report(./status.txt) of the current status.
+
 # License
 
 Copyright 2020 The MITRE Corporation
