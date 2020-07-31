@@ -13,7 +13,7 @@ cp -R example/* ../synthea
 
 ```
 
-Here are the specific steps need to generate patients for Great Britain county of Suffolk city Bristol
+Here are the specific steps needed to generate patients for Great Britain county of Suffolk city Bristol
 
 ```
 git clone https://github.com/synthetichealth/synthea
@@ -24,19 +24,24 @@ cd ../synthea
 ./run_synthea -p 5 Somerset Bristol
 ```
 
+# Data sources
+
+Providers - Extracted from OpenStreetMaps
+Zip codes, city names and populations - geonames.org
+Demographic data - Finland demographics are copied to all European countries. 
 
 # International region status
 
 Most regions of the countries provided in this repository are working but some are not.  
 
-This can be due to lack of provider data from a particular region.
+This is a [report](./status.txt) of the current status.  A region needs all "True" entries to function.  This can be due to lack of mappers in OpenStreetMaps where providers are extracted from.  There are also issues with the zip code files that have mostly English names that don't match up with local naming.  
 
-This is a [report](./status.txt) of the current status.
+After some research, OpenStreetMaps and geonames.org was determined to be the best source of open data.  If there is one open source set of zip codes, cities and providers across Europe let us know and we can build that into the pipeline.
 
-- Demographic data is not accurate.  We don't have demographics data for each european country.  All European countries get a copy of Finland's demographics where we have data
-- zip codes/lat/lon and city data is accurate.
-- health care providers are extracted from open street maps.
+Other Issues:
+
 - phone numbers are in US format still.
+- Names are based on USA common names except for Finland.
 
 # License
 
