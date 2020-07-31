@@ -9,8 +9,21 @@ This repository contains metadata and configuration files for international loca
 Each folder within this repository contains files for one nation or area. To configure Synthea for one of these locations, simply copy the contents of a folder into the Synthea repository. For example:
 
 ```
-cp -R example/ ../synthea
+cp -R example/* ../synthea
+
 ```
+
+Here are the specific steps need to generate patients for Great Britain county of Suffolk city Bristol
+
+```
+git clone https://github.com/synthetichealth/synthea
+git clone https://github.com/synthetichealth/synthea-international
+cd synthea-international
+cp -R gb/* ../synthea
+cd ../synthea
+./run_synthea -p 5 Somerset Bristol
+```
+
 
 # International region status
 
@@ -19,6 +32,11 @@ Most regions of the countries provided in this repository are working but some a
 This can be due to lack of provider data from a particular region.
 
 This is a [report](./status.txt) of the current status.
+
+- Demographic data is not accurate.  We don't have demographics data for each european country.  All European countries get a copy of Finland's demographics where we have data
+- zip codes/lat/lon and city data is accurate.
+- health care providers are extracted from open street maps.
+- phone numbers are in US format still.
 
 # License
 
