@@ -290,7 +290,7 @@
 1956,1956,Portage District General Hospital,524 5 st se,Portage la Prairie,MB,R1N 3A8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.96723,-98.2815
 1954,1954,Pine Falls Hospital,37 maple st,Powerview-Pine Falls,MB,R0E 1M0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.56338,-96.2148
 1841,1841,Birtle Health Centre,843 gertrude st,Prairie View,MB,R0M 0C0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.425754600000005,-101.04682
-1971,1971,Riverdale Health Centre,512 quйbec st,Riverdale,MB,R0K 1X0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.0351804,-100.242086
+1971,1971,Riverdale Health Centre,512 québec st,Riverdale,MB,R0K 1X0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.0351804,-100.242086
 1977,1977,Rossburn Health Centre,116 parkview dr,Rossburn,MB,R0J 1V0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.667058600000004,-100.8045689
 1978,1978,Russell Health Centre,426 alexandria ave,Russell-Binscarth,MB,R0J 1W0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.77316679999999,-101.2772138
 1980,1980,Selkirk & District General Hospital,100 easton dr,Selkirk,MB,R1A 2M2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.1574965,-96.88771379999999
@@ -299,7 +299,7 @@
 1994,1994,South Indian Lake Nursing Station,1 Main Street,South Indian Lake,MB,R0B 1N0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,50.2732653543307087,-98.5841700787401575
 1868,1868,DE SALABERRY DISTRICT HEALTH CENTRE,354 prefontaine avenue,St-Pierre-Jolys,MB,R0A 1V0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,49.444981,-96.988244
 2001,2001,St. Theresa Point Nursing Station,1 Main Street,St. Theresa Point,MB,R0B 1J0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,50.2732653543307087,-98.5841700787401575
-1910,1910,HФPITAL STE-ANNE HOSPITAL,52 st gйrard st,Ste. Anne,MB,R5H 1C4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.6678815,-96.6476614
+1910,1910,HôPITAL STE-ANNE HOSPITAL,52 st gérard st,Ste. Anne,MB,R5H 1C4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.6678815,-96.6476614
 1839,1839,Bethesda Hospital,316 henry st,Steinbach,MB,R5G 1A3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.529588700000005,-96.6800683
 1870,1870,Dr. Evelyn Memorial Hospital,589 3 avenue,Stonewall,MB,R0C 2Z0,,1-800-622-6232,Hospitals,Province of Manitoba and Manitoba Health Authorities,Yes,5,50.130342600000006,-97.3357173
 2004,2004,Stonewall and District Health Centre,589 3 avenue s,Stonewall,MB,R0C 2Z0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,50.131652,-97.335247
@@ -315,7 +315,7 @@
 1988,1988,Gladstone Health Centre,24 mill st,WestLake-Gladstone,MB,R0J 0T0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.225678,-98.9435589
 1844,1844,Boundary Trails Health Centre,12140 jct hwy 3 and 14,Winkler,MB,R6W 1H8,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,49.1817,-97.9397
 2021,2021,Victoria General Hospital - Winnipeg,2340 pembina hwy,Winnipeg,MB,R3T 2E8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.8067554,-97.1527389
-1998,1998,St. Boniface General Hospital,409 tachй ave,Winnipeg,MB,R2H 2A6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.884337200000004,-97.1248402
+1998,1998,St. Boniface General Hospital,409 taché ave,Winnipeg,MB,R2H 2A6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.884337200000004,-97.1248402
 1859,1859,Concordia Hospital,1095 concordia ave,Winnipeg,MB,R2K 3S8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.913511,-97.06463000000001
 1987,1987,Seven Oaks General Hospital,2300 mcphillips st,Winnipeg,MB,R2V 3M3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.9553126,-97.1461033
 1897,1897,Grace General Hospital,300 booth dr,Winnipeg,MB,R3J 3M7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.882355100000005,-97.2767758
@@ -332,32 +332,32 @@
 1922,1922,Little Grand Rapids Station,1 Main Street,little grand rapids,MB,R0B 0V0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,50.2732653543307087,-98.5841700787401575
 1949,1949,Pauingassi Nursing Station,1 Main Street,pauingassi,MB,R0B 2G0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,50.2732653543307087,-98.5841700787401575
 1989,1989,Shamattawa Nursing Station,1 Main Street,shamattawa,MB,R0B 1K0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,50.2732653543307087,-98.5841700787401575
-2068,2068,HФPITAL RЙGIONAL CHALEUR,1750 prom sunset,Bathurst,NB,E2A 4L7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.649288,-65.69467399999999
+2068,2068,HôPITAL RéGIONAL CHALEUR,1750 prom sunset,Bathurst,NB,E2A 4L7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.649288,-65.69467399999999
 2043,2043,Centre Hospitalier Restigouche Inc.,65 prom gallant,Campbellton,NB,E3N 2T5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.9930568,-66.6665744
 2038,2038,Campbellton Regional Hospital,189 ch lily lake,Campbellton,NB,E3N 3H3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.9930568,-66.6665744
-2064,2064,HФPITAL DE L'ENFANT - JЙSUS RHSJ,1 boul st-pierre ouest,Caraquet,NB,E1W 1B6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.7945304,-64.93871899999999
-2069,2069,HФPITAL RЙGIONAL D'EDMUNDSTON,275 boul hйbert,Edmundston,NB,E3V 4E4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.375995200000006,-68.31068990000001
+2064,2064,HôPITAL DE L'ENFANT - JéSUS RHSJ,1 boul st-pierre ouest,Caraquet,NB,E1W 1B6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.7945304,-64.93871899999999
+2069,2069,HôPITAL RéGIONAL D'EDMUNDSTON,275 boul hébert,Edmundston,NB,E3V 4E4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.375995200000006,-68.31068990000001
 2049,2049,Dr. Everett Chalmers Regional Hospital,700 priestman st,Fredericton,NB,E3B 5N5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.9389697,-66.6544717
 2093,2093,the Stan Cassidy Centre for Rehabilitation,800 priestman st,Fredericton,NB,E3B 0C7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.9374307,-66.65293829999999
-2067,2067,HФPITAL GENERAL DE GRAND-SAULT,625 boul evйrard h daigle,Grand Falls / Grand-Sault,NB,E3Z 2R9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.0452984,-67.754333
+2067,2067,HôPITAL GENERAL DE GRAND-SAULT,625 boul evérard h daigle,Grand Falls / Grand-Sault,NB,E3Z 2R9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.0452984,-67.754333
 2060,2060,Grand Manan Hospital,196 rte 776,Grand Manan,NB,E5G 1A3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.7622016,-66.7638355
-2066,2066,HФPITAL ET CENTRE DE SANTЙ COMMUNAUTAIRE DE LAMИQUE,29 rue de l'hфpital,Lamиque,NB,E8T 1C5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.791638899999995,-64.6531608
+2066,2066,HôPITAL ET CENTRE DE SANTé COMMUNAUTAIRE DE LAMИQUE,29 rue de l'hôpital,Lamиque,NB,E8T 1C5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.791638899999995,-64.6531608
 2075,2075,Miramichi Regional Hospital,500 water st,Miramichi,NB,E1V 3G5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.0028679,-65.5414429
-2044,2044,Centre Hospitalier Universitaire Dr-Georges-l.-Dumont,330 ave universitй,Moncton,NB,E1C 2Z3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.0980252,-64.7862138
+2044,2044,Centre Hospitalier Universitaire Dr-Georges-l.-Dumont,330 ave université,Moncton,NB,E1C 2Z3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.0980252,-64.7862138
 2091,2091,the Moncton Hospital,135 macbeath ave,Moncton,NB,E1C 6Z8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.104977000000005,-64.80615
 2077,2077,Oromocto Public Hospital,103 winnebago st,Oromocto,NB,E2V 1C6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.848636299999995,-66.4731796
 2062,2062,Hotel Dieu of Saint-Joseph,10 woodland hill,Perth-Andover,NB,E7H 5H5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.7290031,-67.710327
 2094,2094,Tobique Valley Community Health Centre,120 main st,Plaster Rock,NB,E7G 2E5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.8910194,-67.397851
-2070,2070,HФPITAL STELLA-MARIS-DE-KENT,7714 rte 134,Richibucto,NB,E4S 1H5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.5588706,-64.78235079999999
+2070,2070,HôPITAL STELLA-MARIS-DE-KENT,7714 rte 134,Richibucto,NB,E4S 1H5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.5588706,-64.78235079999999
 2081,2081,Sackville Memorial Hospital,8 main st,Sackville,NB,E4L 4A3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.8919015,-64.3724448
 2099,2099,Workers' Rehabilitation Centre,3700 westfield rd,Saint John,NB,E2M 5Z4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.2979544,-66.19387689999999
 2083,2083,Saint John Regional Hospital,400 university avenue,Saint John,NB,E2L 4L2,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,45.302733,-66.08515
-2085,2085,ST. JOSEPH'S HOSPITAL / HФPITAL ST. JOSEPH,130 bayard drive,Saint John,NB,E2L 3L6,,1-800-622-6232,Hospitals,Horizon Health Authority - New Brunswick,Yes,5,45.279030999999996,-66.057905
+2085,2085,ST. JOSEPH'S HOSPITAL / HôPITAL ST. JOSEPH,130 bayard drive,Saint John,NB,E2L 3L6,,1-800-622-6232,Hospitals,Horizon Health Authority - New Brunswick,Yes,5,45.279030999999996,-66.057905
 2041,2041,Centracare Saint John Inc.,414 bay st,Saint John,NB,E2M 7L4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.2543073,-66.1268967
-2071,2071,HФTEL-DIEU SAINT-JOSEPH DE SAINT-QUENTIN / HФTEL-DIEU SAINT-JOSEPH DE SAINT-QUENTIN,21 canada street,Saint-Quentin,NB,E8A 2P6,,1-800-622-6232,Hospitals,Vitalitй Health Authority - New Brunswick,Yes,5,47.497546,-67.393196
+2071,2071,HôTEL-DIEU SAINT-JOSEPH DE SAINT-QUENTIN / HôTEL-DIEU SAINT-JOSEPH DE SAINT-QUENTIN,21 canada street,Saint-Quentin,NB,E8A 2P6,,1-800-622-6232,Hospitals,Vitalité Health Authority - New Brunswick,Yes,5,47.497546,-67.393196
 2047,2047,Charlotte County Hospital,4 garden st,St. Stephen,NB,E3L 2L9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.194485799999995,-67.2658217
 2089,2089,Sussex Health Centre,75 leonard dr,Sussex,NB,E4E 2P7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.726332899999996,-65.49057420000001
-2065,2065,HФPITAL DE TRACADIE-SHEILA,400 rue des hospitaliиres,Tracadie,NB,E1X 1G5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.5123828,-64.90633000000001
+2065,2065,HôPITAL DE TRACADIE-SHEILA,400 rue des hospitaliиres,Tracadie,NB,E1X 1G5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.5123828,-64.90633000000001
 2097,2097,Upper River Valley Hospital,11300 route 130,Wakefield,NB,E7P 0A4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.283592999999996,-67.571154
 2102,2102,Baie Verte Peninsula Health Centre,1 columbus dr,Baie Verte,NL,A0K 1B0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.925666299999996,-56.221936
 2109,2109,Bonavista Peninsula Health Centre,20-24 hospital road,Bonavista,NL,A0C 1B0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.646578000000005,-53.108451
@@ -516,7 +516,7 @@
 3766,3766,Hamilton Health Sciences - Hamilton General Hospital,237 barton st e,Hamilton,ON,L8L 2X2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.2617528,-79.8543243
 3768,3768,Hamilton Health Sciences - Juravinski Hospital,711 concession st,Hamilton,ON,L8V 1C3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.2399446,-79.8464032
 3791,3791,Hanover and District Hospital,90 7 ave,Hanover,ON,N4N 1N1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.141467999999996,-81.02933399999999
-3964,3964,HФPITAL GENERAL DE HAWKESBURY AND DISTRICT GENERAL HOSPITAL INC.,1111 rue ghislain,Hawkesbury,ON,K6A 3G5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.599497899999996,-74.607557
+3964,3964,HôPITAL GENERAL DE HAWKESBURY AND DISTRICT GENERAL HOSPITAL INC.,1111 rue ghislain,Hawkesbury,ON,K6A 3G5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.599497899999996,-74.607557
 4612,4612,Notre-Dame Hospital - Hearst,1405 edward st,Hearst,ON,P0L 1N0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.685733899999995,-83.67905
 3888,3888,Hornepayne Community Hospital,278 front st,Hornepayne,ON,P0M 1Z0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.212827000000004,-84.774059
 3949,3949,Huron Perth Healthcare Alliance - Seaforth Community Hospital,24 centennial dr,Huron East,ON,N0K 1W0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.5511473,-81.3851219
@@ -566,7 +566,7 @@
 4523,4523,North Bay Regional Health Centre,50 college dr,North Bay,ON,P1B 0A4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.335613,-79.498369
 4518,4518,North Bay General Hospital - Mclaren Site,720 mclaren st,North Bay,ON,P1B 5A4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.319699799999995,-79.4661452
 6067,6067,Winchester District Memorial Hospital,566 louise st,North Dundas,ON,K0C 2K0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.088615600000004,-75.3522595
-3965,3965,HФPITAL GLENGARRY MEMORIAL HOSPITAL,20260 county rd 43,North Glengarry,ON,K0C 1A0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.305873,-74.644064
+3965,3965,HôPITAL GLENGARRY MEMORIAL HOSPITAL,20260 county rd 43,North Glengarry,ON,K0C 1A0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.305873,-74.644064
 4049,4049,Kemptville District Hospital,2675 concession rd,North Grenville,ON,K0G 1J0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.0099179,-75.64134820000001
 4197,4197,Listowel Wingham Hospitals Alliance - Wingham and District Hospital,270 carling terrace,North Huron,ON,N0G 2W0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.8848,-81.306698
 4196,4196,Listowel Wingham Hospitals Alliance - Listowel Memorial Hospital,255 elizabeth st e,North Perth,ON,N4W 2P5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.7333597,-80.94894090000001
@@ -579,12 +579,12 @@
 4119,4119,Lakeridge Health - Oshawa,1 hospital crt,Oshawa,ON,L1G 2B9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.905564,-78.869384
 5660,5660,the Ottawa Hospital - Civic Campus,1053 carling ave,Ottawa,ON,K1Y 4E9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.3925787,-75.7214357
 4860,4860,Queensway Carleton Hospital,3045 baseline rd,Ottawa,ON,K2H 8P4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.335026899999995,-75.8069842
-3971,3971,HФPITAL ЙLISABETH BRUYИRE HOSPITAL,43 bruyиre st,Ottawa,ON,K1N 5C8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.431931,-75.6970115
-3968,3968,HФPITAL MONTFORT HOSPITAL,713 ch montrйal rd,Ottawa,ON,K1K 0T2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.4459814,-75.63923840000001
+3971,3971,HôPITAL éLISABETH BRUYИRE HOSPITAL,43 bruyиre st,Ottawa,ON,K1N 5C8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.431931,-75.6970115
+3968,3968,HôPITAL MONTFORT HOSPITAL,713 ch montréal rd,Ottawa,ON,K1K 0T2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.4459814,-75.63923840000001
 5073,5073,Royal Ottawa Mental Health Centre,1145 carling ave,Ottawa,ON,K1Z 7K4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.389005600000004,-75.7301564
 5658,5658,the Ottawa Hospital - Riverside Campus,1967 riverside dr,Ottawa,ON,K1H 7W9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.3963547,-75.66885570000001
-5657,5657,THE OTTAWA HOSPITAL/L'HФPITAL D'OTTAWA - GENERAL CAMPUS,501 smyth rd,Ottawa,ON,K1H 8L6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.40172020000001,-75.6469402
-5659,5659,THE OTTAWA HOSPITAL/L'HФPITAL D'OTTAWA - THE REHABILITATION CENTRE,505 smyth rd,Ottawa,ON,K1H 8M2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.403154799999996,-75.6484435
+5657,5657,THE OTTAWA HOSPITAL/L'HôPITAL D'OTTAWA - GENERAL CAMPUS,501 smyth rd,Ottawa,ON,K1H 8L6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.40172020000001,-75.6469402
+5659,5659,THE OTTAWA HOSPITAL/L'HôPITAL D'OTTAWA - THE REHABILITATION CENTRE,505 smyth rd,Ottawa,ON,K1H 8M2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.403154799999996,-75.6484435
 5696,5696,the University of Ottawa Heart Institute,40 ruskin st,Ottawa,ON,K1Y 4W7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.394161100000005,-75.7206815
 3143,3143,Children's Hospital of Eastern Ontario,401 smyth road,Ottawa,ON,K1H 8L1,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,45.40076679999999,-75.652152
 3698,3698,Grey Bruce Health Services (Corporate Headquarters) - Owen Sound,1800 8 st e,Owen Sound,ON,N4K 6M9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.569716,-80.910861
@@ -625,7 +625,7 @@
 5419,5419,St. Joseph's Care Group - Lakehead Psychiatric Hospital,580 algoma st n,Thunder Bay,ON,P7B 5G4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.438058000000005,-89.222677
 5743,5743,Thunder Bay Regional Health Sciences Centre,980 oliver rd,Thunder Bay,ON,P7B 6V4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.4247133,-89.269097
 5748,5748,Tillsonburg District Memorial Hospital,167 rolph st,Tillsonburg,ON,N4G 3Y9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,42.863122,-80.734751
-5755,5755,TIMMINS AND DISTRICT HOSPITAL/L'HФPITAL DE TIMMINS ET DU DISTRICT,700 ross ave e,Timmins,ON,P4N 8P2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.487586900000004,-81.3135915
+5755,5755,TIMMINS AND DISTRICT HOSPITAL/L'HôPITAL DE TIMMINS ET DU DISTRICT,700 ross ave e,Timmins,ON,P4N 8P2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.487586900000004,-81.3135915
 2954,2954,Centre for Addiction and Mental Health - College St. Site,250 college st,Toronto,ON,M5T 1R8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.658404600000004,-79.39896759999999
 3909,3909,Hospital for Sick Children,555 university avenue,Toronto,ON,M5G 1X8,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,43.657374,-79.387437
 3873,3873,Holland Bloorview Kids Rehabilitation Hospital,150 kilgour rd,Toronto,ON,M4G 1R8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.71805689999999,-79.3741804
@@ -691,355 +691,355 @@ S171,S171,Kings County Memorial Hospital,409 macintyre av,Montague,PE,C0A 1R0,,1
 S182,S182,Community Hospital o'Leary,14 mackinnon dr,O'Leary,PE,C0B 1V0,,1-800-622-6232,Hospitals,Province of Prince Edward Island,Yes,5,46.70626964,-64.23812801
 S168,S168,Souris Hospital,17 knights av,Souris,PE,C0A 2B0,,1-800-622-6232,Hospitals,Province of Prince Edward Island,Yes,5,46.35213939,-62.24512752
 S149,S149,Prince County Hospital,65 roy boates av,Summerside,PE,C1N 2A9,,1-800-622-6232,Hospitals,Province of Prince Edward Island,Yes,5,46.41742951,-63.77304773
-S1180,S1180,HФPITAL D'ALMA,300  boulevard champlain sud,Alma,QC,G8B 5W3,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.55062,-71.665075
-7014,7014,CIUSSS DU SAGUENAY–LAC-ST-JEAN — HФPITAL D’ALMA,1 Main Street,Alma,QC,G8B 5W3,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.5500,-71.6500
+S1180,S1180,HôPITAL D'ALMA,300  boulevard champlain sud,Alma,QC,G8B 5W3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.55062,-71.665075
+7014,7014,CIUSSS DU SAGUENAY–LAC-ST-JEAN — HôPITAL D’ALMA,1 Main Street,Alma,QC,G8B 5W3,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.5500,-71.6500
 7564,7564,CSSS DE LAC-SAINT-JEAN-EST,300 boul champlain sud,Alma,QC,G8B 5W3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.548021000000006,-71.664643
-6879,6879,CISSS DE L'ABITIBI-TЙMISCAMINGUE — HФPITAL D’AMOS,1 Main Street,Amos,QC,J9T 2S2,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.5667,-78.1167
-S1688,S1688,HФPITAL D'AMOS,622  4e rue ouest,Amos,QC,J9T 2S2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.574532,-78.12545899999999
+6879,6879,CISSS DE L'ABITIBI-TéMISCAMINGUE — HôPITAL D’AMOS,1 Main Street,Amos,QC,J9T 2S2,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.5667,-78.1167
+S1688,S1688,HôPITAL D'AMOS,622  4e rue ouest,Amos,QC,J9T 2S2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.574532,-78.12545899999999
 7568,7568,CSSS LES ESKERS DE L'ABITIBI,622 4e rue ouest,Amos,QC,J9T 2S2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.57631,-78.125164
-S582,S582,HФPITAL D'AMQUI,135  avenue gaлtan-archambault,Amqui,QC,G5J 2K5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.468477,-67.419325
-6815,6815,CH DAMQUI,135 avenue gaйtan-archambault,Amqui,QC,G5J 2K5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.468969,-67.420262
-6942,6942,CISSS DU BAS-SAINT-LAURENT — HФPITAL D’AMQUI,1 Main Street,Amqui,QC,G5J 2K5,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.4667,-67.4333
-S1721,S1721,"HФPITAL, CLSC ET CENTRE D'HЙBERGEMENT D'ASBESTOS",475  3e avenue,Asbestos,QC,J1T 1X6,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.771765,-71.92608100000001
-S935,S935,SNT - UNITЙ LE CHВTEAU А BAIE-COMEAU,1401  boulevard jolliet,Baie-Comeau,QC,G5C 1P9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,49.186578999999995,-68.268136
-S591,S591,CLSC ET HФPITAL LE ROYER,635  boulevard jolliet,Baie-Comeau,QC,G5C 1P1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,49.190176,-68.252525
-S910,S910,GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE DE MANICOUAGAN ET CLSC LIONEL-CHAREST,340  rue clйment-lavoie,Baie-Comeau,QC,G4Z 3B8,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,49.20892,-68.23791700000001
-S1496,S1496,CENTRE MULTISERVICES DE SANTЙ ET DE SERVICES SOCIAUX DE BAIE-SAINT-PAUL,88  rue racine,Baie-Saint-Paul,QC,G3Z 0K1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,47.439772999999995,-70.512063
-S236,S236,HФPITAL DE BAIE-SAINT-PAUL,74 rue ambroise-farfard,Baie-Saint-Paul,QC,G3Z 2J6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.4398246,-70.5120899
-S273,S273,HФPITAL DE SAINTE-ANNE-DE-BEAUPRЙ,11000  rue des montagnards,Beauprй,QC,G0A 1E0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,47.04274,-70.900195
-S917,S917,CENTRE DE SERVICES SNT TEMPORAIRE DAYS INN BLAINVILLE,1136  boulevard curй-labelle,Blainville,QC,J7C 3J4,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.679937,-73.888899
-S995,S995,CENTRE MULTISERVICES DE SANTЙ ET DE SERVICES SOCIAUX DE LA BASSE-CФTE-NORD,1070  boulevard docteur-camille-marcoux,Blanc-Sablon,QC,G0G 1W0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,51.411577,-57.203155
-S902,S902,CENTRE DE SERVICES AMBULATOIRES DE BOISBRIAND,4800  rue ambroise-lafortune,Boisbriand,QC,J7H 1S6,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.6416,-73.868094
-S912,S912,HФPITAL CHARLES-LEMOYNE - CONSULTATIONS EXTERNES,9090  rue leduc,Brossard,QC,J4Y 0E9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.446466,-73.439355
+S582,S582,HôPITAL D'AMQUI,135  avenue gaлtan-archambault,Amqui,QC,G5J 2K5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.468477,-67.419325
+6815,6815,CH DAMQUI,135 avenue gaétan-archambault,Amqui,QC,G5J 2K5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.468969,-67.420262
+6942,6942,CISSS DU BAS-SAINT-LAURENT — HôPITAL D’AMQUI,1 Main Street,Amqui,QC,G5J 2K5,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.4667,-67.4333
+S1721,S1721,"HôPITAL, CLSC ET CENTRE D'HéBERGEMENT D'ASBESTOS",475  3e avenue,Asbestos,QC,J1T 1X6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.771765,-71.92608100000001
+S935,S935,SNT - UNITé LE CHВTEAU А BAIE-COMEAU,1401  boulevard jolliet,Baie-Comeau,QC,G5C 1P9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,49.186578999999995,-68.268136
+S591,S591,CLSC ET HôPITAL LE ROYER,635  boulevard jolliet,Baie-Comeau,QC,G5C 1P1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,49.190176,-68.252525
+S910,S910,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE MANICOUAGAN ET CLSC LIONEL-CHAREST,340  rue clément-lavoie,Baie-Comeau,QC,G4Z 3B8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,49.20892,-68.23791700000001
+S1496,S1496,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE BAIE-SAINT-PAUL,88  rue racine,Baie-Saint-Paul,QC,G3Z 0K1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,47.439772999999995,-70.512063
+S236,S236,HôPITAL DE BAIE-SAINT-PAUL,74 rue ambroise-farfard,Baie-Saint-Paul,QC,G3Z 2J6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.4398246,-70.5120899
+S273,S273,HôPITAL DE SAINTE-ANNE-DE-BEAUPRé,11000  rue des montagnards,Beaupré,QC,G0A 1E0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,47.04274,-70.900195
+S917,S917,CENTRE DE SERVICES SNT TEMPORAIRE DAYS INN BLAINVILLE,1136  boulevard curé-labelle,Blainville,QC,J7C 3J4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.679937,-73.888899
+S995,S995,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE LA BASSE-CôTE-NORD,1070  boulevard docteur-camille-marcoux,Blanc-Sablon,QC,G0G 1W0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,51.411577,-57.203155
+S902,S902,CENTRE DE SERVICES AMBULATOIRES DE BOISBRIAND,4800  rue ambroise-lafortune,Boisbriand,QC,J7H 1S6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.6416,-73.868094
+S912,S912,HôPITAL CHARLES-LEMOYNE - CONSULTATIONS EXTERNES,9090  rue leduc,Brossard,QC,J4Y 0E9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.446466,-73.439355
 6827,6827,CH DU CAP-ST-IGNACE,146 rue du manoir est,Cap-Saint-Ignace,QC,G0R 1H0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.0399607,-70.4559785
-S640,S640,HФPITAL DE CHANDLER,451  rue monseigneur-ross est,Chandler,QC,G0C 1K0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.354822999999996,-64.67168000000001
-S1572,S1572,CENTRE DE SANTE RENE-RICARD,32  3e avenue,Chapais,QC,G0W 1H0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,49.780757,-74.854395
-S665,S665,CENTRE DE SERVICES AMBULATOIRES EN SANTЙ MENTALE ET DE RЙADAPTATION EN DЙPENDANCE DE CHARLEMAGNE,100  rue grenier,Charlemagne,QC,J5Z 4C6,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.721115999999995,-73.48962
-S1257,S1257,CENTRE DE SANTЙ DE CHIBOUGAMAU,51  3e rue,Chibougamau,QC,G8P 1N1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,49.915951,-74.349183
+S640,S640,HôPITAL DE CHANDLER,451  rue monseigneur-ross est,Chandler,QC,G0C 1K0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.354822999999996,-64.67168000000001
+S1572,S1572,CENTRE DE SANTE RENE-RICARD,32  3e avenue,Chapais,QC,G0W 1H0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,49.780757,-74.854395
+S665,S665,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE ET DE RéADAPTATION EN DéPENDANCE DE CHARLEMAGNE,100  rue grenier,Charlemagne,QC,J5Z 4C6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.721115999999995,-73.48962
+S1257,S1257,CENTRE DE SANTé DE CHIBOUGAMAU,51  3e rue,Chibougamau,QC,G8P 1N1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,49.915951,-74.349183
 7556,7556,CRSSS DE LA BAIE-JAMES,312 3e rue,Chibougamau,QC,G8P 1N5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.913688,-74.356786
-S1610,S1610,HФPITAL DE CHISASIBI,21  rue maamuu,Chisasibi,QC,J0M 1E0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,53.783843999999995,-78.89154599999999
-S703,S703,CENTRE DE SERVICES AMBULATOIRES ET GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE JARDINS-ROUSSILLON,230  boulevard brisebois,Chвteauguay,QC,J6K 0J6,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.344176000000004,-73.764139
-S335,S335,HФPITAL ANNA-LABERGE,200  boulevard brisebois,Chвteauguay,QC,J6K 4W8,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.345661,-73.763446
-S1732,S1732,CENTRE DE SANTЙ ET DE SERVICES SOCIAUX DE LA MRC-DE-COATICOOK,138  rue jeanne-mance,Coaticook,QC,J1A 1W3,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.134979,-71.812335
-S754,S754,GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE LA POMMERAIE,1599  rue du sud,Cowansville,QC,J2K 2Z4,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.191278000000004,-72.753468
-S651,S651,HФPITAL BROME-MISSISQUOI-PERKINS,950  rue principale,Cowansville,QC,J2K 1K3,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.207084,-72.714415
-S622,S622,HФPITAL MONT SINAП,5690  boulevard cavendish,Cфte-Saint-Luc,QC,H4W 1S7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.473842,-73.65734499999999
-S628,S628,HФPITAL DE DOLBEAU-MISTASSINI,2000  boulevard sacrй-coeur,Dolbeau-Mistassini,QC,G8L 2R5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.885835,-72.239367
-S583,S583,CENTRE DE SERVICES AMBULATOIRES DE DRUMMONDVILLE,4534  boulevard saint-joseph,Drummondville,QC,J2A 1B5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.840984999999996,-72.43628299999999
-6986,6986,CIUSSS DE LA MAURICIE-ET-DU-CENTRE-DU-QUЙBEC — HФPITAL SAINTE-CROIX,1 Main Street,Drummondville,QC,J2B 1C1,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,45.8833,-72.4833
-S1580,S1580,HФPITAL SAINTE-CROIX,570  rue heriot,Drummondville,QC,J2B 1C1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.880009,-72.477304
-S714,S714,GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE DE DRUMMONDVILLE,555  rue berol,Drummondville,QC,J2B 0W7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.87618,-72.481981
-S936,S936,SNT - MAISON D'AIDE ET D'HЙBERGEMENT DE FERMONT,4  rue holway,Fermont,QC,G0G 1J0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,52.79464,-67.09360600000001
-6893,6893,CISSS DE LA CФTE-NORD — CENTRE DE SANTЙ ET DE SERVICES SOCIAUX DE L’HЙMATITE,1 Main Street,Fermont,QC,G0G 1J0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,52.7833,-67.0833
-S1540,S1540,CENTRE MULTISERVICES DE SANTЙ ET DE SERVICES SOCIAUX DE FERMONT,1  rue aquilon,Fermont,QC,G0G 1J0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,52.796690000000005,-67.090301
-S1664,S1664,CENTRE MULTISERVICES DE SANTЙ ET DE SERVICES SOCIAUX DE FORESTVILLE,2  7e rue,Forestville,QC,G0T 1E0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.737214,-69.074188
-S1710,S1710,CENTRE MULTISERVICES DE SANTЙ ET DE SERVICES SOCIAUX DE FORTIERVILLE,216  rue principale,Fortierville,QC,G0S 1J0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.486357,-72.030378
-S1620,S1620,CENTRE MULTISERVICES DE SANTЙ ET DE SERVICES SOCIAUX DE GASPЙ,205  boulevard de york ouest,Gaspй,QC,G4X 2V7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.812749,-64.49529
-S1212,S1212,HФPITAL DE GASPЙ,215  boulevard de york ouest,Gaspй,QC,G4X 2W2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.812942,-64.496646
-S632,S632,CENTRE D'HЙBERGEMENT MGR-ROSS DE GASPЙ,150  rue monseigneur-ross,Gaspй,QC,G4X 2S7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.837317999999996,-64.492379
-S648,S648,HФPITAL EN SANTЙ MENTALE PIERRE-JANET,20  rue pharand,Gatineau,QC,J9A 1K7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.425294,-75.73993
-S1290,S1290,HФPITAL DE HULL,116  boulevard lionel-йmond,Gatineau,QC,J8Y 1W7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.444873,-75.746033
-S1223,S1223,CENTRE DE SERVICES AMBULATOIRES EN SANTЙ MENTALE MOUSSETTE,73  boulevard moussette,Gatineau,QC,J8Y 5J8,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.439516999999995,-75.743786
-S1245,S1245,HФPITAL DE GATINEAU,909  boulevard la vйrendrye ouest,Gatineau,QC,J8P 7H2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.493296,-75.691064
-S947,S947,HФTEL QUALITY INN SUR LA RUE BELLEHUMEUR - CLIENTИLE JEUNESSE,111  rue bellehumeur,Gatineau,QC,J8T 6K5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.47686665,-75.69127358
-S293,S293,CENTRE MULTISERVICES DE SANTЙ ET DE SERVICES SOCIAUX DE GATINEAU,777  boulevard de la gappe,Gatineau,QC,J8T 8R2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.483271,-75.685748
-S599,S599,GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE ET CENTRE DE SERVICES AMBULATOIRES EN PЙDIATRIE DE L’OUTAOUAIS,500  boulevard de l'hфpital,Gatineau,QC,J8V 2P5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.493306,-75.688671
-S605,S605,HФPITAL DE JOUR - PAVILLON MARCEL D'AMOUR,30  rue pharand,Gatineau,QC,J9A 1K7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.424847,-75.740641
-S616,S616,CENTRE DE SERVICES AMBULATOIRES CORBEIL,63  rue corbeil,Gatineau,QC,J8Y 5W8,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.451014,-75.750888
-6888,6888,CISSS DE L'OUTAOUAIS — HФPITAL DE HULL,1 Main Street,Gatineau,QC,J8Y 1W7,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,45.4833,-75.6500
-7995,7995,HФPITAL DE JOUR GЙRIATRIQUE,455 montйe paiement,Gatineau,QC,J9T 2S2,,1-800-622-6232,Hospitals,Municipality of Gatineau,Yes,5,45.493517,-75.676739
-S942,S942,CENTRE DE SERVICES AMBULATOIRES PIERRE-JANET,20  rue laferriиre,Gatineau,QC,J8T 3C1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.473478,-75.691923
-S647,S647,HФPITAL ET CHSLD DE PAPINEAU,155  rue maclaren est,Gatineau,QC,J8L 0C2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.588572,-75.41148100000001
-S941,S941,CENTRE HOSPITALIER PIERRE-JANET,46  rue lucien brault,Gatineau,QC,J8Z 1H8,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.462882,-75.749246
+S1610,S1610,HôPITAL DE CHISASIBI,21  rue maamuu,Chisasibi,QC,J0M 1E0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,53.783843999999995,-78.89154599999999
+S703,S703,CENTRE DE SERVICES AMBULATOIRES ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE JARDINS-ROUSSILLON,230  boulevard brisebois,Chвteauguay,QC,J6K 0J6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.344176000000004,-73.764139
+S335,S335,HôPITAL ANNA-LABERGE,200  boulevard brisebois,Chвteauguay,QC,J6K 4W8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.345661,-73.763446
+S1732,S1732,CENTRE DE SANTé ET DE SERVICES SOCIAUX DE LA MRC-DE-COATICOOK,138  rue jeanne-mance,Coaticook,QC,J1A 1W3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.134979,-71.812335
+S754,S754,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE LA POMMERAIE,1599  rue du sud,Cowansville,QC,J2K 2Z4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.191278000000004,-72.753468
+S651,S651,HôPITAL BROME-MISSISQUOI-PERKINS,950  rue principale,Cowansville,QC,J2K 1K3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.207084,-72.714415
+S622,S622,HôPITAL MONT SINAП,5690  boulevard cavendish,Côte-Saint-Luc,QC,H4W 1S7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.473842,-73.65734499999999
+S628,S628,HôPITAL DE DOLBEAU-MISTASSINI,2000  boulevard sacré-coeur,Dolbeau-Mistassini,QC,G8L 2R5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.885835,-72.239367
+S583,S583,CENTRE DE SERVICES AMBULATOIRES DE DRUMMONDVILLE,4534  boulevard saint-joseph,Drummondville,QC,J2A 1B5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.840984999999996,-72.43628299999999
+6986,6986,CIUSSS DE LA MAURICIE-ET-DU-CENTRE-DU-QUéBEC — HôPITAL SAINTE-CROIX,1 Main Street,Drummondville,QC,J2B 1C1,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,45.8833,-72.4833
+S1580,S1580,HôPITAL SAINTE-CROIX,570  rue heriot,Drummondville,QC,J2B 1C1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.880009,-72.477304
+S714,S714,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE DRUMMONDVILLE,555  rue berol,Drummondville,QC,J2B 0W7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.87618,-72.481981
+S936,S936,SNT - MAISON D'AIDE ET D'HéBERGEMENT DE FERMONT,4  rue holway,Fermont,QC,G0G 1J0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,52.79464,-67.09360600000001
+6893,6893,CISSS DE LA CôTE-NORD — CENTRE DE SANTé ET DE SERVICES SOCIAUX DE L’HéMATITE,1 Main Street,Fermont,QC,G0G 1J0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,52.7833,-67.0833
+S1540,S1540,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE FERMONT,1  rue aquilon,Fermont,QC,G0G 1J0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,52.796690000000005,-67.090301
+S1664,S1664,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE FORESTVILLE,2  7e rue,Forestville,QC,G0T 1E0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.737214,-69.074188
+S1710,S1710,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE FORTIERVILLE,216  rue principale,Fortierville,QC,G0S 1J0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.486357,-72.030378
+S1620,S1620,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE GASPé,205  boulevard de york ouest,Gaspé,QC,G4X 2V7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.812749,-64.49529
+S1212,S1212,HôPITAL DE GASPé,215  boulevard de york ouest,Gaspé,QC,G4X 2W2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.812942,-64.496646
+S632,S632,CENTRE D'HéBERGEMENT MGR-ROSS DE GASPé,150  rue monseigneur-ross,Gaspé,QC,G4X 2S7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.837317999999996,-64.492379
+S648,S648,HôPITAL EN SANTé MENTALE PIERRE-JANET,20  rue pharand,Gatineau,QC,J9A 1K7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.425294,-75.73993
+S1290,S1290,HôPITAL DE HULL,116  boulevard lionel-émond,Gatineau,QC,J8Y 1W7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.444873,-75.746033
+S1223,S1223,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE MOUSSETTE,73  boulevard moussette,Gatineau,QC,J8Y 5J8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.439516999999995,-75.743786
+S1245,S1245,HôPITAL DE GATINEAU,909  boulevard la vérendrye ouest,Gatineau,QC,J8P 7H2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.493296,-75.691064
+S947,S947,HôTEL QUALITY INN SUR LA RUE BELLEHUMEUR - CLIENTИLE JEUNESSE,111  rue bellehumeur,Gatineau,QC,J8T 6K5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.47686665,-75.69127358
+S293,S293,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE GATINEAU,777  boulevard de la gappe,Gatineau,QC,J8T 8R2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.483271,-75.685748
+S599,S599,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE ET CENTRE DE SERVICES AMBULATOIRES EN PéDIATRIE DE L’OUTAOUAIS,500  boulevard de l'hôpital,Gatineau,QC,J8V 2P5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.493306,-75.688671
+S605,S605,HôPITAL DE JOUR - PAVILLON MARCEL D'AMOUR,30  rue pharand,Gatineau,QC,J9A 1K7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.424847,-75.740641
+S616,S616,CENTRE DE SERVICES AMBULATOIRES CORBEIL,63  rue corbeil,Gatineau,QC,J8Y 5W8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.451014,-75.750888
+6888,6888,CISSS DE L'OUTAOUAIS — HôPITAL DE HULL,1 Main Street,Gatineau,QC,J8Y 1W7,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,45.4833,-75.6500
+7995,7995,HôPITAL DE JOUR GéRIATRIQUE,455 montée paiement,Gatineau,QC,J9T 2S2,,1-800-622-6232,Hospitals,Municipality of Gatineau,Yes,5,45.493517,-75.676739
+S942,S942,CENTRE DE SERVICES AMBULATOIRES PIERRE-JANET,20  rue laferriиre,Gatineau,QC,J8T 3C1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.473478,-75.691923
+S647,S647,HôPITAL ET CHSLD DE PAPINEAU,155  rue maclaren est,Gatineau,QC,J8L 0C2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.588572,-75.41148100000001
+S941,S941,CENTRE HOSPITALIER PIERRE-JANET,46  rue lucien brault,Gatineau,QC,J8Z 1H8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.462882,-75.749246
 7562,7562,CSSS DE LA HAUTE-YAMASKA,205 boul leclerc ouest,Granby,QC,J2G 1T7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.412502,-72.722638
-S1331,S1331,CENTRE DE SERVICES AMBULATOIRES PROVIDENCE,279  rue de la providence,Granby,QC,J2G 4S7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.410379999999996,-72.716617
-S1474,S1474,CENTRE DE SERVICES AMBULATOIRES SAINT-JACQUES,155  rue saint-jacques,Granby,QC,J2G 9A7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.39799,-72.726613
-S642,S642,HФPITAL DE GRANBY,205  boulevard leclerc ouest,Granby,QC,J2G 1T7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.410592,-72.72295600000001
-S908,S908,CLSC DE GRANDE-VALLЙE,71  rue saint-franзois-xavier ouest,Grande-Vallйe,QC,G0E 1K0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,49.227333,-65.10462
-S1256,S1256,CENTRE MULTISERVICES DE SANTЙ ET DE SERVICES SOCIAUX DE LA MINGANIE,1035  promenade des anciens,Havre-Saint-Pierre,QC,G0G 1P0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,50.237811,-63.60524399999999
-S657,S657,CENTRE HOSPITALIER KATERI MEMORIAL TEHSAKOTITSEN : THA,1 Main Street,Kahnawake,QC,J0L 1B0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.415478,-73.682869
-6635,6635,CENTRE DE SANTЙ TULATTAVIK DE L'UNGAVA,1 Main Street,Kuujjuaq,QC,J0M 1C0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,58.106859,-68.40543199999999
+S1331,S1331,CENTRE DE SERVICES AMBULATOIRES PROVIDENCE,279  rue de la providence,Granby,QC,J2G 4S7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.410379999999996,-72.716617
+S1474,S1474,CENTRE DE SERVICES AMBULATOIRES SAINT-JACQUES,155  rue saint-jacques,Granby,QC,J2G 9A7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.39799,-72.726613
+S642,S642,HôPITAL DE GRANBY,205  boulevard leclerc ouest,Granby,QC,J2G 1T7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.410592,-72.72295600000001
+S908,S908,CLSC DE GRANDE-VALLéE,71  rue saint-franзois-xavier ouest,Grande-Vallée,QC,G0E 1K0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,49.227333,-65.10462
+S1256,S1256,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE LA MINGANIE,1035  promenade des anciens,Havre-Saint-Pierre,QC,G0G 1P0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,50.237811,-63.60524399999999
+S657,S657,CENTRE HOSPITALIER KATERI MEMORIAL TEHSAKOTITSEN : THA,1 Main Street,Kahnawake,QC,J0L 1B0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.415478,-73.682869
+6635,6635,CENTRE DE SANTé TULATTAVIK DE L'UNGAVA,1 Main Street,Kuujjuaq,QC,J0M 1C0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,58.106859,-68.40543199999999
 7555,7555,CREE BOARD OF HEALTH AND SOCIAL SERVICES OF JAMES BAY/KUUJJUARAPIK,1 Main Street,Kuujjuarapik,QC,J0M 1G0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,55.274399,-77.761614
-S590,S590,HФPITAL DE LA MALBAIE,303  rue saint-йtienne,La Malbaie,QC,G5A 1T1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,47.65619,-70.151741
-S906,S906,HФPITAL NOTRE-DAME-DE-FATIMA,1201  6e avenue,La Pocatiиre,QC,G0R 1Z0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,47.371829999999996,-70.026167
-S646,S646,HФPITAL ET CHSLD MЙMORIAL DE WAKEFIELD / WAKEFIELD MEMORIAL HOSPITAL,101  chemin burnside,La Pкche,QC,J0X 3G0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.648575,-75.932482
+S590,S590,HôPITAL DE LA MALBAIE,303  rue saint-étienne,La Malbaie,QC,G5A 1T1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,47.65619,-70.151741
+S906,S906,HôPITAL NOTRE-DAME-DE-FATIMA,1201  6e avenue,La Pocatiиre,QC,G0R 1Z0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,47.371829999999996,-70.026167
+S646,S646,HôPITAL ET CHSLD MéMORIAL DE WAKEFIELD / WAKEFIELD MEMORIAL HOSPITAL,101  chemin burnside,La Pкche,QC,J0X 3G0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.648575,-75.932482
 6695,6695,CENTRE HOSPITALIER GATINEAU MEMORIAL,101 burnside ave,La Pкche,QC,J0X 3G0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.6484041,-75.9324814
 6833,6833,CH LA SARRE,679 2e rue est,La Sarre,QC,J9Z 2X7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.7864562,-79.1985773
-S1038,S1038,CENTRE DE SANTЙ ET DE SERVICES SOCIAUX DU HAUT-SAINT-MAURICE,885  boulevard ducharme,La Tuque,QC,G9X 3C1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,47.428451,-72.785692
-S1642,S1642,CENTRE MULTISERVICES DE SANTЙ ET DE SERVICES SOCIAUX DE LAC-ETCHEMIN,331  place du sanatorium,Lac-Etchemin,QC,G0R 1S0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.40048,-70.498069
-6829,6829,CH DU GRANIT,3569 rue laval,Lac-Mйgantic,QC,G6B 1A5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.588749,-70.905799
-S251,S251,CENTRE DE SANTЙ ET DE SERVICES SOCIAUX DU GRANIT,3569  rue laval,Lac-Mйgantic,QC,G6B 1A5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.588594,-70.90579100000001
-S884,S884,CENTRE MULTISERVICES DE SANTЙ ET DE SERVICES SOCIAUX D'ARGENTEUIL,145  avenue de la providence,Lachute,QC,J8H 4C7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.661916999999995,-74.352065
-S600,S600,CLSC ET CENTRE DE SERVICES AMBULATOIRES EN PЙDOPSYCHIATRIE DE LA RUE MARY,189  rue mary,Lachute,QC,J8H 2C3,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.652514000000004,-74.339578
-S918,S918,HФPITAL JUIF DE RЙADAPTATION,3205  place alton-goldbloom,Laval,QC,H7V 1R2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.54873,-73.737641
-S1340,S1340,CENTRE DE SERVICES AMBULATOIRES DE LAVAL,1515  boulevard chomedey,Laval,QC,H7V 3Y7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.552264,-73.746239
-S441,S441,CENTRE DE SERVICES AMBULATOIRES EN SANTЙ MENTALE RENЙ-LAENNEC,2008  boulevard renй-laennec,Laval,QC,H7M 4J8,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.608722,-73.720252
-S919,S919,HФTEL QUALITY SUITES,2035  autoroute des laurentides,Laval,QC,H7S 1Z6,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.567892,-73.740145
-S927,S927,CLSC ET GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE DU MARIGOT,1351  boulevard des laurentides,Laval,QC,H7M 2Y2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.586915999999995,-73.71015200000001
+S1038,S1038,CENTRE DE SANTé ET DE SERVICES SOCIAUX DU HAUT-SAINT-MAURICE,885  boulevard ducharme,La Tuque,QC,G9X 3C1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,47.428451,-72.785692
+S1642,S1642,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE LAC-ETCHEMIN,331  place du sanatorium,Lac-Etchemin,QC,G0R 1S0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.40048,-70.498069
+6829,6829,CH DU GRANIT,3569 rue laval,Lac-Mégantic,QC,G6B 1A5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.588749,-70.905799
+S251,S251,CENTRE DE SANTé ET DE SERVICES SOCIAUX DU GRANIT,3569  rue laval,Lac-Mégantic,QC,G6B 1A5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.588594,-70.90579100000001
+S884,S884,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX D'ARGENTEUIL,145  avenue de la providence,Lachute,QC,J8H 4C7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.661916999999995,-74.352065
+S600,S600,CLSC ET CENTRE DE SERVICES AMBULATOIRES EN PéDOPSYCHIATRIE DE LA RUE MARY,189  rue mary,Lachute,QC,J8H 2C3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.652514000000004,-74.339578
+S918,S918,HôPITAL JUIF DE RéADAPTATION,3205  place alton-goldbloom,Laval,QC,H7V 1R2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.54873,-73.737641
+S1340,S1340,CENTRE DE SERVICES AMBULATOIRES DE LAVAL,1515  boulevard chomedey,Laval,QC,H7V 3Y7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.552264,-73.746239
+S441,S441,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE RENé-LAENNEC,2008  boulevard rené-laennec,Laval,QC,H7M 4J8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.608722,-73.720252
+S919,S919,HôTEL QUALITY SUITES,2035  autoroute des laurentides,Laval,QC,H7S 1Z6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.567892,-73.740145
+S927,S927,CLSC ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DU MARIGOT,1351  boulevard des laurentides,Laval,QC,H7M 2Y2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.586915999999995,-73.71015200000001
 8131,8131,JEWISH REHABILITATION HOSPITAL,3205 alton goldbloom pl,Laval,QC,H7V 1R2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.548623,-73.73759100000001
-S1551,S1551,HФPITAL DE LA CITЙ-DE-LA-SANTЙ,1755  boulevard renй-laennec,Laval,QC,H7M 3L9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.603319,-73.710819
-S604,S604,CLSC ET CENTRE DE SERVICES AMBULATOIRES CHOMEDEY,800  boulevard chomedey,Laval,QC,H7V 3Y4,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.544488,-73.740988
-S920,S920,LE COUVENT,3550  boulevard lйvesque ouest,Laval,QC,H7V 1E8,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.536190999999995,-73.73290899999999
-S1268,S1268,CENTRE DE SANTЙ LEBEL,950  boulevard quйvillon nord,Lebel-sur-Quйvillon,QC,J0Y 1X0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,49.05608,-76.983316
-6935,6935,CISSS DES ОLES — HФPITAL DE L’ARCHIPEL,1 Main Street,Les ?les-de-la-Madeleine,QC,G4T 1R9,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.6099682316118936,-72.3735220657276995
-S1653,S1653,CENTRE MULTISERVICES DE SANTЙ ET DE SERVICES SOCIAUX DES ESCOUMINS,4  rue de l'hфpital,Les Escoumins,QC,G0T 1K0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.352061,-69.407095
-S1430,S1430,HФPITAL DE L'ARCHIPEL,430  chemin principal,Les Оles-de-la-Madeleine,QC,G4T 1R9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,47.375575,-61.868773
-S904,S904,CENTRE DE SERVICES AMBULATOIRES EN SANTЙ MENTALE DE LA RUE LABONTЙ,190  rue labontй,Longueuil,QC,J4H 2P7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.533971,-73.511279
-S903,S903,CENTRE DE SERVICES AMBULATOIRES DE LA RUE BEAUREGARD,1255  rue beauregard,Longueuil,QC,J4K 2M3,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.510476000000004,-73.48730400000001
-S901,S901,CENTRE DE SERVICES AMBULATOIRES DE GREENFIELD PARK,5000  boulevard taschereau,Longueuil,QC,J4V 3M3,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.481884,-73.46582
-S899,S899,CENTRE DE SERVICES AMBULATOIRES EN SANTЙ MENTALE DE LONGUEUIL,1225  rue saint-charles ouest,Longueuil,QC,J4K 0B9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.522746000000005,-73.520547
-S905,S905,CENTRE DE SERVICES AMBULATOIRES EN SANTЙ MENTALE DU BOULEVARD TASCHEREAU,2924  boulevard taschereau,Longueuil,QC,J4V 2G8,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.499939000000005,-73.487651
-S664,S664,CENTRE DE SERVICES AMBULATOIRES ET INSTITUT NAZARETH ET LOUIS-BRAILLE SAINT-CHARLES OUEST,1111  rue saint-charles ouest,Longueuil,QC,J4K 5G4,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.526375,-73.51979
-S654,S654,CENTRE D'HЙBERGEMENT DU MANOIR-TRINITЙ,1275  boulevard jacques-cartier est,Longueuil,QC,J4M 2Y8,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.53539,-73.459423
-S911,S911,CENTRE DE SERVICES AMBULATOIRES EN SANTЙ MENTALE DE L'AVENUE VICTORIA,1406  avenue victoria,Longueuil,QC,J4V 1M1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.489868,-73.492465
-S913,S913,HФPITAL CHARLES-LEMOYNE - SERVICES DE PSYCHIATRIE,1055 rue saint-laurent ouest,Longueuil,QC,J4K 1E1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.524423999999996,-73.514401
-S626,S626,HФPITAL CHARLES-LE MOYNE,3120  boulevard taschereau,Longueuil,QC,J4V 2H1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.497265999999996,-73.486423
-S944,S944,HФPITAL CHARLES-LE MOYNE - CLINIQUE SUIVI DE GROSSESSE,3141  boulevard taschereau,Longueuil,QC,J4V 2H2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.4977526,-73.48421033
-S592,S592,CLSC ET GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE DE SAINT-HUBERT,6800  boulevard cousineau,Longueuil,QC,J3Y 8Z4,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.492843,-73.403274
-S282,S282,HФPITAL PIERRE-BOUCHER,1333  boulevard jacques-cartier est,Longueuil,QC,J4M 2A5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.5383,-73.458792
-S922,S922,HФPITAL CHARLES-LE MOYNE - CLINIQUE EXTERNE DE PЙDIATRIE,2984  boulevard taschereau,Longueuil,QC,J4V 2G9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.498643,-73.486909
-S925,S925,CENTRE DE SERVICES DE SANTЙ POUR LES PERSONNES SANS DOMICILE FIXE DE LONGUEUIL,3179  boulevard taschereau,Longueuil,QC,J4V 2N3,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.496866,-73.483639
-6916,6916,CISSS DE LA MONTЙRЙGIE-EST — HФPITAL PIERRE-BOUCHER,1 Main Street,Longueuil,QC,J4M 2A5,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,45.5333,-73.5167
-S410,S410,CENTRE MULTISERVICES DE SANTЙ ET DE SERVICES SOCIAUX AVELLIN-DALCOURT,450  2e rue,Louiseville,QC,J5V 1V3,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.254591,-72.928988
-S369,S369,CENTRE DE SERVICES AMBULATOIRES EN PЙDOPSYCHIATRIE DE LЙVIS,6550  rue saint-georges,Lйvis,QC,G6V 6X2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.813008,-71.17365699999999
-S618,S618,CENTRE MULTISERVICES DE SANTЙ ET DE SERVICES SOCIAUX PAUL-GILBERT,9330  boulevard du centre-hospitalier,Lйvis,QC,G6X 1L6,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.725358,-71.25935600000001
-S1201,S1201,CENTRE DE SERVICES AMBULATOIRES DE LЙVIS,106  rue jean-xxiii,Lйvis,QC,G6V 2K1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.81568,-71.174936
-S1409,S1409,HФTEL-DIEU DE LЙVIS,143  rue wolfe,Lйvis,QC,G6V 3Z1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.814863,-71.17740500000001
-S1399,S1399,CENTRE DE SERVICES AMBULATOIRES EN SANTЙ MENTALE DE LЙVIS,101  rue saint-dominique,Lйvis,QC,G6V 2M8,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.821339,-71.17908
-S852,S852,GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE DE LЙVIS,100-1205  boulevard guillaume-couture,Lйvis,QC,G6W 0J4,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.735394,-71.263486
-S1674,S1674,CENTRE DE SANTЙ ET DE SERVICES SOCIAUX DE MEMPHRЙMAGOG,50  rue saint-patrice est,Magog,QC,J1X 3X3,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.265088,-72.144862
+S1551,S1551,HôPITAL DE LA CITé-DE-LA-SANTé,1755  boulevard rené-laennec,Laval,QC,H7M 3L9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.603319,-73.710819
+S604,S604,CLSC ET CENTRE DE SERVICES AMBULATOIRES CHOMEDEY,800  boulevard chomedey,Laval,QC,H7V 3Y4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.544488,-73.740988
+S920,S920,LE COUVENT,3550  boulevard lévesque ouest,Laval,QC,H7V 1E8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.536190999999995,-73.73290899999999
+S1268,S1268,CENTRE DE SANTé LEBEL,950  boulevard quévillon nord,Lebel-sur-Quévillon,QC,J0Y 1X0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,49.05608,-76.983316
+6935,6935,CISSS DES ОLES — HôPITAL DE L’ARCHIPEL,1 Main Street,Les ?les-de-la-Madeleine,QC,G4T 1R9,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.6099682316118936,-72.3735220657276995
+S1653,S1653,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DES ESCOUMINS,4  rue de l'hôpital,Les Escoumins,QC,G0T 1K0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.352061,-69.407095
+S1430,S1430,HôPITAL DE L'ARCHIPEL,430  chemin principal,Les Оles-de-la-Madeleine,QC,G4T 1R9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,47.375575,-61.868773
+S904,S904,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE DE LA RUE LABONTé,190  rue labonté,Longueuil,QC,J4H 2P7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.533971,-73.511279
+S903,S903,CENTRE DE SERVICES AMBULATOIRES DE LA RUE BEAUREGARD,1255  rue beauregard,Longueuil,QC,J4K 2M3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.510476000000004,-73.48730400000001
+S901,S901,CENTRE DE SERVICES AMBULATOIRES DE GREENFIELD PARK,5000  boulevard taschereau,Longueuil,QC,J4V 3M3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.481884,-73.46582
+S899,S899,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE DE LONGUEUIL,1225  rue saint-charles ouest,Longueuil,QC,J4K 0B9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.522746000000005,-73.520547
+S905,S905,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE DU BOULEVARD TASCHEREAU,2924  boulevard taschereau,Longueuil,QC,J4V 2G8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.499939000000005,-73.487651
+S664,S664,CENTRE DE SERVICES AMBULATOIRES ET INSTITUT NAZARETH ET LOUIS-BRAILLE SAINT-CHARLES OUEST,1111  rue saint-charles ouest,Longueuil,QC,J4K 5G4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.526375,-73.51979
+S654,S654,CENTRE D'HéBERGEMENT DU MANOIR-TRINITé,1275  boulevard jacques-cartier est,Longueuil,QC,J4M 2Y8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.53539,-73.459423
+S911,S911,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE DE L'AVENUE VICTORIA,1406  avenue victoria,Longueuil,QC,J4V 1M1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.489868,-73.492465
+S913,S913,HôPITAL CHARLES-LEMOYNE - SERVICES DE PSYCHIATRIE,1055 rue saint-laurent ouest,Longueuil,QC,J4K 1E1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.524423999999996,-73.514401
+S626,S626,HôPITAL CHARLES-LE MOYNE,3120  boulevard taschereau,Longueuil,QC,J4V 2H1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.497265999999996,-73.486423
+S944,S944,HôPITAL CHARLES-LE MOYNE - CLINIQUE SUIVI DE GROSSESSE,3141  boulevard taschereau,Longueuil,QC,J4V 2H2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.4977526,-73.48421033
+S592,S592,CLSC ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE SAINT-HUBERT,6800  boulevard cousineau,Longueuil,QC,J3Y 8Z4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.492843,-73.403274
+S282,S282,HôPITAL PIERRE-BOUCHER,1333  boulevard jacques-cartier est,Longueuil,QC,J4M 2A5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.5383,-73.458792
+S922,S922,HôPITAL CHARLES-LE MOYNE - CLINIQUE EXTERNE DE PéDIATRIE,2984  boulevard taschereau,Longueuil,QC,J4V 2G9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.498643,-73.486909
+S925,S925,CENTRE DE SERVICES DE SANTé POUR LES PERSONNES SANS DOMICILE FIXE DE LONGUEUIL,3179  boulevard taschereau,Longueuil,QC,J4V 2N3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.496866,-73.483639
+6916,6916,CISSS DE LA MONTéRéGIE-EST — HôPITAL PIERRE-BOUCHER,1 Main Street,Longueuil,QC,J4M 2A5,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,45.5333,-73.5167
+S410,S410,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX AVELLIN-DALCOURT,450  2e rue,Louiseville,QC,J5V 1V3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.254591,-72.928988
+S369,S369,CENTRE DE SERVICES AMBULATOIRES EN PéDOPSYCHIATRIE DE LéVIS,6550  rue saint-georges,Lévis,QC,G6V 6X2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.813008,-71.17365699999999
+S618,S618,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX PAUL-GILBERT,9330  boulevard du centre-hospitalier,Lévis,QC,G6X 1L6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.725358,-71.25935600000001
+S1201,S1201,CENTRE DE SERVICES AMBULATOIRES DE LéVIS,106  rue jean-xxiii,Lévis,QC,G6V 2K1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.81568,-71.174936
+S1409,S1409,HôTEL-DIEU DE LéVIS,143  rue wolfe,Lévis,QC,G6V 3Z1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.814863,-71.17740500000001
+S1399,S1399,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE DE LéVIS,101  rue saint-dominique,Lévis,QC,G6V 2M8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.821339,-71.17908
+S852,S852,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE LéVIS,100-1205  boulevard guillaume-couture,Lévis,QC,G6W 0J4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.735394,-71.263486
+S1674,S1674,CENTRE DE SANTé ET DE SERVICES SOCIAUX DE MEMPHRéMAGOG,50  rue saint-patrice est,Magog,QC,J1X 3X3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.265088,-72.144862
 6835,6835,CH MALARTIC INC.,1141 rue royale,Malartic,QC,J0Y 1Z0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.141587,-78.12828499999999
-S931,S931,HФPITAL PSYCHIATRIQUE DE MALARTIC,1141  rue royale,Malartic,QC,J0Y 1Z0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.141509,-78.12841
-S1310,S1310,HФPITAL DE MANIWAKI,309  boulevard desjardins,Maniwaki,QC,J9E 2E7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.39085,-75.979405
-6637,6637,CENTRE DE SANTЙ VALLЙE-DE-LA-GATINEAU,309 boul desjardins,Maniwaki,QC,J9E 2E7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.391070899999995,-75.978757
-6889,6889,CISSS DE L'OUTAOUAIS — HФPITAL DE MANIWAKI,1 Main Street,Maniwaki,QC,J9E 2E7,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.3750,-75.9667
+S931,S931,HôPITAL PSYCHIATRIQUE DE MALARTIC,1141  rue royale,Malartic,QC,J0Y 1Z0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.141509,-78.12841
+S1310,S1310,HôPITAL DE MANIWAKI,309  boulevard desjardins,Maniwaki,QC,J9E 2E7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.39085,-75.979405
+6637,6637,CENTRE DE SANTé VALLéE-DE-LA-GATINEAU,309 boul desjardins,Maniwaki,QC,J9E 2E7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.391070899999995,-75.978757
+6889,6889,CISSS DE L'OUTAOUAIS — HôPITAL DE MANIWAKI,1 Main Street,Maniwaki,QC,J9E 2E7,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.3750,-75.9667
 6885,6885,CISSS DE L'OUTAOUAIS — CLSC DE MANSFIELD-ET-PONTEFRACT,1 Main Street,Mansfield-et-Pontefract,QC,J0X 1V0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,45.8611,-76.7392
-6908,6908,CISSS DE LA GASPЙSIE — HФPITAL DE MARIA,1 Main Street,Maria,QC,G0C 1Y0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.1667,-65.9833
-S1441,S1441,HФPITAL DE MARIA,419  boulevard perron,Maria,QC,G0C 1Y0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.169149,-65.993516
-S1279,S1279,CENTRE DE SANTЙ ISLE-DIEU,130  boulevard  matagami,Matagami,QC,J0Y 2A0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,49.756840999999994,-77.628286
-S1149,S1149,HФPITAL DE MATANE,333  rue thibault,Matane,QC,G4W 2W5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.843565999999996,-67.524416
-S896,S896,CENTRE DE SANTЙ ET DE SERVICES SOCIAUX DE LA MITIS,800  avenue du sanatorium,Mont-Joli,QC,G5H 3L6,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.572404,-68.216178
-S485,S485,CENTRE MULTISERVICES DE SANTЙ ET DE SERVICES SOCIAUX DE MONT-LAURIER,757  rue de la madone,Mont-Laurier,QC,J9L 1T2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.556419,-75.494855
-S1104,S1104,HФPITAL DE MONT-LAURIER,2561  chemin de la liиvre sud,Mont-Laurier,QC,J9L 3G3,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.549211,-75.517655
-8090,8090,HФTEL-DIEU DE MONTMAGNY,350 boul tachй ouest,Montmagny,QC,G5V 3R8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.976366999999996,-70.5970718
-S666,S666,HФPITAL ET CENTRE DE RЙADAPTATION EN DЙFICIENCE PHYSIQUE DE MONTMAGNY,350  boulevard tachй ouest,Montmagny,QC,G5V 3R8,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.976408,-70.596699
-S655,S655,PAVILLON ROSEMONT,5689  boulevard rosemont,Montrйal,QC,H1T 2H1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.577463,-73.562116
-8052,8052,HФPITAL LOUIS-H. LAFONTAINE,7401 rue hochelaga,Montrйal,QC,H1N 3M5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.5884937,-73.5291412
-8072,8072,HФPITAL RIVIИRE-DES-PRAIRIES,7070 boul perras,Montrйal,QC,H1E 1A4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.6271766,-73.6147382
-8253,8253,MCGILL UNIVERSITY HEALTH CENTRE - MONTRЙAL CHEST INSTITUTE,3650 st urbain,Montrйal,QC,H2X 2P4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.513014,-73.5752103
-8492,8492,SHRINERS HOSPITAL FOR CHILDREN,1529 cedar ave,Montrйal,QC,H3G 1A6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.499581,-73.588351
-S1006,S1006,HФPITAL MAISONNEUVE-ROSEMONT,5415  boulevard de l'assomption,Montrйal,QC,H1T 2M4,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.574065000000004,-73.55954799999999
-S1017,S1017,CENTRE METROPOLITAIN DE CHIRURGIE PLASTIQUE,999  rue de salaberry,Montrйal,QC,H3L 1L2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.545449,-73.692942
-S1039,S1039,VILLA MEDICA,225  rue sherbrooke est,Montrйal,QC,H2X 1C9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.514974,-73.568738
-S1115,S1115,HФPITAL DE VERDUN,4000  boulevard lasalle,Montrйal,QC,H4G 2A3,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.464098,-73.563989
-S1148,S1148,HOPITAL DE JOUR L'ENVOL,6625  boulevard lasalle,Montrйal,QC,H4H 1R2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.444268,-73.581796
-S1160,S1160,HФTEL-DIEU DU CENTRE HOSPITALIER DE L'UNIVERSITЙ DE MONTRЙAL,3840  rue saint-urbain,Montrйal,QC,H2W 1T8,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.513942,-73.578112
-S1320,S1320,PAVILLON RACHEL-TOURIGNY,5305  boulevard de l'assomption,Montrйal,QC,H1T 2M4,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.574003000000005,-73.556831
-S1349,S1349,L'HФPITAL DE MONTRЙAL POUR ENFANTS,2300  rue tupper,Montrйal,QC,H3H 1P3,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.488959,-73.582312
-S1358,S1358,CENTRE DE SERVICES AMBULATOIRES DE SOINS PSYCHIATRIQUES BEAUBIEN,7067  rue beaubien est,Montrйal,QC,H1M 2Y2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.593553,-73.558021
-S1359,S1359,HФPITAL NEUROLOGIQUE DE MONTRЙAL,3801  rue university,Montrйal,QC,H3A 2B4,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.508956,-73.581396
-S1369,S1369,HФPITAL ROYAL VICTORIA,687  avenue des pins ouest,Montrйal,QC,H3A 1A1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.5082,-73.581456
-S1420,S1420,CHSLD DES BВTISSEURS,11810  avenue du bois-de-boulogne,Montrйal,QC,H3M 2X6,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.540646,-73.68874
-S1463,S1463,CENTRE DE SERVICES AMBULATOIRES DE SOINS PSYCHIATRIQUES D'ANJOU,7101  rue jean-talon est,Montrйal,QC,H1M 3N7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.597923,-73.570774
-S1485,S1485,HФPITAL DE LACHINE,650  16e avenue,Montrйal,QC,H8S 3N5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.440835,-73.676985
-S1507,S1507,HФPITAL RICHARDSON,5425  avenue bessborough,Montrйal,QC,H4V 2S7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.471955,-73.645944
-S1518,S1518,HФPITAL FLEURY,2180  rue fleury est,Montrйal,QC,H2B 1K3,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.57181,-73.650367
-S1529,S1529,HФPITAL JEAN-TALON,1385  rue jean-talon est,Montrйal,QC,H2E 1S6,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.545943,-73.609538
-S1571,S1571,CENTRE DE SERVICES AMBULATOIRES DE SOINS PSYCHIATRIQUES DE SAINT-LЙONARD,8000  boulevard langelier,Montrйal,QC,H1P 3K2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.594060999999996,-73.581337
-6820,6820,CH DE L'UNIVERSITЙ DE MONTRЙAL (CHUM) - HФPITAL SAINT-LUC,1058 rue saint-denis,Montrйal,QC,H2X 3J4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.5123152,-73.5577136
-S1673,S1673,HФPITAL DOUGLAS,6875  boulevard lasalle,Montrйal,QC,H4H 1R3,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.442083000000004,-73.584223
-S237,S237,INSTITUT NATIONAL DE PSYCHIATRIE LЙGALE PHILIPPE-PINEL,10905  boulevard henri-bourassa est,Montrйal,QC,H1C 1H1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.656057000000004,-73.53361600000001
-S239,S239,CENTRE DE SERVICES AMBULATOIRES DE SOINS PSYCHIATRIQUES CRAWFORD,7105  boulevard lasalle,Montrйal,QC,H4H 1R2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.439396,-73.58144
-S346,S346,CENTRE DE SERVICES AMBULATOIRES DE SOINS PSYCHIATRIQUES WELLINGTON,4932  rue wellington,Montrйal,QC,H4G 1X6,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.456285,-73.567305
-S358,S358,CENTRE DE SERVICES AMBULATOIRES EN SANTЙ MENTALE PAPINEAU,10345  avenue papineau,Montrйal,QC,H2B 2A3,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.568529,-73.653602
-S379,S379,CLSC DE RIVIИRE-DES-PRAIRIES,8655  boulevard perras,Montrйal,QC,H1E 4M7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.644779,-73.585977
-S390,S390,CENTRE MULTISERVICES DE SANTЙ ET DE SERVICES SOCIAUX DE PARC-EXTENSION,7085  rue hutchison,Montrйal,QC,H3N 1Y9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.529596999999995,-73.621043
-S452,S452,CENTRE DE SERVICES AMBULATOIRES DE SOINS PSYCHIATRIQUES DE MERCIER-OUEST,6850  rue sherbrooke est,Montrйal,QC,H1N 1E1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.584868,-73.541394
-S453,S453,PROGRAMME DE RECHERCHE CLINIQUE CHUM-IRCM,120 avenue des pins ouest,Montrйal,QC,H2W 2T2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.513448,-73.576203
-S464,S464,HФPITAL DE RЙADAPTATION LINDSAY,6363  chemin hudson,Montrйal,QC,H3S 1M9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.507064,-73.629478
-S538,S538,HФPITAL GЙNЙRAL JUIF,4335  chemin de la cфte-sainte-catherin,Montrйal,QC,H3T 1E4,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.495761,-73.630634
-S549,S549,CENTRE HOSPITALIER UNIVERSITAIRE SAINTE-JUSTINE,5757  avenue decelles,Montrйal,QC,H3S 2C3,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.501148,-73.626124
-S584,S584,CLSC ET GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE CФTE-DES-NEIGES,5700  chemin de la cфte-des-neiges,Montrйal,QC,H3T 2A8,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.498159,-73.627307
-S585,S585,CLSC ET GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE MЙTRO,1801  boulevard de maisonneuve ouest,Montrйal,QC,H3H 1J9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.494557,-73.581027
-S586,S586,CLSC DE SAINT-LЙONARD,5540  rue jarry est,Montrйal,QC,H1P 1T9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.585253,-73.589922
-S587,S587,CLSC DE HOCHELAGA-MAISONNEUVE,4201  rue ontario est,Montrйal,QC,H1V 1K2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.551349,-73.540867
-S588,S588,CLSC OLIVIER-GUIMOND,5810  rue sherbrooke est,Montrйal,QC,H1N 1B2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.575021,-73.547504
-S589,S589,CLSC DE L'EST-DE-MONTRЙAL,13926  rue notre-dame est,Montrйal,QC,H1A 1T5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.666433000000005,-73.493581
-S593,S593,CLSC DE MERCIER-EST,9503  rue sherbrooke est,Montrйal,QC,H1L 6P2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.611666,-73.526628
-S594,S594,CLSC DE LA VISITATION ET GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE DES FAUBOURGS,1705  rue de la visitation,Montrйal,QC,H2L 3C3,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.521116,-73.558864
-S597,S597,CLSC DE SAINT-MICHEL,3355  rue jarry est,Montrйal,QC,H1Z 2E5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.565598,-73.608292
-S598,S598,CLSC DE ROSEMONT,2909  rue rachel est,Montrйal,QC,H1W 0A9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.542519,-73.562078
-S602,S602,CLSC SAINTE-CATHERINE ET GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE DES FAUBOURGS,66  rue sainte-catherine est,Montrйal,QC,H2X 1K6,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.510483,-73.562663
-S606,S606,CLSC PARTHENAIS ET GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE DES FAUBOURGS,2260  rue parthenais,Montrйal,QC,H2K 3T5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.531013,-73.560069
-S609,S609,CLSC DU VILLAGE-OLYMPIQUE,5199  rue sherbrooke est,Montrйal,QC,H1T 3X2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.568953,-73.554179
-S610,S610,CLSC ET GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE BORDEAUX-CARTIERVILLE,11822  avenue du bois-de-boulogne,Montrйal,QC,H3M 2X6,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.540815,-73.68934200000001
-S611,S611,CENTRE DE SERVICES AMBULATOIRES ET MAISON DE NAISSANCE LOUVAIN,9600  rue saint-denis,Montrйal,QC,H2M 1P2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.548516,-73.654072
-S613,S613,HФPITAL DE SOINS PSYCHIATRIQUES DE L'EST-DE-MONTRЙAL,7401  rue hochelaga,Montrйal,QC,H1N 3M5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.588619,-73.52904699999999
-S620,S620,HФPITAL GЙNЙRAL JUIF,3755  chemin de la cфte-sainte-catherin,Montrйal,QC,H3T 1E2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.497811,-73.62880600000001
-S621,S621,CENTRE HOSPITALIER DE ST. MARY,3830  avenue lacombe,Montrйal,QC,H3T 1M5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.495296,-73.624505
-S623,S623,INSTITUT UNIVERSITAIRE DE GЙRIATRIE DE MONTRЙAL,4565  chemin queen-mary,Montrйal,QC,H3W 1W5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.491031,-73.623817
-S631,S631,CENTRE D'HЙBERGEMENT DU MANOIR-DE-L'ВGE-D'OR,3430  rue jeanne-mance,Montrйal,QC,H2X 2J9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.509456,-73.57194399999999
-S635,S635,CENTRE D'HЙBERGEMENT J.-HENRI-CHARBONNEAU,3095  rue sherbrooke est,Montrйal,QC,H1W 1B2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.542654,-73.558801
-S636,S636,HФPITAL DE LASALLE,8585  terrasse champlain,Montrйal,QC,H8P 1C1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.420839,-73.62337099999999
-S645,S645,CENTRE D'HЙBERGEMENT NOTRE-DAME-DE-LA-MERCI,555  boulevard gouin ouest,Montrйal,QC,H3L 1K5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.547601,-73.687656
-S659,S659,HФPITAL CATHERINE-BOOTH,4375  avenue montclair,Montrйal,QC,H4B 2J5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.463935,-73.635565
-S660,S660,CHU SAINTE-JUSTINE,3175  chemin de la cфte-sainte-catherin,Montrйal,QC,H3T 1C5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.503155,-73.624943
-S662,S662,INSTITUT DE RЙADAPTATION DE MONTRЙAL,6300  avenue darlington,Montrйal,QC,H3S 2J4,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.508074,-73.628776
-S670,S670,CENTRE DE SERVICES AMBULATOIRES EN GЙRONTOPSYCHIATRIE GRENET,12085  rue grenet,Montrйal,QC,H4J 2J4,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.529865,-73.71384599999999
-S724,S724,SITE GLEN,1001  rue dйcarie,Montrйal,QC,H4A 3J1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.473377,-73.600886
-S735,S735,CENTRE DE SERVICES AMBULATOIRES DE MAISONNEUVE,5252  boulevard de maisonneuve,Montrйal,QC,H4A 3S9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.473392,-73.604551
-S743,S743,CENTRE DE SERVICES AMBULATOIRES DE DIALYSE DE LA RUE DE GASPЙ,5455  avenue de gaspй,Montrйal,QC,H2T 3B3,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.527525,-73.596368
-S764,S764,HФPITAL SHRINERS POUR ENFANTS (QUЙBEC),1003  boulevard dйcarie,Montrйal,QC,H4A 0A9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.471773999999996,-73.602
-S774,S774,CENTRE DE SERVICES AMBULATOIRES BOIS-DE-BOULOGNE,1575  boulevard henri-bourassa ouest,Montrйal,QC,H3M 3A9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.537592,-73.67972900000001
-S775,S775,GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE NOTRE-DAME,2120  rue sherbrooke est,Montrйal,QC,H2K 1C3,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.530985,-73.562554
-S841,S841,HФPITAL SANTA CABRINI,5655  rue saint-zotique est,Montrйal,QC,H1T 1P7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.580138,-73.57171899999999
-S863,S863,CENTRE DE SERVICES AMBULATOIRES JEAN-JACQUES-GAUTHIER,11885  boulevard laurentien,Montrйal,QC,H4J 2R5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.52539,-73.71107099999999
-S885,S885,GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE SACRЙ-CЊUR,1575  boulevard henri-bourassa ouest,Montrйal,QC,H3M 3A9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.537592,-73.67972900000001
-S888,S888,GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE DE VERDUN,3922  boulevard lasalle,Montrйal,QC,H4G 2A2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.464099,-73.563988
-S893,S893,GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE ET CENTRE DE SERVICES AMBULATOIRES DE ST. MARY,3777  rue jean-brillant,Montrйal,QC,H3T 1M5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.494995,-73.623776
-S894,S894,CENTRE HOSPITALIER DE L'UNIVERSITЙ DE MONTRЙAL,1000  rue saint-denis,Montrйal,QC,H2X 0A9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.511757,-73.556331
-S895,S895,HФPITAL NOTRE-DAME,1560  rue sherbrooke est,Montrйal,QC,H2L 4M1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.525358000000004,-73.56356
-S897,S897,PAVILLON ЙDOUARD-ASSELIN,264  boulevard renй-lйvesque est,Montrйal,QC,H2X 1P1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.51112,-73.558615
-S898,S898,CENTRE DE RECHERCHE DU CENTRE HOSPITALIER DE L'UNIVERSITЙ DE MONTRЙAL,900  rue saint-denis,Montrйal,QC,H2X 0A9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.510839000000004,-73.55594599999999
-S907,S907,CENTRE DE SERVICES AMBULATOIRES EN SANTЙ MENTALE FLEURY,2330  rue fleury est,Montrйal,QC,H2B 1K9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.5739,-73.64851800000001
-S984,S984,HФPITAL GЙNЙRAL DE MONTRЙAL,1650  avenue cedar,Montrйal,QC,H3G 1A4,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.497046000000005,-73.589036
-S916,S916,HФPITAL COURTE DURЙE PLACE DUPUIS,1415 rue saint-hubert,Montrйal,QC,H2L 3Y9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.515895,-73.559147
-S929,S929,HOPITAL DE JOUR LE TREMPLIN,6617  boulevard lasalle,Montrйal,QC,H4H 1R2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.443762,-73.579359
-S930,S930,INSTITUT DE CARDIOLOGIE DE MONTRЙAL,5000  rue bйlanger,Montrйal,QC,H1T 1C8,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.573763,-73.57781700000001
-S937,S937,SNT - HФPITAL DE LASALLE - ARЙNA JACQUES LEMAIRE,8681  boulevard champlain,Montrйal,QC,H8P 1B8,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.418481,-73.622524
-S939,S939,HФPITAL EN SANTЙ MENTALE ALBERT-PRЙVOST,6555  boulevard gouin ouest,Montrйal,QC,H4K 1B3,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.529026,-73.72904100000001
-S940,S940,HФPITAL MARIE-CLARAC,3530  boulevard gouin est,Montrйal,QC,H1H 1B7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.590837,-73.649742
-S560,S560,PAVILLON FERNAND-SЙGUIN,7331  rue hochelaga,Montrйal,QC,H1N 3V2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.586219,-73.527287
-S973,S973,HФPITAL DU SACRЙ-CЊUR DE MONTRЙAL,5400  boulevard gouin ouest,Montrйal,QC,H4J 1C5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.532578,-73.714036
-S909,S909,CLSC DE MURDOCHVILLE,600  avenue william-may,Murdochville,QC,G0E 1W0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.961323,-65.493545
-6824,6824,CH DE METABETCHOUAN - LAC-A-LA-CROIX ET CLSC SECTEUR-SUD,1895 route 169,Mйtabetchouan--Lac-а-la-Croix,QC,G8G 1B4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.4258029,-71.866405
-8023,8023,HФPITAL DU CHRIST-ROI,675 rue saint-jean-baptiste,Nicolet,QC,J3T 1S4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.2306001,-72.6267734
-S1763,S1763,CENTRE MULTISERVICES DE SANTЙ ET DE SERVICES SOCIAUX CHRIST-ROI,675  rue saint-jean-baptiste,Nicolet,QC,J3T 1S4,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.23147,-72.626501
-S1452,S1452,HФPITAL BARRIE MЙMORIAL,28  rue gale,Ormstown,QC,J0S 1K0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.126343,-73.99986700000001
-S891,S891,CLSC DE PASPEBIAC,273  boulevard gйrard-d.-levesque,Paspйbiac,QC,G0C 2K0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.021953,-65.28675600000001
-S797,S797,CLSC DE POHENEGAMOOK,1922  rue saint-vallier,Pohйnйgamook,QC,G0L 1J0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,47.489759,-69.281334
-S644,S644,HФPITAL GЙNЙRAL DU LAKESHORE,160  avenue stillview,Pointe-Claire,QC,H9R 2Y2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.44855,-73.833668
-S962,S962,CENTRE MULTISERVICES DE SANTЙ ET DE SERVICES SOCIAUX DE PORT-CARTIER,3  rue de shelter bay,Port-Cartier,QC,G5B 2W9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,50.023783,-66.893964
-S430,S430,CENTRE DE SANTE INUULITSIVIK,1 chemin baie d'hudson,Puvirnituq,QC,J0M 1P0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,60.03765,-77.275795
-S16,S16,HФPITAL LAVAL,1 chemin sainte-foy,Quйbec,QC,J0S 1K0,,1-800-622-6232,Hospitals,Municipality of Quйbec,Yes,5,46.77848534,-71.29716547
-6851,6851,HФPITAL SAINT-FRANЗOIS DASSISE,10 rue de l'espinay,Quйbec,QC,G1L 3L5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.827533,-71.236389
-S933,S933,HФTEL LE CONCORDE QUЙBEC & UNILOFTS GRANDE-ALLЙE,1225  cours du gйnйral de montcalm,Quйbec,QC,G1R 4W6,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.805321,-71.21723100000001
-S932,S932,CDC SMDI DE L'ARMЙE DU SALUT,14  cфte du palais,Quйbec,QC,G1R 4H8,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.814758000000005,-71.211407
-S1753,S1753,"CLSC, HOPITAL ET CENTRE D'HEBERGEMENT CHRIST-ROI",900  boulevard wilfrid-hamel,Quйbec,QC,G1M 2R9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.810782,-71.258207
-S1083,S1083,PAVILLON L'HФTEL-DIEU DE QUЙBEC,11  cфte du palais,Quйbec,QC,G1R 2J6,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.81539,-71.210994
-S1072,S1072,HФPITAL DU SAINT-SACREMENT,1050  chemin sainte-foy,Quйbec,QC,G1S 4L8,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.799357,-71.246411
-S1028,S1028,LA MAISON MICHEL SARRAZIN,2101  chemin saint-louis,Quйbec,QC,G1T 1P5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.773478999999995,-71.251598
-S692,S692,GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE QUATRE-BOURGEOIS,2690  chemin des quatre-bourgeois,Quйbec,QC,G1V 0B7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.778594,-71.294723
-S671,S671,CENTRE DE SERVICES AMBULATOIRES EN SANTЙ MENTALE SAINT-VALLIER,388  rue saint-vallier ouest,Quйbec,QC,G1K 1K6,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.812109,-71.239125
-S926,S926,CLSC ET GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE DE LA HAUTE-VILLE,55  chemin sainte-foy,Quйbec,QC,G1R 1S9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.806018,-71.227891
-S262,S262,HФPITAL CHAUVEAU,11999  rue de l'hфpital,Quйbec,QC,G2A 2T7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.853199,-71.369963
-7984,7984,HФPITAL CHRIST-ROI,900 boulevard wilfrid-hamel,Quйbec,QC,J9T 2S2,,1-800-622-6232,Hospitals,Municipality of Quйbec,Yes,5,46.81135599,-71.25837456
-S653,S653,HФPITAL JEFFERY HALE,1250  chemin sainte-foy,Quйbec,QC,G1S 2M6,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.796649,-71.253086
-S347,S347,CENTRE DE PЙDOPSYCHIATRIE - RЙSIDENCE DU SACRЙ-COEUR,1  avenue du sacrй-coeur,Quйbec,QC,G1N 2W1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.813282,-71.245535
-S637,S637,HФPITAL DE L'ENFANT-JЙSUS,1401  18e rue,Quйbec,QC,G1J 1Z4,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.837203,-71.225495
-8050,8050,HФPITAL LAVAL,2725 ch ste-foy,Quйbec,QC,G1V 4G5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.7791191,-71.2976016
-S624,S624,PAVILLON CENTRE HOSPITALIER DE L'UNIVERSITЙ LAVAL,2705  boulevard laurier,Quйbec,QC,G1V 4G2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.767873,-71.282342
-S17,S17,HФPITAL SAINT-FRANЗOIS D'ASSISE,1 rue de lespinay,Quйbec,QC,J0S 1K0,,1-800-622-6232,Hospitals,Municipality of Quйbec,Yes,5,46.82844125,-71.23754678
-S496,S496,GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE LAURIER,2875  boulevard laurier,Quйbec,QC,G1V 2M2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.765935999999996,-71.289344
-S612,S612,INSTITUT UNIVERSITAIRE EN SANTЙ MENTALE DE QUЙBEC,2601  chemin de la canardiиre,Quйbec,QC,G1J 2G3,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.847669,-71.220504
-S15,S15,HФPITAL DE L'ENFANT-JЙSUS,1401.0 18e rue,Quйbec,QC,J0S 1K0,,1-800-622-6232,Hospitals,Municipality of Quйbec,Yes,5,46.83748294,-71.22604003
-S607,S607,CLSC ET GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE DE MAIZERETS,2480  chemin de la canardiиre,Quйbec,QC,G1J 2G1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.843684,-71.218317
-6699,6699,CENTRE HOSPITALIER ROBERT-GIFFARD,1 chemin de la canardiиre,Quйbec,QC,J0X 3G0,,1-800-622-6232,Hospitals,Municipality of Quйbec,Yes,5,46.84793219,-71.22072592
-S1234,S1234,CENTRE DE SERVICES AMBULATOIRES EN SANTЙ MENTALE DE RAWDON,3570  rue church,Rawdon,QC,J0K 1S0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.041693,-73.702641
-S399,S399,CENTRE MULTISERVICES DE SANTЙ ET DE SERVICES SOCIAUX CLAUDE-DAVID,135  boulevard claude-david,Repentigny,QC,J6A 1N6,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.718801,-73.47557900000001
-S527,S527,CENTRE DE SERVICES AMBULATOIRES EN PЙDOPSYCHIATRIE DE REPENTIGNY,465  rue notre-dame,Repentigny,QC,J6A 2T3,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.739686,-73.446173
-S641,S641,HФPITAL RЙGIONAL DE RIMOUSKI,150  avenue rouleau,Rimouski,QC,G5L 5T1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.447043,-68.530496
-6944,6944,CISSS DU BAS-SAINT-LAURENT — HФPITAL RЙGIONAL DE RIMOUSKI,1 Main Street,Rimouski,QC,G5L 5T1,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.4500,-68.5300
-S915,S915,CLSC ET GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE DE RIMOUSKI,165  rue des gouverneurs,Rimouski,QC,G5L 7R2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.454832,-68.521711
-S938,S938,"CENTRE DE RЙADAPTATION EN DЙFICIENCE INTELLECTUELLE, TROUBLE DU SPECTRE DE L'AUTISME ET EN DЙFICIENCE PHYSIQUE THЙRИSE-MARTIN",100  chemin de la petite-anse,Riviиre-Ouelle,QC,G0L 2C0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,47.455067,-70.000724
-S1631,S1631,CENTRE DE SERVICES DE RIVIИRE-ROUGE,1525  rue de l'annonciation nord,Riviиre-Rouge,QC,J0T 1T0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.420799,-74.884682
-S658,S658,CENTRE HOSPITALIER RЙGIONAL DU GRAND-PORTAGE,75  rue saint-henri,Riviиre-du-Loup,QC,G5R 2A4,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,47.818478999999996,-69.539923
-S643,S643,HФPITAL ET CENTRE D'HЙBERGEMENT DE ROBERVAL,450  rue brassard,Roberval,QC,G8H 1B9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.507731,-72.218987
-6878,6878,CISSS DE L'ABITIBI-TЙMISCAMINGUE — HФPITAL DE ROUYN-NORANDA,1 Main Street,Rouyn-Noranda,QC,J9X 2B2,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.2333,-79.0167
-S615,S615,CENTRE MULTISERVICES DE SANTЙ ET DE SERVICES SOCIAUX DE ROUYN-NORANDA,3  9e rue,Rouyn-Noranda,QC,J9X 2A9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.243843,-79.02063000000001
-S649,S649,HФPITAL DE ROUYN-NORANDA,4  9e rue,Rouyn-Noranda,QC,J9X 2B2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.243809000000006,-79.019318
-S633,S633,HФPITAL DE LA BAIE,1000  rue du docteur-desgagnй,Saguenay,QC,G7B 2Y6,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.343909000000004,-70.883162
+6908,6908,CISSS DE LA GASPéSIE — HôPITAL DE MARIA,1 Main Street,Maria,QC,G0C 1Y0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.1667,-65.9833
+S1441,S1441,HôPITAL DE MARIA,419  boulevard perron,Maria,QC,G0C 1Y0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.169149,-65.993516
+S1279,S1279,CENTRE DE SANTé ISLE-DIEU,130  boulevard  matagami,Matagami,QC,J0Y 2A0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,49.756840999999994,-77.628286
+S1149,S1149,HôPITAL DE MATANE,333  rue thibault,Matane,QC,G4W 2W5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.843565999999996,-67.524416
+S896,S896,CENTRE DE SANTé ET DE SERVICES SOCIAUX DE LA MITIS,800  avenue du sanatorium,Mont-Joli,QC,G5H 3L6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.572404,-68.216178
+S485,S485,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE MONT-LAURIER,757  rue de la madone,Mont-Laurier,QC,J9L 1T2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.556419,-75.494855
+S1104,S1104,HôPITAL DE MONT-LAURIER,2561  chemin de la liиvre sud,Mont-Laurier,QC,J9L 3G3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.549211,-75.517655
+8090,8090,HôTEL-DIEU DE MONTMAGNY,350 boul taché ouest,Montmagny,QC,G5V 3R8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.976366999999996,-70.5970718
+S666,S666,HôPITAL ET CENTRE DE RéADAPTATION EN DéFICIENCE PHYSIQUE DE MONTMAGNY,350  boulevard taché ouest,Montmagny,QC,G5V 3R8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.976408,-70.596699
+S655,S655,PAVILLON ROSEMONT,5689  boulevard rosemont,Montréal,QC,H1T 2H1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.577463,-73.562116
+8052,8052,HôPITAL LOUIS-H. LAFONTAINE,7401 rue hochelaga,Montréal,QC,H1N 3M5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.5884937,-73.5291412
+8072,8072,HôPITAL RIVIИRE-DES-PRAIRIES,7070 boul perras,Montréal,QC,H1E 1A4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.6271766,-73.6147382
+8253,8253,MCGILL UNIVERSITY HEALTH CENTRE - MONTRéAL CHEST INSTITUTE,3650 st urbain,Montréal,QC,H2X 2P4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.513014,-73.5752103
+8492,8492,SHRINERS HOSPITAL FOR CHILDREN,1529 cedar ave,Montréal,QC,H3G 1A6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.499581,-73.588351
+S1006,S1006,HôPITAL MAISONNEUVE-ROSEMONT,5415  boulevard de l'assomption,Montréal,QC,H1T 2M4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.574065000000004,-73.55954799999999
+S1017,S1017,CENTRE METROPOLITAIN DE CHIRURGIE PLASTIQUE,999  rue de salaberry,Montréal,QC,H3L 1L2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.545449,-73.692942
+S1039,S1039,VILLA MEDICA,225  rue sherbrooke est,Montréal,QC,H2X 1C9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.514974,-73.568738
+S1115,S1115,HôPITAL DE VERDUN,4000  boulevard lasalle,Montréal,QC,H4G 2A3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.464098,-73.563989
+S1148,S1148,HOPITAL DE JOUR L'ENVOL,6625  boulevard lasalle,Montréal,QC,H4H 1R2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.444268,-73.581796
+S1160,S1160,HôTEL-DIEU DU CENTRE HOSPITALIER DE L'UNIVERSITé DE MONTRéAL,3840  rue saint-urbain,Montréal,QC,H2W 1T8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.513942,-73.578112
+S1320,S1320,PAVILLON RACHEL-TOURIGNY,5305  boulevard de l'assomption,Montréal,QC,H1T 2M4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.574003000000005,-73.556831
+S1349,S1349,L'HôPITAL DE MONTRéAL POUR ENFANTS,2300  rue tupper,Montréal,QC,H3H 1P3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.488959,-73.582312
+S1358,S1358,CENTRE DE SERVICES AMBULATOIRES DE SOINS PSYCHIATRIQUES BEAUBIEN,7067  rue beaubien est,Montréal,QC,H1M 2Y2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.593553,-73.558021
+S1359,S1359,HôPITAL NEUROLOGIQUE DE MONTRéAL,3801  rue university,Montréal,QC,H3A 2B4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.508956,-73.581396
+S1369,S1369,HôPITAL ROYAL VICTORIA,687  avenue des pins ouest,Montréal,QC,H3A 1A1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.5082,-73.581456
+S1420,S1420,CHSLD DES BВTISSEURS,11810  avenue du bois-de-boulogne,Montréal,QC,H3M 2X6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.540646,-73.68874
+S1463,S1463,CENTRE DE SERVICES AMBULATOIRES DE SOINS PSYCHIATRIQUES D'ANJOU,7101  rue jean-talon est,Montréal,QC,H1M 3N7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.597923,-73.570774
+S1485,S1485,HôPITAL DE LACHINE,650  16e avenue,Montréal,QC,H8S 3N5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.440835,-73.676985
+S1507,S1507,HôPITAL RICHARDSON,5425  avenue bessborough,Montréal,QC,H4V 2S7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.471955,-73.645944
+S1518,S1518,HôPITAL FLEURY,2180  rue fleury est,Montréal,QC,H2B 1K3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.57181,-73.650367
+S1529,S1529,HôPITAL JEAN-TALON,1385  rue jean-talon est,Montréal,QC,H2E 1S6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.545943,-73.609538
+S1571,S1571,CENTRE DE SERVICES AMBULATOIRES DE SOINS PSYCHIATRIQUES DE SAINT-LéONARD,8000  boulevard langelier,Montréal,QC,H1P 3K2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.594060999999996,-73.581337
+6820,6820,CH DE L'UNIVERSITé DE MONTRéAL (CHUM) - HôPITAL SAINT-LUC,1058 rue saint-denis,Montréal,QC,H2X 3J4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.5123152,-73.5577136
+S1673,S1673,HôPITAL DOUGLAS,6875  boulevard lasalle,Montréal,QC,H4H 1R3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.442083000000004,-73.584223
+S237,S237,INSTITUT NATIONAL DE PSYCHIATRIE LéGALE PHILIPPE-PINEL,10905  boulevard henri-bourassa est,Montréal,QC,H1C 1H1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.656057000000004,-73.53361600000001
+S239,S239,CENTRE DE SERVICES AMBULATOIRES DE SOINS PSYCHIATRIQUES CRAWFORD,7105  boulevard lasalle,Montréal,QC,H4H 1R2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.439396,-73.58144
+S346,S346,CENTRE DE SERVICES AMBULATOIRES DE SOINS PSYCHIATRIQUES WELLINGTON,4932  rue wellington,Montréal,QC,H4G 1X6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.456285,-73.567305
+S358,S358,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE PAPINEAU,10345  avenue papineau,Montréal,QC,H2B 2A3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.568529,-73.653602
+S379,S379,CLSC DE RIVIИRE-DES-PRAIRIES,8655  boulevard perras,Montréal,QC,H1E 4M7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.644779,-73.585977
+S390,S390,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE PARC-EXTENSION,7085  rue hutchison,Montréal,QC,H3N 1Y9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.529596999999995,-73.621043
+S452,S452,CENTRE DE SERVICES AMBULATOIRES DE SOINS PSYCHIATRIQUES DE MERCIER-OUEST,6850  rue sherbrooke est,Montréal,QC,H1N 1E1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.584868,-73.541394
+S453,S453,PROGRAMME DE RECHERCHE CLINIQUE CHUM-IRCM,120 avenue des pins ouest,Montréal,QC,H2W 2T2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.513448,-73.576203
+S464,S464,HôPITAL DE RéADAPTATION LINDSAY,6363  chemin hudson,Montréal,QC,H3S 1M9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.507064,-73.629478
+S538,S538,HôPITAL GéNéRAL JUIF,4335  chemin de la côte-sainte-catherin,Montréal,QC,H3T 1E4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.495761,-73.630634
+S549,S549,CENTRE HOSPITALIER UNIVERSITAIRE SAINTE-JUSTINE,5757  avenue decelles,Montréal,QC,H3S 2C3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.501148,-73.626124
+S584,S584,CLSC ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE CôTE-DES-NEIGES,5700  chemin de la côte-des-neiges,Montréal,QC,H3T 2A8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.498159,-73.627307
+S585,S585,CLSC ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE MéTRO,1801  boulevard de maisonneuve ouest,Montréal,QC,H3H 1J9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.494557,-73.581027
+S586,S586,CLSC DE SAINT-LéONARD,5540  rue jarry est,Montréal,QC,H1P 1T9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.585253,-73.589922
+S587,S587,CLSC DE HOCHELAGA-MAISONNEUVE,4201  rue ontario est,Montréal,QC,H1V 1K2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.551349,-73.540867
+S588,S588,CLSC OLIVIER-GUIMOND,5810  rue sherbrooke est,Montréal,QC,H1N 1B2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.575021,-73.547504
+S589,S589,CLSC DE L'EST-DE-MONTRéAL,13926  rue notre-dame est,Montréal,QC,H1A 1T5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.666433000000005,-73.493581
+S593,S593,CLSC DE MERCIER-EST,9503  rue sherbrooke est,Montréal,QC,H1L 6P2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.611666,-73.526628
+S594,S594,CLSC DE LA VISITATION ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DES FAUBOURGS,1705  rue de la visitation,Montréal,QC,H2L 3C3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.521116,-73.558864
+S597,S597,CLSC DE SAINT-MICHEL,3355  rue jarry est,Montréal,QC,H1Z 2E5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.565598,-73.608292
+S598,S598,CLSC DE ROSEMONT,2909  rue rachel est,Montréal,QC,H1W 0A9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.542519,-73.562078
+S602,S602,CLSC SAINTE-CATHERINE ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DES FAUBOURGS,66  rue sainte-catherine est,Montréal,QC,H2X 1K6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.510483,-73.562663
+S606,S606,CLSC PARTHENAIS ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DES FAUBOURGS,2260  rue parthenais,Montréal,QC,H2K 3T5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.531013,-73.560069
+S609,S609,CLSC DU VILLAGE-OLYMPIQUE,5199  rue sherbrooke est,Montréal,QC,H1T 3X2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.568953,-73.554179
+S610,S610,CLSC ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE BORDEAUX-CARTIERVILLE,11822  avenue du bois-de-boulogne,Montréal,QC,H3M 2X6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.540815,-73.68934200000001
+S611,S611,CENTRE DE SERVICES AMBULATOIRES ET MAISON DE NAISSANCE LOUVAIN,9600  rue saint-denis,Montréal,QC,H2M 1P2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.548516,-73.654072
+S613,S613,HôPITAL DE SOINS PSYCHIATRIQUES DE L'EST-DE-MONTRéAL,7401  rue hochelaga,Montréal,QC,H1N 3M5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.588619,-73.52904699999999
+S620,S620,HôPITAL GéNéRAL JUIF,3755  chemin de la côte-sainte-catherin,Montréal,QC,H3T 1E2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.497811,-73.62880600000001
+S621,S621,CENTRE HOSPITALIER DE ST. MARY,3830  avenue lacombe,Montréal,QC,H3T 1M5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.495296,-73.624505
+S623,S623,INSTITUT UNIVERSITAIRE DE GéRIATRIE DE MONTRéAL,4565  chemin queen-mary,Montréal,QC,H3W 1W5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.491031,-73.623817
+S631,S631,CENTRE D'HéBERGEMENT DU MANOIR-DE-L'ВGE-D'OR,3430  rue jeanne-mance,Montréal,QC,H2X 2J9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.509456,-73.57194399999999
+S635,S635,CENTRE D'HéBERGEMENT J.-HENRI-CHARBONNEAU,3095  rue sherbrooke est,Montréal,QC,H1W 1B2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.542654,-73.558801
+S636,S636,HôPITAL DE LASALLE,8585  terrasse champlain,Montréal,QC,H8P 1C1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.420839,-73.62337099999999
+S645,S645,CENTRE D'HéBERGEMENT NOTRE-DAME-DE-LA-MERCI,555  boulevard gouin ouest,Montréal,QC,H3L 1K5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.547601,-73.687656
+S659,S659,HôPITAL CATHERINE-BOOTH,4375  avenue montclair,Montréal,QC,H4B 2J5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.463935,-73.635565
+S660,S660,CHU SAINTE-JUSTINE,3175  chemin de la côte-sainte-catherin,Montréal,QC,H3T 1C5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.503155,-73.624943
+S662,S662,INSTITUT DE RéADAPTATION DE MONTRéAL,6300  avenue darlington,Montréal,QC,H3S 2J4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.508074,-73.628776
+S670,S670,CENTRE DE SERVICES AMBULATOIRES EN GéRONTOPSYCHIATRIE GRENET,12085  rue grenet,Montréal,QC,H4J 2J4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.529865,-73.71384599999999
+S724,S724,SITE GLEN,1001  rue décarie,Montréal,QC,H4A 3J1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.473377,-73.600886
+S735,S735,CENTRE DE SERVICES AMBULATOIRES DE MAISONNEUVE,5252  boulevard de maisonneuve,Montréal,QC,H4A 3S9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.473392,-73.604551
+S743,S743,CENTRE DE SERVICES AMBULATOIRES DE DIALYSE DE LA RUE DE GASPé,5455  avenue de gaspé,Montréal,QC,H2T 3B3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.527525,-73.596368
+S764,S764,HôPITAL SHRINERS POUR ENFANTS (QUéBEC),1003  boulevard décarie,Montréal,QC,H4A 0A9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.471773999999996,-73.602
+S774,S774,CENTRE DE SERVICES AMBULATOIRES BOIS-DE-BOULOGNE,1575  boulevard henri-bourassa ouest,Montréal,QC,H3M 3A9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.537592,-73.67972900000001
+S775,S775,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE NOTRE-DAME,2120  rue sherbrooke est,Montréal,QC,H2K 1C3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.530985,-73.562554
+S841,S841,HôPITAL SANTA CABRINI,5655  rue saint-zotique est,Montréal,QC,H1T 1P7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.580138,-73.57171899999999
+S863,S863,CENTRE DE SERVICES AMBULATOIRES JEAN-JACQUES-GAUTHIER,11885  boulevard laurentien,Montréal,QC,H4J 2R5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.52539,-73.71107099999999
+S885,S885,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE SACRé-CЊUR,1575  boulevard henri-bourassa ouest,Montréal,QC,H3M 3A9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.537592,-73.67972900000001
+S888,S888,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE VERDUN,3922  boulevard lasalle,Montréal,QC,H4G 2A2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.464099,-73.563988
+S893,S893,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE ET CENTRE DE SERVICES AMBULATOIRES DE ST. MARY,3777  rue jean-brillant,Montréal,QC,H3T 1M5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.494995,-73.623776
+S894,S894,CENTRE HOSPITALIER DE L'UNIVERSITé DE MONTRéAL,1000  rue saint-denis,Montréal,QC,H2X 0A9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.511757,-73.556331
+S895,S895,HôPITAL NOTRE-DAME,1560  rue sherbrooke est,Montréal,QC,H2L 4M1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.525358000000004,-73.56356
+S897,S897,PAVILLON éDOUARD-ASSELIN,264  boulevard rené-lévesque est,Montréal,QC,H2X 1P1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.51112,-73.558615
+S898,S898,CENTRE DE RECHERCHE DU CENTRE HOSPITALIER DE L'UNIVERSITé DE MONTRéAL,900  rue saint-denis,Montréal,QC,H2X 0A9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.510839000000004,-73.55594599999999
+S907,S907,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE FLEURY,2330  rue fleury est,Montréal,QC,H2B 1K9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.5739,-73.64851800000001
+S984,S984,HôPITAL GéNéRAL DE MONTRéAL,1650  avenue cedar,Montréal,QC,H3G 1A4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.497046000000005,-73.589036
+S916,S916,HôPITAL COURTE DURéE PLACE DUPUIS,1415 rue saint-hubert,Montréal,QC,H2L 3Y9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.515895,-73.559147
+S929,S929,HOPITAL DE JOUR LE TREMPLIN,6617  boulevard lasalle,Montréal,QC,H4H 1R2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.443762,-73.579359
+S930,S930,INSTITUT DE CARDIOLOGIE DE MONTRéAL,5000  rue bélanger,Montréal,QC,H1T 1C8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.573763,-73.57781700000001
+S937,S937,SNT - HôPITAL DE LASALLE - ARéNA JACQUES LEMAIRE,8681  boulevard champlain,Montréal,QC,H8P 1B8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.418481,-73.622524
+S939,S939,HôPITAL EN SANTé MENTALE ALBERT-PRéVOST,6555  boulevard gouin ouest,Montréal,QC,H4K 1B3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.529026,-73.72904100000001
+S940,S940,HôPITAL MARIE-CLARAC,3530  boulevard gouin est,Montréal,QC,H1H 1B7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.590837,-73.649742
+S560,S560,PAVILLON FERNAND-SéGUIN,7331  rue hochelaga,Montréal,QC,H1N 3V2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.586219,-73.527287
+S973,S973,HôPITAL DU SACRé-CЊUR DE MONTRéAL,5400  boulevard gouin ouest,Montréal,QC,H4J 1C5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.532578,-73.714036
+S909,S909,CLSC DE MURDOCHVILLE,600  avenue william-may,Murdochville,QC,G0E 1W0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.961323,-65.493545
+6824,6824,CH DE METABETCHOUAN - LAC-A-LA-CROIX ET CLSC SECTEUR-SUD,1895 route 169,Métabetchouan--Lac-а-la-Croix,QC,G8G 1B4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.4258029,-71.866405
+8023,8023,HôPITAL DU CHRIST-ROI,675 rue saint-jean-baptiste,Nicolet,QC,J3T 1S4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.2306001,-72.6267734
+S1763,S1763,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX CHRIST-ROI,675  rue saint-jean-baptiste,Nicolet,QC,J3T 1S4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.23147,-72.626501
+S1452,S1452,HôPITAL BARRIE MéMORIAL,28  rue gale,Ormstown,QC,J0S 1K0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.126343,-73.99986700000001
+S891,S891,CLSC DE PASPEBIAC,273  boulevard gérard-d.-levesque,Paspébiac,QC,G0C 2K0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.021953,-65.28675600000001
+S797,S797,CLSC DE POHENEGAMOOK,1922  rue saint-vallier,Pohénégamook,QC,G0L 1J0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,47.489759,-69.281334
+S644,S644,HôPITAL GéNéRAL DU LAKESHORE,160  avenue stillview,Pointe-Claire,QC,H9R 2Y2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.44855,-73.833668
+S962,S962,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE PORT-CARTIER,3  rue de shelter bay,Port-Cartier,QC,G5B 2W9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,50.023783,-66.893964
+S430,S430,CENTRE DE SANTE INUULITSIVIK,1 chemin baie d'hudson,Puvirnituq,QC,J0M 1P0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,60.03765,-77.275795
+S16,S16,HôPITAL LAVAL,1 chemin sainte-foy,Québec,QC,J0S 1K0,,1-800-622-6232,Hospitals,Municipality of Québec,Yes,5,46.77848534,-71.29716547
+6851,6851,HôPITAL SAINT-FRANЗOIS DASSISE,10 rue de l'espinay,Québec,QC,G1L 3L5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.827533,-71.236389
+S933,S933,HôTEL LE CONCORDE QUéBEC & UNILOFTS GRANDE-ALLéE,1225  cours du général de montcalm,Québec,QC,G1R 4W6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.805321,-71.21723100000001
+S932,S932,CDC SMDI DE L'ARMéE DU SALUT,14  côte du palais,Québec,QC,G1R 4H8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.814758000000005,-71.211407
+S1753,S1753,"CLSC, HOPITAL ET CENTRE D'HEBERGEMENT CHRIST-ROI",900  boulevard wilfrid-hamel,Québec,QC,G1M 2R9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.810782,-71.258207
+S1083,S1083,PAVILLON L'HôTEL-DIEU DE QUéBEC,11  côte du palais,Québec,QC,G1R 2J6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.81539,-71.210994
+S1072,S1072,HôPITAL DU SAINT-SACREMENT,1050  chemin sainte-foy,Québec,QC,G1S 4L8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.799357,-71.246411
+S1028,S1028,LA MAISON MICHEL SARRAZIN,2101  chemin saint-louis,Québec,QC,G1T 1P5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.773478999999995,-71.251598
+S692,S692,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE QUATRE-BOURGEOIS,2690  chemin des quatre-bourgeois,Québec,QC,G1V 0B7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.778594,-71.294723
+S671,S671,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE SAINT-VALLIER,388  rue saint-vallier ouest,Québec,QC,G1K 1K6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.812109,-71.239125
+S926,S926,CLSC ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE LA HAUTE-VILLE,55  chemin sainte-foy,Québec,QC,G1R 1S9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.806018,-71.227891
+S262,S262,HôPITAL CHAUVEAU,11999  rue de l'hôpital,Québec,QC,G2A 2T7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.853199,-71.369963
+7984,7984,HôPITAL CHRIST-ROI,900 boulevard wilfrid-hamel,Québec,QC,J9T 2S2,,1-800-622-6232,Hospitals,Municipality of Québec,Yes,5,46.81135599,-71.25837456
+S653,S653,HôPITAL JEFFERY HALE,1250  chemin sainte-foy,Québec,QC,G1S 2M6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.796649,-71.253086
+S347,S347,CENTRE DE PéDOPSYCHIATRIE - RéSIDENCE DU SACRé-COEUR,1  avenue du sacré-coeur,Québec,QC,G1N 2W1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.813282,-71.245535
+S637,S637,HôPITAL DE L'ENFANT-JéSUS,1401  18e rue,Québec,QC,G1J 1Z4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.837203,-71.225495
+8050,8050,HôPITAL LAVAL,2725 ch ste-foy,Québec,QC,G1V 4G5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.7791191,-71.2976016
+S624,S624,PAVILLON CENTRE HOSPITALIER DE L'UNIVERSITé LAVAL,2705  boulevard laurier,Québec,QC,G1V 4G2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.767873,-71.282342
+S17,S17,HôPITAL SAINT-FRANЗOIS D'ASSISE,1 rue de lespinay,Québec,QC,J0S 1K0,,1-800-622-6232,Hospitals,Municipality of Québec,Yes,5,46.82844125,-71.23754678
+S496,S496,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE LAURIER,2875  boulevard laurier,Québec,QC,G1V 2M2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.765935999999996,-71.289344
+S612,S612,INSTITUT UNIVERSITAIRE EN SANTé MENTALE DE QUéBEC,2601  chemin de la canardiиre,Québec,QC,G1J 2G3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.847669,-71.220504
+S15,S15,HôPITAL DE L'ENFANT-JéSUS,1401.0 18e rue,Québec,QC,J0S 1K0,,1-800-622-6232,Hospitals,Municipality of Québec,Yes,5,46.83748294,-71.22604003
+S607,S607,CLSC ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE MAIZERETS,2480  chemin de la canardiиre,Québec,QC,G1J 2G1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.843684,-71.218317
+6699,6699,CENTRE HOSPITALIER ROBERT-GIFFARD,1 chemin de la canardiиre,Québec,QC,J0X 3G0,,1-800-622-6232,Hospitals,Municipality of Québec,Yes,5,46.84793219,-71.22072592
+S1234,S1234,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE DE RAWDON,3570  rue church,Rawdon,QC,J0K 1S0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.041693,-73.702641
+S399,S399,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX CLAUDE-DAVID,135  boulevard claude-david,Repentigny,QC,J6A 1N6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.718801,-73.47557900000001
+S527,S527,CENTRE DE SERVICES AMBULATOIRES EN PéDOPSYCHIATRIE DE REPENTIGNY,465  rue notre-dame,Repentigny,QC,J6A 2T3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.739686,-73.446173
+S641,S641,HôPITAL RéGIONAL DE RIMOUSKI,150  avenue rouleau,Rimouski,QC,G5L 5T1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.447043,-68.530496
+6944,6944,CISSS DU BAS-SAINT-LAURENT — HôPITAL RéGIONAL DE RIMOUSKI,1 Main Street,Rimouski,QC,G5L 5T1,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.4500,-68.5300
+S915,S915,CLSC ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE RIMOUSKI,165  rue des gouverneurs,Rimouski,QC,G5L 7R2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.454832,-68.521711
+S938,S938,"CENTRE DE RéADAPTATION EN DéFICIENCE INTELLECTUELLE, TROUBLE DU SPECTRE DE L'AUTISME ET EN DéFICIENCE PHYSIQUE THéRИSE-MARTIN",100  chemin de la petite-anse,Riviиre-Ouelle,QC,G0L 2C0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,47.455067,-70.000724
+S1631,S1631,CENTRE DE SERVICES DE RIVIИRE-ROUGE,1525  rue de l'annonciation nord,Riviиre-Rouge,QC,J0T 1T0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.420799,-74.884682
+S658,S658,CENTRE HOSPITALIER RéGIONAL DU GRAND-PORTAGE,75  rue saint-henri,Riviиre-du-Loup,QC,G5R 2A4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,47.818478999999996,-69.539923
+S643,S643,HôPITAL ET CENTRE D'HéBERGEMENT DE ROBERVAL,450  rue brassard,Roberval,QC,G8H 1B9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.507731,-72.218987
+6878,6878,CISSS DE L'ABITIBI-TéMISCAMINGUE — HôPITAL DE ROUYN-NORANDA,1 Main Street,Rouyn-Noranda,QC,J9X 2B2,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.2333,-79.0167
+S615,S615,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE ROUYN-NORANDA,3  9e rue,Rouyn-Noranda,QC,J9X 2A9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.243843,-79.02063000000001
+S649,S649,HôPITAL DE ROUYN-NORANDA,4  9e rue,Rouyn-Noranda,QC,J9X 2B2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.243809000000006,-79.019318
+S633,S633,HôPITAL DE LA BAIE,1000  rue du docteur-desgagné,Saguenay,QC,G7B 2Y6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.343909000000004,-70.883162
 7561,7561,CSSS DE CHICOUTIMI,305 rue saint-vallier,Saguenay,QC,G7H 5H6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.4259175,-71.04876429999999
-6811,6811,CH - CHSLD - CLSC CLЙOPHAS-CLAVEAU,1000 rue dr desgagnй,Saguenay,QC,G7B 3P9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.337581,-70.879626
-S1137,S1137,HФPITAL DE CHICOUTIMI,305  rue saint-vallier,Saguenay,QC,G7H 5H6,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.425975,-71.048599
-S614,S614,HФPITAL ET CENTRE DE RЙADAPTATION DE JONQUIИRE,2230  rue de l'hфpital,Saguenay,QC,G7X 7X2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.413598,-71.23513100000001
-S1126,S1126,CENTRE D'HЙBERGEMENT DE SAINT-ANTONIN,286  rue principale,Saint-Antonin,QC,G0L 2J0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,47.76243,-69.47867600000001
-S516,S516,GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE DE SAINT-CHARLES-BORROMЙE,50  chemin du golf ouest,Saint-Charles-Borromйe,QC,J6E 2B4,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.040318,-73.45370799999999
-S617,S617,HФPITAL DE LANAUDIИRE ET CENTRE D'HЙBERGEMENT PARPHILIA-FERLAND,1000  boulevard sainte-anne,Saint-Charles-Borromйe,QC,J6E 6J2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.039277,-73.457012
-S900,S900,CENTRE DE SERVICES AMBULATOIRES DE SAINT-EUSTACHE,239  rue robinson,Saint-Eustache,QC,J7R 5V7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.560744,-73.93114
-S808,S808,CENTRE DE SERVICES AMBULATOIRES EN SANTЙ MENTALE DE DEUX-MONTAGNES-MIRABEL-SUD,111  rue saint-laurent,Saint-Eustache,QC,J7P 3Z5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.568803,-73.88789200000001
-S819,S819,GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE DE SAINT-EUSTACHE,57  boulevard industriel,Saint-Eustache,QC,J7R 5B9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.570495,-73.920792
-S830,S830,CENTRE DE SERVICES AMBULATOIRES DE DEUX-MONTAGNES-MIRABEL-SUD,14  boulevard industriel,Saint-Eustache,QC,J7R 5B8,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.571719,-73.916223
-S1591,S1591,HФPITAL DE SAINT-EUSTACHE,520  boulevard arthur-sauvй,Saint-Eustache,QC,J7R 5B1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.571265999999994,-73.913739
+6811,6811,CH - CHSLD - CLSC CLéOPHAS-CLAVEAU,1000 rue dr desgagné,Saguenay,QC,G7B 3P9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.337581,-70.879626
+S1137,S1137,HôPITAL DE CHICOUTIMI,305  rue saint-vallier,Saguenay,QC,G7H 5H6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.425975,-71.048599
+S614,S614,HôPITAL ET CENTRE DE RéADAPTATION DE JONQUIИRE,2230  rue de l'hôpital,Saguenay,QC,G7X 7X2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.413598,-71.23513100000001
+S1126,S1126,CENTRE D'HéBERGEMENT DE SAINT-ANTONIN,286  rue principale,Saint-Antonin,QC,G0L 2J0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,47.76243,-69.47867600000001
+S516,S516,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE SAINT-CHARLES-BORROMéE,50  chemin du golf ouest,Saint-Charles-Borromée,QC,J6E 2B4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.040318,-73.45370799999999
+S617,S617,HôPITAL DE LANAUDIИRE ET CENTRE D'HéBERGEMENT PARPHILIA-FERLAND,1000  boulevard sainte-anne,Saint-Charles-Borromée,QC,J6E 6J2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.039277,-73.457012
+S900,S900,CENTRE DE SERVICES AMBULATOIRES DE SAINT-EUSTACHE,239  rue robinson,Saint-Eustache,QC,J7R 5V7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.560744,-73.93114
+S808,S808,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE DE DEUX-MONTAGNES-MIRABEL-SUD,111  rue saint-laurent,Saint-Eustache,QC,J7P 3Z5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.568803,-73.88789200000001
+S819,S819,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE SAINT-EUSTACHE,57  boulevard industriel,Saint-Eustache,QC,J7R 5B9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.570495,-73.920792
+S830,S830,CENTRE DE SERVICES AMBULATOIRES DE DEUX-MONTAGNES-MIRABEL-SUD,14  boulevard industriel,Saint-Eustache,QC,J7R 5B8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.571719,-73.916223
+S1591,S1591,HôPITAL DE SAINT-EUSTACHE,520  boulevard arthur-sauvé,Saint-Eustache,QC,J7R 5B1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.571265999999994,-73.913739
 7560,7560,CSSS DE BEAUCE,1515 17e rue,Saint-Georges,QC,G5Y 4T8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.11065870000001,-70.6837863
-S1699,S1699,HФPITAL DE SAINT-GEORGES,1515  17e rue,Saint-Georges,QC,G5Y 4T8,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.109716,-70.685194
-S619,S619,CENTRE D'HЙBERGEMENT DE L'HФTEL-DIEU-DE-SAINT-HYACINTHE,1800  rue dessaulles,Saint-Hyacinthe,QC,J2S 2T2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.62572,-72.950032
-S652,S652,HФPITAL HONORЙ-MERCIER,2750  boulevard laframboise,Saint-Hyacinthe,QC,J2S 4Y8,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.634833,-72.959476
-S874,S874,GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE RICHELIEU-YAMASKA,1005  rue gauthier,Saint-Hyacinthe,QC,J2S 8T2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.636793,-72.960114
-S945,S945,HФPITAL DU HAUT-RICHELIEU - CLINIQUE SUIVI DE GROSSESSE,1055  boulevard du sйminaire nord,Saint-Jean-sur-Richelieu,QC,J3A 1R7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.33827479999999,-73.26773938
-S663,S663,CENTRE DE SERVICES AMBULATOIRES ET INSTITUT NAZARETH ET LOUIS-BRAILLE DU SЙMINAIRE NORD,383  boulevard du sйminaire nord,Saint-Jean-sur-Richelieu,QC,J3B 8C5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.311353000000004,-73.263707
-S892,S892,CENTRE DE SERVICES AMBULATOIRES ET GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE DE SAINT-JEAN-SUR-RICHELIEU,1225  rue douglas,Saint-Jean-sur-Richelieu,QC,J2W 0J2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.340041,-73.284159
-S924,S924,CENTRE DE SERVICES DE SANTЙ POUR LES PERSONNES SANS DOMICILE FIXE DE SAINT-JEAN-SUR-RICHELIEU,576  rue champlain,Saint-Jean-sur-Richelieu,QC,J3B 6X1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.323782,-73.26436
-6912,6912,CISSS DE LA MONTЙRЙGIE-CENTRE — HФPITAL DU HAUT-RICHELIEU,1 Main Street,Saint-Jean-sur-Richelieu,QC,J3A 1B7,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,45.3167,-73.2667
-S946,S946,HФPITAL DU HAUT-RICHELIEU - CLINIQUE PЙDIATRIQUE,900  boulevard du sйminaire nord,Saint-Jean-sur-Richelieu,QC,J3A 1C3,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.3313016,-73.26815663
-S313,S313,HФPITAL DU HAUT-RICHELIEU,920  boulevard du sйminaire nord,Saint-Jean-sur-Richelieu,QC,J3A 1B7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.332522999999995,-73.270212
-S928,S928,CLSC ET GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE LAFONTAINE,1000  rue labelle,Saint-Jйrфme,QC,J7Z 5N6,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.793045,-74.009352
-S1599,S1599,HФPITAL DE SAINT-JЙRФME,290  rue montigny,Saint-Jйrфme,QC,J7Z 5T3,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.765569,-74.000191
-S627,S627,CENTRE DE SERVICES POUR LES AОNЙS DE SAINT-LAMBERT,831  avenue notre-dame,Saint-Lambert,QC,J4R 1S1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.498311,-73.503619
-S890,S890,CENTRE DE SERVICES AMBULATOIRES ET GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE CHARLES-LE MOYNE,299  boulevard sir-wilfrid-laurier,Saint-Lambert,QC,J4R 2L1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.493596000000004,-73.502877
-S921,S921,CLSC DE SAINT-MARC-DES-CARRIERES,1045  boulevard bona-dussault,Saint-Marc-des-Carriиres,QC,G0A 4B0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.680890000000005,-72.049697
-S581,S581,CLINIQUE MEDICALE DE SQUATEC,149-B  rue saint-joseph,Saint-Michel-du-Squatec,QC,G0L 4H0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,47.88281,-68.719667
-S240,S240,HФPITAL RЙGIONAL DE PORTNEUF CLSC DE SAINT-RAYMOND,700  rue saint-cyrille,Saint-Raymond,QC,G3L 1W1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.894933,-71.822153
-S638,S638,HФPITAL LAURENTIEN,234  rue saint-vincent,Sainte-Agathe-des-Monts,QC,J8C 2B8,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.055170000000004,-74.288947
-S656,S656,HФPITAL SAINTE-ANNE,305  boulevard des anciens-combattants,Sainte-Anne-de-Bellevue,QC,H9X 1Y9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.412428000000006,-73.94874300000001
-S634,S634,HФPITAL DE SAINTE-ANNE-DES-MONTS,50  rue du belvйdиre,Sainte-Anne-des-Monts,QC,G4V 1X4,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,49.118829999999996,-66.482453
-S786,S786,CENTRE DE SERVICES AMBULATOIRES EN SANTЙ MENTALE DE SAINTE-THЙRИSE,55  rue saint-joseph,Sainte-Thйrиse,QC,J7E 4Y5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.638023,-73.841581
-S650,S650,HФPITAL DU SUROОT,150  rue saint-thomas,Salaberry-de-Valleyfield,QC,J6T 6C1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.250926,-74.130708
-S1743,S1743,CLSC DE SENNETERRE,961  rue de la clinique,Senneterre,QC,J0Y 2M0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.384388,-77.252997
-S596,S596,HФPITAL ET CLSC DE SEPT-ОLES,45  rue du pиre-divet,Sept-Оles,QC,G4R 3N7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,50.209826,-66.383983
-S561,S561,CENTRE MULTISERVICES DE SANTЙ ET DE SERVICES SOCIAUX DE SEPT-ОLES,531  avenue gamache,Sept-Оles,QC,G4R 2J1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,50.211092,-66.382832
-S934,S934,SNT - UNITЙ LA RЙSIDENCE DES BВTISSEURS А SEPT-ОLES,470  avenue arnaud,Sept-Оles,QC,G4R 4N9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,50.205729999999996,-66.387189
-S1679,S1679,CENTRE MULTISERVICES DE SANTЙ ET DE SERVICES SOCIAUX LAFLИCHE,1650  avenue de grand-mиre,Shawinigan,QC,G9T 2K4,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.606386,-72.707386
-S595,S595,GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE DE SHAWINIGAN-SUD,80  118e rue,Shawinigan,QC,G9P 3E4,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.524396,-72.744274
+S1699,S1699,HôPITAL DE SAINT-GEORGES,1515  17e rue,Saint-Georges,QC,G5Y 4T8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.109716,-70.685194
+S619,S619,CENTRE D'HéBERGEMENT DE L'HôTEL-DIEU-DE-SAINT-HYACINTHE,1800  rue dessaulles,Saint-Hyacinthe,QC,J2S 2T2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.62572,-72.950032
+S652,S652,HôPITAL HONORé-MERCIER,2750  boulevard laframboise,Saint-Hyacinthe,QC,J2S 4Y8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.634833,-72.959476
+S874,S874,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE RICHELIEU-YAMASKA,1005  rue gauthier,Saint-Hyacinthe,QC,J2S 8T2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.636793,-72.960114
+S945,S945,HôPITAL DU HAUT-RICHELIEU - CLINIQUE SUIVI DE GROSSESSE,1055  boulevard du séminaire nord,Saint-Jean-sur-Richelieu,QC,J3A 1R7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.33827479999999,-73.26773938
+S663,S663,CENTRE DE SERVICES AMBULATOIRES ET INSTITUT NAZARETH ET LOUIS-BRAILLE DU SéMINAIRE NORD,383  boulevard du séminaire nord,Saint-Jean-sur-Richelieu,QC,J3B 8C5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.311353000000004,-73.263707
+S892,S892,CENTRE DE SERVICES AMBULATOIRES ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE SAINT-JEAN-SUR-RICHELIEU,1225  rue douglas,Saint-Jean-sur-Richelieu,QC,J2W 0J2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.340041,-73.284159
+S924,S924,CENTRE DE SERVICES DE SANTé POUR LES PERSONNES SANS DOMICILE FIXE DE SAINT-JEAN-SUR-RICHELIEU,576  rue champlain,Saint-Jean-sur-Richelieu,QC,J3B 6X1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.323782,-73.26436
+6912,6912,CISSS DE LA MONTéRéGIE-CENTRE — HôPITAL DU HAUT-RICHELIEU,1 Main Street,Saint-Jean-sur-Richelieu,QC,J3A 1B7,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,45.3167,-73.2667
+S946,S946,HôPITAL DU HAUT-RICHELIEU - CLINIQUE PéDIATRIQUE,900  boulevard du séminaire nord,Saint-Jean-sur-Richelieu,QC,J3A 1C3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.3313016,-73.26815663
+S313,S313,HôPITAL DU HAUT-RICHELIEU,920  boulevard du séminaire nord,Saint-Jean-sur-Richelieu,QC,J3A 1B7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.332522999999995,-73.270212
+S928,S928,CLSC ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE LAFONTAINE,1000  rue labelle,Saint-Jérôme,QC,J7Z 5N6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.793045,-74.009352
+S1599,S1599,HôPITAL DE SAINT-JéRôME,290  rue montigny,Saint-Jérôme,QC,J7Z 5T3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.765569,-74.000191
+S627,S627,CENTRE DE SERVICES POUR LES AОNéS DE SAINT-LAMBERT,831  avenue notre-dame,Saint-Lambert,QC,J4R 1S1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.498311,-73.503619
+S890,S890,CENTRE DE SERVICES AMBULATOIRES ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE CHARLES-LE MOYNE,299  boulevard sir-wilfrid-laurier,Saint-Lambert,QC,J4R 2L1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.493596000000004,-73.502877
+S921,S921,CLSC DE SAINT-MARC-DES-CARRIERES,1045  boulevard bona-dussault,Saint-Marc-des-Carriиres,QC,G0A 4B0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.680890000000005,-72.049697
+S581,S581,CLINIQUE MEDICALE DE SQUATEC,149-B  rue saint-joseph,Saint-Michel-du-Squatec,QC,G0L 4H0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,47.88281,-68.719667
+S240,S240,HôPITAL RéGIONAL DE PORTNEUF CLSC DE SAINT-RAYMOND,700  rue saint-cyrille,Saint-Raymond,QC,G3L 1W1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.894933,-71.822153
+S638,S638,HôPITAL LAURENTIEN,234  rue saint-vincent,Sainte-Agathe-des-Monts,QC,J8C 2B8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.055170000000004,-74.288947
+S656,S656,HôPITAL SAINTE-ANNE,305  boulevard des anciens-combattants,Sainte-Anne-de-Bellevue,QC,H9X 1Y9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.412428000000006,-73.94874300000001
+S634,S634,HôPITAL DE SAINTE-ANNE-DES-MONTS,50  rue du belvédиre,Sainte-Anne-des-Monts,QC,G4V 1X4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,49.118829999999996,-66.482453
+S786,S786,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE DE SAINTE-THéRИSE,55  rue saint-joseph,Sainte-Thérиse,QC,J7E 4Y5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.638023,-73.841581
+S650,S650,HôPITAL DU SUROОT,150  rue saint-thomas,Salaberry-de-Valleyfield,QC,J6T 6C1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.250926,-74.130708
+S1743,S1743,CLSC DE SENNETERRE,961  rue de la clinique,Senneterre,QC,J0Y 2M0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.384388,-77.252997
+S596,S596,HôPITAL ET CLSC DE SEPT-ОLES,45  rue du pиre-divet,Sept-Оles,QC,G4R 3N7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,50.209826,-66.383983
+S561,S561,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE SEPT-ОLES,531  avenue gamache,Sept-Оles,QC,G4R 2J1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,50.211092,-66.382832
+S934,S934,SNT - UNITé LA RéSIDENCE DES BВTISSEURS А SEPT-ОLES,470  avenue arnaud,Sept-Оles,QC,G4R 4N9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,50.205729999999996,-66.387189
+S1679,S1679,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX LAFLИCHE,1650  avenue de grand-mиre,Shawinigan,QC,G9T 2K4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.606386,-72.707386
+S595,S595,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE SHAWINIGAN-SUD,80  118e rue,Shawinigan,QC,G9P 3E4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.524396,-72.744274
 6828,6828,CH DU CENTRE-DE-LA-MAURICIE,50 118e rue,Shawinigan,QC,G9P 4E7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.5257124,-72.74367070000001
-S630,S630,HФPITAL ET CENTRE D'HЙBERGEMENT EN SANTЙ MENTALE DE LA MAURICIE-ET-DU-CENTRE-DU-QUЙBEC,1705  avenue georges,Shawinigan,QC,G9N 2N1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.553033,-72.74714499999999
-S1300,S1300,HФPITAL DU CENTRE-DE-LA-MAURICIE,50  119e rue,Shawinigan,QC,G9P 5K1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.525584,-72.74339300000001
-S629,S629,HФPITAL ET CHSLD DU PONTIAC,200  rue argue,Shawville,QC,J0X 2Y0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.605968,-76.484009
-S1061,S1061,CHUS - HФTEL-DIEU DE SHERBROOKE,580  rue bowen sud,Sherbrooke,QC,J1G 2E8,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.398441999999996,-71.877948
-S625,S625,HФPITAL ET CHSLD D'YOUVILLE,1036  rue belvйdиre sud,Sherbrooke,QC,J1H 4C4,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.390667,-71.8951
-S608,S608,CLSC ET GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE SPEID,8  rue speid,Sherbrooke,QC,J1M 1R6,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.369833,-71.858418
-S668,S668,UNITЙ DE CONFINEMENT COMMUNAUTAIRE,1820  rue galt ouest,Sherbrooke,QC,J1K 1H9,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.38579923,-71.91927599
-S639,S639,HФPITAL ET CHSLD ARGYLL,375  rue argyll,Sherbrooke,QC,J1J 3H5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.404241999999996,-71.915088
-S1050,S1050,CHUS - HФPITAL FLEURIMONT,3001  12e avenue nord,Sherbrooke,QC,J1H 5N4,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.447736,-71.869027
-S603,S603,CLSC ET CENTRE DE SERVICES AMBULATOIRES BELVЙDИRE,1095  belvйdиre sud,Sherbrooke,QC,J1H 4C6,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.38997,-71.89649399999999
-S923,S923,CLSC ET GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE KING EST,1200  rue king est,Sherbrooke,QC,J1G 1E4,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.408073,-71.862061
-8087,8087,HФPITALIER RICHELIEU,30 rue ferland,Sorel-Tracy,QC,J3P 3C7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.0455502,-73.0935195
-S324,S324,HФTEL-DIEU DE SOREL,400  avenue de l'hфtel-dieu,Sorel-Tracy,QC,J3P 1N5,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.045811,-73.09563299999999
-S1464,S1464,HФPITAL PIERRE-LE GARDEUR,911  montйe des pionniers,Terrebonne,QC,J6V 2H2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.723978,-73.510536
-S1379,S1379,CENTRE DE SERVICES AMBULATOIRES EN SANTЙ MENTALE DE TERREBONNE,1355  rue grande allйe,Terrebonne,QC,J6W 4K6,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.708698999999996,-73.624928
-S667,S667,HФPITAL ET CENTRE DE RЙADAPTATION EN DЙFICIENCE PHYSIQUE DE THETFORD MINES,1717  rue notre-dame est,Thetford Mines,QC,G6G 2V4,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.109613,-71.278245
-S1389,S1389,CENTRE MULTISERVICES DE SANTЙ ET DE SERVICES SOCIAUX DE TROIS-PISTOLES,550  rue notre-dame est,Trois-Pistoles,QC,G0L 4K0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.132723,-69.159279
-S238,S238,CENTRE MULTISERVICES DE SANTЙ ET DE SERVICES SOCIAUX CLOUTIER,155  rue toupin,Trois-Riviиres,QC,G8T 3Z8,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.365266999999996,-72.504983
-6843,6843,CH RЙGIONAL DE TROIS-RIVIИRES,731 rue ste julie,Trois-Riviиres,QC,G9A 1Y1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.34747,-72.54566899999999
-S943,S943,CENTRE DE SERVICES AMBULATOIRES EN SANTЙ MENTALE DE TROIS-RIVIИRES,1573  boulevard des forges,Trois-Riviиres,QC,G8Z 1T7,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.344521,-72.55760699999999
-6844,6844,CH RЙGIONAL DE TROIS-RIVIИRES - PAVILLON SAINTE-MARIE,1991 boul du carmel,Trois-Riviиres,QC,G8Z 3R9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.3548746,-72.5619614
-S951,S951,CENTRE MULTISERVICES DE SANTЙ ET DE SERVICES SOCIAUX SAINT-JOSEPH,731  rue sainte-julie,Trois-Riviиres,QC,G9A 1Y1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.347061,-72.546485
-S421,S421,POINT DE SERVICE DE TЙMISCAMING-ET-DE-KIPAWA,180  rue anvik,Tйmiscaming,QC,J0Z 3R0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.725735,-79.094112
-S914,S914,HФPITAL DE NOTRE-DAME-DU-LAC,58  rue de l'йglise,Tйmiscouata-sur-le-Lac,QC,G0L 1X0,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,47.612369,-68.79926800000001
-S661,S661,HФPITAL ET CENTRE DE RЙADAPTATION EN DЙPENDANCE DE VAL-D'OR,725  6e rue,Val-d'Or,QC,J9P 3Y1,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.096081,-77.79683299999999
-S889,S889,GROUPE DE MЙDECINE DE FAMILLE UNIVERSITAIRE DE LA VALLЙE-DE-L’OR,525  6e rue,Val-d'Or,QC,J9P 0L6,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,48.095326,-77.795626
-S601,S601,CLSC ET CENTRE DE SERVICES AMBULATOIRES DE VAUDREUIL-DORION,3031  boulevard de la gare,Vaudreuil-Dorion,QC,J7V 9R2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.393902000000004,-74.053925
-S302,S302,HФTEL-DIEU D'ARTHABASKA,5  rue des hospitaliиres,Victoriaville,QC,G6P 6N2,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,46.040622,-71.91498299999999
-6634,6634,CENTRE DE SANTЙ SAINTE-FAMILLE,22 rue notre dame nord,Ville-Marie,QC,J9V 1W8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.3344119,-79.4458315
-S572,S572,CLSC - URGENCE-MINEURE - CENTRE D'HЙBERGEMENT DE WINDSOR,23  rue ambroise-dearden,Windsor,QC,J1S 1G8,,1-800-622-6232,Hospitals,Province of Quйbec,Yes,5,45.570842,-72.00498499999999
-6919,6919,CISSS DE LA MONTЙRЙGIE-OUEST — HФPITAL ANNA-LABERGE,1 Main Street,chвteauguay,QC,J6K 4W8,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.6099682316118936,-72.3735220657276995
-6911,6911,CISSS DE LA MONTЙRЙGIE-CENTRE — HФPITAL CHARLES LEMOYNE,1 Main Street,greenfield park,QC,J4V 2H1,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.6099682316118936,-72.3735220657276995
-6993,6993,CIUSSS DU CENTRE-OUEST-DE-L'ОLE-DE-MONTRЙAL — HФPITAL RICHARDSON,1 Main Street,montrйal,QC,H4V 2S7,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.6099682316118936,-72.3735220657276995
-6991,6991,CIUSSS DU CENTRE-OUEST-DE-L'ОLE-DE-MONTRЙAL — HФPITAL GЙNЙRAL JUIF,1 Main Street,montrйal,QC,H3T 1E2,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.6099682316118936,-72.3735220657276995
-S1,S1,HФPITAL SHRINERS POUR ENFANTS (QUЙBEC),1 Main Street,montrйal,QC,H3G 1A6,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.6099682316118936,-72.3735220657276995
-6951,6951,CIUSSS DE L'EST-DE-L'ОLE-DE-MONTRЙAL — HФPITAL SANTA CABRINI,1 Main Street,montrйal,QC,H1T 1P7,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.6099682316118936,-72.3735220657276995
-7007,7007,CIUSSS DU NORD-DE-L'ОLE-DE-MONTRЙAL — HФPITAL FLEURY,1 Main Street,montrйal,QC,H2B 1K3,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.6099682316118936,-72.3735220657276995
-S2,S2,CISSS DE LA MONTЙRЙGIE-OUEST — HФPITAL BARRIE MEMORIAL,1 Main Street,ormstown,QC,J0S 1K0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,45.1300,-74.0000
+S630,S630,HôPITAL ET CENTRE D'HéBERGEMENT EN SANTé MENTALE DE LA MAURICIE-ET-DU-CENTRE-DU-QUéBEC,1705  avenue georges,Shawinigan,QC,G9N 2N1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.553033,-72.74714499999999
+S1300,S1300,HôPITAL DU CENTRE-DE-LA-MAURICIE,50  119e rue,Shawinigan,QC,G9P 5K1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.525584,-72.74339300000001
+S629,S629,HôPITAL ET CHSLD DU PONTIAC,200  rue argue,Shawville,QC,J0X 2Y0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.605968,-76.484009
+S1061,S1061,CHUS - HôTEL-DIEU DE SHERBROOKE,580  rue bowen sud,Sherbrooke,QC,J1G 2E8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.398441999999996,-71.877948
+S625,S625,HôPITAL ET CHSLD D'YOUVILLE,1036  rue belvédиre sud,Sherbrooke,QC,J1H 4C4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.390667,-71.8951
+S608,S608,CLSC ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE SPEID,8  rue speid,Sherbrooke,QC,J1M 1R6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.369833,-71.858418
+S668,S668,UNITé DE CONFINEMENT COMMUNAUTAIRE,1820  rue galt ouest,Sherbrooke,QC,J1K 1H9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.38579923,-71.91927599
+S639,S639,HôPITAL ET CHSLD ARGYLL,375  rue argyll,Sherbrooke,QC,J1J 3H5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.404241999999996,-71.915088
+S1050,S1050,CHUS - HôPITAL FLEURIMONT,3001  12e avenue nord,Sherbrooke,QC,J1H 5N4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.447736,-71.869027
+S603,S603,CLSC ET CENTRE DE SERVICES AMBULATOIRES BELVéDИRE,1095  belvédиre sud,Sherbrooke,QC,J1H 4C6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.38997,-71.89649399999999
+S923,S923,CLSC ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE KING EST,1200  rue king est,Sherbrooke,QC,J1G 1E4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.408073,-71.862061
+8087,8087,HôPITALIER RICHELIEU,30 rue ferland,Sorel-Tracy,QC,J3P 3C7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.0455502,-73.0935195
+S324,S324,HôTEL-DIEU DE SOREL,400  avenue de l'hôtel-dieu,Sorel-Tracy,QC,J3P 1N5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.045811,-73.09563299999999
+S1464,S1464,HôPITAL PIERRE-LE GARDEUR,911  montée des pionniers,Terrebonne,QC,J6V 2H2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.723978,-73.510536
+S1379,S1379,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE DE TERREBONNE,1355  rue grande allée,Terrebonne,QC,J6W 4K6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.708698999999996,-73.624928
+S667,S667,HôPITAL ET CENTRE DE RéADAPTATION EN DéFICIENCE PHYSIQUE DE THETFORD MINES,1717  rue notre-dame est,Thetford Mines,QC,G6G 2V4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.109613,-71.278245
+S1389,S1389,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE TROIS-PISTOLES,550  rue notre-dame est,Trois-Pistoles,QC,G0L 4K0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.132723,-69.159279
+S238,S238,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX CLOUTIER,155  rue toupin,Trois-Riviиres,QC,G8T 3Z8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.365266999999996,-72.504983
+6843,6843,CH RéGIONAL DE TROIS-RIVIИRES,731 rue ste julie,Trois-Riviиres,QC,G9A 1Y1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.34747,-72.54566899999999
+S943,S943,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE DE TROIS-RIVIИRES,1573  boulevard des forges,Trois-Riviиres,QC,G8Z 1T7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.344521,-72.55760699999999
+6844,6844,CH RéGIONAL DE TROIS-RIVIИRES - PAVILLON SAINTE-MARIE,1991 boul du carmel,Trois-Riviиres,QC,G8Z 3R9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.3548746,-72.5619614
+S951,S951,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX SAINT-JOSEPH,731  rue sainte-julie,Trois-Riviиres,QC,G9A 1Y1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.347061,-72.546485
+S421,S421,POINT DE SERVICE DE TéMISCAMING-ET-DE-KIPAWA,180  rue anvik,Témiscaming,QC,J0Z 3R0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.725735,-79.094112
+S914,S914,HôPITAL DE NOTRE-DAME-DU-LAC,58  rue de l'église,Témiscouata-sur-le-Lac,QC,G0L 1X0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,47.612369,-68.79926800000001
+S661,S661,HôPITAL ET CENTRE DE RéADAPTATION EN DéPENDANCE DE VAL-D'OR,725  6e rue,Val-d'Or,QC,J9P 3Y1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.096081,-77.79683299999999
+S889,S889,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE LA VALLéE-DE-L’OR,525  6e rue,Val-d'Or,QC,J9P 0L6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.095326,-77.795626
+S601,S601,CLSC ET CENTRE DE SERVICES AMBULATOIRES DE VAUDREUIL-DORION,3031  boulevard de la gare,Vaudreuil-Dorion,QC,J7V 9R2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.393902000000004,-74.053925
+S302,S302,HôTEL-DIEU D'ARTHABASKA,5  rue des hospitaliиres,Victoriaville,QC,G6P 6N2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.040622,-71.91498299999999
+6634,6634,CENTRE DE SANTé SAINTE-FAMILLE,22 rue notre dame nord,Ville-Marie,QC,J9V 1W8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.3344119,-79.4458315
+S572,S572,CLSC - URGENCE-MINEURE - CENTRE D'HéBERGEMENT DE WINDSOR,23  rue ambroise-dearden,Windsor,QC,J1S 1G8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.570842,-72.00498499999999
+6919,6919,CISSS DE LA MONTéRéGIE-OUEST — HôPITAL ANNA-LABERGE,1 Main Street,chвteauguay,QC,J6K 4W8,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.6099682316118936,-72.3735220657276995
+6911,6911,CISSS DE LA MONTéRéGIE-CENTRE — HôPITAL CHARLES LEMOYNE,1 Main Street,greenfield park,QC,J4V 2H1,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.6099682316118936,-72.3735220657276995
+6993,6993,CIUSSS DU CENTRE-OUEST-DE-L'ОLE-DE-MONTRéAL — HôPITAL RICHARDSON,1 Main Street,montréal,QC,H4V 2S7,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.6099682316118936,-72.3735220657276995
+6991,6991,CIUSSS DU CENTRE-OUEST-DE-L'ОLE-DE-MONTRéAL — HôPITAL GéNéRAL JUIF,1 Main Street,montréal,QC,H3T 1E2,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.6099682316118936,-72.3735220657276995
+S1,S1,HôPITAL SHRINERS POUR ENFANTS (QUéBEC),1 Main Street,montréal,QC,H3G 1A6,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.6099682316118936,-72.3735220657276995
+6951,6951,CIUSSS DE L'EST-DE-L'ОLE-DE-MONTRéAL — HôPITAL SANTA CABRINI,1 Main Street,montréal,QC,H1T 1P7,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.6099682316118936,-72.3735220657276995
+7007,7007,CIUSSS DU NORD-DE-L'ОLE-DE-MONTRéAL — HôPITAL FLEURY,1 Main Street,montréal,QC,H2B 1K3,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.6099682316118936,-72.3735220657276995
+S2,S2,CISSS DE LA MONTéRéGIE-OUEST — HôPITAL BARRIE MEMORIAL,1 Main Street,ormstown,QC,J0S 1K0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,45.1300,-74.0000
 8538,8538,Balcarres Integrated Care Centre,100 south elgin st,Abernethy No. 186,SK,S0G 0C0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.803208000000005,-103.550837
 8534,8534,Arcola Health Centre,607 prairie ave,Arcola,SK,S0C 0G0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.637817600000005,-102.4846027
 8535,8535,Assiniboia Union Hospital,501 6 avenue,Assiniboia,SK,S0H 0B0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,49.628594,-105.983248
