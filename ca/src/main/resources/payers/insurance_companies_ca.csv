@@ -1,0 +1,14 @@
+,id,name,address,city,state_headquartered,zip,phone,states_covered,services_covered,deductible,default_coinsurance,default_copay,monthly_premium,ownership
+0,10001,Alberta Health Care Insurance Plan,1 Main Street,Edmonton,Alberta,T5B,1-800-622-6232,Alberta,*,0,0,0,0,Government
+1,10002,Medical Services of British Columbia,1 Main Street,Victoria,British Columbia,V9E,1-800-622-6232,British Columbia,*,0,0,0,0,Government
+2,10003,Manitoba Health,1 Main Street,Winnipeq,Manitoba,R3A,1-800-622-6232,Manitoba,*,0,0,0,0,Government
+3,10004,New Brunswick Health Care,1 Main Street,Fredericton,New Brunswick,E3B,1-800-622-6232,New Brunswick,*,0,0,0,0,Government
+4,10005,Newfoundland and Labrador Medical Care Plan,1 Main Street,St. John's,Newfoundland and Labrador,A1A,1-800-622-6232,Newfoundland and Labrador,*,0,0,0,0,Government
+5,10006,NWT Health Care Insurance Plan,1 Main Street,Yellowknife,Northwest Territories,X1A,1-800-622-6232,Northwest Territories,*,0,0,0,0,Government
+6,10007,Medical Service Insurance,1 Main Street,Halifax,Nova Scotia,B3K,1-800-622-6232,Nova Scotia,*,0,0,0,0,Government
+7,10008,Nunavut Health Care Plan,1 Main Street,Iqaluit,Nunavut,1H0,1-800-622-6232,Nunavut,*,0,0,0,0,Government
+8,10009,Ontario Health Insurance Plan,1 Main Street,Toronto,Ontario,M5A,1-800-622-6232,Ontario,*,0,0,0,0,Government
+9,10010,Prince Edward Island Hospital and Medical Services Plan,1 Main Street,Charlottetown,Prince Edward Island,C1A,1-800-622-6232,Prince Edward Island,*,0,0,0,0,Government
+10,10011,Régie de l'assurance maladie du Québec,1 Rue principale,Quebec City,Quebec,G1A,1-800-622-6232,Quebec,*,0,0,0,0,Government
+11,10012,Saskatchewan Medical Care Insurance Plan,1 Main Street,Regina,Saskatchewan,S4M,1-800-622-6232,Saskatchewan,*,0,0,0,0,Government
+12,10013,Yukon Health Care Insurance Plan,1 Main Street,Whitehorse,Yukon,Y1A,1-800-622-6232,Yukon,*,0,0,0,0,Government

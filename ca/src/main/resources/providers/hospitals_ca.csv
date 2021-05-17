@@ -1,0 +1,1141 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+9,9,Airdrie Community Health Centre,1 Main Street,Airdrie,AB,T4B 3K7,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,51.2917,-114.0144
+15,15,Athabasca Healthcare Centre,3100 48 ave,Athabasca,AB,T9S 1M9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,54.717240000000004,-113.254056
+191,191,Mineral Springs Hospital,305 lynx st,Banff,AB,T1L 1H7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.1791402,-115.57467539999999
+18,18,Barrhead Healthcare Centre,4815 51 ave,Barrhead,AB,T7N 1M1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,54.1197041,-114.4001676
+20,20,Bashaw Care Centre,1 Main Street,Bashaw,AB,T0B 0H0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,52.6230367521367521,-113.8616760683760684
+21,21,Bassano Health Centre,608 5 ave,Bassano,AB,T0J 0B0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.7892616,-112.46105700000001
+22,22,Beaverlodge Municipal Hospital,422 10a st,Beaverlodge,AB,T0H 0C0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,55.2136098,-119.42409280000001
+197,197,Oilfields General Hospital,717 government rd,Black Diamond,AB,T0L 0H0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.678014399999995,-114.23441270000001
+33,33,Bonnyville Community Cancer Centre,1 Main Street,Bonnyville,AB,T9N 2J7,,1-800-622-6232,Hospitals,Province of Alberta,Yes,5,54.26373,-110.7393
+34,34,Bonnyville Health Centre,5001 lakeshore dr,Bonnyville,AB,T9N 2J7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,54.26375329999999,-110.7414916
+36,36,Bow Island Health Centre,938 centre st,Bow Island,AB,T0K 0G0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.8655484,-111.3793987
+38,38,Boyle Healthcare Centre,5004 lakeview road,Boyle,AB,T0A 0M0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,54.588366,-112.801974
+41,41,Brooks Health Centre,440 3 st e,Brooks,AB,T1R 1B3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.567656400000004,-111.890977
+259,259,South Calgary Health Centre,1 Main Street,Calgary,AB,T2X 3W5,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,51.0500,-114.0667
+236,236,Richmond Road Diagnostic & Treatment Centre,1820 richmond road sw,Calgary,AB,T2T 5C7,,1-800-622-6232,Hospitals,Province of Alberta,Yes,5,51.035999,-114.110878
+262,262,South Health Campus,4448 front street se,Calgary,AB,T3M 1M4,,1-800-622-6232,Hospitals,Province of Alberta,Yes,5,50.8820756,-113.95114369999999
+241,241,Rockyview General Hospital,7007 14 st sw,Calgary,AB,T2V 1P9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.989822100000005,-114.096632
+130,130,Foothills Medical Centre,1403 29 st nw,Calgary,AB,T2N 2T9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.0642833,-114.13394779999999
+10,10,Alberta Children's Hospital,28 oki dr nw,Calgary,AB,T3B 6A8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.074582,-114.148426
+282,282,Sunridge Medical Gallery — Mental Health,1 Main Street,Calgary,AB,T1Y 7M8,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,51.0500,-114.0667
+249,249,Sheldon m. Chumir Health Centre,1 Main Street,Calgary,AB,T2R 0X7,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,51.0500,-114.0667
+281,281,Sunridge Medical Gallery — General Ambulatory,1 Main Street,Calgary,AB,T1Y 7M9,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,51.0500,-114.0667
+264,264,Southern Alberta Forensic Psychiatric Centre,1 Main Street,Calgary,AB,T3R 1J3,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,51.0500,-114.0667
+301,301,Tom Baker Cancer Centre,1331 29 st nw,Calgary,AB,T2N 4N2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.063131,-114.13325800000001
+209,209,Peter Lougheed Centre,3500 26 ave ne,Calgary,AB,T1Y 6J4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.078059,-113.98295
+267,267,St. Mary's Camrose,4607 53 st,Camrose,AB,T4V 1Y5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.0142926,-112.83054009999998
+44,44,Canmore General Hospital,1100 hospital place,Canmore,AB,T1W 1N2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.09301,-115.350651
+51,51,Cardston Health Centre,144 2 st w,Cardston,AB,T0K 0K0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.201947,-113.305761
+87,87,Covenant Health Our Lady of the Rosary Hospital,5402 47 st,Castor,AB,T0C 0X0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.2234403,-111.9068616
+68,68,Claresholm General Hospital,221 43 ave w,Claresholm,AB,T0L 0T0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.018656,-113.582623
+67,67,Claresholm Centre for Mental Health and Addictions,1 Main Street,Claresholm,AB,T0L 0T0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,50.0194,-113.5783
+69,69,Coaldale Health Centre,2100 11 st,Coaldale,AB,T1M 1L2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.725825,-112.607294
+70,70,Cochrane Community Health Centre,1 Main Street,Cochrane,AB,T4C 0S4,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,51.1890,-114.4670
+71,71,Cold Lake Healthcare Centre,314 25 st,Cold Lake,AB,T9M 1G6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,54.4658735,-110.199018
+72,72,Consort Hospital,5402 52 ave,Consort,AB,T0C 1B0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.009839899999996,-110.78201829999999
+76,76,Coronation Hspital & Care Centre,5000 municipal rd,Coronation,AB,T0C 1C0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.096263799999996,-111.459203
+96,96,Crowsnest Pass Health Centre,2001 107 st,Crowsnest Pass,AB,T0K 0E0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.6131739,-114.4736247
+98,98,Daysland Health Centre,5920 51 ave,Daysland,AB,T0B 1A0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.868425,-112.272521
+100,100,Devon General Hospital,101 erie st s,Devon,AB,T9G 1A6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.351493000000005,-113.73078500000001
+101,101,Didsbury District Health Services,1210 20 ave,Didsbury,AB,T0M 0W0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.661795,-114.123674
+106,106,Drayton Valley Hospital & Care Centre,4550 madsen ave,Drayton Valley,AB,T7A 1N8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.211841,-114.96919299999999
+108,108,Drumheller Health Centre,351 9 st nw,Drumheller,AB,T0J 0Y1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.4698073,-112.7259344
+188,188,Mazankowski Alberta Heart Institute,11220 83 ave nw,Edmonton,AB,T6G 2B7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.520191000000004,-113.522727
+81,81,Covenant Health Edmonton General Continuing Care Centre,1 Main Street,Edmonton,AB,T5K 0L4,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,53.5344,-113.4903
+194,194,Northeast Community Health Centre,14007 50 st,Edmonton,AB,T5A 5E4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.604271999999995,-113.417472
+89,89,Covenant Health St. Joseph’s Auxiliary Hospital,1 Main Street,Edmonton,AB,T6J 6W1,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,53.5344,-113.4903
+93,93,Covenant Health Villa Caritas,1 Main Street,Edmonton,AB,T5R 0A4,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,53.5344,-113.4903
+12,12,Alberta Hospital Edmonton,17480 fort rd,Edmonton,AB,T5J 2J7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.636387,-113.374023
+39,39,Boyle Mccauley Health Centre,10628 96 st,Edmonton,AB,T0A 0M0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.551359999999995,-113.486
+309,309,University of Alberta Hospital and Stollery Children's Hospital,8440 112 st,Edmonton,AB,T6G 2B7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.5206343,-113.524527
+141,141,Glenrose Rehabilitation Hospital,10230 111 ave,Edmonton,AB,T5G 0B7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.56010129999999,-113.4976534
+243,243,Royal Alexandra Hospital,10240 kingsway ave,Edmonton,AB,T5H 3V9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.5573875,-113.497772
+95,95,Cross Cancer Institute,11560 university ave,Edmonton,AB,T6G 1Z2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.5182625,-113.53107859999999
+48,48,Capitalcare — Norwood,1 Main Street,Edmonton,AB,T5G 3A2,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,53.5344,-113.4903
+144,144,Grey Nuns Community Hospital,1100 youville dr w,Edmonton,AB,T6L 5X8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.4615831,-113.4297243
+46,46,Capitalcare — Grandview,1 Main Street,Edmonton,AB,T6H 3V1,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,53.5344,-113.4903
+11,11,Alberta Hip and Knee Clinic,1 Main Street,Edmonton,AB,T5E 5R8,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,53.5344,-113.4903
+109,109,East Edmonton Health Centre,1 Main Street,Edmonton,AB,T5B 0C2,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,53.5344,-113.4903
+192,192,Misericordia Community Hospital,16940 87 ave,Edmonton,AB,T5R 4H5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.5210277,-113.61231969999999
+111,111,Edson Healthcare Centre,4716 5 ave,Edson,AB,T7E 1S8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.59182,-116.40700000000001
+112,112,Elk Point Healthcare Centre,5310 50 ave,Elk Point,AB,T0A 1A0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.8969745,-110.9058049
+127,127,Fairview Health Complex,10628 110 st,Fairview,AB,T0H 1L0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,56.070965599999994,-118.3845521
+131,131,Fort Macleod Health Centre,744 26 st s,Fort Macleod,AB,T0L 0Z0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.726332,-113.3932472
+133,133,Fort Saskatchewan Community Hospital,9401 86 avenue,Fort Saskatchewan,AB,T8L 0C6,,1-800-622-6232,Hospitals,Province of Alberta,Yes,5,53.693158999999994,-113.213229
+134,134,Fort Saskatchewan Health Centre,9430 95 st,Fort Saskatchewan,AB,T8L 1R8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.7033208,-113.22252420000001
+136,136,Fox Creek Health Care Centre,600 third st,Fox Creek,AB,T0H 1P0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,54.4046429,-116.80140300000001
+142,142,Grande Cache Community Health Complex,10200 shand ave,Grande Cache,AB,T0E 0Y0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.8915173,-119.11921840000001
+143,143,Grande Prairie Cancer Centre,10409 98 street,Grande Prairie,AB,T8V 2E8,,1-800-622-6232,Hospitals,Province of Alberta,Yes,5,55.175391000000005,-118.788449
+220,220,Queen Elizabeth Ii Hospital,10409 98 st,Grande Prairie,AB,T8V 2E8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,55.175292299999995,-118.78656799999999
+146,146,Grimshaw / Berwyn and District Community Health Centre,5621 wilcox rd,Grimshaw,AB,T0H 1W0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,56.190388,-117.62725
+150,150,Hanna Health Centre,904 centre st n,Hanna,AB,T0J 1P0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.6489192,-111.92820359999999
+151,151,Hardisty Health Centre,4531 47 st,Hardisty,AB,T0B 1V0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.669316,-111.307616
+196,196,Northwest Health Centre,11202 100 ave,High Level,AB,T0H 1Z0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,58.513525699999995,-117.16215290000001
+153,153,High Prairie Health Complex,4620 53 ave,High Prairie,AB,T0G 1E0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,55.431644999999996,-116.454926
+155,155,High River General Hospital,560 9 ave w,High River,AB,T1V 1B3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.5751035,-113.87994779999998
+157,157,Hinton Healthcare Centre,1280 switzer dr,Hinton,AB,T7V 1V2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.398281000000004,-117.58528999999999
+160,160,Innisfail Health Centre,5023 42 st,Innisfail,AB,T4G 1A9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.019015,-113.9514399
+165,165,Jasper (Seton) Healthcare Centre,518 robson st,Jasper,AB,T0E 1E0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.876107,-118.084299
+167,167,Killam General Hospital,5203 49 ave,Killam,AB,T0B 2L0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.788934,-111.85954299999999
+173,173,LAC LA BICHE HEALTHCARE CENTRE,9110 93 st,Lac la Biche County,AB,T0A 2C0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,54.764751000000004,-111.96449399999999
+174,174,Lacombe Hospital & Care Centre,5430 47 ave,Lacombe,AB,T4L 1G8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.460676600000006,-113.7411041
+175,175,Lamont Health Care Centre,5216 53 st,Lamont,AB,T0B 2R0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.762612,-112.78858100000001
+177,177,Leduc Community Hospital,4210 48 st,Leduc,AB,T9E 5Z3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.254835899999996,-113.5453314
+66,66,Chinook Regional Hospital,960 19 st s,Lethbridge,AB,T1J 1W5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.68535,-112.81518510000001
+92,92,Covenant Health St. Michael’s Health Centre,1 Main Street,Lethbridge,AB,T1J 4V5,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,49.6942,-112.8328
+271,271,St. Theresa General Hospital,4506 46 ave,Mackenzie County,AB,T0H 1N0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,58.3858843,-116.01220670000001
+180,180,Magrath Community Health Site,1 Main Street,Magrath,AB,T0K 1J0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,49.4239,-112.8683
+182,182,Manning Community Health Centre,600 2 st ne,Manning,AB,T0H 2M0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,56.927995900000006,-117.621417
+183,183,Mannville Care Centre,1 Main Street,Mannville,AB,T0B 2W0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,52.6230367521367521,-113.8616760683760684
+187,187,Mayerthorpe Health Care Centre,4706 54 st,Mayerthorpe,AB,T0E 1N0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.95219399999999,-115.1472169
+245,245,Sacred Heart Community Health Centre,350 3 ave,McLennan,AB,T0H 2L0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,55.710475,-116.91421799999999
+189,189,Medicine Hat Regional Hospital,666 5 st sw,Medicine Hat,AB,T1A 4H6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.034733,-110.702725
+185,185,Margery e. Yuill Cancer Centre,666 5 street sw,Medicine Hat,AB,T1A 4H6,,1-800-622-6232,Hospitals,Province of Alberta,Yes,5,50.03456,-110.70232
+190,190,Milk River Health Centre,517 centre ave e,Milk River,AB,T0K 1M0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.148255999999996,-112.0763544
+84,84,Covenant Health Mary Immaculate Care Centre,1 Main Street,Mundare,AB,T0B 3H0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,52.6230367521367521,-113.8616760683760684
+198,198,Okotoks Health and Wellness Centre,1 Main Street,Okotoks,AB,T1S 2E9,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,50.7250,-113.9750
+199,199,Olds Hospital & Care Centre,3901 57 ave,Olds,AB,T4H 1T4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.8013128,-114.11783490000002
+31,31,Big Country Hospital,312 3 ave e,Oyen,AB,T0J 2J0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.351289,-110.479297
+208,208,Peace River Community Health Centre,10101 68 st,Peace River,AB,T8S 1T6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,56.231053,-117.35444199999999
+211,211,Piyami Health Centre,301a rogers ave,Picture Butte,AB,T0K 1V0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.8731985,-112.7773122
+210,210,Pincher Creek Health Centre,1222 mill ave,Pincher Creek,AB,T0K 1W0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.493452000000005,-113.94693500000001
+214,214,Ponoka Hospital and Care Centre,5800 57 ave,Ponoka,AB,T4J 1P1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.684723999999996,-113.58951100000002
+61,61,Centennial Centre for Mental Health and Brain Injury,1 Main Street,Ponoka County,AB,T4J 1R8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.648905000000006,-113.57593600000001
+215,215,Provost Health Centre,5002 54 ave,Provost,AB,T0B 3S0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.357969,-110.26483999999999
+222,222,Rainbow Lake Health Centre,1 Main Street,Rainbow Lake,AB,T0H 2Y0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,52.6230367521367521,-113.8616760683760684
+223,223,Raymond Health Centre,150 n 4 st e,Raymond,AB,T0K 2S0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.4647002,-112.65058400000001
+62,62,Central Alberta Cancer Centre,50a avenue,Red Deer,AB,T4N 4E7,,1-800-622-6232,Hospitals,Province of Alberta,Yes,5,52.2606267,-113.8183868
+224,224,Red Deer Regional Hospital Centre,3942 50a ave,Red Deer,AB,T4N 6R2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.2607786,-113.818671
+225,225,Redwater Health Centre,4812 58 st,Redwater,AB,T0A 2W0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.9495991,-113.12558130000001
+237,237,Rimbey Hospital & Care Centre,5228 50 ave,Rimbey,AB,T0C 2J0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.6396975,-114.2459585
+239,239,Rocky Mountain House Health Centre,5016 52 ave,Rocky Mountain House,AB,T4T 1T2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.3785683,-114.92020500000001
+255,255,Slave Lake Healthcare Centre,309 6 st ne,Slave Lake,AB,T0G 2A2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,55.284356,-114.76073899999999
+256,256,Smoky Lake (George Mcdougall Memorial) Healthcare Centre,4212 55 ave,Smoky Lake,AB,T0A 3C0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,54.12113299999999,-112.465024
+63,63,Central Peace Health Complex,5010 45 ave,Spirit River,AB,T0H 3G0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,55.776981000000006,-118.83875400000001
+278,278,Sturgeon Community Hospital,201 boudreau rd,St. Albert,AB,T8N 6C4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.65524,-113.62571100000001
+270,270,St. Paul Healthcare Centre,4713 48 ave,St. Paul,AB,T0A 3A3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.9888438,-111.2904497
+273,273,Stettler Hospital & Care Centre,5912 47 ave,Stettler,AB,T0C 2L0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.323974,-112.72346
+322,322,Westview Health Centre,4405 south park dr,Stony Plain,AB,T7Z 2M7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.537465000000005,-113.97713300000001
+277,277,Strathmore District Health Services,200 brent blvd,Strathmore,AB,T1P 1J9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.060882,-113.386513
+279,279,Sundre Hospital & Care Centre,709 1 st ne,Sundre,AB,T0M 1X0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.807789,-114.63548600000001
+283,283,Swan Hills Healthcare Centre,29 freeman dr,Swan Hills,AB,T0G 2C0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,54.7274797,-115.403079
+284,284,Sylvan Lake Community Health Centre,1 Main Street,Sylvan Lake,AB,T4S 1M7,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,52.3083,-114.0964
+285,285,Taber Health Centre,4326 50 ave,Taber,AB,T1G 1N9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.7850125,-112.1651375
+299,299,Three Hills Health Centre,1504 2 st n,Three Hills,AB,T0M 2A0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.7078018,-113.25108590000002
+300,300,Tofield Health Centre,5543 44 st,Tofield,AB,T0B 4J0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.372657200000006,-112.6510992
+91,91,Covenant Health St. Mary’s Health Care Centre,1 Main Street,Trochu,AB,T0M 2C0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,51.8236,-113.2328
+307,307,Two Hills Health Centre,4401 53 ave,Two Hills,AB,T0B 4K0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.7132007,-111.731815
+310,310,Valleyview Health Centre,4802 highway st e,Valleyview,AB,T0H 3N0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,55.066646999999996,-117.273404
+265,265,St. Joseph's General Hospital - Vegreville,5241 43 st,Vegreville,AB,T9C 1R5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.493974,-112.033805
+313,313,Vermilion Health Centre,5720 50 ave,Vermilion,AB,T9X 1K7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.3547731,-110.87307890000001
+314,314,Viking Health Centre,5110 57 ave,Viking,AB,T0B 4N0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.099662699999996,-111.7764446
+316,316,Vulcan Community Health Centre,610 elizabeth st s,Vulcan,AB,T0L 2B0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.396101200000004,-113.2588
+318,318,Wainwright Health Centre,530 6 ave,Wainwright,AB,T9W 1R6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.840949,-110.865862
+320,320,Westlock Healthcare Centre (h),10220 93 st,Westlock,AB,T7P 2G4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,54.146530000000006,-113.85325900000001
+324,324,Wetaskiwin Hospital & Care Centre,6910 47 st,Wetaskiwin,AB,T9A 3N3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.986764,-113.367947
+325,325,Whitecourt Healthcare Centre,20 sunset blvd,Whitecourt,AB,T7S 1M8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,54.131598,-115.674435
+132,132,Fort Mcmurray Community Cancer Centre,7 hospital street,Wood Buffalo,AB,T9H 1P2,,1-800-622-6232,Hospitals,Province of Alberta,Yes,5,56.7176831,-111.36180060000001
+195,195,Northern Lights Regional Health Centre,7 hospital st,Wood Buffalo,AB,T9H 1P2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,56.71635229999999,-111.3622389
+172,172,LA CRETE HEALTH CENTRE,1 Main Street,la crete,AB,T0H 2H0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,52.6230367521367521,-113.8616760683760684
+193,193,Myrnam Health Centre,1 Main Street,myrnham,AB,T0B 3K0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,52.6230367521367521,-113.8616760683760684
+276,276,Strathcona Community Hospital,1 Main Street,sherwood park,AB,T8H 0J3,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,52.6230367521367521,-113.8616760683760684
+366,366,Abbotsford Regional Hospital and Cancer Centre,32900 marshall rd,Abbotsford,BC,V2S 0C2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.037872,-122.312854
+365,365,Abbotsford Regional Hospital and Cancer Care,2179 mccallum rd,Abbotsford,BC,V2S 3P1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.041893,-122.29513600000001
+654,654,Cottage-Worthington Pavilion,33457 cottage ln,Abbotsford,BC,V2S 0B3,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,49.0500,-122.3167
+1635,1635,the Regional Treatment Centre (Pacific),33344 king rd,Abbotsford,BC,V2S 4P4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.03108579999999,-122.30031570000001
+651,651,Cormorant Island Health Centre,49 school rd,Alert Bay,BC,V0N 1A0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.594297,-126.9423575
+1324,1324,Pleasant Valley Health Centre,3800 pattern dr,Armstrong,BC,V0E 1B2,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,50.4483,-119.1961
+415,415,Ashcroft and District Hospital and Community Health Centre,700 ash,Ashcroft,BC,V0K 1A0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.7347718,-121.2801628
+1372,1372,r.w. Large Memorial Hospital,88 waglisla st,Bella Bella 1,BC,V0T 1Z0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.1612727,-128.143339
+1368,1368,Queen’s Park & Fellburn Care Centres — Fellburn Care Centre,6050 east hastings street,Burnaby,BC,V5B 1R6,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,49.2667,-122.9667
+523,523,Burnaby Hospital,3935 kincaid st,Burnaby,BC,V5G 2X6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.24947879999999,-123.0157868
+1034,1034,Lakes District Hospital and Health Centre,741 centre st,Burns Lake,BC,V0J 1E0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,54.23562679999999,-125.76126229999998
+540,540,Campbell River and District Regional Hospital,375 2 ave,Campbell River,BC,V9W 3V1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.009834000000005,-125.24277099999999
+1459,1459,Saanich Peninsula Hospital,2166 mount newton x rd,Central Saanich,BC,V8M 2B2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.5944724,-123.4105953
+599,599,Chetwynd General Hospital and Health Centre,5500 hospital rd,Chetwynd,BC,V0C 1J0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,55.696217000000004,-121.644705
+607,607,Chilliwack General Hospital,45600 menholm rd,Chilliwack,BC,V2P 1P7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.1669926,-121.96306799999999
+714,714,Dr. Helmcken Memorial Hospital and Health Centre,640 park dr,Clearwater,BC,V0E 1N0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.6453419,-120.01818300000001
+1544,1544,St. Joseph's General Hospital - Comox,2137 comox ave,Comox,BC,V9M 1P2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.674463700000004,-124.94156840000001
+1430,1430,Riverview Hospital,2601 lougheed hwy,Coquitlam,BC,V3C 4J2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.2508389,-122.80617099999999
+1219,1219,North Island Hospital Comox Valley,101 lerwick road,Courtenay,BC,V9N 0B9,,1-800-622-6232,Hospitals,Province of British Columbia,Yes,5,49.713417,-124.97038400000001
+732,732,East Kootenay Regional Hospital,13 24 ave n,Cranbrook,BC,V1C 3H9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.512421999999994,-115.74999299999999
+669,669,Creston Valley Hospital,312 15 ave,Creston,BC,V0B 1G0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.0987024,-116.50831029999999
+687,687,Dawson Creek and District Hospital,11100 13 st,Dawson Creek,BC,V1G 3W8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,55.749633200000005,-120.2358095
+693,693,Delta Hospital,5800 mountain view blvd,Delta,BC,V4K 3V6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.0856773,-123.06188359999999
+750,750,Elk Valley Hospital,1501 5 ave,Fernie,BC,V0B 1M0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.5136918,-115.05603149999999
+1564,1564,Stuart Lake Hospital,600 stuart dr e,Fort St. James,BC,V0J 1P0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,54.441405200000005,-124.242352
+801,801,Fort St. John Hospital,9636 100 ave,Fort St. John,BC,V1J 1Y3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,56.25613829999999,-120.81633899999999
+850,850,Golden and District General Hospital,835 9 ave s,Golden,BC,V0A 1H0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.296482700000006,-116.96660220000001
+491,491,Boundary Hospital,7649 22 st,Grand Forks,BC,V0H 1H0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.0295499,-118.46823799999999
+1687,1687,Ubc Hospital,2211 wesbrook mall,Greater Vancouver A,BC,V6T 2B5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.26315579999999,-123.2460022
+1812,1812,Wrinch Memorial Hospital,2510 hwy 62,Hazelton,BC,V0J 1Y0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,55.259575600000005,-127.65125800000001
+807,807,Fraser Canyon Hospital,1275 7 ave,Hope,BC,V0X 1L4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.3768382,-121.424275
+952,952,Invermere and District Hospital/Columbia Valley,850 10 ave,Invermere,BC,V0A 1K0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.5067544,-116.03341200000001
+1451,1451,Royal Inland Hospital,311 columbia st,Kamloops,BC,V2C 2T1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.6701949,-120.3345924
+990,990,Kelowna General Hospital,2268 pandosy st,Kelowna,BC,V1Y 1T2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.8735931,-119.493866
+1012,1012,Kitimat Hospital & Health Centre,920 lahakas blvd s,Kitimat,BC,V8C 2S3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,54.0504835,-128.6472372
+1030,1030,Ladysmith Community Health Centre,1111 4 ave,Ladysmith,BC,V9G 1A1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.9957415,-123.82763440000001
+1043,1043,Langley Memorial Hospital,22051 fraser hwy,Langley,BC,V3A 4H4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.0952999,-122.61207900000001
+1056,1056,Lillooet District Hospital and Health Centre,951 murray st,Lillooet,BC,V0K 1V0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.690014,-121.93879059999999
+1081,1081,Mackenzie and District Hospital and Health Centre,45 centennial dr,Mackenzie,BC,V0J 2C0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,55.3375782,-123.10064799999999
+1422,1422,Ridge Meadows Hospital,11666 laity st,Maple Ridge,BC,V2X 5A3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.2161889,-122.63008
+1226,1226,Northern Haida Gwaii Hospital and Health Centre (North End),2520 harrison avenue,Masset,BC,V0T 1M0,,1-800-622-6232,Hospitals,Province of British Columbia,Yes,5,54.020576,-132.157074
+1111,1111,Masset Hospital,1760 hodges,Masset,BC,V0T 1M0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,54.0204495,-132.157076
+1118,1118,Mcbride and District Hospital,594 king st,McBride,BC,V0J 2E0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.30163979999999,-120.16082809999999
+1207,1207,Nicola Valley Health Centre,3451 voght st,Merritt,BC,V1K 1C6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.121171999999994,-120.77262900000001
+1157,1157,Mission Memorial Hospital,7324 hurd st,Mission,BC,V2V 3H5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.1351173,-122.3326872
+413,413,Arrow Lakes Hospital,97 1 ave ne,Nakusp,BC,V0G 1R0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.2382819,-117.79597079999999
+1186,1186,Nanaimo Regional General Hospital,1200 dufferin cres,Nanaimo,BC,V9S 2B7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.1849979,-123.96929499999999
+1022,1022,Kootenay Lake Hospital,3 view st,Nelson,BC,V1L 2V1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.495024900000004,-117.2848169
+1450,1450,Royal Columbian Hospital,330 east columbia st,New Westminster,BC,V3L 3W7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.2264136,-122.89163740000001
+1369,1369,Queen’s Park & Fellburn Care Centres — Queen’s Park Care Centre,1 Main Street,New Westminster,BC,V3L 5E8,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,49.2069,-122.9111
+595,595,Chemainus Health Care Centre,9909 esplanade st,North Cowichan,BC,V0R 1K1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.927226,-123.71591299999999
+659,659,Cowichan District Hospital,3045 gibbins rd,North Cowichan,BC,V9L 1E5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.7850092,-123.72332309999999
+1059,1059,Lions Gate Hospital,231 east 15 st,North Vancouver,BC,V7L 2L7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.32186420000001,-123.06837009999998
+799,799,Fort Nelson General Hospital,5315 liard st,Northern Rockies,BC,V0C 1R0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,58.808958700000005,-122.70494
+1528,1528,South Okanagan General Hospital,7139 362 ave,Oliver,BC,V0H 1T0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.1836817,-119.53956969999999
+332,332,100 Mile District General Hospital,555 cedar ave,One Hundred Mile House,BC,V0K 2E0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.6376711,-121.2930534
+1311,1311,Penticton Regional Hospital,550 carmi ave,Penticton,BC,V2A 3G6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.4812182,-119.577927
+1763,1763,West Coast General Hospital,3949 port alberni hwy,Port Alberni,BC,V9Y 4S1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.2487383,-124.782044
+1332,1332,Port Alice Health Centre,1090 marine dr,Port Alice,BC,V0N 2N0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.426008700000004,-127.4878351
+1333,1333,Port Hardy Hospital,9120 granville st,Port Hardy,BC,V0N 2P0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.720011799999995,-127.502909
+1334,1334,Port Mcneill and District Hospital,2750 kingcome place,Port McNeill,BC,V0N 2R0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.580646200000004,-127.0678577
+725,725,Eagle Ridge Hospital,475 guildford way,Port Moody,BC,V3H 3W9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.285505,-122.82358
+1338,1338,Powell River General Hospital,5000 joyce ave,Powell River,BC,V8A 5R3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.850826299999994,-124.518391
+1345,1345,Prince George Regional Hospital,1475 edmonton st,Prince George,BC,V2M 1S2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.9113826,-122.76447579999999
+1346,1346,Prince Rupert Regional Hospital,1305 summit ave,Prince Rupert,BC,V8J 2A6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,54.3044463,-130.331503
+1347,1347,Princeton General Hospital,98 ridgewood,Princeton,BC,V0X 1W0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.454095200000005,-120.526738
+893,893,Haida Gwaii Hospital and Health Centre (South End),3209 oceanview drive,Queen Charlotte,BC,V0T 1S0,,1-800-622-6232,Hospitals,Province of British Columbia,Yes,5,53.254868,-132.070526
+1364,1364,Queen Charlotte Islands General Hospital,3209 third ave,Queen Charlotte,BC,V0T 1M0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.25464100000001,-132.072632
+819,819,g.r. Baker Memorial Hospital,543 front st,Quesnel,BC,V2J 2K7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.9814079,-122.49955590000002
+1366,1366,Queen Victoria Hospital and Health Centre,1200 newlands rd,Revelstoke,BC,V0E 2S0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.97680220000001,-118.19014009999998
+1415,1415,Richmond Hospital,7000 westminster hwy,Richmond,BC,V6X 1A2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.1689707,-123.14657700000001
+1363,1363,Queen Alexandra Centre for Children's Health,2400 arbutus rd,Saanich,BC,V8N 1V7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.471509999999995,-123.29954
+1497,1497,Shuswap Lake General Hospital,601 10 th st ne,Salmon Arm,BC,V1E 4N6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.7045612,-119.2743811
+1029,1029,Lady Minto Gulf Islands Hospital,135 crofton rd,Saltspring Island,BC,V8K 1T1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.861445200000006,-123.5085986
+1547,1547,St. Mary's Hospital / Sechelt-Shishalh Hospital,5544 sunshine coast hwy,Sechelt (Part),BC,V0N 3A0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.4746186,-123.7496314
+520,520,Bulkley Valley District Hospital,3950 8 ave,Smithers,BC,V0J 2N0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,54.78502099999999,-127.163422
+1539,1539,Squamish General Hospital,38140 behrner dr,Squamish,BC,V0N 3G0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.697911,-123.141176
+969,969,Jim Pattison Outpatient Care and Surgery Centre,9750 140 street,Surrey,BC,V3T 0G9,,1-800-622-6232,Hospitals,Province of British Columbia,Yes,5,49.179456,-122.833248
+1582,1582,Surrey Memorial Hospital,13750 96 ave,Surrey,BC,V3V 1Z2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.1765946,-122.8417742
+1149,1149,Mills Memorial Hospital,4720 haugland ave,Terrace,BC,V8G 2W7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,54.510203000000004,-128.596541
+1656,1656,Tofino General Hospital,261 neill st,Tofino,BC,V0R 2Z0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.151404,-125.908799
+1019,1019,Kootenay Boundary Regional Hospital,1200 hospital bench,Trail,BC,V1R 4M1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.103275,-117.701449
+1350,1350,Providence Health Care - Holy Family Hospital,7801 argyle st,Vancouver,BC,V5P 3L6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.212701,-123.07308
+504,504,British Columbia Children's Hospital,4480 oak st,Vancouver,BC,V6H 3V4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.244268,-123.125479
+1573,1573,Sunny Hill Health Centre for Children,3644 slocan st,Vancouver,BC,V5M 3E8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.25197429999999,-123.0482504
+446,446,Bc Women's Hospital and Health Centre,4500 oak street,Vancouver,BC,V6H 3N1,,1-800-622-6232,Hospitals,Province of British Columbia,Yes,5,49.243637,-123.12539299999999
+794,794,Forensic Psychiatric Hospital (Forensic Psychiatric Services Commission),70 colony farm rd,Vancouver,BC,V3C 5X9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.263318,-123.11141699999999
+1351,1351,Providence Health Care - Mount Saint Joseph Hospital,3080 prince edward st,Vancouver,BC,V5T 3N4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.258002000000005,-123.095299
+817,817,g.f. Strong Rehabilitation Centre,4255 laurel st,Vancouver,BC,V5Z 2G9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.246789,-123.12541499999999
+444,444,Bc Cancer Agency,1 Main Street,Vancouver,BC,V5Z 4E6,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,49.2500,-123.1000
+1706,1706,Vancouver General Hospital,899 w 12 ave,Vancouver,BC,V5Z 1M9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.261616,-123.12391129999999
+1708,1708,Vancouver General Hospital - Gordon and Leslie Diamond Health Care Centre,2775 laurel street,Vancouver,BC,V5Z 1M9,,1-800-622-6232,Hospitals,Province of British Columbia,Yes,5,49.261187,-123.12565500000001
+1709,1709,Vancouver General Hospital - Health Centre,715 west 12 avenue,Vancouver,BC,V5Z 1N1,,1-800-622-6232,Hospitals,Province of British Columbia,Yes,5,49.26052,-123.12084899999999
+1349,1349,St. Paul's Hospital,1081 burrard st,Vancouver,BC,V6Z 1Y6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.280516,-123.1281872
+1543,1543,St. John Hospital,3255 hospital rd,Vanderhoof,BC,V0J 3A2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,54.0285333,-124.0107233
+1724,1724,Vernon Jubilee Hospital,2101 s 32 st,Vernon,BC,V1T 5L2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.255646399999996,-119.270432
+1452,1452,Royal Jubilee Hospital,1952 bay st,Victoria,BC,V8R 1J8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.432719,-123.3279135
+866,866,Gorge Road Hospital,1 Main Street,Victoria,BC,V9A 1L2,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.4283,-123.3647
+842,842,Glengarry Hospital,1780 fairfield rd,Victoria,BC,V8S 1G7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.415282899999994,-123.3318857
+1729,1729,Victoria General Hospital - Victoria,1 hospital way,View Royal,BC,V8Z 6R5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.4665044,-123.4330644
+1299,1299,Peace Arch Hospital,15521 russell ave,White Rock,BC,V4B 2R4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.029968,-122.792231
+557,557,Cariboo Memorial Hospital and Health Centre,517 n sixth ave,Williams Lake,BC,V2G 2G8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.13747,-122.14372900000001
+1827,1827,Altona Community Memorial Health Centre,240 5 ave ne,Altona,MB,R0G 0B0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.1074008,-97.5507187
+1830,1830,Arborg and Districts Health Centre,233 st philips dr,Arborg,MB,R0C 0A0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,50.905138,-97.226298
+1833,1833,Baldur Health Centre,531 elizabeth ave e,Argyle,MB,R0K 0B0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.384895799999995,-99.24073829999999
+1834,1834,Beausejour District Hospital,151 1 st s,Beausejour,MB,R0E 0C0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.0578759,-96.5199995
+1843,1843,Boissevain Health Centre,305 mill road s,Boissevain-Morton,MB,R0K 0E0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,49.224216999999996,-100.059664
+1846,1846,Brandon Regional Health Centre,150 mctavish ave e,Brandon,MB,R7A 2B3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.840231,-99.936897
+1852,1852,Carberry Plain Health Centre,340 toronto st.,Carberry,MB,R0K 0H0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.871891,-99.356199
+1853,1853,Carman Memorial Hospital,350 4 st sw,Carman,MB,R0G 0J0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.496953999999995,-98.008551
+1854,1854,Davidson Memorial Health Centre,345 davidson st,Cartwright-Roblin,MB,R0K 0L0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.09505,-99.3411
+1858,1858,Churchill Health Centre,162 la verendrye ave,Churchill,MB,R0B 0E0,,1-800-622-6232,Hospitals,Province of Manitoba and Manitoba Health Authorities,Yes,5,58.7716045,-94.17025550000001
+1878,1878,Erickson Health Centre,60 queen elizabeth road,Clanwilliam-Erickson,MB,R0J 0P0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.496340999999994,-99.90902
+1864,1864,Dauphin Regional Health Centre,625 3 st sw,Dauphin,MB,R7N 1R7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.1477443,-100.0609707
+1867,1867,Deloraine Health Centre,109 kellett st,Deloraine-Winchester,MB,R0M 0M0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.1916925,-100.4983178
+1862,1862,Cormorant Health Care Centre,1 Main Street,"Division No. 21, Unorganized",MB,R2K 3S8,,1-800-622-6232,Hospitals,Province of Manitoba and Manitoba Health Authorities,Yes,5,54.224805,-100.601709
+1945,1945,Norway House Indian Hospital,1 general delivery,"Division No. 22, Unorganized",MB,R0B 1B0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.983996999999995,-97.832136
+1885,1885,Flin Flon General Hospital,1 third ave and church st,Flin Flon (Part),MB,R8A 1N2,,1-800-622-6232,Hospitals,Province of Manitoba and Manitoba Health Authorities,Yes,5,54.764383499999994,-101.87662209999999
+1888,1888,Gillam Hospital Inc.,115 gillam dr,Gillam,MB,R0B 0L0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,56.34667099999999,-94.708376
+1912,1912,Johnson Memorial Hospital,120 6 avenue,Gimli,MB,R0C 1B0,,1-800-622-6232,Hospitals,Province of Manitoba and Manitoba Health Authorities,Yes,5,50.6279201,-96.99398769999999
+1894,1894,Glenboro Health District Hospital,1 Main Street,Glenboro-South Cypress,MB,R0K 0X0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.559843,-99.287091
+1899,1899,Grandview District Hospital,644 mill street,Grandview,MB,R0L 0Y0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,51.178923,-100.70023
+1903,1903,Hartney Health Centre,1 Main Street,Grassland,MB,R0M 0X0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.484746,-100.526726
+1999,1999,St. Claude Health Centre,33 roy st,Grey,MB,R0G 1Z0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.6537739,-98.3449207
+1901,1901,Hamiota District Health Centre,177 birch ave e.,Hamiota,MB,R0M 0T0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.18213,-100.59
+1973,1973,Roblin & District Health Centre,15 hospital st,Hillsburg-Roblin-Shell River,MB,R0L 1P0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.2270295,-101.36276240000001
+1997,1997,St. Anthony’s General Hospital,1 Main Street,Kelsey,MB,R3T 2M3,,1-800-622-6232,Hospitals,Province of Manitoba and Manitoba Health Authorities,Yes,5,53.827585,-101.250896
+2019,2019,Tri-Lake Health Centre,86 ellis dr,Killarney - Turtle Mountain,MB,R0K 1G0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.175965999999995,-99.66341109999999
+1919,1919,Leaf Rapids Health Care Centre,1 Main Street,Leaf Rapids,MB,R0B 1W0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,56.463294,-100.011258
+1923,1923,Lorne Memorial Hospital,9 2 st n,Lorne,MB,R0G 2S0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.412453,-98.787451
+1946,1946,Notre Dame Health Centre,39 roch st.,Lorne,MB,R0G 1M0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.5326942,-98.562463
+1975,1975,Rock Lake Health District Hospital,135 machray ave e.,Louise,MB,R0K 0N0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.1501474,-98.95097690000001
+1926,1926,Lynn Lake Hospital,2040 camp st,Lynn Lake,MB,R0B 0W0,,1-800-622-6232,Hospitals,Province of Manitoba and Manitoba Health Authorities,Yes,5,56.8568707,-101.0440366
+1930,1930,Mccreary/Alonsa Health Centre,613 government rd,McCreary,MB,R0J 1B0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.772448,-99.486386
+1932,1932,Melita Health Centre,147 summit ave,Melita,MB,R0M 1L0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.2705031,-100.996575
+1935,1935,Minnedosa Health Centre,334 1 st sw,Minnedosa,MB,R0J 1E0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.241616,-99.839963
+1940,1940,Morris General Hospital,215 railroad ave,Morris,MB,R0G 1K0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.3532971,-97.3606927
+2035,2035,Winnipegosis and District Health Centre,230 bridge st,Mossey River,MB,R0L 2G0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.640253,-99.932233
+1941,1941,Neepawa District Memorial Hospital,500 hospital st,Neepawa,MB,R0J 1H0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.234156,-99.4629502
+2017,2017,Tiger Hills Health Centre,64 clark st,Norfolk-Treherne,MB,R0G 2V0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.633472,-98.698192
+1927,1927,Macgregor Health Centre,87 grafton st s,North Norfolk,MB,R0H 0R0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.9622412,-98.775017
+2027,2027,Wawanesa and District Memorial Health Centre,506 george street,Oakland-Wawanesa,MB,R0K 2G0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,49.595096999999996,-99.69253
+2012,2012,the Pas Health Complex,67 1st street west,Opaskwayak Cree Nation 21E,MB,R9A 1K4,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,53.829393,-101.247878
+1951,1951,Percy e. Moore Hospital,1 mb-325,Peguis 1B,MB,R0C 1N0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.21595,-97.574065
+1950,1950,Pembina Manitou Health Centre,232 carrie st,Pembina,MB,R0G 1G0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.241727000000004,-98.544099
+1953,1953,Pinawa Hospital,30 vanier dr,Pinawa,MB,R0E 1L0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.15126,-95.8835
+1958,1958,Reston Community Health Centre,1 1 st,Pipestone,MB,R0M 1X0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.5613575,-101.09984490000001
+1956,1956,Portage District General Hospital,524 5 st se,Portage la Prairie,MB,R1N 3A8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.96723,-98.2815
+1954,1954,Pine Falls Hospital,37 maple st,Powerview-Pine Falls,MB,R0E 1M0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.56338,-96.2148
+1841,1841,Birtle Health Centre,843 gertrude st,Prairie View,MB,R0M 0C0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.425754600000005,-101.04682
+1971,1971,Riverdale Health Centre,512 québec st,Riverdale,MB,R0K 1X0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.0351804,-100.242086
+1977,1977,Rossburn Health Centre,116 parkview dr,Rossburn,MB,R0J 1V0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.667058600000004,-100.8045689
+1978,1978,Russell Health Centre,426 alexandria ave,Russell-Binscarth,MB,R0J 1W0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.77316679999999,-101.2772138
+1980,1980,Selkirk & District General Hospital,100 easton dr,Selkirk,MB,R1A 2M2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.1574965,-96.88771379999999
+1992,1992,Snow Lake Health Centre,100 lakeshore drive e,Snow Lake,MB,R0B 1M0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,54.881037,-100.027829
+1993,1993,Souris Health Centre,155 brindle st,Souris-Glenwood,MB,R0K 2C0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.614677,-100.2491169
+1994,1994,South Indian Lake Nursing Station,1 Main Street,South Indian Lake,MB,R0B 1N0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,50.2732653543307087,-98.5841700787401575
+1868,1868,DE SALABERRY DISTRICT HEALTH CENTRE,354 prefontaine avenue,St-Pierre-Jolys,MB,R0A 1V0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,49.444981,-96.988244
+2001,2001,St. Theresa Point Nursing Station,1 Main Street,St. Theresa Point,MB,R0B 1J0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,50.2732653543307087,-98.5841700787401575
+1910,1910,HôPITAL STE-ANNE HOSPITAL,52 st gérard st,Ste. Anne,MB,R5H 1C4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.6678815,-96.6476614
+1839,1839,Bethesda Hospital,316 henry st,Steinbach,MB,R5G 1A3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.529588700000005,-96.6800683
+1870,1870,Dr. Evelyn Memorial Hospital,589 3 avenue,Stonewall,MB,R0C 2Z0,,1-800-622-6232,Hospitals,Province of Manitoba and Manitoba Health Authorities,Yes,5,50.130342600000006,-97.3357173
+2004,2004,Stonewall and District Health Centre,589 3 avenue s,Stonewall,MB,R0C 2Z0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,50.131652,-97.335247
+2024,2024,Vita & District Health Centre,217 first ave w,Stuartburn,MB,R0A 2K0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.136181,-96.564779
+2003,2003,Ste. Rose General Hospital,480 3 avenue se,Swan River,MB,R0L 1S0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,52.099188,-101.271765
+2006,2006,Swan Valley Health Centre,1011 main st,Swan River,MB,R0L 1Z0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.106406,-101.26228499999999
+2008,2008,Teulon/Hunter Memorial Hospital,162 3 ave se,Teulon,MB,R0C 3B0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.387347999999996,-97.254851
+2016,2016,Thompson General Hospital,871 thompson dr,Thompson,MB,R8N 0C8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,55.735293999999996,-97.85661800000001
+2023,2023,Virden Health Centre,480 king st e,Virden,MB,R0M 2C0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.85642120000001,-100.9237773
+2026,2026,Wasagamack Nursing Station,1 Main Street,Wasagamack,MB,R0B 1Z0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,53.9056,-94.9412
+1917,1917,Lakeshore General Hospital - Ashern,1 steenson dr,West Interlake,MB,R0C 0E0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.1798564,-98.351933
+1873,1873,Elizabeth m. Crowe Memorial Hospital,40 railway ave,West Interlake,MB,R0C 0W0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.8660843,-98.10665809999999
+1988,1988,Gladstone Health Centre,24 mill st,WestLake-Gladstone,MB,R0J 0T0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.225678,-98.9435589
+1844,1844,Boundary Trails Health Centre,12140 jct hwy 3 and 14,Winkler,MB,R6W 1H8,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,49.1817,-97.9397
+2021,2021,Victoria General Hospital - Winnipeg,2340 pembina hwy,Winnipeg,MB,R3T 2E8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.8067554,-97.1527389
+1998,1998,St. Boniface General Hospital,409 taché ave,Winnipeg,MB,R2H 2A6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.884337200000004,-97.1248402
+1859,1859,Concordia Hospital,1095 concordia ave,Winnipeg,MB,R2K 3S8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.913511,-97.06463000000001
+1987,1987,Seven Oaks General Hospital,2300 mcphillips st,Winnipeg,MB,R2V 3M3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.9553126,-97.1461033
+1897,1897,Grace General Hospital,300 booth dr,Winnipeg,MB,R3J 3M7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.882355100000005,-97.2767758
+1929,1929,"Manitoba Adolescent Treatment Centre, Inc. - Hospital Program",120 tecumseh st,Winnipeg,MB,R3E 2A9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.90613,-97.163433
+2030,2030,Western Surgery Centre,#100-1020 lorimer blvd,Winnipeg,MB,R3P 1C7,,1-800-622-6232,Hospitals,Province of Manitoba and Manitoba Health Authorities,Yes,5,49.8430716,-97.1997911
+1937,1937,Misericordia Health Centre,99 cornish ave,Winnipeg,MB,R3C 1A2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.878949600000006,-97.1593898
+1904,1904,Health Sciences Centre,820 sherbrook st,Winnipeg,MB,R3A 1R9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.904682,-97.159448
+1850,1850,Cancercare Manitoba- Mcdermot,675 mcdermot avenue,Winnipeg,MB,R3E 0V9,,1-800-622-6232,Hospitals,Province of Manitoba and Manitoba Health Authorities,Yes,5,49.903060700000005,-97.1583208
+1991,1991,Shoal Lake-Strathclair Health Centre,526 mary street,Yellowhead,MB,R0J 1Z0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,50.438675,-100.594663
+2037,2037,York Landing Nursing Station,1 Main Street,York Landing,MB,R0B 2B0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,50.2732653543307087,-98.5841700787401575
+1848,1848,Brochet - Barren Lands Nursing Station,1 Main Street,brochet,MB,R0B 0B0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,50.2732653543307087,-98.5841700787401575
+1887,1887,Garden Hill Nursing Station,1 Main Street,garden hill,MB,R0B 0T0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,50.2732653543307087,-98.5841700787401575
+1914,1914,Lac Brochet Nursing Station,1 Main Street,lac brochet,MB,R0B 2E0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,50.2732653543307087,-98.5841700787401575
+1922,1922,Little Grand Rapids Station,1 Main Street,little grand rapids,MB,R0B 0V0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,50.2732653543307087,-98.5841700787401575
+1949,1949,Pauingassi Nursing Station,1 Main Street,pauingassi,MB,R0B 2G0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,50.2732653543307087,-98.5841700787401575
+1989,1989,Shamattawa Nursing Station,1 Main Street,shamattawa,MB,R0B 1K0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,50.2732653543307087,-98.5841700787401575
+2068,2068,HôPITAL RéGIONAL CHALEUR,1750 prom sunset,Bathurst,NB,E2A 4L7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.649288,-65.69467399999999
+2043,2043,Centre Hospitalier Restigouche Inc.,65 prom gallant,Campbellton,NB,E3N 2T5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.9930568,-66.6665744
+2038,2038,Campbellton Regional Hospital,189 ch lily lake,Campbellton,NB,E3N 3H3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.9930568,-66.6665744
+2064,2064,HôPITAL DE L'ENFANT - JéSUS RHSJ,1 boul st-pierre ouest,Caraquet,NB,E1W 1B6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.7945304,-64.93871899999999
+2069,2069,HôPITAL RéGIONAL D'EDMUNDSTON,275 boul hébert,Edmundston,NB,E3V 4E4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.375995200000006,-68.31068990000001
+2049,2049,Dr. Everett Chalmers Regional Hospital,700 priestman st,Fredericton,NB,E3B 5N5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.9389697,-66.6544717
+2093,2093,the Stan Cassidy Centre for Rehabilitation,800 priestman st,Fredericton,NB,E3B 0C7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.9374307,-66.65293829999999
+2067,2067,HôPITAL GENERAL DE GRAND-SAULT,625 boul evérard h daigle,Grand Falls / Grand-Sault,NB,E3Z 2R9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.0452984,-67.754333
+2060,2060,Grand Manan Hospital,196 rte 776,Grand Manan,NB,E5G 1A3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.7622016,-66.7638355
+2066,2066,HôPITAL ET CENTRE DE SANTé COMMUNAUTAIRE DE LAMИQUE,29 rue de l'hôpital,Lamиque,NB,E8T 1C5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.791638899999995,-64.6531608
+2075,2075,Miramichi Regional Hospital,500 water st,Miramichi,NB,E1V 3G5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.0028679,-65.5414429
+2044,2044,Centre Hospitalier Universitaire Dr-Georges-l.-Dumont,330 ave université,Moncton,NB,E1C 2Z3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.0980252,-64.7862138
+2091,2091,the Moncton Hospital,135 macbeath ave,Moncton,NB,E1C 6Z8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.104977000000005,-64.80615
+2077,2077,Oromocto Public Hospital,103 winnebago st,Oromocto,NB,E2V 1C6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.848636299999995,-66.4731796
+2062,2062,Hotel Dieu of Saint-Joseph,10 woodland hill,Perth-Andover,NB,E7H 5H5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.7290031,-67.710327
+2094,2094,Tobique Valley Community Health Centre,120 main st,Plaster Rock,NB,E7G 2E5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.8910194,-67.397851
+2070,2070,HôPITAL STELLA-MARIS-DE-KENT,7714 rte 134,Richibucto,NB,E4S 1H5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.5588706,-64.78235079999999
+2081,2081,Sackville Memorial Hospital,8 main st,Sackville,NB,E4L 4A3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.8919015,-64.3724448
+2099,2099,Workers' Rehabilitation Centre,3700 westfield rd,Saint John,NB,E2M 5Z4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.2979544,-66.19387689999999
+2083,2083,Saint John Regional Hospital,400 university avenue,Saint John,NB,E2L 4L2,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,45.302733,-66.08515
+2085,2085,ST. JOSEPH'S HOSPITAL / HôPITAL ST. JOSEPH,130 bayard drive,Saint John,NB,E2L 3L6,,1-800-622-6232,Hospitals,Horizon Health Authority - New Brunswick,Yes,5,45.279030999999996,-66.057905
+2041,2041,Centracare Saint John Inc.,414 bay st,Saint John,NB,E2M 7L4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.2543073,-66.1268967
+2071,2071,HôTEL-DIEU SAINT-JOSEPH DE SAINT-QUENTIN / HôTEL-DIEU SAINT-JOSEPH DE SAINT-QUENTIN,21 canada street,Saint-Quentin,NB,E8A 2P6,,1-800-622-6232,Hospitals,Vitalité Health Authority - New Brunswick,Yes,5,47.497546,-67.393196
+2047,2047,Charlotte County Hospital,4 garden st,St. Stephen,NB,E3L 2L9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.194485799999995,-67.2658217
+2089,2089,Sussex Health Centre,75 leonard dr,Sussex,NB,E4E 2P7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.726332899999996,-65.49057420000001
+2065,2065,HôPITAL DE TRACADIE-SHEILA,400 rue des hospitaliиres,Tracadie,NB,E1X 1G5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.5123828,-64.90633000000001
+2097,2097,Upper River Valley Hospital,11300 route 130,Wakefield,NB,E7P 0A4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.283592999999996,-67.571154
+2102,2102,Baie Verte Peninsula Health Centre,1 columbus dr,Baie Verte,NL,A0K 1B0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.925666299999996,-56.221936
+2109,2109,Bonavista Peninsula Health Centre,20-24 hospital road,Bonavista,NL,A0C 1B0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.646578000000005,-53.108451
+2100,2100,a.m. Guy Memorial Health Centre,15 water steet,Buchans,NL,A0H 1G0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.824015,-56.857397
+2116,2116,Calder Health Centre,1 Main Street,Burgeo,NL,A0N 2H0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,47.6000,-57.6333
+2118,2118,Carbonear General Hospital,86 highroad s,Carbonear,NL,A1Y 1A4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.7252563,-53.2265711
+2133,2133,Dr. Charles l. Legrow Health Centre,1 grand bay rd,Channel-Port aux Basques,NL,A0M 1C0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.588959,-59.162949
+2135,2135,Dr. g.b. Cross Memorial Hospital,67 manitoba dr,Clarenville,NL,A5A 1K3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.1649933,-53.9844029
+2194,2194,Western Memorial Regional Hospital,1 brookfield ave,Corner Brook,NL,A2H 6J7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.948501799999995,-57.9305905
+2143,2143,Fogo Island Health Centre,1 Main Street,Fogo Island,NL,A0G 2B0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.665568900000004,-54.2245912
+2159,2159,Labrador South Health Centre,1 Main Street,Forteau,NL,A0K 2P0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.473905,-56.960103000000004
+2155,2155,James Paton Memorial Regional Health Centre,125 trans canada hwy,Gander,NL,A1V 1P7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.956070000000004,-54.628799
+2121,2121,Central Newfoundland Regional Health Centre,50 union street,Grand Falls-Windsor,NL,A2A 2E1,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.932557,-55.647952000000004
+2158,2158,Labrador Health Centre,227 hamilton river road,Happy Valley-Goose Bay,NL,A0P 1C0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,53.296639,-60.341373
+2126,2126,Connaigre Peninsula Health Centre,1 Main Street,Harbour Breton,NL,A0H 1P0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.468051,-55.827481000000006
+2161,2161,Labrador-Grenfell Health,410 booth ave,Labrador City,NL,A2V 2K1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.948395999999995,-66.91315999999999
+2113,2113,Brookfield/Bonnews Health Centre,1 Main Street,New-Wes-Valley,NL,A0G 1B0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.13469,-53.59063199999999
+2128,2128,Dr. a. a. Wilkinson Memorial Health Centre,438 station drive,Old Perlican,NL,A0A 3G0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.076266,-52.999593000000004
+2179,2179,Rufus Guinchard Health Care Centre,1 Main Street,Port Saunders,NL,A0K 4H0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.649633,-57.305352
+2195,2195,White Bay Central Health Centre,63 cloud drive,Roddickton-Bide Arm,NL,A0K 4P0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,50.868696,-56.117025
+2151,2151,Green Bay Health Centre,275 main street,Springdale,NL,A0J 1T0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,49.505774,-56.053543000000005
+2134,2134,Dr. Charles s. Curtis Memorial Hospital,200 west st,St. Anthony,NL,A0K 4S0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.362435999999995,-55.586989
+2187,2187,Strait of Belle Isle Health Centre,1 Main Street,St. Anthony,NL,A0K 2N0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,51.3725,-55.5947
+2185,2185,St. Clare's Mercy Hospital,154 lemarchant rd,St. John's,NL,A1C 5B8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.557926,-52.72165
+2153,2153,Health Sciences Centre - General Hospital,300 prince phillip drive,St. John's,NL,A1B 3V6,,1-800-622-6232,Hospitals,Province of Newfoundland and Labrador,Yes,5,47.5718074,-52.74187758
+2156,2156,Janeway Children's Health and Rehabilitation Centre,300 prince philip dr,St. John's,NL,A1B 3V6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.572666,-52.742467000000005
+2193,2193,Waterford Hospital,306 waterford bridge road,St. John's,NL,A1E 4J8,,1-800-622-6232,Hospitals,Province of Newfoundland and Labrador,Yes,5,47.529617200000004,-52.74206070000001
+2190,2190,u.s. Memorial Health Centre,1 Main Street,St. Lawrence,NL,A0E 2V0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.930187,-55.39905
+2182,2182,Sir Thomas Roddick Hospital,142 minnesota dr,Stephenville,NL,A2N 2V6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.559658,-58.552606999999995
+2111,2111,Bonne Bay Health Centre,131-135 main street,Trout River,NL,A0K 3V0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,49.470386,-58.126394
+2172,2172,Notre Dame Bay Memorial Health Centre,1 general delivery,Twillingate,NL,A0G 4M0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.653287,-54.757129000000006
+2137,2137,Dr. Walter Templeman Health Care Centre,1 Main Street,Wabana,NL,A0A 4H0,,1-800-622-6232,Hospitals,Province of Newfoundland and Labrador,Yes,5,47.645878,-52.946948
+2140,2140,Dr. y.k. Jeon Kittiwake Health Centre,1 Main Street,brookfield,NL,A0G 1J0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.5522765625000000,-55.3880953125000000
+2200,2200,Annapolis Community Health Centre,821 st george st,Annapolis Royal,NS,B0S 1A0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.736618799999995,-65.5018643
+2342,2342,Soldiers Memorial Hospital,462 main street,"Annapolis, Subd. B",NS,B0S 1P0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,44.882577000000005,-65.156992
+2348,2348,St. Martha's Regional Hospital,25 bay st,Antigonish,NS,B2G 2G5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.627949,-61.980072
+2344,2344,South Shore Regional Hospital,90 glen allan dr,Bridgewater,NS,B4V 3S6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.3831672,-64.51059570000001
+2295,2295,New Waterford Consolidated Hospital,716 king st,Cape Breton,NS,B1H 3Z5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.240138,-60.085691000000004
+2299,2299,Northside General Hospital,520 purves st,Cape Breton,NS,B2A 3M4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.218293,-60.23561899999999
+2249,2249,Glace Bay Healthcare Facility,300 south st,Cape Breton,NS,B1A 1W5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.183211,-59.938572
+2256,2256,Harbour View Hospital,22 richard street,Cape Breton,NS,B1V 2H7,,1-800-622-6232,Hospitals,Province of Nova Scotia,Yes,5,46.23474447,-60.22220735
+2219,2219,Cape Breton Regional Hospital,1482 george st,Cape Breton,NS,B1P 1P3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.113409000000004,-60.174263
+2276,2276,Lillian Fraser Memorial Hospital,110 blair ave,"Colchester, Subd. B",NS,B0K 1V0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.711524,-63.296239
+2199,2199,All Saints Springhill Hospital,10 princess st,"Cumberland, Subd. B",NS,B0M 1X0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.65028,-64.0501
+2229,2229,Cumberland Regional Health Care Centre,19428 hwy 2,"Cumberland, Subd. C",NS,B4H 3Y4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.8041086,-64.1968995
+2296,2296,North Cumberland Memorial Hospital,260 church st,"Cumberland, Subd. D",NS,B0K 1L0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.856297999999995,-63.65886999999999
+2232,2232,Digby General Hospital,75 warwick st,Digby,NS,B0V 1A0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.616534,-65.761667
+2240,2240,Eastern Memorial Hospital,1746 union st,Guysborough,NS,B0H 1H0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.33296370000001,-60.98381260000001
+2253,2253,Guysborough Memorial Hospital,10560 route #16,Guysborough,NS,B0H 1H0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,44.9558914285714286,-63.9581228571428571
+2242,2242,Eastern Shore Memorial Hospital,22637 rte 7,Halifax,NS,B0J 3B0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.920899,-62.532982999999994
+2226,2226,Cobequid Community Health Centre,40 freer lane,Halifax,NS,B2X 1S3,,1-800-622-6232,Hospitals,Province of Nova Scotia,Yes,5,44.757207,-63.65899399999999
+2305,2305,Nova Scotia Rehabilitation Centre,1341 summer street,Halifax,NS,B3K 3S5,,1-800-622-6232,Hospitals,Province of Nova Scotia,Yes,5,44.639724,-63.58215799999999
+2318,2318,Qeii - Halifax Infirmary Site,1796 summer street,Halifax,NS,B3G 1M4,,1-800-622-6232,Hospitals,Province of Nova Scotia,Yes,5,44.645784,-63.586389000000004
+2319,2319,Qeii - Victoria General (Vg) Site,1278 south park street,Halifax,NS,B3G 1M4,,1-800-622-6232,Hospitals,Province of Nova Scotia,Yes,5,44.63840489,-63.58040241
+2230,2230,Dartmouth General Hospital,325 pleasant st,Halifax,NS,B2Y 4G8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.6539875,-63.547621400000004
+2273,2273,Iwk Health Centre,5980 university ave,Halifax,NS,B3K 6R8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.637993,-63.583484
+2290,2290,Musquodoboit Valley Memorial Hospital,492 archibald brook rd,Halifax,NS,B0N 1X0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.040463700000004,-63.1404927
+2320,2320,Queen Elizabeth Ii Health Sciences Centre,1276 south park st,Halifax,NS,B3K 6A3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.638422,-63.581341
+2359,2359,the East Coast Forensic Hospital,88 gloria mccluskey ave,Halifax,NS,B3B 2B8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.7213432,-63.59163420000001
+2364,2364,the Nova Scotia Hospital,300 pleasant st,Halifax,NS,B2Y 3Z9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.651053499999996,-63.5490045
+2369,2369,Twin Oaks Memorial Hospital,7702 hwy 7,Halifax,NS,B0J 2L0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.783235,-63.158434
+2333,2333,Sacred Heart Hospital,1 main st,"Inverness, Subd. A",NS,B0E 1H0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.623469,-61.015105000000005
+2270,2270,Inverness Consolidated Memorial Hospital,39 james street,"Inverness, Subd. B",NS,B0E 1N0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.226968,-61.304843000000005
+2370,2370,Valley Regional Hospital,150 exhibition st,"Kings, Subd. B",NS,B4N 5E3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.084052899999996,-64.5005906
+2245,2245,Fishermen's Memorial Hospital,14 high st,Lunenburg,NS,B0J 2C0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.382276,-64.326952
+2197,2197,Aberdeen Hospital - New Glasgow,835 east river rd,New Glasgow,NS,B2H 3S6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.573042,-62.642894999999996
+2343,2343,South Cumberland Community Care Centre,50 jenks ave,Parrsboro,NS,B0M 1S0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.409197,-64.325971
+2353,2353,Sutherland Harris Memorial Hospital,222 haliburton rd,Pictou,NS,B0K 1H0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.676629999999996,-62.727086
+2324,2324,Queens General Hospital,175 school st,Queens,NS,B0T 1K0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.037653000000006,-64.70559399999999
+2350,2350,Strait Richmond Hospital,138 rr 1,"Richmond, Subd. A",NS,B0E 1J0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.617084000000006,-61.222926
+2330,2330,Roseway Hospital,1606 sandy point rd,Shelburne,NS,B0T 1W0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.749522999999996,-65.310347
+2349,2349,St. Mary's Memorial Hospital,91 hospital rd,St. Mary's,NS,B0J 3C0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.147814000000004,-61.981930000000006
+2228,2228,Colchester Regional Hospital,207 willow st,Truro,NS,B2N 5A1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.357096899999995,-63.292881900000005
+2208,2208,Buchanan Memorial Community Health Centre,32610 cabot trail,"Victoria, Subd. A",NS,B0C 1N0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.81057,-60.334327
+2372,2372,Victoria County Memorial Hospital,30 old margaree road,"Victoria, Subd. B",NS,B0E 1B0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.100264,-60.756029000000005
+2255,2255,Hants Community Hospital,89 payzant drive,Windsor,NS,B0N 2T0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.986514,-64.120414
+2390,2390,Yarmouth Regional Hospital,60 vancouver st,Yarmouth,NS,B5A 2P5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.8506469,-66.1217646
+2392,2392,Fort Smith Health Centre,41 breynet street,Fort Smith,NT,X0E 0P0,,1-800-622-6232,Hospitals,Northwest Territories,Yes,5,60.003556,-111.88021200000001
+2394,2394,Hay River Regional Health Centre,37911 mackenzie highway,Hay River,NT,X0E 0R6,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,60.7531,-115.9004
+2393,2393,h.h. Williams Memorial Hospital,3 gaetz dr,Hay River,NT,X0E 0R8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,60.81655,-115.77905700000001
+2395,2395,Inuvik Regional Hospital,285 mackenzie rd,Inuvik,NT,X0E 0T0,,1-800-622-6232,Hospitals,Northwest Territories,Yes,5,68.35299,-133.694525
+2397,2397,Stanton Territorial Hospital,550 byrne rd,Yellowknife,NT,X1A 2N1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,62.447683999999995,-114.4045
+2398,2398,Cambridge Bay Health Centre (Kitikmeot Regional Health Centre),13d omingmak st,Cambridge Bay,NU,X0E 0C0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,69.117411,-105.05170700000001
+2400,2400,Qikiqtani General Hospital,516 niaqunngusiariaq,Iqaluit,NU,X0C 0G0,,1-800-622-6232,Hospitals,Nunavut,Yes,5,63.749938,-68.509098
+2399,2399,Rankin Inlet Health Centre,1 Main Street,Rankin Inlet,NU,X0C 0G0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,62.815036,-92.086775
+4122,4122,Lakeridge Health Ajax Pickering Hospital,580 harwood ave s,Ajax,ON,L1S 2J4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.838028,-79.0177
+2560,2560,Arnprior Regional Health — Arnprior & District Memorial Hospital,350 john st n,Arnprior,ON,K7S 2P6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.441542,-76.35292
+5309,5309,South Bruce Grey Health Centre - Chesley,39 2 st se,Arran-Elderslie,ON,N0G 1L0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.298491999999996,-81.093232
+2571,2571,Atikokan General Hospital,120 dorothy st,Atikokan,ON,P0T 1C0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.754155,-91.59760899999999
+4006,4006,James Bay General Hospital - Attawapiskat,1 general delivery,Attawapiskat 91A,ON,P0L 1A0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.922732999999994,-82.426001
+5982,5982,Weeneebayko Area Health Authority - Attawapiskat,972 riverside e,Attawapiskat 91A,ON,P0L 1A0,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,52.92425681,-82.42780256
+4868,4868,Quinte Health Care - North Hastings District Hospital,1 h manor lane,Bancroft,ON,K0L 1C0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.055076,-77.8642118
+5677,5677,Check Address for Confirmation,201 georgian dr,Barrie,ON,L4M 6M2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.4159999,-79.66193100000001
+4876,4876,Belleville General Hospital,265 dundas st e,Belleville,ON,K8N 5A9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.1627054,-77.3643232
+2657,2657,Bingham Memorial Hospital,507 8 ave,Black River-Matheson,ON,P0K 1N0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.539603799999995,-80.4697506
+4332,4332,Mattawa General Hospital Inc.,217 tucotte park rd,Black River-Matheson,ON,P0H 1V0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.539433,-80.469727
+2670,2670,Blind River District Health Centre,525 causley st,Blind River,ON,P0R 1B0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.1873626,-82.92406319999999
+4447,4447,Muskoka Algonquin Healthcare - Huntsville District Memorial Hospital Site,100 frank miller dr,Bracebridge,ON,P1H 1H7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.047582,-79.314327
+5327,5327,South Muskoka Memorial Hospital,75 ann st,Bracebridge,ON,P1L 2E4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.04781,-79.314359
+6056,6056,William Osler Health System - Peel Memorial,20 lynch street,Brampton,ON,L6W 2Z8,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,43.690476000000004,-79.75143100000001
+6051,6051,William Osler Health System - Brampton Civic Hospital,2100 bovaird dr e,Brampton,ON,L6T 3S1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.747465999999996,-79.743223
+2707,2707,Brant Community Healthcare System - Brantford General Hospital Site,200 terrace hill st,Brantford,ON,N3R 1G9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.152313,-80.276196
+5308,5308,South Bruce Grey Health Centre - Walkerton,21 mcgivern st,Brockton,ON,N0G 2V0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.122931799999996,-81.1528703
+2732,2732,Brockville General Hospital — Elmgrove Site,1 Main Street,Brockville,ON,K6V 5W7,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,44.5833,-75.6833
+2729,2729,Brockville General Hospital,75 charles st,Brockville,ON,K6V 1S8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.597394,-75.681314
+2728,2728,BROCKVILLE GENERAL - ST. VINCENT DE PAUL,42 garden street,Brockville,ON,K6V 2C3,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,44.59203591,-75.68319296
+4036,4036,Joseph Brant Memorial Hospital,1230 north shore blvd,Burlington,ON,L8S 1W7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.31715,-79.80261999999999
+2766,2766,Cambridge Memorial Hospital,700 coronation blvd,Cambridge,ON,N1R 3G2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.378516999999995,-80.32855
+2885,2885,Carleton Place and District Memorial Hospital,211 lake ave e,Carleton Place,ON,K7C 1J4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.140984,-76.13668100000001
+3967,3967,Casselman Satellite Centre,710 rue principale,Casselman,ON,K0A 1M0,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,45.31256166,-75.08610963
+3948,3948,Huron Perth Healthcare Alliance - Clinton Public Hospital,98 shipley st,Central Huron,ON,N0M 1L0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.6218473,-81.54223409999999
+4265,4265,Manitoulin Health Centre - Mindemoya,2120 highway 551,Central Manitoulin,ON,P0P 1S0,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,45.73795429999999,-82.16749018
+3719,3719,Groves Memorial Community Hospital,235 union st e,Centre Wellington,ON,N1M 1W3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.7053256,-80.3730598
+3123,3123,Chatham-Kent Health Alliance,80 grand ave w,Chatham-Kent,ON,N7M 5L9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,42.405071,-82.193665
+3126,3126,Chatham-Kent Health Alliance - Sydenham District Hospital Campus,325 margaret ave,Chatham-Kent,ON,N8A 2A7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,42.598468,-82.366871
+4118,4118,Lakeridge Health - Bowmanville,47 liberty st s,Clarington,ON,L1C 2N4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.909145,-78.6791354
+4601,4601,Northumberland Hills Hospital,1000 depalma dr,Cobourg,ON,K9A 2W6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.977748,-78.198437
+4108,4108,Lady Minto Hospital,241 8 st,Cochrane,ON,P0L 1C0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.070778999999995,-81.02153100000001
+4007,4007,James Bay General Hospital - Fort Albany,1 general delivery,"Cochrane, Unorganized, North Part",ON,P0L 1H0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.20669,-81.6849
+5990,5990,Weeneebayko General Hospital,19 hospital dr,"Cochrane, Unorganized, North Part",ON,P0L 1W0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.24996420000001,-80.6162644
+3212,3212,Collingwood General and Marine Hospital,459 hume st,Collingwood,ON,L9Y 1W9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.499502,-80.203407
+3914,3914,Hotel Dieu Hospital of Cornwall,14 york st,Cornwall,ON,K6J 5T2,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,45.014927,-74.732434
+3260,3260,Cornwall Community Hospital - Mcconnell Ave.,840 mcconnell ave,Cornwall,ON,K6H 5S5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.029921,-74.718312
+3356,3356,Deep River and District Hospital,117 banting dr,Deep River,ON,K0J 1P0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.0908667,-77.4750037
+4755,4755,Perth and Smiths Falls District Hospital,60 cornelia st w,Drummond/North Elmsley,ON,K7A 2H9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.906447,-76.13975400000001
+3397,3397,Dryden Regional Health Centre,58 goodall st,Dryden,ON,P8N 2Z6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.76956,-92.83864100000001
+3737,3737,Haliburton Highlands Health Services - Haliburton Hospital,7199 gelert rd,Dysart et al,ON,K0M 1S0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.0382326,-78.5294162
+5072,5072,Royal Ottawa Health Care Group - Brockville Mental Health Centre,1804 highway 2 e,Elizabethtown-Kitley,ON,K6V 5W7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.602034,-75.66444
+5422,5422,St. Joseph's General Hospital - Elliot Lake,70 spine rd,Elliot Lake,ON,P5A 1X2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.384833,-82.660924
+3457,3457,Emo Health Centre,260 front street,Emo,ON,P0W 1E0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.631491,-93.842073
+3464,3464,Englehart and District Hospital Inc.,61 5 st,Englehart,ON,P0J 1H0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.823199,-79.879574
+3474,3474,Espanola General Hospital,825 mckinnon dr,Espanola,ON,P5E 1R4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.248452,-81.78083199999999
+4479,4479,Niagara Health System - Douglas Memorial Hospital,230 bertie st,Fort Erie,ON,L2A 1Z2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,42.9124531,-78.9241185
+4160,4160,Laverendrye General Hospital,110 victoria ave,Fort Frances,ON,P9A 2B7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.6060113,-93.3925426
+2444,2444,Alexandra Marine and General Hospital,120 napier street,Goderich,ON,N7A 1W5,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,43.75029339,-81.70601993
+2445,2445,Alexandra Marine and General Hospital of Goderich,274 huron road,Goderich,ON,N7A 3A2,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,43.73584389,-81.69832412
+4179,4179,Lennox and Addington County General Hospital,8 richmond park dr,Greater Napanee,ON,K7R 2Z4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.240025,-76.96702900000001
+3823,3823,Health Sciences North - Ramsey Lake Health Centre,41 ramsey lake rd,Greater Sudbury / Grand Sudbury,ON,P3E 5J1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.4679347,-80.99628359999998
+3824,3824,North Bay Regional Health Centre - Kirkwood,680 kirkwood dr,Greater Sudbury / Grand Sudbury,ON,P3E 1X3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.4918343,-80.99217809999999
+5421,5421,St. Joseph’s Health Centre of Sudbury,1140 south bay road,Greater Sudbury / Grand Sudbury,ON,P3E 0B6,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,46.46719898,-80.96760137
+3627,3627,Geraldton District Hospital,500 hogarth st w,Greenstone,ON,P0T 1M0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.7226939,-86.9547123
+3700,3700,Grey Bruce Health Services - Markdale,55 isla st,Grey Highlands,ON,N0C 1H0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.3181695,-80.6501723
+6017,6017,West Lincoln Memorial Hospital,169 main st e,Grimsby,ON,L3M 1P3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.188256,-79.54190600000001
+3880,3880,Homewood Health Centre,150 delhi st,Guelph,ON,N1E 6K9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.557379100000006,-80.25674980000001
+3723,3723,Guelph General Hospital,115 delhi st,Guelph,ON,N1E 4J4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.5563618,-80.2535473
+6015,6015,West Haldimand General Hospital,75 parkview rd,Haldimand County,ON,N0A 1H0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,42.9587679,-80.0447807
+3730,3730,Haldimand War Memorial Hospital,400 broad street w,Haldimand County,ON,N1A 2P7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,42.904968,-79.6249358
+3615,3615,Georgetown Hospital,1 princess anne dr,Halton Hills,ON,L7G 2B8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.644797,-79.933322
+3762,3762,Hamilton Health Sciences - Mcmaster,1200 main st w,Hamilton,ON,L8N 3Z5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.2530003,-79.8605236
+3772,3772,Hamilton Health Sciences - Ucc,690 main street w,Hamilton,ON,L8S 1A4,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,43.26011899,-79.89768341
+5431,5431,St. Joseph's Healthcare - Charlton Campus,50 charlton ave e,Hamilton,ON,L8N 4A6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.240445,-79.884108
+5432,5432,St. Joseph's Healthcare - West 5th Campus,100 west 5 st,Hamilton,ON,L8N 3K7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.240445,-79.884108
+5433,5433,St. Joseph's Healthcare Hamilton,100 james street s,Hamilton,ON,L8P 2Z2,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,43.25397419,-79.8705761
+5435,5435,St. Joseph's Healthcare Hamilton - King Campus,2757 king street e,Hamilton,ON,L8G 5E4,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,43.22058869,-79.77488487
+3771,3771,Hamilton Health Sciences - St. Peter's Hospital,88 maplewood avenue,Hamilton,ON,L8M 1W9,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,43.24514479,-79.83712249
+3766,3766,Hamilton Health Sciences - Hamilton General Hospital,237 barton st e,Hamilton,ON,L8L 2X2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.2617528,-79.8543243
+3768,3768,Hamilton Health Sciences - Juravinski Hospital,711 concession st,Hamilton,ON,L8V 1C3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.2399446,-79.8464032
+3791,3791,Hanover and District Hospital,90 7 ave,Hanover,ON,N4N 1N1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.141467999999996,-81.02933399999999
+3964,3964,HôPITAL GENERAL DE HAWKESBURY AND DISTRICT GENERAL HOSPITAL INC.,1111 rue ghislain,Hawkesbury,ON,K6A 3G5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.599497899999996,-74.607557
+4612,4612,Notre-Dame Hospital - Hearst,1405 edward st,Hearst,ON,P0L 1N0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.685733899999995,-83.67905
+3888,3888,Hornepayne Community Hospital,278 front st,Hornepayne,ON,P0M 1Z0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.212827000000004,-84.774059
+3949,3949,Huron Perth Healthcare Alliance - Seaforth Community Hospital,24 centennial dr,Huron East,ON,N0K 1W0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.5511473,-81.3851219
+2443,2443,Alexandra Hospital,29 noxon st,Ingersoll,ON,N5C 3V6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.032068,-80.87545899999999
+2539,2539,Anson General Hospital,58 anson dr,Iroquois Falls,ON,P0K 1E0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.7690269,-80.6860401
+5189,5189,Sensenbrenner Hospital,101 progress cres,Kapuskasing,ON,P5N 3H5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.42561,-82.427581
+5064,5064,Ross Memorial Hospital,10 angeline street n,Kawartha Lakes,ON,K9V 4M8,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,44.3536194,-78.7522193
+4109,4109,Lake of the Woods District Hospital,21 sylvan st w,Kenora,ON,P9N 3W7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.7671099,-94.49941070000001
+5311,5311,South Bruce Grey Health Centre - Kincardine,43 queen st,Kincardine,ON,N2Z 2Z2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.189023799999994,-81.62547540000001
+4836,4836,Providence Care - Mental Health Services,752 king st w,Kingston,ON,K7L 4X3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.2160089,-76.52865609999999
+4077,4077,Kingston General Hospital,76 stuart st,Kingston,ON,K7L 2V7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.224284000000004,-76.4927891
+3913,3913,Hotel Dieu Hospital - Religious Hospitallers of Saint Joseph of the Hotel Dieu of Kingston,166 brock st,Kingston,ON,K7L 5G2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.2309092,-76.48603179999999
+4655,4655,Ongwanada Hospital,191 portsmouth ave,Kingston,ON,K7M 8A6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.2276751,-76.52386700000001
+4091,4091,Kirkland and District Hospital,145 government rd e,Kirkland Lake,ON,P2N 3P4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.15345,-80.0147
+5460,5460,St. Mary's General Hospital,911 queens blvd,Kitchener,ON,N2M 1B2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.438288299999996,-80.5007975
+3672,3672,Grand River Hospital,835 king st w,Kitchener,ON,N2G 1G3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.4557709,-80.51168009999999
+4170,4170,Leamington District Memorial Hospital,194 talbot st w,Leamington,ON,N8H 1N9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,42.048309,-82.614776
+4205,4205,London Health Sciences Centre - Victoria,800 commissioners rd e,London,ON,N6A 5W9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,42.960029,-81.22543
+5424,5424,St. Joseph's Health Care London - Parkwood,550 wellington road,London,ON,N6C 0A7,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,42.9554185,-81.22527170000001
+3141,3141,Child and Parent Resource Institute,600 sanatorium rd,London,ON,N6H 3W7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,42.9673109,-81.3337064
+4206,4206,London Health Sciences Centre - South Street Site,375 south st,London,ON,N6A 4G5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,42.9868096,-81.2511264
+4208,4208,London Health Sciences Centre - University Campus,339 windermere rd,London,ON,N6A 5A5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.012453,-81.27454200000001
+4917,4917,Regional Mental Health Care - London,850 highbury ave,London,ON,N6A 4H1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.00394179999999,-81.20523940000001
+5438,5438,St. Joseph's Hospital - London,268 grosvenor st,London,ON,N6A 4V2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.000280100000005,-81.25334699999999
+5407,5407,St. Francis Memorial Hospital,7 st francis memorial dr,Madawaska Valley,ON,K0J 1B0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.482208,-77.69469699999999
+4269,4269,Manitouwadge General Hospital,1 health care cres,Manitouwadge,ON,P0T 2C0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.127201,-85.82422640000001
+6064,6064,Wilson Memorial General Hospital,26 peninsula rd,Marathon,ON,P0T 2E0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.718523,-86.3754
+5236,5236,Shouldice Hospital Ltd.,7750 bayview ave,Markham,ON,L3T 4A3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.8206976,-79.40423840000001
+4320,4320,Markham Stouffville Hospital,381 church st,Markham,ON,L3P 7P3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.883994,-79.231971
+3701,3701,Grey Bruce Health Services - Meaford,229 nelson st w,Meaford,ON,N4L 1A3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.6057164,-80.599874
+3954,3954,Huronia District Hospital,1112 st andrews dr,Midland,ON,L4R 4P4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.742184,-79.913566
+3751,3751,Halton Healthcare Services Corporation - Milton Site,7030 derry rd e,Milton,ON,L9T 2X5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.497184000000004,-79.868466
+3738,3738,Haliburton Highlands Health Services - Minden,6 mcpherson street,Minden Hills,ON,K0M 2K0,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,44.9250073,-78.7316832
+5996,5996,Wellington Health Care Alliance - Palmerston and District Hospital,500 whites rd,Minto,ON,N0G 2P0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.839040999999995,-80.842839
+3327,3327,Credit Valley Hospital,2200 eglinton ave w,Mississauga,ON,L5M 2N1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.559349600000004,-79.7032464
+5794,5794,Trillium Health Partners — Mississauga Hospital,100 queensway w,Mississauga,ON,L5B 1B8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.571585999999996,-79.607685
+2462,2462,Almonte General Hospital,75 spring st,Mississippi Mills,ON,K0A 1A0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.229134,-76.189495
+4040,4040,Kashechewan First Nation,27 st andrews school rd,Moosonee,ON,P0L 1S0,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,51.29000711,-80.61581067
+5985,5985,Weeneebayko Area Health Authority - Moosonee,5 percys way,Moosonee,ON,P0L 1Y0,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,51.2727427,-80.64682568
+5477,5477,Stevenson Memorial Hospital,200 fletcher cres,New Tecumseth,ON,L9R 1W7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.155747999999996,-79.875121
+3581,3581,Four Counties Health Services Corporation,1 rr 3,Newbury,ON,N0L 1Z0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,42.683425,-81.78922299999999
+5369,5369,Southlake Regional Health Centre,596 davis dr,Newmarket,ON,L3Y 2P9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.0602265,-79.4522927
+4481,4481,Niagara Health System - Greater Niagara General Site,5546 portage rd,Niagara Falls,ON,L2E 6X2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.094227000000004,-79.089464
+4483,4483,Niagara Health System - Niagara-on-the-Lake Hospital Site,176 wellington st,Niagara-on-the-Lake,ON,L0S 1J0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.253223299999995,-79.06611690000001
+4503,4503,Nipigon District Memorial Hospital,125 hogan rd,Nipigon,ON,P0T 2J0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.0155755,-88.2759054
+4516,4516,Norfolk General Hospital,365 west st,Norfolk County,ON,N3Y 1T7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,42.8354184,-80.3145314
+4523,4523,North Bay Regional Health Centre,50 college dr,North Bay,ON,P1B 0A4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.335613,-79.498369
+4518,4518,North Bay General Hospital - Mclaren Site,720 mclaren st,North Bay,ON,P1B 5A4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.319699799999995,-79.4661452
+6067,6067,Winchester District Memorial Hospital,566 louise st,North Dundas,ON,K0C 2K0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.088615600000004,-75.3522595
+3965,3965,HôPITAL GLENGARRY MEMORIAL HOSPITAL,20260 county rd 43,North Glengarry,ON,K0C 1A0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.305873,-74.644064
+4049,4049,Kemptville District Hospital,2675 concession rd,North Grenville,ON,K0G 1J0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.0099179,-75.64134820000001
+4197,4197,Listowel Wingham Hospitals Alliance - Wingham and District Hospital,270 carling terrace,North Huron,ON,N0G 2W0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.8848,-81.306698
+4196,4196,Listowel Wingham Hospitals Alliance - Listowel Memorial Hospital,255 elizabeth st e,North Perth,ON,N4W 2P5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.7333597,-80.94894090000001
+4264,4264,Manitoulin Health Centre - Little Current Site,11 meredith st w,Northeastern Manitoulin and the Islands,ON,P0P 1K0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.978547,-81.92662
+3699,3699,Grey Bruce Health Services - Lion's Head,22 moore st,Northern Bruce Peninsula,ON,N0H 1W0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.9860183,-81.2489387
+3749,3749,Halton Healthcare Services - Oakville,3001 hospital gate,Oakville,ON,L6M 0L8,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,43.44892573,-79.76659729
+3818,3818,Headwaters Health Care Centre - Headwaters Orangeville,100 rollings hills dr,Orangeville,ON,L9W 4X9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.920509,-80.072243
+4673,4673,Orillia Soldiers' Memorial Hospital,170 colborne st w,Orillia,ON,L3V 2Z3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.605089,-79.425605
+4880,4880,r. s. Mclaughlin Durham Regional Cancer Centre,1 hospital ct,Oshawa,ON,L1G 2B9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.906608399999996,-78.8703454
+4119,4119,Lakeridge Health - Oshawa,1 hospital crt,Oshawa,ON,L1G 2B9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.905564,-78.869384
+5660,5660,the Ottawa Hospital - Civic Campus,1053 carling ave,Ottawa,ON,K1Y 4E9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.3925787,-75.7214357
+4860,4860,Queensway Carleton Hospital,3045 baseline rd,Ottawa,ON,K2H 8P4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.335026899999995,-75.8069842
+3971,3971,HôPITAL éLISABETH BRUYИRE HOSPITAL,43 bruyиre st,Ottawa,ON,K1N 5C8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.431931,-75.6970115
+3968,3968,HôPITAL MONTFORT HOSPITAL,713 ch montréal rd,Ottawa,ON,K1K 0T2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.4459814,-75.63923840000001
+5073,5073,Royal Ottawa Mental Health Centre,1145 carling ave,Ottawa,ON,K1Z 7K4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.389005600000004,-75.7301564
+5658,5658,the Ottawa Hospital - Riverside Campus,1967 riverside dr,Ottawa,ON,K1H 7W9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.3963547,-75.66885570000001
+5657,5657,THE OTTAWA HOSPITAL/L'HôPITAL D'OTTAWA - GENERAL CAMPUS,501 smyth rd,Ottawa,ON,K1H 8L6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.40172020000001,-75.6469402
+5659,5659,THE OTTAWA HOSPITAL/L'HôPITAL D'OTTAWA - THE REHABILITATION CENTRE,505 smyth rd,Ottawa,ON,K1H 8M2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.403154799999996,-75.6484435
+5696,5696,the University of Ottawa Heart Institute,40 ruskin st,Ottawa,ON,K1Y 4W7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.394161100000005,-75.7206815
+3143,3143,Children's Hospital of Eastern Ontario,401 smyth road,Ottawa,ON,K1H 8L1,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,45.40076679999999,-75.652152
+3698,3698,Grey Bruce Health Services (Corporate Headquarters) - Owen Sound,1800 8 st e,Owen Sound,ON,N4K 6M9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.569716,-80.910861
+6027,6027,West Parry Sound Health Centre,6 albert st,Parry Sound,ON,P2A 3A4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.340742999999996,-80.016767
+5991,5991,Weenusk First Nation,30 main street,Peawanuck,ON,P0L 2H0,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,54.99390405,-85.42774793
+4738,4738,Pembroke Regional Hospital,705 mackay st,Pembroke,ON,K8A 1G8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.8141184,-77.1067995
+5974,5974,Waypoint Centre for Mental Health Care,500 church st,Penetanguishene,ON,L9M 1G3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.800908500000006,-79.92947690000001
+4756,4756,Perth and Smiths Falls District Hospital - Perth,33 drummond street w,Perth,ON,K7H 2K1,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,44.906182,-76.253006
+4767,4767,Peterborough Regional Health Centre,1 hospital dr,Peterborough,ON,K9J 7C6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.3002405,-78.3473413
+2678,2678,Bluewater Health - Petrolia (Charlotte Eleanor Englehart Hospital),450 blanche street,Petrolia,ON,N0N 1R0,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,42.87826,-82.147367
+4485,4485,Niagara Health System - Port Colborne General Site,260 sugarloaf st,Port Colborne,ON,L3K 2N7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,42.879704100000005,-79.2586964
+4877,4877,Quinte Health Care - Prince Edward County Memorial Hospital,403 main st e,Prince Edward County,ON,K0K 2T0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.0158672,-77.1375427
+4878,4878,Quinte Healthcare Corporation - Trenton Memorial Hospital,242 king st,Quinte West,ON,K8V 5S6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.0998993,-77.58824270000001
+4892,4892,Red Lake Margaret Cochenour Memorial Hospital,51 hwy 105,Red Lake,ON,P0V 2M0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.0132617,-93.8224349
+4947,4947,Renfrew Victoria Hospital,499 raglan st n,Renfrew,ON,K7V 1P6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.4826219,-76.69672249999999
+4242,4242,Mackenzie Richmond Hill Hospital,10 trench st,Richmond Hill,ON,L4C 4Z3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.8705482,-79.4503859
+2677,2677,Bluewater Health,89 norman st,Sarnia,ON,N7T 6S3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,42.9773664,-82.39054759999999
+3703,3703,Grey Bruce Health Services - Southampton,340 high st,Saugeen Shores,ON,N0H 2L0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.4933843,-81.36606590000001
+5123,5123,Sault Area Hospital,750 great northern rd,Sault Ste. Marie,ON,P6B 0A8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.5488136,-84.3111593
+2447,2447,Algoma Family Services,205 mcnabb street,Sault Ste. Marie,ON,P6B 1Y3,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,46.5215406,-84.31783225
+4120,4120,Lakeridge Health - Port Perry,451 paxton st,Scugog,ON,L9L 1A8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.104888,-78.954839
+5289,5289,Sioux Lookout Meno-Ya-Win Health Centre - Seventh Avenue Site,74 7 ave,Sioux Lookout,ON,P8T 1C2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.1024549,-91.9241884
+5284,5284,Sioux Lookout Meno Ya Win Health Centre,1 meno ya win way,Sioux Lookout,ON,P8T 1B4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.1045094,-91.9268373
+5299,5299,Smooth Rock Falls Hospital,107 kelly rd,Smooth Rock Falls,ON,P0L 2B0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.272285,-81.610265
+3704,3704,Grey Bruce Health Services - Wiarton,369 mary st,South Bruce Peninsula,ON,N0H 2T0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.736996000000005,-81.138661
+5326,5326,South Huron Hospital,24 huron st w,South Huron,ON,N0M 1S2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.343441299999995,-81.4808245
+3915,3915,Hotel Dieu Shaver Health & Rehabilitation Centre,541 glenridge ave,St. Catharines,ON,L2T 4C2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.122155600000006,-79.24289549999999
+4487,4487,Niagara Health System - St. Catharines General Site,142 queenston st,St. Catharines,ON,L2R 7C6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.153663,-79.2785
+4486,4486,Niagara Health System - St. Catharines,1200 fourth avenue,St. Catharines,ON,L2S 0A9,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,43.153521999999995,-79.278683
+4560,4560,Matthews Memorial Hospital,1180 richards street,St. Joseph,ON,P0R 1J0,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,46.29326568,-84.03556234
+3950,3950,Huron Perth Healthcare Alliance - St. Marys Memorial Hospital,267 queen st w,St. Marys,ON,N4X 1B6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.258998600000005,-81.15189840000001
+5474,5474,St. Thomas - Elgin General Hospital,189 elm st,St. Thomas,ON,N5R 5C4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,42.7628781,-81.18078270000001
+3947,3947,Stratford General Hospital,46 general hospital dr,Stratford,ON,N5A 2Y6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.368168,-80.99548100000001
+5493,5493,Strathroy Middlesex General Hospital,395 carrie st,Strathroy-Caradoc,ON,N7G 3J4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,42.9609382,-81.63469640000001
+5558,5558,Temiskaming Hospital,421 shepheardson rd,Temiskaming Shores,ON,P0J 1P0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.495162,-79.69315300000001
+4544,4544,North of Superior Healthcare Group - Mccausland Hospital,20 cartier drive,Terrace Bay,ON,P0T 2W0,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,48.78045446,-87.10460125
+5732,5732,Thessalon Hospital,135 dawson st,Thessalon,ON,P0R 1L0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.2630206,-83.56246259999999
+5419,5419,St. Joseph's Care Group - Lakehead Psychiatric Hospital,580 algoma st n,Thunder Bay,ON,P7B 5G4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.438058000000005,-89.222677
+5743,5743,Thunder Bay Regional Health Sciences Centre,980 oliver rd,Thunder Bay,ON,P7B 6V4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.4247133,-89.269097
+5748,5748,Tillsonburg District Memorial Hospital,167 rolph st,Tillsonburg,ON,N4G 3Y9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,42.863122,-80.734751
+5755,5755,TIMMINS AND DISTRICT HOSPITAL/L'HôPITAL DE TIMMINS ET DU DISTRICT,700 ross ave e,Timmins,ON,P4N 8P2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.487586900000004,-81.3135915
+2954,2954,Centre for Addiction and Mental Health - College St. Site,250 college st,Toronto,ON,M5T 1R8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.658404600000004,-79.39896759999999
+3909,3909,Hospital for Sick Children,555 university avenue,Toronto,ON,M5G 1X8,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,43.657374,-79.387437
+3873,3873,Holland Bloorview Kids Rehabilitation Hospital,150 kilgour rd,Toronto,ON,M4G 1R8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.71805689999999,-79.3741804
+2957,2957,Centre for Addiction and Mental Health - Russell St. Site,33 russell st,Toronto,ON,M5S 2S1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.6597795,-79.39943149999999
+2953,2953,Centre for Addiction and Mental Health - Brentcliffe Rd. Site,175 brentcliffe rd,Toronto,ON,M4G 3Z1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.7195763,-79.3662235
+2951,2951,Centre for Addiction and Mental Health,1001 queen st w,Toronto,ON,M6J 1H4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.6435848,-79.41854079999999
+2899,2899,Casey House Hospice,9 huntley street,Toronto,ON,M4Y 1P2,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,43.668867,-79.37892
+3935,3935,Humber River Regional Hospital - Church St. Site,200 church st,Toronto,ON,M9N 1N8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.7086562,-79.509922
+4435,4435,Mount Sinai Hospital,600 university ave,Toronto,ON,M5G 1X5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.6575099,-79.3902938
+3937,3937,Humber River Regional Hospital - Keele Street Site,2175 keele st,Toronto,ON,M6M 3Z4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.6974651,-79.47385140000002
+4584,4584,North York General Hospital - Branson Division,555 finch ave w,Toronto,ON,M2R 1N5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.7724535,-79.44813609999999
+4586,4586,North York General Hospital - General Division,4001 leslie st,Toronto,ON,M2K 1E1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.76954979999999,-79.36320649999999
+4629,4629,Sunnybrook Health Sciences Centre - Bayview Campus,2075 bayview ave,Toronto,ON,M4N 3M5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.720661,-79.378057
+6055,6055,William Osler Health System - Etobicoke,101 humber college boulevard,Toronto,ON,M9V 1R8,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,43.72929439999999,-79.5984363
+5068,5068,Scarborough Health Network - Centenary Hospital,2867 ellesmere rd,Toronto,ON,M1E 4B9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.7807594,-79.20502259999999
+3929,3929,Humber River Hospital -York Finch,2111 finch avenue w,Toronto,ON,M3N 1N1,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,43.754503,-79.526393
+3926,3926,Humber River Hospital,1235 wilson avenue,Toronto,ON,M3M 0B2,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,43.72377199,-79.48937432
+3383,3383,Don Mills Surgical Unit,20 wynford drive,Toronto,ON,M3C 1J4,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,43.7236162,-79.33617748
+5413,5413,St. John's Rehabilitation Hospital,285 cummer ave,Toronto,ON,M2M 2G1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.7875454,-79.40405679999999
+5429,5429,St. Joseph's Health Centre - Toronto,30 the queensway,Toronto,ON,M6R 1B5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.640631,-79.450314
+5466,5466,St. Michael's Hospital - Bond St. Site,30 bond st,Toronto,ON,M5B 1W8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.65391470000001,-79.37767059999999
+5513,5513,Sunnybrook Health Sciences Centre,43 wellesley st e,Toronto,ON,M4Y 1H1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.6650195,-79.38233609999999
+5515,5515,Sunnybrook Health Sciences Centre - Women's College Hospital,76 grenville st,Toronto,ON,M5S 1B2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.66171,-79.387745
+5686,5686,the Scarborough Hospital - General Campus,3050 lawrence ave e,Toronto,ON,M1P 2V5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.7557343,-79.2468315
+5687,5687,the Scarborough Hospital - Grace Campus,3030 birchmount rd,Toronto,ON,M1W 3W3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.801828799999996,-79.3087567
+5767,5767,Toronto East General Hospital,825 coxwell ave,Toronto,ON,M4C 3E7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.6897586,-79.3259225
+5774,5774,Toronto Rehabilitation Institute - e. w. Bickle Centre,130 dunn ave,Toronto,ON,M6K 2R7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.634803399999996,-79.43270940000001
+5775,5775,Toronto Rehabilitation Institute - Hillcrest Centre,47 austin terrace,Toronto,ON,M5R 1Y8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.677546500000005,-79.4155915
+5776,5776,Toronto Rehabilitation Institute - Lyndhurst Centre,520 sutherland dr,Toronto,ON,M4G 3V9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.718489399999996,-79.36971159999999
+5777,5777,Toronto Rehabilitation Institute - Rumsey Centre,345 347 rumsey rd,Toronto,ON,M4G 1R7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.718728600000006,-79.3715512
+5778,5778,Toronto Rehabilitation Institute - University Centre,550 university ave,Toronto,ON,M5G 2A2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.656710700000005,-79.3899079
+5797,5797,Trillium Health Partners - Queensway Health Centre,150 sherway dr,Toronto,ON,M9C 1A5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.609266999999996,-79.56257
+5849,5849,University Health Network - Princess Margaret Hospital,610 university ave,Toronto,ON,M5G 2M9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.658074299999996,-79.3905974
+5851,5851,University Health Network - Toronto General Hospital,200 elizabeth st,Toronto,ON,M5G 2C4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.659111100000004,-79.38820940000001
+5853,5853,University Health Network - Toronto Western Hospital,399 bathurst st,Toronto,ON,M5T 2S8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.6537025,-79.4060937
+6023,6023,West Park Healthcare Centre,82 buttonwood ave,Toronto,ON,M6M 2J5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.690044,-79.50818129999999
+4239,4239,Mackenzie Health — Reactivation Care Centre Finch,1 Main Street,Toronto,ON,M3N 1N1,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,43.7417,-79.3733
+4324,4324,Markham Stouffville Hospital — Reactivation Care Centre Finch,1 Main Street,Toronto,ON,M3N 1N1,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,43.7417,-79.3733
+4588,4588,North York General Hospital — Reactivation Care Centre Finch,1 Main Street,Toronto,ON,M3N 1N1,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,43.7417,-79.3733
+5516,5516,Sunnybrook Health Sciences Centre — Reactivation Care Centre Church,1 Main Street,Toronto,ON,M9N 1N8,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,43.7417,-79.3733
+5801,5801,Trillium Health Partners — Reactivation Care Centre Church,1 Main Street,Toronto,ON,M9N 1N8,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,43.7417,-79.3733
+5840,5840,Unity Health Toronto — Reactivation Care Centre Church,1 Main Street,Toronto,ON,M9N 1N8,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,43.7417,-79.3733
+2770,2770,Campbellford Memorial Hospital,146 oliver rd,Trent Hills,ON,K0L 1L0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.3124044,-77.78984759999999
+4322,4322,Markham Stouffville Hospital - Uxbridge Site,4 campbell dr,Uxbridge,ON,L9P 1S4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.102915,-79.12740500000001
+3277,3277,Cosmetic Surgery Hospital,4650 hwy 7,Vaughan,ON,L4L 1S7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.7833018,-79.57800300000001
+4106,4106,Lady Dunn Health Centre,10 government rd,Wawa,ON,P0S 1K0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.000868,-84.772074
+4573,4573,North Wellington Health Care - Louise Marshall Hospital,630 dublin st,Wellington North,ON,N0G 2L3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.97461989999999,-80.73751709999999
+5310,5310,South Bruce Grey Health Centre - Durham,320 college st,West Grey,ON,N0G 1R0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,44.179865899999996,-80.828585
+6020,6020,the West Nipissing General Hospital,725 coursol rd,West Nipissing / Nipissing Ouest,ON,P2B 2Y6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.3722814,-79.91620309999999
+4667,4667,Ontario Shores Centre for Mental Health Sciences,700 gordon st,Whitby,ON,L1N 5S9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.849046,-78.947981
+4121,4121,Lakeridge Health - Whitby,300 gordon st,Whitby,ON,L1N 5T2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.856003,-78.944334
+6078,6078,Windsor Regional Hospital - Western Campus,1453 prince rd,Windsor,ON,N9C 3Z4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,42.285649299999996,-83.0634309
+6074,6074,Windsor Regional Hospital - Mary Vale,3640 wells street,Windsor,ON,N9C 1T9,,1-800-622-6232,Hospitals,Province of Ontario,Yes,5,42.28925637,-83.07303322
+3974,3974,Windsor Regional Hospital - Ouellette Campus,1030 ouellette ave,Windsor,ON,N9A 1E1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,42.308636,-83.031988
+6076,6076,Windsor Regional Hospital - Metropolitan Campus,1995 lens ave,Windsor,ON,N8W 1L9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,42.30040579999999,-82.99723
+6102,6102,Woodstock General Hospital,310 juliana dr,Woodstock,ON,N4V 0A4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,43.106451,-80.7537011
+S160,S160,Western Hospital,148 poplar st,Alberton,PE,C0B 1B0,,1-800-622-6232,Hospitals,Province of Prince Edward Island,Yes,5,46.81107967,-64.06602787
+6168,6168,Western Hospital Corporation,1 Main Street,Alberton,PE,C0B 1B0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.810829299999995,-64.0663925
+S193,S193,Hillsborough Psychiatric Hospital,115 deacon grove ln,Charlottetown,PE,C1A 7N5,,1-800-622-6232,Hospitals,Province of Prince Edward Island,Yes,5,46.25637929,-63.09320812
+S148,S148,Queen Elizabeth Hospital,60 riverside dr,Charlottetown,PE,C1A 8T5,,1-800-622-6232,Hospitals,Province of Prince Edward Island,Yes,5,46.25574946,-63.10234758
+6153,6153,Pei Cancer Treatment Centre,60 riverside drive,Charlottetown,PE,C1A 8T5,,1-800-622-6232,Hospitals,Province of Prince Edward Island,Yes,5,46.255358,-63.100221999999995
+S171,S171,Kings County Memorial Hospital,409 macintyre av,Montague,PE,C0A 1R0,,1-800-622-6232,Hospitals,Province of Prince Edward Island,Yes,5,46.16933984,-62.655768099999996
+S182,S182,Community Hospital o'Leary,14 mackinnon dr,O'Leary,PE,C0B 1V0,,1-800-622-6232,Hospitals,Province of Prince Edward Island,Yes,5,46.70626964,-64.23812801
+S168,S168,Souris Hospital,17 knights av,Souris,PE,C0A 2B0,,1-800-622-6232,Hospitals,Province of Prince Edward Island,Yes,5,46.35213939,-62.24512752
+S149,S149,Prince County Hospital,65 roy boates av,Summerside,PE,C1N 2A9,,1-800-622-6232,Hospitals,Province of Prince Edward Island,Yes,5,46.41742951,-63.77304773
+S1180,S1180,HôPITAL D'ALMA,300  boulevard champlain sud,Alma,QC,G8B 5W3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.55062,-71.665075
+7014,7014,CIUSSS DU SAGUENAY–LAC-ST-JEAN — HôPITAL D’ALMA,1 Main Street,Alma,QC,G8B 5W3,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.5500,-71.6500
+7564,7564,CSSS DE LAC-SAINT-JEAN-EST,300 boul champlain sud,Alma,QC,G8B 5W3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.548021000000006,-71.664643
+6879,6879,CISSS DE L'ABITIBI-TéMISCAMINGUE — HôPITAL D’AMOS,1 Main Street,Amos,QC,J9T 2S2,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.5667,-78.1167
+S1688,S1688,HôPITAL D'AMOS,622  4e rue ouest,Amos,QC,J9T 2S2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.574532,-78.12545899999999
+7568,7568,CSSS LES ESKERS DE L'ABITIBI,622 4e rue ouest,Amos,QC,J9T 2S2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.57631,-78.125164
+S582,S582,HôPITAL D'AMQUI,135  avenue gaлtan-archambault,Amqui,QC,G5J 2K5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.468477,-67.419325
+6815,6815,CH DAMQUI,135 avenue gaétan-archambault,Amqui,QC,G5J 2K5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.468969,-67.420262
+6942,6942,CISSS DU BAS-SAINT-LAURENT — HôPITAL D’AMQUI,1 Main Street,Amqui,QC,G5J 2K5,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.4667,-67.4333
+S1721,S1721,"HôPITAL, CLSC ET CENTRE D'HéBERGEMENT D'ASBESTOS",475  3e avenue,Asbestos,QC,J1T 1X6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.771765,-71.92608100000001
+S935,S935,SNT - UNITé LE CHВTEAU А BAIE-COMEAU,1401  boulevard jolliet,Baie-Comeau,QC,G5C 1P9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,49.186578999999995,-68.268136
+S591,S591,CLSC ET HôPITAL LE ROYER,635  boulevard jolliet,Baie-Comeau,QC,G5C 1P1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,49.190176,-68.252525
+S910,S910,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE MANICOUAGAN ET CLSC LIONEL-CHAREST,340  rue clément-lavoie,Baie-Comeau,QC,G4Z 3B8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,49.20892,-68.23791700000001
+S1496,S1496,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE BAIE-SAINT-PAUL,88  rue racine,Baie-Saint-Paul,QC,G3Z 0K1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,47.439772999999995,-70.512063
+S236,S236,HôPITAL DE BAIE-SAINT-PAUL,74 rue ambroise-farfard,Baie-Saint-Paul,QC,G3Z 2J6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.4398246,-70.5120899
+S273,S273,HôPITAL DE SAINTE-ANNE-DE-BEAUPRé,11000  rue des montagnards,Beaupré,QC,G0A 1E0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,47.04274,-70.900195
+S917,S917,CENTRE DE SERVICES SNT TEMPORAIRE DAYS INN BLAINVILLE,1136  boulevard curé-labelle,Blainville,QC,J7C 3J4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.679937,-73.888899
+S995,S995,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE LA BASSE-CôTE-NORD,1070  boulevard docteur-camille-marcoux,Blanc-Sablon,QC,G0G 1W0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,51.411577,-57.203155
+S902,S902,CENTRE DE SERVICES AMBULATOIRES DE BOISBRIAND,4800  rue ambroise-lafortune,Boisbriand,QC,J7H 1S6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.6416,-73.868094
+S912,S912,HôPITAL CHARLES-LEMOYNE - CONSULTATIONS EXTERNES,9090  rue leduc,Brossard,QC,J4Y 0E9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.446466,-73.439355
+6827,6827,CH DU CAP-ST-IGNACE,146 rue du manoir est,Cap-Saint-Ignace,QC,G0R 1H0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.0399607,-70.4559785
+S640,S640,HôPITAL DE CHANDLER,451  rue monseigneur-ross est,Chandler,QC,G0C 1K0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.354822999999996,-64.67168000000001
+S1572,S1572,CENTRE DE SANTE RENE-RICARD,32  3e avenue,Chapais,QC,G0W 1H0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,49.780757,-74.854395
+S665,S665,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE ET DE RéADAPTATION EN DéPENDANCE DE CHARLEMAGNE,100  rue grenier,Charlemagne,QC,J5Z 4C6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.721115999999995,-73.48962
+S1257,S1257,CENTRE DE SANTé DE CHIBOUGAMAU,51  3e rue,Chibougamau,QC,G8P 1N1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,49.915951,-74.349183
+7556,7556,CRSSS DE LA BAIE-JAMES,312 3e rue,Chibougamau,QC,G8P 1N5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.913688,-74.356786
+S1610,S1610,HôPITAL DE CHISASIBI,21  rue maamuu,Chisasibi,QC,J0M 1E0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,53.783843999999995,-78.89154599999999
+S703,S703,CENTRE DE SERVICES AMBULATOIRES ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE JARDINS-ROUSSILLON,230  boulevard brisebois,Chвteauguay,QC,J6K 0J6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.344176000000004,-73.764139
+S335,S335,HôPITAL ANNA-LABERGE,200  boulevard brisebois,Chвteauguay,QC,J6K 4W8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.345661,-73.763446
+S1732,S1732,CENTRE DE SANTé ET DE SERVICES SOCIAUX DE LA MRC-DE-COATICOOK,138  rue jeanne-mance,Coaticook,QC,J1A 1W3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.134979,-71.812335
+S754,S754,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE LA POMMERAIE,1599  rue du sud,Cowansville,QC,J2K 2Z4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.191278000000004,-72.753468
+S651,S651,HôPITAL BROME-MISSISQUOI-PERKINS,950  rue principale,Cowansville,QC,J2K 1K3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.207084,-72.714415
+S622,S622,HôPITAL MONT SINAП,5690  boulevard cavendish,Côte-Saint-Luc,QC,H4W 1S7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.473842,-73.65734499999999
+S628,S628,HôPITAL DE DOLBEAU-MISTASSINI,2000  boulevard sacré-coeur,Dolbeau-Mistassini,QC,G8L 2R5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.885835,-72.239367
+S583,S583,CENTRE DE SERVICES AMBULATOIRES DE DRUMMONDVILLE,4534  boulevard saint-joseph,Drummondville,QC,J2A 1B5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.840984999999996,-72.43628299999999
+6986,6986,CIUSSS DE LA MAURICIE-ET-DU-CENTRE-DU-QUéBEC — HôPITAL SAINTE-CROIX,1 Main Street,Drummondville,QC,J2B 1C1,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,45.8833,-72.4833
+S1580,S1580,HôPITAL SAINTE-CROIX,570  rue heriot,Drummondville,QC,J2B 1C1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.880009,-72.477304
+S714,S714,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE DRUMMONDVILLE,555  rue berol,Drummondville,QC,J2B 0W7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.87618,-72.481981
+S936,S936,SNT - MAISON D'AIDE ET D'HéBERGEMENT DE FERMONT,4  rue holway,Fermont,QC,G0G 1J0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,52.79464,-67.09360600000001
+6893,6893,CISSS DE LA CôTE-NORD — CENTRE DE SANTé ET DE SERVICES SOCIAUX DE L’HéMATITE,1 Main Street,Fermont,QC,G0G 1J0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,52.7833,-67.0833
+S1540,S1540,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE FERMONT,1  rue aquilon,Fermont,QC,G0G 1J0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,52.796690000000005,-67.090301
+S1664,S1664,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE FORESTVILLE,2  7e rue,Forestville,QC,G0T 1E0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.737214,-69.074188
+S1710,S1710,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE FORTIERVILLE,216  rue principale,Fortierville,QC,G0S 1J0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.486357,-72.030378
+S1620,S1620,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE GASPé,205  boulevard de york ouest,Gaspé,QC,G4X 2V7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.812749,-64.49529
+S1212,S1212,HôPITAL DE GASPé,215  boulevard de york ouest,Gaspé,QC,G4X 2W2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.812942,-64.496646
+S632,S632,CENTRE D'HéBERGEMENT MGR-ROSS DE GASPé,150  rue monseigneur-ross,Gaspé,QC,G4X 2S7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.837317999999996,-64.492379
+S648,S648,HôPITAL EN SANTé MENTALE PIERRE-JANET,20  rue pharand,Gatineau,QC,J9A 1K7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.425294,-75.73993
+S1290,S1290,HôPITAL DE HULL,116  boulevard lionel-émond,Gatineau,QC,J8Y 1W7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.444873,-75.746033
+S1223,S1223,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE MOUSSETTE,73  boulevard moussette,Gatineau,QC,J8Y 5J8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.439516999999995,-75.743786
+S1245,S1245,HôPITAL DE GATINEAU,909  boulevard la vérendrye ouest,Gatineau,QC,J8P 7H2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.493296,-75.691064
+S947,S947,HôTEL QUALITY INN SUR LA RUE BELLEHUMEUR - CLIENTИLE JEUNESSE,111  rue bellehumeur,Gatineau,QC,J8T 6K5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.47686665,-75.69127358
+S293,S293,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE GATINEAU,777  boulevard de la gappe,Gatineau,QC,J8T 8R2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.483271,-75.685748
+S599,S599,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE ET CENTRE DE SERVICES AMBULATOIRES EN PéDIATRIE DE L’OUTAOUAIS,500  boulevard de l'hôpital,Gatineau,QC,J8V 2P5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.493306,-75.688671
+S605,S605,HôPITAL DE JOUR - PAVILLON MARCEL D'AMOUR,30  rue pharand,Gatineau,QC,J9A 1K7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.424847,-75.740641
+S616,S616,CENTRE DE SERVICES AMBULATOIRES CORBEIL,63  rue corbeil,Gatineau,QC,J8Y 5W8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.451014,-75.750888
+6888,6888,CISSS DE L'OUTAOUAIS — HôPITAL DE HULL,1 Main Street,Gatineau,QC,J8Y 1W7,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,45.4833,-75.6500
+7995,7995,HôPITAL DE JOUR GéRIATRIQUE,455 montée paiement,Gatineau,QC,J9T 2S2,,1-800-622-6232,Hospitals,Municipality of Gatineau,Yes,5,45.493517,-75.676739
+S942,S942,CENTRE DE SERVICES AMBULATOIRES PIERRE-JANET,20  rue laferriиre,Gatineau,QC,J8T 3C1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.473478,-75.691923
+S647,S647,HôPITAL ET CHSLD DE PAPINEAU,155  rue maclaren est,Gatineau,QC,J8L 0C2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.588572,-75.41148100000001
+S941,S941,CENTRE HOSPITALIER PIERRE-JANET,46  rue lucien brault,Gatineau,QC,J8Z 1H8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.462882,-75.749246
+7562,7562,CSSS DE LA HAUTE-YAMASKA,205 boul leclerc ouest,Granby,QC,J2G 1T7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.412502,-72.722638
+S1331,S1331,CENTRE DE SERVICES AMBULATOIRES PROVIDENCE,279  rue de la providence,Granby,QC,J2G 4S7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.410379999999996,-72.716617
+S1474,S1474,CENTRE DE SERVICES AMBULATOIRES SAINT-JACQUES,155  rue saint-jacques,Granby,QC,J2G 9A7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.39799,-72.726613
+S642,S642,HôPITAL DE GRANBY,205  boulevard leclerc ouest,Granby,QC,J2G 1T7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.410592,-72.72295600000001
+S908,S908,CLSC DE GRANDE-VALLéE,71  rue saint-franзois-xavier ouest,Grande-Vallée,QC,G0E 1K0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,49.227333,-65.10462
+S1256,S1256,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE LA MINGANIE,1035  promenade des anciens,Havre-Saint-Pierre,QC,G0G 1P0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,50.237811,-63.60524399999999
+S657,S657,CENTRE HOSPITALIER KATERI MEMORIAL TEHSAKOTITSEN : THA,1 Main Street,Kahnawake,QC,J0L 1B0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.415478,-73.682869
+6635,6635,CENTRE DE SANTé TULATTAVIK DE L'UNGAVA,1 Main Street,Kuujjuaq,QC,J0M 1C0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,58.106859,-68.40543199999999
+7555,7555,CREE BOARD OF HEALTH AND SOCIAL SERVICES OF JAMES BAY/KUUJJUARAPIK,1 Main Street,Kuujjuarapik,QC,J0M 1G0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,55.274399,-77.761614
+S590,S590,HôPITAL DE LA MALBAIE,303  rue saint-étienne,La Malbaie,QC,G5A 1T1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,47.65619,-70.151741
+S906,S906,HôPITAL NOTRE-DAME-DE-FATIMA,1201  6e avenue,La Pocatiиre,QC,G0R 1Z0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,47.371829999999996,-70.026167
+S646,S646,HôPITAL ET CHSLD MéMORIAL DE WAKEFIELD / WAKEFIELD MEMORIAL HOSPITAL,101  chemin burnside,La Pкche,QC,J0X 3G0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.648575,-75.932482
+6695,6695,CENTRE HOSPITALIER GATINEAU MEMORIAL,101 burnside ave,La Pкche,QC,J0X 3G0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.6484041,-75.9324814
+6833,6833,CH LA SARRE,679 2e rue est,La Sarre,QC,J9Z 2X7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.7864562,-79.1985773
+S1038,S1038,CENTRE DE SANTé ET DE SERVICES SOCIAUX DU HAUT-SAINT-MAURICE,885  boulevard ducharme,La Tuque,QC,G9X 3C1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,47.428451,-72.785692
+S1642,S1642,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE LAC-ETCHEMIN,331  place du sanatorium,Lac-Etchemin,QC,G0R 1S0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.40048,-70.498069
+6829,6829,CH DU GRANIT,3569 rue laval,Lac-Mégantic,QC,G6B 1A5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.588749,-70.905799
+S251,S251,CENTRE DE SANTé ET DE SERVICES SOCIAUX DU GRANIT,3569  rue laval,Lac-Mégantic,QC,G6B 1A5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.588594,-70.90579100000001
+S884,S884,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX D'ARGENTEUIL,145  avenue de la providence,Lachute,QC,J8H 4C7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.661916999999995,-74.352065
+S600,S600,CLSC ET CENTRE DE SERVICES AMBULATOIRES EN PéDOPSYCHIATRIE DE LA RUE MARY,189  rue mary,Lachute,QC,J8H 2C3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.652514000000004,-74.339578
+S918,S918,HôPITAL JUIF DE RéADAPTATION,3205  place alton-goldbloom,Laval,QC,H7V 1R2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.54873,-73.737641
+S1340,S1340,CENTRE DE SERVICES AMBULATOIRES DE LAVAL,1515  boulevard chomedey,Laval,QC,H7V 3Y7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.552264,-73.746239
+S441,S441,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE RENé-LAENNEC,2008  boulevard rené-laennec,Laval,QC,H7M 4J8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.608722,-73.720252
+S919,S919,HôTEL QUALITY SUITES,2035  autoroute des laurentides,Laval,QC,H7S 1Z6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.567892,-73.740145
+S927,S927,CLSC ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DU MARIGOT,1351  boulevard des laurentides,Laval,QC,H7M 2Y2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.586915999999995,-73.71015200000001
+8131,8131,JEWISH REHABILITATION HOSPITAL,3205 alton goldbloom pl,Laval,QC,H7V 1R2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.548623,-73.73759100000001
+S1551,S1551,HôPITAL DE LA CITé-DE-LA-SANTé,1755  boulevard rené-laennec,Laval,QC,H7M 3L9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.603319,-73.710819
+S604,S604,CLSC ET CENTRE DE SERVICES AMBULATOIRES CHOMEDEY,800  boulevard chomedey,Laval,QC,H7V 3Y4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.544488,-73.740988
+S920,S920,LE COUVENT,3550  boulevard lévesque ouest,Laval,QC,H7V 1E8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.536190999999995,-73.73290899999999
+S1268,S1268,CENTRE DE SANTé LEBEL,950  boulevard quévillon nord,Lebel-sur-Quévillon,QC,J0Y 1X0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,49.05608,-76.983316
+6935,6935,CISSS DES ОLES — HôPITAL DE L’ARCHIPEL,1 Main Street,Les ?les-de-la-Madeleine,QC,G4T 1R9,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.6099682316118936,-72.3735220657276995
+S1653,S1653,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DES ESCOUMINS,4  rue de l'hôpital,Les Escoumins,QC,G0T 1K0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.352061,-69.407095
+S1430,S1430,HôPITAL DE L'ARCHIPEL,430  chemin principal,Les Оles-de-la-Madeleine,QC,G4T 1R9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,47.375575,-61.868773
+S904,S904,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE DE LA RUE LABONTé,190  rue labonté,Longueuil,QC,J4H 2P7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.533971,-73.511279
+S903,S903,CENTRE DE SERVICES AMBULATOIRES DE LA RUE BEAUREGARD,1255  rue beauregard,Longueuil,QC,J4K 2M3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.510476000000004,-73.48730400000001
+S901,S901,CENTRE DE SERVICES AMBULATOIRES DE GREENFIELD PARK,5000  boulevard taschereau,Longueuil,QC,J4V 3M3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.481884,-73.46582
+S899,S899,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE DE LONGUEUIL,1225  rue saint-charles ouest,Longueuil,QC,J4K 0B9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.522746000000005,-73.520547
+S905,S905,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE DU BOULEVARD TASCHEREAU,2924  boulevard taschereau,Longueuil,QC,J4V 2G8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.499939000000005,-73.487651
+S664,S664,CENTRE DE SERVICES AMBULATOIRES ET INSTITUT NAZARETH ET LOUIS-BRAILLE SAINT-CHARLES OUEST,1111  rue saint-charles ouest,Longueuil,QC,J4K 5G4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.526375,-73.51979
+S654,S654,CENTRE D'HéBERGEMENT DU MANOIR-TRINITé,1275  boulevard jacques-cartier est,Longueuil,QC,J4M 2Y8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.53539,-73.459423
+S911,S911,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE DE L'AVENUE VICTORIA,1406  avenue victoria,Longueuil,QC,J4V 1M1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.489868,-73.492465
+S913,S913,HôPITAL CHARLES-LEMOYNE - SERVICES DE PSYCHIATRIE,1055 rue saint-laurent ouest,Longueuil,QC,J4K 1E1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.524423999999996,-73.514401
+S626,S626,HôPITAL CHARLES-LE MOYNE,3120  boulevard taschereau,Longueuil,QC,J4V 2H1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.497265999999996,-73.486423
+S944,S944,HôPITAL CHARLES-LE MOYNE - CLINIQUE SUIVI DE GROSSESSE,3141  boulevard taschereau,Longueuil,QC,J4V 2H2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.4977526,-73.48421033
+S592,S592,CLSC ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE SAINT-HUBERT,6800  boulevard cousineau,Longueuil,QC,J3Y 8Z4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.492843,-73.403274
+S282,S282,HôPITAL PIERRE-BOUCHER,1333  boulevard jacques-cartier est,Longueuil,QC,J4M 2A5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.5383,-73.458792
+S922,S922,HôPITAL CHARLES-LE MOYNE - CLINIQUE EXTERNE DE PéDIATRIE,2984  boulevard taschereau,Longueuil,QC,J4V 2G9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.498643,-73.486909
+S925,S925,CENTRE DE SERVICES DE SANTé POUR LES PERSONNES SANS DOMICILE FIXE DE LONGUEUIL,3179  boulevard taschereau,Longueuil,QC,J4V 2N3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.496866,-73.483639
+6916,6916,CISSS DE LA MONTéRéGIE-EST — HôPITAL PIERRE-BOUCHER,1 Main Street,Longueuil,QC,J4M 2A5,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,45.5333,-73.5167
+S410,S410,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX AVELLIN-DALCOURT,450  2e rue,Louiseville,QC,J5V 1V3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.254591,-72.928988
+S369,S369,CENTRE DE SERVICES AMBULATOIRES EN PéDOPSYCHIATRIE DE LéVIS,6550  rue saint-georges,Lévis,QC,G6V 6X2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.813008,-71.17365699999999
+S618,S618,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX PAUL-GILBERT,9330  boulevard du centre-hospitalier,Lévis,QC,G6X 1L6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.725358,-71.25935600000001
+S1201,S1201,CENTRE DE SERVICES AMBULATOIRES DE LéVIS,106  rue jean-xxiii,Lévis,QC,G6V 2K1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.81568,-71.174936
+S1409,S1409,HôTEL-DIEU DE LéVIS,143  rue wolfe,Lévis,QC,G6V 3Z1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.814863,-71.17740500000001
+S1399,S1399,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE DE LéVIS,101  rue saint-dominique,Lévis,QC,G6V 2M8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.821339,-71.17908
+S852,S852,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE LéVIS,100-1205  boulevard guillaume-couture,Lévis,QC,G6W 0J4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.735394,-71.263486
+S1674,S1674,CENTRE DE SANTé ET DE SERVICES SOCIAUX DE MEMPHRéMAGOG,50  rue saint-patrice est,Magog,QC,J1X 3X3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.265088,-72.144862
+6835,6835,CH MALARTIC INC.,1141 rue royale,Malartic,QC,J0Y 1Z0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.141587,-78.12828499999999
+S931,S931,HôPITAL PSYCHIATRIQUE DE MALARTIC,1141  rue royale,Malartic,QC,J0Y 1Z0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.141509,-78.12841
+S1310,S1310,HôPITAL DE MANIWAKI,309  boulevard desjardins,Maniwaki,QC,J9E 2E7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.39085,-75.979405
+6637,6637,CENTRE DE SANTé VALLéE-DE-LA-GATINEAU,309 boul desjardins,Maniwaki,QC,J9E 2E7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.391070899999995,-75.978757
+6889,6889,CISSS DE L'OUTAOUAIS — HôPITAL DE MANIWAKI,1 Main Street,Maniwaki,QC,J9E 2E7,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.3750,-75.9667
+6885,6885,CISSS DE L'OUTAOUAIS — CLSC DE MANSFIELD-ET-PONTEFRACT,1 Main Street,Mansfield-et-Pontefract,QC,J0X 1V0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,45.8611,-76.7392
+6908,6908,CISSS DE LA GASPéSIE — HôPITAL DE MARIA,1 Main Street,Maria,QC,G0C 1Y0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.1667,-65.9833
+S1441,S1441,HôPITAL DE MARIA,419  boulevard perron,Maria,QC,G0C 1Y0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.169149,-65.993516
+S1279,S1279,CENTRE DE SANTé ISLE-DIEU,130  boulevard  matagami,Matagami,QC,J0Y 2A0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,49.756840999999994,-77.628286
+S1149,S1149,HôPITAL DE MATANE,333  rue thibault,Matane,QC,G4W 2W5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.843565999999996,-67.524416
+S896,S896,CENTRE DE SANTé ET DE SERVICES SOCIAUX DE LA MITIS,800  avenue du sanatorium,Mont-Joli,QC,G5H 3L6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.572404,-68.216178
+S485,S485,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE MONT-LAURIER,757  rue de la madone,Mont-Laurier,QC,J9L 1T2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.556419,-75.494855
+S1104,S1104,HôPITAL DE MONT-LAURIER,2561  chemin de la liиvre sud,Mont-Laurier,QC,J9L 3G3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.549211,-75.517655
+8090,8090,HôTEL-DIEU DE MONTMAGNY,350 boul taché ouest,Montmagny,QC,G5V 3R8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.976366999999996,-70.5970718
+S666,S666,HôPITAL ET CENTRE DE RéADAPTATION EN DéFICIENCE PHYSIQUE DE MONTMAGNY,350  boulevard taché ouest,Montmagny,QC,G5V 3R8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.976408,-70.596699
+S655,S655,PAVILLON ROSEMONT,5689  boulevard rosemont,Montréal,QC,H1T 2H1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.577463,-73.562116
+8052,8052,HôPITAL LOUIS-H. LAFONTAINE,7401 rue hochelaga,Montréal,QC,H1N 3M5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.5884937,-73.5291412
+8072,8072,HôPITAL RIVIИRE-DES-PRAIRIES,7070 boul perras,Montréal,QC,H1E 1A4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.6271766,-73.6147382
+8253,8253,MCGILL UNIVERSITY HEALTH CENTRE - MONTRéAL CHEST INSTITUTE,3650 st urbain,Montréal,QC,H2X 2P4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.513014,-73.5752103
+8492,8492,SHRINERS HOSPITAL FOR CHILDREN,1529 cedar ave,Montréal,QC,H3G 1A6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.499581,-73.588351
+S1006,S1006,HôPITAL MAISONNEUVE-ROSEMONT,5415  boulevard de l'assomption,Montréal,QC,H1T 2M4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.574065000000004,-73.55954799999999
+S1017,S1017,CENTRE METROPOLITAIN DE CHIRURGIE PLASTIQUE,999  rue de salaberry,Montréal,QC,H3L 1L2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.545449,-73.692942
+S1039,S1039,VILLA MEDICA,225  rue sherbrooke est,Montréal,QC,H2X 1C9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.514974,-73.568738
+S1115,S1115,HôPITAL DE VERDUN,4000  boulevard lasalle,Montréal,QC,H4G 2A3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.464098,-73.563989
+S1148,S1148,HOPITAL DE JOUR L'ENVOL,6625  boulevard lasalle,Montréal,QC,H4H 1R2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.444268,-73.581796
+S1160,S1160,HôTEL-DIEU DU CENTRE HOSPITALIER DE L'UNIVERSITé DE MONTRéAL,3840  rue saint-urbain,Montréal,QC,H2W 1T8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.513942,-73.578112
+S1320,S1320,PAVILLON RACHEL-TOURIGNY,5305  boulevard de l'assomption,Montréal,QC,H1T 2M4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.574003000000005,-73.556831
+S1349,S1349,L'HôPITAL DE MONTRéAL POUR ENFANTS,2300  rue tupper,Montréal,QC,H3H 1P3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.488959,-73.582312
+S1358,S1358,CENTRE DE SERVICES AMBULATOIRES DE SOINS PSYCHIATRIQUES BEAUBIEN,7067  rue beaubien est,Montréal,QC,H1M 2Y2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.593553,-73.558021
+S1359,S1359,HôPITAL NEUROLOGIQUE DE MONTRéAL,3801  rue university,Montréal,QC,H3A 2B4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.508956,-73.581396
+S1369,S1369,HôPITAL ROYAL VICTORIA,687  avenue des pins ouest,Montréal,QC,H3A 1A1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.5082,-73.581456
+S1420,S1420,CHSLD DES BВTISSEURS,11810  avenue du bois-de-boulogne,Montréal,QC,H3M 2X6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.540646,-73.68874
+S1463,S1463,CENTRE DE SERVICES AMBULATOIRES DE SOINS PSYCHIATRIQUES D'ANJOU,7101  rue jean-talon est,Montréal,QC,H1M 3N7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.597923,-73.570774
+S1485,S1485,HôPITAL DE LACHINE,650  16e avenue,Montréal,QC,H8S 3N5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.440835,-73.676985
+S1507,S1507,HôPITAL RICHARDSON,5425  avenue bessborough,Montréal,QC,H4V 2S7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.471955,-73.645944
+S1518,S1518,HôPITAL FLEURY,2180  rue fleury est,Montréal,QC,H2B 1K3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.57181,-73.650367
+S1529,S1529,HôPITAL JEAN-TALON,1385  rue jean-talon est,Montréal,QC,H2E 1S6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.545943,-73.609538
+S1571,S1571,CENTRE DE SERVICES AMBULATOIRES DE SOINS PSYCHIATRIQUES DE SAINT-LéONARD,8000  boulevard langelier,Montréal,QC,H1P 3K2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.594060999999996,-73.581337
+6820,6820,CH DE L'UNIVERSITé DE MONTRéAL (CHUM) - HôPITAL SAINT-LUC,1058 rue saint-denis,Montréal,QC,H2X 3J4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,45.5123152,-73.5577136
+S1673,S1673,HôPITAL DOUGLAS,6875  boulevard lasalle,Montréal,QC,H4H 1R3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.442083000000004,-73.584223
+S237,S237,INSTITUT NATIONAL DE PSYCHIATRIE LéGALE PHILIPPE-PINEL,10905  boulevard henri-bourassa est,Montréal,QC,H1C 1H1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.656057000000004,-73.53361600000001
+S239,S239,CENTRE DE SERVICES AMBULATOIRES DE SOINS PSYCHIATRIQUES CRAWFORD,7105  boulevard lasalle,Montréal,QC,H4H 1R2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.439396,-73.58144
+S346,S346,CENTRE DE SERVICES AMBULATOIRES DE SOINS PSYCHIATRIQUES WELLINGTON,4932  rue wellington,Montréal,QC,H4G 1X6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.456285,-73.567305
+S358,S358,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE PAPINEAU,10345  avenue papineau,Montréal,QC,H2B 2A3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.568529,-73.653602
+S379,S379,CLSC DE RIVIИRE-DES-PRAIRIES,8655  boulevard perras,Montréal,QC,H1E 4M7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.644779,-73.585977
+S390,S390,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE PARC-EXTENSION,7085  rue hutchison,Montréal,QC,H3N 1Y9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.529596999999995,-73.621043
+S452,S452,CENTRE DE SERVICES AMBULATOIRES DE SOINS PSYCHIATRIQUES DE MERCIER-OUEST,6850  rue sherbrooke est,Montréal,QC,H1N 1E1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.584868,-73.541394
+S453,S453,PROGRAMME DE RECHERCHE CLINIQUE CHUM-IRCM,120 avenue des pins ouest,Montréal,QC,H2W 2T2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.513448,-73.576203
+S464,S464,HôPITAL DE RéADAPTATION LINDSAY,6363  chemin hudson,Montréal,QC,H3S 1M9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.507064,-73.629478
+S538,S538,HôPITAL GéNéRAL JUIF,4335  chemin de la côte-sainte-catherin,Montréal,QC,H3T 1E4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.495761,-73.630634
+S549,S549,CENTRE HOSPITALIER UNIVERSITAIRE SAINTE-JUSTINE,5757  avenue decelles,Montréal,QC,H3S 2C3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.501148,-73.626124
+S584,S584,CLSC ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE CôTE-DES-NEIGES,5700  chemin de la côte-des-neiges,Montréal,QC,H3T 2A8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.498159,-73.627307
+S585,S585,CLSC ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE MéTRO,1801  boulevard de maisonneuve ouest,Montréal,QC,H3H 1J9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.494557,-73.581027
+S586,S586,CLSC DE SAINT-LéONARD,5540  rue jarry est,Montréal,QC,H1P 1T9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.585253,-73.589922
+S587,S587,CLSC DE HOCHELAGA-MAISONNEUVE,4201  rue ontario est,Montréal,QC,H1V 1K2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.551349,-73.540867
+S588,S588,CLSC OLIVIER-GUIMOND,5810  rue sherbrooke est,Montréal,QC,H1N 1B2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.575021,-73.547504
+S589,S589,CLSC DE L'EST-DE-MONTRéAL,13926  rue notre-dame est,Montréal,QC,H1A 1T5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.666433000000005,-73.493581
+S593,S593,CLSC DE MERCIER-EST,9503  rue sherbrooke est,Montréal,QC,H1L 6P2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.611666,-73.526628
+S594,S594,CLSC DE LA VISITATION ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DES FAUBOURGS,1705  rue de la visitation,Montréal,QC,H2L 3C3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.521116,-73.558864
+S597,S597,CLSC DE SAINT-MICHEL,3355  rue jarry est,Montréal,QC,H1Z 2E5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.565598,-73.608292
+S598,S598,CLSC DE ROSEMONT,2909  rue rachel est,Montréal,QC,H1W 0A9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.542519,-73.562078
+S602,S602,CLSC SAINTE-CATHERINE ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DES FAUBOURGS,66  rue sainte-catherine est,Montréal,QC,H2X 1K6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.510483,-73.562663
+S606,S606,CLSC PARTHENAIS ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DES FAUBOURGS,2260  rue parthenais,Montréal,QC,H2K 3T5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.531013,-73.560069
+S609,S609,CLSC DU VILLAGE-OLYMPIQUE,5199  rue sherbrooke est,Montréal,QC,H1T 3X2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.568953,-73.554179
+S610,S610,CLSC ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE BORDEAUX-CARTIERVILLE,11822  avenue du bois-de-boulogne,Montréal,QC,H3M 2X6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.540815,-73.68934200000001
+S611,S611,CENTRE DE SERVICES AMBULATOIRES ET MAISON DE NAISSANCE LOUVAIN,9600  rue saint-denis,Montréal,QC,H2M 1P2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.548516,-73.654072
+S613,S613,HôPITAL DE SOINS PSYCHIATRIQUES DE L'EST-DE-MONTRéAL,7401  rue hochelaga,Montréal,QC,H1N 3M5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.588619,-73.52904699999999
+S620,S620,HôPITAL GéNéRAL JUIF,3755  chemin de la côte-sainte-catherin,Montréal,QC,H3T 1E2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.497811,-73.62880600000001
+S621,S621,CENTRE HOSPITALIER DE ST. MARY,3830  avenue lacombe,Montréal,QC,H3T 1M5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.495296,-73.624505
+S623,S623,INSTITUT UNIVERSITAIRE DE GéRIATRIE DE MONTRéAL,4565  chemin queen-mary,Montréal,QC,H3W 1W5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.491031,-73.623817
+S631,S631,CENTRE D'HéBERGEMENT DU MANOIR-DE-L'ВGE-D'OR,3430  rue jeanne-mance,Montréal,QC,H2X 2J9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.509456,-73.57194399999999
+S635,S635,CENTRE D'HéBERGEMENT J.-HENRI-CHARBONNEAU,3095  rue sherbrooke est,Montréal,QC,H1W 1B2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.542654,-73.558801
+S636,S636,HôPITAL DE LASALLE,8585  terrasse champlain,Montréal,QC,H8P 1C1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.420839,-73.62337099999999
+S645,S645,CENTRE D'HéBERGEMENT NOTRE-DAME-DE-LA-MERCI,555  boulevard gouin ouest,Montréal,QC,H3L 1K5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.547601,-73.687656
+S659,S659,HôPITAL CATHERINE-BOOTH,4375  avenue montclair,Montréal,QC,H4B 2J5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.463935,-73.635565
+S660,S660,CHU SAINTE-JUSTINE,3175  chemin de la côte-sainte-catherin,Montréal,QC,H3T 1C5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.503155,-73.624943
+S662,S662,INSTITUT DE RéADAPTATION DE MONTRéAL,6300  avenue darlington,Montréal,QC,H3S 2J4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.508074,-73.628776
+S670,S670,CENTRE DE SERVICES AMBULATOIRES EN GéRONTOPSYCHIATRIE GRENET,12085  rue grenet,Montréal,QC,H4J 2J4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.529865,-73.71384599999999
+S724,S724,SITE GLEN,1001  rue décarie,Montréal,QC,H4A 3J1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.473377,-73.600886
+S735,S735,CENTRE DE SERVICES AMBULATOIRES DE MAISONNEUVE,5252  boulevard de maisonneuve,Montréal,QC,H4A 3S9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.473392,-73.604551
+S743,S743,CENTRE DE SERVICES AMBULATOIRES DE DIALYSE DE LA RUE DE GASPé,5455  avenue de gaspé,Montréal,QC,H2T 3B3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.527525,-73.596368
+S764,S764,HôPITAL SHRINERS POUR ENFANTS (QUéBEC),1003  boulevard décarie,Montréal,QC,H4A 0A9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.471773999999996,-73.602
+S774,S774,CENTRE DE SERVICES AMBULATOIRES BOIS-DE-BOULOGNE,1575  boulevard henri-bourassa ouest,Montréal,QC,H3M 3A9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.537592,-73.67972900000001
+S775,S775,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE NOTRE-DAME,2120  rue sherbrooke est,Montréal,QC,H2K 1C3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.530985,-73.562554
+S841,S841,HôPITAL SANTA CABRINI,5655  rue saint-zotique est,Montréal,QC,H1T 1P7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.580138,-73.57171899999999
+S863,S863,CENTRE DE SERVICES AMBULATOIRES JEAN-JACQUES-GAUTHIER,11885  boulevard laurentien,Montréal,QC,H4J 2R5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.52539,-73.71107099999999
+S885,S885,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE SACRé-CЊUR,1575  boulevard henri-bourassa ouest,Montréal,QC,H3M 3A9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.537592,-73.67972900000001
+S888,S888,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE VERDUN,3922  boulevard lasalle,Montréal,QC,H4G 2A2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.464099,-73.563988
+S893,S893,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE ET CENTRE DE SERVICES AMBULATOIRES DE ST. MARY,3777  rue jean-brillant,Montréal,QC,H3T 1M5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.494995,-73.623776
+S894,S894,CENTRE HOSPITALIER DE L'UNIVERSITé DE MONTRéAL,1000  rue saint-denis,Montréal,QC,H2X 0A9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.511757,-73.556331
+S895,S895,HôPITAL NOTRE-DAME,1560  rue sherbrooke est,Montréal,QC,H2L 4M1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.525358000000004,-73.56356
+S897,S897,PAVILLON éDOUARD-ASSELIN,264  boulevard rené-lévesque est,Montréal,QC,H2X 1P1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.51112,-73.558615
+S898,S898,CENTRE DE RECHERCHE DU CENTRE HOSPITALIER DE L'UNIVERSITé DE MONTRéAL,900  rue saint-denis,Montréal,QC,H2X 0A9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.510839000000004,-73.55594599999999
+S907,S907,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE FLEURY,2330  rue fleury est,Montréal,QC,H2B 1K9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.5739,-73.64851800000001
+S984,S984,HôPITAL GéNéRAL DE MONTRéAL,1650  avenue cedar,Montréal,QC,H3G 1A4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.497046000000005,-73.589036
+S916,S916,HôPITAL COURTE DURéE PLACE DUPUIS,1415 rue saint-hubert,Montréal,QC,H2L 3Y9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.515895,-73.559147
+S929,S929,HOPITAL DE JOUR LE TREMPLIN,6617  boulevard lasalle,Montréal,QC,H4H 1R2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.443762,-73.579359
+S930,S930,INSTITUT DE CARDIOLOGIE DE MONTRéAL,5000  rue bélanger,Montréal,QC,H1T 1C8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.573763,-73.57781700000001
+S937,S937,SNT - HôPITAL DE LASALLE - ARéNA JACQUES LEMAIRE,8681  boulevard champlain,Montréal,QC,H8P 1B8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.418481,-73.622524
+S939,S939,HôPITAL EN SANTé MENTALE ALBERT-PRéVOST,6555  boulevard gouin ouest,Montréal,QC,H4K 1B3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.529026,-73.72904100000001
+S940,S940,HôPITAL MARIE-CLARAC,3530  boulevard gouin est,Montréal,QC,H1H 1B7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.590837,-73.649742
+S560,S560,PAVILLON FERNAND-SéGUIN,7331  rue hochelaga,Montréal,QC,H1N 3V2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.586219,-73.527287
+S973,S973,HôPITAL DU SACRé-CЊUR DE MONTRéAL,5400  boulevard gouin ouest,Montréal,QC,H4J 1C5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.532578,-73.714036
+S909,S909,CLSC DE MURDOCHVILLE,600  avenue william-may,Murdochville,QC,G0E 1W0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.961323,-65.493545
+6824,6824,CH DE METABETCHOUAN - LAC-A-LA-CROIX ET CLSC SECTEUR-SUD,1895 route 169,Métabetchouan--Lac-а-la-Croix,QC,G8G 1B4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.4258029,-71.866405
+8023,8023,HôPITAL DU CHRIST-ROI,675 rue saint-jean-baptiste,Nicolet,QC,J3T 1S4,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.2306001,-72.6267734
+S1763,S1763,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX CHRIST-ROI,675  rue saint-jean-baptiste,Nicolet,QC,J3T 1S4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.23147,-72.626501
+S1452,S1452,HôPITAL BARRIE MéMORIAL,28  rue gale,Ormstown,QC,J0S 1K0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.126343,-73.99986700000001
+S891,S891,CLSC DE PASPEBIAC,273  boulevard gérard-d.-levesque,Paspébiac,QC,G0C 2K0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.021953,-65.28675600000001
+S797,S797,CLSC DE POHENEGAMOOK,1922  rue saint-vallier,Pohénégamook,QC,G0L 1J0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,47.489759,-69.281334
+S644,S644,HôPITAL GéNéRAL DU LAKESHORE,160  avenue stillview,Pointe-Claire,QC,H9R 2Y2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.44855,-73.833668
+S962,S962,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE PORT-CARTIER,3  rue de shelter bay,Port-Cartier,QC,G5B 2W9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,50.023783,-66.893964
+S430,S430,CENTRE DE SANTE INUULITSIVIK,1 chemin baie d'hudson,Puvirnituq,QC,J0M 1P0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,60.03765,-77.275795
+S16,S16,HôPITAL LAVAL,1 chemin sainte-foy,Québec,QC,J0S 1K0,,1-800-622-6232,Hospitals,Municipality of Québec,Yes,5,46.77848534,-71.29716547
+6851,6851,HôPITAL SAINT-FRANЗOIS DASSISE,10 rue de l'espinay,Québec,QC,G1L 3L5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.827533,-71.236389
+S933,S933,HôTEL LE CONCORDE QUéBEC & UNILOFTS GRANDE-ALLéE,1225  cours du général de montcalm,Québec,QC,G1R 4W6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.805321,-71.21723100000001
+S932,S932,CDC SMDI DE L'ARMéE DU SALUT,14  côte du palais,Québec,QC,G1R 4H8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.814758000000005,-71.211407
+S1753,S1753,"CLSC, HOPITAL ET CENTRE D'HEBERGEMENT CHRIST-ROI",900  boulevard wilfrid-hamel,Québec,QC,G1M 2R9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.810782,-71.258207
+S1083,S1083,PAVILLON L'HôTEL-DIEU DE QUéBEC,11  côte du palais,Québec,QC,G1R 2J6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.81539,-71.210994
+S1072,S1072,HôPITAL DU SAINT-SACREMENT,1050  chemin sainte-foy,Québec,QC,G1S 4L8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.799357,-71.246411
+S1028,S1028,LA MAISON MICHEL SARRAZIN,2101  chemin saint-louis,Québec,QC,G1T 1P5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.773478999999995,-71.251598
+S692,S692,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE QUATRE-BOURGEOIS,2690  chemin des quatre-bourgeois,Québec,QC,G1V 0B7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.778594,-71.294723
+S671,S671,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE SAINT-VALLIER,388  rue saint-vallier ouest,Québec,QC,G1K 1K6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.812109,-71.239125
+S926,S926,CLSC ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE LA HAUTE-VILLE,55  chemin sainte-foy,Québec,QC,G1R 1S9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.806018,-71.227891
+S262,S262,HôPITAL CHAUVEAU,11999  rue de l'hôpital,Québec,QC,G2A 2T7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.853199,-71.369963
+7984,7984,HôPITAL CHRIST-ROI,900 boulevard wilfrid-hamel,Québec,QC,J9T 2S2,,1-800-622-6232,Hospitals,Municipality of Québec,Yes,5,46.81135599,-71.25837456
+S653,S653,HôPITAL JEFFERY HALE,1250  chemin sainte-foy,Québec,QC,G1S 2M6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.796649,-71.253086
+S347,S347,CENTRE DE PéDOPSYCHIATRIE - RéSIDENCE DU SACRé-COEUR,1  avenue du sacré-coeur,Québec,QC,G1N 2W1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.813282,-71.245535
+S637,S637,HôPITAL DE L'ENFANT-JéSUS,1401  18e rue,Québec,QC,G1J 1Z4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.837203,-71.225495
+8050,8050,HôPITAL LAVAL,2725 ch ste-foy,Québec,QC,G1V 4G5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.7791191,-71.2976016
+S624,S624,PAVILLON CENTRE HOSPITALIER DE L'UNIVERSITé LAVAL,2705  boulevard laurier,Québec,QC,G1V 4G2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.767873,-71.282342
+S17,S17,HôPITAL SAINT-FRANЗOIS D'ASSISE,1 rue de lespinay,Québec,QC,J0S 1K0,,1-800-622-6232,Hospitals,Municipality of Québec,Yes,5,46.82844125,-71.23754678
+S496,S496,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE LAURIER,2875  boulevard laurier,Québec,QC,G1V 2M2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.765935999999996,-71.289344
+S612,S612,INSTITUT UNIVERSITAIRE EN SANTé MENTALE DE QUéBEC,2601  chemin de la canardiиre,Québec,QC,G1J 2G3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.847669,-71.220504
+S15,S15,HôPITAL DE L'ENFANT-JéSUS,1401.0 18e rue,Québec,QC,J0S 1K0,,1-800-622-6232,Hospitals,Municipality of Québec,Yes,5,46.83748294,-71.22604003
+S607,S607,CLSC ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE MAIZERETS,2480  chemin de la canardiиre,Québec,QC,G1J 2G1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.843684,-71.218317
+6699,6699,CENTRE HOSPITALIER ROBERT-GIFFARD,1 chemin de la canardiиre,Québec,QC,J0X 3G0,,1-800-622-6232,Hospitals,Municipality of Québec,Yes,5,46.84793219,-71.22072592
+S1234,S1234,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE DE RAWDON,3570  rue church,Rawdon,QC,J0K 1S0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.041693,-73.702641
+S399,S399,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX CLAUDE-DAVID,135  boulevard claude-david,Repentigny,QC,J6A 1N6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.718801,-73.47557900000001
+S527,S527,CENTRE DE SERVICES AMBULATOIRES EN PéDOPSYCHIATRIE DE REPENTIGNY,465  rue notre-dame,Repentigny,QC,J6A 2T3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.739686,-73.446173
+S641,S641,HôPITAL RéGIONAL DE RIMOUSKI,150  avenue rouleau,Rimouski,QC,G5L 5T1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.447043,-68.530496
+6944,6944,CISSS DU BAS-SAINT-LAURENT — HôPITAL RéGIONAL DE RIMOUSKI,1 Main Street,Rimouski,QC,G5L 5T1,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.4500,-68.5300
+S915,S915,CLSC ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE RIMOUSKI,165  rue des gouverneurs,Rimouski,QC,G5L 7R2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.454832,-68.521711
+S938,S938,"CENTRE DE RéADAPTATION EN DéFICIENCE INTELLECTUELLE, TROUBLE DU SPECTRE DE L'AUTISME ET EN DéFICIENCE PHYSIQUE THéRИSE-MARTIN",100  chemin de la petite-anse,Riviиre-Ouelle,QC,G0L 2C0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,47.455067,-70.000724
+S1631,S1631,CENTRE DE SERVICES DE RIVIИRE-ROUGE,1525  rue de l'annonciation nord,Riviиre-Rouge,QC,J0T 1T0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.420799,-74.884682
+S658,S658,CENTRE HOSPITALIER RéGIONAL DU GRAND-PORTAGE,75  rue saint-henri,Riviиre-du-Loup,QC,G5R 2A4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,47.818478999999996,-69.539923
+S643,S643,HôPITAL ET CENTRE D'HéBERGEMENT DE ROBERVAL,450  rue brassard,Roberval,QC,G8H 1B9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.507731,-72.218987
+6878,6878,CISSS DE L'ABITIBI-TéMISCAMINGUE — HôPITAL DE ROUYN-NORANDA,1 Main Street,Rouyn-Noranda,QC,J9X 2B2,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,48.2333,-79.0167
+S615,S615,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE ROUYN-NORANDA,3  9e rue,Rouyn-Noranda,QC,J9X 2A9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.243843,-79.02063000000001
+S649,S649,HôPITAL DE ROUYN-NORANDA,4  9e rue,Rouyn-Noranda,QC,J9X 2B2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.243809000000006,-79.019318
+S633,S633,HôPITAL DE LA BAIE,1000  rue du docteur-desgagné,Saguenay,QC,G7B 2Y6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.343909000000004,-70.883162
+7561,7561,CSSS DE CHICOUTIMI,305 rue saint-vallier,Saguenay,QC,G7H 5H6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.4259175,-71.04876429999999
+6811,6811,CH - CHSLD - CLSC CLéOPHAS-CLAVEAU,1000 rue dr desgagné,Saguenay,QC,G7B 3P9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,48.337581,-70.879626
+S1137,S1137,HôPITAL DE CHICOUTIMI,305  rue saint-vallier,Saguenay,QC,G7H 5H6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.425975,-71.048599
+S614,S614,HôPITAL ET CENTRE DE RéADAPTATION DE JONQUIИRE,2230  rue de l'hôpital,Saguenay,QC,G7X 7X2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.413598,-71.23513100000001
+S1126,S1126,CENTRE D'HéBERGEMENT DE SAINT-ANTONIN,286  rue principale,Saint-Antonin,QC,G0L 2J0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,47.76243,-69.47867600000001
+S516,S516,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE SAINT-CHARLES-BORROMéE,50  chemin du golf ouest,Saint-Charles-Borromée,QC,J6E 2B4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.040318,-73.45370799999999
+S617,S617,HôPITAL DE LANAUDIИRE ET CENTRE D'HéBERGEMENT PARPHILIA-FERLAND,1000  boulevard sainte-anne,Saint-Charles-Borromée,QC,J6E 6J2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.039277,-73.457012
+S900,S900,CENTRE DE SERVICES AMBULATOIRES DE SAINT-EUSTACHE,239  rue robinson,Saint-Eustache,QC,J7R 5V7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.560744,-73.93114
+S808,S808,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE DE DEUX-MONTAGNES-MIRABEL-SUD,111  rue saint-laurent,Saint-Eustache,QC,J7P 3Z5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.568803,-73.88789200000001
+S819,S819,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE SAINT-EUSTACHE,57  boulevard industriel,Saint-Eustache,QC,J7R 5B9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.570495,-73.920792
+S830,S830,CENTRE DE SERVICES AMBULATOIRES DE DEUX-MONTAGNES-MIRABEL-SUD,14  boulevard industriel,Saint-Eustache,QC,J7R 5B8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.571719,-73.916223
+S1591,S1591,HôPITAL DE SAINT-EUSTACHE,520  boulevard arthur-sauvé,Saint-Eustache,QC,J7R 5B1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.571265999999994,-73.913739
+7560,7560,CSSS DE BEAUCE,1515 17e rue,Saint-Georges,QC,G5Y 4T8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.11065870000001,-70.6837863
+S1699,S1699,HôPITAL DE SAINT-GEORGES,1515  17e rue,Saint-Georges,QC,G5Y 4T8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.109716,-70.685194
+S619,S619,CENTRE D'HéBERGEMENT DE L'HôTEL-DIEU-DE-SAINT-HYACINTHE,1800  rue dessaulles,Saint-Hyacinthe,QC,J2S 2T2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.62572,-72.950032
+S652,S652,HôPITAL HONORé-MERCIER,2750  boulevard laframboise,Saint-Hyacinthe,QC,J2S 4Y8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.634833,-72.959476
+S874,S874,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE RICHELIEU-YAMASKA,1005  rue gauthier,Saint-Hyacinthe,QC,J2S 8T2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.636793,-72.960114
+S945,S945,HôPITAL DU HAUT-RICHELIEU - CLINIQUE SUIVI DE GROSSESSE,1055  boulevard du séminaire nord,Saint-Jean-sur-Richelieu,QC,J3A 1R7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.33827479999999,-73.26773938
+S663,S663,CENTRE DE SERVICES AMBULATOIRES ET INSTITUT NAZARETH ET LOUIS-BRAILLE DU SéMINAIRE NORD,383  boulevard du séminaire nord,Saint-Jean-sur-Richelieu,QC,J3B 8C5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.311353000000004,-73.263707
+S892,S892,CENTRE DE SERVICES AMBULATOIRES ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE SAINT-JEAN-SUR-RICHELIEU,1225  rue douglas,Saint-Jean-sur-Richelieu,QC,J2W 0J2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.340041,-73.284159
+S924,S924,CENTRE DE SERVICES DE SANTé POUR LES PERSONNES SANS DOMICILE FIXE DE SAINT-JEAN-SUR-RICHELIEU,576  rue champlain,Saint-Jean-sur-Richelieu,QC,J3B 6X1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.323782,-73.26436
+6912,6912,CISSS DE LA MONTéRéGIE-CENTRE — HôPITAL DU HAUT-RICHELIEU,1 Main Street,Saint-Jean-sur-Richelieu,QC,J3A 1B7,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,45.3167,-73.2667
+S946,S946,HôPITAL DU HAUT-RICHELIEU - CLINIQUE PéDIATRIQUE,900  boulevard du séminaire nord,Saint-Jean-sur-Richelieu,QC,J3A 1C3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.3313016,-73.26815663
+S313,S313,HôPITAL DU HAUT-RICHELIEU,920  boulevard du séminaire nord,Saint-Jean-sur-Richelieu,QC,J3A 1B7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.332522999999995,-73.270212
+S928,S928,CLSC ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE LAFONTAINE,1000  rue labelle,Saint-Jérôme,QC,J7Z 5N6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.793045,-74.009352
+S1599,S1599,HôPITAL DE SAINT-JéRôME,290  rue montigny,Saint-Jérôme,QC,J7Z 5T3,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.765569,-74.000191
+S627,S627,CENTRE DE SERVICES POUR LES AОNéS DE SAINT-LAMBERT,831  avenue notre-dame,Saint-Lambert,QC,J4R 1S1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.498311,-73.503619
+S890,S890,CENTRE DE SERVICES AMBULATOIRES ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE CHARLES-LE MOYNE,299  boulevard sir-wilfrid-laurier,Saint-Lambert,QC,J4R 2L1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.493596000000004,-73.502877
+S921,S921,CLSC DE SAINT-MARC-DES-CARRIERES,1045  boulevard bona-dussault,Saint-Marc-des-Carriиres,QC,G0A 4B0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.680890000000005,-72.049697
+S581,S581,CLINIQUE MEDICALE DE SQUATEC,149-B  rue saint-joseph,Saint-Michel-du-Squatec,QC,G0L 4H0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,47.88281,-68.719667
+S240,S240,HôPITAL RéGIONAL DE PORTNEUF CLSC DE SAINT-RAYMOND,700  rue saint-cyrille,Saint-Raymond,QC,G3L 1W1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.894933,-71.822153
+S638,S638,HôPITAL LAURENTIEN,234  rue saint-vincent,Sainte-Agathe-des-Monts,QC,J8C 2B8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.055170000000004,-74.288947
+S656,S656,HôPITAL SAINTE-ANNE,305  boulevard des anciens-combattants,Sainte-Anne-de-Bellevue,QC,H9X 1Y9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.412428000000006,-73.94874300000001
+S634,S634,HôPITAL DE SAINTE-ANNE-DES-MONTS,50  rue du belvédиre,Sainte-Anne-des-Monts,QC,G4V 1X4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,49.118829999999996,-66.482453
+S786,S786,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE DE SAINTE-THéRИSE,55  rue saint-joseph,Sainte-Thérиse,QC,J7E 4Y5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.638023,-73.841581
+S650,S650,HôPITAL DU SUROОT,150  rue saint-thomas,Salaberry-de-Valleyfield,QC,J6T 6C1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.250926,-74.130708
+S1743,S1743,CLSC DE SENNETERRE,961  rue de la clinique,Senneterre,QC,J0Y 2M0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.384388,-77.252997
+S596,S596,HôPITAL ET CLSC DE SEPT-ОLES,45  rue du pиre-divet,Sept-Оles,QC,G4R 3N7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,50.209826,-66.383983
+S561,S561,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE SEPT-ОLES,531  avenue gamache,Sept-Оles,QC,G4R 2J1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,50.211092,-66.382832
+S934,S934,SNT - UNITé LA RéSIDENCE DES BВTISSEURS А SEPT-ОLES,470  avenue arnaud,Sept-Оles,QC,G4R 4N9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,50.205729999999996,-66.387189
+S1679,S1679,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX LAFLИCHE,1650  avenue de grand-mиre,Shawinigan,QC,G9T 2K4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.606386,-72.707386
+S595,S595,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE SHAWINIGAN-SUD,80  118e rue,Shawinigan,QC,G9P 3E4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.524396,-72.744274
+6828,6828,CH DU CENTRE-DE-LA-MAURICIE,50 118e rue,Shawinigan,QC,G9P 4E7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.5257124,-72.74367070000001
+S630,S630,HôPITAL ET CENTRE D'HéBERGEMENT EN SANTé MENTALE DE LA MAURICIE-ET-DU-CENTRE-DU-QUéBEC,1705  avenue georges,Shawinigan,QC,G9N 2N1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.553033,-72.74714499999999
+S1300,S1300,HôPITAL DU CENTRE-DE-LA-MAURICIE,50  119e rue,Shawinigan,QC,G9P 5K1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.525584,-72.74339300000001
+S629,S629,HôPITAL ET CHSLD DU PONTIAC,200  rue argue,Shawville,QC,J0X 2Y0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.605968,-76.484009
+S1061,S1061,CHUS - HôTEL-DIEU DE SHERBROOKE,580  rue bowen sud,Sherbrooke,QC,J1G 2E8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.398441999999996,-71.877948
+S625,S625,HôPITAL ET CHSLD D'YOUVILLE,1036  rue belvédиre sud,Sherbrooke,QC,J1H 4C4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.390667,-71.8951
+S608,S608,CLSC ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE SPEID,8  rue speid,Sherbrooke,QC,J1M 1R6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.369833,-71.858418
+S668,S668,UNITé DE CONFINEMENT COMMUNAUTAIRE,1820  rue galt ouest,Sherbrooke,QC,J1K 1H9,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.38579923,-71.91927599
+S639,S639,HôPITAL ET CHSLD ARGYLL,375  rue argyll,Sherbrooke,QC,J1J 3H5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.404241999999996,-71.915088
+S1050,S1050,CHUS - HôPITAL FLEURIMONT,3001  12e avenue nord,Sherbrooke,QC,J1H 5N4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.447736,-71.869027
+S603,S603,CLSC ET CENTRE DE SERVICES AMBULATOIRES BELVéDИRE,1095  belvédиre sud,Sherbrooke,QC,J1H 4C6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.38997,-71.89649399999999
+S923,S923,CLSC ET GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE KING EST,1200  rue king est,Sherbrooke,QC,J1G 1E4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.408073,-71.862061
+8087,8087,HôPITALIER RICHELIEU,30 rue ferland,Sorel-Tracy,QC,J3P 3C7,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.0455502,-73.0935195
+S324,S324,HôTEL-DIEU DE SOREL,400  avenue de l'hôtel-dieu,Sorel-Tracy,QC,J3P 1N5,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.045811,-73.09563299999999
+S1464,S1464,HôPITAL PIERRE-LE GARDEUR,911  montée des pionniers,Terrebonne,QC,J6V 2H2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.723978,-73.510536
+S1379,S1379,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE DE TERREBONNE,1355  rue grande allée,Terrebonne,QC,J6W 4K6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.708698999999996,-73.624928
+S667,S667,HôPITAL ET CENTRE DE RéADAPTATION EN DéFICIENCE PHYSIQUE DE THETFORD MINES,1717  rue notre-dame est,Thetford Mines,QC,G6G 2V4,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.109613,-71.278245
+S1389,S1389,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX DE TROIS-PISTOLES,550  rue notre-dame est,Trois-Pistoles,QC,G0L 4K0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.132723,-69.159279
+S238,S238,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX CLOUTIER,155  rue toupin,Trois-Riviиres,QC,G8T 3Z8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.365266999999996,-72.504983
+6843,6843,CH RéGIONAL DE TROIS-RIVIИRES,731 rue ste julie,Trois-Riviиres,QC,G9A 1Y1,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.34747,-72.54566899999999
+S943,S943,CENTRE DE SERVICES AMBULATOIRES EN SANTé MENTALE DE TROIS-RIVIИRES,1573  boulevard des forges,Trois-Riviиres,QC,G8Z 1T7,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.344521,-72.55760699999999
+6844,6844,CH RéGIONAL DE TROIS-RIVIИRES - PAVILLON SAINTE-MARIE,1991 boul du carmel,Trois-Riviиres,QC,G8Z 3R9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,46.3548746,-72.5619614
+S951,S951,CENTRE MULTISERVICES DE SANTé ET DE SERVICES SOCIAUX SAINT-JOSEPH,731  rue sainte-julie,Trois-Riviиres,QC,G9A 1Y1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.347061,-72.546485
+S421,S421,POINT DE SERVICE DE TéMISCAMING-ET-DE-KIPAWA,180  rue anvik,Témiscaming,QC,J0Z 3R0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.725735,-79.094112
+S914,S914,HôPITAL DE NOTRE-DAME-DU-LAC,58  rue de l'église,Témiscouata-sur-le-Lac,QC,G0L 1X0,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,47.612369,-68.79926800000001
+S661,S661,HôPITAL ET CENTRE DE RéADAPTATION EN DéPENDANCE DE VAL-D'OR,725  6e rue,Val-d'Or,QC,J9P 3Y1,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.096081,-77.79683299999999
+S889,S889,GROUPE DE MéDECINE DE FAMILLE UNIVERSITAIRE DE LA VALLéE-DE-L’OR,525  6e rue,Val-d'Or,QC,J9P 0L6,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,48.095326,-77.795626
+S601,S601,CLSC ET CENTRE DE SERVICES AMBULATOIRES DE VAUDREUIL-DORION,3031  boulevard de la gare,Vaudreuil-Dorion,QC,J7V 9R2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.393902000000004,-74.053925
+S302,S302,HôTEL-DIEU D'ARTHABASKA,5  rue des hospitaliиres,Victoriaville,QC,G6P 6N2,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,46.040622,-71.91498299999999
+6634,6634,CENTRE DE SANTé SAINTE-FAMILLE,22 rue notre dame nord,Ville-Marie,QC,J9V 1W8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,47.3344119,-79.4458315
+S572,S572,CLSC - URGENCE-MINEURE - CENTRE D'HéBERGEMENT DE WINDSOR,23  rue ambroise-dearden,Windsor,QC,J1S 1G8,,1-800-622-6232,Hospitals,Province of Québec,Yes,5,45.570842,-72.00498499999999
+6919,6919,CISSS DE LA MONTéRéGIE-OUEST — HôPITAL ANNA-LABERGE,1 Main Street,chвteauguay,QC,J6K 4W8,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.6099682316118936,-72.3735220657276995
+6911,6911,CISSS DE LA MONTéRéGIE-CENTRE — HôPITAL CHARLES LEMOYNE,1 Main Street,greenfield park,QC,J4V 2H1,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.6099682316118936,-72.3735220657276995
+6993,6993,CIUSSS DU CENTRE-OUEST-DE-L'ОLE-DE-MONTRéAL — HôPITAL RICHARDSON,1 Main Street,montréal,QC,H4V 2S7,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.6099682316118936,-72.3735220657276995
+6991,6991,CIUSSS DU CENTRE-OUEST-DE-L'ОLE-DE-MONTRéAL — HôPITAL GéNéRAL JUIF,1 Main Street,montréal,QC,H3T 1E2,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.6099682316118936,-72.3735220657276995
+S1,S1,HôPITAL SHRINERS POUR ENFANTS (QUéBEC),1 Main Street,montréal,QC,H3G 1A6,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.6099682316118936,-72.3735220657276995
+6951,6951,CIUSSS DE L'EST-DE-L'ОLE-DE-MONTRéAL — HôPITAL SANTA CABRINI,1 Main Street,montréal,QC,H1T 1P7,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.6099682316118936,-72.3735220657276995
+7007,7007,CIUSSS DU NORD-DE-L'ОLE-DE-MONTRéAL — HôPITAL FLEURY,1 Main Street,montréal,QC,H2B 1K3,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,46.6099682316118936,-72.3735220657276995
+S2,S2,CISSS DE LA MONTéRéGIE-OUEST — HôPITAL BARRIE MEMORIAL,1 Main Street,ormstown,QC,J0S 1K0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,45.1300,-74.0000
+8538,8538,Balcarres Integrated Care Centre,100 south elgin st,Abernethy No. 186,SK,S0G 0C0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.803208000000005,-103.550837
+8534,8534,Arcola Health Centre,607 prairie ave,Arcola,SK,S0C 0G0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.637817600000005,-102.4846027
+8535,8535,Assiniboia Union Hospital,501 6 avenue,Assiniboia,SK,S0H 0B0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,49.628594,-105.983248
+8551,8551,Biggar and District Health Centre,501 1 avenue w,Biggar,SK,S0K 0M0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,52.05738,-107.996219
+8553,8553,Biggar Hospital,501 1 ave w,Biggar,SK,S0K 0M0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.0566752,-107.9968687
+8562,8562,Broadview Hospital,901 nina street,Broadview,SK,S0G 0K0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,50.373996000000005,-102.584409
+8569,8569,Canora Hospital,1219 main street,Canora,SK,S0A 0L0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,51.626261,-102.439565
+8572,8572,Carrot River Health Centre,4101 1 avenue w,Carrot River,SK,S0E 0L0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,53.28255600000001,-103.591844
+8576,8576,Central Butte Regency Hospital,601 canada street,Central Butte,SK,S0H 0T0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,50.799886,-106.50876000000001
+8600,8600,Davidson Health Centre,900 government rd,Davidson,SK,S0G 1A0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.266611,-105.9844709
+8603,8603,Dinsmore Health Care Centre,207 1 street e,Dinsmore,SK,S0L 0T0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,51.333416,-107.44446299999998
+8618,8618,Emmanuel Health - St. Anthony’s Hospital,1 Main Street,Esterhazy,SK,S0A 0X0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,50.6500,-102.0667
+8900,8900,St. Anthony's Hospital,216 ancona st,Esterhazy,SK,S0A 0X0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.6504867,-102.08414309999999
+8904,8904,St. Joseph's Hospital,1174 nicholson road,Estevan,SK,S4A 2V6,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,49.152536,-103.012175
+8619,8619,Emmanuel Health - St. Joseph’s Hospital [Estevan],1 Main Street,Estevan,SK,S4A 0H3,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,49.1392,-102.9861
+8906,8906,St. Joseph's Hospital - Gravelbourg,216 bettez st,Gravelbourg,SK,S0H 1X0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.8742767,-106.5629233
+8620,8620,Emmanuel Health - St. Joseph’s Hospital/Foyer d’Youville,1 Main Street,Gravelbourg,SK,S0H 1X0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,49.8740,-106.5550
+8666,8666,Herbert & District Integrated Health Facility,405 herbert ave,Herbert,SK,S0H 2A0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.4263039,-107.21888529999998
+8670,8670,Hudson Bay Health Care Facility,614 prince st,Hudson Bay,SK,S0E 0Y0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.85392589999999,-102.387622
+8672,8672,Humboldt District Hospital,1 Main Street,Humboldt,SK,S0K 2A0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,52.2019,-105.1231
+8671,8671,Humboldt District Health Complex,515 14 avenue,Humboldt,SK,S0K 2A0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.2124959,-105.1210596
+8675,8675,Indian Head Union Hospital,300 hospital st,Indian Head,SK,S0G 2K0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.536462,-103.6785068
+8685,8685,Kamsack Hospital and Nursing Home,341 stewart street,Kamsack,SK,S0A 1S0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,51.556726,-101.887773
+8690,8690,Kelvington Hospital,512 1 ave s,Kelvington,SK,S0A 1W0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.158065,-103.526917
+8693,8693,Kerrobert Integrated Health Centre,635 alberta avenue,Kerrobert,SK,S0L 1R0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,51.917673,-109.14045
+8692,8692,Kerrobert Hospital,115 manitoba ave,Kerrobert,SK,S0L 1R0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.913666,-109.13186599999999
+8697,8697,Kindersley Hospital,1003 1 st w,Kindersley,SK,S0L 1S2,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.470908,-109.164454
+8699,8699,Kipling Integrated Health Centre,906 industrial drive,Kipling,SK,S0G 2S0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,50.101613,-102.641269
+8701,8701,Kipling Memorial Health Centre,803 1 st,Kipling,SK,S0G 2S0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.1023016,-102.63810959999999
+8710,8710,LA LOCHE HEALTH CENTRE,1 dene rd,La Loche,SK,S0M 1G0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,56.491177,-109.45078500000001
+8711,8711,LA RONGE HEALTH CENTRE,227 backlund st,La Ronge,SK,S0J 1L0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,55.105254,-105.28969
+8726,8726,Lanigan Hospital,36 downing street e,Lanigan,SK,S0K 2M0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,51.851471999999994,-105.02394699999999
+8729,8729,Leader and District Integrated Healthcare Facility,400 1 street w,Leader,SK,S0N 1H0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,50.890917,-109.541118
+8730,8730,Leader Hospital,423 main st e,Leader,SK,S0N 1H0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.890964000000004,-109.54136799999999
+8908,8908,St. Joseph's Integrated Care Centre,508 westmoor st,Lestock,SK,S0A 2G0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.314223999999996,-103.98292009999999
+8739,8739,Lloydminster Hospital,3820 43 ave,Lloydminster (Part),SK,S9V 1Y5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.272630500000005,-109.9895267
+8715,8715,Lake Health Centre & Special Care Home,510 2 st,Loon Lake,SK,S0M 1L0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,54.027538,-109.158882
+8748,8748,Maidstone Health Complex,214 5 ave e,Maidstone,SK,S0M 1M0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.090537,-109.29366999999999
+8752,8752,Maple Creek Hospital,575 hwy 21 s,Maple Creek,SK,S0N 1N0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.90328,-109.49
+8790,8790,Meadow Lake Hospital,2 711 centre st,Meadow Lake,SK,S9X 1E6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,54.123568799999994,-108.43473610000001
+8760,8760,Melfort Hospital,510 broadway avenue,Melfort,SK,S0E 1A0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,52.865784,-104.614632
+8915,8915,St. Peters Hospital,200 heritage dr,Melville,SK,S0A 2P0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.9376801,-102.82051059999999
+8858,8858,Riverside Health Complex,1 1 st s,Mervin No. 499,SK,S0M 2Y0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.388917000000006,-108.97280900000001
+8767,8767,Moose Jaw Union Hospital,455 fairford st e,Moose Jaw,SK,S6H 1H3,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.392480299999995,-105.5246872
+8605,8605,Dr. f.h. Wigmore Regional Hospital,55 diefenbaker drive,Moose Jaw,SK,S6J 0C2,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,50.419139,-105.525048
+8891,8891,Southeast Integrated Care Centre – Moosomin,601 wright rd,Moosomin,SK,S0G 3N0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,50.136107,-101.656361
+8777,8777,Nipawin Health Care Facility,800 6 street e,Nipawin,SK,S0E 1E0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,53.356182,-104.004036
+8778,8778,Nipawin Hospital,800 6 st e,Nipawin,SK,S0E 1E0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,53.355955099999996,-104.0038797
+8874,8874,Saskatchewan Hospital - North Battleford,1 jersey st,North Battleford,SK,S9A 2X8,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.740568,-108.26538500000001
+8544,8544,Battlefords Union Hospital and Mental Health Centre — Battlefords Union Hospital,1 Main Street,North Battleford,SK,S9A 1Z1,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,52.7575,-108.2861
+8542,8542,Battlefords Union Hospital,1092 107 street,North Battleford,SK,S9A 1Z1,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,52.771802,-108.288771
+8873,8873,Saskatchewan Hospital,1 Main Street,North Battleford,SK,S9A 2X8,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,52.740533,-108.265676
+8798,8798,Outlook Hospital,609 pangman st,Outlook,SK,S0L 2N0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.483632,-107.062979
+8818,8818,Porcupine Carragana Hospital,1 po box 70 windsor ave.,Porcupine Plain,SK,S0E 1H0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.596679,-103.262613
+8941,8941,Victoria Hospital and Regional Mental Health Centre — Victoria Regional Mental Health Centre,1 Main Street,Prince Albert,SK,S6V 5T4,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,53.2000,-105.7500
+8810,8810,Pineview Hospital,1 dr o k hjertaas dr,Prince Albert,SK,S6V 4B2,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,53.191545,-105.786266
+8939,8939,Victoria Hospital,1200 24 st w,Prince Albert,SK,S6V 4B2,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,53.192094999999995,-105.78405900000001
+8840,8840,Radville Marian Health Centre,840 conrad ave,Radville,SK,S0C 2G0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,49.46414,-104.30533100000001
+8846,8846,Redvers Health Centre,18 eichhorst street,Redvers,SK,S0C 2H0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,49.572789,-101.694417
+8850,8850,Regina General Hospital,1440 14 ave,Regina,SK,S4P 0W5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.4439653,-104.6009937
+8953,8953,Wascana Rehabilitation Centre,2180 23 ave,Regina,SK,S4S 0A5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.4251896,-104.61106240000001
+8806,8806,Pasqua Hospital,4101 dewdney avenue,Regina,SK,S4T 1A5,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,50.454433,-104.638463
+8863,8863,Rosetown Health Centre,1 Main Street,Rosetown,SK,S0L 2V0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,51.5500,-107.9833
+8862,8862,Rosetown and District Health Centre,409 highway 4 n,Rosetown,SK,S0L 2V0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,51.551089000000005,-107.997869
+8867,8867,Rosthern Hospital,2016 2 st,Rosthern,SK,S0K 3R0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.6665813,-106.33326570000001
+8913,8913,St. Paul's Hospital,1702 20 st w,Saskatoon,SK,S7M 0Z9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.126313,-106.696366
+8854,8854,Regional Psychiatric Centre (Saskatoon),2520 central ave,Saskatoon,SK,S7K 3X5,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.161772,-106.60286599999999
+8875,8875,Saskatoon City Hospital,701 queen street,Saskatoon,SK,S7K 0M7,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,52.13643,-106.65391499999998
+8868,8868,Royal University Hospital (Ruh),103 hospital drive,Saskatoon,SK,S7N 0W8,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,52.130843,-106.641547
+8680,8680,Jim Pattison Children's Hospital,103 hospital drive,Saskatoon,SK,S0A 1N0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,52.131555,-106.64193999999999
+8880,8880,Shaunavon Hospital and Care Centre,660 fourth st e,Shaunavon,SK,S0N 2M0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.651473100000004,-108.4048574
+8802,8802,Parkland Integrated Health Centre,1 Main Street,Shellbrook,SK,S0J 2E0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,53.2167,-106.4000
+8881,8881,Shellbrook Hospital,1 dr jlspencer drive,Shellbrook,SK,S0J 2E0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,53.218534999999996,-106.401225
+8897,8897,Spiritwood Collaborative Emergency Centre,1 Main Street,Spiritwood,SK,S0J 2M0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,52.0135234234234234,-105.7511945945945946
+8896,8896,Spiritwood and District Health Complex Long-Term Care,416 main street,Spiritwood,SK,S0J 2M0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,52.0135234234234234,-105.7511945945945946
+8598,8598,Cypress Regional Hospital,2004 saskatchewan drive,Swift Current,SK,S9H 5M8,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,50.311026,-107.775948
+8933,8933,Tisdale Hospital,2010 110 ave w,Tisdale,SK,S0E 1T0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.856825,-104.054939
+8532,8532,All Nations' Healing Hospital,450 8 st,Treaty Four Reserve Grounds 77,SK,S0G 1S0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.76168870000001,-103.7870088
+8937,8937,Unity and District Health Centre,1 po box 741 airport road,Unity,SK,S0K 4L0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,52.442896,-109.172852
+8936,8936,Unity & District Health Centre,1 hwy no 14 n,Unity,SK,S0K 4L0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.442736,-109.173493
+8944,8944,Wadena Hospital,533 5 st ne,Wadena,SK,S0A 4J0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.9519198,-103.7943137
+8947,8947,Wakaw Health Centre,300 1 st n,Wakaw,SK,S0K 4P0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,52.6509338,-105.74211399999999
+8957,8957,Watrous District Health Complex,702 4 st e,Watrous,SK,S0K 4T0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.674001200000006,-105.4556517
+8956,8956,Watrous District Health Complex — Watrous Hospital,1 Main Street,Watrous,SK,S0K 4T0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,51.6841,-105.4661
+8960,8960,Wawota Memorial Health Centre,201 choo foo cres. po box 60,Wawota,SK,S0G 5A0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.9060021,-102.02233100000001
+8965,8965,Weyburn Community Health Services (Mental Health),1 Main Street,Weyburn,SK,S4H 2Z9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.674985,-103.87188499999999
+8968,8968,Weyburn General Hospital and Mental Health Centre — Weyburn General Hospital,1 Main Street,Weyburn,SK,S4H 0N1,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,49.6611,-103.8525
+8969,8969,Weyburn General Hospital and Mental Health Centre — Weyburn Mental Health Centre,1 Main Street,Weyburn,SK,S4H 2Z9,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,49.6611,-103.8525
+8967,8967,Weyburn General Hospital,201 first ave nw,Weyburn,SK,S4H 2Z9,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,49.668898999999996,-103.853095
+8980,8980,Wilkie and District Health Centre,304 7 avenue e,Wilkie,SK,S0K 4W0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,52.405556,-108.701125
+8987,8987,Wolseley Memorial Integrated Health Centre,801 ouimet st,Wolseley,SK,S0G 5H0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,50.4266315,-103.2685272
+8991,8991,Wynyard Hospital,300 10 st e,Wynyard,SK,S0A 4T0,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.7675013,-104.1676207
+8998,8998,Yorkton Regional and Mental Health Centre — Yorkton Regional Health Centre,1 Main Street,Yorkton,SK,S3N 2K6,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,51.2139,-102.4628
+8995,8995,Yorkton Regional Health Centre,270 bradbrooke dr,Yorkton,SK,S3N 2K6,,1-800-622-6232,Hospitals,Public Health Agency of Canada,Yes,5,51.2022464,-102.4806123
+9000,9000,Athabasca Health Facility- Yutthe Dene Nakohoki Health Facility,1 black lake reservice (chicken 224),black lake,SK,S0J 0H0,,1-800-622-6232,Hospitals,Canadian Institute for Health Information,Yes,5,52.0135234234234234,-105.7511945945945946
+8902,8902,ST. JOSEPH'S HEALTH CENTRE (ОLE DE LA CROSSE),1 la jeunesse ave,Оle-а-la-Crosse,SK,S0M 1C0,,1-800-622-6232,Hospitals,Saskatchewan Health Authorities,Yes,5,55.445653,-107.899584
+9007,9007,Dawson City Community Hospital,501 sixth ave,Dawson,YT,Y0B 1G0,,1-800-622-6232,Hospitals,Yukon Territories,Yes,5,64.05664,-139.434
+9029,9029,Watson Lake Community Hospital,801 ravenhill dr,Watson Lake,YT,Y0A 1C0,,1-800-622-6232,Hospitals,Yukon Territories,Yes,5,60.07049,-128.71
+9033,9033,Whitehorse General Hospital,5 hospital rd,Whitehorse,YT,Y1A 3H7,,1-800-622-6232,Hospitals,Yukon Territories,Yes,5,60.71926,-135.04399999999998

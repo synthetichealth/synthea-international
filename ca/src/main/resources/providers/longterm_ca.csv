@@ -1,0 +1,847 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+24,24,Bethany Care Society — Bethany Airdrie,1 Main Street,Airdrie,AB,T4B 2C4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.2917,-114.0144
+113,113,Extendicare — Athabasca,1 Main Street,Athabasca,AB,T9S 1K4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,54.7197,-113.2856
+104,104,Dr. w. r. Keir - Barrhead Continuing Care Centre,1 Main Street,Barrhead,AB,T7N 1L2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,54.1167,-114.4000
+114,114,Extendicare — Bonnyville,1 Main Street,Bonnyville,AB,T9N 2E8,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,54.2667,-110.7500
+162,162,Intercare Corporate Group Inc. — Chinook Care Centre,1 Main Street,Calgary,AB,T2V 4Y8,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+228,228,Retirement Concepts — Millrise Place,1 Main Street,Calgary,AB,T2Y 5B9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+115,115,Extendicare — Cedars Villa,1 Main Street,Calgary,AB,T3C 0E7,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+128,128,Father Lacombe Care Society — Father Lacombe Care Centre,1 Main Street,Calgary,AB,T2X 2A3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+118,118,Extendicare — Hillcrest,1 Main Street,Calgary,AB,T2N 1C1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+60,60,Carewest — Signal Pointe,1 Main Street,Calgary,AB,T3H 4M3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+229,229,Revera Inc. — Bow Crest Care Centre,1 Main Street,Calgary,AB,T3B 0C7,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+231,231,Revera Inc. — Mckenzie Towne Care Centre,1 Main Street,Calgary,AB,T2Z 4G4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+129,129,Father Lacombe Care Society — Providence Care Centre,1 Main Street,Calgary,AB,T2X 0X2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+54,54,Carewest — Garrison Green,1 Main Street,Calgary,AB,T3E 6Z5,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+233,233,Revera Inc. — Mount Royal Care Centre,1 Main Street,Calgary,AB,T2T 3C2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+55,55,Carewest — George Boyack,1 Main Street,Calgary,AB,T2E 0A5,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+205,205,Park Place Seniors Living Inc. — Newport Harbour Care Centre,1 Main Street,Calgary,AB,T3K 6B4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+203,203,Park Place Seniors Living Inc. — Generations,1 Main Street,Calgary,AB,T3N 1S3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+8,8,Agecare — Walden Heights Seniors Community,1 Main Street,Calgary,AB,T2X 0V1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+25,25,Bethany Care Society — Bethany Calgary,1 Main Street,Calgary,AB,T2N 1C6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+6,6,Agecare — Skypointe,1 Main Street,Calgary,AB,T3N 0Y7,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+58,58,Carewest — Royal Park,1 Main Street,Calgary,AB,T3E 7J8,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+57,57,Carewest — Rouleau Manor,1 Main Street,Calgary,AB,T2S 3C3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+5,5,Agecare — Seton,1 Main Street,Calgary,AB,T3M 2M3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+330,330,Wing Kei — Greenview,1 Main Street,Calgary,AB,T2E 7Y6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+329,329,Wing Kei — Care Centre,1 Main Street,Calgary,AB,T2E 2R4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+2,2,Agecare — Beverly Centre Glenmore,1 Main Street,Calgary,AB,T2V 4S1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+161,161,Intercare Corporate Group Inc. — Brentwood Care Centre,1 Main Street,Calgary,AB,T2N 3Y6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+29,29,Bethany Care Society — Bethany Riverview,1 Main Street,Calgary,AB,T2B 2W6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+163,163,Intercare Corporate Group Inc. — Southwood Care Centre,1 Main Street,Calgary,AB,T2H 1M9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+28,28,Bethany Care Society — Bethany Harvest Hills,1 Main Street,Calgary,AB,T3K 4Y1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+306,306,Travois Holdings Ltd. — Mayfair Care Centre,1 Main Street,Calgary,AB,T2V 2X1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+305,305,Travois Holdings Ltd. — Glamorgan Care Centre,1 Main Street,Calgary,AB,T3E 4Z5,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+3,3,Agecare — Beverly Centre Lake Midnapore,1 Main Street,Calgary,AB,T2X 3S3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+289,289,the Brenda Strafford Foundation Ltd. — Bow View Manor,1 Main Street,Calgary,AB,T3B 0K7,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+291,291,the Brenda Strafford Foundation Ltd. — Wentworth Manor - the Court,1 Main Street,Calgary,AB,T3H 3M2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+290,290,the Brenda Strafford Foundation Ltd. — Clifton Manor,1 Main Street,Calgary,AB,T2A 0A8,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0500,-114.0667
+286,286,the Bethany Group — Bethany Meadows,1 Main Street,Camrose,AB,T4V 1Y6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.0167,-112.8333
+288,288,the Bethany Group — Rosehaven Care Centre,1 Main Street,Camrose,AB,T4V 1Y6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.0167,-112.8333
+287,287,the Bethany Group — Louise Jensen Care Centre,1 Main Street,Camrose,AB,T4V 4P8,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.0167,-112.8333
+328,328,Willow Creek Continuing Care Centre,1 Main Street,Claresholm,AB,T0L 0T0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.0194,-113.5783
+26,26,Bethany Care Society — Bethany Cochrane,1 Main Street,Cochrane,AB,T4C 1X9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.1890,-114.4670
+119,119,Extendicare — Holyrood,1 Main Street,Edmonton,AB,T6C 2T1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.5344,-113.4903
+47,47,Capitalcare — Lynnwood,1 Main Street,Edmonton,AB,T5R 2R8,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.5344,-113.4903
+230,230,Revera Inc. — Jasper Place,1 Main Street,Edmonton,AB,T5R 2V6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.5344,-113.4903
+251,251,Shepherd’s Care Foundation — Kensington Campus,1 Main Street,Edmonton,AB,T5L 5B1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.5344,-113.4903
+232,232,Revera Inc. — Miller Crossing,1 Main Street,Edmonton,AB,T5A 5J4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.5344,-113.4903
+45,45,Capitalcare — Dickinsfield,1 Main Street,Edmonton,AB,T5E 6C6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.5344,-113.4903
+201,201,Park Place Seniors Living Inc. — Benevolence Care Centre,1 Main Street,Edmonton,AB,T5P 3S7,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.5344,-113.4903
+217,217,Qualicare Ltd. — Jubilee Lodge Nursing Home,1 Main Street,Edmonton,AB,T6A 3A8,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.5344,-113.4903
+304,304,Touchmark at Wedgewood,1 Main Street,Edmonton,AB,T6M 2Y5,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.5344,-113.4903
+116,116,Extendicare — Eaux Claires,1 Main Street,Edmonton,AB,T5Z 0G7,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.5344,-113.4903
+312,312,Venta Care Centre,1 Main Street,Edmonton,AB,T5E 4K3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.5344,-113.4903
+50,50,Capitalcare — the Dianne and Irving Kipnes Centre for Veterans,1 Main Street,Edmonton,AB,T5E 6M8,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.5344,-113.4903
+14,14,Allen Gray Continuing Care Centre,1 Main Street,Edmonton,AB,T6L 7G1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.5344,-113.4903
+297,297,the Good Samaritan Society — Southgate Care Centre,1 Main Street,Edmonton,AB,T6J 2P1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.5344,-113.4903
+202,202,Park Place Seniors Living Inc. — Devonshire Care Centre,1 Main Street,Edmonton,AB,T6R 3H2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.5344,-113.4903
+252,252,Shepherd’s Care Foundation — Millwoods Campus,1 Main Street,Edmonton,AB,T6K 2R1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.5344,-113.4903
+250,250,Shepherd’s Care Foundation — Eden House,1 Main Street,Edmonton,AB,T6J 5S4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.5344,-113.4903
+269,269,St. Michael’s Long Term Care Centre,1 Main Street,Edmonton,AB,T5C 3H7,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.5344,-113.4903
+110,110,Edmonton Chinatown Care Centre,1 Main Street,Edmonton,AB,T5H 0G2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.5344,-113.4903
+293,293,the Good Samaritan Society — Mill Woods Centre,1 Main Street,Edmonton,AB,T6L 7A4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.5344,-113.4903
+204,204,Park Place Seniors Living Inc. — Hardisty Care Centre,1 Main Street,Edmonton,AB,T6A 0H5,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.5344,-113.4903
+235,235,Revera Inc. — South Terrace Continuing Care Centre,1 Main Street,Edmonton,AB,T6H 3J4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.5344,-113.4903
+117,117,Extendicare — Fort Macleod,1 Main Street,Fort Macleod,AB,T0L 0Z0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.7256,-113.3975
+219,219,Qualicare Ltd. — Rivercrest Care Centre,1 Main Street,Fort Saskatchewan,AB,T8L 2A5,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.7128,-113.2133
+213,213,Points West Living Grande Prairie,1 Main Street,Grande Prairie,AB,T8V 3G9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,55.1708,-118.7947
+65,65,Chantelle Management Ltd. — Grande Prairie Care Centre,1 Main Street,Grande Prairie,AB,T8V 3A2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,55.1708,-118.7947
+159,159,Hythe Continuing Care Centre,1 Main Street,Hythe,AB,T0H 2C0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.6230367521367521,-113.8616760683760684
+246,246,Salem Manor Nursing Home,1 Main Street,Leduc,AB,T9E 6L2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.2594,-113.5492
+120,120,Extendicare — Leduc,1 Main Street,Leduc,AB,T9E 6K6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.2594,-113.5492
+64,64,Chantelle Management Ltd. — Edith Cavell Care Centre,1 Main Street,Lethbridge,AB,T1J 0V6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.6942,-112.8328
+321,321,Westview Care Community,1 Main Street,Linden,AB,T0M 1J0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.6230367521367521,-113.8616760683760684
+121,121,Extendicare — Mayerthorpe,1 Main Street,Mayerthorpe,AB,T0E 1N0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.9503,-115.1336
+184,184,MANOIR DU LAC,1 Main Street,McLennan,AB,T0H 2L0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.6230367521367521,-113.8616760683760684
+280,280,Sunnyside Care Centre,1 Main Street,Medicine Hat,AB,T1A 5G1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.0417,-110.6775
+186,186,Masterpiece Southland Meadows,1 Main Street,Medicine Hat,AB,T1B 0B9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.0417,-110.6775
+206,206,Park Place Seniors Living Inc. — River Ridge Seniors Village,1 Main Street,Medicine Hat,AB,T1A 8V1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.0417,-110.6775
+7,7,Agecare — Valleyview,1 Main Street,Medicine Hat,AB,T1A 7K5,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.0417,-110.6775
+234,234,Revera Inc. — Riverview,1 Main Street,Medicine Hat,AB,T1A 4C2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.0417,-110.6775
+296,296,the Good Samaritan Society — South Ridge Village,1 Main Street,Medicine Hat,AB,T1B 4P1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.0417,-110.6775
+218,218,Qualicare Ltd. — Northcott Care Centre,1 Main Street,Ponoka,AB,T4J 1P4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.6833,-113.5667
+78,78,Covenant Care — Villa Marie,1 Main Street,Red Deer,AB,T4P 0S3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.2681,-113.8111
+122,122,Extendicare — Michener Hill,1 Main Street,Red Deer,AB,T4P 0M1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.2681,-113.8111
+27,27,Bethany Care Society — Bethany Collegeside,1 Main Street,Red Deer,AB,T4R 0M3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.2681,-113.8111
+295,295,the Good Samaritan Society — Rocky Mountain House Clearwater Centre,1 Main Street,Rocky Mountain House,AB,T4T 1W2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.3753,-114.9217
+257,257,Smoky Lake Continuing Care Centre,1 Main Street,Smoky Lake,AB,T0A 3C0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.6230367521367521,-113.8616760683760684
+77,77,Covenant Care — Foyer Lacombe,1 Main Street,St. Albert,AB,T8N 1K1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.6303,-113.6258
+216,216,Qualicare Ltd. — Citadel Care Centre,1 Main Street,St. Albert,AB,T8N 7K8,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.6303,-113.6258
+94,94,Covenant Health Youville Home,1 Main Street,St. Albert,AB,T8N 1K1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.6303,-113.6258
+123,123,Extendicare — St Paul,1 Main Street,St. Paul,AB,T0A 3A0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.9928,-111.2972
+298,298,the Good Samaritan Society — Stony Plain Care Centre,1 Main Street,Stony Plain,AB,T7Z 1P9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.5264,-114.0069
+4,4,Agecare — Sagewood Seniors Community Inc,1 Main Street,Strathmore,AB,T1P 0E2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.0378,-113.4003
+30,30,Bethany Care Society — Bethany Sylvan Lake,1 Main Street,Sylvan Lake,AB,T4S 2M3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.3083,-114.0964
+311,311,Vegreville Care Centre,1 Main Street,Vegreville,AB,T9C 0A1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.4928,-112.0522
+124,124,Extendicare — Viking,1 Main Street,Viking,AB,T0B 4N0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.0953,-111.7769
+125,125,Extendicare — Vulcan,1 Main Street,Vulcan,AB,T0L 2B0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.4000,-113.2500
+294,294,the Good Samaritan Society — Pembina Village,1 Main Street,evansburg,AB,T0E 0T0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.6230367521367521,-113.8616760683760684
+137,137,Galahad Care Centre,1 Main Street,galahad,AB,T0B 1R0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.6230367521367521,-113.8616760683760684
+171,171,LA CRETE CONTINUING CARE CENTRE,1 Main Street,la crete,AB,T0H 2H0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.6230367521367521,-113.8616760683760684
+221,221,Radway Continuing Care Centre,1 Main Street,radway,AB,T0A 2V0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.6230367521367521,-113.8616760683760684
+253,253,Sherwood Care,1 Main Street,sherwood park,AB,T8A 0X1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.6230367521367521,-113.8616760683760684
+49,49,Capitalcare — Strathcona,1 Main Street,sherwood park,AB,T8H 1V3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.6230367521367521,-113.8616760683760684
+1602,1602,the Care Group — Sherwood Crescent Manor,1 Main Street,Abbotsford,BC,V2T 1C1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.0500,-122.3167
+1325,1325,Pleasant Valley Manor,1 Main Street,Armstrong,BC,V0E 1B2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.4483,-119.1961
+960,960,Jackson House,1 Main Street,Ashcroft,BC,V0K 1A0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.7256,-121.2806
+1794,1794,Willingdon Care Centre,1 Main Street,Burnaby,BC,V5H 1P4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2667,-122.9667
+1548,1548,St. Michael’s Centre,1 Main Street,Burnaby,BC,V5J 5C2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2667,-122.9667
+601,601,Chetwynd Multilevel Care Unit,1 Main Street,Chetwynd,BC,V0C 1J0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,55.6972,-121.6333
+494,494,Bradley Centre,1 Main Street,Chilliwack,BC,V2P 1P7,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.1577,-121.9509
+919,919,Heritage Village,1 Main Street,Chilliwack,BC,V2R 3C9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.1577,-121.9509
+795,795,Forest View Place,1 Main Street,Clearwater,BC,V0E 1N0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.6500,-120.0333
+1644,1644,the Views,1 Main Street,Comox,BC,V9M 1P2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.6733,-124.9022
+457,457,Belvedere Seniors Living — Belvedere Care Centre,1 Main Street,Coquitlam,BC,V3K 7B3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2839,-122.7919
+1393,1393,Retirement Concepts — Dufferin Care Centre,1 Main Street,Coquitlam,BC,V3B 7X5,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2839,-122.7919
+1604,1604,the Care Group — the Madison,1 Main Street,Coquitlam,BC,V3J 2N1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2839,-122.7919
+1600,1600,the Care Group — Lakeshore Care Centre,1 Main Street,Coquitlam,BC,V3J 5G9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2839,-122.7919
+529,529,Burquitlam Lions Care Centre,1 Main Street,Coquitlam,BC,V3K 6A4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2839,-122.7919
+856,856,Golden Life Management — Joseph Creek Village,1 Main Street,Cranbrook,BC,V1C 1A4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.5097,-115.7667
+1177,1177,Mountain View Manor,1 Main Street,Delta,BC,V4K 3V6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.0847,-123.0586
+1620,1620,the Good Samaritan Society — Delta View Life Enrichment Centre,1 Main Street,Delta,BC,V4K 3N3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.0847,-123.0586
+1619,1619,the Good Samaritan Society — Delta View Habilitation Centre,1 Main Street,Delta,BC,V4K 3N3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.0847,-123.0586
+533,533,Cairnsmore Place,1 Main Street,Duncan,BC,V9L 4H2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,48.7787,-123.7079
+859,859,Golden Life Management — Silver Kettle Village,1 Main Street,Grand Forks,BC,V0H 1H4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.0333,-118.4400
+809,809,Fraser Hope Lodge,1 Main Street,Hope,BC,V0X 1L4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.3858,-121.4419
+1259,1259,Overlander Extended Care Hospital,1 Main Street,Kamloops,BC,V2B 7Z9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.6761,-120.3408
+656,656,Cottonwoods Care Centre,1 Main Street,Kelowna,BC,V1Y 2Z9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8881,-119.4956
+436,436,Baptist Housing Ministries — Village at Mill Creek,1 Main Street,Kelowna,BC,V1Y 5Y5,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8881,-119.4956
+1623,1623,the Good Samaritan Society — Mountainview Village,1 Main Street,Kelowna,BC,V1W 3P6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8881,-119.4956
+921,921,Highland Lodge,1 Main Street,Langley,BC,V3A 4C3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.1044,-122.5827
+1720,1720,Vantage Living — Monashee Mews,1 Main Street,Lumby,BC,V0E 2G5,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.2494,-118.9656
+428,428,Baillie House,1 Main Street,Maple Ridge,BC,V2X 7G5,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2167,-122.6000
+1409,1409,Revera Inc. — Holyrood Manor,1 Main Street,Maple Ridge,BC,V2X 3E6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2167,-122.6000
+1153,1153,Minto House,1 Main Street,Nakusp,BC,V0G 1R0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.2434,-117.8002
+717,717,Dufferin Place,1 Main Street,Nanaimo,BC,V9S 2B7,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.1642,-123.9364
+1790,1790,William Rudd House,1 Main Street,New Westminster,BC,V3L 5E8,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2069,-122.9111
+1015,1015,Kiwanis Care Centre North Vancouver,1 Main Street,North Vancouver,BC,V7H 3A5,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.3641,-123.0066
+1124,1124,Mckinney Place,1 Main Street,Oliver,BC,V0H 1T0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.1844,-119.5500
+1556,1556,Stanford Place,1 Main Street,Parksville,BC,V9P 0A7,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.3150,-124.3120
+1778,1778,Westview Place,1 Main Street,Penticton,BC,V2A 3G6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.4911,-119.5886
+1771,1771,Westhaven,1 Main Street,Port Alberni,BC,V9Y 4S1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2339,-124.8050
+380,380,Alberni-Clayoquot Continuing Care Society — Echo Village,1 Main Street,Port Alberni,BC,V9Y 4X3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2339,-124.8050
+908,908,Hawthorne Seniors Care Community,1 Main Street,Port Coquitlam,BC,V3C 1W3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2625,-122.7811
+726,726,Eagle Ridge Manor,1 Main Street,Port Moody,BC,V3H 3W9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2831,-122.8317
+528,528,Buron Healthcare Group — Simon Fraser Lodge,1 Main Street,Prince George,BC,V2M 2B3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.9169,-122.7494
+826,826,Gateway Lodge,1 Main Street,Prince George,BC,V2L 0B3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.9169,-122.7494
+724,724,Eagle Park Health Care Centre,1 Main Street,Qualicum Beach,BC,V9K 2L1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.3500,-124.4333
+1419,1419,Richmond Lions Manor,1 Main Street,Richmond,BC,V7E 3M4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.1667,-123.1333
+1622,1622,the Good Samaritan Society — Hillside Village,1 Main Street,Salmon Arm,BC,V1E 2B6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.7022,-119.2722
+442,442,Bastion Place,1 Main Street,Salmon Arm,BC,V1E 2S5,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.7022,-119.2722
+1496,1496,Shorncliffe Intermediate Care Facility,1 Main Street,Sechelt,BC,V0N 3A0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.4742,-123.7542
+712,712,Dr. Andrew Pavilion,1 Main Street,Summerland,BC,V0H 1Z0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.6006,-119.6778
+682,682,Czorny Alzheimer Centre,1 Main Street,Surrey,BC,V3S 5M1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.1900,-122.8489
+1400,1400,Retirement Concepts — Rosemary Heights Seniors Village,1 Main Street,Surrey,BC,V3S 2J9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.1900,-122.8489
+551,551,Carelife Fleetwood,1 Main Street,Surrey,BC,V4N 5T5,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.1900,-122.8489
+1331,1331,Poplar Ridge Pavilion,1 Main Street,Trail,BC,V1R 4M1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.0950,-117.7100
+858,858,Golden Life Management — Rose Wood Village,1 Main Street,Trail,BC,V1R 4X9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.0950,-117.7100
+1411,1411,Revera Inc. — Lakeview Care Centre,1 Main Street,Vancouver,BC,V5N 5W4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2500,-123.1000
+1390,1390,Retirement Concepts,1 Main Street,Vancouver,BC,V6E 3V7,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2500,-123.1000
+1601,1601,the Care Group — Point Grey Private Hospital,1 Main Street,Vancouver,BC,V6K 1B9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2500,-123.1000
+1353,1353,Providence Health Care — St Vincent’s: Langara,1 Main Street,Vancouver,BC,V5X 4V4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2500,-123.1000
+393,393,Amherst Private Hospital,1 Main Street,Vancouver,BC,V5X 1X3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2500,-123.1000
+1599,1599,the Care Group — Braddan Private Hospital,1 Main Street,Vancouver,BC,V6K 1J6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2500,-123.1000
+1063,1063,Little Mountain Residential Care and Housing Society — Adanac Park Lodge,1 Main Street,Vancouver,BC,V5K 4T2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2500,-123.1000
+1447,1447,Royal Ascot Care Centre,1 Main Street,Vancouver,BC,V5M 1Y1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2500,-123.1000
+1406,1406,Revera Inc. — Arbutus Care Centre,1 Main Street,Vancouver,BC,V6L 2L1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2500,-123.1000
+1744,1744,Vjh - Chronic Behaviour Disorder Unit,1 Main Street,Vernon,BC,V1T 5L2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.2670,-119.2720
+1329,1329,Polson,1 Main Street,Vernon,BC,V1T 5L2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.2670,-119.2720
+1408,1408,Revera Inc. — Glenwarren Lodge,1 Main Street,Victoria,BC,V8T 1B3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,48.4283,-123.3647
+1479,1479,Selkirk Place,1 Main Street,Victoria,BC,V8T 5K7,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,48.4283,-123.3647
+1170,1170,Mount St. Mary Hospital,1 Main Street,Victoria,BC,V8V 5A9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,48.4283,-123.3647
+402,402,Anderson Manor,1 Main Street,Victoria,BC,V8V 4C8,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,48.4283,-123.3647
+1348,1348,Priory (Hiscock & Heritage Woods),1 Main Street,Victoria,BC,V9B 2W4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,48.4283,-123.3647
+1725,1725,Veterans Memorial Lodge,1 Main Street,Victoria,BC,V8X 4Y7,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,48.4283,-123.3647
+955,955,Island Health,1 Main Street,Victoria,BC,V8R 1J8,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,48.4283,-123.3647
+511,511,Brookhaven Extended Care Unit and Chronic Behavior Disorder Unit,1 Main Street,West Kelowna,BC,V4T 2N7,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.3391572413793103,-121.9197972413793103
+1770,1770,West Vancouver Care Centre,1 Main Street,West Vancouver,BC,V7V 4K9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.3667,-123.1667
+758,758,Evergreen Baptist Care Home,1 Main Street,White Rock,BC,V4B 3R5,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.0250,-122.8028
+697,697,Deni House,1 Main Street,Williams Lake,BC,V2G 2G8,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.1294,-122.1383
+1277,1277,Park Place Seniors Living Inc. — Glenwood Seniors Community,1 Main Street,agassiz,BC,V0M 1A2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.3391572413793103,-121.9197972413793103
+1276,1276,Park Place Seniors Living Inc. — Fort Langley Seniors Village,1 Main Street,fort langley,BC,V1M 2R4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.3391572413793103,-121.9197972413793103
+800,800,Fort Nelson Multi Level Unit,1 Main Street,fort nelson,BC,V0C 1R0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.3391572413793103,-121.9197972413793103
+510,510,Brookhaven Care Centre,1 Main Street,westbank,BC,V4T 2N7,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8423,-119.6743
+1874,1874,Elkwood Manor,1 Main Street,Wallace-Woodworth,MB,R0C 0W0,,1-800-622-6232,Nursing and residential care facilities,Province of Manitoba and Manitoba Health Authorities,No,5,49.976116999999995,-101.240845
+1933,1933,Middlechurch Home of Winnipeg Inc.,1 Main Street,West St. Paul,MB,R4A 4A6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.0119,-97.1150
+1886,1886,Fred Douglas Lodge,1 Main Street,Winnipeg,MB,R2X 0B8,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1895,1895,Golden Door Geriatric Centre,1 Main Street,Winnipeg,MB,R3T 2G6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1896,1896,Golden Links Lodge,1 Main Street,Winnipeg,MB,R2N 3Z6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1921,1921,Lions Personal Care Centre,1 Main Street,Winnipeg,MB,R3B 2W6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1948,1948,Park Manor Personal Care Home,1 Main Street,Winnipeg,MB,R2C 1L7,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1960,1960,Revera Inc. — Beacon Hill Lodge,1 Main Street,Winnipeg,MB,R3C 1C9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1961,1961,Revera Inc. — Charleswood Care Centre,1 Main Street,Winnipeg,MB,R3R 0G8,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1962,1962,Revera Inc. — Heritage Lodge Personal Care Home,1 Main Street,Winnipeg,MB,R3K 0X2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1963,1963,Revera Inc. — Kildonan Personal Care Centre,1 Main Street,Winnipeg,MB,R2G 1P2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1931,1931,Meadowood Manor,1 Main Street,Winnipeg,MB,R2M 5B2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1884,1884,Extendicare — Vista Park Lodge,1 Main Street,Winnipeg,MB,R2N 1P8,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1883,1883,Extendicare — Tuxedo Villa,1 Main Street,Winnipeg,MB,R3P 0N3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1882,1882,Extendicare — Oakview Place,1 Main Street,Winnipeg,MB,R3J 1A5,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1964,1964,Revera Inc. — Maples Personal Care Home,1 Main Street,Winnipeg,MB,R2P 1V4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1849,1849,Calvary Place Personal Care Home,1 Main Street,Winnipeg,MB,R3E 3R6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1965,1965,Revera Inc. — Parkview Place Winnipeg,1 Main Street,Winnipeg,MB,R3B 2M4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1966,1966,Revera Inc. — Poseidon Care Centre,1 Main Street,Winnipeg,MB,R3M 3E5,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1967,1967,River East Personal Care Home,1 Main Street,Winnipeg,MB,R2K 4K8,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1968,1968,River Park Gardens,1 Main Street,Winnipeg,MB,R2N 0C4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1969,1969,River Road Place,1 Main Street,Winnipeg,MB,R2M 3Z9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1995,1995,Southeast Personal Care Home,1 Main Street,Winnipeg,MB,R3T 2M3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+2010,2010,the Bethania Group — Pembina Place Mennonite Personal Care Home,1 Main Street,Winnipeg,MB,R3L 2E1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1908,1908,Holy Family Nursing Home,1 Main Street,Winnipeg,MB,R2W 1T9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1925,1925,Luther Home,1 Main Street,Winnipeg,MB,R2V 2G9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+2011,2011,the Convalescent Home of Winnipeg,1 Main Street,Winnipeg,MB,R3M 2N6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+2014,2014,the Salvation Army Golden West Centennial Lodge,1 Main Street,Winnipeg,MB,R2Y 0S8,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+2029,2029,West Park Manor Personal Care Home,1 Main Street,Winnipeg,MB,R3R 1X2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1979,1979,Saul and Claribel Simkin Centre,1 Main Street,Winnipeg,MB,R3Y 1V9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1869,1869,Donwood Manor Personal Care Home Inc.,1 Main Street,Winnipeg,MB,R2G 0V9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+2033,2033,Winnipeg Regional Health Authority,1 Main Street,Winnipeg,MB,R3B 1E2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+2009,2009,the Bethania Group — Bethania Mennonite Personal Care Home Inc.,1 Main Street,Winnipeg,MB,R2K 3S7,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1824,1824,Actionmarguerite (Saint-Boniface),1 Main Street,Winnipeg,MB,R2H 2B3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1825,1825,Actionmarguerite (Saint-Vital),1 Main Street,Winnipeg,MB,R2M 5M4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+1826,1826,Actionmarguerite (St. Joseph’s Residence),1 Main Street,Winnipeg,MB,R2P 1S6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+2000,2000,St. Norbert Nursing Home,1 Main Street,Winnipeg,MB,R3V 1J6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.8844,-97.1464
+2147,2147,Golden Heights Manor,1 Main Street,Bonavista,NL,A0C 1B0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,48.6597,-53.1208
+2110,2110,Bonavista Protective Community Residences,1 Main Street,Bonavista,NL,A0C 1B0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,48.6597,-53.1208
+2136,2136,Dr. Hugh Twomey Health Centre,1 Main Street,Botwood,NL,A0H 1E0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.1500,-55.3667
+2176,2176,Pte. Josiah Squibb Memorial Pavilion,1 Main Street,Carbonear,NL,A1Y 1A4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,47.7375,-53.2294
+2130,2130,Dr. Albert o’Mahony Memorial Manor,1 Main Street,Clarenville,NL,A5A 1K3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,48.1566,-53.9650
+2124,2124,Clarenville Protective Community Residences,1 Main Street,Clarenville,NL,A5A 1K3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,48.1566,-53.9650
+2127,2127,Corner Brook Long Term Care Home,1 Main Street,Corner Brook,NL,A2H 5G4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,48.9287,-57.9260
+2162,2162,Lakeside Homes,1 Main Street,Gander,NL,A1V 2L7,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,48.9569,-54.6089
+2107,2107,Blue Crest Interfaith Home,1 Main Street,Grand Bank,NL,A0E 1W0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,47.1000,-55.7833
+2152,2152,Happy Valley-Goose Bay Long Term Care Home,1 Main Street,Happy Valley-Goose Bay,NL,A0P 1E0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,48.5522765625000000,-55.3880953125000000
+2171,2171,North Haven Manor,1 Main Street,Lewisporte,NL,A0G 3A0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2300,-55.0700
+2166,2166,Masonic Park Nursing Home,1 Main Street,Mount Pearl,NL,A1N 3K5,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,48.5522765625000000,-55.3880953125000000
+2191,2191,Valley Vista Senior Citizens Complex,1 Main Street,Springdale,NL,A0J 1T0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.4974,-56.0727
+2157,2157,John m. Gray Centre,1 Main Street,St. Anthony,NL,A0K 4S0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.3725,-55.5947
+2186,2186,St. Patrick’s Mercy Home,1 Main Street,St. John's,NL,A1B 1S5,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,47.4817,-52.7971
+2181,2181,Saint Luke’s Homes,1 Main Street,St. John's,NL,A1E 5Z3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,47.4817,-52.7971
+2148,2148,Governing Council of the Salvation Army in Canada — the Salvation Army Glenbrook Lodge,1 Main Street,St. John's,NL,A1A 2G9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,47.4817,-52.7971
+2175,2175,Pleasant View Towers,1 Main Street,St. John's,NL,A1A 0L7,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,47.4817,-52.7971
+2188,2188,the Agnes Pratt Home,1 Main Street,St. John's,NL,A1B 2B4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,47.4817,-52.7971
+2104,2104,Bay St. George Long Term Care Centre,1 Main Street,Stephenville Crossing,NL,A0N 2C0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,48.5167,-58.4167
+2119,2119,Carmelite House,1 Main Street,grand falls,NL,A2A 2E1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,48.9578,-55.6633
+2321,2321,Queen Elizabeth Ii Health Sciences Centre — Halifax Infirmary Site Camp Hill Veterans’ Memorial Building,1 Main Street,Halifax,NS,B3H 2E1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,44.6475,-63.5906
+4778,4778,Pine Meadow Nursing Home,124 lloyd street,Addington Highlands,ON,K0H 2G0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.7375315,-77.1556304
+6066,6066,Winbourne Park,1020 westney road n,Ajax,ON,L1T 4K6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.87711914,-79.0444691
+2983,2983,Chartwell Ballycliffe Long Term Care Residence,70 station street,Ajax,ON,L1S 1R9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.85095764,-79.02534179
+5816,5816,Tsiionkwanonhsote,70 kawehnoke apartments road,Akwesasne (Part) 59,ON,K6H 5R7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.0031277,-74.68694690000001
+4784,4784,Pinecrest (Plantagenet),101 parent street,Alfred and Plantagenet,ON,K0B 1L0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.5420141,-74.99812112
+5014,5014,Richmond Terrace,89 rankin avenue,Amherstburg,ON,N9V 1E7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.10422443,-83.11025501
+4711,4711,Parkview Manor Health Care Centre,98 3 street s,Arran-Elderslie,ON,N0G 1L0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.298319899999996,-81.091335
+4801,4801,Pleasant Meadow Manor,99 alma street,Asphodel-Norwood,ON,K0L 2V0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.37927558,-77.96791169
+4289,4289,Maple View Lodge,746 county road 42 e,Athens,ON,K0E 1B0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.63454631,-75.93144305
+2980,2980,Chartwell Aurora Long Term Care Residence,32 mill street,Aurora,ON,L4G 2R9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.99779774,-79.47131474
+5727,5727,the Willows Estate Nursing Home,13837 yonge street,Aurora,ON,L4G 3G8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.96549464,-79.45862614
+2982,2982,Chartwell Aylmer Long Term Care Residence,465 talbot street w,Aylmer,ON,N5H 1K8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.77395085,-80.99760032
+3807,3807,Hastings Centennial Manor,1 manor lane,Bancroft,ON,K0L 1C0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.0550849,-77.86421482
+5894,5894,Victoria Village Manor,78 ross street,Barrie,ON,L4N 1G3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.391121999999996,-79.69850695
+5048,5048,Roberta Place,503 essa road,Barrie,ON,L4N 9E4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.34268529,-79.70744685
+3210,3210,Coleman Care Centre,140 cundles road w,Barrie,ON,L4N 9X8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.4011191,-79.71536396
+3992,3992,Ioof Seniors Home,10 brooks street,Barrie,ON,L4N 5L3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.3686217,-79.68736455
+2683,2683,Bob Rumball Home for the Deaf,1 royal parkside drive,Barrie,ON,L4M 0C4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.3641363,-79.62310322
+4389,4389,Mill Creek Care Centre,286 hurst drive,Barrie,ON,L4N 0Z3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.368993100000004,-79.65609964
+4685,4685,Owen Hill Care Community,130 owen street,Barrie,ON,L4M 3H7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.3951391,-79.69019855
+6100,6100,Woods Park Care Centre,110 lillian crescent,Barrie,ON,L4N 5H7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.4026669,-79.71672256
+2634,2634,Belmont Long Term Care Facility,250 bridge street w,Belleville,ON,K8P 5N3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.16007616,-77.40393509
+3808,3808,Hastings Manor Home for the Aged,476 dundas street w,Belleville,ON,K8N 5B2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.14751276,-77.41249679
+6033,6033,Westgate Lodge Nursing Home,37 wilkie street,Belleville,ON,K8P 4E4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.14702066,-77.40620279
+3415,3415,e. j. Mcquigge Lodge,38 black diamond road,Belleville,ON,K0K 1K0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.19803357,-77.39029009
+5057,5057,Rosedale Centre,507 8 avenue,Black River-Matheson,ON,P0K 1N0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,48.53944263,-80.46973105
+4861,4861,Queensway Long Term Care Home,100 queen street,Bluewater,ON,N0M 1X0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.43497405,-81.50347404
+5663,5663,the Pines,98 pine street,Bracebridge,ON,P1L 1N5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.05169583,-79.29822038
+2691,2691,Bradford Valley Care Community,2656 line 6,Bradford West Gwillimbury,ON,L3Z 2A1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.09967975,-79.57244678
+3539,3539,Faith Manor Nursing Home,7900 mclaughlin road s,Brampton,ON,L6Y 5A7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.65401717,-79.74139890000001
+5708,5708,the Village of Sandalwood Park,425 great lakes drive,Brampton,ON,L6R 2W8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.74100870000001,-79.7717325
+2756,2756,Burton Manor,5 sterritt drive,Brampton,ON,L6Y 5P3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.66143557,-79.77341911
+6093,6093,Woodhall Park Care Community,10260 kennedy road n,Brampton,ON,L6Z 4N7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.72036028,-79.78370712
+5549,5549,Tall Pines Long Term Care Centre,1001 peter robertson boulevard,Brampton,ON,L6R 2Y3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.75057309,-79.74244701
+4734,4734,Peel Manor,525 main street n,Brampton,ON,L6X 1N9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.69999507,-79.78142981
+5821,5821,Tullamore Care Community,133 kennedy road s,Brampton,ON,L6W 3G3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.68480267,-79.73603059999999
+3811,3811,Hawthorn Woods Care Community,9257 goreway drive,Brampton,ON,L6P 0N5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.75755779,-79.68888879
+3488,3488,Extendicare Brampton,7891 mclaughlin road,Brampton,ON,L6Y 5H8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.65536347,-79.7356338
+3667,3667,Grace Manor,45 kingknoll drive,Brampton,ON,L6Y 5P2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.65294337,-79.74143790000001
+4283,4283,Maple Grove Care Community,215 sunny meadow boulevard,Brampton,ON,L6R 3B5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.75771219,-79.75483001
+3797,3797,Hardy Terrace,612 mount pleasant road,Brant,ON,N3T 5L5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.0876862,-80.3068167
+4697,4697,Park Lane Terrace,295 grand river street n,Brant,ON,N3L 2N9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.21149506,-80.38916816
+2722,2722,Brierwood Gardens,425 park road n,Brantford,ON,N3R 7G5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.17853986,-80.24747732
+3583,3583,Fox Ridge Care Community,389 west street,Brantford,ON,N3R 3V9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.15692506,-80.25558282
+4294,4294,Maplewood,12 maplewood avenue,Brighton,ON,K0K 1H0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.039652600000004,-77.74441359999999
+4136,4136,Lakeview Manor,133 main street,Brock,ON,L0K 1A0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.42747763,-79.16356588
+2990,2990,Chartwell Bon Air Long Term Care Residence,131 laidlaw street s,Brock,ON,L0E 1E0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.34590892,-79.03751134
+2740,2740,Brucelea Haven Long Term Care Home - Corporation of the County of Bruce,41 mcgivern street w,Brockton,ON,N0G 2V0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.12121858,-81.15427199
+2764,2764,Cama Woodlands Nursing Home,159 panin road,Burlington,ON,L7P 5A6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.3099325,-79.86719201
+2653,2653,Billings Court Manor,3700 billings court,Burlington,ON,L7N 3N6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.36439192,-79.78777539
+5709,5709,the Village of Tansley Woods,4100 upper middle road,Burlington,ON,L7M 4W8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.38367062,-79.79950979
+4292,4292,Maple Villa Long Term Care Centre,441 maple avenue,Burlington,ON,L7S 1L8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.31995171,-79.80289539
+2991,2991,Chartwell Brant Centre Long Term Care Residence,1182 northshore boulevard e,Burlington,ON,L7S 1C5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.31651571,-79.80381069
+2754,2754,Burloak,5959 new street,Burlington,ON,L7L 6W5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.38147032,-79.73937757
+3789,3789,Hampton Terrace Care Centre,75 plains road w,Burlington,ON,L7T 1E8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.3054339,-79.8554984
+3329,3329,Creek Way Village,5200 corporate drive,Burlington,ON,L7L 7G7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.39302822,-79.77985319
+4433,4433,Mount Nemo Christian Nursing Home,4486 guelph line,Burlington,ON,L7P 0N2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.40257242,-79.87556992
+5998,5998,Wellington Park Care Centre,802 hager avenue,Burlington,ON,L7S 1X2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.33141191,-79.81188229
+4067,4067,King Nursing Home,49 sterne street,Caledon,ON,L7E 1B9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.87933771,-79.74065452
+5879,5879,Vera m. Davis Community Care Centre,80 allan drive,Caledon,ON,L7E 1P7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.87348751,-79.72446771
+3534,3534,Fairview Mennonite Home,515 langs drive,Cambridge,ON,N3H 5E4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.398556400000004,-80.34314607
+5395,5395,St. Andrew's Terrace Long Term Care Community,255 st andrews street,Cambridge,ON,N1S 1P1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.34600049,-80.32871446
+2765,2765,Cambridge Country Manor,3680 speedsville road,Cambridge,ON,N3H 4R6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.4552726,-80.35775290000001
+3653,3653,Golden Years Nursing Home,704 eagle street n,Cambridge,ON,N3H 4T3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.4042795,-80.35454667
+5031,5031,Riverbend Place,650 coronation boulevard,Cambridge,ON,N1R 7S6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.37692539,-80.32575336
+5479,5479,Stirling Heights,200 stirling macgregor drive,Cambridge,ON,N1S 5B7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.33915669,-80.33371706
+4747,4747,Peoplecare Hilltop Manor Cambridge,42 elliott street,Cambridge,ON,N1R 2J2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.35352749,-80.30996865
+5487,5487,Stoneridge Manor,256 high street,Carleton Place,ON,K7C 1X1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.13580539,-76.15419976
+2922,2922,Centennial Place Long-Term Care Home,2 centennial lane n,Cavan Monaghan,ON,M5J 2G2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.1562909,-78.4477515
+5383,5383,Springdale Country Manor,2698 clifford line,Cavan Monaghan,ON,K9J 6X6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.23107203,-78.39679912
+3509,3509,Extendicare Port Stanley,4551 east road,Central Elgin,ON,N5L 1J6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.67066023,-81.20881357
+5999,5999,Wellington Terrace Long-Term Care Home,474 wellington road 18,Centre Wellington,ON,N1M 0A1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.696534,-80.400755
+2994,2994,Chartwell Champlain Long Term Care Residence,428 front road w,Champlain,ON,K0B 1K0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.62972163,-74.67048831
+5571,5571,the Bignucolo Residence,6 broomhead road,Chapleau,ON,P0M 1K0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,47.841251,-83.414961
+3525,3525,Fairfield Park,1934 dufferin avenue,Chatham-Kent,ON,N8A 4M2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.59425785,-82.41318124
+5746,5746,Tilbury Manor Nursing Home,16 fort street,Chatham-Kent,ON,N0P 2L0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.25877139,-82.43044492
+3258,3258,Copper Terrace,91 tecumseh road,Chatham-Kent,ON,N7M 1B3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.39831463,-82.20038906
+5043,5043,Riverview Gardens,519 king street w,Chatham-Kent,ON,N7M 1G8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.39921553,-82.19474266
+4350,4350,Meadow Park Nursing Home (Chatham),110 sandys street,Chatham-Kent,ON,N7L 4X3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.40705193,-82.19885326
+3289,3289,Country Lane Long Term Care Residence,317079 highway 6,Chatsworth,ON,N0H 1G0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.465706899999994,-80.9030782
+2857,2857,Caressant Care Bourget,2279 laval road,Clarence-Rockland,ON,K0A 1E0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.43608988,-75.15507656
+2941,2941,CENTRE D'ACCUEIL ROGER SEGUIN,435 lemay street,Clarence-Rockland,ON,K0A 1N0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.51025689,-75.21616879
+3636,3636,Glen Hill Marnwood,26 elgin street,Clarington,ON,L1C 3C8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.91589256,-78.68988509
+3637,3637,Glen Hill Strathaven,264 king street e,Clarington,ON,L1C 1P9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.91212066,-78.67361278
+5476,5476,Stayner Care Centre,7308 highway 26,Clearview,ON,L0M 1S0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.41953308,-80.09109148
+3328,3328,Creedan Valley Care Community,143 mary street,Clearview,ON,L0M 1G0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.32664057,-80.09982767
+3650,3650,Golden Plough Lodge,983 burnham street,Cobourg,ON,K9A 5J6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.974493700000004,-78.19501703
+3489,3489,Extendicare Cobourg,130 new densmore road,Cobourg,ON,K9A 5W2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.9837753,-78.17209322
+5494,5494,Streamway Villa,19 james street w,Cobourg,ON,K9A 2J8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.96205389,-78.16781002
+5921,5921,Villa Minto,241 eighth street,Cochrane,ON,P0L 1C0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,49.06971147,-81.0205333
+2606,2606,Bay Haven Nursing Home,499 hume street,Collingwood,ON,L9Y 4H8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.49946329,-80.19803202
+5534,5534,Sunset Manor Home for Senior Citizens,49 raglan street,Collingwood,ON,L9Y 4X1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.50191069,-80.20123672
+3213,3213,Collingwood Nursing Home,250 campbell street,Collingwood,ON,L9Y 4J9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.48264419,-80.22895893
+3829,3829,Heartwood,201 11 street e,Cornwall,ON,K6H 2Y6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.03336123,-74.73229849
+5420,5420,St. Joseph's Continuing Care Centre,14 york street,Cornwall,ON,K6J 5T2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.01462532,-74.73145128
+5448,5448,St. Joseph’s Continuing Care Centre — Mcconnell Avenue Site,1 Main Street,Cornwall,ON,K6H 5S5,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,45.0275,-74.7400
+3638,3638,Glen-Stor-Dun Lodge,1900 montreal road,Cornwall,ON,K6H 7L1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.02603103,-74.68347497
+4695,4695,Parisien Manor,439 second street e,Cornwall,ON,K6H 1Z2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.02136413,-74.71865558
+4829,4829,Princess Court,1 princess street,Dryden,ON,P8N 2Z4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,49.783303000000004,-92.8352797
+2684,2684,Bobier Villa,1 bobier lane,Dutton/Dunwich,ON,N0L 1J0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.66709281,-81.51387127
+3492,3492,Extendicare Haliburton,167 park street,Dysart et al,ON,K0M 1S0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.051712,-78.502471
+3859,3859,Highland Wood,7199 gelert road,Dysart et al,ON,K0M 1S0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.03824146,-78.52941943
+4506,4506,Nipissing Manor Nursing Care Center,1202 highway 94,East Ferris,ON,P0H 1K0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,46.24835493,-79.33681562
+4749,4749,Peoplecare Tavistock,28 william street n,East Zorra-Tavistock,ON,N0B 2R0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.31908376,-80.83917752
+5232,5232,Sherwood Park Manor,1814 county road 2 e,Elizabethtown-Kitley,ON,K6V 5T1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.605140000000006,-75.662296
+5455,5455,St. Lawrence Lodge,1803 county road 2 e,Elizabethtown-Kitley,ON,K6V 5T1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.60164641,-75.66542026
+4603,4603,Northview Nursing Home,77 river road,Englehart,ON,P0J 1H0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,47.8219425,-79.8655049
+4139,4139,Lambton Meadowview Villa,3958 petrolia line,Enniskillen,ON,N0N 1R0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.88448582,-82.16482359
+3977,3977,Iler Lodge,111 iler avenue,Essex,ON,N8M 1T6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.17030086,-82.82364113
+4287,4287,Maple Park Lodge,6 hagey avenue,Fort Erie,ON,L2A 5M5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.91045417,-78.92271967
+3331,3331,Crescent Park Lodge,4 hagey avenue,Fort Erie,ON,L2A 5M5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.91044887,-78.92320857
+3631,3631,Gilmore Lodge,50 gilmore road,Fort Erie,ON,L2A 2M1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.92080238,-78.91490397
+4884,4884,Riverside Health Care Facilities Inc. — Rainycrest Home for the Aged,550 osborne street,Fort Frances,ON,P9A 3T2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,48.61757858,-93.38953726
+5029,5029,River Glen Haven Nursing Home,160 high street,Georgina,ON,L0E 1R0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.30394879999999,-79.36171604
+2917,2917,Cedarvale Lodge Retirement and Care Community,121 morton avenue,Georgina,ON,L4P 2M5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.232338,-79.456847
+4252,4252,Maitland Manor,290 south street,Goderich,ON,N7A 4G6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.73314149,-81.71190013
+4268,4268,Manitoulin Lodge,3 main street,Gore Bay,ON,P0P 1H0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.91388961,-82.46562059
+4453,4453,Muskoka Shores Care Community,200 kelly drive,Gravenhurst,ON,P1P 1P3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.9143044,-79.36729389
+5629,5629,the John m. Parrott Centre,309 bridge street w,Greater Napanee,ON,K7R 2G4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.2413403,-76.97028786
+3594,3594,Friendly Manor Nursing Home,9756 lennox and addington,Greater Napanee,ON,K0K 1X0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.201206899999995,-77.0375329
+5701,5701,the Village Green Nursing Home,166 pleasant drive,Greater Napanee,ON,K0K 2Z0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.30037081,-76.98430987
+3490,3490,Extendicare Falconbridge,281 falconbridge road,Greater Sudbury / Grand Sudbury,ON,P3A 5K4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,46.50713379,-80.93753367
+4792,4792,Pioneer Manor,960 notre dame avenue,Greater Sudbury / Grand Sudbury,ON,P3A 2T4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,46.51756439,-80.98200638
+5408,5408,St. Gabriel's Villa of Sudbury,4690 regional road 15,Greater Sudbury / Grand Sudbury,ON,P0M 1L0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,46.575821000000005,-81.183418
+5444,5444,"St. Joseph's Villa, Sudbury",1250 south bay road,Greater Sudbury / Grand Sudbury,ON,P3E 6L9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,46.46661488,-80.96677167
+3449,3449,Elizabeth Centre,2100 main street,Greater Sudbury / Grand Sudbury,ON,P3N 1S7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,46.6119611,-81.02674901
+3560,3560,Finlandia Hoivakoti Nursing Home,233 fourth avenue,Greater Sudbury / Grand Sudbury,ON,P3B 4C3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,46.48424888,-80.92711026
+3520,3520,Extendicare York,333 york street,Greater Sudbury / Grand Sudbury,ON,P3E 5J3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,46.47514368,-81.00771419
+3713,3713,Grey Gables Home for the Aged,206 toronto street s,Grey Highlands,ON,N0C 1H0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.31396564,-80.64029685
+3357,3357,Deer Park Villa,150 central avenue,Grimsby,ON,L3M 4Z3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.189536499999996,-79.54142639
+4061,4061,Kilean Lodge,83 main street e,Grimsby,ON,L3M 1N6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.19121,-79.5554741
+5611,5611,the Elliott Long Term Care Residence,170 metcalfe street,Guelph,ON,N1E 4Y3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.55803773,-80.25130495
+4154,4154,Lapointe-Fisher Nursing Home,271 metcalfe street,Guelph,ON,N1E 4Y8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.56346913,-80.25748785
+3434,3434,Eden House Nursing Home,5016 wellington county road 29,Guelph/Eramosa,ON,N1H 6H8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.58078794,-80.16785633
+3605,3605,Gardenview Long Term Care Home,72 town centre drive,Haldimand County,ON,N0A 1S0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.88836551,-80.14081206
+2540,2540,Anson Place Care Centre,85 main street n,Haldimand County,ON,N0A 1H0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.96738873,-80.04801284
+3439,3439,Edgewater Gardens Long Term Care Centre,428 broad street w,Haldimand County,ON,N1A 1T3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.90614674,-79.625957
+3682,3682,Grandview Lodge / Dunnville,657 lock street w,Haldimand County,ON,N1A 1V9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.90834644,-79.63401540000001
+3493,3493,Extendicare Halton Hills,9 lindsay court,Halton Hills,ON,L7G 6G9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.64922616,-79.94812796
+2639,2639,Bennett Health Care Centre,1 princess anne drive,Halton Hills,ON,L7G 2B8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.64477486,-79.93394806
+4232,4232,Macassa Lodge,701 upper sherman avenue,Hamilton,ON,L8V 3M7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.22567639,-79.84867319
+2442,2442,Alexander Place,329 parkside drive,Hamilton,ON,L0R 2H0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.34234541,-79.90081952
+2554,2554,Arbour Creek Long-Term Care Centre,2717 king street e,Hamilton,ON,L8G 1J3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.22141329,-79.77670807
+2619,2619,Baywoods Place,330 main street e,Hamilton,ON,L8N 3T9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.25176169,-79.85694240000001
+2665,2665,Blackadar Continuing Care Centre,101 creighton road,Hamilton,ON,L9H 3B7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.26120069,-79.96830854
+3114,3114,Chartwell Willowgrove Long Term Care Residence,1217 old mohawk road,Hamilton,ON,L9K 1P6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.23324649,-79.93527582
+3192,3192,Clarion Nursing Home,337 hamilton regional road 8,Hamilton,ON,L8G 1E7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.22037979,-79.72817146
+3408,3408,Dundurn Place Care Centre,39 mary street,Hamilton,ON,L8R 3L8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.25642639,-79.86394320000001
+3494,3494,Extendicare Hamilton,90 chedmac drive,Hamilton,ON,L9C 7S6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.23730029,-79.92136612
+3668,3668,Grace Villa Nursing Home,45 lockton crescent,Hamilton,ON,L8V 4V5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.21147629,-79.84709659
+3759,3759,Hamilton Continuing Care,125 wentworth street s,Hamilton,ON,L8N 2Z1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.24791349,-79.8504795
+3844,3844,Heritage Green Nursing Home,353 isaac brock drive,Hamilton,ON,L8J 2J3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.19352179,-79.78959737
+3976,3976,Idlewyld Manor,449 sanatorium road,Hamilton,ON,L9C 2A7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.23618909,-79.91485732
+4713,4713,Parkview Nursing Centre,545 king street w,Hamilton,ON,L8P 1C1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.26103249,-79.88486411
+4780,4780,Pine Villa Nursing Home,490 hamilton regional road 8,Hamilton,ON,L8G 1G6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.21627369,-79.71616285
+4854,4854,Queen's Garden,80 queen street n,Hamilton,ON,L8R 3P6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.26115109,-79.87697411
+4907,4907,Regina Gardens,536 upper paradise road,Hamilton,ON,L9C 5E3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.23102399,-79.91358922
+5023,5023,Ridgeview,385 highland road w,Hamilton,ON,L8J 3X9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.18766128,-79.80319278
+5887,5887,Victoria Gardens Long Term Care,176 victoria avenue n,Hamilton,ON,L8L 5G1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.25834859,-79.8542586
+6003,6003,Wentworth Lodge,41 south street w,Hamilton,ON,L9H 4C4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.25983089,-79.94970123
+3792,3792,Hanover Care Centre,700 19 avenue,Hanover,ON,N4N 3S6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.15991379,-81.01744915
+4950,4950,Residence Prescott Et Russell,1020 cartier boulevard,Hawkesbury,ON,K6A 1W7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.60023563,-74.61370539
+3586,3586,FOYER DES PIONNIERS,67 15 street,Hearst,ON,P0L 1N0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,49.684844700000006,-83.67961927
+5614,5614,the Fordwich Village Nursing Home,3063 adelaide street,Howick,ON,N0G 1V0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.87084494,-81.02944763
+3530,3530,Fairvern Nursing Home,14 mill street,Huntsville,ON,P1H 2A4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.32656618,-79.21252868
+4451,4451,Muskoka Landing,65 rogers cove drive,Huntsville,ON,P1H 2L9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.33624348,-79.20221468
+5161,5161,Seaforth Long Term Care Home,100 james street huron e,Huron East,ON,N0K 1W0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.55647627,-81.39760291
+3958,3958,Huronview Home for the Aged,1 rr 5,Huron East,ON,N0M 1L0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.598187100000004,-81.53130859999999
+4785,4785,Pinecrest Manor,399 bob street,Huron-Kinloss,ON,N0G 2H0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.95579153,-81.51071469
+5176,5176,Secord Trails Care Community,263 wonham street s,Ingersoll,ON,N5C 3P6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.03265541,-80.88305150000001
+6095,6095,Woodingford Lodge - Ingersoll,325 thames street s,Ingersoll,ON,N5C 2T8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.03178131,-80.8764522
+5317,5317,South Centennial Manor,240 fyfe street,Iroquois Falls,ON,P0K 1E0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,48.76584185,-80.68247105
+4529,4529,North Centennial Manor,2 kimberly drive,Kapuskasing,ON,P5N 1L5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,49.42402834,-82.43174902
+3495,3495,Extendicare Kapuskasing,45 ontario street,Kapuskasing,ON,P5N 2Y5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,49.41769224,-82.41017831
+5890,5890,Victoria Manor Home for the Aged,220 angeline street s,Kawartha Lakes,ON,K9V 4R2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.33869223,-78.74399304
+2898,2898,Case Manor Care Community,28 boyd street,Kawartha Lakes,ON,K0M 1A0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.54008478,-78.54103519
+2880,2880,Caressant Care on Mclaughlin Road,114 mclaughlin road,Kawartha Lakes,ON,K9V 6L1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.344764700000006,-78.7610205
+3597,3597,Frost Manor,225 mary street w,Kawartha Lakes,ON,K9V 5K3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.342364,-78.747889
+3496,3496,Extendicare Kawartha Lakes,125 colborne street e,Kawartha Lakes,ON,K9V 6J2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.36383334,-78.72369584
+3553,3553,Fenelon Court,44 wychwood crescent,Kawartha Lakes,ON,K0M 1N0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.52846487,-78.73121905
+4787,4787,Pinecrest Nursing Home (Bobcaygeon),3418 kawartha lakes county road 36,Kawartha Lakes,ON,K0M 1A0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.52836508,-78.53389679
+2660,2660,Birchwood Terrace,237 lakeview drive,Kenora,ON,P9N 4J7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,49.76559284,-94.50497800000001
+4065,4065,King City Lodge Nursing Home,146 fog road,King,ON,L7B 1A3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.97147063,-79.55151987
+5021,5021,Rideaucrest Home,175 rideau street,Kingston,ON,K7K 3H6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.23807732,-76.48232850000001
+3497,3497,Extendicare Kingston,309 queen mary road,Kingston,ON,K7M 6P4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.23934601,-76.53531092
+3529,3529,Fairmount Home for the Aged,2069 battersea road,Kingston,ON,K0H 1S0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.31346333,-76.4650418
+2555,2555,Arbour Heights,564 tanner drive,Kingston,ON,K7M 0C3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.23937071,-76.55865852
+4843,4843,Providence Manor,275 sydenham street,Kingston,ON,K7K 1G7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.23553812,-76.48546340000001
+3087,3087,Chartwell Royal Oak Long Term Care Residence,1750 division road n,Kingsville,ON,N9Y 4G7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.0501946,-82.7375796
+3297,3297,Country Village Homes - Woodslee,440 essex road 8,Kingsville,ON,N0R 1V0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.172411100000005,-82.72129740000001
+3498,3498,Extendicare Kirkland Lake,155 government road e,Kirkland Lake,ON,P2N 3P4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,48.15597609,-80.02268375
+5553,5553,Teck Pioneer Residence,145 government road e,Kirkland Lake,ON,P2N 3P4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,48.15345549,-80.01468335
+5712,5712,the Village of Winston Park,695 block line road,Kitchener,ON,N2E 3K1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.41122949,-80.49867572
+3566,3566,Forest Heights,60 westheights drive,Kitchener,ON,N2N 2A8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.42864339,-80.52997973
+5809,5809,Trinity Village Care Centre,2727 kingsway drive,Kitchener,ON,N2C 1A7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.4298142,-80.4417755
+4746,4746,Peoplecare a.r. Goudie Kitchener,369 frederick street,Kitchener,ON,N2H 2P1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.4564955,-80.47446971
+3108,3108,Chartwell Westmount Long Term Care Residence,200 david bergey drive,Kitchener,ON,N2E 3Y4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.40613299,-80.51775782
+4143,4143,Lanark Heights Long Term Care Centre,46 lanark crescent,Kitchener,ON,N2N 2Z8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.42436319,-80.53544803
+4540,4540,North Lambton Lodge,39 morris street,Lambton Shores,ON,N0N 1J0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.09281026,-81.99290376
+3590,3590,Franklin Gardens Long Term Care Home,24 franklin road,Leamington,ON,N8H 4B7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.03083044,-82.59816325
+5506,5506,Sun Parlor Home for Senior Citizens,175 talbot street e,Leamington,ON,N8H 1L9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.05585245,-82.58946575
+2439,2439,Albright Gardens,5050 hillside drive,Lincoln,ON,L0R 1B2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.15187669,-79.47659767
+3453,3453,Elmwood Place,46 elmwood place,London,ON,N6J 1J2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.96948268,-81.26521352
+3028,3028,Chartwell London Long Term Care Residence,2000 blackwater road,London,ON,N5X 4K6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.04406869,-81.26074922
+4748,4748,Peoplecare Oakcrossing London,1242 oakcrossing road,London,ON,N6H 0G2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.99044098,-81.31277543
+6034,6034,Westmount Gardens Long Term Care Home,590 longworth road,London,ON,N6K 4X9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.95042607,-81.30566973
+4432,4432,Mount Hope Centre for Long Term Care,21 grosvenor street,London,ON,N6A 1Y6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.99894988,-81.25634222
+5705,5705,the Village of Glendale Crossing,3030 singleton avenue,London,ON,N6L 0B6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.93894787,-81.27180372
+4349,4349,Meadow Park (London),1210 southdale road e,London,ON,N6E 1B4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.94667847,-81.20205190000001
+3501,3501,Extendicare London,860 waterloo street,London,ON,N6A 3W6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.00042548,-81.24860602
+4344,4344,Mcgarrell Place,355 mcgarrell drive,London,ON,N6G 0B1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.02383798,-81.29614393
+4341,4341,Mccormick Home,2022 kains road,London,ON,N6K 0A8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.96884017,-81.35418445
+3131,3131,Chelsey Park,310 oxford street w,London,ON,N6H 4N6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.98760838,-81.27670392
+3418,3418,Earls Court Village,1390 highbury avenue n,London,ON,N5Y 0B6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.02686099,-81.21868721
+3355,3355,Dearness Home for Senior Citizens,710 southdale road e,London,ON,N6E 1R8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.94410837,-81.2242039
+3841,3841,Henley Place,1961 cedarhollow boulevard,London,ON,N5X 0K2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.04540679,-81.21472021
+4057,4057,Kensington Village,1340 huron street,London,ON,N5V 3R3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.02140839,-81.21450391
+5873,5873,Valley Manor Nursing Home,88 mintha street,Madawaska Valley,ON,K0J 1B0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.48637478,-77.6878502
+5562,5562,Terrace Lodge,475 talbot street e,Malahide,ON,N5H 3A5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.771096299999996,-80.9682813
+3115,3115,Chartwell Woodhaven Long Term Care Residence,380 church street,Markham,ON,L6B 1E1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.88586653,-79.23093356
+5834,5834,Union Villa,4300 highway 7,Markham,ON,L3R 1L8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.86143002,-79.31443048
+2646,2646,Bethany Lodge,23 second street,Markham,ON,L3R 2C2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.86204073,-79.30139068
+4325,4325,Markhaven,54 parkway avenue,Markham,ON,L3P 2G4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.88371943,-79.25422906
+2862,2862,Caressant Care Marmora,58 bursthall street,Marmora and Lake,ON,K0K 2M0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.48072361,-77.67733231
+2456,2456,Algonquin Nursing Home,231 10 street,Mattawa,ON,P0H 1V0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,46.31349257,-78.71984132
+4352,4352,Meaford Long Term Care - a Peoplecare Community,135 william street,Meaford,ON,N4L 1T4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.61169379,-80.60054596
+3871,3871,Hilltop Manor Nursing Home (Merrickville),1005 st lawrence street,Merrickville-Wolford,ON,K0G 1N0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.90918586,-75.83453904
+5056,5056,Rosebridge Manor,131 roses bridge road,Merrickville-Wolford,ON,K0G 1G0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.84219285,-75.89019625
+3294,3294,Country Terrace,10072 oxbow drive,Middlesex Centre,ON,N0L 1R0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.95867137,-81.43757387
+4386,4386,Middlesex Terrace,2094 gideon drive,Middlesex Centre,ON,N0L 1E0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.92353736,-81.42514196
+3862,3862,Hillcrest Village Care Centre,255 russell street,Midland,ON,L4R 5L6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.75357305,-79.87963994
+5697,5697,the Villa Care Centre,689 yonge street,Midland,ON,L4R 2E1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.74305645,-79.89055855
+2459,2459,Allendale,185 ontario street s,Milton,ON,L9T 2M4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.51655054,-79.87240973
+3960,3960,Hyland Crest,6 mcpherson street,Minden Hills,ON,K0M 2K0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.92594814,-78.72985369
+5079,5079,Royal Terrace,600 whites road,Minto,ON,N0G 2P0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.83992155,-80.84393637
+2768,2768,Camilla Care Community,2250 hurontario street,Mississauga,ON,L5B 1M8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.57311436,-79.60700205
+3256,3256,Cooksville Care Centre,55 the queensway w,Mississauga,ON,L5B 1B5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.57334286,-79.60968605
+3106,3106,Chartwell Wenleigh Long Term Care Residence,2065 leanne boulevard,Mississauga,ON,L5K 2L6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.52485635,-79.65178876
+4255,4255,Malton Village Long Term Care Centre,7075 rexwood road,Mississauga,ON,L4T 4M1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.71847959,-79.62437147
+5272,5272,Silverthorn Care Community,4350 mississauga road,Mississauga,ON,L5M 7C8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.56232545,-79.68858187
+5916,5916,Villa Forum,175 forum drive,Mississauga,ON,L4Z 4E5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.61180807,-79.65152977
+5229,5229,Sheridan Villa,2460 truscott drive,Mississauga,ON,L5J 3Z8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.51060205,-79.64829886
+5497,5497,Streetsville Care Community,1742 bristol road w,Mississauga,ON,L5M 1X9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.58212646,-79.70532398
+6110,6110,Yee Hong Centre Mississauga,5510 mavis road,Mississauga,ON,L5V 2X5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.60476896,-79.68690548
+3504,3504,Extendicare Mississauga,855 john watt boulevard,Mississauga,ON,L5W 1G2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.63238897,-79.72791359
+2908,2908,Cawthra Gardens,590 lolita gardens,Mississauga,ON,L5A 4N8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.59302306,-79.60362445
+5704,5704,the Village of Erin Meadows,2930 erin centre boulevard,Mississauga,ON,L5M 7M4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.55312755,-79.72147048
+4404,4404,Mississauga Long Term Care Facility,26 peter street n,Mississauga,ON,L5H 2G7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.54970386,-79.59094324
+5828,5828,Tyndall Nursing Home,1060 eglinton avenue e,Mississauga,ON,L4W 1K3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.62835307,-79.62744866
+3470,3470,Erin Mills Lodge Nursing Home,2132 dundas street w,Mississauga,ON,L5K 2K7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.53474615,-79.66736096
+2461,2461,Almonte Country Haven,333 country street,Mississippi Mills,ON,K0A 1A0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.2188403,-76.19075728
+3533,3533,Fairview Manor,75 spring street,Mississippi Mills,ON,K0A 1A0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.2287855,-76.18998128
+2694,2694,Braemar Retirement Centre,719 josephine street n,Morris-Turnberry,ON,N0G 2W0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.90065854,-81.30031372
+3957,3957,Huronlea Home for the Aged,820 turnberry street,Morris-Turnberry,ON,N0G 1H0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.73846151,-81.25635699
+5274,5274,Simcoe Manor Home for the Aged,5988 8 line,New Tecumseth,ON,L0G 1A0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.08139484,-79.77752875
+4241,4241,Mackenzie Place,52 george street,Newmarket,ON,L3Y 4V3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.05748695,-79.47891695
+3416,3416,Eagle Terrace,329 eagle street,Newmarket,ON,L3Y 1K3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.04894845,-79.46340434
+5375,5375,Southlake Residential Care Village,640 grace street,Newmarket,ON,L3Y 2P6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.05931585,-79.45092944
+4390,4390,Millennium Trail Manor,6861 oakwood drive,Niagara Falls,ON,L2E 6S5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.076347,-79.11734305
+4626,4626,Oakwood Park Lodge,6747 oakwood drive,Niagara Falls,ON,L2G 0J3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.0769904,-79.11785895
+4879,4879,r. h. Lawson Eventide Home,5050 jepson street,Niagara Falls,ON,L2E 1K5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.0997467,-79.07748394
+5641,5641,the Meadows of Dorchester,6623 kalar road,Niagara Falls,ON,L2H 2T3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.07925789,-79.13696046
+2628,2628,Bella Senior Care Residences,8720 willoughby drive,Niagara Falls,ON,L2G 7X3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.05084229,-79.04543772
+5874,5874,Valley Park Lodge,6400 valley way,Niagara Falls,ON,L2E 7E3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.0977475,-79.10129525
+5862,5862,Upper Canada Lodge,272 wellington street,Niagara-on-the-Lake,ON,L0S 1J0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.25020429999999,-79.0694642
+3036,3036,Chartwell Niagara Long Term Care Residence,120 wellington street,Niagara-on-the-Lake,ON,L0S 1J0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.2549638,-79.0657413
+4799,4799,Pleasant Manor Retirement Village,15 elden street,Niagara-on-the-Lake,ON,L0S 1T0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.22673892,-79.12186246
+3361,3361,Delhi Long Term Care Centre,750 gibraltar street,Norfolk County,ON,N4B 3B3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.842040600000004,-80.4905752
+3391,3391,Dover Cliffs,501 st george street,Norfolk County,ON,N0A 1N0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.78788949,-80.20786437
+2858,2858,Caressant Care Courtland,4850 highway 59,Norfolk County,ON,N0J 1E0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.83110128,-80.63239781
+2920,2920,Cedarwood Village,500 queensway w,Norfolk County,ON,N3Y 4R4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.8408326,-80.32971141
+4608,4608,Norview Lodge,44 rob blake way,Norfolk County,ON,N3Y 4L8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.8372838,-80.33304111
+2900,2900,Cassellholme,400 olive street,North Bay,ON,P1B 6J4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,46.31926603,-79.44608166
+5966,5966,Waters Edge Care Community,401 william street,North Bay,ON,P1A 1X5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,46.27873103,-79.44783366
+3406,3406,Dundas Manor Nursing Home,533 clarence street,North Dundas,ON,K0C 2K0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.08860351,-75.35556820000001
+4336,4336,Maxville Manor,80 mechanic street w,North Glengarry,ON,K0C 1T0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.28415857,-74.86345425
+5661,5661,the Palace,92 centre street,North Glengarry,ON,K0C 1A0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.31136778,-74.63263588
+2615,2615,Bayfield Manor,100 elvira street,North Grenville,ON,K0G 1J0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.01874519,-75.65323739
+3043,3043,Chartwell Parkhill Long Term Care Residence,250 tain street,North Middlesex,ON,N0M 2K0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.15701009,-81.68166257
+3321,3321,Craigholme,221 main street,North Middlesex,ON,N0M 1A0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.14535469,-81.53006982
+4259,4259,Manitoulin Centennial Manor Home for the Aged,70 robinson street,Northeastern Manitoulin and the Islands,ON,P0P 1K0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.98389625,-81.93648973
+3646,3646,Golden Dawn Nursing Home,80 main street,Northern Bruce Peninsula,ON,N0H 1W0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.98706902,-81.25537981
+4815,4815,Post Inn Village,203 georgian drive,Oakville,ON,L6H 7H9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.48026034,-79.71675247
+6108,6108,Wyndham Manor Long Term Care Centre,291 reynolds street,Oakville,ON,L6J 3L5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.45245024,-79.67269066
+4599,4599,Northridge,496 postridge drive,Oakville,ON,L6H 7A2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.48960334,-79.71426817
+3102,3102,Chartwell Waterford Long Term Care Residence,2140 baronwood drive,Oakville,ON,L6M 4V6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.42715623,-79.76303438
+6021,6021,West Oak Village,2370 third line,Oakville,ON,L6M 4E2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.44708343,-79.75633228
+4654,4654,Oneida Nation of the Thames Long-Term Care Home (Tsi' Nu: Yoyantle' Na' Tuhuwatisni),2229 elm avenue,Oneida 41,ON,N0L 2G0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.81734514,-81.41178225
+4015,4015,Jarlette Health Services — Avalon Care Centre,1 Main Street,Orangeville,ON,L9W 3Y3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,43.9167,-80.1167
+2583,2583,Avalon Retirement Centre,355 broadway avenue,Orangeville,ON,L9W 3Y3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.9169995,-80.11650514
+4166,4166,Leacock Care Centre,25 museum drive,Orillia,ON,L3V 7T9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.60660015,-79.39492597
+5805,5805,Trillium Manor Home for the Aged,12 grace avenue,Orillia,ON,L3V 2K2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.62900615,-79.42526219
+5381,5381,Spencer House,835 west ridge boulevard,Orillia,ON,L3V 8B3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.60314495,-79.45390869
+4617,4617,Oak Terrace,291 mississaga street w,Orillia,ON,L3V 3B9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.60302415,-79.43126489
+3506,3506,Extendicare Oshawa,82 park road n,Oshawa,ON,L1J 4L1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.89733765,-78.87514724
+3864,3864,Hillsdale Estates,590 oshawa boulevard n,Oshawa,ON,L1G 5T9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.91384855,-78.86330374
+3865,3865,Hillsdale Terraces,600 oshawa boulevard n,Oshawa,ON,L1G 5T9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.91500165,-78.86454214
+5737,5737,Thorntonview,186 thornton road s,Oshawa,ON,L1J 5Y2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.8859505,-78.8922213
+3116,3116,Chartwell Wynfield Long Term Care Residence,451 woodmount drive,Oshawa,ON,L1G 8E3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.94673256,-78.87267965
+3602,3602,Garden Terrace,100 aird place,Ottawa,ON,K2L 4H8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.30976033,-75.90097929999999
+4421,4421,Montfort,705 montreal road,Ottawa,ON,K1K 0M9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.44672936,-75.64059562
+4272,4272,Manoir Marochel,949 montreal road,Ottawa,ON,K1K 0S6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.44785486,-75.62821042
+2884,2884,Carleton Lodge,55 lodge road,Ottawa,ON,K2C 3H1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.26559733,-75.70705903
+5920,5920,Villa Marconi,1026 baseline road,Ottawa,ON,K2C 0A6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.36599844,-75.72703304
+6133,6133,éLISABETH-BRUYИRE RESIDENCE,75 bruyиre street,Ottawa,ON,K1N 5C8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.43220386,-75.69601434
+4763,4763,Peter d. Clark Centre,9 meridian place,Ottawa,ON,K2G 6P8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.34293864,-75.76125205
+3519,3519,Extendicare West End Villa,2179 elmira drive,Ottawa,ON,K2C 3S1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.35438354,-75.77592346
+5780,5780,Township of Osgoode Care Centre,7650 snake island road,Ottawa,ON,K0A 2P0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.22188813,-75.50384886
+3634,3634,Glebe Centre,950 bank street,Ottawa,ON,K1S 5G6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.39876525,-75.68635693
+3567,3567,Forest Hill,6501 campeau drive,Ottawa,ON,K2K 3E9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.31439133,-75.9096673
+4244,4244,Madonna Care Community,1541 saint joseph boulevard,Ottawa,ON,K1C 7L3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.46043427,-75.559988
+2939,2939,CENTRE D'ACCUEIL CHAMPLAIN,275 perrier avenue,Ottawa,ON,K1L 5C6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.44308406,-75.66040993
+5120,5120,Sarsfield Colonial Home,2861 colonial road,Ottawa,ON,K0A 3E0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.440588,-75.347066
+4214,4214,Longfields Manor,330 beatrice drive,Ottawa,ON,K2J 5A5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.28026603,-75.72981554
+5683,5683,the Salvation Army Ottawa Grace Manor,1156 wellington street,Ottawa,ON,K1Y 2Z3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.40088385,-75.72755805
+3607,3607,Garry j. Armstrong Home,200 island lodge road,Ottawa,ON,K1N 5M2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.43785466,-75.68321333
+3500,3500,Extendicare Laurier Manor,1715 montreal road,Ottawa,ON,K1J 6N4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.44640676,-75.61084101
+3514,3514,Extendicare Starwood,114 starwood road,Ottawa,ON,K2G 3N5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.35366004,-75.75058715
+3503,3503,Extendicare Medex,1865 baseline road,Ottawa,ON,K2C 3K6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.35435184,-75.75821985
+2889,2889,Carlingview Manor,2330 carling avenue,Ottawa,ON,K2B 7H1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.36711344,-75.77672586
+3505,3505,Extendicare New Orchard Lodge,99 new orchard avenue,Ottawa,ON,K2B 5E6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.37526254,-75.77907516
+3863,3863,Hillel Lodge,10 nadolny sachs private,Ottawa,ON,K2A 4G7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.37622944,-75.75281145
+3684,3684,Granite Ridge Care Community,5501 abbott street e,Ottawa,ON,K2S 2C5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.26988372,-75.90499269
+4175,4175,Lee Manor Home,875 sixth street e,Owen Sound,ON,N4K 5W5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.56074357,-80.92749966
+4288,4288,Maple View,1029 4 avenue w,Owen Sound,ON,N4K 4W1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.56743597,-80.94905687
+3623,3623,Georgian Heights,1115 10 street e,Owen Sound,ON,N4K 6B1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.56929937,-80.92272196
+2635,2635,Belvedere Heights,21 belvedere avenue,Parry Sound,ON,P2A 2A2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.34272524,-80.03862375
+4113,4113,Lakeland Long Term Care,6 albert street,Parry Sound,ON,P2A 3A4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.3407019,-80.01766090000001
+5729,5729,the Woodlands of Sunset,920 pelham street,Pelham,ON,L3C 1Y5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.01741988,-79.28534590000001
+4395,4395,Miramichi Lodge,725 pembroke street w,Pembroke,ON,K8A 8S6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.82684776,-77.13017355
+3624,3624,Georgian Manor Home for the Aged,101 thompsons road,Penetanguishene,ON,L9M 0V3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.76796585,-79.91976266
+4097,4097,Knollcrest Lodge,50 william street,Perth East,ON,N0K 1M0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.5706561,-80.92082216
+3867,3867,Hillside Manor,5066 perth east line 34,Perth East,ON,N5A 6S6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.424534200000004,-81.09831679999999
+5415,5415,St. Joseph's at Fleming,659 brealey drive,Peterborough,ON,K9K 2R8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.26877564,-78.36982641
+5045,5045,Riverview Manor Nursing Home,1155 water street,Peterborough,ON,K9H 3P8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.33636205,-78.3150222
+3507,3507,Extendicare Peterborough,860 alexander court,Peterborough,ON,K9J 6B4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.29856245,-78.34564511
+3527,3527,Fairhaven,881 dutton road,Peterborough,ON,K9H 7S4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.32761635,-78.3181676
+3555,3555,Fiddick's Nursing Home,437 first avenue,Petrolia,ON,N0N 1R0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.877897,-82.135951
+2608,2608,Bay Ridges,900 sandy beach road,Pickering,ON,L1W 1Z4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.82847003,-79.0771309
+4671,4671,Orchard Villa,1955 valley farm road,Pickering,ON,L1V 3R6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.84623863,-79.0826885
+4598,4598,Northland Pointe,2 fielden avenue,Port Colborne,ON,L3K 6G4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.8807752,-79.25766920000001
+3884,3884,Hope Street Terrace,20 hope street s,Port Hope,ON,L1A 2M8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.95459039,-78.28837976
+3508,3508,Extendicare Port Hope,360 croft street,Port Hope,ON,L1A 4K8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.96724219,-78.28414406
+4900,4900,Regency Long Term Care Home,66 dorset street e,Port Hope,ON,L1A 1E3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.95079819,-78.28804066
+3428,3428,Eastholme Home for the Aged,62 big bend avenue,Powassan,ON,P0H 1Z0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,46.078695700000004,-79.35888349999999
+5997,5997,Wellington House Nursing Home,990 edward street n,Prescott,ON,K0E 1T0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.71934,-75.51915
+3725,3725,h.j. Mcfarland Memorial Home,603 county road 49,Prince Edward County,ON,K0K 2T0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.02513295,-77.13549939
+4059,4059,Kentwood Park,2 ontario street prince,Prince Edward County,ON,K0K 2T0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.00244715,-77.14847409
+3742,3742,Hallowell House,13628 loyalist parkway prince,Prince Edward County,ON,K0K 2T0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.99421064,-77.1810053
+6016,6016,West Lake Terrace,1673 county road 12 prince edward,Prince Edward County,ON,K0K 2T0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.92704133,-77.25758022
+4429,4429,Morriston Park Nursing Home,7363 calfass road,Puslinch,ON,N0B 2J0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.44004921,-80.1276776
+5788,5788,Trent Valley Lodge,195 bay street,Quinte West,ON,K8V 1H9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.10291195,-77.55773544
+3339,3339,Crown Ridge Place,106 crown street,Quinte West,ON,K8V 6R3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.10639945,-77.56149694
+4883,4883,Rainy River Health Centre,115 fourth street,Rainy River,ON,P0W 1L0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,48.71856,-94.5692765
+4607,4607,Northwood Lodge,51 highway 105,Red Lake,ON,P0V 2M0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,51.01327044,-93.82244384
+3720,3720,Groves Park Lodge,470 raglan street n,Renfrew,ON,K7V 1P5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.48151172,-76.69696907
+2686,2686,Bonnechere Manor,470 albert street,Renfrew,ON,K7V 4L5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.48345932,-76.70256458
+4153,4153,Langstaff Square Care Community,170 red maple road,Richmond Hill,ON,L4B 4T8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.84482422,-79.42478351
+4418,4418,Mon Sheong Richmond Hill Long Term Care Centre,11199 yonge street,Richmond Hill,ON,L4S 1L2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.90134473,-79.44320193
+3447,3447,Elginwood,182 yorkland street,Richmond Hill,ON,L4S 2M9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.90172983,-79.44169122
+5412,5412,St. Jacques Nursing Home,915 notre dame street,Russell,ON,K0A 1W0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.27229585,-75.28638399
+4327,4327,Marshall Gowland Manor,749 devine street,Sarnia,ON,N7T 1X3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.96399632,-82.38446927
+2435,2435,Afton Park Place Long Term Care Community,1200 afton drive,Sarnia,ON,N7S 6L6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.97632532,-82.36144406
+5824,5824,Twin Lakes Terrace Long Term Care Community,1310 murphy road,Sarnia,ON,N7S 6K5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.00307673,-82.36506926
+5502,5502,Sumac Lodge,1464 blackwell road,Sarnia,ON,N7S 5M4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.01031973,-82.34671616
+5931,5931,Vision Nursing Home,229 wellington street,Sarnia,ON,N7T 1G9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.96819132,-82.40364827
+5807,5807,Trillium Villa Nursing Home,1221 michigan avenue,Sarnia,ON,N7S 3Y3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.99848453,-82.36358616
+5334,5334,Southampton Care Centre,140 grey street,Saugeen Shores,ON,N0H 2L0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.48871523,-81.36830209
+2919,2919,Cedarwood Lodge,860 great northern road,Sault Ste. Marie,ON,P6B 0B5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,46.55200831,-84.31955276
+4334,4334,Mauno Kaihla Koti,723 north street,Sault Ste. Marie,ON,P6B 6G8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,46.5396691,-84.33693736
+3518,3518,Extendicare Van Daele,39 van daele street,Sault Ste. Marie,ON,P6B 4V3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,46.5295084,-84.32443156
+3523,3523,f. j. Davey Home,733 third line e,Sault Ste. Marie,ON,P6A 7C1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,46.552122100000005,-84.3119845
+3502,3502,Extendicare Maple View of Sault Ste. Marie,650 northern avenue,Sault Ste. Marie,ON,P6B 4J3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,46.5350635,-84.30335325
+4808,4808,Port Perry Place,15941 simcoe street,Scugog,ON,L9L 1N5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.11144499,-78.95044579
+3499,3499,Extendicare Lakefield,19 fraser street,Selwyn,ON,K0L 2H0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.42419477,-78.28153509999999
+3401,3401,Dufferin Oaks,151 centre street,Shelburne,ON,L9V 3R7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.07675832,-80.20035498
+5220,5220,Shelburne Long Term Care Home,200 robert street,Shelburne,ON,L9V 3S1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.08301872,-80.20421248
+6050,6050,William a. 'Bill' George Extended Care Facility,75 fifth avenue,Sioux Lookout,ON,P8T 1K9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,50.10591688,-91.91875908
+3996,3996,Iroquois Lodge Nursing Home,1755 chiefswood road,Six Nations (Part) 40,ON,N0A 1M0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.07299235,-80.11640017
+2723,2723,Broadview Nursing Centre,210 brockville street,Smiths Falls,ON,K7A 3Z4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.88786035,-76.02083780000001
+3609,3609,Gateway Haven Long Term Care Home,671 frank street,South Bruce Peninsula,ON,N0H 2T0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.74034089,-81.12803284
+3025,3025,Chartwell Lancaster Long Term Care Residence,105 military road n,South Glengarry,ON,K0C 1N0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.14626646,-74.50391692
+3486,3486,Exeter Villa,155 john street e,South Huron,ON,N0M 1S1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.34653763,-81.47441712
+6098,6098,Woodland Villa,30 mille roches road,South Stormont,ON,K0C 1P0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.03376712,-74.88721694
+2587,2587,Babcock Community Care Centre,196 wellington street,Southwest Middlesex,ON,N0L 2N0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.658399700000004,-81.75796234
+3446,3446,Elgin Manor,39262 fingal line,Southwold,ON,N5P 3S5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.76901044,-81.23754879
+5118,5118,Sara Vista,27 simcoe street,Springwater,ON,L0L 1P0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.58237802,-79.86181752
+4193,4193,Linhaven,403 ontario street,St. Catharines,ON,L2N 1L5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.18351721,-79.26633031
+6022,6022,West Park Health Centre,103 pelham road,St. Catharines,ON,L2S 1S9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.140947,-79.25086429999999
+5546,5546,Tabor Manor,1 Main Street,St. Catharines,ON,L2N 1V9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,43.1833,-79.2333
+4366,4366,Mennonite Brethren Senior Citizens Home,1 tabor drive,St. Catharines,ON,L2N 1V9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.1888487,-79.2335379
+5624,5624,the Henley House,20 ernest street,St. Catharines,ON,L2N 7T2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.18492631,-79.2578661
+3600,3600,Garden City Manor,168 scott street,St. Catharines,ON,L2N 1H2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.18091791,-79.2490312
+3831,3831,Heidehof Long Term Care Home,600 lake street,St. Catharines,ON,L2N 4J4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.19665771,-79.251902
+3513,3513,Extendicare St. Catharines,283 pelham road,St. Catharines,ON,L2S 1X7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.1300249,-79.2583408
+2878,2878,Caressant Care on Bonnie Place,15 bonnie place,St. Thomas,ON,N5R 5T8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.77305945,-81.16165267
+2879,2879,Caressant Care on Mary Bucke,4 mary bucke street,St. Thomas,ON,N5R 5J6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.76681534,-81.16897487
+5480,5480,Stirling Manor Nursing Home,218 edward street,Stirling-Rawdon,ON,K0K 3E0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.30226088,-77.54846075
+4750,4750,Peoplecare — Stratford,1 Main Street,Stratford,ON,N5A 5G3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,43.3708,-80.9819
+3696,3696,Greenwood Court,90 greenwood drive,Stratford,ON,N5A 7W5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.38294686,-80.97615776
+5388,5388,Sprucedale Care Centre,96 kittridge avenue e,Strathroy-Caradoc,ON,N7G 2A8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.96355986,-81.62413493
+5492,5492,Strathmere Lodge,599 albert street,Strathroy-Caradoc,ON,N7G 3J3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.95570205,-81.64392804
+4144,4144,Lanark Lodge,115 christie lake road,Tay Valley,ON,K7H 3C6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.90398014,-76.27207578
+4760,4760,Perth Community Care Centre,101 christie lake road,Tay Valley,ON,K7H 3C6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.90433714,-76.27097938
+3515,3515,Extendicare Tecumseh,2475 st alphonse street,Tecumseh,ON,N8N 2X2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.28214117,-82.88283156
+2738,2738,Brouillette Manor,11900 brouillette court,Tecumseh,ON,N8N 4X8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.3064019,-82.8920717
+5559,5559,Temiskaming Lodge,100 bruce street,Temiskaming Shores,ON,P0J 1K0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,47.438790000000004,-79.63082324
+3517,3517,Extendicare Tri-Town,143 bruce street,Temiskaming Shores,ON,P0J 1K0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,47.4407208,-79.63014404
+6049,6049,Wilkes Terrace,20 cartier road,Terrace Bay,ON,P0T 2W0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,48.78045446,-87.10460125
+3588,3588,Foyer St-Viateur Nursing Home,1003 limoges road s,The Nation / La Nation,ON,K0A 2M0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.29369315,-75.22846107
+2644,2644,Bethammi Nursing Home,63 carrie street,Thunder Bay,ON,P7A 4J2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,48.44135877,-89.24131667
+3173,3173,City of Thunder Bay — Dawson Court,1 Main Street,Thunder Bay,ON,P7A 5C2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,48.3822,-89.2461
+3174,3174,City of Thunder Bay — Grandview Lodge,1 Main Street,Thunder Bay,ON,P7C 5Y2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,48.3822,-89.2461
+4794,4794,Pioneer Ridge,750 tungsten street,Thunder Bay,ON,P7A 5C2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,48.41777116,-89.25595747
+5362,5362,Southbridge Lakehead,135 south vickers street,Thunder Bay,ON,P7E 1J2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,48.38274726,-89.25160776
+5363,5363,Southbridge Pinewood,2625 walsh street e,Thunder Bay,ON,P7E 2E5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,48.37456045,-89.27416157
+5364,5364,Southbridge Roseview,99 shuniah street,Thunder Bay,ON,P7A 2Z2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,48.45042517,-89.21555166
+3872,3872,Hogarth Riverview Manor,300 lillie street,Thunder Bay,ON,P7C 4Y7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,48.38712316,-89.27025117
+6096,6096,Woodingford Lodge - Tillsonburg,52 venison street w,Tillsonburg,ON,N4G 1V1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.86207678,-80.73465634
+4285,4285,Maple Manor Nursing Home,73 bidwell street,Tillsonburg,ON,N4G 3T8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.86006238,-80.72991974
+3516,3516,Extendicare Timmins,62 st-jean avenue,Timmins,ON,P4R 0A6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,48.47746467,-81.37922804
+3648,3648,Golden Manor,481 melrose boulevard,Timmins,ON,P4N 5H3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,48.48606627,-81.34352493
+3112,3112,Chartwell White Eagle Long Term Care Residence,138 dowling avenue,Toronto,ON,M6K 3A6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.63717128,-79.4392265
+4338,4338,Maynard Nursing Home,28 halton street,Toronto,ON,M6J 1R3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.64880888,-79.4191815
+4246,4246,Main Street Terrace,77 main street,Toronto,ON,M4E 2V6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.68160949,-79.29859826
+3133,3133,Cheltenham Care Community,5935 bathurst street,Toronto,ON,M2R 1Y8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.7818402,-79.44446061
+3138,3138,Chester Village,3555 danforth avenue,Toronto,ON,M1L 1E3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.6936488,-79.27484865
+4388,4388,Midland Gardens Care Community,130 midland avenue,Toronto,ON,M1N 4E6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.708358600000004,-79.24749635
+3099,3099,Chartwell Trilogy Long Term Care Residence,340 mccowan road,Toronto,ON,M1J 3P4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.73848531,-79.23864245
+4416,4416,Mon Sheong Home for the Aged,36 darcy street,Toronto,ON,M5T 1J7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.65527498,-79.39314779
+4419,4419,Mon Sheong Scarborough Long Term Care Centre,2030 mcnicoll avenue,Toronto,ON,M1V 5P4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.81309612,-79.29999097
+4133,4133,Lakeside Long Term Care Centre,150 dunn avenue,Toronto,ON,M6K 2R6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.636584,-79.43316800000001
+4132,4132,Lakeshore Lodge,3197 lake shore boulevard w,Toronto,ON,M8V 3X5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.59721667,-79.51845532
+4510,4510,Nisbet Lodge,740 pape avenue,Toronto,ON,M4K 3S7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.68025289,-79.34558197
+4515,4515,Norfinch Care Community,22 norfinch drive,Toronto,ON,M3N 1X1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.756787599999996,-79.52618684
+4104,4104,Labdara Lithuanian Nursing Home,5 resurrection road,Toronto,ON,M9A 5G1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.64373408,-79.53092513
+4550,4550,North Park Nursing Home,450 rustic road,Toronto,ON,M6L 1W9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.71741799,-79.48214652
+4090,4090,Kipling Acres,2233 kipling avenue,Toronto,ON,M9W 4L3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.72574509,-79.57339555
+4610,4610,Norwood Nursing Home,122 tyndall avenue,Toronto,ON,M6K 2E2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.63752278,-79.4293819
+3257,3257,Copernicus Lodge,66 roncesvalles avenue,Toronto,ON,M6R 3A7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.64020808,-79.447311
+4051,4051,Kennedy Lodge,1400 kennedy road,Toronto,ON,M1P 4V6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.76265941,-79.28056556
+4002,4002,Ivan Franko Home (Etobicoke),767 royal york road,Toronto,ON,M8Y 2T3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.63771778,-79.50673762
+3009,3009,Chartwell Gibson Long Term Care Residence,1925 steeles avenue e,Toronto,ON,M2H 2H3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.80765981,-79.37379369
+3997,3997,Isabel and Arthur Meighen Manor,155 millwood road,Toronto,ON,M4S 1J6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.70000099,-79.39254279
+2918,2918,Cedarvale Terrace,429 walmer road,Toronto,ON,M5P 2X9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.68545859,-79.41242340000001
+3938,3938,Humber Valley Terrace,95 humber college boulevard,Toronto,ON,M9V 5B5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.72717599,-79.59650396
+2903,2903,Castleview Wychwood Towers,351 christie street,Toronto,ON,M6G 3C3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.67317759,-79.42178559999999
+3322,3322,Craiglee Nursing Home,102 craiglee drive,Toronto,ON,M1N 2M7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.706865,-79.25329325
+5409,5409,St. George Care Community,225 st george street,Toronto,ON,M5R 2M2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.67253289,-79.40161649
+3836,3836,Hellenic Home - Scarborough,2411 lawrence avenue e,Toronto,ON,M1P 4X1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.74876471,-79.27408486
+3835,3835,Hellenic Care for Seniors (Toronto),215 tyrrel avenue,Toronto,ON,M6G 4A9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.67679399,-79.43034200000001
+5051,5051,Rockcliffe Care Community,3015 lawrence avenue e,Toronto,ON,M1P 2V7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.75467751,-79.24789355
+5055,5055,Rose of Sharon Korean Long Term Care,17 maplewood avenue,Toronto,ON,M6C 4B3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.68583989,-79.4218175
+2848,2848,Carefree Lodge,306 finch avenue e,Toronto,ON,M2N 4S5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.78501831,-79.3941154
+3812,3812,Hawthorne Place Care Centre,2045 finch avenue w,Toronto,ON,M3N 1M9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.7562352,-79.52146844
+5188,5188,Seniors' Health Centre,2 buchan court,Toronto,ON,M2J 5A3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.77304721,-79.36002319
+5205,5205,Seven Oaks,9 neilson road,Toronto,ON,M1E 5E1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.78117732,-79.20432774
+5222,5222,Shepherd Lodge,3760 sheppard avenue e,Toronto,ON,M1T 3K9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.78271331,-79.29413397
+5227,5227,the Rekai Centres at Sherbourne Place,345 sherbourne street,Toronto,ON,M5A 2S3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.66267759,-79.37266528
+3342,3342,Cummer Lodge,205 cummer avenue,Toronto,ON,M2M 2E8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.78816171,-79.4075617
+3358,3358,Deerwood Creek Care Community,70 humberline drive,Toronto,ON,M9W 7H3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.73160489,-79.61744587
+3801,3801,Harmony Hills Care Community,1800 oconnor drive,Toronto,ON,M4A 1W7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.7205599,-79.30496586
+3379,3379,Dom Lipa,52 neilson drive,Toronto,ON,M9C 1V7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.62949697,-79.56513824
+2638,2638,Bendale Acres,2920 lawrence avenue e,Toronto,ON,M1P 2T8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.75493801,-79.25183955
+5535,5535,Suomi-Koti Toronto Nursing Home,795 eglinton avenue e,Toronto,ON,M4G 4E4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.7131299,-79.36614148
+3393,3393,Downsview Long Term Care Centre,3595 keele street,Toronto,ON,M3J 1M7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.7511842,-79.48559573
+5625,5625,the Heritage Nursing Home,1195 queen street e,Toronto,ON,M4M 1L6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.66272499,-79.33111227
+5628,5628,the Jewish Home for the Aged,3560 bathurst street,Toronto,ON,M6A 2E1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.7300765,-79.43421181
+5631,5631,the Kensington Gardens,25 brunswick avenue,Toronto,ON,M5S 2L9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.65819899,-79.40343829
+5646,5646,the o'Neill Centre,33 christie street,Toronto,ON,M6G 3B1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.66476219,-79.4186887
+3432,3432,Eatonville Care Centre,420 the east mall,Toronto,ON,M9B 3Z9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.64760318,-79.56046144
+5706,5706,the Village of Humber Heights,2245 lawrence avenue w,Toronto,ON,M9P 3W3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.69710409,-79.52690243
+3601,3601,Garden Court Nursing Home,1 sand beach road,Toronto,ON,M8V 2W2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.60195707,-79.49680752
+2466,2466,Altamont Care Community,92 island road,Toronto,ON,M1C 2P5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.79854962,-79.14005432
+5723,5723,the Wexford,1860 lawrence avenue e,Toronto,ON,M1R 5B1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.7439777,-79.30345907
+3598,3598,Fudger House,439 sherbourne street,Toronto,ON,M4X 1K6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.66633069,-79.37402148
+3441,3441,Ehatare Nursing Home,40 old kingston road,Toronto,ON,M1E 3J5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.77551412,-79.18320493
+5764,5764,Tony Stacey Centre for Veterans' Care,59 lawson road,Toronto,ON,M1C 2J1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.78323942,-79.16339403
+5813,5813,True Davidson Acres,200 dawes road,Toronto,ON,M4C 5M8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.6960602,-79.29840606
+3577,3577,Fountain View Care Community,1800 oconnor drive,Toronto,ON,M4A 1W7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.7205599,-79.30496586
+5830,5830,Ukrainian Canadian Care Centre,60 richview road,Toronto,ON,M9A 5E4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.68434358,-79.51869943
+3576,3576,Fosterbrooke,330 king street w,Toronto,ON,L1B 1G9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.64665448,-79.39003029
+5877,5877,Valleyview Residence,541 finch avenue w,Toronto,ON,M2R 3Y3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.77088320000001,-79.44630321
+3557,3557,Fieldstone Commons Care Community,1000 ellesmere road,Toronto,ON,M1P 5G2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.76728591,-79.27793126
+3452,3452,Elm Grove Living Centre,35 elm grove avenue,Toronto,ON,M6K 2J2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.64031588,-79.4307008
+3537,3537,Fairview Nursing Home,14 cross street,Toronto,ON,M6J 1S8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.64812078,-79.4285026
+5994,5994,Wellesley Central Place,160 wellesley street e,Toronto,ON,M4Y 1J2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.66687279,-79.37566588
+6004,6004,Wesburn Manor,400 the west mall,Toronto,ON,M9C 5S1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.64388927,-79.56745924
+6038,6038,Weston Terrace Care Community,2005 lawrence avenue w,Toronto,ON,M9N 3V4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.70123959,-79.51015143
+6111,6111,Yee Hong Centre - Scarborough Finch,60 scottfield drive,Toronto,ON,M1S 5T7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.80871682,-79.25466546
+6112,6112,Yee Hong Centre Scarborough Mcnicoll,2311 mcnicoll avenue,Toronto,ON,M1V 5L3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.81423242,-79.29021727
+3979,3979,Ina Grafton Gage Home,40 bell estate road,Toronto,ON,M1L 0E2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.705765,-79.27714255
+4339,4339,Mccall Centre Long Term Care Interim Unit,140 sherway drive,Toronto,ON,M9C 1A4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.61006437,-79.56210244
+5880,5880,Vermont Square,914 bathurst street,Toronto,ON,M5R 3G5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.66830209,-79.41276169
+6040,6040,Westside,1145 albion road,Toronto,ON,M9V 4J7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.73728579,-79.56777145
+3511,3511,Extendicare Scarborough,3830 lawrence avenue e,Toronto,ON,M1G 1R6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.76375641,-79.21012454
+3487,3487,Extendicare Bayview,550 cummer avenue,Toronto,ON,M2K 2M2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.79341251,-79.3906724
+3510,3510,Extendicare Rouge Valley,551 conlins road,Toronto,ON,M1B 5S1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.80332132,-79.18867764
+3491,3491,Extendicare Guildwood,60 guildwood parkway,Toronto,ON,M1E 1N9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.74686311,-79.20313123
+3107,3107,Chartwell Westbury Long Term Care Residence,495 the west mall,Toronto,ON,M9C 5S3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.64832328,-79.56767874
+5956,5956,Warkworth Place,97 mill street,Trent Hills,ON,K0K 3K0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.19868555,-77.89304385
+2755,2755,Burnbrae Gardens Long Term Care Residence,320 6 line e,Trent Hills,ON,K0L 1L0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.28480207,-77.84842135
+4411,4411,Moira Place Long-Term Care Home,415 river street w,Tweed,ON,K0K 3J0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.47111572,-77.31915479
+4888,4888,Reachview Village,130 reach street,Uxbridge,ON,L9P 1L3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.10408728,-79.11189924
+6122,6122,York Region Maple Health Centre,10424 keele street,Vaughan,ON,L6A 2L1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.86500652,-79.51564435
+5919,5919,Villa Leonardo Gambin,40 friuli court,Vaughan,ON,L4L 9T3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.7661994,-79.57417395
+5912,5912,Villa Colombo Seniors Centre (Vaughan),10443 highway 27,Vaughan,ON,L0J 1C0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.839618,-79.631803
+4099,4099,Kristus Darzs Latvian Home,11290 pine valley drive,Vaughan,ON,L4L 1A6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.87156441,-79.59579547
+5230,5230,Sherwood Court Long Term Care Centre,300 ravineview drive,Vaughan,ON,L6A 3P8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.88950162,-79.51877245
+6091,6091,Woodbridge Vista Care Community,5400 steeles avenue w,Vaughan,ON,L4L 9S1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.75961009,-79.59777826
+3047,3047,Chartwell Pine Grove Long Term Care Residence,8403 islington avenue,Vaughan,ON,L4L 1X3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.797729,-79.58431476
+5969,5969,Watford Quality Care Centre,344 victoria street,Warwick,ON,N0M 2S0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.95217584,-81.88556091
+4717,4717,Parkwood Mennonite Home,726 new hampshire street,Waterloo,ON,N2K 4M1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.51640151,-80.50225763
+5700,5700,the Village at University Gates,250 laurelwood drive,Waterloo,ON,N2J 0E2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.476737899999996,-80.57032185
+4790,4790,Pinehaven Nursing Home,229 lexington road,Waterloo,ON,N2K 2E1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.492695399999995,-80.51167673
+3216,3216,Columbia Forest,650 mountain maple avenue,Waterloo,ON,N2V 2P7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.4649426,-80.59136415
+3587,3587,Foyer Richelieu Welland,655 tanguay avenue,Welland,ON,L3B 6A1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.99062027,-79.22461408
+3390,3390,Douglas h. Rapelje Lodge,277 plymouth road,Welland,ON,L3B 6E3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.97774267,-79.24618498
+5078,5078,Royal Rose Place,635 prince charles drive n,Welland,ON,L3C 0C7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.00162217,-79.26928669
+5122,5122,Saugeen Valley Nursing Center,465 dublin street,Wellington North,ON,N0G 2L3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.97509868,-80.73933974
+5052,5052,Rockwood Terrace Home for the Aged,575 saddler street e,West Grey,ON,N0G 1R0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.17446891,-80.80961509
+2578,2578,AU CHATEAU,100 michaud street,West Nipissing / Nipissing Ouest,ON,P2B 2Z4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,46.37203452,-79.92058532
+5024,5024,Ritz Lutheran Villa,4118 road 164,West Perth,ON,N0K 1N0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.478586,-81.191192
+4407,4407,Mitchell Nursing Home,184 napier street,West Perth,ON,N0K 1N0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.47396537,-81.20189084
+3531,3531,Fairview Lodge,632 dundas street w,Whitby,ON,L1N 5S3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.87912064,-78.95110927
+5519,5519,Sunnycrest Nursing Home,1635 dundas street e,Whitby,ON,L1N 2K9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.88695065,-78.90906825
+5710,5710,the Village of Taunton Mills,3800 brock street n,Whitby,ON,L1R 3A5,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.91312705,-78.95825897
+4710,4710,Parkview Home Long-Term Care,123 weldon road,Whitchurch-Stouffville,ON,L4A 0G8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.96541475,-79.25898437
+2671,2671,Bloomington Cove Care Community,13621 ninth line,Whitchurch-Stouffville,ON,L4A 3C8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,44.00278365,-79.26290138
+6046,6046,Wikwemikong Nursing Home,2281 wikwemikong way,Wikwemikong Unceded,ON,P0P 2J0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,45.80266553,-81.72321194
+5699,5699,the Village at St. Clair,1800 talbot road,Windsor,ON,N9H 0E3,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.24341286,-83.0147829
+5703,5703,the Village of Aspen Lake,9855 mchugh street,Windsor,ON,N8P 0A6,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.31813568,-82.92003167
+5042,5042,Riverside Place,3181 meadowbrook lane,Windsor,ON,N8T 0A4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.29910898,-82.92755457
+2640,2640,Berkshire Care Centre,350 dougall avenue,Windsor,ON,N9A 4P4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.31631637,-83.04161991
+3512,3512,Extendicare Southwood Lakes,1255 north talbot road,Windsor,ON,N9G 3A4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.24130106,-82.97743668
+3119,3119,Chateau Park Long Term Care Home,2990 riverside drive w,Windsor,ON,N9C 1A2,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.30747117,-83.07313582
+3853,3853,Heron Terrace Long Term Care Community,11550 mcnorton street,Windsor,ON,N8P 1T9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.31721678,-82.89932307
+2593,2593,Banwell Gardens Care Centre,3000 banwell road,Windsor,ON,N8N 2M4,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.31060008,-82.89979807
+3946,3946,Huron Lodge Long Term Care Home,1881 cabana road w,Windsor,ON,N9G 1C7,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.25323436,-83.0236891
+4901,4901,Regency Park Long Term Care Home,567 victoria avenue,Windsor,ON,N9A 4N1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,42.31362957,-83.03932361
+6097,6097,Woodingford Lodge - Woodstock,300 juliana drive,Woodstock,ON,N4V 0A1,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.10811442,-80.75668277
+3370,3370,Derbecker's Heritage House,54 eby street,Woolwich,ON,N0B 2N0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.54089651,-80.54914374
+3004,3004,Chartwell Elmira Long Term Care Residence,11 herbert street,Woolwich,ON,N3B 2B8,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.60150562,-80.56368125
+5826,5826,Twin Oaks of Maryhill,1360 maryhill road,Woolwich,ON,N0B 2B0,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.53642702,-80.39357269
+2597,2597,Barnswallow Place Care Community,120 barnswallow drive,Woolwich,ON,N3B 2Y9,,1-800-622-6232,Nursing and residential care facilities,Province of Ontario,No,5,43.59297082,-80.57796106
+4999,4999,Revera Inc. — the Meadows Long Term Care Centre,1 Main Street,ancaster,ON,L9G 5C2,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,44.8232046376811594,-80.1120202898550725
+5453,5453,St. Joseph’s Motherhouse Martha Wing,1 Main Street,dundas,ON,L9H 7L9,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,44.8232046376811594,-80.1120202898550725
+8864,8864,Ross Payant Centennial Home - Assiniboia,1 Main Street,Assiniboia,SK,S0H 0B0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.6167,-105.9833
+8547,8547,Bengough Health Centre,400 2 street w,Bengough No. 40,SK,S0C 0K0,,1-800-622-6232,Nursing and residential care facilities,Saskatchewan Health Authorities,No,5,49.393536,-105.13443999999998
+8552,8552,Biggar Diamond Lodge,402 2 avenue west,Biggar,SK,S0K 0M0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.0590,-107.9790
+8555,8555,Birchview Nursing Home,1 Main Street,Birch Hills,SK,S0J 0G0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.9833,-105.4333
+8561,8561,Broadview Centennial Lodge,310 calgary street,Broadview,SK,S0G 0K0,,1-800-622-6232,Nursing and residential care facilities,Saskatchewan Health Authorities,No,5,50.376551,-102.573208
+8822,8822,Prairie Health Care Centre,517 1 street n,Cabri,SK,S7L 2W5,,1-800-622-6232,Nursing and residential care facilities,Saskatchewan Health Authorities,No,5,50.617064,-108.466807
+8568,8568,Canora Gateway Lodge,212 central ave east,Canora,SK,S0A 0L0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.6339,-102.4369
+8595,8595,Cupar and District Nursing Home,213 mills street,Cupar,SK,S0G 0Y0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.0135234234234234,-105.7511945945945946
+8574,8574,Centennial Special Care Home - Esterhazy,300 james st,Esterhazy,SK,S0A 0X0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.6500,-102.0667
+8639,8639,Foam Lake Jubilee Home,421 alberta ave,Foam Lake,SK,S0A 1A0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.6500,-103.5333
+8660,8660,Grenfell Pioneer Home,710 regina avenue,Grenfell,SK,S0G 2B0,,1-800-622-6232,Nursing and residential care facilities,Saskatchewan Health Authorities,No,5,50.410051,-102.934515
+8662,8662,Hafford Hospital and Special Care Home,1 Main Street,Hafford,SK,S0J 1A0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.0135234234234234,-105.7511945945945946
+8911,8911,St. Mary’s Villa - Humboldt,1 Main Street,Humboldt,SK,S0K 2A0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.2019,-105.1231
+8910,8910,St. Mary's Villa,1 Main Street,Humboldt,SK,S0K 2A0,,1-800-622-6232,Nursing and residential care facilities,Saskatchewan Health Authorities,No,5,52.207025,-105.13148400000001
+8651,8651,Golden Prairie Home,916 eden street,Indian Head,SK,S0G 2K0,,1-800-622-6232,Nursing and residential care facilities,Saskatchewan Health Authorities,No,5,50.537795,-103.665662
+8687,8687,Kelvindell Lodge,701 6 avenue w,Kelvington,SK,S0A 1W0,,1-800-622-6232,Nursing and residential care facilities,Saskatchewan Health Authorities,No,5,52.157816,-103.526689
+8682,8682,Jubilee Lodge,401 meyers ave,Kinistino,SK,S0J 1H0,,1-800-622-6232,Nursing and residential care facilities,Saskatchewan Health Authorities,No,5,52.952367,-105.02657099999999
+8982,8982,Willowdale Lodge,128 4 street s,Kipling,SK,S0G 2S0,,1-800-622-6232,Nursing and residential care facilities,Saskatchewan Health Authorities,No,5,50.098386,-102.623497
+8714,8714,Lafleche and District Health Centre,1 Main Street,Lafleche,SK,S0H 2K0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.0135234234234234,-105.7511945945945946
+8578,8578,Central Parkland Lodge,1 Main Street,Lanigan,SK,S0K 2M0,,1-800-622-6232,Nursing and residential care facilities,Saskatchewan Health Authorities,No,5,51.851296999999995,-105.02585800000001
+8973,8973,Wheatland Lodge & Home Care,971 saskatchewan hwy 792,Leask,SK,S0J 1M0,,1-800-622-6232,Nursing and residential care facilities,Saskatchewan Health Authorities,No,5,53.023899,-106.73674799999999
+8628,8628,Evergreen Health Centre - Leoville,1 Main Street,Leoville,SK,S0J 1N0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.0135234234234234,-105.7511945945945946
+8744,8744,Lucky Lake Health Centre,1 Main Street,Lucky Lake,SK,S0L 1Z0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.0135234234234234,-105.7511945945945946
+8745,8745,Lumsden and District Heritage Home,10 aspen bay,Lumsden,SK,S0G 3C0,,1-800-622-6232,Nursing and residential care facilities,Saskatchewan Health Authorities,No,5,50.643840999999995,-104.87462
+8912,8912,St. Paul Lutheran Home,100 heritage drive,Melville,SK,S0A 2P0,,1-800-622-6232,Nursing and residential care facilities,Saskatchewan Health Authorities,No,5,50.93911,-102.821524
+8613,8613,Emmanuel Health - Providence Place for Holistic Health,1 Main Street,Moose Jaw,SK,S6H 1B8,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.3933,-105.5519
+8770,8770,Moosomin Hospital,1 Main Street,Moosomin,SK,S0G 3N0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.1420,-101.6700
+8811,8811,Pineview Lodge - Nipawin,400 6th ave east po box 2105,Nipawin,SK,S0E 1E0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.3572,-104.0192
+8779,8779,Nokomis Health Centre,103 2 avenue e nokomis sk sog 3ro,Nokomis,SK,S0E 1E0,,1-800-622-6232,Nursing and residential care facilities,Saskatchewan Health Authorities,No,5,51.507839000000004,-105.009923
+8782,8782,Norquay Health Centre,1 po box 190,Norquay,SK,S0A 2V0,,1-800-622-6232,Nursing and residential care facilities,Saskatchewan Health Authorities,No,5,51.880519,-102.077116
+8856,8856,River Heights Lodge - North Battleford,1 Main Street,North Battleford,SK,S9A 0S3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.7575,-108.2861
+8855,8855,River Heights Lodge,2001 99 street,North Battleford,SK,S7K 3X5,,1-800-622-6232,Nursing and residential care facilities,Saskatchewan Health Authorities,No,5,52.787328,-108.302776
+8943,8943,Villa Pascal (Affiliate),1301 113 street,North Battleford,SK,S9A 3K1,,1-800-622-6232,Nursing and residential care facilities,Saskatchewan Health Authorities,No,5,52.776803,-108.2799
+8647,8647,Galloway Health Centre - Oxbow,917 tupper st po box 268,Oxbow,SK,S0C 2B0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,49.2333,-102.1667
+8612,8612,Emmanuel Health - Foyer St. Joseph Nursing Home,1 Main Street,Ponteix,SK,S0N 1Z0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.0135234234234234,-105.7511945945945946
+8845,8845,Red Deer Nursing Home - Porcupine Plain,330 oak street,Porcupine Plain,SK,S0E 1H0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.0135234234234234,-105.7511945945945946
+8812,8812,Pineview Terrace Lodge - Prince Albert,1 Main Street,Prince Albert,SK,S6V 3H1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,53.2000,-105.7500
+8665,8665,Herb Bassett Home,1200 24 st w,Prince Albert,SK,S6V 4B2,,1-800-622-6232,Nursing and residential care facilities,Saskatchewan Health Authorities,No,5,53.19098100000001,-105.784022
+8884,8884,Silver Heights Special Care Home,402 mclean street,Raymore,SK,S0A 3J0,,1-800-622-6232,Nursing and residential care facilities,Saskatchewan Health Authorities,No,5,51.409658,-104.517993
+8632,8632,Extendicare — Parkside,4540 rae street,Regina,SK,S4S 3B4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.4547,-104.6067
+8634,8634,Extendicare — Sunset,260 sunset dr,Regina,SK,S4S 2S3,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.4547,-104.6067
+8616,8616,Emmanuel Health - Santa Maria Senior Citizens Home,1 Main Street,Regina,SK,S4S 0J5,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.4547,-104.6067
+8851,8851,Regina Lutheran Home,1925 5 avenue north,Regina,SK,S4R 7W1,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.4547,-104.6067
+8655,8655,Governing Council of the Salvation Army in Canada — William Booth Special Care Home,50 angus rd.,Regina,SK,S4R 8P6,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.4547,-104.6067
+8630,8630,Extendicare — Elmview,4125 rae street,Regina,SK,S4S 3A5,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.4547,-104.6067
+8839,8839,Qu’Appelle House,1 qu'appelle house,Regina,SK,S4P 1B4,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.4547,-104.6067
+8853,8853,Regina Pioneer Village,430 pioneer drive,Regina,SK,S4T 6L8,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,50.4547,-104.6067
+8861,8861,Rosetown - Wheatbelt Centennial Lodge,1 Main Street,Rosetown,SK,S0L 2V0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,51.5500,-107.9833
+8717,8717,Lakeside Manor Care Home,101 crescent lake road,Saltcoats,SK,S0A 3R0,,1-800-622-6232,Nursing and residential care facilities,Saskatchewan Health Authorities,No,5,51.038146000000005,-102.160342
+8821,8821,"Porteous Lodge, Jubilee Residences",833 avenue p n,Saskatoon,SK,S7L 2W5,,1-800-622-6232,Nursing and residential care facilities,Saskatchewan Health Authorities,No,5,52.138106,-106.69470600000001
+8929,8929,the Meadows,2215 woodrow lloyd place,Swift Current,SK,S9H 5R2,,1-800-622-6232,Nursing and residential care facilities,Saskatchewan Health Authorities,No,5,50.313434,-107.774776
+8548,8548,Bethany Pioneer Village,1 Main Street,Three Lakes No. 400,SK,S0K 2X0,,1-800-622-6232,Nursing and residential care facilities,Saskatchewan Health Authorities,No,5,52.476943000000006,-105.318248
+8878,8878,Sasko Park Lodge - Tisdale,806 97th avenue,Tisdale,SK,S0E 1T0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.8500,-104.0500
+8776,8776,Newmarket Place,2001 newmarket dr,Tisdale,SK,S0E 1T0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.8500,-104.0500
+8601,8601,Deer View Lodge,201 wilfred st,Wawota,SK,S0G 5A0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.0135234234234234,-105.7511945945945946
+8716,8716,Lakeside Home - Wolseley,1 Main Street,Wolseley,SK,S0G 5H0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.0135234234234234,-105.7511945945945946
+8579,8579,Chateau Providence - St. Brieux,1 Main Street,st breiux,SK,S0K 3V0,,1-800-622-6232,Nursing and residential care facilities,Canadian Institute for Health Information,No,5,52.0135234234234234,-105.7511945945945946
