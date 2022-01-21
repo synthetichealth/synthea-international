@@ -1,2 +1,9 @@
 ,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
-0,010001,Royal Shrewsbury Hospital,Mytton Oak Rd,Shrewsbury,WMS,SY3 8XQ,Shropshire,01743261000,NHS Teaching Hospital,Government - Hospital District or Authority,Yes,5,52.7091,-2.7931
+0,10001,Tokyo Medical Hospital,"2-5-1 Higashigaoka, Meguro-ku",Minato,Tokyo,100-8602,Tokyo,03-3411-0111,National Hospital Organization,National Hospital Organization,Yes,5,35.6895,139.69171
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,139.69171,
