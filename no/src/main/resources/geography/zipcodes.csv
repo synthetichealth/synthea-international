@@ -1,20 +1,20 @@
 ,USPS,ST,NAME,ZCTA5,LAT,LON
-0,Møre Og Romsdal,08,Kristiansund N,6501,63.1101,7.7552
-1,Møre Og Romsdal,08,Kristiansund N,6502,63.1101,7.7552
-2,Møre Og Romsdal,08,Kristiansund N,6503,63.1101,7.7552
-3,Møre Og Romsdal,08,Kristiansund N,6504,63.1101,7.7552
-4,Møre Og Romsdal,08,Kristiansund N,6506,63.1101,7.7552
-5,Møre Og Romsdal,08,Kristiansund N,6507,63.1101,7.7552
-6,Møre Og Romsdal,08,Kristiansund N,6508,63.1101,7.7552
-7,Møre Og Romsdal,08,Kristiansund N,6509,63.1101,7.7552
-8,Møre Og Romsdal,08,Kristiansund N,6510,63.1101,7.7552
-9,Møre Og Romsdal,08,Kristiansund N,6511,63.1101,7.7552
-10,Møre Og Romsdal,08,Kristiansund N,6512,63.1101,7.7552
-11,Møre Og Romsdal,08,Kristiansund N,6514,63.1101,7.7552
-12,Møre Og Romsdal,08,Kristiansund N,6515,63.1101,7.7552
-13,Møre Og Romsdal,08,Kristiansund N,6516,63.1101,7.7552
-14,Møre Og Romsdal,08,Kristiansund N,6517,63.1101,7.7552
-15,Møre Og Romsdal,08,Kristiansund N,6518,63.1101,7.7552
+0,Møre Og Romsdal,08,Kristiansund,6501,63.1101,7.7552
+1,Møre Og Romsdal,08,Kristiansund,6502,63.1101,7.7552
+2,Møre Og Romsdal,08,Kristiansund,6503,63.1101,7.7552
+3,Møre Og Romsdal,08,Kristiansund,6504,63.1101,7.7552
+4,Møre Og Romsdal,08,Kristiansund,6506,63.1101,7.7552
+5,Møre Og Romsdal,08,Kristiansund,6507,63.1101,7.7552
+6,Møre Og Romsdal,08,Kristiansund,6508,63.1101,7.7552
+7,Møre Og Romsdal,08,Kristiansund,6509,63.1101,7.7552
+8,Møre Og Romsdal,08,Kristiansund,6510,63.1101,7.7552
+9,Møre Og Romsdal,08,Kristiansund,6511,63.1101,7.7552
+10,Møre Og Romsdal,08,Kristiansund,6512,63.1101,7.7552
+11,Møre Og Romsdal,08,Kristiansund,6514,63.1101,7.7552
+12,Møre Og Romsdal,08,Kristiansund,6515,63.1101,7.7552
+13,Møre Og Romsdal,08,Kristiansund,6516,63.1101,7.7552
+14,Møre Og Romsdal,08,Kristiansund,6517,63.1101,7.7552
+15,Møre Og Romsdal,08,Kristiansund,6518,63.1101,7.7552
 16,Møre Og Romsdal,08,Frei,6520,63.0275,7.7907
 17,Møre Og Romsdal,08,Frei,6521,63.0275,7.7907
 18,Møre Og Romsdal,08,Frei,6522,63.0275,7.7907
@@ -24,10 +24,10 @@
 22,Møre Og Romsdal,08,Frei,6527,63.0275,7.7907
 23,Møre Og Romsdal,08,Frei,6528,63.0275,7.7907
 24,Møre Og Romsdal,08,Frei,6529,63.0275,7.7907
-25,Møre Og Romsdal,08,Kristiansund N,6546,63.1101,7.7552
-26,Møre Og Romsdal,08,Kristiansund N,6547,63.1101,7.7552
-27,Møre Og Romsdal,08,Kristiansund N,6548,63.1101,7.7552
-28,Møre Og Romsdal,08,Kristiansund N,6549,63.1101,7.7552
+25,Møre Og Romsdal,08,Kristiansund,6546,63.1101,7.7552
+26,Møre Og Romsdal,08,Kristiansund,6547,63.1101,7.7552
+27,Møre Og Romsdal,08,Kristiansund,6548,63.1101,7.7552
+28,Møre Og Romsdal,08,Kristiansund,6549,63.1101,7.7552
 29,Møre Og Romsdal,08,Vistdal,6364,62.7107,7.9319
 30,Møre Og Romsdal,08,Vistdal,6365,62.7107,7.9319
 31,Møre Og Romsdal,08,Molde,6401,62.7371,7.0068
@@ -61,8 +61,8 @@
 59,Møre Og Romsdal,08,Skåla,6456,62.7168,7.4353
 60,Møre Og Romsdal,08,Bolsøya,6457,62.7282,7.2996
 61,Møre Og Romsdal,08,Skåla,6458,62.7168,7.4353
-62,Møre Og Romsdal,08,Eidsvåg I Romsdal,6460,62.7752,8.0442
-63,Møre Og Romsdal,08,Eidsvåg I Romsdal,6461,62.7752,8.0442
+62,Møre Og Romsdal,08,Eidsvåg,6460,62.7752,8.0442
+63,Møre Og Romsdal,08,Eidsvåg,6461,62.7752,8.0442
 64,Møre Og Romsdal,08,Raudsand,6462,62.828,8.1097
 65,Møre Og Romsdal,08,Eresfjord,6470,62.6588,8.1229
 66,Møre Og Romsdal,08,Eresfjord,6471,62.6588,8.1229
@@ -204,11 +204,11 @@
 202,Møre Og Romsdal,08,Fiskarstrand,6038,62.4357,6.2706
 203,Møre Og Romsdal,08,Langevåg,6039,62.4409,6.2038
 204,Møre Og Romsdal,08,Vigra,6040,62.5669,6.0911
-205,Møre Og Romsdal,08,Valderøya,6050,62.507,6.1219
+205,Møre Og Romsdal,08,Valderøy,6050,62.507,6.1219
 206,Møre Og Romsdal,08,Giske,6052,62.5045,6.0485
 207,Møre Og Romsdal,08,Godøya,6054,62.4757,6.0123
 208,Møre Og Romsdal,08,Godøya,6055,62.4757,6.0123
-209,Møre Og Romsdal,08,Valderøya,6058,62.507,6.1219
+209,Møre Og Romsdal,08,Valderøy,6058,62.507,6.1219
 210,Møre Og Romsdal,08,Vigra,6059,62.5669,6.0911
 211,Møre Og Romsdal,08,Fiksdal,6389,62.6163,6.8467
 212,Møre Og Romsdal,08,Vestnes,6390,62.6178,7.0565
@@ -621,11 +621,11 @@
 619,Nordland,09,Lødingen,8410,68.422,15.9598
 620,Nordland,09,Lødingen,8411,68.422,15.9598
 621,Nordland,09,Vestbygd,8412,68.365,15.5383
-622,Nordland,09,Bogen I Ofoten,8533,68.5059,17.0747
+622,Nordland,09,Bogen,8533,68.5059,17.0747
 623,Nordland,09,Liland,8534,68.4905,16.8371
 624,Nordland,09,Tårstad,8535,68.464,16.6271
 625,Nordland,09,Evenes,8536,68.494,16.6925
-626,Nordland,09,Bogen I Ofoten,8539,68.5059,17.0747
+626,Nordland,09,Bogen,8539,68.5059,17.0747
 627,Nordland,09,Røst,8064,67.5133,12.0982
 628,Nordland,09,Røst,8065,67.5133,12.0982
 629,Nordland,09,Værøy,8062,67.6642,12.6974
@@ -674,8 +674,8 @@
 672,Nordland,09,Stokmarknes,8455,68.579,14.9191
 673,Nordland,09,Melbu,8459,68.5056,14.8029
 674,Nordland,09,Straumsjøen,8465,68.7127,14.5846
-675,Nordland,09,Bø I Vesterålen,8469,68.6252,14.4884
-676,Nordland,09,Bø I Vesterålen,8470,68.6252,14.4884
+675,Nordland,09,Bø,8469,68.6252,14.4884
+676,Nordland,09,Bø,8470,68.6252,14.4884
 677,Nordland,09,Straumsjøen,8475,68.7127,14.5846
 678,Nordland,09,Sortland,8408,68.8016,14.9705
 679,Nordland,09,Barkestad,8426,68.8159,14.7986
@@ -1618,7 +1618,7 @@
 1616,Rogaland,14,Nedstrand,5560,59.3392,5.7698
 1617,Rogaland,14,Nedstrand,5562,59.3392,5.7698
 1618,Rogaland,14,Førresfjorden,5563,59.4145,5.3952
-1619,Rogaland,14,Tysværvåg,5565,59.3016,5.4889
+1619,Rogaland,14,Tysvær,5565,59.3016,5.4889
 1620,Rogaland,14,Hervik,5566,59.3508,5.6053
 1621,Rogaland,14,Skjoldastraumen,5567,59.4257,5.6194
 1622,Rogaland,14,Aksdal,5570,59.3919,5.4676
@@ -1632,7 +1632,7 @@
 1630,Rogaland,14,Åkrehamn,4270,59.2568,5.1966
 1631,Rogaland,14,Sandve,4272,59.1841,5.1917
 1632,Rogaland,14,Stol,4274,59.2228,5.1904
-1633,Rogaland,14,Sævelandsvik,4275,59.2733,5.203
+1633,Rogaland,14,Sæveland,4275,59.2733,5.203
 1634,Rogaland,14,Veavågen,4276,59.292,5.2238
 1635,Rogaland,14,Skudeneshavn,4280,59.1534,5.258
 1636,Rogaland,14,Kopervik,4291,59.2801,5.3001
@@ -1952,8 +1952,8 @@
 1950,Trøndelag,21,Lundamo,7232,63.142,10.3336
 1951,Trøndelag,21,Ler,7234,63.1974,10.3557
 1952,Trøndelag,21,Ler,7235,63.1976,10.302
-1953,Trøndelag,21,Hovin I Gauldal,7236,63.0935,10.1912
-1954,Trøndelag,21,Hovin I Gauldal,7238,63.1055,10.2238
+1953,Trøndelag,21,Hovin,7236,63.0935,10.1912
+1954,Trøndelag,21,Hovin,7238,63.1055,10.2238
 1955,Trøndelag,21,Buvika,7350,63.2945,10.1634
 1956,Trøndelag,21,Buvika,7351,63.3125,10.1841
 1957,Trøndelag,21,Børsa,7353,63.3277,10.0592
@@ -2052,10 +2052,10 @@
 2050,Trøndelag,21,Kongsmoen,7876,64.8817,12.4346
 2051,Trøndelag,21,Høylandet,7877,64.6289,12.3021
 2052,Trøndelag,21,Høylandet,7878,64.6289,12.3021
-2053,Trøndelag,21,Skage I Namdalen,7860,64.4703,11.7895
+2053,Trøndelag,21,Skage,7860,64.4703,11.7895
 2054,Trøndelag,21,Overhalla,7863,64.4844,11.9597
 2055,Trøndelag,21,Overhalla,7864,64.4675,11.7564
-2056,Trøndelag,21,Skage I Namdalen,7869,64.4675,11.7564
+2056,Trøndelag,21,Skage,7869,64.4675,11.7564
 2057,Trøndelag,21,Oppland,7745,64.356,10.8435
 2058,Trøndelag,21,Hasvåg,7746,64.4293,10.5966
 2059,Trøndelag,21,Flatanger,7770,64.4884,10.8332
@@ -2513,9 +2513,9 @@
 2511,Viken,30,Saltnes,1642,59.285,10.7582
 2512,Viken,30,Råde,1643,59.3451,10.8683
 2513,Viken,30,Sperrebotn,1591,59.4278,10.7598
-2514,Viken,30,Våler I Østfold,1592,59.5257,10.8104
+2514,Viken,30,Våler,1592,59.5257,10.8104
 2515,Viken,30,Svinndal,1593,59.4437,11.0229
-2516,Viken,30,Våler I Østfold,1594,59.4936,10.8675
+2516,Viken,30,Våler,1594,59.4936,10.8675
 2517,Viken,30,Vestby,1540,59.5827,10.8441
 2518,Viken,30,Vestby,1541,59.5993,10.739
 2519,Viken,30,Vestby,1542,59.5993,10.739
@@ -2959,11 +2959,11 @@
 2957,Innlandet,34,Hamar,2321,60.7951,11.0959
 2958,Innlandet,34,Ridabu,2322,60.8026,11.1504
 2959,Innlandet,34,Ingeberg,2323,60.8511,11.1428
-2960,Innlandet,34,Vang På Hedmarken,2324,60.9173,11.1897
+2960,Innlandet,34,Vang,2324,60.9173,11.1897
 2961,Innlandet,34,Hamar,2325,60.8059,11.0482
 2962,Innlandet,34,Hamar,2326,60.8059,11.0482
 2963,Innlandet,34,Ridabu,2328,60.8026,11.1504
-2964,Innlandet,34,Vang På Hedmarken,2329,60.9173,11.1897
+2964,Innlandet,34,Vang,2329,60.9173,11.1897
 2965,Innlandet,34,Lillehammer,2601,61.1051,10.3952
 2966,Innlandet,34,Lillehammer,2602,61.1051,10.3952
 2967,Innlandet,34,Lillehammer,2603,61.1051,10.3952
@@ -3096,10 +3096,10 @@
 3094,Innlandet,34,Åsnes Finnskog,2283,60.6697,12.3271
 3095,Innlandet,34,Braskereidfoss,2434,60.741,11.8294
 3096,Innlandet,34,Braskereidfoss,2435,60.7523,11.7488
-3097,Innlandet,34,Våler I Solør,2436,60.669,11.8303
+3097,Innlandet,34,Våler,2436,60.669,11.8303
 3098,Innlandet,34,Haslemoen,2437,60.6522,11.8593
 3099,Innlandet,34,Gravberget,2438,60.8845,12.26
-3100,Innlandet,34,Våler I Solør,2439,60.669,11.8303
+3100,Innlandet,34,Våler,2439,60.669,11.8303
 3101,Innlandet,34,Elverum,2401,60.8822,11.5482
 3102,Innlandet,34,Elverum,2402,60.8822,11.5482
 3103,Innlandet,34,Elverum,2403,60.8822,11.5482
@@ -3284,12 +3284,12 @@
 3282,Innlandet,34,Etnedal,2893,60.978,9.6253
 3283,Innlandet,34,Fagernes,2900,61.0478,9.1375
 3284,Innlandet,34,Fagernes,2901,60.9907,9.2373
-3285,Innlandet,34,Leira I Valdres,2907,60.9641,9.2679
+3285,Innlandet,34,Leira,2907,60.9641,9.2679
 3286,Innlandet,34,Aurdal,2909,60.9266,9.4188
 3287,Innlandet,34,Aurdal,2910,60.9266,9.4188
 3288,Innlandet,34,Skrautvål,2917,61.0331,9.2156
 3289,Innlandet,34,Ulnes,2918,61.0086,9.0158
-3290,Innlandet,34,Leira I Valdres,2920,60.9641,9.2679
+3290,Innlandet,34,Leira,2920,60.9641,9.2679
 3291,Innlandet,34,Tisleidalen,2923,60.8452,9.1891
 3292,Innlandet,34,Røn,2959,61.01,8.9525
 3293,Innlandet,34,Røn,2960,61.01,8.9525
@@ -3305,8 +3305,8 @@
 3303,Innlandet,34,Beitostølen,2954,61.2553,8.9032
 3304,Innlandet,34,Ryfoss,2972,61.1609,8.7875
 3305,Innlandet,34,Ryfoss,2973,61.0912,8.762
-3306,Innlandet,34,Vang I Valdres,2974,61.1417,8.6246
-3307,Innlandet,34,Vang I Valdres,2975,61.1417,8.6246
+3306,Innlandet,34,Vang,2974,61.1417,8.6246
+3307,Innlandet,34,Vang,2975,61.1417,8.6246
 3308,Innlandet,34,Øye,2977,61.1818,8.3757
 3309,Innlandet,34,Tyinkrysset,2985,61.2254,8.2244
 3310,Vestfold Og Telemark,38,Åsgårdstrand,3167,59.3507,10.4601
@@ -3329,13 +3329,13 @@
 3327,Vestfold Og Telemark,38,Horten,3196,59.4177,10.4779
 3328,Vestfold Og Telemark,38,Nykirke,3197,59.4237,10.3882
 3329,Vestfold Og Telemark,38,Borre,3199,59.3776,10.4498
-3330,Vestfold Og Telemark,38,Sande I Vestfold,3070,59.5901,10.1975
-3331,Vestfold Og Telemark,38,Sande I Vestfold,3071,59.5901,10.1975
-3332,Vestfold Og Telemark,38,Sande I Vestfold,3072,59.564,10.2353
-3333,Vestfold Og Telemark,38,Sande I Vestfold,3073,59.625,10.2073
-3334,Vestfold Og Telemark,38,Sande I Vestfold,3074,59.6438,10.2351
-3335,Vestfold Og Telemark,38,Sande I Vestfold,3076,59.5795,10.2495
-3336,Vestfold Og Telemark,38,Sande I Vestfold,3077,59.5467,10.3132
+3330,Vestfold Og Telemark,38,Sande,3070,59.5901,10.1975
+3331,Vestfold Og Telemark,38,Sande,3071,59.5901,10.1975
+3332,Vestfold Og Telemark,38,Sande,3072,59.564,10.2353
+3333,Vestfold Og Telemark,38,Sande,3073,59.625,10.2073
+3334,Vestfold Og Telemark,38,Sande,3074,59.6438,10.2351
+3335,Vestfold Og Telemark,38,Sande,3076,59.5795,10.2495
+3336,Vestfold Og Telemark,38,Sande,3077,59.5467,10.3132
 3337,Vestfold Og Telemark,38,Holmestrand,3080,59.4638,10.35
 3338,Vestfold Og Telemark,38,Holmestrand,3081,59.4876,10.3176
 3339,Vestfold Og Telemark,38,Holmestrand,3082,59.4876,10.3176
@@ -3644,19 +3644,19 @@
 3642,Vestfold Og Telemark,38,Ulefoss,3830,59.274,9.2796
 3643,Vestfold Og Telemark,38,Ulefoss,3831,59.274,9.2796
 3644,Vestfold Og Telemark,38,Lunde,3832,59.3032,9.0939
-3645,Vestfold Og Telemark,38,Bø I Telemark,3800,59.4129,9.0637
-3646,Vestfold Og Telemark,38,Bø I Telemark,3801,59.4048,9.0783
-3647,Vestfold Og Telemark,38,Bø I Telemark,3802,59.4181,9.0659
-3648,Vestfold Og Telemark,38,Bø I Telemark,3803,59.4324,8.8408
-3649,Vestfold Og Telemark,38,Bø I Telemark,3804,59.4684,9.0535
+3645,Vestfold Og Telemark,38,Bø,3800,59.4129,9.0637
+3646,Vestfold Og Telemark,38,Bø,3801,59.4048,9.0783
+3647,Vestfold Og Telemark,38,Bø,3802,59.4181,9.0659
+3648,Vestfold Og Telemark,38,Bø,3803,59.4324,8.8408
+3649,Vestfold Og Telemark,38,Bø,3804,59.4684,9.0535
 3650,Vestfold Og Telemark,38,Gvarv,3810,59.3852,9.1778
 3651,Vestfold Og Telemark,38,Hørte,3811,59.4229,9.133
 3652,Vestfold Og Telemark,38,Akkerhaugen,3812,59.4085,9.2681
 3653,Vestfold Og Telemark,38,Nordagutu,3820,59.4165,9.3239
-3654,Vestfold Og Telemark,38,Bø I Telemark,3833,59.4129,9.0637
+3654,Vestfold Og Telemark,38,Bø,3833,59.4129,9.0637
 3655,Vestfold Og Telemark,38,Gvarv,3834,59.3852,9.1778
 3656,Vestfold Og Telemark,38,Tinn Austbygd,3650,60.0615,8.8097
-3657,Vestfold Og Telemark,38,Hovin I Telemark,3652,59.8729,9.0264
+3657,Vestfold Og Telemark,38,Hovin,3652,59.8729,9.0264
 3658,Vestfold Og Telemark,38,Atrå,3656,60.0181,8.6361
 3659,Vestfold Og Telemark,38,Miland,3658,59.9255,8.7559
 3660,Vestfold Og Telemark,38,Rjukan,3660,59.8727,8.6144
@@ -3666,7 +3666,7 @@
 3664,Vestfold Og Telemark,38,Hjartdal,3690,59.6457,8.6446
 3665,Vestfold Og Telemark,38,Sauland,3692,59.6049,9.0219
 3666,Vestfold Og Telemark,38,Tuddal,3697,59.7746,8.7605
-3667,Vestfold Og Telemark,38,Bø I Telemark,3805,59.4438,8.8469
+3667,Vestfold Og Telemark,38,Bø,3805,59.4438,8.8469
 3668,Vestfold Og Telemark,38,Seljord,3835,59.4796,8.6394
 3669,Vestfold Og Telemark,38,Seljord,3840,59.4796,8.6394
 3670,Vestfold Og Telemark,38,Flatdal,3841,59.5795,8.5078
@@ -3759,40 +3759,40 @@
 3757,Agder,42,Eydehavn,4862,58.5129,8.8793
 3758,Agder,42,Staubø,4920,58.5581,8.9783
 3759,Agder,42,Staubø,4921,58.5581,8.9783
-3760,Agder,42,Kristiansand S,4604,58.1467,8.0048
-3761,Agder,42,Kristiansand S,4605,58.1467,8.0048
-3762,Agder,42,Kristiansand S,4606,58.1467,8.0048
-3763,Agder,42,Kristiansand S,4608,58.1467,8.0048
+3760,Agder,42,Kristiansand,4604,58.1467,8.0048
+3761,Agder,42,Kristiansand,4605,58.1467,8.0048
+3762,Agder,42,Kristiansand,4606,58.1467,8.0048
+3763,Agder,42,Kristiansand,4608,58.1467,8.0048
 3764,Agder,42,Kardemomme By,4609,58.1873,8.14
-3765,Agder,42,Kristiansand S,4610,58.1413,7.9986
-3766,Agder,42,Kristiansand S,4611,58.1459,7.9938
-3767,Agder,42,Kristiansand S,4612,58.1478,7.9904
-3768,Agder,42,Kristiansand S,4613,58.1384,7.9657
-3769,Agder,42,Kristiansand S,4614,58.1496,7.9977
-3770,Agder,42,Kristiansand S,4615,58.1575,7.9888
-3771,Agder,42,Kristiansand S,4616,58.1492,7.9751
-3772,Agder,42,Kristiansand S,4617,58.1512,7.9613
-3773,Agder,42,Kristiansand S,4618,58.1929,7.9294
+3765,Agder,42,Kristiansand,4610,58.1413,7.9986
+3766,Agder,42,Kristiansand,4611,58.1459,7.9938
+3767,Agder,42,Kristiansand,4612,58.1478,7.9904
+3768,Agder,42,Kristiansand,4613,58.1384,7.9657
+3769,Agder,42,Kristiansand,4614,58.1496,7.9977
+3770,Agder,42,Kristiansand,4615,58.1575,7.9888
+3771,Agder,42,Kristiansand,4616,58.1492,7.9751
+3772,Agder,42,Kristiansand,4617,58.1512,7.9613
+3773,Agder,42,Kristiansand,4618,58.1929,7.9294
 3774,Agder,42,Mosby,4619,58.2292,7.8468
-3775,Agder,42,Kristiansand S,4620,58.1237,7.9457
-3776,Agder,42,Kristiansand S,4621,58.126,7.9613
-3777,Agder,42,Kristiansand S,4622,58.1196,7.9417
-3778,Agder,42,Kristiansand S,4623,58.1091,7.9735
-3779,Agder,42,Kristiansand S,4624,58.1042,7.9503
+3775,Agder,42,Kristiansand,4620,58.1237,7.9457
+3776,Agder,42,Kristiansand,4621,58.126,7.9613
+3777,Agder,42,Kristiansand,4622,58.1196,7.9417
+3778,Agder,42,Kristiansand,4623,58.1091,7.9735
+3779,Agder,42,Kristiansand,4624,58.1042,7.9503
 3780,Agder,42,Flekkerøy,4625,58.0791,8.0019
-3781,Agder,42,Kristiansand S,4626,58.1344,7.9489
-3782,Agder,42,Kristiansand S,4628,58.1409,7.8785
-3783,Agder,42,Kristiansand S,4629,58.1457,7.9553
-3784,Agder,42,Kristiansand S,4630,58.1633,7.9952
-3785,Agder,42,Kristiansand S,4631,58.1533,8.0154
-3786,Agder,42,Kristiansand S,4632,58.1518,8.0237
-3787,Agder,42,Kristiansand S,4633,58.172,8.0306
-3788,Agder,42,Kristiansand S,4634,58.2867,8.0878
-3789,Agder,42,Kristiansand S,4635,58.1755,8.0913
-3790,Agder,42,Kristiansand S,4636,58.1766,8.1296
-3791,Agder,42,Kristiansand S,4637,58.1513,8.0587
-3792,Agder,42,Kristiansand S,4638,58.152,8.0727
-3793,Agder,42,Kristiansand S,4639,58.126,8.0978
+3781,Agder,42,Kristiansand,4626,58.1344,7.9489
+3782,Agder,42,Kristiansand,4628,58.1409,7.8785
+3783,Agder,42,Kristiansand,4629,58.1457,7.9553
+3784,Agder,42,Kristiansand,4630,58.1633,7.9952
+3785,Agder,42,Kristiansand,4631,58.1533,8.0154
+3786,Agder,42,Kristiansand,4632,58.1518,8.0237
+3787,Agder,42,Kristiansand,4633,58.172,8.0306
+3788,Agder,42,Kristiansand,4634,58.2867,8.0878
+3789,Agder,42,Kristiansand,4635,58.1755,8.0913
+3790,Agder,42,Kristiansand,4636,58.1766,8.1296
+3791,Agder,42,Kristiansand,4637,58.1513,8.0587
+3792,Agder,42,Kristiansand,4638,58.152,8.0727
+3793,Agder,42,Kristiansand,4639,58.126,8.0978
 3794,Agder,42,Søgne,4640,58.0857,7.8137
 3795,Agder,42,Søgne,4641,58.07,7.7185
 3796,Agder,42,Søgne,4642,58.1508,7.6779
@@ -3805,38 +3805,38 @@
 3803,Agder,42,Hamresanden,4656,58.1884,8.0938
 3804,Agder,42,Kjevik,4657,58.205,8.0765
 3805,Agder,42,Tveit,4658,58.2293,8.1175
-3806,Agder,42,Kristiansand S,4661,58.1467,8.0048
-3807,Agder,42,Kristiansand S,4662,58.1467,8.0048
-3808,Agder,42,Kristiansand S,4663,58.1467,8.0048
-3809,Agder,42,Kristiansand S,4664,58.1467,8.0048
-3810,Agder,42,Kristiansand S,4665,58.1467,8.0048
-3811,Agder,42,Kristiansand S,4666,58.1467,8.0048
-3812,Agder,42,Kristiansand S,4670,58.1467,8.0048
-3813,Agder,42,Kristiansand S,4671,58.1467,8.0048
-3814,Agder,42,Kristiansand S,4672,58.1467,8.0048
-3815,Agder,42,Kristiansand S,4673,58.1467,8.0048
-3816,Agder,42,Kristiansand S,4674,58.1467,8.0048
-3817,Agder,42,Kristiansand S,4675,58.1467,8.0048
-3818,Agder,42,Kristiansand S,4676,58.1467,8.0048
-3819,Agder,42,Kristiansand S,4677,58.1467,8.0048
-3820,Agder,42,Kristiansand S,4678,58.1467,8.0048
+3806,Agder,42,Kristiansand,4661,58.1467,8.0048
+3807,Agder,42,Kristiansand,4662,58.1467,8.0048
+3808,Agder,42,Kristiansand,4663,58.1467,8.0048
+3809,Agder,42,Kristiansand,4664,58.1467,8.0048
+3810,Agder,42,Kristiansand,4665,58.1467,8.0048
+3811,Agder,42,Kristiansand,4666,58.1467,8.0048
+3812,Agder,42,Kristiansand,4670,58.1467,8.0048
+3813,Agder,42,Kristiansand,4671,58.1467,8.0048
+3814,Agder,42,Kristiansand,4672,58.1467,8.0048
+3815,Agder,42,Kristiansand,4673,58.1467,8.0048
+3816,Agder,42,Kristiansand,4674,58.1467,8.0048
+3817,Agder,42,Kristiansand,4675,58.1467,8.0048
+3818,Agder,42,Kristiansand,4676,58.1467,8.0048
+3819,Agder,42,Kristiansand,4677,58.1467,8.0048
+3820,Agder,42,Kristiansand,4678,58.1467,8.0048
 3821,Agder,42,Flekkerøy,4679,58.0791,8.0019
 3822,Agder,42,Søgne,4681,58.0857,7.8137
 3823,Agder,42,Søgne,4682,58.0857,7.8137
 3824,Agder,42,Søgne,4683,58.0857,7.8137
 3825,Agder,42,Brennåsen,4684,58.1317,7.8554
 3826,Agder,42,Nodeland,4685,58.169,7.8332
-3827,Agder,42,Kristiansand S,4686,58.1467,8.0048
-3828,Agder,42,Kristiansand S,4687,58.1467,8.0048
-3829,Agder,42,Kristiansand S,4688,58.1467,8.0048
-3830,Agder,42,Kristiansand S,4689,58.1467,8.0048
-3831,Agder,42,Kristiansand S,4691,58.1467,8.0048
-3832,Agder,42,Kristiansand S,4693,58.1467,8.0048
-3833,Agder,42,Kristiansand S,4694,58.1467,8.0048
-3834,Agder,42,Kristiansand S,4695,58.1467,8.0048
-3835,Agder,42,Kristiansand S,4696,58.1467,8.0048
-3836,Agder,42,Kristiansand S,4697,58.1467,8.0048
-3837,Agder,42,Kristiansand S,4698,58.1467,8.0048
+3827,Agder,42,Kristiansand,4686,58.1467,8.0048
+3828,Agder,42,Kristiansand,4687,58.1467,8.0048
+3829,Agder,42,Kristiansand,4688,58.1467,8.0048
+3830,Agder,42,Kristiansand,4689,58.1467,8.0048
+3831,Agder,42,Kristiansand,4691,58.1467,8.0048
+3832,Agder,42,Kristiansand,4693,58.1467,8.0048
+3833,Agder,42,Kristiansand,4694,58.1467,8.0048
+3834,Agder,42,Kristiansand,4695,58.1467,8.0048
+3835,Agder,42,Kristiansand,4696,58.1467,8.0048
+3836,Agder,42,Kristiansand,4697,58.1467,8.0048
+3837,Agder,42,Kristiansand,4698,58.1467,8.0048
 3838,Agder,42,Tveit,4699,58.2293,8.1175
 3839,Agder,42,Mandal,4501,58.0272,7.3978
 3840,Agder,42,Mandal,4502,58.0272,7.3978
@@ -3940,8 +3940,8 @@
 3938,Agder,42,Rysstad,4748,59.0891,7.4665
 3939,Agder,42,Rysstad,4749,59.0891,7.4665
 3940,Agder,42,Bykle,4754,59.4326,7.3807
-3941,Agder,42,Hovden I Setesdal,4755,59.5655,7.3612
-3942,Agder,42,Hovden I Setesdal,4756,59.5655,7.3612
+3941,Agder,42,Hovden,4755,59.5655,7.3612
+3942,Agder,42,Hovden,4756,59.5655,7.3612
 3943,Agder,42,Vennesla,4700,58.2725,7.9725
 3944,Agder,42,Vennesla,4701,58.2725,7.9725
 3945,Agder,42,Vennesla,4702,58.2725,7.9725
@@ -4038,8 +4038,8 @@
 4036,Vestland,46,Bergen,5098,60.3468,5.3725
 4037,Vestland,46,Bergen,5099,60.3425,5.3769
 4038,Vestland,46,Eidsvågneset,5101,60.443,5.2892
-4039,Vestland,46,Eidsvåg I Åsane,5104,60.4382,5.302
-4040,Vestland,46,Eidsvåg I Åsane,5105,60.4346,5.3218
+4039,Vestland,46,Eidsvåg,5104,60.4382,5.302
+4040,Vestland,46,Eidsvåg,5105,60.4346,5.3218
 4041,Vestland,46,Øvre Ervik,5106,60.4467,5.3202
 4042,Vestland,46,Salhus,5107,60.5082,5.2706
 4043,Vestland,46,Hordvik,5108,60.5186,5.3063
@@ -4548,8 +4548,8 @@
 4546,Vestland,46,Ytrøygrend,6927,61.0848,4.6978
 4547,Vestland,46,Kolgrov,6928,61.0159,4.646
 4548,Vestland,46,Hersvikbygda,6929,61.1947,4.8751
-4549,Vestland,46,Leirvik I Sogn,6951,61.1513,5.3528
-4550,Vestland,46,Leirvik I Sogn,6953,61.1513,5.3528
+4549,Vestland,46,Leirvik,6951,61.1513,5.3528
+4550,Vestland,46,Leirvik,6953,61.1513,5.3528
 4551,Vestland,46,Hyllestad,6957,61.1681,5.265
 4552,Vestland,46,Sørbøvåg,6958,61.229,5.1599
 4553,Vestland,46,Sørbøvåg,6959,61.229,5.1599
@@ -4563,8 +4563,8 @@
 4561,Vestland,46,Kyrkjebø,6995,61.1665,5.9254
 4562,Vestland,46,Vadheim,6996,61.2118,5.8008
 4563,Vestland,46,Vadheim,6997,61.2118,5.8008
-4564,Vestland,46,Vik I Sogn,6891,61.0566,6.5347
-4565,Vestland,46,Vik I Sogn,6893,61.0566,6.5347
+4564,Vestland,46,Vik,6891,61.0566,6.5347
+4565,Vestland,46,Vik,6893,61.0566,6.5347
 4566,Vestland,46,Vangsnes,6894,61.1567,6.6311
 4567,Vestland,46,Feios,6895,61.1414,6.7646
 4568,Vestland,46,Fresvik,6896,61.065,6.9375
@@ -4622,8 +4622,8 @@
 4620,Vestland,46,Værlandet,6986,61.3091,4.7265
 4621,Vestland,46,Bulandet,6987,61.2877,4.6252
 4622,Vestland,46,Askvoll,6988,61.3497,5.0761
-4623,Vestland,46,Dale I Sunnfjord,6961,61.3538,5.417
-4624,Vestland,46,Dale I Sunnfjord,6963,61.3538,5.417
+4623,Vestland,46,Dale,6961,61.3538,5.417
+4624,Vestland,46,Dale,6963,61.3538,5.417
 4625,Vestland,46,Korssund,6964,61.2625,5.0075
 4626,Vestland,46,Guddal,6966,61.2422,5.553
 4627,Vestland,46,Hellevik I Fjaler,6967,61.297,5.1173
@@ -4649,12 +4649,12 @@
 4647,Vestland,46,Haukedalen,6818,61.4157,6.3537
 4648,Vestland,46,Førde,6819,61.445,6.012
 4649,Vestland,46,Førde,6820,61.4545,5.8395
-4650,Vestland,46,Skei I Jølster,6841,61.5719,6.4814
-4651,Vestland,46,Skei I Jølster,6843,61.5719,6.4814
+4650,Vestland,46,Skei,6841,61.5719,6.4814
+4651,Vestland,46,Skei,6843,61.5719,6.4814
 4652,Vestland,46,Vassenden,6844,61.4987,6.1412
 4653,Vestland,46,Vassenden,6847,61.4987,6.1412
-4654,Vestland,46,Sande I Sunnfjord,6971,61.3291,5.8116
-4655,Vestland,46,Sande I Sunnfjord,6973,61.3291,5.8116
+4654,Vestland,46,Sande,6971,61.3291,5.8116
+4655,Vestland,46,Sande,6973,61.3291,5.8116
 4656,Vestland,46,Skilbrei,6975,61.3874,5.8044
 4657,Vestland,46,Bygstad,6976,61.3783,5.6605
 4658,Vestland,46,Bygstad,6977,61.3783,5.6605
