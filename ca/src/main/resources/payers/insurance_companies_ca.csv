@@ -1,14 +1,14 @@
 Id,Name,Address,City,State Headquarterd,Zip,Phone,States Covered,Ownership,Priority Level
-10001,Alberta Health Care Insurance,1 Main Street,Edmonton,Alberta,T5B,1-800-622-6232,Alberta,Government,1
-10002,Medical Services of British Columbia,1 Main Street,Victoria,British Columbia,V9E,1-800-622-6232,British Columbia,Government,1
-10003,Manitoba Health,1 Main Street,Winnipeq,Manitoba,R3A,1-800-622-6232,Manitoba,Government,1
-10004,New Brunswick Health Care,1 Main Street,Fredericton,New Brunswick,E3B,1-800-622-6232,New Brunswick,Government,1
-10005,Newfoundland and Labrador Medical Care,1 Main Street,St. John's,Newfoundland and Labrador,A1A,1-800-622-6232,Newfoundland and Labrador,Government,1
-10006,NWT Health Care Insurance,1 Main Street,Yellowknife,Northwest Territories,X1A,1-800-622-6232,Northwest Territories,Government,1
-10007,Medical Service Insurance,1 Main Street,Halifax,Nova Scotia,B3K,1-800-622-6232,Nova Scotia,Government,1
-10008,Nunavut Health Care,1 Main Street,Iqaluit,Nunavut,1H0,1-800-622-6232,Nunavut,Government,1
-10009,Ontario Health Insurance,1 Main Street,Toronto,Ontario,M5A,1-800-622-6232,Ontario,Government,1
-10010,Prince Edward Island Hospital and Medical Services,1 Main Street,Charlottetown,Prince Edward Island,C1A,1-800-622-6232,Prince Edward Island,Government,1
-10011,R�gie de l'assurance maladie du Qu�bec,1 Rue principale,Quebec City,Quebec,G1A,1-800-622-6232,Quebec,Government,1
-10012,Saskatchewan Medical Care Insurance,1 Main Street,Regina,Saskatchewan,S4M,1-800-622-6232,Saskatchewan,Government,1
-10013,Yukon Health Care Insurance,1 Main Street,Whitehorse,Yukon,Y1A,1-800-622-6232,Yukon,Government,1
+10001,Alberta Health Care Insurance,1 Main Street,Edmonton,Alberta,T5B,1-800-622-6232,AB,Government,1
+10002,Medical Services of British Columbia,1 Main Street,Victoria,British Columbia,V9E,1-800-622-6232,BC,Government,1
+10003,Manitoba Health,1 Main Street,Winnipeq,Manitoba,R3A,1-800-622-6232,MB,Government,1
+10004,New Brunswick Health Care,1 Main Street,Fredericton,New Brunswick,E3B,1-800-622-6232,NB,Government,1
+10005,Newfoundland and Labrador Medical Care,1 Main Street,St. John's,Newfoundland and Labrador,A1A,1-800-622-6232,NL,Government,1
+10006,NWT Health Care Insurance,1 Main Street,Yellowknife,Northwest Territories,X1A,1-800-622-6232,NT,Government,1
+10007,Medical Service Insurance,1 Main Street,Halifax,Nova Scotia,B3K,1-800-622-6232,NS,Government,1
+10008,Nunavut Health Care,1 Main Street,Iqaluit,Nunavut,1H0,1-800-622-6232,NU,Government,1
+10009,Ontario Health Insurance,1 Main Street,Toronto,Ontario,M5A,1-800-622-6232,ON,Government,1
+10010,Prince Edward Island Hospital and Medical Services,1 Main Street,Charlottetown,Prince Edward Island,C1A,1-800-622-6232,PE,Government,1
+10011,R�gie de l'assurance maladie du Qu�bec,1 Rue principale,Quebec City,Quebec,G1A,1-800-622-6232,QC,Government,1
+10012,Saskatchewan Medical Care Insurance,1 Main Street,Regina,Saskatchewan,S4M,1-800-622-6232,SK,Government,1
+10013,Yukon Health Care Insurance,1 Main Street,Whitehorse,Yukon,Y1A,1-800-622-6232,YT,Government,1
