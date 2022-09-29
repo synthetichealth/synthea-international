@@ -1,0 +1,2 @@
+Payer Id,Plan Id,Name,Services Covered,Deductible,Default Coinsurance,Default Copay,Monthly Premium,Medicare Supplement,Eligibility Policy,Start Year,End Year,Notes
+10001,10010,National Health Service Plan,*,0,0,0,0,false,EveryoneEligible,0,,
