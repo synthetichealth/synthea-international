@@ -27,7 +27,9 @@ cd ../synthea
 # Data sources
 
 Providers - Extracted from OpenStreetMaps
+
 Zip codes, city names and populations - geonames.org
+
 Demographic data - Finland demographics are copied to all European countries. 
 
 # International region status
