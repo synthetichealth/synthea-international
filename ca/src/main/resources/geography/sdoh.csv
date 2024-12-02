@@ -1,0 +1,294 @@
+FIPS_CODE,COUNTY_CODE,COUNTY,ST,STATE,FOOD_INSECURITY,SEVERE_HOUSING_COST_BURDEN,UNEMPLOYED,NO_VEHICLE_ACCESS,UNINSURED
+0,0,Abitibi,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+1,1,Abitibi-Ouest,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+2,2,Acton,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+3,3,Alberni-Clayoquot,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+4,4,Albert,NB,New Brunswick,0.15,0.15,0.1,0.15,0.1
+5,5,Algoma,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+6,6,Annapolis,NS,Nova Scotia,0.15,0.15,0.1,0.15,0.1
+7,7,Antigonish,NS,Nova Scotia,0.15,0.15,0.1,0.15,0.1
+8,8,Antoine-Labelle,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+9,9,Argenteuil,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+10,10,Arthabaska,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+11,11,Avignon,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+12,12,Baffin,NU,Nunavut,0.15,0.15,0.1,0.15,0.1
+13,13,Beauce-Sartigan,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+14,14,Beauharnois-Salaberry,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+15,15,Bellechasse,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+16,16,Bonaventure,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+17,17,Brant,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+18,18,Brome-Missisquoi,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+19,19,Bruce,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+20,20,Bulkley-Nechako,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+21,21,Bécancour,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+22,22,Cape Breton,NS,Nova Scotia,0.15,0.15,0.1,0.15,0.1
+23,23,Capital,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+24,24,Cariboo,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+25,25,Carleton,NB,New Brunswick,0.15,0.15,0.1,0.15,0.1
+26,26,Central Coast,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+27,27,Central Kootenay,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+28,28,Central Okanagan,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+29,29,Charlevoix,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+30,30,Charlevoix-Est,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+31,31,Charlotte,NB,New Brunswick,0.15,0.15,0.1,0.15,0.1
+32,32,Chatham-Kent,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+33,33,Coaticook,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+34,34,Cochrane,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+35,35,Colchester,NS,Nova Scotia,0.15,0.15,0.1,0.15,0.1
+36,36,Columbia-Shuswap,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+37,37,Comox Valley,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+38,38,Cowichan Valley,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+39,39,Cumberland,NS,Nova Scotia,0.15,0.15,0.1,0.15,0.1
+40,40,D'Autray,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+41,41,Deux-Montagnes,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+42,42,Digby,NS,Nova Scotia,0.15,0.15,0.1,0.15,0.1
+43,43,Division No. 1,NL,Newfoundland and Labrador,0.15,0.15,0.1,0.15,0.1
+44,44,Division No. 1,SK,Saskatchewan,0.15,0.15,0.1,0.15,0.1
+45,45,Division No. 1,AB,Alberta,0.15,0.15,0.1,0.15,0.1
+46,46,Division No. 1,MB,Manitoba,0.15,0.15,0.1,0.15,0.1
+47,47,Division No. 10,AB,Alberta,0.15,0.15,0.1,0.15,0.1
+48,48,Division No. 10,NL,Newfoundland and Labrador,0.15,0.15,0.1,0.15,0.1
+49,49,Division No. 10,SK,Saskatchewan,0.15,0.15,0.1,0.15,0.1
+50,50,Division No. 10,MB,Manitoba,0.15,0.15,0.1,0.15,0.1
+51,51,Division No. 11,AB,Alberta,0.15,0.15,0.1,0.15,0.1
+52,52,Division No. 11,SK,Saskatchewan,0.15,0.15,0.1,0.15,0.1
+53,53,Division No. 11,MB,Manitoba,0.15,0.15,0.1,0.15,0.1
+54,54,Division No. 11,NL,Newfoundland and Labrador,0.15,0.15,0.1,0.15,0.1
+55,55,Division No. 12,AB,Alberta,0.15,0.15,0.1,0.15,0.1
+56,56,Division No. 12,SK,Saskatchewan,0.15,0.15,0.1,0.15,0.1
+57,57,Division No. 12,MB,Manitoba,0.15,0.15,0.1,0.15,0.1
+58,58,Division No. 13,MB,Manitoba,0.15,0.15,0.1,0.15,0.1
+59,59,Division No. 13,SK,Saskatchewan,0.15,0.15,0.1,0.15,0.1
+60,60,Division No. 13,AB,Alberta,0.15,0.15,0.1,0.15,0.1
+61,61,Division No. 14,AB,Alberta,0.15,0.15,0.1,0.15,0.1
+62,62,Division No. 14,SK,Saskatchewan,0.15,0.15,0.1,0.15,0.1
+63,63,Division No. 14,MB,Manitoba,0.15,0.15,0.1,0.15,0.1
+64,64,Division No. 15,SK,Saskatchewan,0.15,0.15,0.1,0.15,0.1
+65,65,Division No. 15,MB,Manitoba,0.15,0.15,0.1,0.15,0.1
+66,66,Division No. 15,AB,Alberta,0.15,0.15,0.1,0.15,0.1
+67,67,Division No. 16,MB,Manitoba,0.15,0.15,0.1,0.15,0.1
+68,68,Division No. 16,AB,Alberta,0.15,0.15,0.1,0.15,0.1
+69,69,Division No. 16,SK,Saskatchewan,0.15,0.15,0.1,0.15,0.1
+70,70,Division No. 17,AB,Alberta,0.15,0.15,0.1,0.15,0.1
+71,71,Division No. 17,MB,Manitoba,0.15,0.15,0.1,0.15,0.1
+72,72,Division No. 17,SK,Saskatchewan,0.15,0.15,0.1,0.15,0.1
+73,73,Division No. 18,AB,Alberta,0.15,0.15,0.1,0.15,0.1
+74,74,Division No. 18,SK,Saskatchewan,0.15,0.15,0.1,0.15,0.1
+75,75,Division No. 18,MB,Manitoba,0.15,0.15,0.1,0.15,0.1
+76,76,Division No. 19,MB,Manitoba,0.15,0.15,0.1,0.15,0.1
+77,77,Division No. 19,AB,Alberta,0.15,0.15,0.1,0.15,0.1
+78,78,Division No. 2,MB,Manitoba,0.15,0.15,0.1,0.15,0.1
+79,79,Division No. 2,NL,Newfoundland and Labrador,0.15,0.15,0.1,0.15,0.1
+80,80,Division No. 2,AB,Alberta,0.15,0.15,0.1,0.15,0.1
+81,81,Division No. 2,SK,Saskatchewan,0.15,0.15,0.1,0.15,0.1
+82,82,Division No. 20,MB,Manitoba,0.15,0.15,0.1,0.15,0.1
+83,83,Division No. 21,MB,Manitoba,0.15,0.15,0.1,0.15,0.1
+84,84,Division No. 22,MB,Manitoba,0.15,0.15,0.1,0.15,0.1
+85,85,Division No. 23,MB,Manitoba,0.15,0.15,0.1,0.15,0.1
+86,86,Division No. 3,SK,Saskatchewan,0.15,0.15,0.1,0.15,0.1
+87,87,Division No. 3,AB,Alberta,0.15,0.15,0.1,0.15,0.1
+88,88,Division No. 3,NL,Newfoundland and Labrador,0.15,0.15,0.1,0.15,0.1
+89,89,Division No. 3,MB,Manitoba,0.15,0.15,0.1,0.15,0.1
+90,90,Division No. 4,MB,Manitoba,0.15,0.15,0.1,0.15,0.1
+91,91,Division No. 4,NL,Newfoundland and Labrador,0.15,0.15,0.1,0.15,0.1
+92,92,Division No. 4,AB,Alberta,0.15,0.15,0.1,0.15,0.1
+93,93,Division No. 4,SK,Saskatchewan,0.15,0.15,0.1,0.15,0.1
+94,94,Division No. 5,MB,Manitoba,0.15,0.15,0.1,0.15,0.1
+95,95,Division No. 5,SK,Saskatchewan,0.15,0.15,0.1,0.15,0.1
+96,96,Division No. 5,AB,Alberta,0.15,0.15,0.1,0.15,0.1
+97,97,Division No. 5,NL,Newfoundland and Labrador,0.15,0.15,0.1,0.15,0.1
+98,98,Division No. 6,NL,Newfoundland and Labrador,0.15,0.15,0.1,0.15,0.1
+99,99,Division No. 6,MB,Manitoba,0.15,0.15,0.1,0.15,0.1
+100,100,Division No. 6,SK,Saskatchewan,0.15,0.15,0.1,0.15,0.1
+101,101,Division No. 6,AB,Alberta,0.15,0.15,0.1,0.15,0.1
+102,102,Division No. 7,NL,Newfoundland and Labrador,0.15,0.15,0.1,0.15,0.1
+103,103,Division No. 7,MB,Manitoba,0.15,0.15,0.1,0.15,0.1
+104,104,Division No. 7,SK,Saskatchewan,0.15,0.15,0.1,0.15,0.1
+105,105,Division No. 7,AB,Alberta,0.15,0.15,0.1,0.15,0.1
+106,106,Division No. 8,AB,Alberta,0.15,0.15,0.1,0.15,0.1
+107,107,Division No. 8,NL,Newfoundland and Labrador,0.15,0.15,0.1,0.15,0.1
+108,108,Division No. 8,SK,Saskatchewan,0.15,0.15,0.1,0.15,0.1
+109,109,Division No. 8,MB,Manitoba,0.15,0.15,0.1,0.15,0.1
+110,110,Division No. 9,NL,Newfoundland and Labrador,0.15,0.15,0.1,0.15,0.1
+111,111,Division No. 9,AB,Alberta,0.15,0.15,0.1,0.15,0.1
+112,112,Division No. 9,SK,Saskatchewan,0.15,0.15,0.1,0.15,0.1
+113,113,Division No. 9,MB,Manitoba,0.15,0.15,0.1,0.15,0.1
+114,114,Drummond,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+115,115,Dufferin,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+116,116,Durham,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+117,117,East Kootenay,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+118,118,Elgin,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+119,119,Essex,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+120,120,Francheville,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+121,121,Fraser Valley,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+122,122,Fraser-Fort George,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+123,123,Frontenac,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+124,124,Gatineau,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+125,125,Gloucester,NB,New Brunswick,0.15,0.15,0.1,0.15,0.1
+126,126,Greater Sudbury / Grand Sudbury,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+127,127,Greater Vancouver,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+128,128,Grey,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+129,129,Guysborough,NS,Nova Scotia,0.15,0.15,0.1,0.15,0.1
+130,130,Haldimand-Norfolk,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+131,131,Haliburton,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+132,132,Halifax,NS,Nova Scotia,0.15,0.15,0.1,0.15,0.1
+133,133,Halton,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+134,134,Hamilton,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+135,135,Hants,NS,Nova Scotia,0.15,0.15,0.1,0.15,0.1
+136,136,Hastings,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+137,137,Huron,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+138,138,Inverness,NS,Nova Scotia,0.15,0.15,0.1,0.15,0.1
+139,139,Joliette,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+140,140,Kamouraska,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+141,141,Kawartha Lakes,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+142,142,Keewatin,NU,Nunavut,0.15,0.15,0.1,0.15,0.1
+143,143,Kenora,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+144,144,Kent,NB,New Brunswick,0.15,0.15,0.1,0.15,0.1
+145,145,Kings,NS,Nova Scotia,0.15,0.15,0.1,0.15,0.1
+146,146,Kings,NB,New Brunswick,0.15,0.15,0.1,0.15,0.1
+147,147,Kings,PE,Prince Edward Island,0.15,0.15,0.1,0.15,0.1
+148,148,Kitikmeot,NU,Nunavut,0.15,0.15,0.1,0.15,0.1
+149,149,Kitimat-Stikine,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+150,150,Kootenay Boundary,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+151,151,L'Assomption,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+152,152,L'Islet,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+153,153,L'Érable,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+154,154,L'Île-d'Orléans,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+155,155,La Côte-de-Beaupré,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+156,156,La Côte-de-Gaspé,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+157,157,La Haute-Côte-Nord,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+158,158,La Haute-Gaspésie,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+159,159,La Haute-Yamaska,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+160,160,La Jacques-Cartier,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+161,161,La Matapédia,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+162,162,La Mitis,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+163,163,La Nouvelle-Beauce,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+164,164,La Rivière-du-Nord,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+165,165,La Tuque,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+166,166,La Vallée-de-l'Or,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+167,167,La Vallée-de-la-Gatineau,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+168,168,La Vallée-du-Richelieu,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+169,169,Lac-Saint-Jean-Est,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+170,170,Lambton,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+171,171,Lanark,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+172,172,Laval,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+173,173,Le Domaine-du-Roy,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+174,174,Le Granit,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+175,175,Le Haut-Richelieu,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+176,176,Le Haut-Saint-François,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+177,177,Le Haut-Saint-Laurent,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+178,178,Le Rocher-Percé,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+179,179,Le Saguenay-et-son-Fjord,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+180,180,Le Val-Saint-François,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+181,181,Leeds and Grenville,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+182,182,Lennox and Addington,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+183,183,Les Appalaches,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+184,184,Les Basques,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+185,185,Les Collines-de-l'Outaouais,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+186,186,Les Etchemins,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+187,187,Les Jardins-de-Napierville,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+188,188,Les Laurentides,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+189,189,Les Maskoutains,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+190,190,Les Moulins,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+191,191,Les Pays-d'en-Haut,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+192,192,Les Sources,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+193,193,Les Îles-de-la-Madeleine,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+194,194,Longueuil,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+195,195,Lotbinière,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+196,196,Lunenburg,NS,Nova Scotia,0.15,0.15,0.1,0.15,0.1
+197,197,Lévis,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+198,198,Madawaska,NB,New Brunswick,0.15,0.15,0.1,0.15,0.1
+199,199,Manicouagan,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+200,200,Manitoulin,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+201,201,Marguerite-D'Youville,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+202,202,Maria-Chapdelaine,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+203,203,Maskinongé,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+204,204,Matane,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+205,205,Matawinie,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+206,206,Memphrémagog,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+207,207,Middlesex,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+208,208,Minganie--Le Golfe-du-Saint-Laurent,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+209,209,Mirabel,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+210,210,Montcalm,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+211,211,Montmagny,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+212,212,Montréal,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+213,213,Mount Waddington,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+214,214,Muskoka,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+215,215,Mékinac,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+216,216,Nanaimo,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+217,217,Niagara,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+218,218,Nicolet-Yamaska,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+219,219,Nipissing,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+220,220,Nord-du-Québec,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+221,221,North Okanagan,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+222,222,Northern Rockies,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+223,223,Northumberland,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+224,224,Northumberland,NB,New Brunswick,0.15,0.15,0.1,0.15,0.1
+225,225,Okanagan-Similkameen,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+226,226,Ottawa,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+227,227,Oxford,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+228,228,Papineau,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+229,229,Parry Sound,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+230,230,Peace River,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+231,231,Peel,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+232,232,Perth,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+233,233,Peterborough,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+234,234,Pictou,NS,Nova Scotia,0.15,0.15,0.1,0.15,0.1
+235,235,Pierre-De Saurel,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+236,236,Pontiac,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+237,237,Portneuf,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+238,238,Powell River,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+239,239,Prescott and Russell,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+240,240,Prince,PE,Prince Edward Island,0.15,0.15,0.1,0.15,0.1
+241,241,Prince Edward,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+242,242,Queens,NS,Nova Scotia,0.15,0.15,0.1,0.15,0.1
+243,243,Queens,PE,Prince Edward Island,0.15,0.15,0.1,0.15,0.1
+244,244,Queens,NB,New Brunswick,0.15,0.15,0.1,0.15,0.1
+245,245,Québec,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+246,246,Rainy River,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+247,247,Region 1,NT,Northwest Territories,0.15,0.15,0.1,0.15,0.1
+248,248,Region 2,NT,Northwest Territories,0.15,0.15,0.1,0.15,0.1
+249,249,Region 3,NT,Northwest Territories,0.15,0.15,0.1,0.15,0.1
+250,250,Region 4,NT,Northwest Territories,0.15,0.15,0.1,0.15,0.1
+251,251,Region 5,NT,Northwest Territories,0.15,0.15,0.1,0.15,0.1
+252,252,Region 6,NT,Northwest Territories,0.15,0.15,0.1,0.15,0.1
+253,253,Renfrew,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+254,254,Restigouche,NB,New Brunswick,0.15,0.15,0.1,0.15,0.1
+255,255,Richmond,NS,Nova Scotia,0.15,0.15,0.1,0.15,0.1
+256,256,Rimouski-Neigette,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+257,257,Rivière-du-Loup,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+258,258,Robert-Cliche,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+259,259,Roussillon,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+260,260,Rouville,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+261,261,Rouyn-Noranda,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+262,262,Saint John,NB,New Brunswick,0.15,0.15,0.1,0.15,0.1
+263,263,Sept-Rivières--Caniapiscau,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+264,264,Shawinigan,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+265,265,Shelburne,NS,Nova Scotia,0.15,0.15,0.1,0.15,0.1
+266,266,Sherbrooke,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+267,267,Simcoe,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+268,268,Skeena-Queen Charlotte,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+269,269,Squamish-Lillooet,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+270,270,Stikine,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+271,271,"Stormont, Dundas and Glengarry",ON,Ontario,0.15,0.15,0.1,0.15,0.1
+272,272,Strathcona,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+273,273,Sudbury,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+274,274,Sunbury,NB,New Brunswick,0.15,0.15,0.1,0.15,0.1
+275,275,Sunshine Coast,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+276,276,Thompson-Nicola,BC,British Columbia,0.15,0.15,0.1,0.15,0.1
+277,277,Thunder Bay,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+278,278,Thérèse-De Blainville,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+279,279,Timiskaming,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+280,280,Toronto,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+281,281,Témiscamingue,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+282,282,Témiscouata,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+283,283,Vaudreuil-Soulanges,QC,Quebec,0.15,0.15,0.1,0.15,0.1
+284,284,Victoria,NS,Nova Scotia,0.15,0.15,0.1,0.15,0.1
+285,285,Victoria,NB,New Brunswick,0.15,0.15,0.1,0.15,0.1
+286,286,Waterloo,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+287,287,Wellington,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+288,288,Westmorland,NB,New Brunswick,0.15,0.15,0.1,0.15,0.1
+289,289,Yarmouth,NS,Nova Scotia,0.15,0.15,0.1,0.15,0.1
+290,290,York,NB,New Brunswick,0.15,0.15,0.1,0.15,0.1
+291,291,York,ON,Ontario,0.15,0.15,0.1,0.15,0.1
+292,292,Yukon,YT,Yukon,0.15,0.15,0.1,0.15,0.1

@@ -1,0 +1,1081 @@
+FIPS_CODE,COUNTY_CODE,COUNTY,ST,STATE,FOOD_INSECURITY,SEVERE_HOUSING_COST_BURDEN,UNEMPLOYED,NO_VEHICLE_ACCESS,UNINSURED
+0,0,Adamovec,,Zagreb (city),0.15,0.15,0.1,0.15,0.1
+1,1,Adžamovci,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+2,2,Aljmaš,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+3,3,Andraševec,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+4,4,Andrijaševci,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+5,5,Antin,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+6,6,Antunovac,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+7,7,Babina Greda,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+8,8,Babino Polje,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+9,9,Badljevina,,Pozega-slavonia County,0.15,0.15,0.1,0.15,0.1
+10,10,Bakar,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+11,11,Bakić,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+12,12,Bale,,Istria County,0.15,0.15,0.1,0.15,0.1
+13,13,Banjol,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+14,14,Banjole,,Istria County,0.15,0.15,0.1,0.15,0.1
+15,15,Banova Jaruga,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+16,16,Bapska,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+17,17,Baranjsko Petrovo Selo,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+18,18,Barban,,Istria County,0.15,0.15,0.1,0.15,0.1
+19,19,Barilović,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+20,20,Bartolovci,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+21,21,Bartolovec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+22,22,Batina,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+23,23,Batrina,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+24,24,Baška,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+25,25,Baška Voda,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+26,26,Bebrina,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+27,27,Bedekovčina,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+28,28,Bedenec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+29,29,Bedenica,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+30,30,Bednja,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+31,31,Beketinci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+32,32,Beletinec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+33,33,Beli Manastir,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+34,34,Belica,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+35,35,Belišće,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+36,36,Beljevina,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+37,37,Beničanci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+38,38,Benkovac,,Zadar County,0.15,0.15,0.1,0.15,0.1
+39,39,Beravci,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+40,40,Berek,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+41,41,Beretinec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+42,42,Bestovje,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+43,43,Bibinje,,Zadar County,0.15,0.15,0.1,0.15,0.1
+44,44,Bicko Selo,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+45,45,Bijelo Brdo,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+46,46,Bilice,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+47,47,Bilje,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+48,48,Biograd na Moru,,Zadar County,0.15,0.15,0.1,0.15,0.1
+49,49,Biskupija,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+50,50,Bistrinci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+51,51,Bizovac,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+52,52,Biškupec Zelinski,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+53,53,Bjelovar,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+54,54,Blato,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+55,55,Bobota,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+56,56,Bodovaljci,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+57,57,Bogdanovci,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+58,58,Bol,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+59,59,Bolman,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+60,60,Borova,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+61,61,Borovo,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+62,62,Bosiljevo,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+63,63,Bošnjaci,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+64,64,Branjin Vrh,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+65,65,Bratina,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+66,66,Brašina,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+67,67,Brckovljani,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+68,68,Brdovec,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+69,69,Bregana,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+70,70,Brela,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+71,71,Brestača,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+72,72,Brestovac,,Pozega-slavonia County,0.15,0.15,0.1,0.15,0.1
+73,73,Brezje,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+74,74,Breznica,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+75,75,Breznica Našička,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+76,76,Breznički Hum,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+77,77,Brezovac,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+78,78,Brezovica,,Zagreb (city),0.15,0.15,0.1,0.15,0.1
+79,79,Bribir,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+80,80,Brijest,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+81,81,Brinje,,Lika-senj County,0.15,0.15,0.1,0.15,0.1
+82,82,Briševo,,Zadar County,0.15,0.15,0.1,0.15,0.1
+83,83,Brnaze,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+84,84,Brod Moravice,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+85,85,Brodarica,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+86,86,Brodski Stupnik,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+87,87,Brodski Varoš,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+88,88,Bročice,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+89,89,Brođanci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+90,90,Brtonigla,,Istria County,0.15,0.15,0.1,0.15,0.1
+91,91,Brčevec,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+92,92,Bršadin,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+93,93,Budančevica,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+94,94,Budaševo,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+95,95,Budimci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+96,96,Budinšćina,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+97,97,Budrovci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+98,98,Buje,,Istria County,0.15,0.15,0.1,0.15,0.1
+99,99,Buković,,Zadar County,0.15,0.15,0.1,0.15,0.1
+100,100,Bukovlje,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+101,101,Bunjani,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+102,102,Buzdohanj,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+103,103,Buzet,,Istria County,0.15,0.15,0.1,0.15,0.1
+104,104,Bušetina,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+105,105,Buševec,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+106,106,Cabuna,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+107,107,Cavtat,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+108,108,Celine,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+109,109,Cerić,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+110,110,Cerna,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+111,111,Cernik,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+112,112,Cernik,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+113,113,Cerovlje,,Istria County,0.15,0.15,0.1,0.15,0.1
+114,114,Cestica,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+115,115,Cetingrad,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+116,116,Cirkovljan,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+117,117,Cirkvena,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+118,118,Cista Provo,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+119,119,Civljane,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+120,120,Cres,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+121,121,Cret Bizovački,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+122,122,Crikvenica,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+123,123,Crnac,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+124,124,Crno,,Zadar County,0.15,0.15,0.1,0.15,0.1
+125,125,Cubinec,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+126,126,Cvetković,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+127,127,Dalj,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+128,128,Darda,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+129,129,Daruvar,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+130,130,Davor,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+131,131,Deanovec,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+132,132,Debeljak,,Zadar County,0.15,0.15,0.1,0.15,0.1
+133,133,Dekanovec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+134,134,Delnice,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+135,135,Dervišaga,,Pozega-slavonia County,0.15,0.15,0.1,0.15,0.1
+136,136,Desinić,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+137,137,Dežanovac,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+138,138,Dobrinj,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+139,139,Doljani,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+140,140,Domagović,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+141,141,Domaslovec,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+142,142,Domašinec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+143,143,Donja Bistra,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+144,144,Donja Dubrava,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+145,145,Donja Gračenica,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+146,146,Donja Kupčina,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+147,147,Donja Lomnica,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+148,148,Donja Motičina,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+149,149,Donja Pačetina,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+150,150,Donja Pušća,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+151,151,Donja Stubica,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+152,152,Donja Višnjica,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+153,153,Donja Voća,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+154,154,Donja Vrba,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+155,155,Donja Zdenčina,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+156,156,Donja Zelina,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+157,157,Donje Ladanje,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+158,158,Donje Makojišće,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+159,159,Donje Orešje,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+160,160,Donji Andrijevci,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+161,161,Donji Desinec,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+162,162,Donji Hrašćan,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+163,163,Donji Kneginec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+164,164,Donji Kraljevec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+165,165,Donji Kukuruzari,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+166,166,Donji Kućan,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+167,167,Donji Laduč,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+168,168,Donji Lapac,,Lika-senj County,0.15,0.15,0.1,0.15,0.1
+169,169,Donji Mihaljevec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+170,170,Donji Miholjac,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+171,171,Donji Proložac,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+172,172,Donji Stupnik,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+173,173,Donji Vidovec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+174,174,Donji Vinjani,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+175,175,Dragalić,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+176,176,Drage,,Zadar County,0.15,0.15,0.1,0.15,0.1
+177,177,Draškovec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+178,178,Draž,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+179,179,Dražice,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+180,180,Drenje,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+181,181,Drenova,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+182,182,Drenovci,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+183,183,Drniš,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+184,184,Drnje,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+185,185,Družbinec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+186,186,Duboševica,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+187,187,Dubrava,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+188,188,Dubrava,,Zagreb (city),0.15,0.15,0.1,0.15,0.1
+189,189,Dubravica,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+190,190,Dubravice,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+191,191,Dubrovnik,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+192,192,Dubrovčan,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+193,193,Duga Resa,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+194,194,Dugi Rat,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+195,195,Dugo Selo,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+196,196,Dugo Selo Lukačko,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+197,197,Dugopolje,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+198,198,Dunjkovec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+199,199,Duće,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+200,200,Dvor,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+201,201,Eminovci,,Pozega-slavonia County,0.15,0.15,0.1,0.15,0.1
+202,202,Erdut,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+203,203,Ernestinovo,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+204,204,Ervenik,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+205,205,Farkaševac,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+206,206,Fažana,,Istria County,0.15,0.15,0.1,0.15,0.1
+207,207,Ferdinandovac,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+208,208,Feričanci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+209,209,Funtana,,Istria County,0.15,0.15,0.1,0.15,0.1
+210,210,Fužine,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+211,211,Gaboš,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+212,212,Gala,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+213,213,Galgovo,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+214,214,Galižana,,Istria County,0.15,0.15,0.1,0.15,0.1
+215,215,Galovac,,Zadar County,0.15,0.15,0.1,0.15,0.1
+216,216,Gardinovec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+217,217,Garešnica,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+218,218,Garčin,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+219,219,Gat,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+220,220,Gata,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+221,221,Gašinci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+222,222,Generalski Stol,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+223,223,Gerovo,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+224,224,Glina,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+225,225,Glogovac,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+226,226,Godinjak,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+227,227,Gojanec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+228,228,Gola,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+229,229,Gorica,,Istria County,0.15,0.15,0.1,0.15,0.1
+230,230,Goričan,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+231,231,Gorjani,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+232,232,Gornja Bistra,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+233,233,Gornja Gračenica,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+234,234,Gornja Greda,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+235,235,Gornja Jelenska,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+236,236,Gornja Lomnica,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+237,237,Gornja Pušća,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+238,238,Gornja Stubica,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+239,239,Gornja Voća,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+240,240,Gornja Vrba,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+241,241,Gornje Jesenje,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+242,242,Gornje Komarevo,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+243,243,Gornje Ladanje,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+244,244,Gornje Plavnice,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+245,245,Gornje Vratno,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+246,246,Gornji Desinec,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+247,247,Gornji Hrašćan,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+248,248,Gornji Karin,,Zadar County,0.15,0.15,0.1,0.15,0.1
+249,249,Gornji Kneginec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+250,250,Gornji Kraljevec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+251,251,Gornji Laduč,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+252,252,Gornji Mihaljevec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+253,253,Gospić,,Lika-senj County,0.15,0.15,0.1,0.15,0.1
+254,254,Grab,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+255,255,Grabovac,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+256,256,Grabovci,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+257,257,Gradac,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+258,258,Gradac,,Pozega-slavonia County,0.15,0.15,0.1,0.15,0.1
+259,259,Gradec,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+260,260,Gradina,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+261,261,Gradići,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+262,262,Gradište,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+263,263,Gračac,,Zadar County,0.15,0.15,0.1,0.15,0.1
+264,264,Gračec,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+265,265,Gračišće,,Istria County,0.15,0.15,0.1,0.15,0.1
+266,266,Grebaštica,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+267,267,Greda,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+268,268,Gromačnik,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+269,269,Grožnjan,,Istria County,0.15,0.15,0.1,0.15,0.1
+270,270,Grubine,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+271,271,Grubišno Polje,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+272,272,Gudovac,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+273,273,Gundinci,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+274,274,Gunja,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+275,275,Gvozd,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+276,276,Haganj,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+277,277,Harkanovci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+278,278,Hercegovac,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+279,279,Herešin,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+280,280,Hlapičina,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+281,281,Hlebine,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+282,282,Hodošan,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+283,283,Horvati,,Zagreb (city),0.15,0.15,0.1,0.15,0.1
+284,284,Hrastelnica,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+285,285,Hrastovsko,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+286,286,Hrašćica,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+287,287,Hrašćina,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+288,288,Hreljin,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+289,289,Hreljin Ogulinski,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+290,290,Hrvace,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+291,291,Hrvatska Dubica,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+292,292,Hrvatska Kostajnica,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+293,293,Hrženica,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+294,294,Hum Stubički,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+295,295,Hum na Sutli,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+296,296,Husain,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+297,297,Hvar,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+298,298,Igrišće,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+299,299,Ilača,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+300,300,Ilok,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+301,301,Ilova,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+302,302,Imotski,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+303,303,Ivanec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+304,304,Ivanec Bistranski,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+305,305,Ivanić-Grad,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+306,306,Ivankovo,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+307,307,Ivanovci Gorjanski,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+308,308,Ivanovec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+309,309,Ivanska,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+310,310,Jablanovec,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+311,311,Jadranovo,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+312,312,Jagodnjak,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+313,313,Jagodno,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+314,314,Jakovlje,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+315,315,Jakšić,,Pozega-slavonia County,0.15,0.15,0.1,0.15,0.1
+316,316,Jalkovec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+317,317,Jalševec Nartski,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+318,318,Jalžabet,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+319,319,Janjina,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+320,320,Jarmina,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+321,321,Jaruge,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+322,322,Jasenovac,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+323,323,Jastrebarsko,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+324,324,Javorje,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+325,325,Jelenje,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+326,326,Jelisavac,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+327,327,Jelsa,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+328,328,Jerovec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+329,329,Jertovec,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+330,330,Jesenice,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+331,331,Jesenice,,Zadar County,0.15,0.15,0.1,0.15,0.1
+332,332,Jezera,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+333,333,Ježdovec,,Zagreb (city),0.15,0.15,0.1,0.15,0.1
+334,334,Josipdol,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+335,335,Josipovac,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+336,336,Josipovac Punitovački,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+337,337,Jurdani,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+338,338,Jušići,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+339,339,Kali,,Zadar County,0.15,0.15,0.1,0.15,0.1
+340,340,Kalinovac,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+341,341,Kalnik,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+342,342,Kamanje,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+343,343,Kamen,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+344,344,Kampor,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+345,345,Kanfanar,,Istria County,0.15,0.15,0.1,0.15,0.1
+346,346,Kaniža,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+347,347,Kapela,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+348,348,Kapelica,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+349,349,Kaptol,,Pozega-slavonia County,0.15,0.15,0.1,0.15,0.1
+350,350,Karakašica,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+351,351,Karanac,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+352,352,Karlobag,,Lika-senj County,0.15,0.15,0.1,0.15,0.1
+353,353,Karlovac,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+354,354,Karlovec Ludbreški,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+355,355,Karojba,,Istria County,0.15,0.15,0.1,0.15,0.1
+356,356,Kastav,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+357,357,Katuni,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+358,358,Kašina,,Zagreb (city),0.15,0.15,0.1,0.15,0.1
+359,359,Kaštel Gomilica,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+360,360,Kaštel Kambelovac,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+361,361,Kaštel Lukšić,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+362,362,Kaštel Novi,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+363,363,Kaštel Stari,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+364,364,Kaštel Sućurac,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+365,365,Kaštel Štafilić,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+366,366,Kaštelir,,Istria County,0.15,0.15,0.1,0.15,0.1
+367,367,Kelemen,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+368,368,Kerestinec,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+369,369,Kešinci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+370,370,Kijevo,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+371,371,Kistanje,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+372,372,Kladje,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+373,373,Klakar,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+374,374,Klana,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+375,375,Klanjec,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+376,376,Klenovnik,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+377,377,Klinča Sela,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+378,378,Klis,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+379,379,Ključ,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+380,380,Ključ Brdovečki,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+381,381,Klokočevac,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+382,382,Klokočevik,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+383,383,Kloštar Ivanić,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+384,384,Kloštar Podravski,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+385,385,Kneževi Vinogradi,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+386,386,Kneževo,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+387,387,Knin,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+388,388,Kninsko Polje,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+389,389,Kobilić,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+390,390,Kolan,,Zadar County,0.15,0.15,0.1,0.15,0.1
+391,391,Komin,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+392,392,Komiža,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+393,393,Komletinci,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+394,394,Končanica,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+395,395,Kopačevo,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+396,396,Koprivnica,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+397,397,Koprivnički Bregi,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+398,398,Koprivnički Ivanec,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+399,399,Korenica,,Lika-senj County,0.15,0.15,0.1,0.15,0.1
+400,400,Korenica,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+401,401,Koritna,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+402,402,Korčula,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+403,403,Kostanje,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+404,404,Kostrena,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+405,405,Kotoriba,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+406,406,Kovačevac,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+407,407,Kovačić,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+408,408,Kozarac,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+409,409,Kozarevac,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+410,410,Kozice,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+411,411,Koška,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+412,412,Košute,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+413,413,Kožino,,Zadar County,0.15,0.15,0.1,0.15,0.1
+414,414,Kraj,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+415,415,Kraljevec na Sutli,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+416,416,Kraljevica,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+417,417,Krapina,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+418,418,Krapinske Toplice,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+419,419,Krasica,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+420,420,Kravarsko,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+421,421,Krašić,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+422,422,Krištanovec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+423,423,Križ,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+424,424,Križevci,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+425,425,Križpolje,,Lika-senj County,0.15,0.15,0.1,0.15,0.1
+426,426,Krk,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+427,427,Krnjak,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+428,428,Kruševica,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+429,429,Kruševo,,Zadar County,0.15,0.15,0.1,0.15,0.1
+430,430,Krvavac,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+431,431,Kršan,,Istria County,0.15,0.15,0.1,0.15,0.1
+432,432,Kukljica,,Zadar County,0.15,0.15,0.1,0.15,0.1
+433,433,Kukuljanovo,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+434,434,Kula Norinska,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+435,435,Kumrovec,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+436,436,Kupari,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+437,437,Kupinec,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+438,438,Kupljenovo,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+439,439,Kuršanec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+440,440,Kuterevo,,Lika-senj County,0.15,0.15,0.1,0.15,0.1
+441,441,Kutina,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+442,442,Kutinska Slatina,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+443,443,Kutjevo,,Pozega-slavonia County,0.15,0.15,0.1,0.15,0.1
+444,444,Kućan Marof,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+445,445,Kuče,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+446,446,Kučine,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+447,447,Kučiće,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+448,448,Kuševac,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+449,449,Labin,,Istria County,0.15,0.15,0.1,0.15,0.1
+450,450,Ladimirevci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+451,451,Lanišće,,Istria County,0.15,0.15,0.1,0.15,0.1
+452,452,Lasinja,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+453,453,Laslovo,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+454,454,Lasovac,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+455,455,Lastovo,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+456,456,Laz Bistrički,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+457,457,Lazina Čička,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+458,458,Legrad,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+459,459,Lekenik,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+460,460,Lepoglava,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+461,461,Levanjska Varoš,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+462,462,Lećevica,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+463,463,Lipik,,Pozega-slavonia County,0.15,0.15,0.1,0.15,0.1
+464,464,Lipovljani,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+465,465,Livana,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+466,466,Lič,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+467,467,Lički Osik,,Lika-senj County,0.15,0.15,0.1,0.15,0.1
+468,468,Ličko Lešće,,Lika-senj County,0.15,0.15,0.1,0.15,0.1
+469,469,Lišane Ostrovičke,,Zadar County,0.15,0.15,0.1,0.15,0.1
+470,470,Ližnjan,,Istria County,0.15,0.15,0.1,0.15,0.1
+471,471,Ljubešćica,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+472,472,Ljupina,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+473,473,Lobor,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+474,474,Loborika,,Istria County,0.15,0.15,0.1,0.15,0.1
+475,475,Lokve,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+476,476,Lonjica,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+477,477,Lopar,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+478,478,Lopatinec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+479,479,Lovas,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+480,480,Lovinac,,Lika-senj County,0.15,0.15,0.1,0.15,0.1
+481,481,Lovran,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+482,482,Lovreć,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+483,483,Ludbreg,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+484,484,Lug,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+485,485,Luka,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+486,486,Lukavec,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+487,487,Lukač,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+488,488,Lukoran,,Zadar County,0.15,0.15,0.1,0.15,0.1
+489,489,Lumbarda,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+490,490,Lupoglav,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+491,491,Lučko,,Zagreb (city),0.15,0.15,0.1,0.15,0.1
+492,492,Lužani,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+493,493,Macinec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+494,494,Madžarevo,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+495,495,Majerje,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+496,496,Majur,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+497,497,Makarska,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+498,498,Mala Erpenja,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+499,499,Mala Gorica,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+500,500,Mala Gorica,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+501,501,Mala Rakovica,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+502,502,Mala Subotica,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+503,503,Mali Bukovec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+504,504,Mali Lošinj,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+505,505,Malinska,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+506,506,Marija Bistrica,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+507,507,Marija Gorica,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+508,508,Marina,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+509,509,Marinci,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+510,510,Marinići,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+511,511,Markovac Našički,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+512,512,Markušica,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+513,513,Martijanec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+514,514,Martin,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+515,515,Martinska Ves,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+516,516,Maruševec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+517,517,Marčan,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+518,518,Marčana,,Istria County,0.15,0.15,0.1,0.15,0.1
+519,519,Marčelji,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+520,520,Mastrinka,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+521,521,Matijevići,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+522,522,Matulji,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+523,523,Mače,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+524,524,Mačkovec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+525,525,Mece,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+526,526,Medulin,,Istria County,0.15,0.15,0.1,0.15,0.1
+527,527,Metković,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+528,528,Mihaljevci,,Pozega-slavonia County,0.15,0.15,0.1,0.15,0.1
+529,529,Mihotići,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+530,530,Mihovljan,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+531,531,Mihovljan,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+532,532,Mikleuš,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+533,533,Milna,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+534,534,Mirkovci,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+535,535,Mičevec,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+536,536,Mlini,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+537,537,Mokošica,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+538,538,Molve,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+539,539,Molvice,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+540,540,Motovun,,Istria County,0.15,0.15,0.1,0.15,0.1
+541,541,Mošćenička Draga,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+542,542,Možđenec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+543,543,Mraclin,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+544,544,Mravince,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+545,545,Mrkopalj,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+546,546,Mrzović,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+547,547,Mundanije,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+548,548,Mursko Središće,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+549,549,Murter,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+550,550,Murvica,,Zadar County,0.15,0.15,0.1,0.15,0.1
+551,551,Nard,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+552,552,Narta,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+553,553,Našice,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+554,554,Nedelišće,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+555,555,Nedeljanec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+556,556,Negoslavci,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+557,557,Neorić,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+558,558,Netretić,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+559,559,Nijemci,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+560,560,Nin,,Zadar County,0.15,0.15,0.1,0.15,0.1
+561,561,Njivice,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+562,562,Nova Bukovica,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+563,563,Nova Gradiška,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+564,564,Nova Kapela,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+565,565,Nova Rača,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+566,566,Nova Subocka,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+567,567,Novaki Bistranski,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+568,568,Novakovec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+569,569,Novalja,,Lika-senj County,0.15,0.15,0.1,0.15,0.1
+570,570,Novi Golubovec,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+571,571,Novi Jankovci,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+572,572,Novi Marof,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+573,573,Novi Mikanovci,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+574,574,Novi Vinodolski,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+575,575,Novi Zagreb,,Zagreb (city),0.15,0.15,0.1,0.15,0.1
+576,576,Novigrad,,Zadar County,0.15,0.15,0.1,0.15,0.1
+577,577,Novigrad,,Istria County,0.15,0.15,0.1,0.15,0.1
+578,578,Novigrad Podravski,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+579,579,Novo Selo Rok,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+580,580,Novo Selo na Dravi,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+581,581,Novo Virje,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+582,582,Novo Čiče,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+583,583,Novoselec,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+584,584,Novoseljani,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+585,585,Novska,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+586,586,Nuštar,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+587,587,Obedišće,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+588,588,Oborovo,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+589,589,Obrezina,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+590,590,Obrovac,,Zadar County,0.15,0.15,0.1,0.15,0.1
+591,591,Obrovac Sinjski,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+592,592,Odra,,Zagreb (city),0.15,0.15,0.1,0.15,0.1
+593,593,Odra Sisačka,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+594,594,Ogulin,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+595,595,Oklaj,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+596,596,Okrug Gornji,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+597,597,Okučani,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+598,598,Omiš,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+599,599,Omišalj,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+600,600,Opatija,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+601,601,Oprisavci,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+602,602,Oprtalj,,Istria County,0.15,0.15,0.1,0.15,0.1
+603,603,Opuzen,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+604,604,Orahovica,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+605,605,Orašac,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+606,606,Orebić,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+607,607,Orehovica,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+608,608,Orešje,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+609,609,Oriovac,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+610,610,Orle,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+611,611,Orolik,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+612,612,Oroslavje,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+613,613,Orubica,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+614,614,Osekovo,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+615,615,Osijek,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+616,616,Ostrovo,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+617,617,Otok,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+618,618,Otok,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+619,619,Otočac,,Lika-senj County,0.15,0.15,0.1,0.15,0.1
+620,620,Otrić-Seoci,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+621,621,Otrovanec,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+622,622,Ozalj,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+623,623,Oštarije,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+624,624,Pag,,Zadar County,0.15,0.15,0.1,0.15,0.1
+625,625,Pakoštane,,Zadar County,0.15,0.15,0.1,0.15,0.1
+626,626,Pakrac,,Pozega-slavonia County,0.15,0.15,0.1,0.15,0.1
+627,627,Palešnik,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+628,628,Palinovec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+629,629,Palovec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+630,630,Pavučnjak,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+631,631,Pazin,,Istria County,0.15,0.15,0.1,0.15,0.1
+632,632,Pačetin,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+633,633,Pašman,,Zadar County,0.15,0.15,0.1,0.15,0.1
+634,634,Peklenica,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+635,635,Perušić,,Lika-senj County,0.15,0.15,0.1,0.15,0.1
+636,636,Peteranec,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+637,637,Petlovac,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+638,638,Petrača,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+639,639,Petrijanec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+640,640,Petrijevci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+641,641,Petrinja,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+642,642,Petrovina Turopoljska,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+643,643,Petrovsko,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+644,644,Pirovac,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+645,645,Pisarovina,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+646,646,Pitomača,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+647,647,Pićan,,Istria County,0.15,0.15,0.1,0.15,0.1
+648,648,Piškorevci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+649,649,Plano,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+650,650,Plaški,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+651,651,Pleternica,,Pozega-slavonia County,0.15,0.15,0.1,0.15,0.1
+652,652,Ploče,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+653,653,Podbablje,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+654,654,Podbrest,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+655,655,Podcrkavlje,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+656,656,Podevčevo,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+657,657,Podgajci Podravski,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+658,658,Podgora,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+659,659,Podgora,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+660,660,Podgorač,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+661,661,Podgradina,,Zadar County,0.15,0.15,0.1,0.15,0.1
+662,662,Podhum,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+663,663,Podravska Moslavina,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+664,664,Podravske Sesvete,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+665,665,Podstrana,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+666,666,Podturen,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+667,667,Podvinje,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+668,668,Pojatno,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+669,669,Pokupsko,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+670,670,Polača,,Zadar County,0.15,0.15,0.1,0.15,0.1
+671,671,Poličnik,,Zadar County,0.15,0.15,0.1,0.15,0.1
+672,672,Poljana,,Pozega-slavonia County,0.15,0.15,0.1,0.15,0.1
+673,673,Poljana Čička,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+674,674,Poljane,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+675,675,Poljanec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+676,676,Poljanica Bistranska,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+677,677,Popovac,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+678,678,Popovača,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+679,679,Popovača,,Lika-senj County,0.15,0.15,0.1,0.15,0.1
+680,680,Poreč,,Istria County,0.15,0.15,0.1,0.15,0.1
+681,681,Posavski Bregi,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+682,682,Posedarje,,Zadar County,0.15,0.15,0.1,0.15,0.1
+683,683,Postira,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+684,684,Potok,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+685,685,Potpićan,,Istria County,0.15,0.15,0.1,0.15,0.1
+686,686,Potravlje,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+687,687,Povljana,,Zadar County,0.15,0.15,0.1,0.15,0.1
+688,688,Poznanovec,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+689,689,Požega,,Pozega-slavonia County,0.15,0.15,0.1,0.15,0.1
+690,690,Praputnjak,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+691,691,Predavac,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+692,692,Pregrada,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+693,693,Preko,,Zadar County,0.15,0.15,0.1,0.15,0.1
+694,694,Prelog,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+695,695,Premantura,,Istria County,0.15,0.15,0.1,0.15,0.1
+696,696,Prespa,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+697,697,Prezid,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+698,698,Prgomelje,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+699,699,Prgomet,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+700,700,Pribislavec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+701,701,Pridraga,,Zadar County,0.15,0.15,0.1,0.15,0.1
+702,702,Prigorec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+703,703,Prigorje Brdovečko,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+704,704,Prikraj,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+705,705,Primorski Dolac,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+706,706,Primošten,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+707,707,Privlaka,,Zadar County,0.15,0.15,0.1,0.15,0.1
+708,708,Privlaka,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+709,709,Prkovci,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+710,710,Prugovac,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+711,711,Prvča,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+712,712,Puhovo,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+713,713,Pula,,Istria County,0.15,0.15,0.1,0.15,0.1
+714,714,Punat,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+715,715,Punitovci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+716,716,Pustodol,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+717,717,Pučišća,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+718,718,Rab,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+719,719,Rabac,,Istria County,0.15,0.15,0.1,0.15,0.1
+720,720,Radakovo,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+721,721,Radoboj,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+722,722,Radovin,,Zadar County,0.15,0.15,0.1,0.15,0.1
+723,723,Rajevo Selo,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+724,724,Rakitje,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+725,725,Rakitovec,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+726,726,Rakitovica,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+727,727,Rakov Potok,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+728,728,Rakovec,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+729,729,Rakovica,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+730,730,Rasinja,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+731,731,Raslina,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+732,732,Ravna Gora,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+733,733,Račinovci,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+734,734,Raša,,Istria County,0.15,0.15,0.1,0.15,0.1
+735,735,Ražanac,,Zadar County,0.15,0.15,0.1,0.15,0.1
+736,736,Reka,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+737,737,Remetinec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+738,738,Repušnica,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+739,739,Retkovci,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+740,740,Rezovac,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+741,741,Rečica,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+742,742,Rešetari,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+743,743,Ribnica,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+744,744,Ribnik,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+745,745,Rijeka,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+746,746,Rogotin,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+747,747,Rogoznica,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+748,748,Rokovci,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+749,749,Rovinj,,Istria County,0.15,0.15,0.1,0.15,0.1
+750,750,Rovišće,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+751,751,Ruda,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+752,752,Rude,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+753,753,Rugvica,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+754,754,Rukavac,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+755,755,Runović,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+756,756,Ruščica,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+757,757,Ružić,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+758,758,Saborsko,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+759,759,Sali,,Zadar County,0.15,0.15,0.1,0.15,0.1
+760,760,Salinovec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+761,761,Samatovci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+762,762,Samobor,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+763,763,Sapci,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+764,764,Sarvaš,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+765,765,Satnica,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+766,766,Seget Vranjica,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+767,767,Sela,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+768,768,Selca,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+769,769,Selce,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+770,770,Selnica,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+771,771,Selnica,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+772,772,Selnica Šćitarjevska,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+773,773,Selnik,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+774,774,Semeljci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+775,775,Senj,,Lika-senj County,0.15,0.15,0.1,0.15,0.1
+776,776,Sesvete,,Zagreb (city),0.15,0.15,0.1,0.15,0.1
+777,777,Severin,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+778,778,Sibinj,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+779,779,Sigetec,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+780,780,Sigetec Ludbreški,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+781,781,Sikirevci,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+782,782,Sinac,,Lika-senj County,0.15,0.15,0.1,0.15,0.1
+783,783,Sinj,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+784,784,Sirač,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+785,785,Sisak,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+786,786,Sitno Donje,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+787,787,Sivica,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+788,788,Skrad,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+789,789,Skradin,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+790,790,Sladojevci,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+791,791,Slakovci,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+792,792,Slakovec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+793,793,Slanje,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+794,794,Slano,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+795,795,Slatina,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+796,796,Slatine,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+797,797,Slavonski Brod,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+798,798,Slavonski Šamac,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+799,799,Slivnica,,Zadar County,0.15,0.15,0.1,0.15,0.1
+800,800,Slobodnica,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+801,801,Slunj,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+802,802,Smokvica,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+803,803,Sokolovac,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+804,804,Solin,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+805,805,Soljani,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+806,806,Sopje,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+807,807,Sotin,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+808,808,Split,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+809,809,Sračinec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+810,810,Srebreno,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+811,811,Srijemske Laze,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+812,812,Srima,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+813,813,Srinjine,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+814,814,Stanići,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+815,815,Stankovci,,Zadar County,0.15,0.15,0.1,0.15,0.1
+816,816,Stančić,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+817,817,Stara Gradiška,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+818,818,Stara Subocka,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+819,819,Stare Plavnice,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+820,820,Stari Grad,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+821,821,Stari Grad,,Zadar County,0.15,0.15,0.1,0.15,0.1
+822,822,Stari Gradac,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+823,823,Stari Jankovci,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+824,824,Stari Mikanovci,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+825,825,Stari Perkovci,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+826,826,Starigrad,,Zadar County,0.15,0.15,0.1,0.15,0.1
+827,827,Staro Petrovo Selo,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+828,828,Staro Topolje,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+829,829,Staro Čiče,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+830,830,Staševica,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+831,831,Stenjevec,,Zagreb (city),0.15,0.15,0.1,0.15,0.1
+832,832,Stobreč,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+833,833,Ston,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+834,834,Strahoninec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+835,835,Strelečko,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+836,836,Strizivojna,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+837,837,Strmec,,Zagreb (city),0.15,0.15,0.1,0.15,0.1
+838,838,Strmec Podravski,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+839,839,Struga Nartska,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+840,840,Stružec,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+841,841,Stubička Slatina,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+842,842,Stubičke Toplice,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+843,843,Subotica Podravska,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+844,844,Suhač,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+845,845,Suhopolje,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+846,846,Suhovare,,Zadar County,0.15,0.15,0.1,0.15,0.1
+847,847,Sukošan,,Zadar County,0.15,0.15,0.1,0.15,0.1
+848,848,Sulkovci,,Pozega-slavonia County,0.15,0.15,0.1,0.15,0.1
+849,849,Sunja,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+850,850,Supetar,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+851,851,Supetarska Draga,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+852,852,Sutivan,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+853,853,Suza,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+854,854,Sućuraj,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+855,855,Sveta Marija,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+856,856,Sveta Nedjelja,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+857,857,Sveti Filip i Jakov,,Zadar County,0.15,0.15,0.1,0.15,0.1
+858,858,Sveti Ilija,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+859,859,Sveti Ivan Zelina,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+860,860,Sveti Ivan Žabno,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+861,861,Sveti Križ Začretje,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+862,862,Sveti Lovreč,,Istria County,0.15,0.15,0.1,0.15,0.1
+863,863,Sveti Martin na Muri,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+864,864,Sveti Matej,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+865,865,Sveti Petar,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+866,866,Sveti Petar Orehovec,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+867,867,Sveti Petar u Šumi,,Istria County,0.15,0.15,0.1,0.15,0.1
+868,868,Sveti Petar Čvrstec,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+869,869,Svetvinčenat,,Istria County,0.15,0.15,0.1,0.15,0.1
+870,870,Svibovec Podravski,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+871,871,Tar,,Istria County,0.15,0.15,0.1,0.15,0.1
+872,872,Tenja,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+873,873,Tinj,,Zadar County,0.15,0.15,0.1,0.15,0.1
+874,874,Tinjan,,Istria County,0.15,0.15,0.1,0.15,0.1
+875,875,Tisno,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+876,876,Tkon,,Zadar County,0.15,0.15,0.1,0.15,0.1
+877,877,Tomašanci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+878,878,Tompojevci,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+879,879,Topolovac,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+880,880,Topusko,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+881,881,Tordinci,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+882,882,Torčec,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+883,883,Totovec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+884,884,Tounj,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+885,885,Tovarnik,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+886,886,Trema,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+887,887,Trenkovo,,Pozega-slavonia County,0.15,0.15,0.1,0.15,0.1
+888,888,Tribalj,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+889,889,Tribunj,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+890,890,Trilj,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+891,891,Trnava,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+892,892,Trnjani,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+893,893,Trogir,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+894,894,Trpanj,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+895,895,Trpinja,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+896,896,Tugare,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+897,897,Tugonica,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+898,898,Tuhelj,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+899,899,Tuhovec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+900,900,Turanj,,Zadar County,0.15,0.15,0.1,0.15,0.1
+901,901,Turanovac,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+902,902,Turjaci,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+903,903,Turopolje,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+904,904,Turčin,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+905,905,Turčišće,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+906,906,Tučepi,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+907,907,Tušilović,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+908,908,Tužno,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+909,909,Tvrđavica,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+910,910,Udbina,,Lika-senj County,0.15,0.15,0.1,0.15,0.1
+911,911,Ugljan,,Zadar County,0.15,0.15,0.1,0.15,0.1
+912,912,Uglješ,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+913,913,Umag,,Istria County,0.15,0.15,0.1,0.15,0.1
+914,914,Unešić,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+915,915,Valbandon,,Istria County,0.15,0.15,0.1,0.15,0.1
+916,916,Valpovo,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+917,917,Varaždin,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+918,918,Varaždinske Toplice,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+919,919,Vardarac,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+920,920,Vedrine,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+921,921,Vela Luka,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+922,922,Veli Lošinj,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+923,923,Velika,,Pozega-slavonia County,0.15,0.15,0.1,0.15,0.1
+924,924,Velika Buna,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+925,925,Velika Gorica,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+926,926,Velika Kopanica,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+927,927,Velika Kosnica,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+928,928,Velika Ludina,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+929,929,Velika Mlaka,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+930,930,Velika Ostrna,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+931,931,Velika Pisanica,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+932,932,Velika Rakovica,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+933,933,Velika Trnovitica,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+934,934,Velika Ves,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+935,935,Velika Črešnjevica,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+936,936,Veliki Bastaji,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+937,937,Veliki Bukovec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+938,938,Veliki Grđevac,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+939,939,Veliki Zdenci,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+940,940,Veliko Korenovo,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+941,941,Veliko Trgovišće,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+942,942,Veliko Trojstvo,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+943,943,Velimirovac,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+944,944,Veliškovci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+945,945,Veprinac,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+946,946,Vetovo,,Pozega-slavonia County,0.15,0.15,0.1,0.15,0.1
+947,947,Vidovci,,Pozega-slavonia County,0.15,0.15,0.1,0.15,0.1
+948,948,Vidovec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+949,949,Vidrenjak,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+950,950,Viljevo,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+951,951,Vinež,,Istria County,0.15,0.15,0.1,0.15,0.1
+952,952,Vinica,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+953,953,Vinišće,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+954,954,Vinkovci,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+955,955,Vinkuran,,Istria County,0.15,0.15,0.1,0.15,0.1
+956,956,Vinogradi Ludbreški,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+957,957,Vir,,Zadar County,0.15,0.15,0.1,0.15,0.1
+958,958,Virje,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+959,959,Virovitica,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+960,960,Vis,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+961,961,Visignano,,Istria County,0.15,0.15,0.1,0.15,0.1
+962,962,Visoko,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+963,963,Viškovci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+964,964,Viškovo,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+965,965,Višnjevac,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+966,966,Vižinada,,Istria County,0.15,0.15,0.1,0.15,0.1
+967,967,Vladislavci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+968,968,Vlaka,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+969,969,Vodice,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+970,970,Vodnjan,,Istria County,0.15,0.15,0.1,0.15,0.1
+971,971,Vodostaj,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+972,972,Vojnić,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+973,973,Voloder,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+974,974,Voćin,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+975,975,Vođinci,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+976,976,Vranjic,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+977,977,Vranovci,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+978,978,Vratišinec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+979,979,Vrbanja,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+980,980,Vrbanovec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+981,981,Vrbica,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+982,982,Vrbje,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+983,983,Vrbnik,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+984,984,Vrboska,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+985,985,Vrbova,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+986,986,Vrbovec,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+987,987,Vrbovsko,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+988,988,Vrgorac,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+989,989,Vrh,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+990,990,Vrhovine,,Lika-senj County,0.15,0.15,0.1,0.15,0.1
+991,991,Vrlika,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+992,992,Vrpolje,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+993,993,Vrsar,,Istria County,0.15,0.15,0.1,0.15,0.1
+994,994,Vrsi,,Zadar County,0.15,0.15,0.1,0.15,0.1
+995,995,Vrvari,,Istria County,0.15,0.15,0.1,0.15,0.1
+996,996,Vuka,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+997,997,Vukojevci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+998,998,Vukosavljevica,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+999,999,Vukovar,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+1000,1000,Vukovina,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+1001,1001,Vukšić,,Zadar County,0.15,0.15,0.1,0.15,0.1
+1002,1002,Zabok,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+1003,1003,Zadar,,Zadar County,0.15,0.15,0.1,0.15,0.1
+1004,1004,Zadubravlje,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+1005,1005,Zadvarje,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+1006,1006,Zadvorsko,,Zagreb (city),0.15,0.15,0.1,0.15,0.1
+1007,1007,Zagorska Sela,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+1008,1008,Zagreb,,Zagreb (city),0.15,0.15,0.1,0.15,0.1
+1009,1009,Zagvozd,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+1010,1010,Zaprešić,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+1011,1011,Zasadbreg,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+1012,1012,Zaton,,Zadar County,0.15,0.15,0.1,0.15,0.1
+1013,1013,Zaton,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+1014,1014,Zaton,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+1015,1015,Zaton Doli,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+1016,1016,Zbelava,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+1017,1017,Zdenci,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+1018,1018,Zdenci Brdovečki,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+1019,1019,Zemunik Donji,,Zadar County,0.15,0.15,0.1,0.15,0.1
+1020,1020,Zlatar,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+1021,1021,Zmajevac,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+1022,1022,Zmijavci,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+1023,1023,Zvekovica,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+1024,1024,elekovec,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+1025,1025,ulovac,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+1026,1026,urmanec,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+1027,1027,Ćeralije,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+1028,1028,Čaglin,,Pozega-slavonia County,0.15,0.15,0.1,0.15,0.1
+1029,1029,Čajkovci,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+1030,1030,Čakovec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+1031,1031,Čara,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+1032,1032,Čavle,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+1033,1033,Čazma,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+1034,1034,Čačinci,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+1035,1035,Čađavica,,Virovitica-podravina County,0.15,0.15,0.1,0.15,0.1
+1036,1036,Čehovec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+1037,1037,Čeminac,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+1038,1038,Čepin,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+1039,1039,Čepinski Martinci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+1040,1040,Červar-Porat,,Istria County,0.15,0.15,0.1,0.15,0.1
+1041,1041,Čibača,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+1042,1042,Čilipi,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+1043,1043,Čovići,,Lika-senj County,0.15,0.15,0.1,0.15,0.1
+1044,1044,Črnec Biškupečki,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+1045,1045,Črnkovci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+1046,1046,Đakovo,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+1047,1047,Đurđevac,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+1048,1048,Šandrovac,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+1049,1049,Šaptinovci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+1050,1050,Šarengrad,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+1051,1051,Šemovec,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+1052,1052,Šenkovec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+1053,1053,Šestanovac,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+1054,1054,Šibenik,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+1055,1055,Šiljakovina,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+1056,1056,Široko Polje,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+1057,1057,Šiškovci,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+1058,1058,Škarićevo,,Krapina-zagorje County,0.15,0.15,0.1,0.15,0.1
+1059,1059,Škrljevo,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+1060,1060,Šmrika,,Primorje-gorski Kotar County,0.15,0.15,0.1,0.15,0.1
+1061,1061,Šodolovci,,Osijek-baranja County,0.15,0.15,0.1,0.15,0.1
+1062,1062,Štefanec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+1063,1063,Štefanje,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+1064,1064,Štitar,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
+1065,1065,Štivica,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+1066,1066,Štrigova,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+1067,1067,Šumeće,,Brod-posavina County,0.15,0.15,0.1,0.15,0.1
+1068,1068,Žabno,,Sisak-moslavina County,0.15,0.15,0.1,0.15,0.1
+1069,1069,Žagrović,,Sibenik-knin County,0.15,0.15,0.1,0.15,0.1
+1070,1070,Žakanje,,Karlovac County,0.15,0.15,0.1,0.15,0.1
+1071,1071,Žarovnica,,Varazdin County,0.15,0.15,0.1,0.15,0.1
+1072,1072,Ždala,,Koprivnica-krizevci County,0.15,0.15,0.1,0.15,0.1
+1073,1073,Ždralovi,,Bjelovar-bilogora County,0.15,0.15,0.1,0.15,0.1
+1074,1074,Žiškovec,,Medjimurje County,0.15,0.15,0.1,0.15,0.1
+1075,1075,Žminj,,Istria County,0.15,0.15,0.1,0.15,0.1
+1076,1076,Žrnovnica,,Split-dalmatia County,0.15,0.15,0.1,0.15,0.1
+1077,1077,Žrnovo,,Dubrovnik-neretva County,0.15,0.15,0.1,0.15,0.1
+1078,1078,Žumberak,,Zagreb County,0.15,0.15,0.1,0.15,0.1
+1079,1079,Županja,,Vukovar-srijem County,0.15,0.15,0.1,0.15,0.1
