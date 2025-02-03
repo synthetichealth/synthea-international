@@ -1,0 +1,2 @@
+Payer Id,Plan Id,Name,Services Covered,Deductible,Default Coinsurance,Default Copay,Monthly Premium,Max Out of Pocket,Medicare Supplement,Is ACA Plan,Income Based Premium,Eligibility Policy,Start Year,End Year,Priority Level,Notes
+10001,10010,National Health Service Plan,*,0,0,0,0,8700,FALSE,FALSE,FALSE,MedicareEligible,0,,1,https://www.medicare.gov/your-medicare-costs/medicare-costs-at-a-glance
