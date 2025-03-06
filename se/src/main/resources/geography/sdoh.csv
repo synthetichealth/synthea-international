@@ -1,0 +1,1020 @@
+FIPS_CODE,COUNTY_CODE,COUNTY,ST,STATE,FOOD_INSECURITY,SEVERE_HOUSING_COST_BURDEN,UNEMPLOYED,NO_VEHICLE_ACCESS,UNINSURED
+0,0,Abbekås,M,Skåne,0.15,0.15,0.1,0.15,0.1
+1,1,Alafors,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+2,2,Alby,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+3,3,Alfta,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+4,4,Alingsås,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+5,5,Almunge,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+6,6,Alster,S,Värmland,0.15,0.15,0.1,0.15,0.1
+7,7,Alstermo,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+8,8,Alunda,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+9,9,Alvesta,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+10,10,Anderslöv,M,Skåne,0.15,0.15,0.1,0.15,0.1
+11,11,Anderstorp,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+12,12,Anderstorp,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+13,13,Aneby,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+14,14,Angered,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+15,15,Ankarsrum,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+16,16,Ankarsvik,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+17,17,Anneberg,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+18,18,Anneberg,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+19,19,Arboga,U,Västmanland,0.15,0.15,0.1,0.15,0.1
+20,20,Arbrå,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+21,21,Arild,M,Skåne,0.15,0.15,0.1,0.15,0.1
+22,22,Arjeplog,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+23,23,Arkelstorp,M,Skåne,0.15,0.15,0.1,0.15,0.1
+24,24,Arlöv,M,Skåne,0.15,0.15,0.1,0.15,0.1
+25,25,Arvidsjaur,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+26,26,Arvika,S,Värmland,0.15,0.15,0.1,0.15,0.1
+27,27,Askersund,T,Örebro,0.15,0.15,0.1,0.15,0.1
+28,28,Asmundtorp,M,Skåne,0.15,0.15,0.1,0.15,0.1
+29,29,Avesta,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+30,30,Axvall,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+31,31,Backa,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+32,32,Backa,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+33,33,Backe,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+34,34,Bankeryd,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+35,35,Barsebäck,M,Skåne,0.15,0.15,0.1,0.15,0.1
+36,36,Bengtsfors,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+37,37,Berg,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+38,38,Berga,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+39,39,Bergby,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+40,40,Bergeforsen,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+41,41,Bergkvara,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+42,42,Bergshamra,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+43,43,Bergsjö,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+44,44,Bergvik,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+45,45,Billdal,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+46,46,Billeberga,M,Skåne,0.15,0.15,0.1,0.15,0.1
+47,47,Billesholm,M,Skåne,0.15,0.15,0.1,0.15,0.1
+48,48,Billingsfors,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+49,49,Bjurholm,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+50,50,Bjursås,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+51,51,Bjuv,M,Skåne,0.15,0.15,0.1,0.15,0.1
+52,52,Bjärnum,M,Skåne,0.15,0.15,0.1,0.15,0.1
+53,53,Bjärred,M,Skåne,0.15,0.15,0.1,0.15,0.1
+54,54,Bjästa,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+55,55,Björbo,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+56,56,Björke,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+57,57,Björketorp,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+58,58,Björklinge,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+59,59,Björkvik,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+60,60,Björkö,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+61,61,Björneborg,S,Värmland,0.15,0.15,0.1,0.15,0.1
+62,62,Björnlunda,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+63,63,Blentarp,M,Skåne,0.15,0.15,0.1,0.15,0.1
+64,64,Blidsberg,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+65,65,Blomstermåla,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+66,66,Boda,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+67,67,Boda,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+68,68,Bodafors,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+69,69,Boden,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+70,70,Boliden,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+71,71,Bollebygd,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+72,72,Bollnäs,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+73,73,Bollstabruk,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+74,74,Boo,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+75,75,Bor,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+76,76,Borensberg,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+77,77,Borgholm,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+78,78,Borlänge,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+79,79,Borrby,M,Skåne,0.15,0.15,0.1,0.15,0.1
+80,80,Borås,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+81,81,Bottnaryd,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+82,82,Boxholm,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+83,83,Brastad,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+84,84,Braås,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+85,85,Bredaryd,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+86,86,Bredbyn,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+87,87,Bro,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+88,88,Broby,M,Skåne,0.15,0.15,0.1,0.15,0.1
+89,89,Bromma,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+90,90,Bromölla,M,Skåne,0.15,0.15,0.1,0.15,0.1
+91,91,Brunflo,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+92,92,Bräcke,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+93,93,Bräkne-Hoby,K,Blekinge,0.15,0.15,0.1,0.15,0.1
+94,94,Brännö,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+95,95,Brålanda,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+96,96,Brösarp,M,Skåne,0.15,0.15,0.1,0.15,0.1
+97,97,Bunkeflostrand,M,Skåne,0.15,0.15,0.1,0.15,0.1
+98,98,Bureå,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+99,99,Burseryd,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+100,100,Burträsk,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+101,101,Bygdeå,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+102,102,Byske,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+103,103,Bäckefors,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+104,104,Bälinge,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+105,105,Bålsta,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+106,106,Båstad,M,Skåne,0.15,0.15,0.1,0.15,0.1
+107,107,Charlottenberg,S,Värmland,0.15,0.15,0.1,0.15,0.1
+108,108,Dalarö,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+109,109,Dalby,M,Skåne,0.15,0.15,0.1,0.15,0.1
+110,110,Dals Långed,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+111,111,Dals Rostock,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+112,112,Dalsjöfors,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+113,113,Dalstorp,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+114,114,Dalum,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+115,115,Degeberga,M,Skåne,0.15,0.15,0.1,0.15,0.1
+116,116,Degerfors,T,Örebro,0.15,0.15,0.1,0.15,0.1
+117,117,Deje,S,Värmland,0.15,0.15,0.1,0.15,0.1
+118,118,Delsbo,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+119,119,Dingle,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+120,120,Diö,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+121,121,Djursholm,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+122,122,Donsö,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+123,123,Dorotea,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+124,124,Duved,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+125,125,Dvärsätt,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+126,126,Dösjebro,M,Skåne,0.15,0.15,0.1,0.15,0.1
+127,127,Ed,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+128,128,Edane,S,Värmland,0.15,0.15,0.1,0.15,0.1
+129,129,Edsbro,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+130,130,Edsbyn,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+131,131,Edsvalla,S,Värmland,0.15,0.15,0.1,0.15,0.1
+132,132,Ekeby,M,Skåne,0.15,0.15,0.1,0.15,0.1
+133,133,Ekeby,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+134,134,Ekenässjön,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+135,135,Ekerö,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+136,136,Ekshärad,S,Värmland,0.15,0.15,0.1,0.15,0.1
+137,137,Eksjö,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+138,138,Eldsberga,N,Halland,0.15,0.15,0.1,0.15,0.1
+139,139,Ellös,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+140,140,Emmaboda,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+141,141,Enebyberg,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+142,142,Enköping,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+143,143,Enviken,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+144,144,Enånger,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+145,145,Ersmark,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+146,146,Eskilstuna,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+147,147,Eslöv,M,Skåne,0.15,0.15,0.1,0.15,0.1
+148,148,Everöd,M,Skåne,0.15,0.15,0.1,0.15,0.1
+149,149,Fagersanna,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+150,150,Fagersta,U,Västmanland,0.15,0.15,0.1,0.15,0.1
+151,151,Falkenberg,N,Halland,0.15,0.15,0.1,0.15,0.1
+152,152,Falköping,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+153,153,Falun,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+154,154,Fellingsbro,T,Örebro,0.15,0.15,0.1,0.15,0.1
+155,155,Figeholm,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+156,156,Filipstad,S,Värmland,0.15,0.15,0.1,0.15,0.1
+157,157,Finja,M,Skåne,0.15,0.15,0.1,0.15,0.1
+158,158,Finnerödja,T,Örebro,0.15,0.15,0.1,0.15,0.1
+159,159,Finspång,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+160,160,Fjugesta,T,Örebro,0.15,0.15,0.1,0.15,0.1
+161,161,Fjälkinge,M,Skåne,0.15,0.15,0.1,0.15,0.1
+162,162,Fjällbacka,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+163,163,Fjärdhundra,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+164,164,Flen,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+165,165,Fliseryd,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+166,166,Floby,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+167,167,Floda,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+168,168,Flyinge,M,Skåne,0.15,0.15,0.1,0.15,0.1
+169,169,Fors,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+170,170,Fors,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+171,171,Forsbacka,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+172,172,Forsbacka,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+173,173,Forserum,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+174,174,Forshaga,S,Värmland,0.15,0.15,0.1,0.15,0.1
+175,175,Forsheda,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+176,176,Fotö,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+177,177,Fredriksberg,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+178,178,Frillesås,N,Halland,0.15,0.15,0.1,0.15,0.1
+179,179,Fristad,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+180,180,Fritsla,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+181,181,Frufällan,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+182,182,Frändefors,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+183,183,Fränsta,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+184,184,Frövi,T,Örebro,0.15,0.15,0.1,0.15,0.1
+185,185,Funäsdalen,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+186,186,Furulund,M,Skåne,0.15,0.15,0.1,0.15,0.1
+187,187,Furulund,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+188,188,Furuvik,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+189,189,Färgelanda,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+190,190,Färila,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+191,191,Färjestaden,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+192,192,Färlöv,M,Skåne,0.15,0.15,0.1,0.15,0.1
+193,193,Färnäs,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+194,194,Fårösund,I,Gotland,0.15,0.15,0.1,0.15,0.1
+195,195,Föllinge,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+196,196,Förslöv,M,Skåne,0.15,0.15,0.1,0.15,0.1
+197,197,Gagnef,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+198,198,Gamleby,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+199,199,Gammelstad,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+200,200,Gantofta,M,Skåne,0.15,0.15,0.1,0.15,0.1
+201,201,Garpenberg,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+202,202,Garphyttan,T,Örebro,0.15,0.15,0.1,0.15,0.1
+203,203,Gemla,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+204,204,Genarp,M,Skåne,0.15,0.15,0.1,0.15,0.1
+205,205,Genevad,N,Halland,0.15,0.15,0.1,0.15,0.1
+206,206,Getinge,N,Halland,0.15,0.15,0.1,0.15,0.1
+207,207,Gimo,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+208,208,Gislaved,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+209,209,Glanshammar,T,Örebro,0.15,0.15,0.1,0.15,0.1
+210,210,Glimåkra,M,Skåne,0.15,0.15,0.1,0.15,0.1
+211,211,Glommen,N,Halland,0.15,0.15,0.1,0.15,0.1
+212,212,Glumslöv,M,Skåne,0.15,0.15,0.1,0.15,0.1
+213,213,Gnarp,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+214,214,Gnesta,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+215,215,Gnosjö,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+216,216,Grebbestad,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+217,217,Grevie,M,Skåne,0.15,0.15,0.1,0.15,0.1
+218,218,Grillby,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+219,219,Grimslöv,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+220,220,Grimsås,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+221,221,Grums,S,Värmland,0.15,0.15,0.1,0.15,0.1
+222,222,Grundsund,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+223,223,Grycksbo,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+224,224,Grythyttan,T,Örebro,0.15,0.15,0.1,0.15,0.1
+225,225,Gräddö,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+226,226,Grängesberg,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+227,227,Gränna,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+228,228,Grästorp,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+229,229,Gråbo,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+230,230,Gualöv,M,Skåne,0.15,0.15,0.1,0.15,0.1
+231,231,Gullbrandstorp,N,Halland,0.15,0.15,0.1,0.15,0.1
+232,232,Gullringen,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+233,233,Gullspång,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+234,234,Gunnebo,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+235,235,Gustavsberg,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+236,236,Gusum,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+237,237,Gyttorp,T,Örebro,0.15,0.15,0.1,0.15,0.1
+238,238,Gällivare,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+239,239,Gällstad,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+240,240,Gällö,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+241,241,Gärds Köpinge,M,Skåne,0.15,0.15,0.1,0.15,0.1
+242,242,Gärsnäs,S,Värmland,0.15,0.15,0.1,0.15,0.1
+243,243,Gärsnäs,M,Skåne,0.15,0.15,0.1,0.15,0.1
+244,244,Gävle,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+245,245,Gånghester,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+246,246,Göta,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+247,247,Göteborg,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+248,248,Götene,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+249,249,Habo,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+250,250,Hackås,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+251,251,Hagfors,S,Värmland,0.15,0.15,0.1,0.15,0.1
+252,252,Hallaryd,K,Blekinge,0.15,0.15,0.1,0.15,0.1
+253,253,Hallaryd,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+254,254,Hallsberg,T,Örebro,0.15,0.15,0.1,0.15,0.1
+255,255,Hallstahammar,U,Västmanland,0.15,0.15,0.1,0.15,0.1
+256,256,Hallstavik,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+257,257,Halmstad,N,Halland,0.15,0.15,0.1,0.15,0.1
+258,258,Hamburgsund,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+259,259,Hammar,M,Skåne,0.15,0.15,0.1,0.15,0.1
+260,260,Hammarby,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+261,261,Hammarstrand,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+262,262,Hammenhög,M,Skåne,0.15,0.15,0.1,0.15,0.1
+263,263,Hammerdal,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+264,264,Hamrångefjärden,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+265,265,Hanaskog,M,Skåne,0.15,0.15,0.1,0.15,0.1
+266,266,Haninge,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+267,267,Haparanda,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+268,268,Harbo,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+269,269,Harlösa,M,Skåne,0.15,0.15,0.1,0.15,0.1
+270,270,Harmånger,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+271,271,Harplinge,N,Halland,0.15,0.15,0.1,0.15,0.1
+272,272,Hasslarp,M,Skåne,0.15,0.15,0.1,0.15,0.1
+273,273,Hasslö,K,Blekinge,0.15,0.15,0.1,0.15,0.1
+274,274,Haverdal,N,Halland,0.15,0.15,0.1,0.15,0.1
+275,275,Heby,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+276,276,Hede,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+277,277,Hedemora,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+278,278,Hedesunda,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+279,279,Helsingborg,M,Skåne,0.15,0.15,0.1,0.15,0.1
+280,280,Hemse,I,Gotland,0.15,0.15,0.1,0.15,0.1
+281,281,Henån,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+282,282,Herrljunga,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+283,283,Hestra,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+284,284,Hillared,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+285,285,Hillerstorp,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+286,286,Hindås,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+287,287,Hjo,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+288,288,Hjärnarp,M,Skåne,0.15,0.15,0.1,0.15,0.1
+289,289,Hjärup,M,Skåne,0.15,0.15,0.1,0.15,0.1
+290,290,Hofors,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+291,291,Hok,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+292,292,Holm,N,Halland,0.15,0.15,0.1,0.15,0.1
+293,293,Holmsund,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+294,294,Holsbybrunn,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+295,295,Horn,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+296,296,Horn,U,Västmanland,0.15,0.15,0.1,0.15,0.1
+297,297,Horndal,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+298,298,Horred,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+299,299,Hortlax,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+300,300,Hoting,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+301,301,Hova,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+302,302,Hovmantorp,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+303,303,Huddinge,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+304,304,Hudiksvall,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+305,305,Hultsfred,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+306,306,Hunnebostrand,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+307,307,Huskvarna,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+308,308,Husum,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+309,309,Hyllinge,M,Skåne,0.15,0.15,0.1,0.15,0.1
+310,310,Hyltebruk,N,Halland,0.15,0.15,0.1,0.15,0.1
+311,311,Hyssna,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+312,312,Hällefors,T,Örebro,0.15,0.15,0.1,0.15,0.1
+313,313,Hälleforsnäs,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+314,314,Hällekis,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+315,315,Hällevadsholm,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+316,316,Hällevik,K,Blekinge,0.15,0.15,0.1,0.15,0.1
+317,317,Hälsö,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+318,318,Härad,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+319,319,Härnösand,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+320,320,Härryda,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+321,321,Hässleholm,M,Skåne,0.15,0.15,0.1,0.15,0.1
+322,322,Hästveda,M,Skåne,0.15,0.15,0.1,0.15,0.1
+323,323,Hållsta,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+324,324,Hållsta,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+325,325,Höganäs,M,Skåne,0.15,0.15,0.1,0.15,0.1
+326,326,Högsby,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+327,327,Högsjö,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+328,328,Högsjö,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+329,329,Högsäter,S,Värmland,0.15,0.15,0.1,0.15,0.1
+330,330,Hökerum,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+331,331,Höllviken,M,Skåne,0.15,0.15,0.1,0.15,0.1
+332,332,Hölö,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+333,333,Hönö,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+334,334,Hörby,M,Skåne,0.15,0.15,0.1,0.15,0.1
+335,335,Hörnefors,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+336,336,Höviksnäs,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+337,337,Höör,M,Skåne,0.15,0.15,0.1,0.15,0.1
+338,338,Idre,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+339,339,Iggesund,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+340,340,Indal,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+341,341,Ingelstad,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+342,342,Insjön,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+343,343,Insjön,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+344,344,Johannishus,K,Blekinge,0.15,0.15,0.1,0.15,0.1
+345,345,Jokkmokk,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+346,346,Jonsered,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+347,347,Jonstorp,M,Skåne,0.15,0.15,0.1,0.15,0.1
+348,348,Jonstorp,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+349,349,Jukkasjärvi,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+350,350,Junsele,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+351,351,Jämjö,K,Blekinge,0.15,0.15,0.1,0.15,0.1
+352,352,Jämshög,K,Blekinge,0.15,0.15,0.1,0.15,0.1
+353,353,Järbo,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+354,354,Järlåsa,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+355,355,Järna,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+356,356,Järna,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+357,357,Järnforsen,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+358,358,Järpen,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+359,359,Järpås,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+360,360,Järvsö,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+361,361,Jävre,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+362,362,Jönköping,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+363,363,Jönåker,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+364,364,Jörlanda,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+365,365,Jörn,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+366,366,Kalix,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+367,367,Kallinge,K,Blekinge,0.15,0.15,0.1,0.15,0.1
+368,368,Kalmar,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+369,369,Karlholmsbruk,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+370,370,Karlsborg,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+371,371,Karlshamn,K,Blekinge,0.15,0.15,0.1,0.15,0.1
+372,372,Karlskoga,T,Örebro,0.15,0.15,0.1,0.15,0.1
+373,373,Karlskrona,K,Blekinge,0.15,0.15,0.1,0.15,0.1
+374,374,Karlstad,S,Värmland,0.15,0.15,0.1,0.15,0.1
+375,375,Katrineholm,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+376,376,Kattarp,M,Skåne,0.15,0.15,0.1,0.15,0.1
+377,377,Kil,S,Värmland,0.15,0.15,0.1,0.15,0.1
+378,378,Kilafors,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+379,379,Killeberg,M,Skåne,0.15,0.15,0.1,0.15,0.1
+380,380,Kimstad,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+381,381,Kinna,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+382,382,Kinnarp,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+383,383,Kiruna,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+384,384,Kisa,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+385,385,Kista,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+386,386,Kivik,M,Skåne,0.15,0.15,0.1,0.15,0.1
+387,387,Klagstorp,M,Skåne,0.15,0.15,0.1,0.15,0.1
+388,388,Klintehamn,I,Gotland,0.15,0.15,0.1,0.15,0.1
+389,389,Klippan,M,Skåne,0.15,0.15,0.1,0.15,0.1
+390,390,Klövedal,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+391,391,Knislinge,M,Skåne,0.15,0.15,0.1,0.15,0.1
+392,392,Knivsta,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+393,393,Knutby,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+394,394,Knäred,N,Halland,0.15,0.15,0.1,0.15,0.1
+395,395,Kode,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+396,396,Kolbäck,U,Västmanland,0.15,0.15,0.1,0.15,0.1
+397,397,Kolsva,U,Västmanland,0.15,0.15,0.1,0.15,0.1
+398,398,Kopparberg,T,Örebro,0.15,0.15,0.1,0.15,0.1
+399,399,Koppom,S,Värmland,0.15,0.15,0.1,0.15,0.1
+400,400,Korpilombolo,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+401,401,Korsberga,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+402,402,Koskullskulle,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+403,403,Kosta,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+404,404,Kramfors,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+405,405,Kristdala,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+406,406,Kristianstad,M,Skåne,0.15,0.15,0.1,0.15,0.1
+407,407,Kristinehamn,S,Värmland,0.15,0.15,0.1,0.15,0.1
+408,408,Krokom,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+409,409,Krylbo,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+410,410,Kumla,T,Örebro,0.15,0.15,0.1,0.15,0.1
+411,411,Kungsbacka,N,Halland,0.15,0.15,0.1,0.15,0.1
+412,412,Kungsgården,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+413,413,Kungsgården,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+414,414,Kungshamn,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+415,415,Kungsängen,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+416,416,Kungsör,U,Västmanland,0.15,0.15,0.1,0.15,0.1
+417,417,Kungälv,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+418,418,Kvibille,N,Halland,0.15,0.15,0.1,0.15,0.1
+419,419,Kvicksund,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+420,420,Kvidinge,M,Skåne,0.15,0.15,0.1,0.15,0.1
+421,421,Kvissleby,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+422,422,Kvänum,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+423,423,Kyrkesund,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+424,424,Kyrkhult,N,Halland,0.15,0.15,0.1,0.15,0.1
+425,425,Kyrkhult,K,Blekinge,0.15,0.15,0.1,0.15,0.1
+426,426,Källby,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+427,427,Kärna,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+428,428,Kävlinge,M,Skåne,0.15,0.15,0.1,0.15,0.1
+429,429,Kåge,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+430,430,Kågeröd,M,Skåne,0.15,0.15,0.1,0.15,0.1
+431,431,Kållered,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+432,432,Köping,U,Västmanland,0.15,0.15,0.1,0.15,0.1
+433,433,Köpingebro,M,Skåne,0.15,0.15,0.1,0.15,0.1
+434,434,Köpmanholmen,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+435,435,Lagan,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+436,436,Laholm,N,Halland,0.15,0.15,0.1,0.15,0.1
+437,437,Lammhult,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+438,438,Landsbro,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+439,439,Landskrona,M,Skåne,0.15,0.15,0.1,0.15,0.1
+440,440,Landvetter,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+441,441,Laxå,T,Örebro,0.15,0.15,0.1,0.15,0.1
+442,442,Lekeryd,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+443,443,Leksand,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+444,444,Lenhovda,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+445,445,Lerdala,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+446,446,Lerum,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+447,447,Lesjöfors,S,Värmland,0.15,0.15,0.1,0.15,0.1
+448,448,Lessebo,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+449,449,Liatorp,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+450,450,Lidhult,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+451,451,Lidhult,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+452,452,Lidingö,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+453,453,Lidköping,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+454,454,Lilla Edet,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+455,455,Limmared,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+456,456,Lindesberg,T,Örebro,0.15,0.15,0.1,0.15,0.1
+457,457,Lindo,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+458,458,Lindome,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+459,459,Linghed,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+460,460,Linghem,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+461,461,Linköping,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+462,462,Linneryd,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+463,463,Listerby,K,Blekinge,0.15,0.15,0.1,0.15,0.1
+464,464,Lit,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+465,465,Ljung,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+466,466,Ljunga,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+467,467,Ljungaverk,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+468,468,Ljungby,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+469,469,Ljungbyhed,M,Skåne,0.15,0.15,0.1,0.15,0.1
+470,470,Ljungbyholm,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+471,471,Ljungsbro,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+472,472,Ljungskile,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+473,473,Ljusdal,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+474,474,Ljusne,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+475,475,Lomma,M,Skåne,0.15,0.15,0.1,0.15,0.1
+476,476,Lotorp,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+477,477,Ludvika,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+478,478,Luleå,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+479,479,Lund,M,Skåne,0.15,0.15,0.1,0.15,0.1
+480,480,Lundsbrunn,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+481,481,Lycksele,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+482,482,Lysekil,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+483,483,Länghem,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+484,484,Länna,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+485,485,Långsele,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+486,486,Långsele,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+487,487,Långshyttan,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+488,488,Långvik,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+489,489,Långvik,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+490,490,Långås,N,Halland,0.15,0.15,0.1,0.15,0.1
+491,491,Löberöd,M,Skåne,0.15,0.15,0.1,0.15,0.1
+492,492,Löddeköpinge,M,Skåne,0.15,0.15,0.1,0.15,0.1
+493,493,Löderup,M,Skåne,0.15,0.15,0.1,0.15,0.1
+494,494,Lödöse,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+495,495,Lögdeå,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+496,496,Lönsboda,M,Skåne,0.15,0.15,0.1,0.15,0.1
+497,497,Löttorp,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+498,498,Lövestad,M,Skåne,0.15,0.15,0.1,0.15,0.1
+499,499,Lövånger,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+500,500,Malmberget,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+501,501,Malmbäck,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+502,502,Malmköping,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+503,503,Malmö,M,Skåne,0.15,0.15,0.1,0.15,0.1
+504,504,Malung,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+505,505,Malungsfors,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+506,506,Malå,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+507,507,Mantorp,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+508,508,Mariannelund,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+509,509,Mariefred,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+510,510,Marieholm,M,Skåne,0.15,0.15,0.1,0.15,0.1
+511,511,Marieholm,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+512,512,Mariestad,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+513,513,Markaryd,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+514,514,Matfors,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+515,515,Mellansel,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+516,516,Mellbystrand,N,Halland,0.15,0.15,0.1,0.15,0.1
+517,517,Mellerud,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+518,518,Mellösa,T,Örebro,0.15,0.15,0.1,0.15,0.1
+519,519,Mellösa,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+520,520,Mjölby,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+521,521,Mockfjärd,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+522,522,Mohed,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+523,523,Moheda,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+524,524,Moholm,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+525,525,Molkom,S,Värmland,0.15,0.15,0.1,0.15,0.1
+526,526,Mora,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+527,527,Morgongåva,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+528,528,Motala,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+529,529,Mullhyttan,T,Örebro,0.15,0.15,0.1,0.15,0.1
+530,530,Mullsjö,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+531,531,Munka-Ljungby,M,Skåne,0.15,0.15,0.1,0.15,0.1
+532,532,Munkedal,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+533,533,Munkfors,S,Värmland,0.15,0.15,0.1,0.15,0.1
+534,534,Myggenäs,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+535,535,Myresjö,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+536,536,Märsta,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+537,537,Målilla,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+538,538,Målsryd,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+539,539,Månkarbo,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+540,540,Mölle,M,Skåne,0.15,0.15,0.1,0.15,0.1
+541,541,Mölltorp,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+542,542,Mölnbo,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+543,543,Mölndal,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+544,544,Mölnlycke,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+545,545,Mönsterås,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+546,546,Mörarp,M,Skåne,0.15,0.15,0.1,0.15,0.1
+547,547,Mörbylånga,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+548,548,Mörlunda,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+549,549,Mörrum,K,Blekinge,0.15,0.15,0.1,0.15,0.1
+550,550,Mörsil,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+551,551,Nacka,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+552,552,Njutånger,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+553,553,Nora,T,Örebro,0.15,0.15,0.1,0.15,0.1
+554,554,Norberg,U,Västmanland,0.15,0.15,0.1,0.15,0.1
+555,555,Nordmaling,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+556,556,Norrfjärden,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+557,557,Norrköping,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+558,558,Norrsundet,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+559,559,Norrtälje,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+560,560,Norsholm,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+561,561,Norsjö,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+562,562,Nossebro,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+563,563,Nusnäs,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+564,564,Nyborg,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+565,565,Nybro,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+566,566,Nyhammar,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+567,567,Nykroppa,S,Värmland,0.15,0.15,0.1,0.15,0.1
+568,568,Nykvarn,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+569,569,Nyköping,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+570,570,Nyland,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+571,571,Nyland,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+572,572,Nynäshamn,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+573,573,Nälden,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+574,574,Nässjö,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+575,575,Näsum,M,Skåne,0.15,0.15,0.1,0.15,0.1
+576,576,Näsviken,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+577,577,Näsåker,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+578,578,Nättraby,K,Blekinge,0.15,0.15,0.1,0.15,0.1
+579,579,Nävekvarn,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+580,580,Obbola,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+581,581,Ockelbo,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+582,582,Odensbacken,T,Örebro,0.15,0.15,0.1,0.15,0.1
+583,583,Olofstorp,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+584,584,Olofström,K,Blekinge,0.15,0.15,0.1,0.15,0.1
+585,585,Olsfors,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+586,586,Onsala,N,Halland,0.15,0.15,0.1,0.15,0.1
+587,587,Orrefors,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+588,588,Orsa,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+589,589,Osby,M,Skåne,0.15,0.15,0.1,0.15,0.1
+590,590,Oskarshamn,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+591,591,Oskarström,N,Halland,0.15,0.15,0.1,0.15,0.1
+592,592,Otterbäcken,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+593,593,Oxelösund,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+594,594,Oxie,M,Skåne,0.15,0.15,0.1,0.15,0.1
+595,595,Pajala,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+596,596,Partille,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+597,597,Perstorp,M,Skåne,0.15,0.15,0.1,0.15,0.1
+598,598,Piteå,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+599,599,Påarp,M,Skåne,0.15,0.15,0.1,0.15,0.1
+600,600,Pålsboda,T,Örebro,0.15,0.15,0.1,0.15,0.1
+601,601,Påryd,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+602,602,Påskallavik,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+603,603,Ramnäs,U,Västmanland,0.15,0.15,0.1,0.15,0.1
+604,604,Ramsele,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+605,605,Ramsele,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+606,606,Ramvik,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+607,607,Ransta,U,Västmanland,0.15,0.15,0.1,0.15,0.1
+608,608,Reftele,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+609,609,Rejmyre,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+610,610,Rimbo,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+611,611,Rimforsa,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+612,612,Ringarum,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+613,613,Rinkaby,M,Skåne,0.15,0.15,0.1,0.15,0.1
+614,614,Rinkaby,T,Örebro,0.15,0.15,0.1,0.15,0.1
+615,615,Risögrund,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+616,616,Robertsfors,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+617,617,Rockneby,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+618,618,Roknäs,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+619,619,Rolfs,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+620,620,Rolfstorp,N,Halland,0.15,0.15,0.1,0.15,0.1
+621,621,Roma,I,Gotland,0.15,0.15,0.1,0.15,0.1
+622,622,Ronneby,K,Blekinge,0.15,0.15,0.1,0.15,0.1
+623,623,Rosersberg,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+624,624,Rosvik,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+625,625,Rot,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+626,626,Rottne,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+627,627,Ruda,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+628,628,Ruda,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+629,629,Rundvik,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+630,630,Ryd,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+631,631,Ryd,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+632,632,Rydaholm,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+633,633,Rydbo,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+634,634,Rydboholm,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+635,635,Rydebäck,M,Skåne,0.15,0.15,0.1,0.15,0.1
+636,636,Rydsgård,M,Skåne,0.15,0.15,0.1,0.15,0.1
+637,637,Ryssby,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+638,638,Ryssby,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+639,639,Rättvik,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+640,640,Rävlanda,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+641,641,Råneå,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+642,642,Röbäck,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+643,643,Rödeby,K,Blekinge,0.15,0.15,0.1,0.15,0.1
+644,644,Rönninge,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+645,645,Rönnäng,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+646,646,Rörvik,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+647,647,Rörvik,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+648,648,Röstånga,M,Skåne,0.15,0.15,0.1,0.15,0.1
+649,649,Sala,U,Västmanland,0.15,0.15,0.1,0.15,0.1
+650,650,Saltsjöbaden,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+651,651,Sandared,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+652,652,Sandarne,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+653,653,Sandhem,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+654,654,Sandhem,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+655,655,Sandhult,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+656,656,Sandviken,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+657,657,Sangis,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+658,658,Sankt Olof,M,Skåne,0.15,0.15,0.1,0.15,0.1
+659,659,Saxdalen,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+660,660,Segeltorp,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+661,661,Sexdrega,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+662,662,Sibbhult,M,Skåne,0.15,0.15,0.1,0.15,0.1
+663,663,Sigtuna,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+664,664,Siljansnäs,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+665,665,Silverdalen,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+666,666,Simlångsdalen,N,Halland,0.15,0.15,0.1,0.15,0.1
+667,667,Simrishamn,M,Skåne,0.15,0.15,0.1,0.15,0.1
+668,668,Sjuntorp,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+669,669,Sjöbo,M,Skåne,0.15,0.15,0.1,0.15,0.1
+670,670,Sjömarken,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+671,671,Sjötorp,S,Värmland,0.15,0.15,0.1,0.15,0.1
+672,672,Sjövik,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+673,673,Sjövik,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+674,674,Skara,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+675,675,Skattkärr,S,Värmland,0.15,0.15,0.1,0.15,0.1
+676,676,Skee,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+677,677,Skelleftehamn,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+678,678,Skellefteå,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+679,679,Skepplanda,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+680,680,Skillingaryd,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+681,681,Skillinge,U,Västmanland,0.15,0.15,0.1,0.15,0.1
+682,682,Skillinge,M,Skåne,0.15,0.15,0.1,0.15,0.1
+683,683,Skinnskatteberg,U,Västmanland,0.15,0.15,0.1,0.15,0.1
+684,684,Skivarp,M,Skåne,0.15,0.15,0.1,0.15,0.1
+685,685,Skoghall,S,Värmland,0.15,0.15,0.1,0.15,0.1
+686,686,Skogstorp,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+687,687,Skottorp,N,Halland,0.15,0.15,0.1,0.15,0.1
+688,688,Skruv,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+689,689,Skultuna,U,Västmanland,0.15,0.15,0.1,0.15,0.1
+690,690,Skurup,M,Skåne,0.15,0.15,0.1,0.15,0.1
+691,691,Skutskär,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+692,692,Skyttorp,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+693,693,Skällinge,N,Halland,0.15,0.15,0.1,0.15,0.1
+694,694,Skänninge,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+695,695,Skänninge,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+696,696,Skärblacka,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+697,697,Skärhamn,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+698,698,Skärplinge,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+699,699,Sköldinge,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+700,700,Sköllersta,T,Örebro,0.15,0.15,0.1,0.15,0.1
+701,701,Skövde,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+702,702,Slite,I,Gotland,0.15,0.15,0.1,0.15,0.1
+703,703,Slottsbron,S,Värmland,0.15,0.15,0.1,0.15,0.1
+704,704,Slöinge,N,Halland,0.15,0.15,0.1,0.15,0.1
+705,705,Smedjebacken,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+706,706,Smygehamn,M,Skåne,0.15,0.15,0.1,0.15,0.1
+707,707,Smålandsstenar,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+708,708,Smögen,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+709,709,Sollebrunn,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+710,710,Sollefteå,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+711,711,Sollentuna,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+712,712,Sollerön,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+713,713,Solna,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+714,714,Sommen,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+715,715,Sorsele,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+716,716,Sparreholm,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+717,717,Staffanstorp,M,Skåne,0.15,0.15,0.1,0.15,0.1
+718,718,Stallarholmen,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+719,719,Stavsnäs,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+720,720,Stehag,M,Skåne,0.15,0.15,0.1,0.15,0.1
+721,721,Stenhamra,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+722,722,Stenkullen,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+723,723,Stensjön,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+724,724,Stenstorp,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+725,725,Stenstorp,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+726,726,Stenungsund,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+727,727,Stigtomta,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+728,728,Stjärnhov,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+729,729,Stoby,M,Skåne,0.15,0.15,0.1,0.15,0.1
+730,730,Stockaryd,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+731,731,Stockholm,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+732,732,Stora Höga,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+733,733,Stora Levene,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+734,734,Stora Mellösa,T,Örebro,0.15,0.15,0.1,0.15,0.1
+735,735,Stora Vika,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+736,736,Storebro,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+737,737,Storfors,S,Värmland,0.15,0.15,0.1,0.15,0.1
+738,738,Storuman,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+739,739,Storvik,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+740,740,Storvik,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+741,741,Storvreta,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+742,742,Storå,T,Örebro,0.15,0.15,0.1,0.15,0.1
+743,743,Strängnäs,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+744,744,Strömsnäsbruk,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+745,745,Strömstad,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+746,746,Strömsund,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+747,747,Strövelstorp,M,Skåne,0.15,0.15,0.1,0.15,0.1
+748,748,Stugun,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+749,749,Sturefors,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+750,750,Sturkö,K,Blekinge,0.15,0.15,0.1,0.15,0.1
+751,751,Styrsö,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+752,752,Stöde,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+753,753,Sundborn,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+754,754,Sundbyberg,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+755,755,Sundsbruk,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+756,756,Sundsvall,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+757,757,Sunnansjö,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+758,758,Sunnansjö,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+759,759,Sunne,S,Värmland,0.15,0.15,0.1,0.15,0.1
+760,760,Surahammar,U,Västmanland,0.15,0.15,0.1,0.15,0.1
+761,761,Surte,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+762,762,Svalöv,M,Skåne,0.15,0.15,0.1,0.15,0.1
+763,763,Svaneholm,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+764,764,Svanesund,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+765,765,Svartå,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+766,766,Svedala,M,Skåne,0.15,0.15,0.1,0.15,0.1
+767,767,Sveg,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+768,768,Svenljunga,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+769,769,Svenstavik,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+770,770,Svängsta,K,Blekinge,0.15,0.15,0.1,0.15,0.1
+771,771,Svärdsjö,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+772,772,Säffle,S,Värmland,0.15,0.15,0.1,0.15,0.1
+773,773,Sälen,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+774,774,Särna,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+775,775,Särö,N,Halland,0.15,0.15,0.1,0.15,0.1
+776,776,Säter,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+777,777,Sätila,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+778,778,Sävar,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+779,779,Sävsjö,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+780,780,Sågmyra,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+781,781,Söderala,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+782,782,Söderbärke,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+783,783,Söderfors,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+784,784,Söderfors,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+785,785,Söderhamn,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+786,786,Söderköping,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+787,787,Södertälje,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+788,788,Söderåkra,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+789,789,Södra Sandby,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+790,790,Södra Sandby,M,Skåne,0.15,0.15,0.1,0.15,0.1
+791,791,Södra Sunderbyn,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+792,792,Södra Vi,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+793,793,Sölvesborg,K,Blekinge,0.15,0.15,0.1,0.15,0.1
+794,794,Söråker,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+795,795,Sösdala,M,Skåne,0.15,0.15,0.1,0.15,0.1
+796,796,Taberg,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+797,797,Tallåsen,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+798,798,Tallåsen,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+799,799,Tanumshede,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+800,800,Teckomatorp,M,Skåne,0.15,0.15,0.1,0.15,0.1
+801,801,Tenhult,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+802,802,Tibro,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+803,803,Tidaholm,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+804,804,Tidan,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+805,805,Tierp,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+806,806,Timmele,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+807,807,Timmernabben,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+808,808,Timmersdala,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+809,809,Timrå,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+810,810,Tingsryd,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+811,811,Tjällmo,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+812,812,Tjörnarp,M,Skåne,0.15,0.15,0.1,0.15,0.1
+813,813,Tobo,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+814,814,Tollarp,M,Skåne,0.15,0.15,0.1,0.15,0.1
+815,815,Tollered,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+816,816,Tomelilla,M,Skåne,0.15,0.15,0.1,0.15,0.1
+817,817,Tomtebo,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+818,818,Tomtebo,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+819,819,Torekov,M,Skåne,0.15,0.15,0.1,0.15,0.1
+820,820,Torhamn,K,Blekinge,0.15,0.15,0.1,0.15,0.1
+821,821,Tormestorp,M,Skåne,0.15,0.15,0.1,0.15,0.1
+822,822,Torsby,S,Värmland,0.15,0.15,0.1,0.15,0.1
+823,823,Torshälla,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+824,824,Torslanda,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+825,825,Torsåker,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+826,826,Torsåker,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+827,827,Torsås,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+828,828,Torup,N,Halland,0.15,0.15,0.1,0.15,0.1
+829,829,Tranemo,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+830,830,Tranås,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+831,831,Traryd,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+832,832,Trekanten,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+833,833,Trelleborg,M,Skåne,0.15,0.15,0.1,0.15,0.1
+834,834,Trollhättan,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+835,835,Trosa,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+836,836,Träslövsläge,N,Halland,0.15,0.15,0.1,0.15,0.1
+837,837,Tullinge,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+838,838,Tumba,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+839,839,Tving,K,Blekinge,0.15,0.15,0.1,0.15,0.1
+840,840,Tvååker,N,Halland,0.15,0.15,0.1,0.15,0.1
+841,841,Tygelsjö,M,Skåne,0.15,0.15,0.1,0.15,0.1
+842,842,Tyringe,M,Skåne,0.15,0.15,0.1,0.15,0.1
+843,843,Tystberga,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+844,844,Täby,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+845,845,Täfteå,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+846,846,Tällberg,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+847,847,Tällberg,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+848,848,Tärnsjö,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+849,849,Töcksfors,S,Värmland,0.15,0.15,0.1,0.15,0.1
+850,850,Töre,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+851,851,Töreboda,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+852,852,Ucklum,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+853,853,Uddeholm,S,Värmland,0.15,0.15,0.1,0.15,0.1
+854,854,Uddevalla,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+855,855,Ullared,N,Halland,0.15,0.15,0.1,0.15,0.1
+856,856,Ulricehamn,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+857,857,Umeå,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+858,858,Undersåker,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+859,859,Unnaryd,N,Halland,0.15,0.15,0.1,0.15,0.1
+860,860,Upphärad,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+861,861,Upplands Väsby,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+862,862,Uppsala,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+863,863,Urshult,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+864,864,Ursviken,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+865,865,Vadstena,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+866,866,Vaggeryd,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+867,867,Vagnhärad,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+868,868,Valbo,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+869,869,Valdemarsvik,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+870,870,Valla,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+871,871,Valla,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+872,872,Vallberga,N,Halland,0.15,0.15,0.1,0.15,0.1
+873,873,Vallda,N,Halland,0.15,0.15,0.1,0.15,0.1
+874,874,Vallentuna,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+875,875,Vallåkra,M,Skåne,0.15,0.15,0.1,0.15,0.1
+876,876,Valskog,U,Västmanland,0.15,0.15,0.1,0.15,0.1
+877,877,Vansbro,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+878,878,Vara,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+879,879,Varberg,N,Halland,0.15,0.15,0.1,0.15,0.1
+880,880,Varekil,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+881,881,Vargön,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+882,882,Varnhem,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+883,883,Vartofta,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+884,884,Vassmolösa,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+885,885,Vattholma,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+886,886,Vaxholm,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+887,887,Veberöd,M,Skåne,0.15,0.15,0.1,0.15,0.1
+888,888,Veddige,N,Halland,0.15,0.15,0.1,0.15,0.1
+889,889,Vedevåg,T,Örebro,0.15,0.15,0.1,0.15,0.1
+890,890,Vedum,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+891,891,Vegby,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+892,892,Veinge,N,Halland,0.15,0.15,0.1,0.15,0.1
+893,893,Vejbystrand,M,Skåne,0.15,0.15,0.1,0.15,0.1
+894,894,Vellinge,M,Skåne,0.15,0.15,0.1,0.15,0.1
+895,895,Vemdalen,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+896,896,Vessigebro,N,Halland,0.15,0.15,0.1,0.15,0.1
+897,897,Vetlanda,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+898,898,Vi,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+899,899,Vidsel,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+900,900,Vika,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+901,901,Vikarbyn,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+902,902,Viken,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+903,903,Viken,M,Skåne,0.15,0.15,0.1,0.15,0.1
+904,904,Vikingstad,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+905,905,Vikmanshyttan,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+906,906,Vilhelmina,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+907,907,Vimmerby,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+908,908,Vinberg,N,Halland,0.15,0.15,0.1,0.15,0.1
+909,909,Vindeln,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+910,910,Vingåker,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+911,911,Vinninga,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+912,912,Vinslöv,M,Skåne,0.15,0.15,0.1,0.15,0.1
+913,913,Vintrosa,T,Örebro,0.15,0.15,0.1,0.15,0.1
+914,914,Virserum,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+915,915,Visby,I,Gotland,0.15,0.15,0.1,0.15,0.1
+916,916,Viskafors,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+917,917,Vislanda,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+918,918,Vissefjärda,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+919,919,Vittangi,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+920,920,Vittinge,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+921,921,Vittsjö,M,Skåne,0.15,0.15,0.1,0.15,0.1
+922,922,Vollsjö,M,Skåne,0.15,0.15,0.1,0.15,0.1
+923,923,Vrena,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+924,924,Vretstorp,T,Örebro,0.15,0.15,0.1,0.15,0.1
+925,925,Vrigstad,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+926,926,Vuollerim,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+927,927,Väckelsång,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+928,928,Väderstad,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+929,929,Vänersborg,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+930,930,Vännäs,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+931,931,Vännäsby,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+932,932,Väring,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+933,933,Värnamo,F,Jönköping,0.15,0.15,0.1,0.15,0.1
+934,934,Värsås,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+935,935,Väröbacka,N,Halland,0.15,0.15,0.1,0.15,0.1
+936,936,Väse,S,Värmland,0.15,0.15,0.1,0.15,0.1
+937,937,Västerfärnebo,U,Västmanland,0.15,0.15,0.1,0.15,0.1
+938,938,Västervik,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+939,939,Västerås,U,Västmanland,0.15,0.15,0.1,0.15,0.1
+940,940,Västra Frölunda,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+941,941,Västra Karup,M,Skåne,0.15,0.15,0.1,0.15,0.1
+942,942,Växjö,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+943,943,Vålberg,S,Värmland,0.15,0.15,0.1,0.15,0.1
+944,944,Våmhus,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+945,945,Vårby,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+946,946,Vårgårda,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+947,947,Våxtorp,N,Halland,0.15,0.15,0.1,0.15,0.1
+948,948,Yngsjö,M,Skåne,0.15,0.15,0.1,0.15,0.1
+949,949,Ystad,M,Skåne,0.15,0.15,0.1,0.15,0.1
+950,950,Ytterhogdal,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+951,951,Älandsbro,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+952,952,Älmhult,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+953,953,Älta,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+954,954,Älvdalen,W,Dalarna,0.15,0.15,0.1,0.15,0.1
+955,955,Älvkarleby,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+956,956,Älvsbyn,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+957,957,Älvängen,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+958,958,Ängelholm,M,Skåne,0.15,0.15,0.1,0.15,0.1
+959,959,Ärla,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+960,960,Åby,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+961,961,Åhus,M,Skåne,0.15,0.15,0.1,0.15,0.1
+962,962,Åkarp,M,Skåne,0.15,0.15,0.1,0.15,0.1
+963,963,Åkarp,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+964,964,Åkers Styckebruk,D,Södermanland,0.15,0.15,0.1,0.15,0.1
+965,965,Åkersberga,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+966,966,Åled,N,Halland,0.15,0.15,0.1,0.15,0.1
+967,967,Ålem,H,Kalmar,0.15,0.15,0.1,0.15,0.1
+968,968,Åmotfors,S,Värmland,0.15,0.15,0.1,0.15,0.1
+969,969,Åmål,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+970,970,Ånge,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+971,971,Ånäset,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+972,972,Ånäset,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+973,973,Åre,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+974,974,Årjäng,S,Värmland,0.15,0.15,0.1,0.15,0.1
+975,975,Årsta,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+976,976,Årsunda,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+977,977,Åryd,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+978,978,Ås,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+979,979,Ås,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+980,980,Åsa,N,Halland,0.15,0.15,0.1,0.15,0.1
+981,981,Åsarp,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+982,982,Åsbro,T,Örebro,0.15,0.15,0.1,0.15,0.1
+983,983,Åseda,G,Kronoberg,0.15,0.15,0.1,0.15,0.1
+984,984,Åsele,AC,Västerbotten,0.15,0.15,0.1,0.15,0.1
+985,985,Åsensbruk,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+986,986,Åshammar,X,Gävleborg,0.15,0.15,0.1,0.15,0.1
+987,987,Åsljunga,M,Skåne,0.15,0.15,0.1,0.15,0.1
+988,988,Åstorp,M,Skåne,0.15,0.15,0.1,0.15,0.1
+989,989,Åtvidaberg,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+990,990,Öckerö,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+991,991,Ödeborg,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+992,992,Ödeshög,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+993,993,Ödsmål,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+994,994,Ödåkra,M,Skåne,0.15,0.15,0.1,0.15,0.1
+995,995,Öjersjö,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+996,996,Önnestad,M,Skåne,0.15,0.15,0.1,0.15,0.1
+997,997,Örbyhus,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+998,998,Örebro,T,Örebro,0.15,0.15,0.1,0.15,0.1
+999,999,Öregrund,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+1000,1000,Örkelljunga,M,Skåne,0.15,0.15,0.1,0.15,0.1
+1001,1001,Örnsköldsvik,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+1002,1002,Örsundsbro,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+1003,1003,Ösmo,AB,Stockholm,0.15,0.15,0.1,0.15,0.1
+1004,1004,Östansjö,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+1005,1005,Östansjö,T,Örebro,0.15,0.15,0.1,0.15,0.1
+1006,1006,Österby,I,Gotland,0.15,0.15,0.1,0.15,0.1
+1007,1007,Österbybruk,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+1008,1008,Österbymo,E,Östergötland,0.15,0.15,0.1,0.15,0.1
+1009,1009,Östersund,Z,Jämtland,0.15,0.15,0.1,0.15,0.1
+1010,1010,Östervåla,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+1011,1011,Östhammar,C,Uppsala,0.15,0.15,0.1,0.15,0.1
+1012,1012,Östra Karup,M,Skåne,0.15,0.15,0.1,0.15,0.1
+1013,1013,Östra Ljungby,M,Skåne,0.15,0.15,0.1,0.15,0.1
+1014,1014,Överhörnäs,Y,Västernorrland,0.15,0.15,0.1,0.15,0.1
+1015,1015,Överkalix,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+1016,1016,Överlida,O,Västra Götaland,0.15,0.15,0.1,0.15,0.1
+1017,1017,Övertorneå,BD,Norrbotten,0.15,0.15,0.1,0.15,0.1
+1018,1018,Överum,H,Kalmar,0.15,0.15,0.1,0.15,0.1

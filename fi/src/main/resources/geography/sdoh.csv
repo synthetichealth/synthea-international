@@ -1,0 +1,329 @@
+FIPS_CODE,COUNTY_CODE,COUNTY,ST,STATE,FOOD_INSECURITY,SEVERE_HOUSING_COST_BURDEN,UNEMPLOYED,NO_VEHICLE_ACCESS,UNINSURED
+0,0,Akaa,11,Pirkanmaa,0.15,0.15,0.1,0.15,0.1
+1,1,Alajärvi,03,South Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+2,2,Alavieska,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+3,3,Alavus,03,South Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+4,4,Asikkala,16,Päijät-Häme,0.15,0.15,0.1,0.15,0.1
+5,5,Askola,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+6,6,Aura,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+7,7,Brändö,,Åland,0.15,0.15,0.1,0.15,0.1
+8,8,Eckerö,,Åland,0.15,0.15,0.1,0.15,0.1
+9,9,Enonkoski,04,South Savo,0.15,0.15,0.1,0.15,0.1
+10,10,Enontekiö,10,Lapland,0.15,0.15,0.1,0.15,0.1
+11,11,Espoo,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+12,12,Eura,17,Satakunta,0.15,0.15,0.1,0.15,0.1
+13,13,Eurajoki,17,Satakunta,0.15,0.15,0.1,0.15,0.1
+14,14,Evijärvi,03,South Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+15,15,Finström,,Åland,0.15,0.15,0.1,0.15,0.1
+16,16,Forssa,06,Kanta-Häme,0.15,0.15,0.1,0.15,0.1
+17,17,Föglö,,Åland,0.15,0.15,0.1,0.15,0.1
+18,18,Geta,,Åland,0.15,0.15,0.1,0.15,0.1
+19,19,Haapajärvi,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+20,20,Haapavesi,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+21,21,Hailuoto,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+22,22,Halsua,07,Central Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+23,23,Hamina,09,Kymenlaakso,0.15,0.15,0.1,0.15,0.1
+24,24,Hammarland,,Åland,0.15,0.15,0.1,0.15,0.1
+25,25,Hankasalmi,08,Central Finland,0.15,0.15,0.1,0.15,0.1
+26,26,Hanko,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+27,27,Harjavalta,17,Satakunta,0.15,0.15,0.1,0.15,0.1
+28,28,Hartola,16,Päijät-Häme,0.15,0.15,0.1,0.15,0.1
+29,29,Hattula,06,Kanta-Häme,0.15,0.15,0.1,0.15,0.1
+30,30,Hausjärvi,06,Kanta-Häme,0.15,0.15,0.1,0.15,0.1
+31,31,Heinola,16,Päijät-Häme,0.15,0.15,0.1,0.15,0.1
+32,32,Heinävesi,04,South Savo,0.15,0.15,0.1,0.15,0.1
+33,33,Helsinki,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+34,34,Hirvensalmi,04,South Savo,0.15,0.15,0.1,0.15,0.1
+35,35,Hollola,16,Päijät-Häme,0.15,0.15,0.1,0.15,0.1
+36,36,Honkajoki,17,Satakunta,0.15,0.15,0.1,0.15,0.1
+37,37,Huittinen,17,Satakunta,0.15,0.15,0.1,0.15,0.1
+38,38,Humppila,06,Kanta-Häme,0.15,0.15,0.1,0.15,0.1
+39,39,Hyrynsalmi,05,Kainuu,0.15,0.15,0.1,0.15,0.1
+40,40,Hyvinkää,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+41,41,Hämeenkyrö,11,Pirkanmaa,0.15,0.15,0.1,0.15,0.1
+42,42,Hämeenlinna,06,Kanta-Häme,0.15,0.15,0.1,0.15,0.1
+43,43,Ii,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+44,44,Iisalmi,15,North Savo,0.15,0.15,0.1,0.15,0.1
+45,45,Iitti,09,Kymenlaakso,0.15,0.15,0.1,0.15,0.1
+46,46,Ikaalinen,11,Pirkanmaa,0.15,0.15,0.1,0.15,0.1
+47,47,Ilmajoki,03,South Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+48,48,Ilomantsi,13,North Karelia,0.15,0.15,0.1,0.15,0.1
+49,49,Imatra,02,South Karelia,0.15,0.15,0.1,0.15,0.1
+50,50,Inari,10,Lapland,0.15,0.15,0.1,0.15,0.1
+51,51,Ingå,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+52,52,Isojoki,03,South Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+53,53,Isokyrö,12,Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+54,54,Jakobstad,12,Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+55,55,Janakkala,06,Kanta-Häme,0.15,0.15,0.1,0.15,0.1
+56,56,Joensuu,13,North Karelia,0.15,0.15,0.1,0.15,0.1
+57,57,Jokioinen,06,Kanta-Häme,0.15,0.15,0.1,0.15,0.1
+58,58,Jomala,,Åland,0.15,0.15,0.1,0.15,0.1
+59,59,Joroinen,04,South Savo,0.15,0.15,0.1,0.15,0.1
+60,60,Joutsa,08,Central Finland,0.15,0.15,0.1,0.15,0.1
+61,61,Juuka,13,North Karelia,0.15,0.15,0.1,0.15,0.1
+62,62,Juupajoki,11,Pirkanmaa,0.15,0.15,0.1,0.15,0.1
+63,63,Juva,04,South Savo,0.15,0.15,0.1,0.15,0.1
+64,64,Jyväskylä,08,Central Finland,0.15,0.15,0.1,0.15,0.1
+65,65,Jämijärvi,17,Satakunta,0.15,0.15,0.1,0.15,0.1
+66,66,Jämsä,08,Central Finland,0.15,0.15,0.1,0.15,0.1
+67,67,Järvenpää,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+68,68,Kaarina,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+69,69,Kaavi,15,North Savo,0.15,0.15,0.1,0.15,0.1
+70,70,Kajaani,05,Kainuu,0.15,0.15,0.1,0.15,0.1
+71,71,Kalajoki,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+72,72,Kangasala,11,Pirkanmaa,0.15,0.15,0.1,0.15,0.1
+73,73,Kangasniemi,04,South Savo,0.15,0.15,0.1,0.15,0.1
+74,74,Kankaanpää,17,Satakunta,0.15,0.15,0.1,0.15,0.1
+75,75,Kannonkoski,08,Central Finland,0.15,0.15,0.1,0.15,0.1
+76,76,Kannus,07,Central Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+77,77,Karijoki,03,South Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+78,78,Karkkila,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+79,79,Karstula,08,Central Finland,0.15,0.15,0.1,0.15,0.1
+80,80,Karvia,17,Satakunta,0.15,0.15,0.1,0.15,0.1
+81,81,Kaskinen,12,Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+82,82,Kauhajoki,03,South Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+83,83,Kauhava,03,South Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+84,84,Kauniainen,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+85,85,Kaustinen,07,Central Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+86,86,Keitele,15,North Savo,0.15,0.15,0.1,0.15,0.1
+87,87,Kemi,10,Lapland,0.15,0.15,0.1,0.15,0.1
+88,88,Kemijärvi,10,Lapland,0.15,0.15,0.1,0.15,0.1
+89,89,Keminmaa,10,Lapland,0.15,0.15,0.1,0.15,0.1
+90,90,Kempele,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+91,91,Kerava,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+92,92,Keuruu,08,Central Finland,0.15,0.15,0.1,0.15,0.1
+93,93,Kihniö,11,Pirkanmaa,0.15,0.15,0.1,0.15,0.1
+94,94,Kimitoön,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+95,95,Kinnula,08,Central Finland,0.15,0.15,0.1,0.15,0.1
+96,96,Kirkkonummi,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+97,97,Kitee,13,North Karelia,0.15,0.15,0.1,0.15,0.1
+98,98,Kittilä,10,Lapland,0.15,0.15,0.1,0.15,0.1
+99,99,Kiuruvesi,15,North Savo,0.15,0.15,0.1,0.15,0.1
+100,100,Kivijärvi,08,Central Finland,0.15,0.15,0.1,0.15,0.1
+101,101,Kokemäki,17,Satakunta,0.15,0.15,0.1,0.15,0.1
+102,102,Kokkola,07,Central Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+103,103,Kolari,10,Lapland,0.15,0.15,0.1,0.15,0.1
+104,104,Konnevesi,08,Central Finland,0.15,0.15,0.1,0.15,0.1
+105,105,Kontiolahti,13,North Karelia,0.15,0.15,0.1,0.15,0.1
+106,106,Korsholm,12,Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+107,107,Korsnäs,12,Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+108,108,Koski Tl,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+109,109,Kotka,09,Kymenlaakso,0.15,0.15,0.1,0.15,0.1
+110,110,Kouvola,09,Kymenlaakso,0.15,0.15,0.1,0.15,0.1
+111,111,Kristinestad,12,Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+112,112,Kronoby,12,Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+113,113,Kuhmo,05,Kainuu,0.15,0.15,0.1,0.15,0.1
+114,114,Kuhmoinen,08,Central Finland,0.15,0.15,0.1,0.15,0.1
+115,115,Kumlinge,,Åland,0.15,0.15,0.1,0.15,0.1
+116,116,Kuopio,15,North Savo,0.15,0.15,0.1,0.15,0.1
+117,117,Kuortane,03,South Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+118,118,Kurikka,03,South Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+119,119,Kustavi,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+120,120,Kuusamo,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+121,121,Kyyjärvi,08,Central Finland,0.15,0.15,0.1,0.15,0.1
+122,122,Kärkölä,16,Päijät-Häme,0.15,0.15,0.1,0.15,0.1
+123,123,Kärsämäki,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+124,124,Kökar,,Åland,0.15,0.15,0.1,0.15,0.1
+125,125,Lahti,16,Päijät-Häme,0.15,0.15,0.1,0.15,0.1
+126,126,Laihia,12,Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+127,127,Laitila,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+128,128,Lapinjärvi,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+129,129,Lapinlahti,15,North Savo,0.15,0.15,0.1,0.15,0.1
+130,130,Lappajärvi,03,South Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+131,131,Lappeenranta,02,South Karelia,0.15,0.15,0.1,0.15,0.1
+132,132,Lapua,03,South Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+133,133,Larsmo,12,Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+134,134,Laukaa,08,Central Finland,0.15,0.15,0.1,0.15,0.1
+135,135,Lemi,02,South Karelia,0.15,0.15,0.1,0.15,0.1
+136,136,Lemland,,Åland,0.15,0.15,0.1,0.15,0.1
+137,137,Lempäälä,11,Pirkanmaa,0.15,0.15,0.1,0.15,0.1
+138,138,Leppävirta,15,North Savo,0.15,0.15,0.1,0.15,0.1
+139,139,Lestijärvi,07,Central Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+140,140,Lieksa,13,North Karelia,0.15,0.15,0.1,0.15,0.1
+141,141,Lieto,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+142,142,Liminka,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+143,143,Liperi,13,North Karelia,0.15,0.15,0.1,0.15,0.1
+144,144,Lohja,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+145,145,Loimaa,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+146,146,Loppi,06,Kanta-Häme,0.15,0.15,0.1,0.15,0.1
+147,147,Loviisa,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+148,148,Luhanka,08,Central Finland,0.15,0.15,0.1,0.15,0.1
+149,149,Lumijoki,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+150,150,Lumparland,,Åland,0.15,0.15,0.1,0.15,0.1
+151,151,Luumäki,02,South Karelia,0.15,0.15,0.1,0.15,0.1
+152,152,MK02 Southwest Finland,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+153,153,MK04 Satakunta,17,Satakunta,0.15,0.15,0.1,0.15,0.1
+154,154,MK05 Kanta-Häme,06,Kanta-Häme,0.15,0.15,0.1,0.15,0.1
+155,155,MK06 Pirkanmaa,11,Pirkanmaa,0.15,0.15,0.1,0.15,0.1
+156,156,MK07 Päijät-Häme,16,Päijät-Häme,0.15,0.15,0.1,0.15,0.1
+157,157,MK08 Kymenlaakso,09,Kymenlaakso,0.15,0.15,0.1,0.15,0.1
+158,158,MK09 South Karelia,02,South Karelia,0.15,0.15,0.1,0.15,0.1
+159,159,MK10 South Savo,04,South Savo,0.15,0.15,0.1,0.15,0.1
+160,160,MK11 North Savo,15,North Savo,0.15,0.15,0.1,0.15,0.1
+161,161,MK12 North Karelia,13,North Karelia,0.15,0.15,0.1,0.15,0.1
+162,162,MK13 Central Finland,08,Central Finland,0.15,0.15,0.1,0.15,0.1
+163,163,MK14 South Ostrobothnia,03,South Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+164,164,MK15 Ostrobothnia,12,Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+165,165,MK16 Central Ostrobothnia,07,Central Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+166,166,MK17 North Ostrobothnia,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+167,167,MK18 Kainuu,05,Kainuu,0.15,0.15,0.1,0.15,0.1
+168,168,MK19 Lapland,10,Lapland,0.15,0.15,0.1,0.15,0.1
+169,169,MK21 Åland,,Åland,0.15,0.15,0.1,0.15,0.1
+170,170,Malax,12,Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+171,171,Mariehamn,,Åland,0.15,0.15,0.1,0.15,0.1
+172,172,Marttila,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+173,173,Masku,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+174,174,Merijärvi,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+175,175,Merikarvia,17,Satakunta,0.15,0.15,0.1,0.15,0.1
+176,176,Miehikkälä,09,Kymenlaakso,0.15,0.15,0.1,0.15,0.1
+177,177,Mikkeli,04,South Savo,0.15,0.15,0.1,0.15,0.1
+178,178,Muhos,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+179,179,Multia,08,Central Finland,0.15,0.15,0.1,0.15,0.1
+180,180,Muonio,10,Lapland,0.15,0.15,0.1,0.15,0.1
+181,181,Muurame,08,Central Finland,0.15,0.15,0.1,0.15,0.1
+182,182,Mynämäki,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+183,183,Myrskylä,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+184,184,Mäntsälä,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+185,185,Mänttä-Vilppula,11,Pirkanmaa,0.15,0.15,0.1,0.15,0.1
+186,186,Mäntyharju,04,South Savo,0.15,0.15,0.1,0.15,0.1
+187,187,Naantali,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+188,188,Nakkila,17,Satakunta,0.15,0.15,0.1,0.15,0.1
+189,189,Nivala,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+190,190,Nokia,11,Pirkanmaa,0.15,0.15,0.1,0.15,0.1
+191,191,Nousiainen,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+192,192,Nurmes,13,North Karelia,0.15,0.15,0.1,0.15,0.1
+193,193,Nurmijärvi,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+194,194,Nykarleby,12,Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+195,195,Närpes,12,Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+196,196,Orimattila,16,Päijät-Häme,0.15,0.15,0.1,0.15,0.1
+197,197,Oripää,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+198,198,Orivesi,11,Pirkanmaa,0.15,0.15,0.1,0.15,0.1
+199,199,Oulainen,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+200,200,Oulu,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+201,201,Outokumpu,13,North Karelia,0.15,0.15,0.1,0.15,0.1
+202,202,Padasjoki,16,Päijät-Häme,0.15,0.15,0.1,0.15,0.1
+203,203,Paimio,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+204,204,Paltamo,05,Kainuu,0.15,0.15,0.1,0.15,0.1
+205,205,Pargas,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+206,206,Parikkala,02,South Karelia,0.15,0.15,0.1,0.15,0.1
+207,207,Parkano,11,Pirkanmaa,0.15,0.15,0.1,0.15,0.1
+208,208,Pedersöre,12,Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+209,209,Pelkosenniemi,10,Lapland,0.15,0.15,0.1,0.15,0.1
+210,210,Pello,10,Lapland,0.15,0.15,0.1,0.15,0.1
+211,211,Perho,07,Central Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+212,212,Pertunmaa,04,South Savo,0.15,0.15,0.1,0.15,0.1
+213,213,Petäjävesi,08,Central Finland,0.15,0.15,0.1,0.15,0.1
+214,214,Pieksämäki,04,South Savo,0.15,0.15,0.1,0.15,0.1
+215,215,Pielavesi,15,North Savo,0.15,0.15,0.1,0.15,0.1
+216,216,Pihtipudas,08,Central Finland,0.15,0.15,0.1,0.15,0.1
+217,217,Pirkkala,11,Pirkanmaa,0.15,0.15,0.1,0.15,0.1
+218,218,Polvijärvi,13,North Karelia,0.15,0.15,0.1,0.15,0.1
+219,219,Pomarkku,17,Satakunta,0.15,0.15,0.1,0.15,0.1
+220,220,Pori,17,Satakunta,0.15,0.15,0.1,0.15,0.1
+221,221,Pornainen,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+222,222,Porvoo,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+223,223,Posio,10,Lapland,0.15,0.15,0.1,0.15,0.1
+224,224,Pudasjärvi,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+225,225,Pukkila,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+226,226,Punkalaidun,11,Pirkanmaa,0.15,0.15,0.1,0.15,0.1
+227,227,Puolanka,05,Kainuu,0.15,0.15,0.1,0.15,0.1
+228,228,Puumala,04,South Savo,0.15,0.15,0.1,0.15,0.1
+229,229,Pyhtää,09,Kymenlaakso,0.15,0.15,0.1,0.15,0.1
+230,230,Pyhäjoki,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+231,231,Pyhäjärvi,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+232,232,Pyhäntä,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+233,233,Pyhäranta,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+234,234,Pälkäne,11,Pirkanmaa,0.15,0.15,0.1,0.15,0.1
+235,235,Pöytyä,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+236,236,Raahe,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+237,237,Raasepori,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+238,238,Raisio,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+239,239,Rantasalmi,04,South Savo,0.15,0.15,0.1,0.15,0.1
+240,240,Ranua,10,Lapland,0.15,0.15,0.1,0.15,0.1
+241,241,Rauma,17,Satakunta,0.15,0.15,0.1,0.15,0.1
+242,242,Rautalampi,15,North Savo,0.15,0.15,0.1,0.15,0.1
+243,243,Rautavaara,15,North Savo,0.15,0.15,0.1,0.15,0.1
+244,244,Rautjärvi,02,South Karelia,0.15,0.15,0.1,0.15,0.1
+245,245,Reisjärvi,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+246,246,Riihimäki,06,Kanta-Häme,0.15,0.15,0.1,0.15,0.1
+247,247,Ristijärvi,05,Kainuu,0.15,0.15,0.1,0.15,0.1
+248,248,Rovaniemi,10,Lapland,0.15,0.15,0.1,0.15,0.1
+249,249,Ruokolahti,02,South Karelia,0.15,0.15,0.1,0.15,0.1
+250,250,Ruovesi,11,Pirkanmaa,0.15,0.15,0.1,0.15,0.1
+251,251,Rusko,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+252,252,Rääkkylä,13,North Karelia,0.15,0.15,0.1,0.15,0.1
+253,253,Saarijärvi,08,Central Finland,0.15,0.15,0.1,0.15,0.1
+254,254,Salla,10,Lapland,0.15,0.15,0.1,0.15,0.1
+255,255,Salo,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+256,256,Saltvik,,Åland,0.15,0.15,0.1,0.15,0.1
+257,257,Sastamala,11,Pirkanmaa,0.15,0.15,0.1,0.15,0.1
+258,258,Sauvo,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+259,259,Savitaipale,02,South Karelia,0.15,0.15,0.1,0.15,0.1
+260,260,Savonlinna,04,South Savo,0.15,0.15,0.1,0.15,0.1
+261,261,Savukoski,10,Lapland,0.15,0.15,0.1,0.15,0.1
+262,262,Seinäjoki,03,South Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+263,263,Sievi,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+264,264,Siikainen,17,Satakunta,0.15,0.15,0.1,0.15,0.1
+265,265,Siikajoki,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+266,266,Siikalatva,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+267,267,Siilinjärvi,15,North Savo,0.15,0.15,0.1,0.15,0.1
+268,268,Simo,10,Lapland,0.15,0.15,0.1,0.15,0.1
+269,269,Sipoo,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+270,270,Siuntio,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+271,271,Sodankylä,10,Lapland,0.15,0.15,0.1,0.15,0.1
+272,272,Soini,03,South Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+273,273,Somero,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+274,274,Sonkajärvi,15,North Savo,0.15,0.15,0.1,0.15,0.1
+275,275,Sotkamo,05,Kainuu,0.15,0.15,0.1,0.15,0.1
+276,276,Sottunga,,Åland,0.15,0.15,0.1,0.15,0.1
+277,277,Sulkava,04,South Savo,0.15,0.15,0.1,0.15,0.1
+278,278,Sund,,Åland,0.15,0.15,0.1,0.15,0.1
+279,279,Suomussalmi,05,Kainuu,0.15,0.15,0.1,0.15,0.1
+280,280,Suonenjoki,15,North Savo,0.15,0.15,0.1,0.15,0.1
+281,281,Sysmä,16,Päijät-Häme,0.15,0.15,0.1,0.15,0.1
+282,282,Säkylä,17,Satakunta,0.15,0.15,0.1,0.15,0.1
+283,283,Taipalsaari,02,South Karelia,0.15,0.15,0.1,0.15,0.1
+284,284,Taivalkoski,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+285,285,Taivassalo,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+286,286,Tammela,06,Kanta-Häme,0.15,0.15,0.1,0.15,0.1
+287,287,Tampere,11,Pirkanmaa,0.15,0.15,0.1,0.15,0.1
+288,288,Tervo,15,North Savo,0.15,0.15,0.1,0.15,0.1
+289,289,Tervola,10,Lapland,0.15,0.15,0.1,0.15,0.1
+290,290,Teuva,03,South Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+291,291,Tohmajärvi,13,North Karelia,0.15,0.15,0.1,0.15,0.1
+292,292,Toholampi,07,Central Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+293,293,Toivakka,08,Central Finland,0.15,0.15,0.1,0.15,0.1
+294,294,Tornio,10,Lapland,0.15,0.15,0.1,0.15,0.1
+295,295,Turku,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+296,296,Tuusniemi,15,North Savo,0.15,0.15,0.1,0.15,0.1
+297,297,Tuusula,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+298,298,Tyrnävä,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+299,299,Ulvila,17,Satakunta,0.15,0.15,0.1,0.15,0.1
+300,300,Urjala,11,Pirkanmaa,0.15,0.15,0.1,0.15,0.1
+301,301,Utajärvi,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+302,302,Utsjoki,10,Lapland,0.15,0.15,0.1,0.15,0.1
+303,303,Uurainen,08,Central Finland,0.15,0.15,0.1,0.15,0.1
+304,304,Uusikaupunki,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+305,305,Vaala,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+306,306,Vaasa,12,Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+307,307,Valkeakoski,11,Pirkanmaa,0.15,0.15,0.1,0.15,0.1
+308,308,Vantaa,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+309,309,Varkaus,15,North Savo,0.15,0.15,0.1,0.15,0.1
+310,310,Vehmaa,19,Southwest Finland,0.15,0.15,0.1,0.15,0.1
+311,311,Vesanto,15,North Savo,0.15,0.15,0.1,0.15,0.1
+312,312,Vesilahti,11,Pirkanmaa,0.15,0.15,0.1,0.15,0.1
+313,313,Veteli,07,Central Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+314,314,Vieremä,15,North Savo,0.15,0.15,0.1,0.15,0.1
+315,315,Vihti,18,Uusimaa,0.15,0.15,0.1,0.15,0.1
+316,316,Viitasaari,08,Central Finland,0.15,0.15,0.1,0.15,0.1
+317,317,Vimpeli,03,South Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+318,318,Virolahti,09,Kymenlaakso,0.15,0.15,0.1,0.15,0.1
+319,319,Virrat,11,Pirkanmaa,0.15,0.15,0.1,0.15,0.1
+320,320,Vårdö,,Åland,0.15,0.15,0.1,0.15,0.1
+321,321,Vöyri,12,Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+322,322,Ylitornio,10,Lapland,0.15,0.15,0.1,0.15,0.1
+323,323,Ylivieska,14,North Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+324,324,Ylöjärvi,11,Pirkanmaa,0.15,0.15,0.1,0.15,0.1
+325,325,Ypäjä,06,Kanta-Häme,0.15,0.15,0.1,0.15,0.1
+326,326,Ähtäri,03,South Ostrobothnia,0.15,0.15,0.1,0.15,0.1
+327,327,Äänekoski,08,Central Finland,0.15,0.15,0.1,0.15,0.1

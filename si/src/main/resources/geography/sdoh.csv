@@ -1,0 +1,296 @@
+FIPS_CODE,COUNTY_CODE,COUNTY,ST,STATE,FOOD_INSECURITY,SEVERE_HOUSING_COST_BURDEN,UNEMPLOYED,NO_VEHICLE_ACCESS,UNINSURED
+0,0,Ajdovščina,,Ajdovščina,0.15,0.15,0.1,0.15,0.1
+1,1,Ankaran,,Ankaran,0.15,0.15,0.1,0.15,0.1
+2,2,Apače,,Kidričevo,0.15,0.15,0.1,0.15,0.1
+3,3,Apače,,Apače,0.15,0.15,0.1,0.15,0.1
+4,4,Begunje na Gorenjskem,102,Radovljica,0.15,0.15,0.1,0.15,0.1
+5,5,Begunje pri Cerknici,013,Cerknica,0.15,0.15,0.1,0.15,0.1
+6,6,Beltinci,,Beltinci,0.15,0.15,0.1,0.15,0.1
+7,7,Benedikt,,Benedikt,0.15,0.15,0.1,0.15,0.1
+8,8,Bistrica ob Dravi,108,Ruše,0.15,0.15,0.1,0.15,0.1
+9,9,Bistrica ob Sotli,,Bistrica Ob Sotli,0.15,0.15,0.1,0.15,0.1
+10,10,Bizeljsko,009,Brežice,0.15,0.15,0.1,0.15,0.1
+11,11,Bled,,Bled,0.15,0.15,0.1,0.15,0.1
+12,12,Blejska Dobrava,,Bled,0.15,0.15,0.1,0.15,0.1
+13,13,Bogojina,,Moravske Toplice,0.15,0.15,0.1,0.15,0.1
+14,14,Bohinjska Bela,,Bled,0.15,0.15,0.1,0.15,0.1
+15,15,Bohinjska Bistrica,,Bohinj,0.15,0.15,0.1,0.15,0.1
+16,16,Borovnica,,Borovnica,0.15,0.15,0.1,0.15,0.1
+17,17,Bovec,,Bovec,0.15,0.15,0.1,0.15,0.1
+18,18,Branik,084,Nova Gorica,0.15,0.15,0.1,0.15,0.1
+19,19,Braslovče,,Braslovče,0.15,0.15,0.1,0.15,0.1
+20,20,Breg,,Žirovnica,0.15,0.15,0.1,0.15,0.1
+21,21,Brestanica,054,Krško,0.15,0.15,0.1,0.15,0.1
+22,22,Bresternica,070,Maribor,0.15,0.15,0.1,0.15,0.1
+23,23,Brezje,102,Radovljica,0.15,0.15,0.1,0.15,0.1
+24,24,Brezovica pri Ljubljani,,Brezovica,0.15,0.15,0.1,0.15,0.1
+25,25,Brežice,009,Brežice,0.15,0.15,0.1,0.15,0.1
+26,26,Britof,052,Kranj,0.15,0.15,0.1,0.15,0.1
+27,27,Cankova,,Cankova,0.15,0.15,0.1,0.15,0.1
+28,28,Celje,011,Celje,0.15,0.15,0.1,0.15,0.1
+29,29,Cerklje na Gorenjskem,,Cerklje Na Gorenjskem,0.15,0.15,0.1,0.15,0.1
+30,30,Cerknica,013,Cerknica,0.15,0.15,0.1,0.15,0.1
+31,31,Cerkno,,Cerkno,0.15,0.15,0.1,0.15,0.1
+32,32,Cerkvenjak,,Cerkvenjak,0.15,0.15,0.1,0.15,0.1
+33,33,Ceršak,,Šentilj,0.15,0.15,0.1,0.15,0.1
+34,34,Cirkulane,,Cirkulane,0.15,0.15,0.1,0.15,0.1
+35,35,Dekani,,Koper/capodistria,0.15,0.15,0.1,0.15,0.1
+36,36,Deskle,,Kanal,0.15,0.15,0.1,0.15,0.1
+37,37,Destrnik,,Destrnik,0.15,0.15,0.1,0.15,0.1
+38,38,Divača,,Divača,0.15,0.15,0.1,0.15,0.1
+39,39,Dob,,Domžale,0.15,0.15,0.1,0.15,0.1
+40,40,Dobje pri Planini,,Dobje,0.15,0.15,0.1,0.15,0.1
+41,41,Dobova,009,Brežice,0.15,0.15,0.1,0.15,0.1
+42,42,Dobrna,,Dobrna,0.15,0.15,0.1,0.15,0.1
+43,43,Dobrova,,Dobrova-polhov Gradec,0.15,0.15,0.1,0.15,0.1
+44,44,Dobrovnik,,Dobrovnik-dobronak,0.15,0.15,0.1,0.15,0.1
+45,45,Dobrovo,,Brda,0.15,0.15,0.1,0.15,0.1
+46,46,Dol pri Hrastniku,034,Hrastnik,0.15,0.15,0.1,0.15,0.1
+47,47,Dol pri Ljubljani,,Dol Pri Ljubljani,0.15,0.15,0.1,0.15,0.1
+48,48,Dolenjske Toplice,,Dolenjske Toplice,0.15,0.15,0.1,0.15,0.1
+49,49,Domžale,,Domžale,0.15,0.15,0.1,0.15,0.1
+50,50,Dornava,,Dornava,0.15,0.15,0.1,0.15,0.1
+51,51,Dornberk,084,Nova Gorica,0.15,0.15,0.1,0.15,0.1
+52,52,Dravograd,025,Dravograd,0.15,0.15,0.1,0.15,0.1
+53,53,Dutovlje,111,Sežana,0.15,0.15,0.1,0.15,0.1
+54,54,Fram,,Rače-fram,0.15,0.15,0.1,0.15,0.1
+55,55,Godovič,036,Idrija,0.15,0.15,0.1,0.15,0.1
+56,56,Golnik,052,Kranj,0.15,0.15,0.1,0.15,0.1
+57,57,Gorica pri Slivnici,,Šentjur,0.15,0.15,0.1,0.15,0.1
+58,58,Gorišnica,,Gorišnica,0.15,0.15,0.1,0.15,0.1
+59,59,Gornja Radgona,029,Gornja Radgona,0.15,0.15,0.1,0.15,0.1
+60,60,Gornji Grad,,Gornji Grad,0.15,0.15,0.1,0.15,0.1
+61,61,Gozd Martuljek,,Kranjska Gora,0.15,0.15,0.1,0.15,0.1
+62,62,Grad,,Grad,0.15,0.15,0.1,0.15,0.1
+63,63,Grgar,084,Nova Gorica,0.15,0.15,0.1,0.15,0.1
+64,64,Griže,190,Žalec,0.15,0.15,0.1,0.15,0.1
+65,65,Grosuplje,032,Grosuplje,0.15,0.15,0.1,0.15,0.1
+66,66,Hodoš,,Hodoš/hodos,0.15,0.15,0.1,0.15,0.1
+67,67,Horjul,,Horjul,0.15,0.15,0.1,0.15,0.1
+68,68,Hotedršica,064,Logatec,0.15,0.15,0.1,0.15,0.1
+69,69,Hrastnik,034,Hrastnik,0.15,0.15,0.1,0.15,0.1
+70,70,Hrušica,041,Jesenice,0.15,0.15,0.1,0.15,0.1
+71,71,Idrija,036,Idrija,0.15,0.15,0.1,0.15,0.1
+72,72,Ig,,Ig,0.15,0.15,0.1,0.15,0.1
+73,73,Ilirska Bistrica,038,Ilirska Bistrica,0.15,0.15,0.1,0.15,0.1
+74,74,Ivančna Gorica,,Ivančna Gorica,0.15,0.15,0.1,0.15,0.1
+75,75,Izlake,142,Zagorje Ob Savi,0.15,0.15,0.1,0.15,0.1
+76,76,Izola,,Izola/isola,0.15,0.15,0.1,0.15,0.1
+77,77,Jesenice,041,Jesenice,0.15,0.15,0.1,0.15,0.1
+78,78,Jurovski Dol,,Sveti Jurij V Slovenskih Goricah,0.15,0.15,0.1,0.15,0.1
+79,79,Juršinci,,Juršinci,0.15,0.15,0.1,0.15,0.1
+80,80,Kamna Gorica,102,Radovljica,0.15,0.15,0.1,0.15,0.1
+81,81,Kamnica,070,Maribor,0.15,0.15,0.1,0.15,0.1
+82,82,Kamnik,043,Kamnik,0.15,0.15,0.1,0.15,0.1
+83,83,Kanal,,Kanal,0.15,0.15,0.1,0.15,0.1
+84,84,Kidričevo,,Kidričevo,0.15,0.15,0.1,0.15,0.1
+85,85,Kisovec,142,Zagorje Ob Savi,0.15,0.15,0.1,0.15,0.1
+86,86,Kobarid,,Kobarid,0.15,0.15,0.1,0.15,0.1
+87,87,Kobilje,,Kobilje,0.15,0.15,0.1,0.15,0.1
+88,88,Komen,,Komen,0.15,0.15,0.1,0.15,0.1
+89,89,Komenda,,Komenda,0.15,0.15,0.1,0.15,0.1
+90,90,Koper,,Koper/capodistria,0.15,0.15,0.1,0.15,0.1
+91,91,Kostanjevica na Krki,,Kosanjevica Na Krki,0.15,0.15,0.1,0.15,0.1
+92,92,Kotlje,103,Ravne Na Koroškem,0.15,0.15,0.1,0.15,0.1
+93,93,Kozina,,Hrpelje-kozina,0.15,0.15,0.1,0.15,0.1
+94,94,Kozje,,Kozje,0.15,0.15,0.1,0.15,0.1
+95,95,Kočevje,,Kočevje,0.15,0.15,0.1,0.15,0.1
+96,96,Kranj,052,Kranj,0.15,0.15,0.1,0.15,0.1
+97,97,Kranjska Gora,,Kranjska Gora,0.15,0.15,0.1,0.15,0.1
+98,98,Kresnice,,Moravče,0.15,0.15,0.1,0.15,0.1
+99,99,Križ,111,Sežana,0.15,0.15,0.1,0.15,0.1
+100,100,Križe,,Tržič,0.15,0.15,0.1,0.15,0.1
+101,101,Križevci pri Ljutomeru,,Križevci,0.15,0.15,0.1,0.15,0.1
+102,102,Krmelj,110,Sevnica,0.15,0.15,0.1,0.15,0.1
+103,103,Kropa,102,Radovljica,0.15,0.15,0.1,0.15,0.1
+104,104,Krško,054,Krško,0.15,0.15,0.1,0.15,0.1
+105,105,Kuzma,,Kuzma,0.15,0.15,0.1,0.15,0.1
+106,106,Laško,057,Laško,0.15,0.15,0.1,0.15,0.1
+107,107,Lendava,,Lendava/lendva,0.15,0.15,0.1,0.15,0.1
+108,108,Lesce,102,Radovljica,0.15,0.15,0.1,0.15,0.1
+109,109,Leskovec,113,Slovenska Bistrica,0.15,0.15,0.1,0.15,0.1
+110,110,Leskovec pri Krškem,054,Krško,0.15,0.15,0.1,0.15,0.1
+111,111,Limbuš,070,Maribor,0.15,0.15,0.1,0.15,0.1
+112,112,Litija,060,Litija,0.15,0.15,0.1,0.15,0.1
+113,113,Ljubečna,011,Celje,0.15,0.15,0.1,0.15,0.1
+114,114,Ljubljana,061,Ljubljana,0.15,0.15,0.1,0.15,0.1
+115,115,Ljubno ob Savinji,,Ljubno,0.15,0.15,0.1,0.15,0.1
+116,116,Ljutomer,063,Ljutomer,0.15,0.15,0.1,0.15,0.1
+117,117,Log pri Brezovici,,Log-dragomer,0.15,0.15,0.1,0.15,0.1
+118,118,Logatec,064,Logatec,0.15,0.15,0.1,0.15,0.1
+119,119,Lokev,111,Sežana,0.15,0.15,0.1,0.15,0.1
+120,120,Lovrenc na Pohorju,,Lovrenc Na Pohorju,0.15,0.15,0.1,0.15,0.1
+121,121,Loče,114,Slovenske Konjice,0.15,0.15,0.1,0.15,0.1
+122,122,Loški Potok,,Loški Potok,0.15,0.15,0.1,0.15,0.1
+123,123,Lož,,Loška Dolina,0.15,0.15,0.1,0.15,0.1
+124,124,Luče,,Luče,0.15,0.15,0.1,0.15,0.1
+125,125,Majšperk,,Majšperk,0.15,0.15,0.1,0.15,0.1
+126,126,Makole,,Makole,0.15,0.15,0.1,0.15,0.1
+127,127,Malečnik,070,Maribor,0.15,0.15,0.1,0.15,0.1
+128,128,Maribor,070,Maribor,0.15,0.15,0.1,0.15,0.1
+129,129,Markovci,,Markovci,0.15,0.15,0.1,0.15,0.1
+130,130,Martjanci,,Moravske Toplice,0.15,0.15,0.1,0.15,0.1
+131,131,Medvode,,Medvode,0.15,0.15,0.1,0.15,0.1
+132,132,Mengeš,,Mengeš,0.15,0.15,0.1,0.15,0.1
+133,133,Metlika,073,Metlika,0.15,0.15,0.1,0.15,0.1
+134,134,Mežica,,Mežica,0.15,0.15,0.1,0.15,0.1
+135,135,Miren,,Miren-kostanjevica,0.15,0.15,0.1,0.15,0.1
+136,136,Mirna,,Mirna,0.15,0.15,0.1,0.15,0.1
+137,137,Mirna Peč,,Mirna Peč,0.15,0.15,0.1,0.15,0.1
+138,138,Mislinja,,Mislinja,0.15,0.15,0.1,0.15,0.1
+139,139,Mojstrana,,Kranjska Gora,0.15,0.15,0.1,0.15,0.1
+140,140,Mokronog,,Mokronog-trebelno,0.15,0.15,0.1,0.15,0.1
+141,141,Moravske Toplice,,Moravske Toplice,0.15,0.15,0.1,0.15,0.1
+142,142,Moravče,,Moravče,0.15,0.15,0.1,0.15,0.1
+143,143,Mozirje,079,Mozirje,0.15,0.15,0.1,0.15,0.1
+144,144,Murska Sobota,080,Murska Sobota,0.15,0.15,0.1,0.15,0.1
+145,145,Muta,,Muta,0.15,0.15,0.1,0.15,0.1
+146,146,Naklo,,Naklo,0.15,0.15,0.1,0.15,0.1
+147,147,Nazarje,,Nazarje,0.15,0.15,0.1,0.15,0.1
+148,148,Notranje Gorice,,Brezovica,0.15,0.15,0.1,0.15,0.1
+149,149,Nova Gorica,084,Nova Gorica,0.15,0.15,0.1,0.15,0.1
+150,150,Odranci,,Odranci,0.15,0.15,0.1,0.15,0.1
+151,151,Oplotnica,,Oplotnica,0.15,0.15,0.1,0.15,0.1
+152,152,Ormož,087,Ormož,0.15,0.15,0.1,0.15,0.1
+153,153,Osilnica,,Osilnica,0.15,0.15,0.1,0.15,0.1
+154,154,Otočec,,Šmarješke Toplice,0.15,0.15,0.1,0.15,0.1
+155,155,Pesnica,089,Pesnica,0.15,0.15,0.1,0.15,0.1
+156,156,Petrovče,190,Žalec,0.15,0.15,0.1,0.15,0.1
+157,157,Piran,,Piran/pirano,0.15,0.15,0.1,0.15,0.1
+158,158,Pivka,,Pivka,0.15,0.15,0.1,0.15,0.1
+159,159,Planina,094,Postojna,0.15,0.15,0.1,0.15,0.1
+160,160,Pobegi,,Koper/capodistria,0.15,0.15,0.1,0.15,0.1
+161,161,Podbrdo,128,Tolmin,0.15,0.15,0.1,0.15,0.1
+162,162,Podgorci,087,Ormož,0.15,0.15,0.1,0.15,0.1
+163,163,Podgorje,112,Slovenj Gradec,0.15,0.15,0.1,0.15,0.1
+164,164,Podgorje,043,Kamnik,0.15,0.15,0.1,0.15,0.1
+165,165,Podgrad,038,Ilirska Bistrica,0.15,0.15,0.1,0.15,0.1
+166,166,Podlehnik,,Podlehnik,0.15,0.15,0.1,0.15,0.1
+167,167,Podvelka,,Podvelka,0.15,0.15,0.1,0.15,0.1
+168,168,Podčetrtek,,Podčetrtek,0.15,0.15,0.1,0.15,0.1
+169,169,Polhov Gradec,,Dobrova-polhov Gradec,0.15,0.15,0.1,0.15,0.1
+170,170,Poljčane,,Poljčane,0.15,0.15,0.1,0.15,0.1
+171,171,Polzela,,Polzela,0.15,0.15,0.1,0.15,0.1
+172,172,Portorož,,Piran/pirano,0.15,0.15,0.1,0.15,0.1
+173,173,Postojna,094,Postojna,0.15,0.15,0.1,0.15,0.1
+174,174,Pragersko,113,Slovenska Bistrica,0.15,0.15,0.1,0.15,0.1
+175,175,Prebold,,Prebold,0.15,0.15,0.1,0.15,0.1
+176,176,Preddvor,,Preddvor,0.15,0.15,0.1,0.15,0.1
+177,177,Prestranek,094,Postojna,0.15,0.15,0.1,0.15,0.1
+178,178,Prevalje,,Prevalje,0.15,0.15,0.1,0.15,0.1
+179,179,Pristava,,Tržič,0.15,0.15,0.1,0.15,0.1
+180,180,Prvačina,084,Nova Gorica,0.15,0.15,0.1,0.15,0.1
+181,181,Ptuj,096,Ptuj,0.15,0.15,0.1,0.15,0.1
+182,182,Puconci,,Puconci,0.15,0.15,0.1,0.15,0.1
+183,183,Radenci,,Radenci,0.15,0.15,0.1,0.15,0.1
+184,184,Radeče,,Radeče,0.15,0.15,0.1,0.15,0.1
+185,185,Radlje ob Dravi,101,Radlje Ob Dravi,0.15,0.15,0.1,0.15,0.1
+186,186,Radomlje,,Domžale,0.15,0.15,0.1,0.15,0.1
+187,187,Radovljica,102,Radovljica,0.15,0.15,0.1,0.15,0.1
+188,188,Rakek,013,Cerknica,0.15,0.15,0.1,0.15,0.1
+189,189,Rateče,,Kranjska Gora,0.15,0.15,0.1,0.15,0.1
+190,190,Ravne,,Šoštanj,0.15,0.15,0.1,0.15,0.1
+191,191,Ravne na Koroškem,103,Ravne Na Koroškem,0.15,0.15,0.1,0.15,0.1
+192,192,Rače,,Rače-fram,0.15,0.15,0.1,0.15,0.1
+193,193,Renče,,Renče-vogrsko,0.15,0.15,0.1,0.15,0.1
+194,194,Rečica ob Savinji,,Rečica Ob Savinji,0.15,0.15,0.1,0.15,0.1
+195,195,Ribnica,104,Ribnica,0.15,0.15,0.1,0.15,0.1
+196,196,Ribnica na Pohorju,,Ribnica Na Pohorju,0.15,0.15,0.1,0.15,0.1
+197,197,Rimske Toplice,057,Laško,0.15,0.15,0.1,0.15,0.1
+198,198,Rogatec,,Rogatec,0.15,0.15,0.1,0.15,0.1
+199,199,Rogaška Slatina,,Rogaška Slatina,0.15,0.15,0.1,0.15,0.1
+200,200,Rogašovci,,Rogašovci,0.15,0.15,0.1,0.15,0.1
+201,201,Rovte,064,Logatec,0.15,0.15,0.1,0.15,0.1
+202,202,Ruše,108,Ruše,0.15,0.15,0.1,0.15,0.1
+203,203,Selca,,Železniki,0.15,0.15,0.1,0.15,0.1
+204,204,Selnica ob Dravi,,Selnica Ob Dravi,0.15,0.15,0.1,0.15,0.1
+205,205,Semič,,Semič,0.15,0.15,0.1,0.15,0.1
+206,206,Senovo,054,Krško,0.15,0.15,0.1,0.15,0.1
+207,207,Senožeče,,Divača,0.15,0.15,0.1,0.15,0.1
+208,208,Sevnica,110,Sevnica,0.15,0.15,0.1,0.15,0.1
+209,209,Sečovlje,,Piran/pirano,0.15,0.15,0.1,0.15,0.1
+210,210,Sežana,111,Sežana,0.15,0.15,0.1,0.15,0.1
+211,211,Sladki Vrh,,Apače,0.15,0.15,0.1,0.15,0.1
+212,212,Slovenj Gradec,112,Slovenj Gradec,0.15,0.15,0.1,0.15,0.1
+213,213,Slovenska Bistrica,113,Slovenska Bistrica,0.15,0.15,0.1,0.15,0.1
+214,214,Slovenske Konjice,114,Slovenske Konjice,0.15,0.15,0.1,0.15,0.1
+215,215,Sodražica,,Sodražica,0.15,0.15,0.1,0.15,0.1
+216,216,Solkan,084,Nova Gorica,0.15,0.15,0.1,0.15,0.1
+217,217,Solčava,,Solčava,0.15,0.15,0.1,0.15,0.1
+218,218,Spodnja Idrija,036,Idrija,0.15,0.15,0.1,0.15,0.1
+219,219,Spodnji Duplek,,Duplek,0.15,0.15,0.1,0.15,0.1
+220,220,Središče ob Dravi,,Središče Ob Dravi,0.15,0.15,0.1,0.15,0.1
+221,221,Starše,,Starše,0.15,0.15,0.1,0.15,0.1
+222,222,Straža,,Straža,0.15,0.15,0.1,0.15,0.1
+223,223,Strunjan,,Piran/pirano,0.15,0.15,0.1,0.15,0.1
+224,224,Sv. Duh,122,Škofja Loka,0.15,0.15,0.1,0.15,0.1
+225,225,Sveti Tomaž,,Sveti Tomaž,0.15,0.15,0.1,0.15,0.1
+226,226,Tabor,,Tabor,0.15,0.15,0.1,0.15,0.1
+227,227,Tišina,,Tišina,0.15,0.15,0.1,0.15,0.1
+228,228,Tolmin,128,Tolmin,0.15,0.15,0.1,0.15,0.1
+229,229,Topolšica,,Šoštanj,0.15,0.15,0.1,0.15,0.1
+230,230,Trbovlje,129,Trbovlje,0.15,0.15,0.1,0.15,0.1
+231,231,Trebnje,130,Trebnje,0.15,0.15,0.1,0.15,0.1
+232,232,Trzin,,Trzin,0.15,0.15,0.1,0.15,0.1
+233,233,Tržič,,Tržič,0.15,0.15,0.1,0.15,0.1
+234,234,Turnišče,,Turnišče,0.15,0.15,0.1,0.15,0.1
+235,235,Velenje,133,Velenje,0.15,0.15,0.1,0.15,0.1
+236,236,Velika Polana,,Velika Polana,0.15,0.15,0.1,0.15,0.1
+237,237,Velike Lašče,,Velike Lašče,0.15,0.15,0.1,0.15,0.1
+238,238,Veržej,,Veržej,0.15,0.15,0.1,0.15,0.1
+239,239,Videm,,Dobrepolje,0.15,0.15,0.1,0.15,0.1
+240,240,Videm,,Dol Pri Ljubljani,0.15,0.15,0.1,0.15,0.1
+241,241,Videm pri Ptuju,,Videm,0.15,0.15,0.1,0.15,0.1
+242,242,Vipava,,Vipava,0.15,0.15,0.1,0.15,0.1
+243,243,Visoko,,Šenčur,0.15,0.15,0.1,0.15,0.1
+244,244,Vitanje,,Vitanje,0.15,0.15,0.1,0.15,0.1
+245,245,Vitomarci,,Sveti Andraž V Slovenskih Goricah,0.15,0.15,0.1,0.15,0.1
+246,246,Višnja Gora,,Ivančna Gorica,0.15,0.15,0.1,0.15,0.1
+247,247,Vodice,,Vodice,0.15,0.15,0.1,0.15,0.1
+248,248,Vojnik,,Vojnik,0.15,0.15,0.1,0.15,0.1
+249,249,Volčja Draga,,Renče-vogrsko,0.15,0.15,0.1,0.15,0.1
+250,250,Vransko,,Vransko,0.15,0.15,0.1,0.15,0.1
+251,251,Vrhnika,140,Vrhnika,0.15,0.15,0.1,0.15,0.1
+252,252,Vuhred,101,Radlje Ob Dravi,0.15,0.15,0.1,0.15,0.1
+253,253,Vuzenica,,Vuzenica,0.15,0.15,0.1,0.15,0.1
+254,254,Zagorje ob Savi,142,Zagorje Ob Savi,0.15,0.15,0.1,0.15,0.1
+255,255,Zavrč,,Zavrč,0.15,0.15,0.1,0.15,0.1
+256,256,Zgornja Besnica,052,Kranj,0.15,0.15,0.1,0.15,0.1
+257,257,Zgornja Kungota,,Kungota,0.15,0.15,0.1,0.15,0.1
+258,258,Zgornja Polskava,113,Slovenska Bistrica,0.15,0.15,0.1,0.15,0.1
+259,259,Zgornja Velka,,Šentilj,0.15,0.15,0.1,0.15,0.1
+260,260,Zgornje Gorje,,Gorje,0.15,0.15,0.1,0.15,0.1
+261,261,Zgornje Jezersko,,Jezersko,0.15,0.15,0.1,0.15,0.1
+262,262,Zreče,,Zreče,0.15,0.15,0.1,0.15,0.1
+263,263,Črenšovci,,Črenšovci,0.15,0.15,0.1,0.15,0.1
+264,264,Črna na Koroškem,,Črna Na Koroškem,0.15,0.15,0.1,0.15,0.1
+265,265,Črni Vrh,036,Idrija,0.15,0.15,0.1,0.15,0.1
+266,266,Črnomelj,,Črnomelj,0.15,0.15,0.1,0.15,0.1
+267,267,Šalovci,,Šalovci,0.15,0.15,0.1,0.15,0.1
+268,268,Šempas,084,Nova Gorica,0.15,0.15,0.1,0.15,0.1
+269,269,Šempeter pri Gorici,,Šempeter-vrtojba,0.15,0.15,0.1,0.15,0.1
+270,270,Šentjanž pri Dravogradu,025,Dravograd,0.15,0.15,0.1,0.15,0.1
+271,271,Šentjernej,,Šentjernej,0.15,0.15,0.1,0.15,0.1
+272,272,Šentjur,,Šentjur,0.15,0.15,0.1,0.15,0.1
+273,273,Šentrupert,,Šentrupert,0.15,0.15,0.1,0.15,0.1
+274,274,Šentvid pri Stični,,Ivančna Gorica,0.15,0.15,0.1,0.15,0.1
+275,275,Šenčur,,Šenčur,0.15,0.15,0.1,0.15,0.1
+276,276,Škocjan,,Koper/capodistria,0.15,0.15,0.1,0.15,0.1
+277,277,Škocjan,,Škocjan,0.15,0.15,0.1,0.15,0.1
+278,278,Škofja Loka,122,Škofja Loka,0.15,0.15,0.1,0.15,0.1
+279,279,Škofljica,,Škofljica,0.15,0.15,0.1,0.15,0.1
+280,280,Šmarje,,Koper/capodistria,0.15,0.15,0.1,0.15,0.1
+281,281,Šmarje pri Jelšah,124,Šmarje Pri Jelšah,0.15,0.15,0.1,0.15,0.1
+282,282,Šmarje-Sap,032,Grosuplje,0.15,0.15,0.1,0.15,0.1
+283,283,Šmarješke Toplice,,Šmarješke Toplice,0.15,0.15,0.1,0.15,0.1
+284,284,Šmartno ob Paki,,Šmartno Ob Paki,0.15,0.15,0.1,0.15,0.1
+285,285,Šmartno pri Litiji,,Šmartno Pri Litiji,0.15,0.15,0.1,0.15,0.1
+286,286,Šmartno pri Slovenj Gradcu,112,Slovenj Gradec,0.15,0.15,0.1,0.15,0.1
+287,287,Šoštanj,,Šoštanj,0.15,0.15,0.1,0.15,0.1
+288,288,Štore,,Štore,0.15,0.15,0.1,0.15,0.1
+289,289,Žalec,190,Žalec,0.15,0.15,0.1,0.15,0.1
+290,290,Železniki,,Železniki,0.15,0.15,0.1,0.15,0.1
+291,291,Žetale,,Žetale,0.15,0.15,0.1,0.15,0.1
+292,292,Žiri,,Žiri,0.15,0.15,0.1,0.15,0.1
+293,293,Žirovnica,,Žirovnica,0.15,0.15,0.1,0.15,0.1
+294,294,Žužemberk,,Žužemberk,0.15,0.15,0.1,0.15,0.1
