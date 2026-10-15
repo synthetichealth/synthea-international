@@ -1,0 +1,5 @@
+Payer Id,Plan Id,Name,Services Covered,Deductible,Default Coinsurance,Default Copay,Monthly Premium,Max Out of Pocket,Medicare Supplement,Is ACA Plan,Income Based Premium,Eligibility Policy,Start Year,End Year,Priority Level,Notes
+10000,10001,Public Health Insurance (age 75 and over),*,0,0.9,0,0,3600,false,false,false,Age75,0,,1,
+10000,10002,Public Health Insurance (age 70 to 74),*,0,0.8,0,0,3600,false,false,false,Age70,0,,2,
+10000,10003,Public Health Insurance (age 6 to 69),*,0,0.7,0,0,3600,false,false,false,Age6,0,,3,
+10000,10004,Public Health Insurance (under age 6),*,0,0.8,0,0,3600,false,false,false,Everyone,0,,4,

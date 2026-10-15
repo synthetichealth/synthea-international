@@ -24,6 +24,16 @@ cd ../synthea
 ./run_synthea -p 5 Somerset Bristol
 ```
 
+Japan is set up by region and city, for example:
+
+```
+cp -R jp/* ../synthea
+cd ../synthea
+./run_synthea -p 5 Kantō Tokyo
+```
+
+The Japan folder uses its own data sources. See [jp/README_jp.md](./jp/README_jp.md).
+
 # Data sources
 
 Providers - Extracted from OpenStreetMaps
