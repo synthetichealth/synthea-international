@@ -1,0 +1,5 @@
+Name,Poverty Multiplier,Income Threshold,Age Threshold,Qualifying Codes,Qualifying Attributes,Poverty Multiplier File,Spenddown File,Acceptance Likelihood,Sub-Eligibilities,Logical Operator,Notes
+Everyone,,,0,,,,,,,and,
+Age6,,,6,,,,,,,and,
+Age70,,,70,,,,,,,and,
+Age75,,,75,,,,,,,and,

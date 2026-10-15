@@ -9,3 +9,4 @@ src/main/resources/version.txt
 
 # VS Code launch settings
 .vscode
+scripts/jp/.cache/
